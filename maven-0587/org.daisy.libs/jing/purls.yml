@@ -1,0 +1,4 @@
+- pkg:maven/org.daisy.libs/jing@20091111.0.0
+- pkg:maven/org.daisy.libs/jing@20091111.0.0?classifier=sources
+- pkg:maven/org.daisy.libs/jing@20120724.0.0
+- pkg:maven/org.daisy.libs/jing@20120724.0.0?classifier=sources

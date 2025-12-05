@@ -1,0 +1,7 @@
+- pkg:maven/org.jdon/jdonframework@6.6.4
+- pkg:maven/org.jdon/jdonframework@6.6.4?classifier=sources
+- pkg:maven/org.jdon/jdonframework@6.6.6?classifier=sources
+- pkg:maven/org.jdon/jdonframework@6.6.8
+- pkg:maven/org.jdon/jdonframework@6.6.8?classifier=sources
+- pkg:maven/org.jdon/jdonframework@6.8
+- pkg:maven/org.jdon/jdonframework@6.8?classifier=sources

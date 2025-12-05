@@ -1,0 +1,6 @@
+- pkg:maven/org.spark-project/spark-repl_2.9.3@0.7.1
+- pkg:maven/org.spark-project/spark-repl_2.9.3@0.7.1?classifier=sources
+- pkg:maven/org.spark-project/spark-repl_2.9.3@0.7.2
+- pkg:maven/org.spark-project/spark-repl_2.9.3@0.7.2?classifier=sources
+- pkg:maven/org.spark-project/spark-repl_2.9.3@0.7.3
+- pkg:maven/org.spark-project/spark-repl_2.9.3@0.7.3?classifier=sources

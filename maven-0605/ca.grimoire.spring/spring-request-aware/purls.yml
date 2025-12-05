@@ -1,0 +1,2 @@
+- pkg:maven/ca.grimoire.spring/spring-request-aware@1.0
+- pkg:maven/ca.grimoire.spring/spring-request-aware@1.0?classifier=sources

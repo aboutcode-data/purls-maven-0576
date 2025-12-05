@@ -1,0 +1,4 @@
+- pkg:maven/com.sap.prd.mobile.ios.mios/xcode-project-java-api@1.0.2
+- pkg:maven/com.sap.prd.mobile.ios.mios/xcode-project-java-api@1.0.2?classifier=sources
+- pkg:maven/com.sap.prd.mobile.ios.mios/xcode-project-java-api@1.1.0
+- pkg:maven/com.sap.prd.mobile.ios.mios/xcode-project-java-api@1.1.0?classifier=sources

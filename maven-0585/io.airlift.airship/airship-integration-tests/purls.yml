@@ -1,0 +1,8 @@
+- pkg:maven/io.airlift.airship/airship-integration-tests@0.10
+- pkg:maven/io.airlift.airship/airship-integration-tests@0.11
+- pkg:maven/io.airlift.airship/airship-integration-tests@0.11?classifier=sources
+- pkg:maven/io.airlift.airship/airship-integration-tests@0.12
+- pkg:maven/io.airlift.airship/airship-integration-tests@0.12?classifier=sources
+- pkg:maven/io.airlift.airship/airship-integration-tests@0.13
+- pkg:maven/io.airlift.airship/airship-integration-tests@0.13?classifier=sources
+- pkg:maven/io.airlift.airship/airship-integration-tests@0.9

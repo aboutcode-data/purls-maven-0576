@@ -1,0 +1,2 @@
+- pkg:maven/net.stickycode.bootstrap/sticky-bootstrap-api@1.5
+- pkg:maven/net.stickycode.bootstrap/sticky-bootstrap-api@1.5?classifier=sources

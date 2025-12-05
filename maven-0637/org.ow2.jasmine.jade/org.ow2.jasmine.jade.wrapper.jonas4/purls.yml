@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.jasmine.jade/org.ow2.jasmine.jade.wrapper.jonas4@4.8
+- pkg:maven/org.ow2.jasmine.jade/org.ow2.jasmine.jade.wrapper.jonas4@4.8?classifier=sources

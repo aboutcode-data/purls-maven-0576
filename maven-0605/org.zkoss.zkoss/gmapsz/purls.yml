@@ -1,0 +1,2 @@
+- pkg:maven/org.zkoss.zkoss/gmapsz@2.0_7
+- pkg:maven/org.zkoss.zkoss/gmapsz@2.0_7?classifier=sources

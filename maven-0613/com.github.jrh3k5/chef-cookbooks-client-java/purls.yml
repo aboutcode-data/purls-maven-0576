@@ -1,0 +1,2 @@
+- pkg:maven/com.github.jrh3k5/chef-cookbooks-client-java@1.0
+- pkg:maven/com.github.jrh3k5/chef-cookbooks-client-java@1.0?classifier=sources

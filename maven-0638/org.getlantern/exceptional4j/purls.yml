@@ -1,0 +1,4 @@
+- pkg:maven/org.getlantern/exceptional4j@0.0.4
+- pkg:maven/org.getlantern/exceptional4j@0.0.4?classifier=sources
+- pkg:maven/org.getlantern/exceptional4j@0.1
+- pkg:maven/org.getlantern/exceptional4j@0.1?classifier=sources

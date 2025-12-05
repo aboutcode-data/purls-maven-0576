@@ -1,0 +1,2 @@
+- pkg:maven/eu.cdevreeze.yaidom/yaidom-xs_2.9.1@0.1
+- pkg:maven/eu.cdevreeze.yaidom/yaidom-xs_2.9.1@0.1?classifier=sources

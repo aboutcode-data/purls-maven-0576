@@ -1,0 +1,2 @@
+- pkg:maven/dk.navicon/vldocking@3.0.3
+- pkg:maven/dk.navicon/vldocking@3.0.3?classifier=sources

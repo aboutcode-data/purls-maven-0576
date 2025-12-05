@@ -1,0 +1,2 @@
+- pkg:maven/org.gebish/markdown2book@1.0
+- pkg:maven/org.gebish/markdown2book@1.0?classifier=sources

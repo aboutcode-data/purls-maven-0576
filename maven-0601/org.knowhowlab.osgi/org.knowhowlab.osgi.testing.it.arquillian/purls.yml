@@ -1,0 +1,5 @@
+- pkg:maven/org.knowhowlab.osgi/org.knowhowlab.osgi.testing.it.arquillian@1.0.1
+- pkg:maven/org.knowhowlab.osgi/org.knowhowlab.osgi.testing.it.arquillian@1.1.0
+- pkg:maven/org.knowhowlab.osgi/org.knowhowlab.osgi.testing.it.arquillian@1.2.0
+- pkg:maven/org.knowhowlab.osgi/org.knowhowlab.osgi.testing.it.arquillian@1.2.1
+- pkg:maven/org.knowhowlab.osgi/org.knowhowlab.osgi.testing.it.arquillian@1.2.2

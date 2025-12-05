@@ -1,0 +1,2 @@
+- pkg:maven/org.deephacks.streamql/streamql@0.5.8
+- pkg:maven/org.deephacks.streamql/streamql@0.5.8?classifier=sources

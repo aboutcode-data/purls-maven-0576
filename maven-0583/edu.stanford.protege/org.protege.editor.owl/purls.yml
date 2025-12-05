@@ -1,0 +1,4 @@
+- pkg:maven/edu.stanford.protege/org.protege.editor.owl@4.2.1
+- pkg:maven/edu.stanford.protege/org.protege.editor.owl@4.2.1?classifier=sources
+- pkg:maven/edu.stanford.protege/org.protege.editor.owl@4.3.0
+- pkg:maven/edu.stanford.protege/org.protege.editor.owl@4.3.0?classifier=sources

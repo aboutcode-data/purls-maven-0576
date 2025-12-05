@@ -1,0 +1,2 @@
+- pkg:maven/com.danhaywood.java/danhaywood-java-testsupport@1.0.0
+- pkg:maven/com.danhaywood.java/danhaywood-java-testsupport@1.0.0?classifier=sources

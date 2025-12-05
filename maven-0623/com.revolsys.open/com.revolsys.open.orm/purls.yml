@@ -1,0 +1,6 @@
+- pkg:maven/com.revolsys.open/com.revolsys.open.orm@2012.07.30.RELEASE
+- pkg:maven/com.revolsys.open/com.revolsys.open.orm@2012.07.30.RELEASE?classifier=sources
+- pkg:maven/com.revolsys.open/com.revolsys.open.orm@2012.07.31.RELEASE
+- pkg:maven/com.revolsys.open/com.revolsys.open.orm@2012.07.31.RELEASE?classifier=sources
+- pkg:maven/com.revolsys.open/com.revolsys.open.orm@2012.11.01.RELEASE
+- pkg:maven/com.revolsys.open/com.revolsys.open.orm@2012.11.01.RELEASE?classifier=sources

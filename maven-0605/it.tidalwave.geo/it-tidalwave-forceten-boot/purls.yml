@@ -1,0 +1,2 @@
+- pkg:maven/it.tidalwave.geo/it-tidalwave-forceten-boot@1.0-ALPHA-1
+- pkg:maven/it.tidalwave.geo/it-tidalwave-forceten-boot@1.0-ALPHA-1?classifier=sources

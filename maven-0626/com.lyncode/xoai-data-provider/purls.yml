@@ -1,0 +1,2 @@
+- pkg:maven/com.lyncode/xoai-data-provider@4.0.0
+- pkg:maven/com.lyncode/xoai-data-provider@4.0.0?classifier=sources

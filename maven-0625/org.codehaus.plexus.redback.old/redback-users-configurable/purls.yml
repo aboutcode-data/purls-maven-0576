@@ -1,0 +1,4 @@
+- pkg:maven/org.codehaus.plexus.redback.old/redback-users-configurable@1.0-alpha-3
+- pkg:maven/org.codehaus.plexus.redback.old/redback-users-configurable@1.0-alpha-3?classifier=sources
+- pkg:maven/org.codehaus.plexus.redback.old/redback-users-configurable@1.0-alpha-4
+- pkg:maven/org.codehaus.plexus.redback.old/redback-users-configurable@1.0-alpha-4?classifier=sources

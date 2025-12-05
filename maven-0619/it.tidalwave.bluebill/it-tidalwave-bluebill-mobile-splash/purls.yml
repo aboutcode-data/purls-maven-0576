@@ -1,0 +1,6 @@
+- pkg:maven/it.tidalwave.bluebill/it-tidalwave-bluebill-mobile-splash@1.0.16
+- pkg:maven/it.tidalwave.bluebill/it-tidalwave-bluebill-mobile-splash@1.0.16?classifier=sources
+- pkg:maven/it.tidalwave.bluebill/it-tidalwave-bluebill-mobile-splash@1.0.17
+- pkg:maven/it.tidalwave.bluebill/it-tidalwave-bluebill-mobile-splash@1.0.17?classifier=sources
+- pkg:maven/it.tidalwave.bluebill/it-tidalwave-bluebill-mobile-splash@1.0.18
+- pkg:maven/it.tidalwave.bluebill/it-tidalwave-bluebill-mobile-splash@1.0.18?classifier=sources

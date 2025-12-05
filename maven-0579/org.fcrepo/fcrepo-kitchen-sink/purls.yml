@@ -1,0 +1,2 @@
+- pkg:maven/org.fcrepo/fcrepo-kitchen-sink@4.0.0-alpha-1?classifier=sources
+- pkg:maven/org.fcrepo/fcrepo-kitchen-sink@4.0.0-alpha-1?type=war

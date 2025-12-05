@@ -1,0 +1,2 @@
+- pkg:maven/com.catify.bpmn/data-spi-jpa@1.1
+- pkg:maven/com.catify.bpmn/data-spi-jpa@1.1?classifier=sources

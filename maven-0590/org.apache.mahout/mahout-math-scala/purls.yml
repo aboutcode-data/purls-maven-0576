@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.mahout/mahout-math-scala@0.9
+- pkg:maven/org.apache.mahout/mahout-math-scala@0.9?classifier=sources

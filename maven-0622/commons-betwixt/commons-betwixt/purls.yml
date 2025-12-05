@@ -1,0 +1,13 @@
+- pkg:maven/commons-betwixt/commons-betwixt@0.5
+- pkg:maven/commons-betwixt/commons-betwixt@0.6
+- pkg:maven/commons-betwixt/commons-betwixt@0.6?classifier=sources
+- pkg:maven/commons-betwixt/commons-betwixt@0.7
+- pkg:maven/commons-betwixt/commons-betwixt@0.7?classifier=sources
+- pkg:maven/commons-betwixt/commons-betwixt@0.8
+- pkg:maven/commons-betwixt/commons-betwixt@1.0-alpha-1
+- pkg:maven/commons-betwixt/commons-betwixt@1.0-beta-1
+- pkg:maven/commons-betwixt/commons-betwixt@1.0-beta-1.20020910.124754
+- pkg:maven/commons-betwixt/commons-betwixt@1.0-beta-1.20020912.014405
+- pkg:maven/commons-betwixt/commons-betwixt@1.0-beta-1.20020920.020057
+- pkg:maven/commons-betwixt/commons-betwixt@1.0-beta-1.20030111.103454
+- pkg:maven/commons-betwixt/commons-betwixt@20030211.133854

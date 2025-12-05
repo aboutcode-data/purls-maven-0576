@@ -1,0 +1,12 @@
+- pkg:maven/org.jboss.javaee/jboss-jacc-api@1.1.0.20070913080910
+- pkg:maven/org.jboss.javaee/jboss-jacc-api@1.1.0.20070913080910?classifier=sources
+- pkg:maven/org.jboss.javaee/jboss-jacc-api@1.1.0.Beta3Update1
+- pkg:maven/org.jboss.javaee/jboss-jacc-api@1.1.0.Beta3Update1?classifier=sources
+- pkg:maven/org.jboss.javaee/jboss-jacc-api@1.1.0.CR1
+- pkg:maven/org.jboss.javaee/jboss-jacc-api@1.1.0.CR1?classifier=sources
+- pkg:maven/org.jboss.javaee/jboss-jacc-api@1.1.0.CR2
+- pkg:maven/org.jboss.javaee/jboss-jacc-api@1.1.0.CR2?classifier=sources
+- pkg:maven/org.jboss.javaee/jboss-jacc-api@1.1.0.GA
+- pkg:maven/org.jboss.javaee/jboss-jacc-api@1.1.0.GA?classifier=sources
+- pkg:maven/org.jboss.javaee/jboss-jacc-api@1.1.0.GA_SP1
+- pkg:maven/org.jboss.javaee/jboss-jacc-api@1.1.0.GA_SP1?classifier=sources

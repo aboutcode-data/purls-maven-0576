@@ -1,0 +1,13 @@
+- pkg:maven/org.icefaces/icefaces@1.8.1
+- pkg:maven/org.icefaces/icefaces@1.8.2
+- pkg:maven/org.icefaces/icefaces@2.0.0
+- pkg:maven/org.icefaces/icefaces@2.0.1
+- pkg:maven/org.icefaces/icefaces@2.0.2
+- pkg:maven/org.icefaces/icefaces@3.0.0
+- pkg:maven/org.icefaces/icefaces@3.0.1
+- pkg:maven/org.icefaces/icefaces@3.1.0
+- pkg:maven/org.icefaces/icefaces@3.1.0?classifier=sources
+- pkg:maven/org.icefaces/icefaces@3.2.0
+- pkg:maven/org.icefaces/icefaces@3.2.0?classifier=sources
+- pkg:maven/org.icefaces/icefaces@3.3.0
+- pkg:maven/org.icefaces/icefaces@3.3.0?classifier=sources

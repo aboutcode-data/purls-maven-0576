@@ -1,0 +1,8 @@
+- pkg:maven/net.stickycode.scheduled/sticky-scheduled@1.11
+- pkg:maven/net.stickycode.scheduled/sticky-scheduled@1.11?classifier=sources
+- pkg:maven/net.stickycode.scheduled/sticky-scheduled@1.12
+- pkg:maven/net.stickycode.scheduled/sticky-scheduled@1.12?classifier=sources
+- pkg:maven/net.stickycode.scheduled/sticky-scheduled@1.9
+- pkg:maven/net.stickycode.scheduled/sticky-scheduled@1.9?classifier=sources
+- pkg:maven/net.stickycode.scheduled/sticky-scheduled@2.3
+- pkg:maven/net.stickycode.scheduled/sticky-scheduled@2.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.jnr/jnr-udis86@0.1
+- pkg:maven/com.github.jnr/jnr-udis86@0.1?classifier=sources

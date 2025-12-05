@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.geronimo.samples.javaee5/chat-war@3.0.0?classifier=sources
+- pkg:maven/org.apache.geronimo.samples.javaee5/chat-war@3.0.0?type=war

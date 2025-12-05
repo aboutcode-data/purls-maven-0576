@@ -1,0 +1,10 @@
+- pkg:maven/nz.net.osnz.common/template-scraper@1.1
+- pkg:maven/nz.net.osnz.common/template-scraper@1.1?classifier=sources
+- pkg:maven/nz.net.osnz.common/template-scraper@2.1
+- pkg:maven/nz.net.osnz.common/template-scraper@2.1?classifier=sources
+- pkg:maven/nz.net.osnz.common/template-scraper@3.1
+- pkg:maven/nz.net.osnz.common/template-scraper@3.1?classifier=sources
+- pkg:maven/nz.net.osnz.common/template-scraper@3.2
+- pkg:maven/nz.net.osnz.common/template-scraper@3.2?classifier=sources
+- pkg:maven/nz.net.osnz.common/template-scraper@3.3
+- pkg:maven/nz.net.osnz.common/template-scraper@3.3?classifier=sources

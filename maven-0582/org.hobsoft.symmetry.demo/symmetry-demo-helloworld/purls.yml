@@ -1,0 +1,4 @@
+- pkg:maven/org.hobsoft.symmetry.demo/symmetry-demo-helloworld@0.1.1?classifier=sources
+- pkg:maven/org.hobsoft.symmetry.demo/symmetry-demo-helloworld@0.1.1?type=war
+- pkg:maven/org.hobsoft.symmetry.demo/symmetry-demo-helloworld@0.2.0?classifier=sources
+- pkg:maven/org.hobsoft.symmetry.demo/symmetry-demo-helloworld@0.2.0?type=war

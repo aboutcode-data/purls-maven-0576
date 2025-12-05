@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.arquillian.spock/arquillian-spock-examples@1.0.0.Alpha2
+- pkg:maven/org.jboss.arquillian.spock/arquillian-spock-examples@1.0.0.Alpha2?classifier=sources

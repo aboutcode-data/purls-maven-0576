@@ -1,0 +1,5 @@
+- pkg:maven/org.apache.portals.jetspeed-2/jetspeed-2@2.1.4?classifier=source-release&type=zip
+- pkg:maven/org.apache.portals.jetspeed-2/jetspeed-2@2.2.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.portals.jetspeed-2/jetspeed-2@2.2.0?classifier=src&type=zip
+- pkg:maven/org.apache.portals.jetspeed-2/jetspeed-2@2.2.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.portals.jetspeed-2/jetspeed-2@2.2.2?classifier=source-release&type=zip

@@ -1,0 +1,2 @@
+- pkg:maven/com.netflix.rxjava/language-adaptors@0.14.6
+- pkg:maven/com.netflix.rxjava/language-adaptors@0.14.6?classifier=sources

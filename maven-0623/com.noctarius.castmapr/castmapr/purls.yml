@@ -1,0 +1,2 @@
+- pkg:maven/com.noctarius.castmapr/castmapr@1.0.0
+- pkg:maven/com.noctarius.castmapr/castmapr@1.0.0?classifier=sources

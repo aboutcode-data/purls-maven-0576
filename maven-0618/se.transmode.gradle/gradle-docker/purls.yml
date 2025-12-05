@@ -1,0 +1,4 @@
+- pkg:maven/se.transmode.gradle/gradle-docker@1.0
+- pkg:maven/se.transmode.gradle/gradle-docker@1.0?classifier=sources
+- pkg:maven/se.transmode.gradle/gradle-docker@1.1
+- pkg:maven/se.transmode.gradle/gradle-docker@1.1?classifier=sources

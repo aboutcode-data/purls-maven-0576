@@ -1,0 +1,7 @@
+- pkg:maven/org.trailsframework/trails-secure-archetype@1.0
+- pkg:maven/org.trailsframework/trails-secure-archetype@1.0?classifier=sources
+- pkg:maven/org.trailsframework/trails-secure-archetype@1.1
+- pkg:maven/org.trailsframework/trails-secure-archetype@1.1.1
+- pkg:maven/org.trailsframework/trails-secure-archetype@1.1?classifier=sources
+- pkg:maven/org.trailsframework/trails-secure-archetype@1.2
+- pkg:maven/org.trailsframework/trails-secure-archetype@1.2.1

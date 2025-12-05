@@ -1,0 +1,2 @@
+- pkg:maven/org.gaelyk/gaelyk-guice-plugin@0.1
+- pkg:maven/org.gaelyk/gaelyk-guice-plugin@0.1?classifier=sources

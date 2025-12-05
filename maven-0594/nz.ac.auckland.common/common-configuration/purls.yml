@@ -1,0 +1,12 @@
+- pkg:maven/nz.ac.auckland.common/common-configuration@2.6
+- pkg:maven/nz.ac.auckland.common/common-configuration@2.6?classifier=sources
+- pkg:maven/nz.ac.auckland.common/common-configuration@3.1
+- pkg:maven/nz.ac.auckland.common/common-configuration@3.1?classifier=sources
+- pkg:maven/nz.ac.auckland.common/common-configuration@3.2
+- pkg:maven/nz.ac.auckland.common/common-configuration@3.2?classifier=sources
+- pkg:maven/nz.ac.auckland.common/common-configuration@3.3
+- pkg:maven/nz.ac.auckland.common/common-configuration@3.3?classifier=sources
+- pkg:maven/nz.ac.auckland.common/common-configuration@3.4
+- pkg:maven/nz.ac.auckland.common/common-configuration@3.4?classifier=sources
+- pkg:maven/nz.ac.auckland.common/common-configuration@3.5
+- pkg:maven/nz.ac.auckland.common/common-configuration@3.5?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.netbout.helpers/helper-shary@0.1
+- pkg:maven/com.netbout.helpers/helper-shary@0.1?classifier=sources

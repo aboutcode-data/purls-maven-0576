@@ -1,0 +1,2 @@
+- pkg:maven/org.hisrc.hifaces20/hifaces20-ri@0.1.0
+- pkg:maven/org.hisrc.hifaces20/hifaces20-ri@0.1.0?classifier=sources

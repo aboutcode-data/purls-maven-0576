@@ -1,0 +1,2 @@
+- pkg:maven/org.curjent/curjent@1.5
+- pkg:maven/org.curjent/curjent@1.5?classifier=sources

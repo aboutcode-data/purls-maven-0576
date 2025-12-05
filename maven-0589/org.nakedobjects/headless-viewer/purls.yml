@@ -1,0 +1,2 @@
+- pkg:maven/org.nakedobjects/headless-viewer@4.0-alpha-3
+- pkg:maven/org.nakedobjects/headless-viewer@4.0-alpha-3?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.ow2.novabpm/novaBpmUtil@1.0
+- pkg:maven/org.ow2.novabpm/novaBpmUtil@1.0.1
+- pkg:maven/org.ow2.novabpm/novaBpmUtil@1.0.1?classifier=sources
+- pkg:maven/org.ow2.novabpm/novaBpmUtil@r996

@@ -1,0 +1,4 @@
+- pkg:maven/org.improving/scala-improving_2.10@0.11.1
+- pkg:maven/org.improving/scala-improving_2.10@0.11.1?classifier=sources
+- pkg:maven/org.improving/scala-improving_2.10@0.11.2m2
+- pkg:maven/org.improving/scala-improving_2.10@0.11.2m2?classifier=sources

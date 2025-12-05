@@ -1,0 +1,2 @@
+- pkg:maven/org.needle4j/needle4j@2.3
+- pkg:maven/org.needle4j/needle4j@2.3?classifier=sources

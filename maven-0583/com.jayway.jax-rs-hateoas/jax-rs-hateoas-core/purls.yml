@@ -1,0 +1,8 @@
+- pkg:maven/com.jayway.jax-rs-hateoas/jax-rs-hateoas-core@0.4.2
+- pkg:maven/com.jayway.jax-rs-hateoas/jax-rs-hateoas-core@0.4.2?classifier=sources
+- pkg:maven/com.jayway.jax-rs-hateoas/jax-rs-hateoas-core@0.4.3
+- pkg:maven/com.jayway.jax-rs-hateoas/jax-rs-hateoas-core@0.4.3?classifier=sources
+- pkg:maven/com.jayway.jax-rs-hateoas/jax-rs-hateoas-core@0.4.4
+- pkg:maven/com.jayway.jax-rs-hateoas/jax-rs-hateoas-core@0.4.4?classifier=sources
+- pkg:maven/com.jayway.jax-rs-hateoas/jax-rs-hateoas-core@0.4.5
+- pkg:maven/com.jayway.jax-rs-hateoas/jax-rs-hateoas-core@0.4.5?classifier=sources

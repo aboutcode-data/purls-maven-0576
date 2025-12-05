@@ -1,0 +1,4 @@
+- pkg:maven/org.ow2.jonas/jonas-web-container-jetty-8.0@5.3.0-M2
+- pkg:maven/org.ow2.jonas/jonas-web-container-jetty-8.0@5.3.0-M2?classifier=sources
+- pkg:maven/org.ow2.jonas/jonas-web-container-jetty-8.0@5.3.0-M3
+- pkg:maven/org.ow2.jonas/jonas-web-container-jetty-8.0@5.3.0-M3?classifier=sources

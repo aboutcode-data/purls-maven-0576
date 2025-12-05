@@ -1,0 +1,4 @@
+- pkg:maven/org.kohsuke.loopy/loopy@0.4
+- pkg:maven/org.kohsuke.loopy/loopy@0.4?classifier=sources
+- pkg:maven/org.kohsuke.loopy/loopy@0.5
+- pkg:maven/org.kohsuke.loopy/loopy@0.5?classifier=sources

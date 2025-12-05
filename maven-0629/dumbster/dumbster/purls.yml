@@ -1,0 +1,5 @@
+- pkg:maven/dumbster/dumbster@1.0.3
+- pkg:maven/dumbster/dumbster@1.3?classifier=sources
+- pkg:maven/dumbster/dumbster@1.5
+- pkg:maven/dumbster/dumbster@1.6
+- pkg:maven/dumbster/dumbster@1.6?classifier=sources

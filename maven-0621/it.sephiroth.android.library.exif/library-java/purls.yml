@@ -1,0 +1,4 @@
+- pkg:maven/it.sephiroth.android.library.exif/library-java@2.97.1?type=aar
+- pkg:maven/it.sephiroth.android.library.exif/library-java@2.97.3?type=aar
+- pkg:maven/it.sephiroth.android.library.exif/library-java@2.97.4?type=aar
+- pkg:maven/it.sephiroth.android.library.exif/library-java@2.97?type=aar

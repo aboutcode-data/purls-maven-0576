@@ -1,0 +1,2 @@
+- pkg:maven/com.roguedevs/node4ant@0.1
+- pkg:maven/com.roguedevs/node4ant@0.1?classifier=sources

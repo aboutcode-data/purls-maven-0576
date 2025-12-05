@@ -1,0 +1,4 @@
+- pkg:maven/pro.redsoft.iframework/tabbed-presenter@0.3?classifier=sources
+- pkg:maven/pro.redsoft.iframework/tabbed-presenter@0.3?type=war
+- pkg:maven/pro.redsoft.iframework/tabbed-presenter@0.4.0?classifier=sources
+- pkg:maven/pro.redsoft.iframework/tabbed-presenter@0.4.0?type=war

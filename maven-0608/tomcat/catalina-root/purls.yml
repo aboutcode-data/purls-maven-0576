@@ -1,0 +1,4 @@
+- pkg:maven/tomcat/catalina-root@5.0.16
+- pkg:maven/tomcat/catalina-root@5.0.18
+- pkg:maven/tomcat/catalina-root@5.0.28
+- pkg:maven/tomcat/catalina-root@5.5.12

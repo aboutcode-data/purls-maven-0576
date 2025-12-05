@@ -1,0 +1,2 @@
+- pkg:maven/com.prolificinteractive/parallaxpager@0.7?classifier=sources
+- pkg:maven/com.prolificinteractive/parallaxpager@0.7?type=aar

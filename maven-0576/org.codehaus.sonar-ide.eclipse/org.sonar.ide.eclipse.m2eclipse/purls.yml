@@ -1,0 +1,1 @@
+- pkg:maven/org.codehaus.sonar-ide.eclipse/org.sonar.ide.eclipse.m2eclipse@0.1.0?classifier=sources

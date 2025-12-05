@@ -1,0 +1,6 @@
+- pkg:maven/org.codehaus.enunciate/enunciate-test-integration@1.7
+- pkg:maven/org.codehaus.enunciate/enunciate-test-integration@1.7-RC1
+- pkg:maven/org.codehaus.enunciate/enunciate-test-integration@1.7-RC1?classifier=sources
+- pkg:maven/org.codehaus.enunciate/enunciate-test-integration@1.7-RC2
+- pkg:maven/org.codehaus.enunciate/enunciate-test-integration@1.7-RC2?classifier=sources
+- pkg:maven/org.codehaus.enunciate/enunciate-test-integration@1.7?classifier=sources

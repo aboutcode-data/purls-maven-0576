@@ -1,0 +1,6 @@
+- pkg:maven/org.extremecomponents/extremecomponents@1.0.1
+- pkg:maven/org.extremecomponents/extremecomponents@1.0.1-M3
+- pkg:maven/org.extremecomponents/extremecomponents@1.0.1-M3?classifier=sources
+- pkg:maven/org.extremecomponents/extremecomponents@1.0.1-M4
+- pkg:maven/org.extremecomponents/extremecomponents@1.0.1-M4?classifier=sources
+- pkg:maven/org.extremecomponents/extremecomponents@1.0.1?classifier=sources

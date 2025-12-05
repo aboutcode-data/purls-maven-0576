@@ -1,0 +1,6 @@
+- pkg:maven/com.linkedin.bobo/bobo-solr@3.0.9
+- pkg:maven/com.linkedin.bobo/bobo-solr@3.0.9?classifier=sources
+- pkg:maven/com.linkedin.bobo/bobo-solr@3.1.1
+- pkg:maven/com.linkedin.bobo/bobo-solr@3.1.1?classifier=sources
+- pkg:maven/com.linkedin.bobo/bobo-solr@3.1.2
+- pkg:maven/com.linkedin.bobo/bobo-solr@3.1.2?classifier=sources

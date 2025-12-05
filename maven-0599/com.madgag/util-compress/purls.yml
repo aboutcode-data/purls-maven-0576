@@ -1,0 +1,12 @@
+- pkg:maven/com.madgag/util-compress@1.24
+- pkg:maven/com.madgag/util-compress@1.24?classifier=sources
+- pkg:maven/com.madgag/util-compress@1.25
+- pkg:maven/com.madgag/util-compress@1.25?classifier=sources
+- pkg:maven/com.madgag/util-compress@1.26
+- pkg:maven/com.madgag/util-compress@1.26?classifier=sources
+- pkg:maven/com.madgag/util-compress@1.27
+- pkg:maven/com.madgag/util-compress@1.27?classifier=sources
+- pkg:maven/com.madgag/util-compress@1.28
+- pkg:maven/com.madgag/util-compress@1.28?classifier=sources
+- pkg:maven/com.madgag/util-compress@1.33
+- pkg:maven/com.madgag/util-compress@1.33?classifier=sources

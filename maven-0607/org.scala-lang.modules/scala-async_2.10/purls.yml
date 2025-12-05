@@ -1,0 +1,14 @@
+- pkg:maven/org.scala-lang.modules/scala-async_2.10@0.9.0
+- pkg:maven/org.scala-lang.modules/scala-async_2.10@0.9.0-M2
+- pkg:maven/org.scala-lang.modules/scala-async_2.10@0.9.0-M2?classifier=sources
+- pkg:maven/org.scala-lang.modules/scala-async_2.10@0.9.0-M3
+- pkg:maven/org.scala-lang.modules/scala-async_2.10@0.9.0-M3?classifier=sources
+- pkg:maven/org.scala-lang.modules/scala-async_2.10@0.9.0-M4
+- pkg:maven/org.scala-lang.modules/scala-async_2.10@0.9.0-M4?classifier=sources
+- pkg:maven/org.scala-lang.modules/scala-async_2.10@0.9.0-M5
+- pkg:maven/org.scala-lang.modules/scala-async_2.10@0.9.0-M5?classifier=sources
+- pkg:maven/org.scala-lang.modules/scala-async_2.10@0.9.0-M6
+- pkg:maven/org.scala-lang.modules/scala-async_2.10@0.9.0-M6?classifier=sources
+- pkg:maven/org.scala-lang.modules/scala-async_2.10@0.9.0?classifier=sources
+- pkg:maven/org.scala-lang.modules/scala-async_2.10@0.9.1
+- pkg:maven/org.scala-lang.modules/scala-async_2.10@0.9.1?classifier=sources

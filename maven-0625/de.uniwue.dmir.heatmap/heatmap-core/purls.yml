@@ -1,0 +1,2 @@
+- pkg:maven/de.uniwue.dmir.heatmap/heatmap-core@0.1.2
+- pkg:maven/de.uniwue.dmir.heatmap/heatmap-core@0.1.2?classifier=sources

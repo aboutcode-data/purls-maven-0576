@@ -1,0 +1,6 @@
+- pkg:maven/genjava/gj-scrape@1.0
+- pkg:maven/genjava/gj-scrape@1.0?classifier=sources
+- pkg:maven/genjava/gj-scrape@2.0
+- pkg:maven/genjava/gj-scrape@2.0.1
+- pkg:maven/genjava/gj-scrape@2.0.1?classifier=sources
+- pkg:maven/genjava/gj-scrape@2.0?classifier=sources

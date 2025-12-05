@@ -1,0 +1,2 @@
+- pkg:maven/com.assembla.scala-incubator/graph-constrained_2.9.1@1.4
+- pkg:maven/com.assembla.scala-incubator/graph-constrained_2.9.1@1.4?classifier=sources

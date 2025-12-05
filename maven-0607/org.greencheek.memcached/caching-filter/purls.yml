@@ -1,0 +1,2 @@
+- pkg:maven/org.greencheek.memcached/caching-filter@0.0.3
+- pkg:maven/org.greencheek.memcached/caching-filter@0.0.3?classifier=sources

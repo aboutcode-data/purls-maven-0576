@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.geronimo.plugins/selenium-maven-plugin@1.2-beta
+- pkg:maven/org.apache.geronimo.plugins/selenium-maven-plugin@1.2-beta?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.gitorious.jcryptionspring/jcryption-spring@0.1.0.BUILD
+- pkg:maven/org.gitorious.jcryptionspring/jcryption-spring@0.1.0.BUILD?classifier=sources
+- pkg:maven/org.gitorious.jcryptionspring/jcryption-spring@0.1.2
+- pkg:maven/org.gitorious.jcryptionspring/jcryption-spring@0.1.2?classifier=sources

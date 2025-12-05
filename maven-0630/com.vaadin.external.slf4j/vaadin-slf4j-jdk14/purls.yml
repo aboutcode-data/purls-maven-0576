@@ -1,0 +1,2 @@
+- pkg:maven/com.vaadin.external.slf4j/vaadin-slf4j-jdk14@1.6.1
+- pkg:maven/com.vaadin.external.slf4j/vaadin-slf4j-jdk14@1.6.1?classifier=sources

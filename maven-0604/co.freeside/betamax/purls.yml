@@ -1,0 +1,6 @@
+- pkg:maven/co.freeside/betamax@1.1
+- pkg:maven/co.freeside/betamax@1.1.1
+- pkg:maven/co.freeside/betamax@1.1.1?classifier=sources
+- pkg:maven/co.freeside/betamax@1.1.2
+- pkg:maven/co.freeside/betamax@1.1.2?classifier=sources
+- pkg:maven/co.freeside/betamax@1.1?classifier=sources

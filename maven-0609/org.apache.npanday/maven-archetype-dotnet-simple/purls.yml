@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.npanday/maven-archetype-dotnet-simple@1.4.0-incubating
+- pkg:maven/org.apache.npanday/maven-archetype-dotnet-simple@1.4.0-incubating?classifier=sources

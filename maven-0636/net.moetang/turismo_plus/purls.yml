@@ -1,0 +1,8 @@
+- pkg:maven/net.moetang/turismo_plus@0.0.2-r
+- pkg:maven/net.moetang/turismo_plus@0.0.2-r?classifier=sources
+- pkg:maven/net.moetang/turismo_plus@0.0.3-r
+- pkg:maven/net.moetang/turismo_plus@0.0.3-r?classifier=sources
+- pkg:maven/net.moetang/turismo_plus@0.0.4-r
+- pkg:maven/net.moetang/turismo_plus@0.0.4-r?classifier=sources
+- pkg:maven/net.moetang/turismo_plus@0.0.5-r
+- pkg:maven/net.moetang/turismo_plus@0.0.5-r?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/cc.concurrent/kid@0.2
+- pkg:maven/cc.concurrent/kid@0.2?classifier=sources
+- pkg:maven/cc.concurrent/kid@1.0
+- pkg:maven/cc.concurrent/kid@1.0?classifier=sources

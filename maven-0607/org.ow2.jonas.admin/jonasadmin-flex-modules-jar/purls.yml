@@ -1,0 +1,4 @@
+- pkg:maven/org.ow2.jonas.admin/jonasadmin-flex-modules-jar@0.0.1
+- pkg:maven/org.ow2.jonas.admin/jonasadmin-flex-modules-jar@0.0.2
+- pkg:maven/org.ow2.jonas.admin/jonasadmin-flex-modules-jar@0.0.3
+- pkg:maven/org.ow2.jonas.admin/jonasadmin-flex-modules-jar@0.0.4

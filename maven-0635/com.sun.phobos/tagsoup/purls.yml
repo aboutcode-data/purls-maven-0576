@@ -1,0 +1,2 @@
+- pkg:maven/com.sun.phobos/tagsoup@1.2
+- pkg:maven/com.sun.phobos/tagsoup@1.2?classifier=sources

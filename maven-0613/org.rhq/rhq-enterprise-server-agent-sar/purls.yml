@@ -1,0 +1,8 @@
+- pkg:maven/org.rhq/rhq-enterprise-server-agent-sar@1.4.0.B01?classifier=sources
+- pkg:maven/org.rhq/rhq-enterprise-server-agent-sar@3.0.0.EmbJopr4?classifier=sources
+- pkg:maven/org.rhq/rhq-enterprise-server-agent-sar@3.0.0.EmbJopr5?classifier=sources
+- pkg:maven/org.rhq/rhq-enterprise-server-agent-sar@4.0.1?classifier=sources
+- pkg:maven/org.rhq/rhq-enterprise-server-agent-sar@4.2.0?classifier=sources
+- pkg:maven/org.rhq/rhq-enterprise-server-agent-sar@4.3.0?classifier=sources
+- pkg:maven/org.rhq/rhq-enterprise-server-agent-sar@4.4.0?classifier=sources
+- pkg:maven/org.rhq/rhq-enterprise-server-agent-sar@4.5.1?classifier=sources

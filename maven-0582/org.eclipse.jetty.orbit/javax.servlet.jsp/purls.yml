@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.jetty.orbit/javax.servlet.jsp@2.1.0.v201105211820?classifier=sources
+- pkg:maven/org.eclipse.jetty.orbit/javax.servlet.jsp@2.2.0.v201112011158?classifier=sources

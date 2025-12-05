@@ -1,0 +1,2 @@
+- pkg:maven/org.andromda.thirdparty.jaxb2_commons/jaxb2_commons-ant@0.4.1.5
+- pkg:maven/org.andromda.thirdparty.jaxb2_commons/jaxb2_commons-ant@0.4.1.5?classifier=sources

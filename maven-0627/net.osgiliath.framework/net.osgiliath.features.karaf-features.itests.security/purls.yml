@@ -1,0 +1,2 @@
+- pkg:maven/net.osgiliath.framework/net.osgiliath.features.karaf-features.itests.security@0.0.4
+- pkg:maven/net.osgiliath.framework/net.osgiliath.features.karaf-features.itests.security@0.0.4?classifier=sources

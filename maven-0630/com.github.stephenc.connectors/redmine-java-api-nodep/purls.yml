@@ -1,0 +1,4 @@
+- pkg:maven/com.github.stephenc.connectors/redmine-java-api-nodep@1.14.0
+- pkg:maven/com.github.stephenc.connectors/redmine-java-api-nodep@1.14.0?classifier=sources
+- pkg:maven/com.github.stephenc.connectors/redmine-java-api-nodep@1.15.0
+- pkg:maven/com.github.stephenc.connectors/redmine-java-api-nodep@1.15.0?classifier=sources

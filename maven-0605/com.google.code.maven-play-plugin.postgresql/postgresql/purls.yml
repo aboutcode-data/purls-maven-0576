@@ -1,0 +1,2 @@
+- pkg:maven/com.google.code.maven-play-plugin.postgresql/postgresql@9.0-801.jdbc4-patched-play-1.2.3
+- pkg:maven/com.google.code.maven-play-plugin.postgresql/postgresql@9.0-801.jdbc4-patched-play-1.2.3?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/de.flapdoodle.wicket/de.flapdoodle.wicket--models@1.5.0
+- pkg:maven/de.flapdoodle.wicket/de.flapdoodle.wicket--models@1.5.0?classifier=sources
+- pkg:maven/de.flapdoodle.wicket/de.flapdoodle.wicket--models@1.5.10
+- pkg:maven/de.flapdoodle.wicket/de.flapdoodle.wicket--models@1.5.10?classifier=sources

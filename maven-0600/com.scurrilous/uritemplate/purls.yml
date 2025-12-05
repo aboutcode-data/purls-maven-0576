@@ -1,0 +1,2 @@
+- pkg:maven/com.scurrilous/uritemplate@1.0
+- pkg:maven/com.scurrilous/uritemplate@1.0?classifier=sources

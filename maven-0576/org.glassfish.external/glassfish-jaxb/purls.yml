@@ -1,0 +1,2 @@
+- pkg:maven/org.glassfish.external/glassfish-jaxb@10.0-b28
+- pkg:maven/org.glassfish.external/glassfish-jaxb@10.0-b28?classifier=sources

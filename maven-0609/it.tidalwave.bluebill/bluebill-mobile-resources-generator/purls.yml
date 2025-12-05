@@ -1,0 +1,4 @@
+- pkg:maven/it.tidalwave.bluebill/bluebill-mobile-resources-generator@1.0.0
+- pkg:maven/it.tidalwave.bluebill/bluebill-mobile-resources-generator@1.0.0?classifier=sources
+- pkg:maven/it.tidalwave.bluebill/bluebill-mobile-resources-generator@1.1.0
+- pkg:maven/it.tidalwave.bluebill/bluebill-mobile-resources-generator@1.1.0?classifier=sources

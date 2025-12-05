@@ -1,0 +1,2 @@
+- pkg:maven/org.openengsb.labs.jpatest/labs-jpatest-sample2@0.1.0
+- pkg:maven/org.openengsb.labs.jpatest/labs-jpatest-sample2@0.1.0?classifier=sources

@@ -1,0 +1,16 @@
+- pkg:maven/com.wadpam.openserver/security@20
+- pkg:maven/com.wadpam.openserver/security@20?classifier=sources
+- pkg:maven/com.wadpam.openserver/security@21
+- pkg:maven/com.wadpam.openserver/security@21?classifier=sources
+- pkg:maven/com.wadpam.openserver/security@22
+- pkg:maven/com.wadpam.openserver/security@22?classifier=sources
+- pkg:maven/com.wadpam.openserver/security@25
+- pkg:maven/com.wadpam.openserver/security@25?classifier=sources
+- pkg:maven/com.wadpam.openserver/security@26
+- pkg:maven/com.wadpam.openserver/security@26?classifier=sources
+- pkg:maven/com.wadpam.openserver/security@27
+- pkg:maven/com.wadpam.openserver/security@27?classifier=sources
+- pkg:maven/com.wadpam.openserver/security@28
+- pkg:maven/com.wadpam.openserver/security@28?classifier=sources
+- pkg:maven/com.wadpam.openserver/security@29
+- pkg:maven/com.wadpam.openserver/security@29?classifier=sources

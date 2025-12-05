@@ -1,0 +1,4 @@
+- pkg:maven/edu.gatech.gtri.orafile/orafile@1.1.2
+- pkg:maven/edu.gatech.gtri.orafile/orafile@1.1.2?classifier=sources
+- pkg:maven/edu.gatech.gtri.orafile/orafile@2.0
+- pkg:maven/edu.gatech.gtri.orafile/orafile@2.0?classifier=sources

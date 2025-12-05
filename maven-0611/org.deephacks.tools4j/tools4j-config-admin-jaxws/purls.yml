@@ -1,0 +1,6 @@
+- pkg:maven/org.deephacks.tools4j/tools4j-config-admin-jaxws@0.0.1?classifier=sources
+- pkg:maven/org.deephacks.tools4j/tools4j-config-admin-jaxws@0.0.1?type=war
+- pkg:maven/org.deephacks.tools4j/tools4j-config-admin-jaxws@0.0.3?classifier=sources
+- pkg:maven/org.deephacks.tools4j/tools4j-config-admin-jaxws@0.0.3?type=war
+- pkg:maven/org.deephacks.tools4j/tools4j-config-admin-jaxws@0.0.4?classifier=sources
+- pkg:maven/org.deephacks.tools4j/tools4j-config-admin-jaxws@0.0.4?type=war

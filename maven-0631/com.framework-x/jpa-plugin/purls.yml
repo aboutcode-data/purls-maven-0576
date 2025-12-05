@@ -1,0 +1,2 @@
+- pkg:maven/com.framework-x/jpa-plugin@1.0-alpha-2
+- pkg:maven/com.framework-x/jpa-plugin@1.0-alpha-2?classifier=sources

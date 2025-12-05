@@ -1,0 +1,2 @@
+- pkg:maven/com.github.xuwei-k/httpz-scalaj_2.11@0.2.10-scalaz70
+- pkg:maven/com.github.xuwei-k/httpz-scalaj_2.11@0.2.10-scalaz70?classifier=sources

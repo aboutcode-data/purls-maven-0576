@@ -1,0 +1,4 @@
+- pkg:maven/com.senseidb.zoie/zoie-core@3.3.0
+- pkg:maven/com.senseidb.zoie/zoie-core@3.3.0?classifier=sources
+- pkg:maven/com.senseidb.zoie/zoie-core@4.0.0
+- pkg:maven/com.senseidb.zoie/zoie-core@4.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.maxmind.db/maxminddb@0.3.0
+- pkg:maven/com.maxmind.db/maxminddb@0.3.0?classifier=sources

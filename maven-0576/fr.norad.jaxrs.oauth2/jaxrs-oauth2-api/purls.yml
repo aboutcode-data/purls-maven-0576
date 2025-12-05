@@ -1,0 +1,4 @@
+- pkg:maven/fr.norad.jaxrs.oauth2/jaxrs-oauth2-api@0.5
+- pkg:maven/fr.norad.jaxrs.oauth2/jaxrs-oauth2-api@0.5?classifier=sources
+- pkg:maven/fr.norad.jaxrs.oauth2/jaxrs-oauth2-api@0.7
+- pkg:maven/fr.norad.jaxrs.oauth2/jaxrs-oauth2-api@0.7?classifier=sources

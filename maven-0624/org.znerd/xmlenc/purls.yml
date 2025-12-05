@@ -1,0 +1,2 @@
+- pkg:maven/org.znerd/xmlenc@0.53
+- pkg:maven/org.znerd/xmlenc@0.53?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.jmkgreen.morphia/morphia-jrebel-plug@1.00
+- pkg:maven/com.github.jmkgreen.morphia/morphia-jrebel-plug@1.00?classifier=sources

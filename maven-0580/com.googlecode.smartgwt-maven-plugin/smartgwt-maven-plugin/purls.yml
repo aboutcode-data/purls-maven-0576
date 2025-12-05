@@ -1,0 +1,6 @@
+- pkg:maven/com.googlecode.smartgwt-maven-plugin/smartgwt-maven-plugin@2.5
+- pkg:maven/com.googlecode.smartgwt-maven-plugin/smartgwt-maven-plugin@2.5?classifier=sources
+- pkg:maven/com.googlecode.smartgwt-maven-plugin/smartgwt-maven-plugin@3.0
+- pkg:maven/com.googlecode.smartgwt-maven-plugin/smartgwt-maven-plugin@3.0?classifier=sources
+- pkg:maven/com.googlecode.smartgwt-maven-plugin/smartgwt-maven-plugin@3.1
+- pkg:maven/com.googlecode.smartgwt-maven-plugin/smartgwt-maven-plugin@3.1?classifier=sources

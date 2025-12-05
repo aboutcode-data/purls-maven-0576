@@ -1,0 +1,2 @@
+- pkg:maven/edu.stanford.protege/org.protege.owl.rdf@1.0.2
+- pkg:maven/edu.stanford.protege/org.protege.owl.rdf@1.0.2?classifier=sources

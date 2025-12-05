@@ -1,0 +1,2 @@
+- pkg:maven/org.codeartisans.thirdparties.swing/org-openide-util-lookup@8.3.1
+- pkg:maven/org.codeartisans.thirdparties.swing/org-openide-util-lookup@8.3.1?classifier=sources

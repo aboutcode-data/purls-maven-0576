@@ -1,0 +1,2 @@
+- pkg:maven/org.jwall/org.jwall.web.policy@0.5.0
+- pkg:maven/org.jwall/org.jwall.web.policy@0.5.0?classifier=sources

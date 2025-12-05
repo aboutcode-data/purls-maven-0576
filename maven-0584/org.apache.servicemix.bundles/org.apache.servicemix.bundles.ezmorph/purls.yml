@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.ezmorph@1.0.6_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.ezmorph@1.0.6_1?classifier=sources

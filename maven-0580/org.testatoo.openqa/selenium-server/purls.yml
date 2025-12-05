@@ -1,0 +1,2 @@
+- pkg:maven/org.testatoo.openqa/selenium-server@1.0.2_20090715_patched
+- pkg:maven/org.testatoo.openqa/selenium-server@1.0.2_20090715_patched?classifier=sources

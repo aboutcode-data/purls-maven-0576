@@ -1,0 +1,4 @@
+- pkg:maven/org.nuiton.thirdparty/JRI@0.7-0
+- pkg:maven/org.nuiton.thirdparty/JRI@0.8-0
+- pkg:maven/org.nuiton.thirdparty/JRI@0.8-2
+- pkg:maven/org.nuiton.thirdparty/JRI@0.8-4

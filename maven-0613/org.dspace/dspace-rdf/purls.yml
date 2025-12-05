@@ -1,0 +1,2 @@
+- pkg:maven/org.dspace/dspace-rdf@1.5.1
+- pkg:maven/org.dspace/dspace-rdf@1.5.1?classifier=sources

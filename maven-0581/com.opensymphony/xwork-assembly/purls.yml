@@ -1,0 +1,3 @@
+- pkg:maven/com.opensymphony/xwork-assembly@2.1.4?classifier=src&type=zip
+- pkg:maven/com.opensymphony/xwork-assembly@2.1.5?classifier=src&type=zip
+- pkg:maven/com.opensymphony/xwork-assembly@2.1.6?classifier=src&type=zip

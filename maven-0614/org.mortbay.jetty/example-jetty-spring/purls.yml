@@ -1,0 +1,14 @@
+- pkg:maven/org.mortbay.jetty/example-jetty-spring@7.0.0.1beta1
+- pkg:maven/org.mortbay.jetty/example-jetty-spring@7.0.0.1beta1?classifier=sources
+- pkg:maven/org.mortbay.jetty/example-jetty-spring@7.0.0.1beta2
+- pkg:maven/org.mortbay.jetty/example-jetty-spring@7.0.0.1beta2?classifier=sources
+- pkg:maven/org.mortbay.jetty/example-jetty-spring@7.0.0.1beta3
+- pkg:maven/org.mortbay.jetty/example-jetty-spring@7.0.0.1beta3?classifier=sources
+- pkg:maven/org.mortbay.jetty/example-jetty-spring@7.0.0.RC2
+- pkg:maven/org.mortbay.jetty/example-jetty-spring@7.0.0.RC2?classifier=sources
+- pkg:maven/org.mortbay.jetty/example-jetty-spring@7.0.0.RC3
+- pkg:maven/org.mortbay.jetty/example-jetty-spring@7.0.0.RC3?classifier=sources
+- pkg:maven/org.mortbay.jetty/example-jetty-spring@7.0.0.RC4
+- pkg:maven/org.mortbay.jetty/example-jetty-spring@7.0.0.RC4?classifier=sources
+- pkg:maven/org.mortbay.jetty/example-jetty-spring@7.0.0.RC5
+- pkg:maven/org.mortbay.jetty/example-jetty-spring@7.0.0.RC5?classifier=sources

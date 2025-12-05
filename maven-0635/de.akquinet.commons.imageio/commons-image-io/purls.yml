@@ -1,0 +1,2 @@
+- pkg:maven/de.akquinet.commons.imageio/commons-image-io@0.4.0
+- pkg:maven/de.akquinet.commons.imageio/commons-image-io@0.4.0?classifier=sources

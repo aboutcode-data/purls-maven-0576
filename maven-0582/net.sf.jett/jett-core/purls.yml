@@ -1,0 +1,12 @@
+- pkg:maven/net.sf.jett/jett-core@0.3.0
+- pkg:maven/net.sf.jett/jett-core@0.3.0?classifier=sources
+- pkg:maven/net.sf.jett/jett-core@0.4.0
+- pkg:maven/net.sf.jett/jett-core@0.4.0?classifier=sources
+- pkg:maven/net.sf.jett/jett-core@0.5.0
+- pkg:maven/net.sf.jett/jett-core@0.5.0?classifier=sources
+- pkg:maven/net.sf.jett/jett-core@0.5.1
+- pkg:maven/net.sf.jett/jett-core@0.5.1?classifier=sources
+- pkg:maven/net.sf.jett/jett-core@0.5.2
+- pkg:maven/net.sf.jett/jett-core@0.5.2?classifier=sources
+- pkg:maven/net.sf.jett/jett-core@0.6.0
+- pkg:maven/net.sf.jett/jett-core@0.6.0?classifier=sources

@@ -1,0 +1,5 @@
+- pkg:maven/org.apache.tiles/tiles-master@2?classifier=source-release&type=zip
+- pkg:maven/org.apache.tiles/tiles-master@3?classifier=source-release&type=zip
+- pkg:maven/org.apache.tiles/tiles-master@4?classifier=source-release&type=zip
+- pkg:maven/org.apache.tiles/tiles-master@5?classifier=source-release&type=zip
+- pkg:maven/org.apache.tiles/tiles-master@6?classifier=source-release&type=zip

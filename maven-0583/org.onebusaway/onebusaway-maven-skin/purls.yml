@@ -1,0 +1,2 @@
+- pkg:maven/org.onebusaway/onebusaway-maven-skin@1.0.0
+- pkg:maven/org.onebusaway/onebusaway-maven-skin@1.0.0?classifier=sources

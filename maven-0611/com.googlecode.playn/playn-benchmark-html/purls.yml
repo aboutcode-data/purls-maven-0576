@@ -1,0 +1,8 @@
+- pkg:maven/com.googlecode.playn/playn-benchmark-html@1.0.1?classifier=sources
+- pkg:maven/com.googlecode.playn/playn-benchmark-html@1.0.1?type=war
+- pkg:maven/com.googlecode.playn/playn-benchmark-html@1.0.2?classifier=sources
+- pkg:maven/com.googlecode.playn/playn-benchmark-html@1.0.2?type=war
+- pkg:maven/com.googlecode.playn/playn-benchmark-html@1.0.3?classifier=sources
+- pkg:maven/com.googlecode.playn/playn-benchmark-html@1.0.3?type=war
+- pkg:maven/com.googlecode.playn/playn-benchmark-html@1.1?classifier=sources
+- pkg:maven/com.googlecode.playn/playn-benchmark-html@1.1?type=war

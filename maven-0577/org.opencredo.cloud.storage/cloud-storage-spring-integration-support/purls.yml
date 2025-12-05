@@ -1,0 +1,2 @@
+- pkg:maven/org.opencredo.cloud.storage/cloud-storage-spring-integration-support@1.1
+- pkg:maven/org.opencredo.cloud.storage/cloud-storage-spring-integration-support@1.1?classifier=sources

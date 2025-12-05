@@ -1,0 +1,2 @@
+- pkg:maven/net.virtual-void/codecs_2.9.1@0.4.0
+- pkg:maven/net.virtual-void/codecs_2.9.1@0.4.0?classifier=sources

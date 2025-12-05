@@ -1,0 +1,4 @@
+- pkg:maven/com.sun.xml.stream/sjsxp@1.0
+- pkg:maven/com.sun.xml.stream/sjsxp@1.0.1
+- pkg:maven/com.sun.xml.stream/sjsxp@1.0.2
+- pkg:maven/com.sun.xml.stream/sjsxp@1.0.2?classifier=sources

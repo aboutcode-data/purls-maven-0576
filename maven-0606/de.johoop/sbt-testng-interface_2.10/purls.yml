@@ -1,0 +1,4 @@
+- pkg:maven/de.johoop/sbt-testng-interface_2.10@2.0.3
+- pkg:maven/de.johoop/sbt-testng-interface_2.10@2.0.3?classifier=sources
+- pkg:maven/de.johoop/sbt-testng-interface_2.10@3.0.0
+- pkg:maven/de.johoop/sbt-testng-interface_2.10@3.0.0?classifier=sources

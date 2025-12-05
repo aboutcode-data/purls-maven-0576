@@ -1,0 +1,13 @@
+- pkg:maven/org.apache.maven.shared/maven-shared-components@12?classifier=src&type=tar.gz
+- pkg:maven/org.apache.maven.shared/maven-shared-components@12?classifier=src&type=zip
+- pkg:maven/org.apache.maven.shared/maven-shared-components@13?classifier=src&type=tar.gz
+- pkg:maven/org.apache.maven.shared/maven-shared-components@13?classifier=src&type=zip
+- pkg:maven/org.apache.maven.shared/maven-shared-components@14?classifier=src&type=tar.gz
+- pkg:maven/org.apache.maven.shared/maven-shared-components@14?classifier=src&type=zip
+- pkg:maven/org.apache.maven.shared/maven-shared-components@15?classifier=src&type=tar.gz
+- pkg:maven/org.apache.maven.shared/maven-shared-components@15?classifier=src&type=zip
+- pkg:maven/org.apache.maven.shared/maven-shared-components@16?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.shared/maven-shared-components@17?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.shared/maven-shared-components@18?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.shared/maven-shared-components@19?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.shared/maven-shared-components@20?classifier=source-release&type=zip

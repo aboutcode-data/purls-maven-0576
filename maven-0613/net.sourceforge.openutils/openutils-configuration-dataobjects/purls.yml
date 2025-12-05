@@ -1,0 +1,2 @@
+- pkg:maven/net.sourceforge.openutils/openutils-configuration-dataobjects@0.1
+- pkg:maven/net.sourceforge.openutils/openutils-configuration-dataobjects@0.1?classifier=sources

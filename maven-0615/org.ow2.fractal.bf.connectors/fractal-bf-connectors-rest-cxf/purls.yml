@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.fractal.bf.connectors/fractal-bf-connectors-rest-cxf@0.10
+- pkg:maven/org.ow2.fractal.bf.connectors/fractal-bf-connectors-rest-cxf@0.10?classifier=sources

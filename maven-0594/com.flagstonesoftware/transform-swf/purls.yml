@@ -1,0 +1,2 @@
+- pkg:maven/com.flagstonesoftware/transform-swf@2.1.5
+- pkg:maven/com.flagstonesoftware/transform-swf@2.1.5?classifier=sources

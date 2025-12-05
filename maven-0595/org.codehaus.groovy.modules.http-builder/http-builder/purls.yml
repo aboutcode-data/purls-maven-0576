@@ -1,0 +1,12 @@
+- pkg:maven/org.codehaus.groovy.modules.http-builder/http-builder@0.5.0
+- pkg:maven/org.codehaus.groovy.modules.http-builder/http-builder@0.5.0-RC1
+- pkg:maven/org.codehaus.groovy.modules.http-builder/http-builder@0.5.0-RC2
+- pkg:maven/org.codehaus.groovy.modules.http-builder/http-builder@0.5.0-RC3
+- pkg:maven/org.codehaus.groovy.modules.http-builder/http-builder@0.5.1
+- pkg:maven/org.codehaus.groovy.modules.http-builder/http-builder@0.5.2
+- pkg:maven/org.codehaus.groovy.modules.http-builder/http-builder@0.6
+- pkg:maven/org.codehaus.groovy.modules.http-builder/http-builder@0.6?classifier=sources
+- pkg:maven/org.codehaus.groovy.modules.http-builder/http-builder@0.7
+- pkg:maven/org.codehaus.groovy.modules.http-builder/http-builder@0.7.1
+- pkg:maven/org.codehaus.groovy.modules.http-builder/http-builder@0.7.1?classifier=sources
+- pkg:maven/org.codehaus.groovy.modules.http-builder/http-builder@0.7?classifier=sources

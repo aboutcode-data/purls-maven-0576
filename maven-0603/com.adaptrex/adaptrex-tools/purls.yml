@@ -1,0 +1,4 @@
+- pkg:maven/com.adaptrex/adaptrex-tools@1.0-Alpha2
+- pkg:maven/com.adaptrex/adaptrex-tools@1.0-Alpha2?classifier=sources
+- pkg:maven/com.adaptrex/adaptrex-tools@1.0-Alpha3
+- pkg:maven/com.adaptrex/adaptrex-tools@1.0-Alpha3?classifier=sources

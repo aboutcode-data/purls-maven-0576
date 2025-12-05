@@ -1,0 +1,12 @@
+- pkg:maven/poi/poi@1.8.0-dev-20020919
+- pkg:maven/poi/poi@2.0-final-20040126
+- pkg:maven/poi/poi@2.5-final-20040302
+- pkg:maven/poi/poi@2.5.1
+- pkg:maven/poi/poi@2.5.1-final-20040804
+- pkg:maven/poi/poi@2.5.1-final-20040804?classifier=sources
+- pkg:maven/poi/poi@2.5.1?classifier=sources
+- pkg:maven/poi/poi@3.0-FINAL
+- pkg:maven/poi/poi@3.0-FINAL?classifier=sources
+- pkg:maven/poi/poi@3.0-alpha2
+- pkg:maven/poi/poi@3.0-alpha3
+- pkg:maven/poi/poi@3.0-alpha3?classifier=sources

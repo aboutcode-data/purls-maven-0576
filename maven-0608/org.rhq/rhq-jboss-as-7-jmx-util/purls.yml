@@ -1,0 +1,2 @@
+- pkg:maven/org.rhq/rhq-jboss-as-7-jmx-util@4.10.0
+- pkg:maven/org.rhq/rhq-jboss-as-7-jmx-util@4.10.0?classifier=sources

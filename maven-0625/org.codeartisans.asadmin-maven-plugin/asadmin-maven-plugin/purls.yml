@@ -1,0 +1,2 @@
+- pkg:maven/org.codeartisans.asadmin-maven-plugin/asadmin-maven-plugin@0.6
+- pkg:maven/org.codeartisans.asadmin-maven-plugin/asadmin-maven-plugin@0.6?classifier=sources

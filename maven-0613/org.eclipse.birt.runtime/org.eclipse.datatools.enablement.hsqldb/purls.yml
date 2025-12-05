@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.enablement.hsqldb@1.0.0.v201107221502
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.enablement.hsqldb@1.0.0.v201107221502?classifier=sources

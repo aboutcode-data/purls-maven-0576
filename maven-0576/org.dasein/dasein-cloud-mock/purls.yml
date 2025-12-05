@@ -1,0 +1,4 @@
+- pkg:maven/org.dasein/dasein-cloud-mock@2012.09
+- pkg:maven/org.dasein/dasein-cloud-mock@2012.09?classifier=sources
+- pkg:maven/org.dasein/dasein-cloud-mock@2013.02
+- pkg:maven/org.dasein/dasein-cloud-mock@2013.02?classifier=sources

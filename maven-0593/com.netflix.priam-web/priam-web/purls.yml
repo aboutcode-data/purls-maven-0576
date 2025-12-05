@@ -1,0 +1,6 @@
+- pkg:maven/com.netflix.priam-web/priam-web@1.1.20?classifier=sources
+- pkg:maven/com.netflix.priam-web/priam-web@1.1.20?type=war
+- pkg:maven/com.netflix.priam-web/priam-web@1.1.36?classifier=sources
+- pkg:maven/com.netflix.priam-web/priam-web@1.1.36?type=war
+- pkg:maven/com.netflix.priam-web/priam-web@1.1.37?classifier=sources
+- pkg:maven/com.netflix.priam-web/priam-web@1.1.37?type=war

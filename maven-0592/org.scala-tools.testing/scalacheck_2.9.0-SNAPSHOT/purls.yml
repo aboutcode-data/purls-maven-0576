@@ -1,0 +1,2 @@
+- pkg:maven/org.scala-tools.testing/scalacheck_2.9.0-SNAPSHOT@1.8
+- pkg:maven/org.scala-tools.testing/scalacheck_2.9.0-SNAPSHOT@1.8?classifier=sources

@@ -1,0 +1,12 @@
+- pkg:maven/com.mebigfatguy.yank/yank@0.2.0
+- pkg:maven/com.mebigfatguy.yank/yank@0.2.0?classifier=sources
+- pkg:maven/com.mebigfatguy.yank/yank@0.4.0
+- pkg:maven/com.mebigfatguy.yank/yank@0.4.0?classifier=sources
+- pkg:maven/com.mebigfatguy.yank/yank@0.4.1
+- pkg:maven/com.mebigfatguy.yank/yank@0.4.1?classifier=sources
+- pkg:maven/com.mebigfatguy.yank/yank@0.4.2
+- pkg:maven/com.mebigfatguy.yank/yank@0.4.2?classifier=sources
+- pkg:maven/com.mebigfatguy.yank/yank@0.6.0
+- pkg:maven/com.mebigfatguy.yank/yank@0.6.0?classifier=sources
+- pkg:maven/com.mebigfatguy.yank/yank@0.8.0
+- pkg:maven/com.mebigfatguy.yank/yank@0.8.0?classifier=sources

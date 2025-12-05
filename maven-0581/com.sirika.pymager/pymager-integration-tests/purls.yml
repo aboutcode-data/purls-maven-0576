@@ -1,0 +1,5 @@
+- pkg:maven/com.sirika.pymager/pymager-integration-tests@0.12
+- pkg:maven/com.sirika.pymager/pymager-integration-tests@0.12?classifier=sources
+- pkg:maven/com.sirika.pymager/pymager-integration-tests@0.13
+- pkg:maven/com.sirika.pymager/pymager-integration-tests@0.13?classifier=sources
+- pkg:maven/com.sirika.pymager/pymager-integration-tests@0.14

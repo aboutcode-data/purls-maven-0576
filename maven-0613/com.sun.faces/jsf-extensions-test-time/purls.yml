@@ -1,0 +1,6 @@
+- pkg:maven/com.sun.faces/jsf-extensions-test-time@2.2
+- pkg:maven/com.sun.faces/jsf-extensions-test-time@2.2?classifier=sources
+- pkg:maven/com.sun.faces/jsf-extensions-test-time@2.3
+- pkg:maven/com.sun.faces/jsf-extensions-test-time@2.3?classifier=sources
+- pkg:maven/com.sun.faces/jsf-extensions-test-time@2.4
+- pkg:maven/com.sun.faces/jsf-extensions-test-time@2.4?classifier=sources

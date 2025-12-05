@@ -1,0 +1,5 @@
+- pkg:maven/it.tidalwave.metadata/it-tidalwave-metadata-spi@1.31.18?classifier=sources
+- pkg:maven/it.tidalwave.metadata/it-tidalwave-metadata-spi@1.31.19?classifier=sources
+- pkg:maven/it.tidalwave.metadata/it-tidalwave-metadata-spi@1.31.20?classifier=sources
+- pkg:maven/it.tidalwave.metadata/it-tidalwave-metadata-spi@1.31.21?classifier=sources
+- pkg:maven/it.tidalwave.metadata/it-tidalwave-metadata-spi@1.31.22?classifier=sources

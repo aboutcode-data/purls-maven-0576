@@ -1,0 +1,2 @@
+- pkg:maven/io.joynr.java.messaging/messaging-servlet@0.6.0?classifier=sources
+- pkg:maven/io.joynr.java.messaging/messaging-servlet@0.6.0?type=war

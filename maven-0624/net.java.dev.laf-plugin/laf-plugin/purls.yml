@@ -1,0 +1,4 @@
+- pkg:maven/net.java.dev.laf-plugin/laf-plugin@0.2
+- pkg:maven/net.java.dev.laf-plugin/laf-plugin@0.2?classifier=sources
+- pkg:maven/net.java.dev.laf-plugin/laf-plugin@1.1
+- pkg:maven/net.java.dev.laf-plugin/laf-plugin@1.1?classifier=sources

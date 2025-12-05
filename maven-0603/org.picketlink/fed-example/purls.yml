@@ -1,0 +1,4 @@
+- pkg:maven/org.picketlink/fed-example@1.0.0.CR1?classifier=sources
+- pkg:maven/org.picketlink/fed-example@1.0.0.GA?classifier=sources
+- pkg:maven/org.picketlink/fed-example@1.0.0?classifier=sources
+- pkg:maven/org.picketlink/fed-example@1.0.1?classifier=sources

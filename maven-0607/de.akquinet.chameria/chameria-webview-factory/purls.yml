@@ -1,0 +1,2 @@
+- pkg:maven/de.akquinet.chameria/chameria-webview-factory@1.5.0
+- pkg:maven/de.akquinet.chameria/chameria-webview-factory@1.5.0?classifier=sources

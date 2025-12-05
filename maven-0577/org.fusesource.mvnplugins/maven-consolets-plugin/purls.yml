@@ -1,0 +1,4 @@
+- pkg:maven/org.fusesource.mvnplugins/maven-consolets-plugin@1.30
+- pkg:maven/org.fusesource.mvnplugins/maven-consolets-plugin@1.30?classifier=sources
+- pkg:maven/org.fusesource.mvnplugins/maven-consolets-plugin@1.31
+- pkg:maven/org.fusesource.mvnplugins/maven-consolets-plugin@1.31?classifier=sources

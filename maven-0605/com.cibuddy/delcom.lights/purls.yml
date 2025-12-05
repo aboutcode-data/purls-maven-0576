@@ -1,0 +1,2 @@
+- pkg:maven/com.cibuddy/delcom.lights@1.0.0
+- pkg:maven/com.cibuddy/delcom.lights@1.0.0?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/com.geeoz.atom/atom-services@1.0d18
+- pkg:maven/com.geeoz.atom/atom-services@1.0d18?classifier=sources
+- pkg:maven/com.geeoz.atom/atom-services@1.0d19
+- pkg:maven/com.geeoz.atom/atom-services@1.0d19?classifier=sources
+- pkg:maven/com.geeoz.atom/atom-services@1.0d20
+- pkg:maven/com.geeoz.atom/atom-services@1.0d20?classifier=sources
+- pkg:maven/com.geeoz.atom/atom-services@1.0d21
+- pkg:maven/com.geeoz.atom/atom-services@1.0d21?classifier=sources
+- pkg:maven/com.geeoz.atom/atom-services@1.0d22
+- pkg:maven/com.geeoz.atom/atom-services@1.0d22?classifier=sources

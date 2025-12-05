@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.microcontainer/jboss-microcontainer-dist@2.0.3.GA?classifier=src&type=zip
+- pkg:maven/org.jboss.microcontainer/jboss-microcontainer-dist@2.0.4.GA?classifier=src&type=zip

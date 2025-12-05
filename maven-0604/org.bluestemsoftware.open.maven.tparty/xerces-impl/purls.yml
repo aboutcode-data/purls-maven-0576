@@ -1,0 +1,2 @@
+- pkg:maven/org.bluestemsoftware.open.maven.tparty/xerces-impl@2.9.0
+- pkg:maven/org.bluestemsoftware.open.maven.tparty/xerces-impl@2.9.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.jboss.jbossas.osgi/jboss-as-osgi-integration@6.0.0.20100429-M3
+- pkg:maven/org.jboss.jbossas.osgi/jboss-as-osgi-integration@6.0.0.20100429-M3?classifier=sources
+- pkg:maven/org.jboss.jbossas.osgi/jboss-as-osgi-integration@6.0.0.20100721-M4
+- pkg:maven/org.jboss.jbossas.osgi/jboss-as-osgi-integration@6.0.0.20100721-M4?classifier=sources
+- pkg:maven/org.jboss.jbossas.osgi/jboss-as-osgi-integration@6.0.0.20100911-M5
+- pkg:maven/org.jboss.jbossas.osgi/jboss-as-osgi-integration@6.0.0.20100911-M5?classifier=sources

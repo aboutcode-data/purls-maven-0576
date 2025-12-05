@@ -1,0 +1,17 @@
+- pkg:maven/org.picketlink/picketlink-fed@1.0.0.CR1?classifier=sources
+- pkg:maven/org.picketlink/picketlink-fed@1.0.0.GA?classifier=sources
+- pkg:maven/org.picketlink/picketlink-fed@1.0.0?classifier=sources
+- pkg:maven/org.picketlink/picketlink-fed@1.0.1?classifier=sources
+- pkg:maven/org.picketlink/picketlink-fed@1.0.2?classifier=sources
+- pkg:maven/org.picketlink/picketlink-fed@1.0.3.CR1?classifier=sources
+- pkg:maven/org.picketlink/picketlink-fed@1.0.3.CR2?classifier=sources
+- pkg:maven/org.picketlink/picketlink-fed@1.0.3.CR3?classifier=sources
+- pkg:maven/org.picketlink/picketlink-fed@1.0.3.CR4?classifier=sources
+- pkg:maven/org.picketlink/picketlink-fed@1.0.3.SP1?classifier=sources
+- pkg:maven/org.picketlink/picketlink-fed@1.0.3.final?classifier=sources
+- pkg:maven/org.picketlink/picketlink-fed@1.0.4.final?classifier=sources
+- pkg:maven/org.picketlink/picketlink-fed@2.0.0.final?classifier=sources
+- pkg:maven/org.picketlink/picketlink-fed@2.0.1.1.final?classifier=sources
+- pkg:maven/org.picketlink/picketlink-fed@2.0.1.final?classifier=sources
+- pkg:maven/org.picketlink/picketlink-fed@2.0.2.Final?classifier=sources
+- pkg:maven/org.picketlink/picketlink-fed@2.0.3.Final?classifier=sources

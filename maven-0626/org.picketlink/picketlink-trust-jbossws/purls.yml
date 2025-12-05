@@ -1,0 +1,10 @@
+- pkg:maven/org.picketlink/picketlink-trust-jbossws@1.0.0.CR3
+- pkg:maven/org.picketlink/picketlink-trust-jbossws@1.0.0.CR3?classifier=sources
+- pkg:maven/org.picketlink/picketlink-trust-jbossws@2.0.0.final
+- pkg:maven/org.picketlink/picketlink-trust-jbossws@2.0.0.final?classifier=sources
+- pkg:maven/org.picketlink/picketlink-trust-jbossws@2.0.1.final
+- pkg:maven/org.picketlink/picketlink-trust-jbossws@2.0.1.final?classifier=sources
+- pkg:maven/org.picketlink/picketlink-trust-jbossws@2.0.2.Final
+- pkg:maven/org.picketlink/picketlink-trust-jbossws@2.0.2.Final?classifier=sources
+- pkg:maven/org.picketlink/picketlink-trust-jbossws@2.0.3.Final
+- pkg:maven/org.picketlink/picketlink-trust-jbossws@2.0.3.Final?classifier=sources

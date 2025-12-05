@@ -1,0 +1,2 @@
+- pkg:maven/plexus/plexus-mail-sender-javamail@1.0-alpha-2
+- pkg:maven/plexus/plexus-mail-sender-javamail@1.0-alpha-2?classifier=sources

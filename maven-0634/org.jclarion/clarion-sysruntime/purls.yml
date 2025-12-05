@@ -1,0 +1,16 @@
+- pkg:maven/org.jclarion/clarion-sysruntime@1.10
+- pkg:maven/org.jclarion/clarion-sysruntime@1.10?classifier=sources
+- pkg:maven/org.jclarion/clarion-sysruntime@1.11
+- pkg:maven/org.jclarion/clarion-sysruntime@1.11?classifier=sources
+- pkg:maven/org.jclarion/clarion-sysruntime@1.12
+- pkg:maven/org.jclarion/clarion-sysruntime@1.12?classifier=sources
+- pkg:maven/org.jclarion/clarion-sysruntime@1.13
+- pkg:maven/org.jclarion/clarion-sysruntime@1.13?classifier=sources
+- pkg:maven/org.jclarion/clarion-sysruntime@1.15
+- pkg:maven/org.jclarion/clarion-sysruntime@1.15?classifier=sources
+- pkg:maven/org.jclarion/clarion-sysruntime@1.16
+- pkg:maven/org.jclarion/clarion-sysruntime@1.16?classifier=sources
+- pkg:maven/org.jclarion/clarion-sysruntime@1.8
+- pkg:maven/org.jclarion/clarion-sysruntime@1.8?classifier=sources
+- pkg:maven/org.jclarion/clarion-sysruntime@1.9
+- pkg:maven/org.jclarion/clarion-sysruntime@1.9?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.massrelevance/metrics-scala_2.9.2@2.2.0-1
+- pkg:maven/com.massrelevance/metrics-scala_2.9.2@2.2.0-1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.ow2.frascati.model/frascati-model@1.1
+- pkg:maven/org.ow2.frascati.model/frascati-model@1.1.1
+- pkg:maven/org.ow2.frascati.model/frascati-model@1.2
+- pkg:maven/org.ow2.frascati.model/frascati-model@1.2?classifier=sources

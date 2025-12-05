@@ -1,0 +1,2 @@
+- pkg:maven/com.mangofactory/org.graylog2.gelfj@1.0.2
+- pkg:maven/com.mangofactory/org.graylog2.gelfj@1.0.2?classifier=sources

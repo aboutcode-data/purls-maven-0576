@@ -1,0 +1,16 @@
+- pkg:maven/org.efaps/maven-efaps-jetty@1.0-7.0.1.v20091125
+- pkg:maven/org.efaps/maven-efaps-jetty@1.0-7.0.1.v20091125?classifier=sources
+- pkg:maven/org.efaps/maven-efaps-jetty@1.0.1-7.0.1.v20091125
+- pkg:maven/org.efaps/maven-efaps-jetty@1.0.1-7.0.1.v20091125?classifier=sources
+- pkg:maven/org.efaps/maven-efaps-jetty@1.0.2-7.0.1.v20091125
+- pkg:maven/org.efaps/maven-efaps-jetty@1.0.2-7.0.1.v20091125?classifier=sources
+- pkg:maven/org.efaps/maven-efaps-jetty@1.1.0-7.1.6.v20100715
+- pkg:maven/org.efaps/maven-efaps-jetty@1.1.0-7.1.6.v20100715?classifier=sources
+- pkg:maven/org.efaps/maven-efaps-jetty@1.17.0-7.4.3.v20110701
+- pkg:maven/org.efaps/maven-efaps-jetty@1.17.0-7.4.3.v20110701?classifier=sources
+- pkg:maven/org.efaps/maven-efaps-jetty@1.18.0-7.4.3.v20110701
+- pkg:maven/org.efaps/maven-efaps-jetty@1.18.0-7.4.3.v20110701?classifier=sources
+- pkg:maven/org.efaps/maven-efaps-jetty@1.19.0-7.5.4.v20111024
+- pkg:maven/org.efaps/maven-efaps-jetty@1.19.0-7.5.4.v20111024?classifier=sources
+- pkg:maven/org.efaps/maven-efaps-jetty@1.2.0-7.4.3.v20110701
+- pkg:maven/org.efaps/maven-efaps-jetty@1.2.0-7.4.3.v20110701?classifier=sources

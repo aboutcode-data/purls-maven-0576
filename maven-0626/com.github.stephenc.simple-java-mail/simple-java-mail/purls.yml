@@ -1,0 +1,4 @@
+- pkg:maven/com.github.stephenc.simple-java-mail/simple-java-mail@1.4
+- pkg:maven/com.github.stephenc.simple-java-mail/simple-java-mail@1.4?classifier=sources
+- pkg:maven/com.github.stephenc.simple-java-mail/simple-java-mail@1.8
+- pkg:maven/com.github.stephenc.simple-java-mail/simple-java-mail@1.8?classifier=sources

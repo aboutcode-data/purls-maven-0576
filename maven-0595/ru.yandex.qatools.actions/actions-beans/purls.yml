@@ -1,0 +1,2 @@
+- pkg:maven/ru.yandex.qatools.actions/actions-beans@2.2
+- pkg:maven/ru.yandex.qatools.actions/actions-beans@2.2?classifier=sources

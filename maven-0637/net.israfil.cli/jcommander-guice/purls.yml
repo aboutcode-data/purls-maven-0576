@@ -1,0 +1,2 @@
+- pkg:maven/net.israfil.cli/jcommander-guice@0.1
+- pkg:maven/net.israfil.cli/jcommander-guice@0.1?classifier=sources

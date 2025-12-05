@@ -1,0 +1,4 @@
+- pkg:maven/com.gwtplatform/gwtp-mvp-shared@1.2
+- pkg:maven/com.gwtplatform/gwtp-mvp-shared@1.2.1
+- pkg:maven/com.gwtplatform/gwtp-mvp-shared@1.2.1?classifier=sources
+- pkg:maven/com.gwtplatform/gwtp-mvp-shared@1.2?classifier=sources

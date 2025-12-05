@@ -1,0 +1,4 @@
+- pkg:maven/se.vgregion.oppna-program-hsatools-mobile-webservice/oppna-program-hsatools-mobile-webservice-core-bc-module-intsvc@1.0?classifier=sources
+- pkg:maven/se.vgregion.oppna-program-hsatools-mobile-webservice/oppna-program-hsatools-mobile-webservice-core-bc-module-intsvc@1.0?type=war
+- pkg:maven/se.vgregion.oppna-program-hsatools-mobile-webservice/oppna-program-hsatools-mobile-webservice-core-bc-module-intsvc@1.1?classifier=sources
+- pkg:maven/se.vgregion.oppna-program-hsatools-mobile-webservice/oppna-program-hsatools-mobile-webservice-core-bc-module-intsvc@1.1?type=war

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.geronimo.gshell.support/gshell-terminal@1.0-alpha-2
+- pkg:maven/org.apache.geronimo.gshell.support/gshell-terminal@1.0-alpha-2?classifier=sources

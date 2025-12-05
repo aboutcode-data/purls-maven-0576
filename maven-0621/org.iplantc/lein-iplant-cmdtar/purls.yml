@@ -1,0 +1,2 @@
+- pkg:maven/org.iplantc/lein-iplant-cmdtar@0.1.2
+- pkg:maven/org.iplantc/lein-iplant-cmdtar@0.1.2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.jcraft/jsch.agentproxy.svnkit-trilead-ssh2@0.0.6
+- pkg:maven/com.jcraft/jsch.agentproxy.svnkit-trilead-ssh2@0.0.6?classifier=sources
+- pkg:maven/com.jcraft/jsch.agentproxy.svnkit-trilead-ssh2@0.0.7
+- pkg:maven/com.jcraft/jsch.agentproxy.svnkit-trilead-ssh2@0.0.7?classifier=sources

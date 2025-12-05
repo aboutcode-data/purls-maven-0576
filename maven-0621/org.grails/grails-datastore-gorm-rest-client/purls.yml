@@ -1,0 +1,2 @@
+- pkg:maven/org.grails/grails-datastore-gorm-rest-client@1.0.0.M1
+- pkg:maven/org.grails/grails-datastore-gorm-rest-client@1.0.0.M1?classifier=sources

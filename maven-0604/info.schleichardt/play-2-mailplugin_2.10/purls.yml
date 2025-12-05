@@ -1,0 +1,6 @@
+- pkg:maven/info.schleichardt/play-2-mailplugin_2.10@0.8
+- pkg:maven/info.schleichardt/play-2-mailplugin_2.10@0.8?classifier=sources
+- pkg:maven/info.schleichardt/play-2-mailplugin_2.10@0.9
+- pkg:maven/info.schleichardt/play-2-mailplugin_2.10@0.9.1
+- pkg:maven/info.schleichardt/play-2-mailplugin_2.10@0.9.1?classifier=sources
+- pkg:maven/info.schleichardt/play-2-mailplugin_2.10@0.9?classifier=sources

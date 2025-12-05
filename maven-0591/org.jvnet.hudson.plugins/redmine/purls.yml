@@ -1,0 +1,2 @@
+- pkg:maven/org.jvnet.hudson.plugins/redmine@0.8?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/redmine@0.9?classifier=sources

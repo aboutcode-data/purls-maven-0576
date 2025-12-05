@@ -1,0 +1,2 @@
+- pkg:maven/net.nullschool/grains-jackson@0.8.0
+- pkg:maven/net.nullschool/grains-jackson@0.8.0?classifier=sources

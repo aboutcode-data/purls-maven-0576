@@ -1,0 +1,4 @@
+- pkg:maven/com.madgag/roboguice@1.99.0.4-UNOFFICIAL-ROBERTO-RELEASE
+- pkg:maven/com.madgag/roboguice@1.99.0.4-UNOFFICIAL-ROBERTO-RELEASE?classifier=sources
+- pkg:maven/com.madgag/roboguice@2.0b1040
+- pkg:maven/com.madgag/roboguice@2.0b1040?classifier=sources

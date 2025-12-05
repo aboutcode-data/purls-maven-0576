@@ -1,0 +1,2 @@
+- pkg:maven/org.qsardb.resolution/chemical@1.0.0
+- pkg:maven/org.qsardb.resolution/chemical@1.0.0?classifier=sources

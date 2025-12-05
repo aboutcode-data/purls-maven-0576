@@ -1,0 +1,12 @@
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.connectivity@1.2.4.v201202041105
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.connectivity@1.2.4.v201202041105?classifier=sources
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.connectivity@1.2.5.v201206130431
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.connectivity@1.2.5.v201206130431?classifier=sources
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.connectivity@1.2.6.v201208210832
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.connectivity@1.2.6.v201208210832?classifier=sources
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.connectivity@1.2.7.v201302060508
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.connectivity@1.2.7.v201302060508?classifier=sources
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.connectivity@1.2.8.v201305301230
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.connectivity@1.2.8.v201305301230?classifier=sources
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.connectivity@1.2.9.v201307261105
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.connectivity@1.2.9.v201307261105?classifier=sources

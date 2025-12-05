@@ -1,0 +1,4 @@
+- pkg:maven/com.sonian/elasticsearch-equilibrium@0.19.4
+- pkg:maven/com.sonian/elasticsearch-equilibrium@0.19.4?classifier=sources
+- pkg:maven/com.sonian/elasticsearch-equilibrium@0.20.0
+- pkg:maven/com.sonian/elasticsearch-equilibrium@0.20.0?classifier=sources

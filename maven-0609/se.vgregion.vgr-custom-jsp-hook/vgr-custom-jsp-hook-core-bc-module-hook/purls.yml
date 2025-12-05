@@ -1,0 +1,4 @@
+- pkg:maven/se.vgregion.vgr-custom-jsp-hook/vgr-custom-jsp-hook-core-bc-module-hook@1.0?type=war
+- pkg:maven/se.vgregion.vgr-custom-jsp-hook/vgr-custom-jsp-hook-core-bc-module-hook@1.1?type=war
+- pkg:maven/se.vgregion.vgr-custom-jsp-hook/vgr-custom-jsp-hook-core-bc-module-hook@1.2?classifier=sources
+- pkg:maven/se.vgregion.vgr-custom-jsp-hook/vgr-custom-jsp-hook-core-bc-module-hook@1.2?type=war

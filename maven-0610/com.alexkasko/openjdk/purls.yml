@@ -1,0 +1,4 @@
+- pkg:maven/com.alexkasko/openjdk@1.6.0-unofficial-b27
+- pkg:maven/com.alexkasko/openjdk@1.6.0-unofficial-b27?classifier=sources
+- pkg:maven/com.alexkasko/openjdk@1.7.0-u6-unofficial-b24
+- pkg:maven/com.alexkasko/openjdk@1.7.0-u6-unofficial-b24?classifier=sources

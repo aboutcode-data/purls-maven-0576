@@ -1,0 +1,4 @@
+- pkg:maven/org.bitbucket.bradleysmithllc.maven-repository-launcher/bootstrap@1.0.5
+- pkg:maven/org.bitbucket.bradleysmithllc.maven-repository-launcher/bootstrap@1.0.5?classifier=sources
+- pkg:maven/org.bitbucket.bradleysmithllc.maven-repository-launcher/bootstrap@1.0.6
+- pkg:maven/org.bitbucket.bradleysmithllc.maven-repository-launcher/bootstrap@1.0.6?classifier=sources

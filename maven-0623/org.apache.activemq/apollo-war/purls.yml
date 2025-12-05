@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.activemq/apollo-war@1.7?classifier=sources
+- pkg:maven/org.apache.activemq/apollo-war@1.7?type=war

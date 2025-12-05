@@ -1,0 +1,3 @@
+- pkg:maven/com.microsoftopentechnologies/windows-azure-storage-plugin@0.1.0?classifier=sources
+- pkg:maven/com.microsoftopentechnologies/windows-azure-storage-plugin@0.1.4?classifier=sources
+- pkg:maven/com.microsoftopentechnologies/windows-azure-storage-plugin@0.2.0?classifier=sources

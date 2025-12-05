@@ -1,0 +1,4 @@
+- pkg:maven/com.jayway.maven.plugins.android.generation1/masa-project@1.0.1?classifier=src&type=tar.gz
+- pkg:maven/com.jayway.maven.plugins.android.generation1/masa-project@1.0.1?classifier=src&type=zip
+- pkg:maven/com.jayway.maven.plugins.android.generation1/masa-project@1.0.2?classifier=src&type=tar.gz
+- pkg:maven/com.jayway.maven.plugins.android.generation1/masa-project@1.0.2?classifier=src&type=zip

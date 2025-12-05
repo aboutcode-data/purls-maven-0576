@@ -1,0 +1,4 @@
+- pkg:maven/com.nhncorp.ntaf/ntaf-maven-plugin@20090909
+- pkg:maven/com.nhncorp.ntaf/ntaf-maven-plugin@20091229
+- pkg:maven/com.nhncorp.ntaf/ntaf-maven-plugin@20100730
+- pkg:maven/com.nhncorp.ntaf/ntaf-maven-plugin@20101108

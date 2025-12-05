@@ -1,0 +1,2 @@
+- pkg:maven/org.cruxframework/crux-module-app-container-archetype@5.0.4
+- pkg:maven/org.cruxframework/crux-module-app-container-archetype@5.0.4?classifier=sources

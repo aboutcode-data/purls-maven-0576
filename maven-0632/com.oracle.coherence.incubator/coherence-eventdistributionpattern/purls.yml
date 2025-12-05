@@ -1,0 +1,14 @@
+- pkg:maven/com.oracle.coherence.incubator/coherence-eventdistributionpattern@11.0.0
+- pkg:maven/com.oracle.coherence.incubator/coherence-eventdistributionpattern@11.0.0?classifier=sources
+- pkg:maven/com.oracle.coherence.incubator/coherence-eventdistributionpattern@11.1.0
+- pkg:maven/com.oracle.coherence.incubator/coherence-eventdistributionpattern@11.1.0?classifier=sources
+- pkg:maven/com.oracle.coherence.incubator/coherence-eventdistributionpattern@11.2.0
+- pkg:maven/com.oracle.coherence.incubator/coherence-eventdistributionpattern@11.2.0?classifier=sources
+- pkg:maven/com.oracle.coherence.incubator/coherence-eventdistributionpattern@11.3.0
+- pkg:maven/com.oracle.coherence.incubator/coherence-eventdistributionpattern@11.3.0?classifier=sources
+- pkg:maven/com.oracle.coherence.incubator/coherence-eventdistributionpattern@12.0.0
+- pkg:maven/com.oracle.coherence.incubator/coherence-eventdistributionpattern@12.0.0?classifier=sources
+- pkg:maven/com.oracle.coherence.incubator/coherence-eventdistributionpattern@12.1.0
+- pkg:maven/com.oracle.coherence.incubator/coherence-eventdistributionpattern@12.1.0?classifier=sources
+- pkg:maven/com.oracle.coherence.incubator/coherence-eventdistributionpattern@12.2.0
+- pkg:maven/com.oracle.coherence.incubator/coherence-eventdistributionpattern@12.2.0?classifier=sources

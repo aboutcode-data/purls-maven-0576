@@ -1,0 +1,2 @@
+- pkg:maven/maven/maven-linkcheck-plugin@1.4.1
+- pkg:maven/maven/maven-linkcheck-plugin@1.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/no.uis.nio/sftp@1.0.5
+- pkg:maven/no.uis.nio/sftp@1.0.5?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.jodreports/jodreports@2.4.0
+- pkg:maven/net.sf.jodreports/jodreports@2.4.0?classifier=sources

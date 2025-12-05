@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.amber/amber-oauth2-integration-tests@0.22-incubating
+- pkg:maven/org.apache.amber/amber-oauth2-integration-tests@0.22-incubating?classifier=sources

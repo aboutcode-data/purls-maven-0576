@@ -1,0 +1,4 @@
+- pkg:maven/biz.source_code/base64coder@2010-09-21
+- pkg:maven/biz.source_code/base64coder@2010-09-21?classifier=sources
+- pkg:maven/biz.source_code/base64coder@2010-12-19
+- pkg:maven/biz.source_code/base64coder@2010-12-19?classifier=sources

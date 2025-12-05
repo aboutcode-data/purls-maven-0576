@@ -1,0 +1,2 @@
+- pkg:maven/com.mojolly.logback/logback-ext_2.9.1@0.8.0
+- pkg:maven/com.mojolly.logback/logback-ext_2.9.1@0.8.0?classifier=sources

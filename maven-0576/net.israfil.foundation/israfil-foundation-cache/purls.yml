@@ -1,0 +1,4 @@
+- pkg:maven/net.israfil.foundation/israfil-foundation-cache@0.9.12
+- pkg:maven/net.israfil.foundation/israfil-foundation-cache@0.9.12?classifier=sources
+- pkg:maven/net.israfil.foundation/israfil-foundation-cache@1.0.0
+- pkg:maven/net.israfil.foundation/israfil-foundation-cache@1.0.0?classifier=sources

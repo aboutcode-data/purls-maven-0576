@@ -1,0 +1,2 @@
+- pkg:maven/org.specs2/specs2_2.10.0-M3@1.9
+- pkg:maven/org.specs2/specs2_2.10.0-M3@1.9?classifier=sources

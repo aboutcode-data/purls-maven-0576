@@ -1,0 +1,2 @@
+- pkg:maven/com.svnkit/svnkit@1.1.0
+- pkg:maven/com.svnkit/svnkit@1.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.googlecode.fluido-skin/fluido-skin@1.3
+- pkg:maven/com.googlecode.fluido-skin/fluido-skin@1.3?classifier=sources

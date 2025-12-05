@@ -1,0 +1,6 @@
+- pkg:maven/net.sourceforge.reb4j/net.sourceforge.reb4j.scala@1.1.0
+- pkg:maven/net.sourceforge.reb4j/net.sourceforge.reb4j.scala@1.1.0?classifier=sources
+- pkg:maven/net.sourceforge.reb4j/net.sourceforge.reb4j.scala@2.0.0
+- pkg:maven/net.sourceforge.reb4j/net.sourceforge.reb4j.scala@2.0.0?classifier=sources
+- pkg:maven/net.sourceforge.reb4j/net.sourceforge.reb4j.scala@2.1.0
+- pkg:maven/net.sourceforge.reb4j/net.sourceforge.reb4j.scala@2.1.0?classifier=sources

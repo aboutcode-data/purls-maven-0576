@@ -1,0 +1,4 @@
+- pkg:maven/se.vgregion.medcontrol/medcontrol-core-bc-composite-types@1.6
+- pkg:maven/se.vgregion.medcontrol/medcontrol-core-bc-composite-types@1.6?classifier=sources
+- pkg:maven/se.vgregion.medcontrol/medcontrol-core-bc-composite-types@1.8
+- pkg:maven/se.vgregion.medcontrol/medcontrol-core-bc-composite-types@1.8?classifier=sources

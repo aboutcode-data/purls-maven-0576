@@ -1,0 +1,4 @@
+- pkg:maven/com.lihaoyi/upickle_2.11@0.1.0
+- pkg:maven/com.lihaoyi/upickle_2.11@0.1.0-JS
+- pkg:maven/com.lihaoyi/upickle_2.11@0.1.0-JS?classifier=sources
+- pkg:maven/com.lihaoyi/upickle_2.11@0.1.0?classifier=sources

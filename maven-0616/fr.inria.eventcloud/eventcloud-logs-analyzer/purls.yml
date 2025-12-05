@@ -1,0 +1,4 @@
+- pkg:maven/fr.inria.eventcloud/eventcloud-logs-analyzer@1.0.0
+- pkg:maven/fr.inria.eventcloud/eventcloud-logs-analyzer@1.0.0?classifier=sources
+- pkg:maven/fr.inria.eventcloud/eventcloud-logs-analyzer@1.1.0
+- pkg:maven/fr.inria.eventcloud/eventcloud-logs-analyzer@1.1.0?classifier=sources

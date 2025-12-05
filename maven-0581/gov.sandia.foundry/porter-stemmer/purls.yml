@@ -1,0 +1,2 @@
+- pkg:maven/gov.sandia.foundry/porter-stemmer@1.4
+- pkg:maven/gov.sandia.foundry/porter-stemmer@1.4?classifier=sources

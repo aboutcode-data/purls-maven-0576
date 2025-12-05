@@ -1,0 +1,2 @@
+- pkg:maven/org.picketlink/idp-sig-as7@2.0.2.Final?type=war
+- pkg:maven/org.picketlink/idp-sig-as7@2.0.3.Final?type=war

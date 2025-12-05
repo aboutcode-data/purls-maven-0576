@@ -1,0 +1,4 @@
+- pkg:maven/org.ow2.weblab.webservices/folder-crawler-service@1.5.3-RC1?classifier=sources
+- pkg:maven/org.ow2.weblab.webservices/folder-crawler-service@1.5.3-RC1?type=war
+- pkg:maven/org.ow2.weblab.webservices/folder-crawler-service@1.5.3?classifier=sources
+- pkg:maven/org.ow2.weblab.webservices/folder-crawler-service@1.5.3?type=war

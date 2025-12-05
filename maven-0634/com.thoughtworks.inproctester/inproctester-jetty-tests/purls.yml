@@ -1,0 +1,4 @@
+- pkg:maven/com.thoughtworks.inproctester/inproctester-jetty-tests@1.0.14?classifier=sources
+- pkg:maven/com.thoughtworks.inproctester/inproctester-jetty-tests@1.0.14?type=war
+- pkg:maven/com.thoughtworks.inproctester/inproctester-jetty-tests@1.0.15?classifier=sources
+- pkg:maven/com.thoughtworks.inproctester/inproctester-jetty-tests@1.0.15?type=war

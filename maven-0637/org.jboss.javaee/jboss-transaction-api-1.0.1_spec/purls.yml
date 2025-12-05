@@ -1,0 +1,4 @@
+- pkg:maven/org.jboss.javaee/jboss-transaction-api-1.0.1_spec@5.0.2.GA
+- pkg:maven/org.jboss.javaee/jboss-transaction-api-1.0.1_spec@5.0.2.GA?classifier=sources
+- pkg:maven/org.jboss.javaee/jboss-transaction-api-1.0.1_spec@5.0.2.RC1
+- pkg:maven/org.jboss.javaee/jboss-transaction-api-1.0.1_spec@5.0.2.RC1?classifier=sources

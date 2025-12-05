@@ -1,0 +1,2 @@
+- pkg:maven/net.sourceforge.javydreamercsw/VM-Core@0.1
+- pkg:maven/net.sourceforge.javydreamercsw/VM-Core@0.1?classifier=sources

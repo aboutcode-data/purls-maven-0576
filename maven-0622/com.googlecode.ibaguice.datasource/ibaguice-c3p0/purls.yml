@@ -1,0 +1,2 @@
+- pkg:maven/com.googlecode.ibaguice.datasource/ibaguice-c3p0@1.0
+- pkg:maven/com.googlecode.ibaguice.datasource/ibaguice-c3p0@1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.glassfish.grizzly/tls-sni@2.3.12
+- pkg:maven/org.glassfish.grizzly/tls-sni@2.3.12?classifier=sources

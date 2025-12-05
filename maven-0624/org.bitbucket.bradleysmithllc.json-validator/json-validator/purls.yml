@@ -1,0 +1,6 @@
+- pkg:maven/org.bitbucket.bradleysmithllc.json-validator/json-validator@1.6.10
+- pkg:maven/org.bitbucket.bradleysmithllc.json-validator/json-validator@1.6.10?classifier=sources
+- pkg:maven/org.bitbucket.bradleysmithllc.json-validator/json-validator@1.6.11
+- pkg:maven/org.bitbucket.bradleysmithllc.json-validator/json-validator@1.6.11?classifier=sources
+- pkg:maven/org.bitbucket.bradleysmithllc.json-validator/json-validator@1.7.0
+- pkg:maven/org.bitbucket.bradleysmithllc.json-validator/json-validator@1.7.0?classifier=sources

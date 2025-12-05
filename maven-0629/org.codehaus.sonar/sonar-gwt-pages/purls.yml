@@ -1,0 +1,2 @@
+- pkg:maven/org.codehaus.sonar/sonar-gwt-pages@4.0
+- pkg:maven/org.codehaus.sonar/sonar-gwt-pages@4.0?classifier=sources

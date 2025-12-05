@@ -1,0 +1,2 @@
+- pkg:maven/com.frugalmechanic/fm-flatfile_2.10@0.1
+- pkg:maven/com.frugalmechanic/fm-flatfile_2.10@0.1?classifier=sources

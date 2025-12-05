@@ -1,0 +1,10 @@
+- pkg:maven/org.javafunk.funk/funk-core@0.1.17
+- pkg:maven/org.javafunk.funk/funk-core@0.1.17?classifier=sources
+- pkg:maven/org.javafunk.funk/funk-core@0.1.18
+- pkg:maven/org.javafunk.funk/funk-core@0.1.18?classifier=sources
+- pkg:maven/org.javafunk.funk/funk-core@0.1.19
+- pkg:maven/org.javafunk.funk/funk-core@0.1.19?classifier=sources
+- pkg:maven/org.javafunk.funk/funk-core@0.1.21
+- pkg:maven/org.javafunk.funk/funk-core@0.1.21?classifier=sources
+- pkg:maven/org.javafunk.funk/funk-core@0.1.22
+- pkg:maven/org.javafunk.funk/funk-core@0.1.22?classifier=sources

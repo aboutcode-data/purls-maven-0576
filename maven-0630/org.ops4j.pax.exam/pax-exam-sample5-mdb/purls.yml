@@ -1,0 +1,2 @@
+- pkg:maven/org.ops4j.pax.exam/pax-exam-sample5-mdb@3.0.0.M4
+- pkg:maven/org.ops4j.pax.exam/pax-exam-sample5-mdb@3.0.0.M4?classifier=sources

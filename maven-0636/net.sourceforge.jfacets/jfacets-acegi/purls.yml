@@ -1,0 +1,6 @@
+- pkg:maven/net.sourceforge.jfacets/jfacets-acegi@3.1
+- pkg:maven/net.sourceforge.jfacets/jfacets-acegi@3.1?classifier=sources
+- pkg:maven/net.sourceforge.jfacets/jfacets-acegi@3.2
+- pkg:maven/net.sourceforge.jfacets/jfacets-acegi@3.2.1
+- pkg:maven/net.sourceforge.jfacets/jfacets-acegi@3.2.1?classifier=sources
+- pkg:maven/net.sourceforge.jfacets/jfacets-acegi@3.2?classifier=sources

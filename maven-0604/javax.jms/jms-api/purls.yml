@@ -1,0 +1,2 @@
+- pkg:maven/javax.jms/jms-api@1.1-rev-1
+- pkg:maven/javax.jms/jms-api@1.1-rev-1?classifier=sources

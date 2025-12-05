@@ -1,0 +1,4 @@
+- pkg:maven/com.nativelibs4java/nativelibs4java-utils@1.4
+- pkg:maven/com.nativelibs4java/nativelibs4java-utils@1.4?classifier=sources
+- pkg:maven/com.nativelibs4java/nativelibs4java-utils@1.5
+- pkg:maven/com.nativelibs4java/nativelibs4java-utils@1.5?classifier=sources

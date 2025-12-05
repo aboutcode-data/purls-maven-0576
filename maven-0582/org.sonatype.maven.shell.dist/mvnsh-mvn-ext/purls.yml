@@ -1,0 +1,4 @@
+- pkg:maven/org.sonatype.maven.shell.dist/mvnsh-mvn-ext@1.0
+- pkg:maven/org.sonatype.maven.shell.dist/mvnsh-mvn-ext@1.0.1
+- pkg:maven/org.sonatype.maven.shell.dist/mvnsh-mvn-ext@1.1.0
+- pkg:maven/org.sonatype.maven.shell.dist/mvnsh-mvn-ext@1.1.0?classifier=sources

@@ -1,0 +1,15 @@
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.freemarker@2.3.15_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.freemarker@2.3.15_3
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.freemarker@2.3.15_4
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.freemarker@2.3.15_5
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.freemarker@2.3.16_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.freemarker@2.3.17_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.freemarker@2.3.18_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.freemarker@2.3.18_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.freemarker@2.3.18_2?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.freemarker@2.3.19_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.freemarker@2.3.19_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.freemarker@2.3.20_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.freemarker@2.3.20_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.freemarker@2.3.20_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.freemarker@2.3.20_1?classifier=src&type=zip

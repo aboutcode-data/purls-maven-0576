@@ -1,0 +1,4 @@
+- pkg:maven/com.versionone/VersionOne.SDK.Java.ObjectModel@12.1.0.150
+- pkg:maven/com.versionone/VersionOne.SDK.Java.ObjectModel@12.1.0.150?classifier=sources
+- pkg:maven/com.versionone/VersionOne.SDK.Java.ObjectModel@13.0.1
+- pkg:maven/com.versionone/VersionOne.SDK.Java.ObjectModel@13.0.1?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/plexus/plexus-compiler-api@1.0
+- pkg:maven/plexus/plexus-compiler-api@1.2
+- pkg:maven/plexus/plexus-compiler-api@1.3
+- pkg:maven/plexus/plexus-compiler-api@1.3-SNAPSHOT
+- pkg:maven/plexus/plexus-compiler-api@1.4
+- pkg:maven/plexus/plexus-compiler-api@1.4?classifier=sources
+- pkg:maven/plexus/plexus-compiler-api@1.5
+- pkg:maven/plexus/plexus-compiler-api@1.5?classifier=sources

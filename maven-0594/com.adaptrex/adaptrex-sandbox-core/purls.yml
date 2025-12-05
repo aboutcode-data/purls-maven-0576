@@ -1,0 +1,10 @@
+- pkg:maven/com.adaptrex/adaptrex-sandbox-core@0.9.13
+- pkg:maven/com.adaptrex/adaptrex-sandbox-core@0.9.13?classifier=sources
+- pkg:maven/com.adaptrex/adaptrex-sandbox-core@0.9.14
+- pkg:maven/com.adaptrex/adaptrex-sandbox-core@0.9.14?classifier=sources
+- pkg:maven/com.adaptrex/adaptrex-sandbox-core@1.0-Alpha
+- pkg:maven/com.adaptrex/adaptrex-sandbox-core@1.0-Alpha2
+- pkg:maven/com.adaptrex/adaptrex-sandbox-core@1.0-Alpha2?classifier=sources
+- pkg:maven/com.adaptrex/adaptrex-sandbox-core@1.0-Alpha3
+- pkg:maven/com.adaptrex/adaptrex-sandbox-core@1.0-Alpha3?classifier=sources
+- pkg:maven/com.adaptrex/adaptrex-sandbox-core@1.0-Alpha?classifier=sources

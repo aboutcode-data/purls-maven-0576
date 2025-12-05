@@ -1,0 +1,6 @@
+- pkg:maven/br.com.caelum.stella/boleto-example@1.0
+- pkg:maven/br.com.caelum.stella/boleto-example@1.0?classifier=sources
+- pkg:maven/br.com.caelum.stella/boleto-example@1.1
+- pkg:maven/br.com.caelum.stella/boleto-example@1.1?classifier=sources
+- pkg:maven/br.com.caelum.stella/boleto-example@1.2
+- pkg:maven/br.com.caelum.stella/boleto-example@1.2?classifier=sources

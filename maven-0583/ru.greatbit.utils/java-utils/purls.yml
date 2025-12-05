@@ -1,0 +1,4 @@
+- pkg:maven/ru.greatbit.utils/java-utils@1.2
+- pkg:maven/ru.greatbit.utils/java-utils@1.2?classifier=sources
+- pkg:maven/ru.greatbit.utils/java-utils@1.3
+- pkg:maven/ru.greatbit.utils/java-utils@1.3?classifier=sources

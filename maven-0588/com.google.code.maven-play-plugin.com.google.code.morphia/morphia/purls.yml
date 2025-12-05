@@ -1,0 +1,2 @@
+- pkg:maven/com.google.code.maven-play-plugin.com.google.code.morphia/morphia@1.00-20110403
+- pkg:maven/com.google.code.maven-play-plugin.com.google.code.morphia/morphia@1.00-20110403?classifier=sources

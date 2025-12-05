@@ -1,0 +1,2 @@
+- pkg:maven/com.wiris.plugin/wirisplugin-api@1.17.17.0415
+- pkg:maven/com.wiris.plugin/wirisplugin-api@1.17.17.0415?classifier=sources

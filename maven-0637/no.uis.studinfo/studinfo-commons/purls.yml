@@ -1,0 +1,2 @@
+- pkg:maven/no.uis.studinfo/studinfo-commons@1.0.1
+- pkg:maven/no.uis.studinfo/studinfo-commons@1.0.1?classifier=sources

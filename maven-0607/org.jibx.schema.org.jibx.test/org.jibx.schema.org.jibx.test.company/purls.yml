@@ -1,0 +1,2 @@
+- pkg:maven/org.jibx.schema.org.jibx.test/org.jibx.schema.org.jibx.test.company@1.0.0
+- pkg:maven/org.jibx.schema.org.jibx.test/org.jibx.schema.org.jibx.test.company@1.0.0?classifier=sources

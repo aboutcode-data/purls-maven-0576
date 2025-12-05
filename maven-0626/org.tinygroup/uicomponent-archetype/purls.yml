@@ -1,0 +1,4 @@
+- pkg:maven/org.tinygroup/uicomponent-archetype@0.0.3?classifier=sources
+- pkg:maven/org.tinygroup/uicomponent-archetype@0.0.4?classifier=sources
+- pkg:maven/org.tinygroup/uicomponent-archetype@0.0.8?classifier=sources
+- pkg:maven/org.tinygroup/uicomponent-archetype@0.0.9?classifier=sources

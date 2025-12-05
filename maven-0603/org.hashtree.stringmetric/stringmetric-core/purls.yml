@@ -1,0 +1,4 @@
+- pkg:maven/org.hashtree.stringmetric/stringmetric-core@0.18.6
+- pkg:maven/org.hashtree.stringmetric/stringmetric-core@0.18.6?classifier=sources
+- pkg:maven/org.hashtree.stringmetric/stringmetric-core@0.18.7
+- pkg:maven/org.hashtree.stringmetric/stringmetric-core@0.18.7?classifier=sources

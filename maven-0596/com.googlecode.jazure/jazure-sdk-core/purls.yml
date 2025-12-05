@@ -1,0 +1,2 @@
+- pkg:maven/com.googlecode.jazure/jazure-sdk-core@1.0
+- pkg:maven/com.googlecode.jazure/jazure-sdk-core@1.0?classifier=sources

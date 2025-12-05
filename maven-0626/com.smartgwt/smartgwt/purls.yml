@@ -1,0 +1,4 @@
+- pkg:maven/com.smartgwt/smartgwt@2.4
+- pkg:maven/com.smartgwt/smartgwt@2.4?classifier=sources
+- pkg:maven/com.smartgwt/smartgwt@2.5-patch
+- pkg:maven/com.smartgwt/smartgwt@2.5-patch?classifier=sources

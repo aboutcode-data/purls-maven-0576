@@ -1,0 +1,14 @@
+- pkg:maven/org.jadira.quant/quant@3.1.0.CR10
+- pkg:maven/org.jadira.quant/quant@3.1.0.CR10?classifier=sources
+- pkg:maven/org.jadira.quant/quant@3.1.0.CR11
+- pkg:maven/org.jadira.quant/quant@3.1.0.CR11?classifier=sources
+- pkg:maven/org.jadira.quant/quant@3.1.0.CR7
+- pkg:maven/org.jadira.quant/quant@3.1.0.CR7?classifier=sources
+- pkg:maven/org.jadira.quant/quant@3.1.0.CR8
+- pkg:maven/org.jadira.quant/quant@3.1.0.CR8?classifier=sources
+- pkg:maven/org.jadira.quant/quant@3.1.0.CR9
+- pkg:maven/org.jadira.quant/quant@3.1.0.CR9?classifier=sources
+- pkg:maven/org.jadira.quant/quant@3.1.0.GA
+- pkg:maven/org.jadira.quant/quant@3.1.0.GA?classifier=sources
+- pkg:maven/org.jadira.quant/quant@3.2.0.GA
+- pkg:maven/org.jadira.quant/quant@3.2.0.GA?classifier=sources

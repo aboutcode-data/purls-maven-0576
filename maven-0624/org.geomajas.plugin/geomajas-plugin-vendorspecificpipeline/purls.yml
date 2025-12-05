@@ -1,0 +1,4 @@
+- pkg:maven/org.geomajas.plugin/geomajas-plugin-vendorspecificpipeline@1.0.0
+- pkg:maven/org.geomajas.plugin/geomajas-plugin-vendorspecificpipeline@1.0.0?classifier=sources
+- pkg:maven/org.geomajas.plugin/geomajas-plugin-vendorspecificpipeline@1.14.0
+- pkg:maven/org.geomajas.plugin/geomajas-plugin-vendorspecificpipeline@1.14.0?classifier=sources

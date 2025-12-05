@@ -1,0 +1,2 @@
+- pkg:maven/uk.bl.wa.whois/jruby-whois@3.4.2.1
+- pkg:maven/uk.bl.wa.whois/jruby-whois@3.4.2.1?classifier=sources

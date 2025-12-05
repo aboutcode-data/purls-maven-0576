@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.sling/org.apache.sling.launchpad.bundles@5-incubator
+- pkg:maven/org.apache.sling/org.apache.sling.launchpad.bundles@5-incubator?classifier=sources

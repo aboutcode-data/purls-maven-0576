@@ -1,0 +1,8 @@
+- pkg:maven/org.apache.myfaces.portlet-bridge/portlet-bridge-facelets-guess@1.0.0?classifier=sources
+- pkg:maven/org.apache.myfaces.portlet-bridge/portlet-bridge-facelets-guess@1.0.0?type=war
+- pkg:maven/org.apache.myfaces.portlet-bridge/portlet-bridge-facelets-guess@2.0.0-beta?classifier=sources
+- pkg:maven/org.apache.myfaces.portlet-bridge/portlet-bridge-facelets-guess@2.0.0-beta?type=war
+- pkg:maven/org.apache.myfaces.portlet-bridge/portlet-bridge-facelets-guess@2.0.0?classifier=sources
+- pkg:maven/org.apache.myfaces.portlet-bridge/portlet-bridge-facelets-guess@2.0.0?type=war
+- pkg:maven/org.apache.myfaces.portlet-bridge/portlet-bridge-facelets-guess@3.0.0-alpha?classifier=sources
+- pkg:maven/org.apache.myfaces.portlet-bridge/portlet-bridge-facelets-guess@3.0.0-alpha?type=war

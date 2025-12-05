@@ -1,0 +1,13 @@
+- pkg:maven/com.hp.hpl.jena/jena@2.5.4
+- pkg:maven/com.hp.hpl.jena/jena@2.5.5
+- pkg:maven/com.hp.hpl.jena/jena@2.5.6
+- pkg:maven/com.hp.hpl.jena/jena@2.5.7
+- pkg:maven/com.hp.hpl.jena/jena@2.5.7?classifier=sources
+- pkg:maven/com.hp.hpl.jena/jena@2.6.0
+- pkg:maven/com.hp.hpl.jena/jena@2.6.0?classifier=sources
+- pkg:maven/com.hp.hpl.jena/jena@2.6.2?classifier=sources
+- pkg:maven/com.hp.hpl.jena/jena@2.6.2?type=zip
+- pkg:maven/com.hp.hpl.jena/jena@2.6.3?classifier=sources
+- pkg:maven/com.hp.hpl.jena/jena@2.6.3?type=zip
+- pkg:maven/com.hp.hpl.jena/jena@2.6.4?classifier=sources
+- pkg:maven/com.hp.hpl.jena/jena@2.6.4?type=zip

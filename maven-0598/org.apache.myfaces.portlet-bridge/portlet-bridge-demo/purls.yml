@@ -1,0 +1,10 @@
+- pkg:maven/org.apache.myfaces.portlet-bridge/portlet-bridge-demo@1.0.0-alpha-2?classifier=sources
+- pkg:maven/org.apache.myfaces.portlet-bridge/portlet-bridge-demo@1.0.0-alpha-2?type=war
+- pkg:maven/org.apache.myfaces.portlet-bridge/portlet-bridge-demo@1.0.0-alpha-3?classifier=sources
+- pkg:maven/org.apache.myfaces.portlet-bridge/portlet-bridge-demo@1.0.0-alpha-3?type=war
+- pkg:maven/org.apache.myfaces.portlet-bridge/portlet-bridge-demo@1.0.0-beta-2?classifier=sources
+- pkg:maven/org.apache.myfaces.portlet-bridge/portlet-bridge-demo@1.0.0-beta-2?type=war
+- pkg:maven/org.apache.myfaces.portlet-bridge/portlet-bridge-demo@1.0.0-beta?classifier=sources
+- pkg:maven/org.apache.myfaces.portlet-bridge/portlet-bridge-demo@1.0.0-beta?type=war
+- pkg:maven/org.apache.myfaces.portlet-bridge/portlet-bridge-demo@2.0.0-alpha-2?classifier=sources
+- pkg:maven/org.apache.myfaces.portlet-bridge/portlet-bridge-demo@2.0.0-alpha-2?type=war

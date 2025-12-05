@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.geronimo.daytrader.assemblies.web/daytrader-web-jdbc@2.2.1?classifier=sources
+- pkg:maven/org.apache.geronimo.daytrader.assemblies.web/daytrader-web-jdbc@2.2.1?type=war

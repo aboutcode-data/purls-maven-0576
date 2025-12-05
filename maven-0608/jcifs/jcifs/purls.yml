@@ -1,0 +1,9 @@
+- pkg:maven/jcifs/jcifs@0.6.5
+- pkg:maven/jcifs/jcifs@0.7.0b12
+- pkg:maven/jcifs/jcifs@0.7.0b5
+- pkg:maven/jcifs/jcifs@0.7.3
+- pkg:maven/jcifs/jcifs@0.7.8
+- pkg:maven/jcifs/jcifs@0.7.9
+- pkg:maven/jcifs/jcifs@0.8.3
+- pkg:maven/jcifs/jcifs@1.3.17
+- pkg:maven/jcifs/jcifs@1.3.17?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/org.hudsonci.plugins/maven-repository-server@0.1?classifier=sources
