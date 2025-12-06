@@ -3,3 +3,4 @@
 - pkg:maven/com.bluetrainsoftware.composite/composite-groovy@1.3
 - pkg:maven/com.bluetrainsoftware.composite/composite-groovy@1.4
 - pkg:maven/com.bluetrainsoftware.composite/composite-groovy@2.1
+- pkg:maven/com.bluetrainsoftware.composite/composite-groovy@3.1

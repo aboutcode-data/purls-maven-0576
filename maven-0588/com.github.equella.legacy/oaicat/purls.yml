@@ -1,0 +1,2 @@
+- pkg:maven/com.github.equella.legacy/oaicat@1.5.57
+- pkg:maven/com.github.equella.legacy/oaicat@1.5.57?classifier=sources

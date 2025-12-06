@@ -1,0 +1,8 @@
+- pkg:maven/com.reprezen.kaizen/openapi-parser@0.0.1.201709142043
+- pkg:maven/com.reprezen.kaizen/openapi-parser@0.0.1.201709142043?classifier=sources
+- pkg:maven/com.reprezen.kaizen/openapi-parser@0.0.1.201709181239
+- pkg:maven/com.reprezen.kaizen/openapi-parser@0.0.1.201709181239?classifier=sources
+- pkg:maven/com.reprezen.kaizen/openapi-parser@0.0.1.201710022120
+- pkg:maven/com.reprezen.kaizen/openapi-parser@0.0.1.201710022120?classifier=sources
+- pkg:maven/com.reprezen.kaizen/openapi-parser@0.0.2.201710151503
+- pkg:maven/com.reprezen.kaizen/openapi-parser@0.0.2.201710151503?classifier=sources

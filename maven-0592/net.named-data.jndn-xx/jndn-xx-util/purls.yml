@@ -1,2 +1,4 @@
 - pkg:maven/net.named-data.jndn-xx/jndn-xx-util@0.0.1
 - pkg:maven/net.named-data.jndn-xx/jndn-xx-util@0.0.1?classifier=sources
+- pkg:maven/net.named-data.jndn-xx/jndn-xx-util@0.0.2
+- pkg:maven/net.named-data.jndn-xx/jndn-xx-util@0.0.2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.tqdev.metrics/metrics-http@0.9.21
+- pkg:maven/com.tqdev.metrics/metrics-http@0.9.21?classifier=sources
+- pkg:maven/com.tqdev.metrics/metrics-http@0.9.22
+- pkg:maven/com.tqdev.metrics/metrics-http@0.9.22?classifier=sources

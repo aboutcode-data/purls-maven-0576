@@ -8,3 +8,7 @@
 - pkg:maven/com.foreach.across/across-web@1.1.3.RELEASE?classifier=sources
 - pkg:maven/com.foreach.across/across-web@2.0.0.RELEASE
 - pkg:maven/com.foreach.across/across-web@2.0.0.RELEASE?classifier=sources
+- pkg:maven/com.foreach.across/across-web@2.1.0.RELEASE
+- pkg:maven/com.foreach.across/across-web@2.1.0.RELEASE?classifier=sources
+- pkg:maven/com.foreach.across/across-web@2.1.1.RELEASE
+- pkg:maven/com.foreach.across/across-web@2.1.1.RELEASE?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/org.t-io/tio-websocket-server@0.0.1-tio-websocket
+- pkg:maven/org.t-io/tio-websocket-server@0.0.1-tio-websocket?classifier=sources
+- pkg:maven/org.t-io/tio-websocket-server@0.0.2-tio-websocket
+- pkg:maven/org.t-io/tio-websocket-server@0.0.2-tio-websocket?classifier=sources
+- pkg:maven/org.t-io/tio-websocket-server@0.0.3-tio-websocket
+- pkg:maven/org.t-io/tio-websocket-server@0.0.3-tio-websocket?classifier=sources
+- pkg:maven/org.t-io/tio-websocket-server@0.0.4-tio-websocket
+- pkg:maven/org.t-io/tio-websocket-server@0.0.4-tio-websocket?classifier=sources
+- pkg:maven/org.t-io/tio-websocket-server@0.0.5-tio-websocket
+- pkg:maven/org.t-io/tio-websocket-server@0.0.5-tio-websocket?classifier=sources

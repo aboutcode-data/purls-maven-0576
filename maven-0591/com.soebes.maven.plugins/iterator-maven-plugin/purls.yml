@@ -8,3 +8,5 @@
 - pkg:maven/com.soebes.maven.plugins/iterator-maven-plugin@0.4?classifier=sources
 - pkg:maven/com.soebes.maven.plugins/iterator-maven-plugin@0.5.0
 - pkg:maven/com.soebes.maven.plugins/iterator-maven-plugin@0.5.0?classifier=sources
+- pkg:maven/com.soebes.maven.plugins/iterator-maven-plugin@0.5.1
+- pkg:maven/com.soebes.maven.plugins/iterator-maven-plugin@0.5.1?classifier=sources

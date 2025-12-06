@@ -1,1 +1,4 @@
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.doc.user@3.12.1
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.doc.user@3.13.0
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.doc.user@3.13.50
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.doc.user@3.13.51

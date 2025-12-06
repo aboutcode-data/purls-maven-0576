@@ -1,0 +1,2 @@
+- pkg:maven/com.xtivia.speedray/openapi-jaxrs@1.0.1
+- pkg:maven/com.xtivia.speedray/openapi-jaxrs@1.0.1?classifier=sources

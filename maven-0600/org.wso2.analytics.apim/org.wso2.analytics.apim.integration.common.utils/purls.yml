@@ -1,0 +1,4 @@
+- pkg:maven/org.wso2.analytics.apim/org.wso2.analytics.apim.integration.common.utils@2.1.0-update2
+- pkg:maven/org.wso2.analytics.apim/org.wso2.analytics.apim.integration.common.utils@2.1.0-update2?classifier=sources
+- pkg:maven/org.wso2.analytics.apim/org.wso2.analytics.apim.integration.common.utils@2.1.0-update3
+- pkg:maven/org.wso2.analytics.apim/org.wso2.analytics.apim.integration.common.utils@2.1.0-update3?classifier=sources

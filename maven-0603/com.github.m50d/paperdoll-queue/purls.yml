@@ -1,2 +1,4 @@
 - pkg:maven/com.github.m50d/paperdoll-queue@0.4
 - pkg:maven/com.github.m50d/paperdoll-queue@0.4?classifier=sources
+- pkg:maven/com.github.m50d/paperdoll-queue@0.5
+- pkg:maven/com.github.m50d/paperdoll-queue@0.5?classifier=sources

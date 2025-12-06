@@ -1,0 +1,2 @@
+- pkg:maven/org.messaginghub/pooled-jms@0.1.0
+- pkg:maven/org.messaginghub/pooled-jms@0.1.0?classifier=sources

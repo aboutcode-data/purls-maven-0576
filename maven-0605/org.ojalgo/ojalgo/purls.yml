@@ -30,3 +30,5 @@
 - pkg:maven/org.ojalgo/ojalgo@42.0.0?classifier=sources
 - pkg:maven/org.ojalgo/ojalgo@43.0
 - pkg:maven/org.ojalgo/ojalgo@43.0?classifier=sources
+- pkg:maven/org.ojalgo/ojalgo@44.0.0
+- pkg:maven/org.ojalgo/ojalgo@44.0.0?classifier=sources

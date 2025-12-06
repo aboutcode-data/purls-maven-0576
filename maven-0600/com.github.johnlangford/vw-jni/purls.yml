@@ -4,3 +4,5 @@
 - pkg:maven/com.github.johnlangford/vw-jni@8.1.0?classifier=sources
 - pkg:maven/com.github.johnlangford/vw-jni@8.2.0
 - pkg:maven/com.github.johnlangford/vw-jni@8.2.0?classifier=sources
+- pkg:maven/com.github.johnlangford/vw-jni@8.4.1
+- pkg:maven/com.github.johnlangford/vw-jni@8.4.1?classifier=sources

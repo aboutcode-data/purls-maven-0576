@@ -1,0 +1,2 @@
+- pkg:maven/com.github.kerner1000/k-tools1000@0.0.1
+- pkg:maven/com.github.kerner1000/k-tools1000@0.0.1?classifier=sources

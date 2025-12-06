@@ -1,0 +1,2 @@
+- pkg:maven/uk.ac.nactem.argo/uimafit-maven-plugin@2.3.0-NACTEM-1
+- pkg:maven/uk.ac.nactem.argo/uimafit-maven-plugin@2.3.0-NACTEM-1?classifier=sources

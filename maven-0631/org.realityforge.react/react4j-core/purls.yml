@@ -1,0 +1,4 @@
+- pkg:maven/org.realityforge.react/react4j-core@0.01
+- pkg:maven/org.realityforge.react/react4j-core@0.01?classifier=sources
+- pkg:maven/org.realityforge.react/react4j-core@0.02
+- pkg:maven/org.realityforge.react/react4j-core@0.02?classifier=sources

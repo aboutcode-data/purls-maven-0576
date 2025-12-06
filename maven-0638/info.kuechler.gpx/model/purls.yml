@@ -1,0 +1,2 @@
+- pkg:maven/info.kuechler.gpx/model@1.1.0
+- pkg:maven/info.kuechler.gpx/model@1.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.hynnet/xws-security@3.0
+- pkg:maven/com.hynnet/xws-security@3.0?classifier=sources

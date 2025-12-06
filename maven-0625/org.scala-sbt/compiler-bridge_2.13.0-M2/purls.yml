@@ -1,0 +1,16 @@
+- pkg:maven/org.scala-sbt/compiler-bridge_2.13.0-M2@1.0.4
+- pkg:maven/org.scala-sbt/compiler-bridge_2.13.0-M2@1.0.4?classifier=sources
+- pkg:maven/org.scala-sbt/compiler-bridge_2.13.0-M2@1.0.5
+- pkg:maven/org.scala-sbt/compiler-bridge_2.13.0-M2@1.0.5?classifier=sources
+- pkg:maven/org.scala-sbt/compiler-bridge_2.13.0-M2@1.1.0-M1-bootstrap
+- pkg:maven/org.scala-sbt/compiler-bridge_2.13.0-M2@1.1.0-M1-bootstrap2
+- pkg:maven/org.scala-sbt/compiler-bridge_2.13.0-M2@1.1.0-M1-bootstrap2?classifier=sources
+- pkg:maven/org.scala-sbt/compiler-bridge_2.13.0-M2@1.1.0-M1-bootstrap?classifier=sources
+- pkg:maven/org.scala-sbt/compiler-bridge_2.13.0-M2@1.1.0-RC1
+- pkg:maven/org.scala-sbt/compiler-bridge_2.13.0-M2@1.1.0-RC1?classifier=sources
+- pkg:maven/org.scala-sbt/compiler-bridge_2.13.0-M2@1.1.0-RC2
+- pkg:maven/org.scala-sbt/compiler-bridge_2.13.0-M2@1.1.0-RC2?classifier=sources
+- pkg:maven/org.scala-sbt/compiler-bridge_2.13.0-M2@1.1.0-RC3
+- pkg:maven/org.scala-sbt/compiler-bridge_2.13.0-M2@1.1.0-RC3?classifier=sources
+- pkg:maven/org.scala-sbt/compiler-bridge_2.13.0-M2@1.1.0-RC4
+- pkg:maven/org.scala-sbt/compiler-bridge_2.13.0-M2@1.1.0-RC4?classifier=sources

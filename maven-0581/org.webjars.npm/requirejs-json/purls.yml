@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/requirejs-json@0.0.3
+- pkg:maven/org.webjars.npm/requirejs-json@0.0.3?classifier=sources

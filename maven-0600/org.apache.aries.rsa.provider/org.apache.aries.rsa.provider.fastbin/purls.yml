@@ -1,3 +1,5 @@
 - pkg:maven/org.apache.aries.rsa.provider/org.apache.aries.rsa.provider.fastbin@1.10.0
+- pkg:maven/org.apache.aries.rsa.provider/org.apache.aries.rsa.provider.fastbin@1.11.0
+- pkg:maven/org.apache.aries.rsa.provider/org.apache.aries.rsa.provider.fastbin@1.11.0?classifier=sources
 - pkg:maven/org.apache.aries.rsa.provider/org.apache.aries.rsa.provider.fastbin@1.9.0
 - pkg:maven/org.apache.aries.rsa.provider/org.apache.aries.rsa.provider.fastbin@1.9.0?classifier=sources

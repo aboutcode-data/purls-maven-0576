@@ -1,0 +1,2 @@
+- pkg:maven/com.pushtorefresh.storio3/sqlite-annotations-processor@3.0.0
+- pkg:maven/com.pushtorefresh.storio3/sqlite-annotations-processor@3.0.0?classifier=sources

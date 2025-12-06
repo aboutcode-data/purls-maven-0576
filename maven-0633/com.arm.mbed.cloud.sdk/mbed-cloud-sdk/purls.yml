@@ -1,0 +1,6 @@
+- pkg:maven/com.arm.mbed.cloud.sdk/mbed-cloud-sdk@1.2.1?classifier=sources
+- pkg:maven/com.arm.mbed.cloud.sdk/mbed-cloud-sdk@1.2.1?type=zip
+- pkg:maven/com.arm.mbed.cloud.sdk/mbed-cloud-sdk@1.2.3?classifier=sources
+- pkg:maven/com.arm.mbed.cloud.sdk/mbed-cloud-sdk@1.2.3?type=zip
+- pkg:maven/com.arm.mbed.cloud.sdk/mbed-cloud-sdk@1.2.4?classifier=sources
+- pkg:maven/com.arm.mbed.cloud.sdk/mbed-cloud-sdk@1.2.4?type=zip

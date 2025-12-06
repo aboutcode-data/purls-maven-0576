@@ -1,0 +1,2 @@
+- pkg:maven/io.github.factoryfx/vuejsFactoryEditing@0.5.2
+- pkg:maven/io.github.factoryfx/vuejsFactoryEditing@0.5.2?classifier=sources

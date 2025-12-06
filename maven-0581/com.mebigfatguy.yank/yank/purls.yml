@@ -22,3 +22,5 @@
 - pkg:maven/com.mebigfatguy.yank/yank@1.6.1?classifier=sources
 - pkg:maven/com.mebigfatguy.yank/yank@1.8.0
 - pkg:maven/com.mebigfatguy.yank/yank@1.8.0?classifier=sources
+- pkg:maven/com.mebigfatguy.yank/yank@2.0.0
+- pkg:maven/com.mebigfatguy.yank/yank@2.0.0?classifier=sources

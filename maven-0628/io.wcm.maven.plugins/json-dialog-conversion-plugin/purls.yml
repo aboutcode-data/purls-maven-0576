@@ -1,0 +1,2 @@
+- pkg:maven/io.wcm.maven.plugins/json-dialog-conversion-plugin@1.0.0
+- pkg:maven/io.wcm.maven.plugins/json-dialog-conversion-plugin@1.0.0?classifier=sources

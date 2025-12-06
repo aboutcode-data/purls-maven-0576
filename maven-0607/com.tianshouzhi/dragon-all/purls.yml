@@ -1,0 +1,2 @@
+- pkg:maven/com.tianshouzhi/dragon-all@0.0.3
+- pkg:maven/com.tianshouzhi/dragon-all@0.0.3?classifier=sources

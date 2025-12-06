@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/github-com-nikcub-typeahead@0.11.1
+- pkg:maven/org.webjars.bower/github-com-nikcub-typeahead@0.11.1?classifier=sources

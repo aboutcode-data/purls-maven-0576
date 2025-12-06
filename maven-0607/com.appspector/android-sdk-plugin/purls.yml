@@ -1,0 +1,2 @@
+- pkg:maven/com.appspector/android-sdk-plugin@0.1.0
+- pkg:maven/com.appspector/android-sdk-plugin@0.1.0?classifier=sources

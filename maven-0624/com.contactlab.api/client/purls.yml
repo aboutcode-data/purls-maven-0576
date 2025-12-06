@@ -6,3 +6,7 @@
 - pkg:maven/com.contactlab.api/client@2.15?classifier=sources
 - pkg:maven/com.contactlab.api/client@2.16
 - pkg:maven/com.contactlab.api/client@2.16?classifier=sources
+- pkg:maven/com.contactlab.api/client@2.18
+- pkg:maven/com.contactlab.api/client@2.18.1
+- pkg:maven/com.contactlab.api/client@2.18.1?classifier=sources
+- pkg:maven/com.contactlab.api/client@2.18?classifier=sources

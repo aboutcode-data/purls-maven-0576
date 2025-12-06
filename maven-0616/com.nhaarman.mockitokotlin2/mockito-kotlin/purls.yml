@@ -1,0 +1,4 @@
+- pkg:maven/com.nhaarman.mockitokotlin2/mockito-kotlin@2.0.0-alpha01
+- pkg:maven/com.nhaarman.mockitokotlin2/mockito-kotlin@2.0.0-alpha01?classifier=sources
+- pkg:maven/com.nhaarman.mockitokotlin2/mockito-kotlin@2.0.0-alpha02
+- pkg:maven/com.nhaarman.mockitokotlin2/mockito-kotlin@2.0.0-alpha02?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/ml.dmlc.mxnet/libmxnet-init-scala-osx-x86_64@0.9.3a?classifier=sources
+- pkg:maven/ml.dmlc.mxnet/libmxnet-init-scala-osx-x86_64@v0.11.1a?classifier=sources

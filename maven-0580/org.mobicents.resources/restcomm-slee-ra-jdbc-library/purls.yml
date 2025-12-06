@@ -16,3 +16,5 @@
 - pkg:maven/org.mobicents.resources/restcomm-slee-ra-jdbc-library@2.8.9?classifier=sources
 - pkg:maven/org.mobicents.resources/restcomm-slee-ra-jdbc-library@2.9.13
 - pkg:maven/org.mobicents.resources/restcomm-slee-ra-jdbc-library@2.9.13?classifier=sources
+- pkg:maven/org.mobicents.resources/restcomm-slee-ra-jdbc-library@2.9.14
+- pkg:maven/org.mobicents.resources/restcomm-slee-ra-jdbc-library@2.9.14?classifier=sources

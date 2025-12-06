@@ -1,0 +1,2 @@
+- pkg:maven/com.varmateo.aktoro/aktoro-api@0.0.1
+- pkg:maven/com.varmateo.aktoro/aktoro-api@0.0.1?classifier=sources

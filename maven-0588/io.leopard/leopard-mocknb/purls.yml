@@ -1,2 +1,4 @@
 - pkg:maven/io.leopard/leopard-mocknb@0.9.10
 - pkg:maven/io.leopard/leopard-mocknb@0.9.10?classifier=sources
+- pkg:maven/io.leopard/leopard-mocknb@0.9.11
+- pkg:maven/io.leopard/leopard-mocknb@0.9.11?classifier=sources

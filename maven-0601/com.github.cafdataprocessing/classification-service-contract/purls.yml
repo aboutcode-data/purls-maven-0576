@@ -1,2 +1,6 @@
 - pkg:maven/com.github.cafdataprocessing/classification-service-contract@1.0.0-2
 - pkg:maven/com.github.cafdataprocessing/classification-service-contract@1.0.0-2?classifier=sources
+- pkg:maven/com.github.cafdataprocessing/classification-service-contract@1.1.0-16
+- pkg:maven/com.github.cafdataprocessing/classification-service-contract@1.1.0-16?classifier=sources
+- pkg:maven/com.github.cafdataprocessing/classification-service-contract@1.2.0-24
+- pkg:maven/com.github.cafdataprocessing/classification-service-contract@1.2.0-24?classifier=sources

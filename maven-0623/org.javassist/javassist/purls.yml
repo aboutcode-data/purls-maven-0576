@@ -26,3 +26,7 @@
 - pkg:maven/org.javassist/javassist@3.21.0-GA?classifier=sources
 - pkg:maven/org.javassist/javassist@3.22.0-CR1
 - pkg:maven/org.javassist/javassist@3.22.0-CR1?classifier=sources
+- pkg:maven/org.javassist/javassist@3.22.0-CR2
+- pkg:maven/org.javassist/javassist@3.22.0-CR2?classifier=sources
+- pkg:maven/org.javassist/javassist@3.22.0-GA
+- pkg:maven/org.javassist/javassist@3.22.0-GA?classifier=sources

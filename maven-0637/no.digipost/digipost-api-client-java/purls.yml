@@ -73,3 +73,11 @@
 - pkg:maven/no.digipost/digipost-api-client-java@8.1?classifier=sources
 - pkg:maven/no.digipost/digipost-api-client-java@8.2?classifier=sources
 - pkg:maven/no.digipost/digipost-api-client-java@8.3?classifier=sources
+- pkg:maven/no.digipost/digipost-api-client-java@8.4.1?classifier=sources
+- pkg:maven/no.digipost/digipost-api-client-java@8.5?classifier=sources
+- pkg:maven/no.digipost/digipost-api-client-java@9.0.1?classifier=sources
+- pkg:maven/no.digipost/digipost-api-client-java@9.0.2?classifier=sources
+- pkg:maven/no.digipost/digipost-api-client-java@9.0.RC1?classifier=sources
+- pkg:maven/no.digipost/digipost-api-client-java@9.0.RC2?classifier=sources
+- pkg:maven/no.digipost/digipost-api-client-java@9.0.RC3?classifier=sources
+- pkg:maven/no.digipost/digipost-api-client-java@9.0?classifier=sources

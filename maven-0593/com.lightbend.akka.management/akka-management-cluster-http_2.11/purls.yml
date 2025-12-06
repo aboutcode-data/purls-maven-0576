@@ -1,0 +1,4 @@
+- pkg:maven/com.lightbend.akka.management/akka-management-cluster-http_2.11@0.7
+- pkg:maven/com.lightbend.akka.management/akka-management-cluster-http_2.11@0.7.1
+- pkg:maven/com.lightbend.akka.management/akka-management-cluster-http_2.11@0.7.1?classifier=sources
+- pkg:maven/com.lightbend.akka.management/akka-management-cluster-http_2.11@0.7?classifier=sources

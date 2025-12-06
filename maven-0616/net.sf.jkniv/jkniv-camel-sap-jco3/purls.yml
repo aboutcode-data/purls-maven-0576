@@ -2,3 +2,5 @@
 - pkg:maven/net.sf.jkniv/jkniv-camel-sap-jco3@2.17.3?classifier=sources
 - pkg:maven/net.sf.jkniv/jkniv-camel-sap-jco3@2.17.4
 - pkg:maven/net.sf.jkniv/jkniv-camel-sap-jco3@2.17.4?classifier=sources
+- pkg:maven/net.sf.jkniv/jkniv-camel-sap-jco3@2.18.0.RC1
+- pkg:maven/net.sf.jkniv/jkniv-camel-sap-jco3@2.18.0.RC1?classifier=sources

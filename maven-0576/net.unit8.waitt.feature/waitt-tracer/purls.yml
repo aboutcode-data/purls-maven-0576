@@ -1,2 +1,4 @@
 - pkg:maven/net.unit8.waitt.feature/waitt-tracer@0.1.0
 - pkg:maven/net.unit8.waitt.feature/waitt-tracer@0.1.0?classifier=sources
+- pkg:maven/net.unit8.waitt.feature/waitt-tracer@1.2.1
+- pkg:maven/net.unit8.waitt.feature/waitt-tracer@1.2.1?classifier=sources

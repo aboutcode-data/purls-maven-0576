@@ -1,0 +1,2 @@
+- pkg:maven/org.devefx.spring.boot/druid-spring-boot-starter@1.0.31
+- pkg:maven/org.devefx.spring.boot/druid-spring-boot-starter@1.0.31?classifier=sources

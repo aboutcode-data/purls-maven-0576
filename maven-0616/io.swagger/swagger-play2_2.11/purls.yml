@@ -6,3 +6,5 @@
 - pkg:maven/io.swagger/swagger-play2_2.11@1.5.2?classifier=sources
 - pkg:maven/io.swagger/swagger-play2_2.11@1.5.3
 - pkg:maven/io.swagger/swagger-play2_2.11@1.5.3?classifier=sources
+- pkg:maven/io.swagger/swagger-play2_2.11@1.6.0
+- pkg:maven/io.swagger/swagger-play2_2.11@1.6.0?classifier=sources

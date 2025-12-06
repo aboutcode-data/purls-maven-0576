@@ -1,2 +1,8 @@
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.debug.ui@3.7.201
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.debug.ui@3.7.201?classifier=sources
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.debug.ui@3.8.0
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.debug.ui@3.8.0?classifier=sources
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.debug.ui@3.8.50
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.debug.ui@3.8.50?classifier=sources
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.debug.ui@3.8.51
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.debug.ui@3.8.51?classifier=sources

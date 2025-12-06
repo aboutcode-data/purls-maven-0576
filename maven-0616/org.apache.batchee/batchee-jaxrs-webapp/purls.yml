@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.batchee/batchee-jaxrs-webapp@0.3-incubating?type=war
 - pkg:maven/org.apache.batchee/batchee-jaxrs-webapp@0.4-incubating?classifier=sources
 - pkg:maven/org.apache.batchee/batchee-jaxrs-webapp@0.4-incubating?type=war
+- pkg:maven/org.apache.batchee/batchee-jaxrs-webapp@0.5-incubating?classifier=sources
+- pkg:maven/org.apache.batchee/batchee-jaxrs-webapp@0.5-incubating?type=war

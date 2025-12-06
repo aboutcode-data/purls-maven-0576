@@ -1,0 +1,4 @@
+- pkg:maven/com.exadatum.xsuite.xmaven/xassembly-maven-plugin@1.0.11
+- pkg:maven/com.exadatum.xsuite.xmaven/xassembly-maven-plugin@1.0.11?classifier=sources
+- pkg:maven/com.exadatum.xsuite.xmaven/xassembly-maven-plugin@release-1.0.10
+- pkg:maven/com.exadatum.xsuite.xmaven/xassembly-maven-plugin@release-1.0.10?classifier=sources

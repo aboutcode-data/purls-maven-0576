@@ -4,3 +4,7 @@
 - pkg:maven/com.identityx/IdentityXRestDef@1.0.0.37?classifier=sources
 - pkg:maven/com.identityx/IdentityXRestDef@1.0.0.52
 - pkg:maven/com.identityx/IdentityXRestDef@1.0.0.52?classifier=sources
+- pkg:maven/com.identityx/IdentityXRestDef@4.2.1.0
+- pkg:maven/com.identityx/IdentityXRestDef@4.2.1.0?classifier=sources
+- pkg:maven/com.identityx/IdentityXRestDef@4.3.0.0
+- pkg:maven/com.identityx/IdentityXRestDef@4.3.0.0?classifier=sources

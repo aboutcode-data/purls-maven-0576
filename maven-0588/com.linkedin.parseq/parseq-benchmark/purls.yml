@@ -4,3 +4,17 @@
 - pkg:maven/com.linkedin.parseq/parseq-benchmark@2.6.16?classifier=sources
 - pkg:maven/com.linkedin.parseq/parseq-benchmark@2.6.17
 - pkg:maven/com.linkedin.parseq/parseq-benchmark@2.6.17?classifier=sources
+- pkg:maven/com.linkedin.parseq/parseq-benchmark@2.6.18
+- pkg:maven/com.linkedin.parseq/parseq-benchmark@2.6.18?classifier=sources
+- pkg:maven/com.linkedin.parseq/parseq-benchmark@2.6.19
+- pkg:maven/com.linkedin.parseq/parseq-benchmark@2.6.19?classifier=sources
+- pkg:maven/com.linkedin.parseq/parseq-benchmark@2.6.20
+- pkg:maven/com.linkedin.parseq/parseq-benchmark@2.6.20?classifier=sources
+- pkg:maven/com.linkedin.parseq/parseq-benchmark@2.6.21
+- pkg:maven/com.linkedin.parseq/parseq-benchmark@2.6.21?classifier=sources
+- pkg:maven/com.linkedin.parseq/parseq-benchmark@2.6.22
+- pkg:maven/com.linkedin.parseq/parseq-benchmark@2.6.22?classifier=sources
+- pkg:maven/com.linkedin.parseq/parseq-benchmark@2.6.23
+- pkg:maven/com.linkedin.parseq/parseq-benchmark@2.6.23?classifier=sources
+- pkg:maven/com.linkedin.parseq/parseq-benchmark@2.6.24
+- pkg:maven/com.linkedin.parseq/parseq-benchmark@2.6.24?classifier=sources

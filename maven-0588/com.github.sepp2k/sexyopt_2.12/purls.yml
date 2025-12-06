@@ -1,0 +1,4 @@
+- pkg:maven/com.github.sepp2k/sexyopt_2.12@0.1
+- pkg:maven/com.github.sepp2k/sexyopt_2.12@0.1.1
+- pkg:maven/com.github.sepp2k/sexyopt_2.12@0.1.1?classifier=sources
+- pkg:maven/com.github.sepp2k/sexyopt_2.12@0.1?classifier=sources

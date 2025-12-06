@@ -1,0 +1,2 @@
+- pkg:maven/com.zavakid.lean101/handyhc@0.0.1
+- pkg:maven/com.zavakid.lean101/handyhc@0.0.1?classifier=sources

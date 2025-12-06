@@ -1,0 +1,2 @@
+- pkg:maven/com.github.shyiko.levelkt/levelkt@0.1.0
+- pkg:maven/com.github.shyiko.levelkt/levelkt@0.1.0?classifier=sources

@@ -22,6 +22,12 @@
 - pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly.js.provider@1.0.22
 - pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly.js.provider@1.0.22?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly.js.provider@1.0.22?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly.js.provider@1.0.24
+- pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly.js.provider@1.0.24?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly.js.provider@1.0.24?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly.js.provider@1.0.26
+- pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly.js.provider@1.0.26?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly.js.provider@1.0.26?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly.js.provider@1.0.4
 - pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly.js.provider@1.0.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly.js.provider@1.0.4?classifier=sources

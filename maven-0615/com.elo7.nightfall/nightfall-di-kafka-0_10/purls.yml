@@ -1,0 +1,2 @@
+- pkg:maven/com.elo7.nightfall/nightfall-di-kafka-0_10@2.0.0
+- pkg:maven/com.elo7.nightfall/nightfall-di-kafka-0_10@2.0.0?classifier=sources

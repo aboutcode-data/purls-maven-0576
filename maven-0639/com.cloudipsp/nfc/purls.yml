@@ -1,0 +1,2 @@
+- pkg:maven/com.cloudipsp/nfc@0.1?classifier=sources
+- pkg:maven/com.cloudipsp/nfc@0.1?type=aar

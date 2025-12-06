@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.flink/flink-s3-fs-hadoop@1.4.0
+- pkg:maven/org.apache.flink/flink-s3-fs-hadoop@1.4.0?classifier=sources

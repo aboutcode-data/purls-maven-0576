@@ -12,3 +12,7 @@
 - pkg:maven/com.cuisongliu/druid-spring-boot-starter@1.0.31.06
 - pkg:maven/com.cuisongliu/druid-spring-boot-starter@1.0.31.06?classifier=sources
 - pkg:maven/com.cuisongliu/druid-spring-boot-starter@1.0.31?classifier=sources
+- pkg:maven/com.cuisongliu/druid-spring-boot-starter@1.1.0
+- pkg:maven/com.cuisongliu/druid-spring-boot-starter@1.1.0?classifier=sources
+- pkg:maven/com.cuisongliu/druid-spring-boot-starter@1.2
+- pkg:maven/com.cuisongliu/druid-spring-boot-starter@1.2?classifier=sources

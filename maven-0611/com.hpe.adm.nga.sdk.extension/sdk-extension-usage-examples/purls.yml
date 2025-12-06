@@ -1,0 +1,4 @@
+- pkg:maven/com.hpe.adm.nga.sdk.extension/sdk-extension-usage-examples@12.55.4
+- pkg:maven/com.hpe.adm.nga.sdk.extension/sdk-extension-usage-examples@12.55.4?classifier=sources
+- pkg:maven/com.hpe.adm.nga.sdk.extension/sdk-extension-usage-examples@12.55.5
+- pkg:maven/com.hpe.adm.nga.sdk.extension/sdk-extension-usage-examples@12.55.5?classifier=sources

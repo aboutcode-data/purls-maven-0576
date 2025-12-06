@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.joram/joram-mom-extensions-restbridge@5.14.0
+- pkg:maven/org.ow2.joram/joram-mom-extensions-restbridge@5.14.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.github.redsolo.vcmtool/console@1.0.7
 - pkg:maven/com.github.redsolo.vcmtool/console@1.0.7?classifier=sources
+- pkg:maven/com.github.redsolo.vcmtool/console@1.2.0
+- pkg:maven/com.github.redsolo.vcmtool/console@1.2.0?classifier=sources

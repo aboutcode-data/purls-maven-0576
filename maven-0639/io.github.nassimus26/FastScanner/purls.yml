@@ -1,0 +1,2 @@
+- pkg:maven/io.github.nassimus26/FastScanner@1.0.0
+- pkg:maven/io.github.nassimus26/FastScanner@1.0.0?classifier=sources

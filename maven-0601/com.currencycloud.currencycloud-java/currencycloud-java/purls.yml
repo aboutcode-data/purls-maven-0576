@@ -4,3 +4,7 @@
 - pkg:maven/com.currencycloud.currencycloud-java/currencycloud-java@0.7.2?classifier=sources
 - pkg:maven/com.currencycloud.currencycloud-java/currencycloud-java@0.7.3
 - pkg:maven/com.currencycloud.currencycloud-java/currencycloud-java@0.7.3?classifier=sources
+- pkg:maven/com.currencycloud.currencycloud-java/currencycloud-java@0.7.5
+- pkg:maven/com.currencycloud.currencycloud-java/currencycloud-java@0.7.5?classifier=sources
+- pkg:maven/com.currencycloud.currencycloud-java/currencycloud-java@0.7.6
+- pkg:maven/com.currencycloud.currencycloud-java/currencycloud-java@0.7.6?classifier=sources

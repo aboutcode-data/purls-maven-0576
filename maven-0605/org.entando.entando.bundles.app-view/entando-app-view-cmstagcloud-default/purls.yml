@@ -1,1 +1,3 @@
 - pkg:maven/org.entando.entando.bundles.app-view/entando-app-view-cmstagcloud-default@4.2.0-TP1?type=war
+- pkg:maven/org.entando.entando.bundles.app-view/entando-app-view-cmstagcloud-default@4.3.1?classifier=sources
+- pkg:maven/org.entando.entando.bundles.app-view/entando-app-view-cmstagcloud-default@4.3.1?type=war

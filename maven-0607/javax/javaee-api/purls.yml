@@ -3,3 +3,5 @@
 - pkg:maven/javax/javaee-api@6.0-RC2
 - pkg:maven/javax/javaee-api@7.0
 - pkg:maven/javax/javaee-api@7.0?classifier=sources
+- pkg:maven/javax/javaee-api@8.0
+- pkg:maven/javax/javaee-api@8.0?classifier=sources

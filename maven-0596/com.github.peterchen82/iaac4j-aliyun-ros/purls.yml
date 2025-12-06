@@ -1,0 +1,4 @@
+- pkg:maven/com.github.peterchen82/iaac4j-aliyun-ros@1.0
+- pkg:maven/com.github.peterchen82/iaac4j-aliyun-ros@1.0?classifier=sources
+- pkg:maven/com.github.peterchen82/iaac4j-aliyun-ros@1.1
+- pkg:maven/com.github.peterchen82/iaac4j-aliyun-ros@1.1?classifier=sources

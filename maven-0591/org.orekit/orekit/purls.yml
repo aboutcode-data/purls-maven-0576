@@ -12,6 +12,16 @@
 - pkg:maven/org.orekit/orekit@7.1
 - pkg:maven/org.orekit/orekit@7.1?classifier=sources
 - pkg:maven/org.orekit/orekit@7.2
+- pkg:maven/org.orekit/orekit@7.2.1
+- pkg:maven/org.orekit/orekit@7.2.1?classifier=sources
 - pkg:maven/org.orekit/orekit@7.2?classifier=sources
 - pkg:maven/org.orekit/orekit@8.0
+- pkg:maven/org.orekit/orekit@8.0.1
+- pkg:maven/org.orekit/orekit@8.0.1?classifier=sources
 - pkg:maven/org.orekit/orekit@8.0?classifier=sources
+- pkg:maven/org.orekit/orekit@9.0
+- pkg:maven/org.orekit/orekit@9.0.1
+- pkg:maven/org.orekit/orekit@9.0.1?classifier=sources
+- pkg:maven/org.orekit/orekit@9.0?classifier=sources
+- pkg:maven/org.orekit/orekit@9.1
+- pkg:maven/org.orekit/orekit@9.1?classifier=sources

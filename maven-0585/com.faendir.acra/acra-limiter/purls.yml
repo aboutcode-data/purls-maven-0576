@@ -1,0 +1,10 @@
+- pkg:maven/com.faendir.acra/acra-limiter@5.0.0-alpha12?classifier=sources
+- pkg:maven/com.faendir.acra/acra-limiter@5.0.0-alpha12?type=aar
+- pkg:maven/com.faendir.acra/acra-limiter@5.0.0-alpha13?classifier=sources
+- pkg:maven/com.faendir.acra/acra-limiter@5.0.0-alpha13?type=aar
+- pkg:maven/com.faendir.acra/acra-limiter@5.0.0-alpha14?classifier=sources
+- pkg:maven/com.faendir.acra/acra-limiter@5.0.0-alpha14?type=aar
+- pkg:maven/com.faendir.acra/acra-limiter@5.0.0-rc1?classifier=sources
+- pkg:maven/com.faendir.acra/acra-limiter@5.0.0-rc1?type=aar
+- pkg:maven/com.faendir.acra/acra-limiter@5.0.0-rc2?classifier=sources
+- pkg:maven/com.faendir.acra/acra-limiter@5.0.0-rc2?type=aar

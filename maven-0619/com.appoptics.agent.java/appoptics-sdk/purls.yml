@@ -1,0 +1,2 @@
+- pkg:maven/com.appoptics.agent.java/appoptics-sdk@6.0.0
+- pkg:maven/com.appoptics.agent.java/appoptics-sdk@6.0.0?classifier=sources

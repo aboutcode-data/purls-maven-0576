@@ -116,6 +116,8 @@
 - pkg:maven/org.mobicents.servers.jainslee.enablers/xdm-client-DU@2.8.98
 - pkg:maven/org.mobicents.servers.jainslee.enablers/xdm-client-DU@2.8.99
 - pkg:maven/org.mobicents.servers.jainslee.enablers/xdm-client-DU@2.9.124
+- pkg:maven/org.mobicents.servers.jainslee.enablers/xdm-client-DU@2.9.125
+- pkg:maven/org.mobicents.servers.jainslee.enablers/xdm-client-DU@2.9.126
 - pkg:maven/org.mobicents.servers.jainslee.enablers/xdm-client-DU@3.0.1
 - pkg:maven/org.mobicents.servers.jainslee.enablers/xdm-client-DU@3.0.2
 - pkg:maven/org.mobicents.servers.jainslee.enablers/xdm-client-DU@3.0.3
@@ -123,5 +125,9 @@
 - pkg:maven/org.mobicents.servers.jainslee.enablers/xdm-client-DU@3.0.5
 - pkg:maven/org.mobicents.servers.jainslee.enablers/xdm-client-DU@7.0.6
 - pkg:maven/org.mobicents.servers.jainslee.enablers/xdm-client-DU@7.0.7
+- pkg:maven/org.mobicents.servers.jainslee.enablers/xdm-client-DU@7.1.10
+- pkg:maven/org.mobicents.servers.jainslee.enablers/xdm-client-DU@7.1.11
+- pkg:maven/org.mobicents.servers.jainslee.enablers/xdm-client-DU@7.1.12
+- pkg:maven/org.mobicents.servers.jainslee.enablers/xdm-client-DU@7.1.13
 - pkg:maven/org.mobicents.servers.jainslee.enablers/xdm-client-DU@7.1.8
 - pkg:maven/org.mobicents.servers.jainslee.enablers/xdm-client-DU@7.1.9

@@ -4,3 +4,7 @@
 - pkg:maven/com.indix/utils_2.10@0.1.23?classifier=sources
 - pkg:maven/com.indix/utils_2.10@0.2.15
 - pkg:maven/com.indix/utils_2.10@0.2.15?classifier=sources
+- pkg:maven/com.indix/utils_2.10@0.2.38
+- pkg:maven/com.indix/utils_2.10@0.2.38?classifier=sources
+- pkg:maven/com.indix/utils_2.10@v0.2.37
+- pkg:maven/com.indix/utils_2.10@v0.2.37?classifier=sources

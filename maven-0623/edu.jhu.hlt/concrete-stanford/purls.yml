@@ -1,5 +1,7 @@
 - pkg:maven/edu.jhu.hlt/concrete-stanford@4.12.1
 - pkg:maven/edu.jhu.hlt/concrete-stanford@4.12.1?classifier=sources
+- pkg:maven/edu.jhu.hlt/concrete-stanford@4.13.0
+- pkg:maven/edu.jhu.hlt/concrete-stanford@4.13.0?classifier=sources
 - pkg:maven/edu.jhu.hlt/concrete-stanford@4.8.1
 - pkg:maven/edu.jhu.hlt/concrete-stanford@4.8.1?classifier=sources
 - pkg:maven/edu.jhu.hlt/concrete-stanford@4.8.2

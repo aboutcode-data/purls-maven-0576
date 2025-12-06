@@ -1,0 +1,4 @@
+- pkg:maven/org.codehaus.griffon/gradle-griffon-build-plugin@2.11.0
+- pkg:maven/org.codehaus.griffon/gradle-griffon-build-plugin@2.11.0?classifier=sources
+- pkg:maven/org.codehaus.griffon/gradle-griffon-build-plugin@2.12.0
+- pkg:maven/org.codehaus.griffon/gradle-griffon-build-plugin@2.12.0?classifier=sources

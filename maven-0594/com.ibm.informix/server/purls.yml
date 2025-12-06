@@ -1,0 +1,2 @@
+- pkg:maven/com.ibm.informix/server@12.10.10
+- pkg:maven/com.ibm.informix/server@12.10.10?classifier=sources

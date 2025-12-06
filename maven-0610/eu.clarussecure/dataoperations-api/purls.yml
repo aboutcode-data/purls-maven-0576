@@ -1,0 +1,2 @@
+- pkg:maven/eu.clarussecure/dataoperations-api@2.5
+- pkg:maven/eu.clarussecure/dataoperations-api@2.5?classifier=sources

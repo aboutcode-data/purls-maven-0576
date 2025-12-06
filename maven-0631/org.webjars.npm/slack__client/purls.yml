@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/slack__client@3.14.2
+- pkg:maven/org.webjars.npm/slack__client@3.14.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/angularjs-social-login@2.6.1
+- pkg:maven/org.webjars.npm/angularjs-social-login@2.6.1?classifier=sources

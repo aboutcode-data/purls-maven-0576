@@ -10,5 +10,7 @@
 - pkg:maven/io.undertow.js/undertow-js@1.0.1.Final?classifier=sources
 - pkg:maven/io.undertow.js/undertow-js@1.0.2.Final
 - pkg:maven/io.undertow.js/undertow-js@1.0.2.Final?classifier=sources
+- pkg:maven/io.undertow.js/undertow-js@1.0.3.Final
+- pkg:maven/io.undertow.js/undertow-js@1.0.3.Final?classifier=sources
 - pkg:maven/io.undertow.js/undertow-js@1.1.0.Beta1
 - pkg:maven/io.undertow.js/undertow-js@1.1.0.Beta1?classifier=sources

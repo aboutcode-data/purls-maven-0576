@@ -12,6 +12,8 @@
 - pkg:maven/org.webjars.npm/babel-register@6.23.0?classifier=sources
 - pkg:maven/org.webjars.npm/babel-register@6.24.1
 - pkg:maven/org.webjars.npm/babel-register@6.24.1?classifier=sources
+- pkg:maven/org.webjars.npm/babel-register@6.26.0
+- pkg:maven/org.webjars.npm/babel-register@6.26.0?classifier=sources
 - pkg:maven/org.webjars.npm/babel-register@6.3.13
 - pkg:maven/org.webjars.npm/babel-register@6.3.13?classifier=sources
 - pkg:maven/org.webjars.npm/babel-register@6.5.1

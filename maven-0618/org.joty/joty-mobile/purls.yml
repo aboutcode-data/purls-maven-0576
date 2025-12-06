@@ -1,0 +1,2 @@
+- pkg:maven/org.joty/joty-mobile@2.0.4?classifier=sources
+- pkg:maven/org.joty/joty-mobile@2.0.4?type=aar

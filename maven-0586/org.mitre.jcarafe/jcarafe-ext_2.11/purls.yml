@@ -2,3 +2,7 @@
 - pkg:maven/org.mitre.jcarafe/jcarafe-ext_2.11@0.9.96?classifier=sources
 - pkg:maven/org.mitre.jcarafe/jcarafe-ext_2.11@0.9.97
 - pkg:maven/org.mitre.jcarafe/jcarafe-ext_2.11@0.9.97?classifier=sources
+- pkg:maven/org.mitre.jcarafe/jcarafe-ext_2.11@0.9.98
+- pkg:maven/org.mitre.jcarafe/jcarafe-ext_2.11@0.9.98?classifier=sources
+- pkg:maven/org.mitre.jcarafe/jcarafe-ext_2.11@0.9.99
+- pkg:maven/org.mitre.jcarafe/jcarafe-ext_2.11@0.9.99?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/studio.raptor/raptor-gid@4.0.0
+- pkg:maven/studio.raptor/raptor-gid@4.0.0?classifier=sources

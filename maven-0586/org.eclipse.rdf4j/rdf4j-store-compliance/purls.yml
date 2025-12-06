@@ -21,4 +21,7 @@
 - pkg:maven/org.eclipse.rdf4j/rdf4j-store-compliance@2.1.6?type=war
 - pkg:maven/org.eclipse.rdf4j/rdf4j-store-compliance@2.1?type=war
 - pkg:maven/org.eclipse.rdf4j/rdf4j-store-compliance@2.2.1?type=war
+- pkg:maven/org.eclipse.rdf4j/rdf4j-store-compliance@2.2.2?type=war
+- pkg:maven/org.eclipse.rdf4j/rdf4j-store-compliance@2.2.3?type=war
+- pkg:maven/org.eclipse.rdf4j/rdf4j-store-compliance@2.2.4?type=war
 - pkg:maven/org.eclipse.rdf4j/rdf4j-store-compliance@2.2?type=war

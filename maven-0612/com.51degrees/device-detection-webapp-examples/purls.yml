@@ -10,6 +10,10 @@
 - pkg:maven/com.51degrees/device-detection-webapp-examples@3.2.13.9?type=war
 - pkg:maven/com.51degrees/device-detection-webapp-examples@3.2.14.2?classifier=sources
 - pkg:maven/com.51degrees/device-detection-webapp-examples@3.2.14.2?type=war
+- pkg:maven/com.51degrees/device-detection-webapp-examples@3.2.15.3?classifier=sources
+- pkg:maven/com.51degrees/device-detection-webapp-examples@3.2.15.3?type=war
+- pkg:maven/com.51degrees/device-detection-webapp-examples@3.2.16.4?classifier=sources
+- pkg:maven/com.51degrees/device-detection-webapp-examples@3.2.16.4?type=war
 - pkg:maven/com.51degrees/device-detection-webapp-examples@3.2.2.20-beta?classifier=sources
 - pkg:maven/com.51degrees/device-detection-webapp-examples@3.2.2.20-beta?type=war
 - pkg:maven/com.51degrees/device-detection-webapp-examples@3.2.3.5-beta?classifier=sources

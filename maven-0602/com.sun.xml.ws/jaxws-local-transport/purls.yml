@@ -28,3 +28,5 @@
 - pkg:maven/com.sun.xml.ws/jaxws-local-transport@2.2.8?classifier=sources
 - pkg:maven/com.sun.xml.ws/jaxws-local-transport@2.2.9-b14002
 - pkg:maven/com.sun.xml.ws/jaxws-local-transport@2.2.9-b14002?classifier=sources
+- pkg:maven/com.sun.xml.ws/jaxws-local-transport@2.3.0
+- pkg:maven/com.sun.xml.ws/jaxws-local-transport@2.3.0?classifier=sources

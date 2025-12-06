@@ -1,0 +1,4 @@
+- pkg:maven/com.datathings/greycat-gencli@10
+- pkg:maven/com.datathings/greycat-gencli@10?classifier=sources
+- pkg:maven/com.datathings/greycat-gencli@9
+- pkg:maven/com.datathings/greycat-gencli@9?classifier=sources

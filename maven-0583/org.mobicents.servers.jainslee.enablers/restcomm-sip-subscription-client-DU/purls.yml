@@ -1,0 +1,5 @@
+- pkg:maven/org.mobicents.servers.jainslee.enablers/restcomm-sip-subscription-client-DU@7.1.24
+- pkg:maven/org.mobicents.servers.jainslee.enablers/restcomm-sip-subscription-client-DU@7.1.25
+- pkg:maven/org.mobicents.servers.jainslee.enablers/restcomm-sip-subscription-client-DU@7.1.26
+- pkg:maven/org.mobicents.servers.jainslee.enablers/restcomm-sip-subscription-client-DU@7.1.28
+- pkg:maven/org.mobicents.servers.jainslee.enablers/restcomm-sip-subscription-client-DU@7.1.34

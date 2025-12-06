@@ -6,3 +6,4 @@
 - pkg:maven/com.github.workerframework/worker-framework-tests-worker-store-cs@1.6.0-181
 - pkg:maven/com.github.workerframework/worker-framework-tests-worker-store-cs@1.7.0-211
 - pkg:maven/com.github.workerframework/worker-framework-tests-worker-store-cs@1.8.0-249
+- pkg:maven/com.github.workerframework/worker-framework-tests-worker-store-cs@1.9.0-260

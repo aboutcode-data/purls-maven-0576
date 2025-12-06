@@ -4,5 +4,9 @@
 - pkg:maven/org.webjars.bower/angular-filemanager@1.0.0?classifier=sources
 - pkg:maven/org.webjars.bower/angular-filemanager@1.4.0
 - pkg:maven/org.webjars.bower/angular-filemanager@1.4.0?classifier=sources
+- pkg:maven/org.webjars.bower/angular-filemanager@1.4.8
+- pkg:maven/org.webjars.bower/angular-filemanager@1.4.8?classifier=sources
+- pkg:maven/org.webjars.bower/angular-filemanager@1.5.0
+- pkg:maven/org.webjars.bower/angular-filemanager@1.5.0?classifier=sources
 - pkg:maven/org.webjars.bower/angular-filemanager@1.5.1
 - pkg:maven/org.webjars.bower/angular-filemanager@1.5.1?classifier=sources

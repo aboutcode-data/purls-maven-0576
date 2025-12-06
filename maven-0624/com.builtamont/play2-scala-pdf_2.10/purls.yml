@@ -1,2 +1,4 @@
 - pkg:maven/com.builtamont/play2-scala-pdf_2.10@1.6.1.P24
 - pkg:maven/com.builtamont/play2-scala-pdf_2.10@1.6.1.P24?classifier=sources
+- pkg:maven/com.builtamont/play2-scala-pdf_2.10@2.0.0.P24
+- pkg:maven/com.builtamont/play2-scala-pdf_2.10@2.0.0.P24?classifier=sources

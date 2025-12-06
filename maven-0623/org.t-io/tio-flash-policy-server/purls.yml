@@ -1,0 +1,4 @@
+- pkg:maven/org.t-io/tio-flash-policy-server@2.0.2.v20171129-RELEASE
+- pkg:maven/org.t-io/tio-flash-policy-server@2.0.2.v20171129-RELEASE?classifier=sources
+- pkg:maven/org.t-io/tio-flash-policy-server@2.0.3.v20171215-RELEASE
+- pkg:maven/org.t-io/tio-flash-policy-server@2.0.3.v20171215-RELEASE?classifier=sources

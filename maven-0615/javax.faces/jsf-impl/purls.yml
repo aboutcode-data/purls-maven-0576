@@ -47,6 +47,8 @@
 - pkg:maven/javax.faces/jsf-impl@1.2_15-03?classifier=sources
 - pkg:maven/javax.faces/jsf-impl@1.2_15-04
 - pkg:maven/javax.faces/jsf-impl@1.2_15-04?classifier=sources
+- pkg:maven/javax.faces/jsf-impl@1.2_15-05
+- pkg:maven/javax.faces/jsf-impl@1.2_15-05?classifier=sources
 - pkg:maven/javax.faces/jsf-impl@1.2_15-B02
 - pkg:maven/javax.faces/jsf-impl@1.2_15-B02?classifier=sources
 - pkg:maven/javax.faces/jsf-impl@1.2_15?classifier=sources

@@ -22,3 +22,15 @@
 - pkg:maven/io.opentracing.brave/brave-opentracing@0.19.3?classifier=sources
 - pkg:maven/io.opentracing.brave/brave-opentracing@0.20.0
 - pkg:maven/io.opentracing.brave/brave-opentracing@0.20.0?classifier=sources
+- pkg:maven/io.opentracing.brave/brave-opentracing@0.21.0
+- pkg:maven/io.opentracing.brave/brave-opentracing@0.21.0?classifier=sources
+- pkg:maven/io.opentracing.brave/brave-opentracing@0.21.1
+- pkg:maven/io.opentracing.brave/brave-opentracing@0.21.1?classifier=sources
+- pkg:maven/io.opentracing.brave/brave-opentracing@0.22.0
+- pkg:maven/io.opentracing.brave/brave-opentracing@0.22.0?classifier=sources
+- pkg:maven/io.opentracing.brave/brave-opentracing@0.22.1
+- pkg:maven/io.opentracing.brave/brave-opentracing@0.22.1?classifier=sources
+- pkg:maven/io.opentracing.brave/brave-opentracing@0.23.0
+- pkg:maven/io.opentracing.brave/brave-opentracing@0.23.0?classifier=sources
+- pkg:maven/io.opentracing.brave/brave-opentracing@0.24.0
+- pkg:maven/io.opentracing.brave/brave-opentracing@0.24.0?classifier=sources

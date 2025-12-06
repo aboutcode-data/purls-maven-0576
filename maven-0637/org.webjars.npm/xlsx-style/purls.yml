@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/xlsx-style@0.8.13
+- pkg:maven/org.webjars.npm/xlsx-style@0.8.13?classifier=sources
 - pkg:maven/org.webjars.npm/xlsx-style@0.8.6
 - pkg:maven/org.webjars.npm/xlsx-style@0.8.6?classifier=sources

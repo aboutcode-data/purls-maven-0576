@@ -6,3 +6,5 @@
 - pkg:maven/io.bootique.jdbc/bootique-jdbc-instrumented@0.13?classifier=sources
 - pkg:maven/io.bootique.jdbc/bootique-jdbc-instrumented@0.14
 - pkg:maven/io.bootique.jdbc/bootique-jdbc-instrumented@0.14?classifier=sources
+- pkg:maven/io.bootique.jdbc/bootique-jdbc-instrumented@0.24
+- pkg:maven/io.bootique.jdbc/bootique-jdbc-instrumented@0.24?classifier=sources

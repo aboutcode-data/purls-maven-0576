@@ -6,3 +6,5 @@
 - pkg:maven/com.segment.analytics.android.integrations/comscore@1.0.2?type=aar
 - pkg:maven/com.segment.analytics.android.integrations/comscore@2.0.0?classifier=sources
 - pkg:maven/com.segment.analytics.android.integrations/comscore@2.0.0?type=aar
+- pkg:maven/com.segment.analytics.android.integrations/comscore@3.0.0?classifier=sources
+- pkg:maven/com.segment.analytics.android.integrations/comscore@3.0.0?type=aar

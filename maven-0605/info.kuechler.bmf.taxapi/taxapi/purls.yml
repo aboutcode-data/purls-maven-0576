@@ -4,3 +4,5 @@
 - pkg:maven/info.kuechler.bmf.taxapi/taxapi@2016.0.1?classifier=sources
 - pkg:maven/info.kuechler.bmf.taxapi/taxapi@2017.0.0
 - pkg:maven/info.kuechler.bmf.taxapi/taxapi@2017.0.0?classifier=sources
+- pkg:maven/info.kuechler.bmf.taxapi/taxapi@2018.0.0
+- pkg:maven/info.kuechler.bmf.taxapi/taxapi@2018.0.0?classifier=sources

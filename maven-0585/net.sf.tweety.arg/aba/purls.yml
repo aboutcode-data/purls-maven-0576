@@ -1,2 +1,4 @@
 - pkg:maven/net.sf.tweety.arg/aba@1.8
 - pkg:maven/net.sf.tweety.arg/aba@1.8?classifier=sources
+- pkg:maven/net.sf.tweety.arg/aba@1.9
+- pkg:maven/net.sf.tweety.arg/aba@1.9?classifier=sources

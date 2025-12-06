@@ -1,0 +1,2 @@
+- pkg:maven/io.theves/denon4j@0.8
+- pkg:maven/io.theves/denon4j@0.8?classifier=sources

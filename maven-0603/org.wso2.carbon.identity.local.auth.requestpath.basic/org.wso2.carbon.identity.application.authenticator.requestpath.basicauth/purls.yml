@@ -1,0 +1,4 @@
+- pkg:maven/org.wso2.carbon.identity.local.auth.requestpath.basic/org.wso2.carbon.identity.application.authenticator.requestpath.basicauth@5.1.4
+- pkg:maven/org.wso2.carbon.identity.local.auth.requestpath.basic/org.wso2.carbon.identity.application.authenticator.requestpath.basicauth@5.1.4?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.local.auth.requestpath.basic/org.wso2.carbon.identity.application.authenticator.requestpath.basicauth@5.1.5
+- pkg:maven/org.wso2.carbon.identity.local.auth.requestpath.basic/org.wso2.carbon.identity.application.authenticator.requestpath.basicauth@5.1.5?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/pl.kubiczak/jade-to-filters-maven-plugin@1.0.0-RC2
+- pkg:maven/pl.kubiczak/jade-to-filters-maven-plugin@1.0.0-RC2?classifier=sources

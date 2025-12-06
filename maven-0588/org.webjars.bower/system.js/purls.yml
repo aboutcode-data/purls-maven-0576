@@ -20,3 +20,5 @@
 - pkg:maven/org.webjars.bower/system.js@0.19.3?classifier=sources
 - pkg:maven/org.webjars.bower/system.js@0.19.40
 - pkg:maven/org.webjars.bower/system.js@0.19.40?classifier=sources
+- pkg:maven/org.webjars.bower/system.js@0.20.19
+- pkg:maven/org.webjars.bower/system.js@0.20.19?classifier=sources

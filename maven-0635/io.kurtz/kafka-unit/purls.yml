@@ -1,0 +1,2 @@
+- pkg:maven/io.kurtz/kafka-unit@0.7
+- pkg:maven/io.kurtz/kafka-unit@0.7?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/com.crypteron/crypteron-jce@2016.8.1.0
 - pkg:maven/com.crypteron/crypteron-jce@2016.8.1.0?classifier=sources
+- pkg:maven/com.crypteron/crypteron-jce@2017.7.1.1
+- pkg:maven/com.crypteron/crypteron-jce@2017.7.1.1?classifier=sources
+- pkg:maven/com.crypteron/crypteron-jce@2017.7.1.2
+- pkg:maven/com.crypteron/crypteron-jce@2017.7.1.2?classifier=sources

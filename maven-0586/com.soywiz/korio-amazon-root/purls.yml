@@ -1,0 +1,4 @@
+- pkg:maven/com.soywiz/korio-amazon-root@0.15.3
+- pkg:maven/com.soywiz/korio-amazon-root@0.15.3?classifier=sources
+- pkg:maven/com.soywiz/korio-amazon-root@0.18.0
+- pkg:maven/com.soywiz/korio-amazon-root@0.18.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.opennms.gizmo/gizmo-k8s@1.0.0
+- pkg:maven/org.opennms.gizmo/gizmo-k8s@1.0.0?classifier=sources

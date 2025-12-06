@@ -24,3 +24,9 @@
 - pkg:maven/net.hamnaberg.json/immutable-json-pointer@5.0.0?classifier=sources
 - pkg:maven/net.hamnaberg.json/immutable-json-pointer@5.1.0
 - pkg:maven/net.hamnaberg.json/immutable-json-pointer@5.1.0?classifier=sources
+- pkg:maven/net.hamnaberg.json/immutable-json-pointer@5.2.0
+- pkg:maven/net.hamnaberg.json/immutable-json-pointer@5.2.0?classifier=sources
+- pkg:maven/net.hamnaberg.json/immutable-json-pointer@6.0.0
+- pkg:maven/net.hamnaberg.json/immutable-json-pointer@6.0.0?classifier=sources
+- pkg:maven/net.hamnaberg.json/immutable-json-pointer@6.1.0
+- pkg:maven/net.hamnaberg.json/immutable-json-pointer@6.1.0?classifier=sources

@@ -7,3 +7,4 @@
 - pkg:maven/org.glassfish.main.ejb/ejb-timer-databases@4.1.1?classifier=sources
 - pkg:maven/org.glassfish.main.ejb/ejb-timer-databases@4.1.2?classifier=sources
 - pkg:maven/org.glassfish.main.ejb/ejb-timer-databases@4.1?classifier=sources
+- pkg:maven/org.glassfish.main.ejb/ejb-timer-databases@5.0?classifier=sources

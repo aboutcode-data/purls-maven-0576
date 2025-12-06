@@ -10,3 +10,5 @@
 - pkg:maven/org.apache.juddi.example/example-vsv-validator@3.3.3?classifier=sources
 - pkg:maven/org.apache.juddi.example/example-vsv-validator@3.3.4
 - pkg:maven/org.apache.juddi.example/example-vsv-validator@3.3.4?classifier=sources
+- pkg:maven/org.apache.juddi.example/example-vsv-validator@3.3.5
+- pkg:maven/org.apache.juddi.example/example-vsv-validator@3.3.5?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.andrelanouette.solr4j/solr4j-distrib@6.6.0
+- pkg:maven/com.andrelanouette.solr4j/solr4j-distrib@6.6.0?classifier=sources

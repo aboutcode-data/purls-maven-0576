@@ -1,0 +1,2 @@
+- pkg:maven/eu.mihosoft.vswc/vswc@0.0.1
+- pkg:maven/eu.mihosoft.vswc/vswc@0.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.oli-ver/datatables-ssp-java@1.0.1
+- pkg:maven/com.github.oli-ver/datatables-ssp-java@1.0.1?classifier=sources

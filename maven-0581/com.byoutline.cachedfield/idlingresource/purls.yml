@@ -1,2 +1,6 @@
 - pkg:maven/com.byoutline.cachedfield/idlingresource@1.0.0
 - pkg:maven/com.byoutline.cachedfield/idlingresource@1.0.0?classifier=sources
+- pkg:maven/com.byoutline.cachedfield/idlingresource@1.7.0
+- pkg:maven/com.byoutline.cachedfield/idlingresource@1.7.0-RC1
+- pkg:maven/com.byoutline.cachedfield/idlingresource@1.7.0-RC1?classifier=sources
+- pkg:maven/com.byoutline.cachedfield/idlingresource@1.7.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.openhubframework/openhub-core-api@2.0.0.RC1
+- pkg:maven/org.openhubframework/openhub-core-api@2.0.0.RC1?classifier=sources

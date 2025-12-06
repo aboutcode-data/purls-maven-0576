@@ -1,2 +1,4 @@
 - pkg:maven/com.io7m.jproperties/com.io7m.jproperties.documentation@1.0.3?classifier=sources
 - pkg:maven/com.io7m.jproperties/com.io7m.jproperties.documentation@1.0.3?type=zip
+- pkg:maven/com.io7m.jproperties/com.io7m.jproperties.documentation@2.0.0?classifier=sources
+- pkg:maven/com.io7m.jproperties/com.io7m.jproperties.documentation@2.0.0?type=zip

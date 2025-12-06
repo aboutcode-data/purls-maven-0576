@@ -1,2 +1,4 @@
 - pkg:maven/io.citrine/jcc@1.0.8
 - pkg:maven/io.citrine/jcc@1.0.8?classifier=sources
+- pkg:maven/io.citrine/jcc@2.9.0
+- pkg:maven/io.citrine/jcc@2.9.0?classifier=sources

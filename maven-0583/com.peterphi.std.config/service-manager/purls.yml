@@ -14,3 +14,13 @@
 - pkg:maven/com.peterphi.std.config/service-manager@9.3.0?type=war
 - pkg:maven/com.peterphi.std.config/service-manager@9.4.0?classifier=sources
 - pkg:maven/com.peterphi.std.config/service-manager@9.4.0?type=war
+- pkg:maven/com.peterphi.std.config/service-manager@9.4.1?classifier=sources
+- pkg:maven/com.peterphi.std.config/service-manager@9.4.1?type=war
+- pkg:maven/com.peterphi.std.config/service-manager@9.4.2?classifier=sources
+- pkg:maven/com.peterphi.std.config/service-manager@9.4.2?type=war
+- pkg:maven/com.peterphi.std.config/service-manager@9.4.3?classifier=sources
+- pkg:maven/com.peterphi.std.config/service-manager@9.4.3?type=war
+- pkg:maven/com.peterphi.std.config/service-manager@9.4.4?classifier=sources
+- pkg:maven/com.peterphi.std.config/service-manager@9.4.4?type=war
+- pkg:maven/com.peterphi.std.config/service-manager@9.4.5?classifier=sources
+- pkg:maven/com.peterphi.std.config/service-manager@9.4.5?type=war

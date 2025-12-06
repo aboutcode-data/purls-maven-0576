@@ -1,0 +1,2 @@
+- pkg:maven/com.blazemeter/jmeter-plugins-rotating-listener@0.2
+- pkg:maven/com.blazemeter/jmeter-plugins-rotating-listener@0.2?classifier=sources

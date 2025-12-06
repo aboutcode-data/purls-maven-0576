@@ -2,5 +2,7 @@
 - pkg:maven/org.webjars.npm/types__d3@0.0.30?classifier=sources
 - pkg:maven/org.webjars.npm/types__d3@3.5.36
 - pkg:maven/org.webjars.npm/types__d3@3.5.36?classifier=sources
+- pkg:maven/org.webjars.npm/types__d3@3.5.38
+- pkg:maven/org.webjars.npm/types__d3@3.5.38?classifier=sources
 - pkg:maven/org.webjars.npm/types__d3@4.8.0
 - pkg:maven/org.webjars.npm/types__d3@4.8.0?classifier=sources

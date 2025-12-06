@@ -1,0 +1,2 @@
+- pkg:maven/net.dankito.richtexteditor/richtexteditor-android@1.0?classifier=sources
+- pkg:maven/net.dankito.richtexteditor/richtexteditor-android@1.0?type=aar

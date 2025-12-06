@@ -1,0 +1,2 @@
+- pkg:maven/com.github.sedus/s3-maven-plugin@1.0
+- pkg:maven/com.github.sedus/s3-maven-plugin@1.0?classifier=sources

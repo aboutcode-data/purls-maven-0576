@@ -1,0 +1,10 @@
+- pkg:maven/io.ultreia.java4all.eugene/eugene@3.0-alpha-11
+- pkg:maven/io.ultreia.java4all.eugene/eugene@3.0-alpha-11?classifier=sources
+- pkg:maven/io.ultreia.java4all.eugene/eugene@3.0-alpha-12
+- pkg:maven/io.ultreia.java4all.eugene/eugene@3.0-alpha-12?classifier=sources
+- pkg:maven/io.ultreia.java4all.eugene/eugene@3.0-alpha-13
+- pkg:maven/io.ultreia.java4all.eugene/eugene@3.0-alpha-13?classifier=sources
+- pkg:maven/io.ultreia.java4all.eugene/eugene@3.0-alpha-14
+- pkg:maven/io.ultreia.java4all.eugene/eugene@3.0-alpha-14?classifier=sources
+- pkg:maven/io.ultreia.java4all.eugene/eugene@3.0-alpha-15
+- pkg:maven/io.ultreia.java4all.eugene/eugene@3.0-alpha-15?classifier=sources

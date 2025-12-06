@@ -1,0 +1,2 @@
+- pkg:maven/eu.fbk.fcw/fcw-pos@0.1
+- pkg:maven/eu.fbk.fcw/fcw-pos@0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.netease.nimlib/hotfix@1.1.0?classifier=sources
+- pkg:maven/com.netease.nimlib/hotfix@1.1.0?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.testgrid/org.wso2.testgrid.automation@0.9.0-m6
+- pkg:maven/org.wso2.testgrid/org.wso2.testgrid.automation@0.9.0-m6?classifier=sources

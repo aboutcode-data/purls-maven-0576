@@ -110,6 +110,10 @@
 - pkg:maven/com.neuronrobotics/BowlerScriptingKernel@0.26.4?classifier=sources
 - pkg:maven/com.neuronrobotics/BowlerScriptingKernel@0.26.5
 - pkg:maven/com.neuronrobotics/BowlerScriptingKernel@0.26.5?classifier=sources
+- pkg:maven/com.neuronrobotics/BowlerScriptingKernel@0.28.0
+- pkg:maven/com.neuronrobotics/BowlerScriptingKernel@0.28.0?classifier=sources
+- pkg:maven/com.neuronrobotics/BowlerScriptingKernel@0.29.0
+- pkg:maven/com.neuronrobotics/BowlerScriptingKernel@0.29.0?classifier=sources
 - pkg:maven/com.neuronrobotics/BowlerScriptingKernel@0.4.25
 - pkg:maven/com.neuronrobotics/BowlerScriptingKernel@0.4.25?classifier=sources
 - pkg:maven/com.neuronrobotics/BowlerScriptingKernel@0.4.26

@@ -1,0 +1,4 @@
+- pkg:maven/edu.mines.csci370.sjp/mines-jar-builder@1.16
+- pkg:maven/edu.mines.csci370.sjp/mines-jar-builder@1.17
+- pkg:maven/edu.mines.csci370.sjp/mines-jar-builder@1.19
+- pkg:maven/edu.mines.csci370.sjp/mines-jar-builder@1.19?classifier=sources

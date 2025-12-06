@@ -1,0 +1,2 @@
+- pkg:maven/org.travelforge.product/travelforge-product-service@0.9.0
+- pkg:maven/org.travelforge.product/travelforge-product-service@0.9.0?classifier=sources

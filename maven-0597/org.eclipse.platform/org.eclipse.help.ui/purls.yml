@@ -1,2 +1,4 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.help.ui@4.0.200
 - pkg:maven/org.eclipse.platform/org.eclipse.help.ui@4.0.200?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.help.ui@4.1.0
+- pkg:maven/org.eclipse.platform/org.eclipse.help.ui@4.1.0?classifier=sources

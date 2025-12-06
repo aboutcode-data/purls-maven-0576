@@ -1,0 +1,4 @@
+- pkg:maven/net.sf.openas2/openas2-server@2.4.0
+- pkg:maven/net.sf.openas2/openas2-server@2.4.0?classifier=sources
+- pkg:maven/net.sf.openas2/openas2-server@2.4.1
+- pkg:maven/net.sf.openas2/openas2-server@2.4.1?classifier=sources

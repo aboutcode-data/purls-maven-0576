@@ -1,0 +1,2 @@
+- pkg:maven/com.holon-platform.test/holon-release-test@1.0.1-beta?classifier=sources
+- pkg:maven/com.holon-platform.test/holon-release-test@1.0.1-beta?type=zip

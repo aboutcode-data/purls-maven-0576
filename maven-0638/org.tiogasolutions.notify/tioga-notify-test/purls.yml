@@ -34,3 +34,5 @@
 - pkg:maven/org.tiogasolutions.notify/tioga-notify-test@4.4.3?classifier=sources
 - pkg:maven/org.tiogasolutions.notify/tioga-notify-test@4.4.4
 - pkg:maven/org.tiogasolutions.notify/tioga-notify-test@4.4.4?classifier=sources
+- pkg:maven/org.tiogasolutions.notify/tioga-notify-test@4.4.5
+- pkg:maven/org.tiogasolutions.notify/tioga-notify-test@4.4.5?classifier=sources

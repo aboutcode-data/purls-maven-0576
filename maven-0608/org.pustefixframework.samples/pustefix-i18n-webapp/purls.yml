@@ -138,7 +138,9 @@
 - pkg:maven/org.pustefixframework.samples/pustefix-i18n-webapp@0.20.26?type=war
 - pkg:maven/org.pustefixframework.samples/pustefix-i18n-webapp@0.20.27?type=war
 - pkg:maven/org.pustefixframework.samples/pustefix-i18n-webapp@0.20.28?type=war
+- pkg:maven/org.pustefixframework.samples/pustefix-i18n-webapp@0.20.29?type=war
 - pkg:maven/org.pustefixframework.samples/pustefix-i18n-webapp@0.20.2?type=war
+- pkg:maven/org.pustefixframework.samples/pustefix-i18n-webapp@0.20.30?type=war
 - pkg:maven/org.pustefixframework.samples/pustefix-i18n-webapp@0.20.3?type=war
 - pkg:maven/org.pustefixframework.samples/pustefix-i18n-webapp@0.20.4?type=war
 - pkg:maven/org.pustefixframework.samples/pustefix-i18n-webapp@0.20.5?type=war
@@ -146,3 +148,6 @@
 - pkg:maven/org.pustefixframework.samples/pustefix-i18n-webapp@0.20.7?type=war
 - pkg:maven/org.pustefixframework.samples/pustefix-i18n-webapp@0.20.8?type=war
 - pkg:maven/org.pustefixframework.samples/pustefix-i18n-webapp@0.20.9?type=war
+- pkg:maven/org.pustefixframework.samples/pustefix-i18n-webapp@0.21.0?type=war
+- pkg:maven/org.pustefixframework.samples/pustefix-i18n-webapp@0.22.0?type=war
+- pkg:maven/org.pustefixframework.samples/pustefix-i18n-webapp@0.22.1?type=war

@@ -1,0 +1,2 @@
+- pkg:maven/ai.grakn/grakn-module-sdk@1.0.0
+- pkg:maven/ai.grakn/grakn-module-sdk@1.0.0?classifier=sources

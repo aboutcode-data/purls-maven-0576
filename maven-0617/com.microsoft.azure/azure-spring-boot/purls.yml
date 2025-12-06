@@ -1,0 +1,4 @@
+- pkg:maven/com.microsoft.azure/azure-spring-boot@0.1.9
+- pkg:maven/com.microsoft.azure/azure-spring-boot@0.1.9?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-spring-boot@0.2.0
+- pkg:maven/com.microsoft.azure/azure-spring-boot@0.2.0?classifier=sources
