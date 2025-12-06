@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/github-com-chartjs-Chart-js@2.5.0
+- pkg:maven/org.webjars.bower/github-com-chartjs-Chart-js@2.5.0?classifier=sources

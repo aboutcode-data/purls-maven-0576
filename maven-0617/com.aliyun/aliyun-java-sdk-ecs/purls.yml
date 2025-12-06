@@ -10,3 +10,9 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-ecs@2.2.1?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-ecs@2.2.3
 - pkg:maven/com.aliyun/aliyun-java-sdk-ecs@2.2.3?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-ecs@3.0.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-ecs@3.0.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-ecs@3.1.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-ecs@3.1.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-ecs@3.2.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-ecs@3.2.0?classifier=sources

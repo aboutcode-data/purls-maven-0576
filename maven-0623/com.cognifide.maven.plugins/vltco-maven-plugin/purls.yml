@@ -1,0 +1,2 @@
+- pkg:maven/com.cognifide.maven.plugins/vltco-maven-plugin@0.2.1
+- pkg:maven/com.cognifide.maven.plugins/vltco-maven-plugin@0.2.1?classifier=sources

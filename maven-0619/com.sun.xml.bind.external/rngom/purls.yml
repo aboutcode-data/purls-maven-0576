@@ -6,3 +6,5 @@
 - pkg:maven/com.sun.xml.bind.external/rngom@2.2.10?classifier=sources
 - pkg:maven/com.sun.xml.bind.external/rngom@2.2.11
 - pkg:maven/com.sun.xml.bind.external/rngom@2.2.11?classifier=sources
+- pkg:maven/com.sun.xml.bind.external/rngom@2.3.0-b170127.1453
+- pkg:maven/com.sun.xml.bind.external/rngom@2.3.0-b170127.1453?classifier=sources

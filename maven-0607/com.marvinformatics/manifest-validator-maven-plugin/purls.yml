@@ -1,0 +1,2 @@
+- pkg:maven/com.marvinformatics/manifest-validator-maven-plugin@0.1
+- pkg:maven/com.marvinformatics/manifest-validator-maven-plugin@0.1?classifier=sources

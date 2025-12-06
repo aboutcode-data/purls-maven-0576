@@ -12,3 +12,15 @@
 - pkg:maven/net.hamnaberg.json/immutable-json-core@3.5.0?classifier=sources
 - pkg:maven/net.hamnaberg.json/immutable-json-core@3.6.0
 - pkg:maven/net.hamnaberg.json/immutable-json-core@3.6.0?classifier=sources
+- pkg:maven/net.hamnaberg.json/immutable-json-core@3.6.1
+- pkg:maven/net.hamnaberg.json/immutable-json-core@3.6.1?classifier=sources
+- pkg:maven/net.hamnaberg.json/immutable-json-core@4.0.0
+- pkg:maven/net.hamnaberg.json/immutable-json-core@4.0.0?classifier=sources
+- pkg:maven/net.hamnaberg.json/immutable-json-core@4.0.1
+- pkg:maven/net.hamnaberg.json/immutable-json-core@4.0.1?classifier=sources
+- pkg:maven/net.hamnaberg.json/immutable-json-core@4.1.0
+- pkg:maven/net.hamnaberg.json/immutable-json-core@4.1.0?classifier=sources
+- pkg:maven/net.hamnaberg.json/immutable-json-core@5.0.0
+- pkg:maven/net.hamnaberg.json/immutable-json-core@5.0.0?classifier=sources
+- pkg:maven/net.hamnaberg.json/immutable-json-core@5.1.0
+- pkg:maven/net.hamnaberg.json/immutable-json-core@5.1.0?classifier=sources

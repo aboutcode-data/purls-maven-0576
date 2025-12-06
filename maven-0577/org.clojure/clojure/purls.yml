@@ -184,6 +184,14 @@
 - pkg:maven/org.clojure/clojure@1.9.0-alpha12?type=zip
 - pkg:maven/org.clojure/clojure@1.9.0-alpha13?classifier=sources
 - pkg:maven/org.clojure/clojure@1.9.0-alpha13?type=zip
+- pkg:maven/org.clojure/clojure@1.9.0-alpha14?classifier=sources
+- pkg:maven/org.clojure/clojure@1.9.0-alpha14?type=zip
+- pkg:maven/org.clojure/clojure@1.9.0-alpha15?classifier=sources
+- pkg:maven/org.clojure/clojure@1.9.0-alpha15?type=zip
+- pkg:maven/org.clojure/clojure@1.9.0-alpha16?classifier=sources
+- pkg:maven/org.clojure/clojure@1.9.0-alpha16?type=zip
+- pkg:maven/org.clojure/clojure@1.9.0-alpha17?classifier=sources
+- pkg:maven/org.clojure/clojure@1.9.0-alpha17?type=zip
 - pkg:maven/org.clojure/clojure@1.9.0-alpha1?classifier=sources
 - pkg:maven/org.clojure/clojure@1.9.0-alpha1?type=zip
 - pkg:maven/org.clojure/clojure@1.9.0-alpha2?classifier=sources

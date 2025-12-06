@@ -6,3 +6,5 @@
 - pkg:maven/net.stickycode.scheduled/sticky-scheduled@1.9?classifier=sources
 - pkg:maven/net.stickycode.scheduled/sticky-scheduled@2.3
 - pkg:maven/net.stickycode.scheduled/sticky-scheduled@2.3?classifier=sources
+- pkg:maven/net.stickycode.scheduled/sticky-scheduled@3.5
+- pkg:maven/net.stickycode.scheduled/sticky-scheduled@3.5?classifier=sources

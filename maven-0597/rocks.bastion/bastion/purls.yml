@@ -4,3 +4,17 @@
 - pkg:maven/rocks.bastion/bastion@0.2-BETA?classifier=sources
 - pkg:maven/rocks.bastion/bastion@0.2.1-BETA
 - pkg:maven/rocks.bastion/bastion@0.2.1-BETA?classifier=sources
+- pkg:maven/rocks.bastion/bastion@0.2.2-BETA
+- pkg:maven/rocks.bastion/bastion@0.2.2-BETA?classifier=sources
+- pkg:maven/rocks.bastion/bastion@0.3-BETA
+- pkg:maven/rocks.bastion/bastion@0.3-BETA?classifier=sources
+- pkg:maven/rocks.bastion/bastion@0.4-BETA
+- pkg:maven/rocks.bastion/bastion@0.4-BETA?classifier=sources
+- pkg:maven/rocks.bastion/bastion@0.5-BETA
+- pkg:maven/rocks.bastion/bastion@0.5-BETA?classifier=sources
+- pkg:maven/rocks.bastion/bastion@0.5.1-BETA
+- pkg:maven/rocks.bastion/bastion@0.5.1-BETA?classifier=sources
+- pkg:maven/rocks.bastion/bastion@0.5.2-BETA
+- pkg:maven/rocks.bastion/bastion@0.5.2-BETA?classifier=sources
+- pkg:maven/rocks.bastion/bastion@0.6-BETA
+- pkg:maven/rocks.bastion/bastion@0.6-BETA?classifier=sources

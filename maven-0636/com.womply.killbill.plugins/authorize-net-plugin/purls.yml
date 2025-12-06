@@ -1,2 +1,6 @@
 - pkg:maven/com.womply.killbill.plugins/authorize-net-plugin@1.0.54
 - pkg:maven/com.womply.killbill.plugins/authorize-net-plugin@1.0.54?classifier=sources
+- pkg:maven/com.womply.killbill.plugins/authorize-net-plugin@2.0.62
+- pkg:maven/com.womply.killbill.plugins/authorize-net-plugin@2.0.62?classifier=sources
+- pkg:maven/com.womply.killbill.plugins/authorize-net-plugin@2.1.70
+- pkg:maven/com.womply.killbill.plugins/authorize-net-plugin@2.1.70?classifier=sources

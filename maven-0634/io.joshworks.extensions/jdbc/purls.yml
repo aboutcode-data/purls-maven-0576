@@ -1,0 +1,2 @@
+- pkg:maven/io.joshworks.extensions/jdbc@0.2
+- pkg:maven/io.joshworks.extensions/jdbc@0.2?classifier=sources

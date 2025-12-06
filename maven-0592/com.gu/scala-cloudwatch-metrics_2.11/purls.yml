@@ -1,0 +1,2 @@
+- pkg:maven/com.gu/scala-cloudwatch-metrics_2.11@1.0-2f4ebc7e4a85551e011566e40393d5b1b2fbf504
+- pkg:maven/com.gu/scala-cloudwatch-metrics_2.11@1.0-2f4ebc7e4a85551e011566e40393d5b1b2fbf504?classifier=sources

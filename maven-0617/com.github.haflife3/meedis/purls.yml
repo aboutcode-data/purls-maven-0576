@@ -1,0 +1,2 @@
+- pkg:maven/com.github.haflife3/meedis@1.0
+- pkg:maven/com.github.haflife3/meedis@1.0?classifier=sources

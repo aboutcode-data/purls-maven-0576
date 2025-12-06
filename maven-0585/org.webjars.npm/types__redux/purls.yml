@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/types__redux@3.3.26
 - pkg:maven/org.webjars.npm/types__redux@3.3.26?classifier=sources
+- pkg:maven/org.webjars.npm/types__redux@3.6.31
+- pkg:maven/org.webjars.npm/types__redux@3.6.31?classifier=sources

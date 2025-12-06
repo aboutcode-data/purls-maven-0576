@@ -1,2 +1,6 @@
 - pkg:maven/in.ankushs/Java-DB-IP@1.0
 - pkg:maven/in.ankushs/Java-DB-IP@1.0?classifier=sources
+- pkg:maven/in.ankushs/Java-DB-IP@2.0
+- pkg:maven/in.ankushs/Java-DB-IP@2.0?classifier=sources
+- pkg:maven/in.ankushs/Java-DB-IP@2.1
+- pkg:maven/in.ankushs/Java-DB-IP@2.1?classifier=sources

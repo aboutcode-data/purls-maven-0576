@@ -1,0 +1,2 @@
+- pkg:maven/uk.co.nichesolutions/slf4j-ext@1.7.22-CUSTOM
+- pkg:maven/uk.co.nichesolutions/slf4j-ext@1.7.22-CUSTOM?classifier=sources

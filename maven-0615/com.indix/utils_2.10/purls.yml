@@ -2,3 +2,5 @@
 - pkg:maven/com.indix/utils_2.10@0.1.22?classifier=sources
 - pkg:maven/com.indix/utils_2.10@0.1.23
 - pkg:maven/com.indix/utils_2.10@0.1.23?classifier=sources
+- pkg:maven/com.indix/utils_2.10@0.2.15
+- pkg:maven/com.indix/utils_2.10@0.2.15?classifier=sources

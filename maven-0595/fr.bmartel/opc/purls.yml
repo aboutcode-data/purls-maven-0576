@@ -1,0 +1,2 @@
+- pkg:maven/fr.bmartel/opc@1.08
+- pkg:maven/fr.bmartel/opc@1.08?classifier=sources

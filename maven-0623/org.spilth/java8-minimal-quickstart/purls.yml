@@ -1,0 +1,2 @@
+- pkg:maven/org.spilth/java8-minimal-quickstart@1.0.0
+- pkg:maven/org.spilth/java8-minimal-quickstart@1.0.0?classifier=sources

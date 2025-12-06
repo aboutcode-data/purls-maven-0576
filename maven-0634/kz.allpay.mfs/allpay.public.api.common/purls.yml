@@ -1,0 +1,2 @@
+- pkg:maven/kz.allpay.mfs/allpay.public.api.common@2.0.8.1
+- pkg:maven/kz.allpay.mfs/allpay.public.api.common@2.0.8.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.dialogs@1.1.0
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.dialogs@1.1.0?classifier=sources

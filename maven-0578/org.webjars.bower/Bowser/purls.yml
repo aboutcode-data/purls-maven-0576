@@ -2,3 +2,9 @@
 - pkg:maven/org.webjars.bower/Bowser@1.0.0?classifier=sources
 - pkg:maven/org.webjars.bower/Bowser@1.3.0
 - pkg:maven/org.webjars.bower/Bowser@1.3.0?classifier=sources
+- pkg:maven/org.webjars.bower/Bowser@1.4.6
+- pkg:maven/org.webjars.bower/Bowser@1.4.6?classifier=sources
+- pkg:maven/org.webjars.bower/Bowser@1.6.0
+- pkg:maven/org.webjars.bower/Bowser@1.6.0?classifier=sources
+- pkg:maven/org.webjars.bower/Bowser@1.6.1
+- pkg:maven/org.webjars.bower/Bowser@1.6.1?classifier=sources

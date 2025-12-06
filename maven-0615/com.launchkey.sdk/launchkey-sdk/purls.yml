@@ -28,3 +28,5 @@
 - pkg:maven/com.launchkey.sdk/launchkey-sdk@3.0.0?classifier=sources
 - pkg:maven/com.launchkey.sdk/launchkey-sdk@3.1.0
 - pkg:maven/com.launchkey.sdk/launchkey-sdk@3.1.0?classifier=sources
+- pkg:maven/com.launchkey.sdk/launchkey-sdk@4.0.0
+- pkg:maven/com.launchkey.sdk/launchkey-sdk@4.0.0?classifier=sources

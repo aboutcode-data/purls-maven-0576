@@ -1,2 +1,4 @@
 - pkg:maven/org.jmockring/jmockring-utils@0.6.2
 - pkg:maven/org.jmockring/jmockring-utils@0.6.2?classifier=sources
+- pkg:maven/org.jmockring/jmockring-utils@0.7.0
+- pkg:maven/org.jmockring/jmockring-utils@0.7.0?classifier=sources

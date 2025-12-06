@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.platform/org.eclipse.ant.ui@3.6.201
+- pkg:maven/org.eclipse.platform/org.eclipse.ant.ui@3.6.201?classifier=sources

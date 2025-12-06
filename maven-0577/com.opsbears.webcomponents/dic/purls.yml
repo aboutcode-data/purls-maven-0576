@@ -1,0 +1,4 @@
+- pkg:maven/com.opsbears.webcomponents/dic@1.0.0-PR1
+- pkg:maven/com.opsbears.webcomponents/dic@1.0.0-PR1?classifier=sources
+- pkg:maven/com.opsbears.webcomponents/dic@1.0.0-PR2
+- pkg:maven/com.opsbears.webcomponents/dic@1.0.0-PR2?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/net.fortytwo.ripple/ripple-core@1.2?classifier=sources
 - pkg:maven/net.fortytwo.ripple/ripple-core@1.4
 - pkg:maven/net.fortytwo.ripple/ripple-core@1.4?classifier=sources
+- pkg:maven/net.fortytwo.ripple/ripple-core@1.5
+- pkg:maven/net.fortytwo.ripple/ripple-core@1.5?classifier=sources

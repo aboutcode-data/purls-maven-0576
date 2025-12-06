@@ -1,0 +1,2 @@
+- pkg:maven/com.github.drczearot.reaper/reaper-plugin@1.0.1
+- pkg:maven/com.github.drczearot.reaper/reaper-plugin@1.0.1?classifier=sources

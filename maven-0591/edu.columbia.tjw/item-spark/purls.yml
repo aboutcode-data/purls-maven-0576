@@ -1,0 +1,2 @@
+- pkg:maven/edu.columbia.tjw/item-spark@1.2.0
+- pkg:maven/edu.columbia.tjw/item-spark@1.2.0?classifier=sources

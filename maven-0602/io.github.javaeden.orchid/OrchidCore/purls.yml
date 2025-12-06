@@ -1,0 +1,4 @@
+- pkg:maven/io.github.javaeden.orchid/OrchidCore@unspecified
+- pkg:maven/io.github.javaeden.orchid/OrchidCore@unspecified?classifier=sources
+- pkg:maven/io.github.javaeden.orchid/OrchidCore@v0.1.0
+- pkg:maven/io.github.javaeden.orchid/OrchidCore@v0.1.0?classifier=sources

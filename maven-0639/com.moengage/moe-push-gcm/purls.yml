@@ -4,3 +4,15 @@
 - pkg:maven/com.moengage/moe-push-gcm@1.0.01?type=aar
 - pkg:maven/com.moengage/moe-push-gcm@1.0.02?classifier=sources
 - pkg:maven/com.moengage/moe-push-gcm@1.0.02?type=aar
+- pkg:maven/com.moengage/moe-push-gcm@1.0.03?classifier=sources
+- pkg:maven/com.moengage/moe-push-gcm@1.0.03?type=aar
+- pkg:maven/com.moengage/moe-push-gcm@1.0.04?classifier=sources
+- pkg:maven/com.moengage/moe-push-gcm@1.0.04?type=aar
+- pkg:maven/com.moengage/moe-push-gcm@1.1.00?classifier=sources
+- pkg:maven/com.moengage/moe-push-gcm@1.1.00?type=aar
+- pkg:maven/com.moengage/moe-push-gcm@1.1.01?classifier=sources
+- pkg:maven/com.moengage/moe-push-gcm@1.1.01?type=aar
+- pkg:maven/com.moengage/moe-push-gcm@1.2.00?classifier=sources
+- pkg:maven/com.moengage/moe-push-gcm@1.2.00?type=aar
+- pkg:maven/com.moengage/moe-push-gcm@1.2.01?classifier=sources
+- pkg:maven/com.moengage/moe-push-gcm@1.2.01?type=aar

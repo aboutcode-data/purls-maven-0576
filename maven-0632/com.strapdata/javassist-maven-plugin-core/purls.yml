@@ -1,0 +1,2 @@
+- pkg:maven/com.strapdata/javassist-maven-plugin-core@2.4
+- pkg:maven/com.strapdata/javassist-maven-plugin-core@2.4?classifier=sources

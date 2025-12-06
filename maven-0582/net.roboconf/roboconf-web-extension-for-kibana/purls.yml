@@ -1,0 +1,2 @@
+- pkg:maven/net.roboconf/roboconf-web-extension-for-kibana@0.8
+- pkg:maven/net.roboconf/roboconf-web-extension-for-kibana@0.8?classifier=sources

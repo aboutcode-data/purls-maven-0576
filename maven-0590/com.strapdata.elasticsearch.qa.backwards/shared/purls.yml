@@ -1,0 +1,2 @@
+- pkg:maven/com.strapdata.elasticsearch.qa.backwards/shared@2.4.2
+- pkg:maven/com.strapdata.elasticsearch.qa.backwards/shared@2.4.2?classifier=sources

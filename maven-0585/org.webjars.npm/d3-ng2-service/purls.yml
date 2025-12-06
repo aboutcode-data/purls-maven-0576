@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/d3-ng2-service@1.8.0
+- pkg:maven/org.webjars.npm/d3-ng2-service@1.8.0?classifier=sources

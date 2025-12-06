@@ -1,0 +1,4 @@
+- pkg:maven/com.sematext.autocomplete/st-AutoComplete@1.6.6.3.0
+- pkg:maven/com.sematext.autocomplete/st-AutoComplete@1.6.6.3.0?classifier=sources
+- pkg:maven/com.sematext.autocomplete/st-AutoComplete@1.6.6.5.1
+- pkg:maven/com.sematext.autocomplete/st-AutoComplete@1.6.6.5.1?classifier=sources

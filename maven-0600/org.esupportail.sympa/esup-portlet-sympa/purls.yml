@@ -1,0 +1,2 @@
+- pkg:maven/org.esupportail.sympa/esup-portlet-sympa@5.0?classifier=sources
+- pkg:maven/org.esupportail.sympa/esup-portlet-sympa@5.0?type=war

@@ -1,0 +1,2 @@
+- pkg:maven/com.bedatadriven.spss/spss-reader@1.2
+- pkg:maven/com.bedatadriven.spss/spss-reader@1.2?classifier=sources

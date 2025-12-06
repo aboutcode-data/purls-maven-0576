@@ -5,4 +5,12 @@
 - pkg:maven/kr.jmlab/jmlab-utils-java8@0.1.81?classifier=sources
 - pkg:maven/kr.jmlab/jmlab-utils-java8@0.1.82
 - pkg:maven/kr.jmlab/jmlab-utils-java8@0.1.82?classifier=sources
+- pkg:maven/kr.jmlab/jmlab-utils-java8@0.1.83
+- pkg:maven/kr.jmlab/jmlab-utils-java8@0.1.83?classifier=sources
+- pkg:maven/kr.jmlab/jmlab-utils-java8@0.1.84
+- pkg:maven/kr.jmlab/jmlab-utils-java8@0.1.84?classifier=sources
+- pkg:maven/kr.jmlab/jmlab-utils-java8@0.1.85
+- pkg:maven/kr.jmlab/jmlab-utils-java8@0.1.85?classifier=sources
+- pkg:maven/kr.jmlab/jmlab-utils-java8@0.1.86
+- pkg:maven/kr.jmlab/jmlab-utils-java8@0.1.86?classifier=sources
 - pkg:maven/kr.jmlab/jmlab-utils-java8@0.1.8?classifier=sources

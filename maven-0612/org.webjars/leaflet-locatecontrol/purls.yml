@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars/leaflet-locatecontrol@0.30.0
 - pkg:maven/org.webjars/leaflet-locatecontrol@0.40.0
+- pkg:maven/org.webjars/leaflet-locatecontrol@0.56.0
+- pkg:maven/org.webjars/leaflet-locatecontrol@0.56.0-1

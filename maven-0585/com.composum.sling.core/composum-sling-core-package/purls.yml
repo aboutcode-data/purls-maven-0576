@@ -1,1 +1,2 @@
 - pkg:maven/com.composum.sling.core/composum-sling-core-package@1.6.0?classifier=sources
+- pkg:maven/com.composum.sling.core/composum-sling-core-package@1.7.0?classifier=sources

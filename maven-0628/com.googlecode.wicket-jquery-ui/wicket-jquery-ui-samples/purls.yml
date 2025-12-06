@@ -1,1 +1,2 @@
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-samples@6.19.3?type=war
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-samples@8.0.0-M1.1?type=war

@@ -12,6 +12,8 @@
 - pkg:maven/org.opengis.cite/ets-wfs20@1.24?classifier=sources
 - pkg:maven/org.opengis.cite/ets-wfs20@1.25
 - pkg:maven/org.opengis.cite/ets-wfs20@1.25?classifier=sources
+- pkg:maven/org.opengis.cite/ets-wfs20@1.26
+- pkg:maven/org.opengis.cite/ets-wfs20@1.26?classifier=sources
 - pkg:maven/org.opengis.cite/ets-wfs20@2.0-r16
 - pkg:maven/org.opengis.cite/ets-wfs20@2.0-r16?classifier=sources
 - pkg:maven/org.opengis.cite/ets-wfs20@2.0-r17

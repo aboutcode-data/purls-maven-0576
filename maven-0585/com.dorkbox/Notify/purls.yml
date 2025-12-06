@@ -15,7 +15,13 @@
 - pkg:maven/com.dorkbox/Notify@2.16?classifier=sources
 - pkg:maven/com.dorkbox/Notify@2.17
 - pkg:maven/com.dorkbox/Notify@2.17?classifier=sources
+- pkg:maven/com.dorkbox/Notify@2.18
+- pkg:maven/com.dorkbox/Notify@2.18?classifier=sources
+- pkg:maven/com.dorkbox/Notify@2.19
+- pkg:maven/com.dorkbox/Notify@2.19?classifier=sources
 - pkg:maven/com.dorkbox/Notify@2.1?classifier=sources
+- pkg:maven/com.dorkbox/Notify@2.20
+- pkg:maven/com.dorkbox/Notify@2.20?classifier=sources
 - pkg:maven/com.dorkbox/Notify@2.5
 - pkg:maven/com.dorkbox/Notify@2.5?classifier=sources
 - pkg:maven/com.dorkbox/Notify@2.6

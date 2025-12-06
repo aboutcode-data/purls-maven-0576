@@ -38,3 +38,5 @@
 - pkg:maven/com.googlecode.gwt-test-utils/gwt-test-utils-csv@0.51?classifier=sources
 - pkg:maven/com.googlecode.gwt-test-utils/gwt-test-utils-csv@0.52
 - pkg:maven/com.googlecode.gwt-test-utils/gwt-test-utils-csv@0.52?classifier=sources
+- pkg:maven/com.googlecode.gwt-test-utils/gwt-test-utils-csv@0.53
+- pkg:maven/com.googlecode.gwt-test-utils/gwt-test-utils-csv@0.53?classifier=sources

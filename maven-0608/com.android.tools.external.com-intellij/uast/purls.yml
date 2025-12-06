@@ -1,0 +1,4 @@
+- pkg:maven/com.android.tools.external.com-intellij/uast@145.597.4
+- pkg:maven/com.android.tools.external.com-intellij/uast@145.597.4?classifier=sources
+- pkg:maven/com.android.tools.external.com-intellij/uast@162.2228.14
+- pkg:maven/com.android.tools.external.com-intellij/uast@162.2228.14?classifier=sources

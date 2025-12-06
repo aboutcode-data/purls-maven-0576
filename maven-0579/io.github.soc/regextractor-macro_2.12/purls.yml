@@ -1,0 +1,2 @@
+- pkg:maven/io.github.soc/regextractor-macro_2.12@0.2
+- pkg:maven/io.github.soc/regextractor-macro_2.12@0.2?classifier=sources

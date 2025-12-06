@@ -1,2 +1,10 @@
 - pkg:maven/com.uber/rave@0.6.0
 - pkg:maven/com.uber/rave@0.6.0?classifier=sources
+- pkg:maven/com.uber/rave@0.7.0
+- pkg:maven/com.uber/rave@0.7.0?classifier=sources
+- pkg:maven/com.uber/rave@1.0.0
+- pkg:maven/com.uber/rave@1.0.0?classifier=sources
+- pkg:maven/com.uber/rave@1.0.1
+- pkg:maven/com.uber/rave@1.0.1?classifier=sources
+- pkg:maven/com.uber/rave@2.0.0
+- pkg:maven/com.uber/rave@2.0.0?classifier=sources

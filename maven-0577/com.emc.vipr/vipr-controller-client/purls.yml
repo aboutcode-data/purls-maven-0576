@@ -14,3 +14,5 @@
 - pkg:maven/com.emc.vipr/vipr-controller-client@2.4.1.0?classifier=sources
 - pkg:maven/com.emc.vipr/vipr-controller-client@3.0.0.0
 - pkg:maven/com.emc.vipr/vipr-controller-client@3.0.0.0?classifier=sources
+- pkg:maven/com.emc.vipr/vipr-controller-client@3.5.0.0
+- pkg:maven/com.emc.vipr/vipr-controller-client@3.5.0.0?classifier=sources

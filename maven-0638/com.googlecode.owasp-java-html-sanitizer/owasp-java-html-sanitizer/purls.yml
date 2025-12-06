@@ -20,6 +20,16 @@
 - pkg:maven/com.googlecode.owasp-java-html-sanitizer/owasp-java-html-sanitizer@20160827.1?classifier=sources
 - pkg:maven/com.googlecode.owasp-java-html-sanitizer/owasp-java-html-sanitizer@20160924.1
 - pkg:maven/com.googlecode.owasp-java-html-sanitizer/owasp-java-html-sanitizer@20160924.1?classifier=sources
+- pkg:maven/com.googlecode.owasp-java-html-sanitizer/owasp-java-html-sanitizer@20170329.1
+- pkg:maven/com.googlecode.owasp-java-html-sanitizer/owasp-java-html-sanitizer@20170329.1?classifier=sources
+- pkg:maven/com.googlecode.owasp-java-html-sanitizer/owasp-java-html-sanitizer@20170408.1
+- pkg:maven/com.googlecode.owasp-java-html-sanitizer/owasp-java-html-sanitizer@20170408.1?classifier=sources
+- pkg:maven/com.googlecode.owasp-java-html-sanitizer/owasp-java-html-sanitizer@20170411.1
+- pkg:maven/com.googlecode.owasp-java-html-sanitizer/owasp-java-html-sanitizer@20170411.1?classifier=sources
+- pkg:maven/com.googlecode.owasp-java-html-sanitizer/owasp-java-html-sanitizer@20170512.1
+- pkg:maven/com.googlecode.owasp-java-html-sanitizer/owasp-java-html-sanitizer@20170512.1?classifier=sources
+- pkg:maven/com.googlecode.owasp-java-html-sanitizer/owasp-java-html-sanitizer@20170515.1
+- pkg:maven/com.googlecode.owasp-java-html-sanitizer/owasp-java-html-sanitizer@20170515.1?classifier=sources
 - pkg:maven/com.googlecode.owasp-java-html-sanitizer/owasp-java-html-sanitizer@r136
 - pkg:maven/com.googlecode.owasp-java-html-sanitizer/owasp-java-html-sanitizer@r136?classifier=sources
 - pkg:maven/com.googlecode.owasp-java-html-sanitizer/owasp-java-html-sanitizer@r156

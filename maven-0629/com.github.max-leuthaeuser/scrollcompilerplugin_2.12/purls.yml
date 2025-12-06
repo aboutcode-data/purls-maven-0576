@@ -1,0 +1,2 @@
+- pkg:maven/com.github.max-leuthaeuser/scrollcompilerplugin_2.12@0.0.4
+- pkg:maven/com.github.max-leuthaeuser/scrollcompilerplugin_2.12@0.0.4?classifier=sources

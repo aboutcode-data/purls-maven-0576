@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/types__core-js@0.9.32
 - pkg:maven/org.webjars.npm/types__core-js@0.9.32?classifier=sources
+- pkg:maven/org.webjars.npm/types__core-js@0.9.35
+- pkg:maven/org.webjars.npm/types__core-js@0.9.35?classifier=sources

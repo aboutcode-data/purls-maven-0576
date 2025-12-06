@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bower/trNgGrid@3.0.4
 - pkg:maven/org.webjars.bower/trNgGrid@3.0.4?classifier=sources
+- pkg:maven/org.webjars.bower/trNgGrid@3.1.7
+- pkg:maven/org.webjars.bower/trNgGrid@3.1.7?classifier=sources

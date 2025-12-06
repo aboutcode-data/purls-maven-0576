@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.platform/org.eclipse.core.commands@3.8.0
+- pkg:maven/org.eclipse.platform/org.eclipse.core.commands@3.8.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.core.commands@3.8.1
+- pkg:maven/org.eclipse.platform/org.eclipse.core.commands@3.8.1?classifier=sources

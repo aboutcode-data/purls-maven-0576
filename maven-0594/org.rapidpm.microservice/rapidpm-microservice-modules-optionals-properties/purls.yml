@@ -1,0 +1,4 @@
+- pkg:maven/org.rapidpm.microservice/rapidpm-microservice-modules-optionals-properties@0.7.0
+- pkg:maven/org.rapidpm.microservice/rapidpm-microservice-modules-optionals-properties@0.7.0?classifier=sources
+- pkg:maven/org.rapidpm.microservice/rapidpm-microservice-modules-optionals-properties@0.8.0
+- pkg:maven/org.rapidpm.microservice/rapidpm-microservice-modules-optionals-properties@0.8.0?classifier=sources

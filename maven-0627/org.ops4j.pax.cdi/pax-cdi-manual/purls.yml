@@ -1,1 +1,2 @@
 - pkg:maven/org.ops4j.pax.cdi/pax-cdi-manual@1.0.0.RC1?type=war
+- pkg:maven/org.ops4j.pax.cdi/pax-cdi-manual@1.0.0.RC2?type=war

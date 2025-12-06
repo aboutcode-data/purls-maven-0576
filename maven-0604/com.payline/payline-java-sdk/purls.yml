@@ -2,3 +2,5 @@
 - pkg:maven/com.payline/payline-java-sdk@4.44.1.1
 - pkg:maven/com.payline/payline-java-sdk@4.44.1.1?classifier=sources
 - pkg:maven/com.payline/payline-java-sdk@4.44.1?classifier=sources
+- pkg:maven/com.payline/payline-java-sdk@4.48
+- pkg:maven/com.payline/payline-java-sdk@4.48?classifier=sources

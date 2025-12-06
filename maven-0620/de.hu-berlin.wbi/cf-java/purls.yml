@@ -1,0 +1,4 @@
+- pkg:maven/de.hu-berlin.wbi/cf-java@0.0.2-RELEASE
+- pkg:maven/de.hu-berlin.wbi/cf-java@0.0.2-RELEASE?classifier=sources
+- pkg:maven/de.hu-berlin.wbi/cf-java@0.0.3-RELEASE
+- pkg:maven/de.hu-berlin.wbi/cf-java@0.0.3-RELEASE?classifier=sources

@@ -24,3 +24,5 @@
 - pkg:maven/org.eclipse.tycho.extras/tycho-buildtimestamp-jgit@0.25.0?classifier=sources
 - pkg:maven/org.eclipse.tycho.extras/tycho-buildtimestamp-jgit@0.26.0
 - pkg:maven/org.eclipse.tycho.extras/tycho-buildtimestamp-jgit@0.26.0?classifier=sources
+- pkg:maven/org.eclipse.tycho.extras/tycho-buildtimestamp-jgit@1.0.0
+- pkg:maven/org.eclipse.tycho.extras/tycho-buildtimestamp-jgit@1.0.0?classifier=sources

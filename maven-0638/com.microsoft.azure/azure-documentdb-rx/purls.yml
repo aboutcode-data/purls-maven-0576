@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure/azure-documentdb-rx@0.9.0-rc1
+- pkg:maven/com.microsoft.azure/azure-documentdb-rx@0.9.0-rc1?classifier=sources

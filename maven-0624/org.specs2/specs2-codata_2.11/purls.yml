@@ -66,5 +66,15 @@
 - pkg:maven/org.specs2/specs2-codata_2.11@3.8.5-20161006092037-b43b121?classifier=sources
 - pkg:maven/org.specs2/specs2-codata_2.11@3.8.5-scalaz-7.1.10
 - pkg:maven/org.specs2/specs2-codata_2.11@3.8.5-scalaz-7.1.10?classifier=sources
+- pkg:maven/org.specs2/specs2-codata_2.11@3.8.5.1
+- pkg:maven/org.specs2/specs2-codata_2.11@3.8.5.1-scalaz-7.1
+- pkg:maven/org.specs2/specs2-codata_2.11@3.8.5.1-scalaz-7.1?classifier=sources
+- pkg:maven/org.specs2/specs2-codata_2.11@3.8.5.1?classifier=sources
 - pkg:maven/org.specs2/specs2-codata_2.11@3.8.5?classifier=sources
+- pkg:maven/org.specs2/specs2-codata_2.11@3.8.6
+- pkg:maven/org.specs2/specs2-codata_2.11@3.8.6-20161107094644-7ddfac2
+- pkg:maven/org.specs2/specs2-codata_2.11@3.8.6-20161107094644-7ddfac2?classifier=sources
+- pkg:maven/org.specs2/specs2-codata_2.11@3.8.6-scalaz-7.1
+- pkg:maven/org.specs2/specs2-codata_2.11@3.8.6-scalaz-7.1?classifier=sources
+- pkg:maven/org.specs2/specs2-codata_2.11@3.8.6?classifier=sources
 - pkg:maven/org.specs2/specs2-codata_2.11@3.8?classifier=sources

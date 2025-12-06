@@ -7,3 +7,5 @@
 - pkg:maven/com.composum.sling.core/composum-sling-package-manager@1.5.3?classifier=sources
 - pkg:maven/com.composum.sling.core/composum-sling-package-manager@1.6.0
 - pkg:maven/com.composum.sling.core/composum-sling-package-manager@1.6.0?classifier=sources
+- pkg:maven/com.composum.sling.core/composum-sling-package-manager@1.7.0
+- pkg:maven/com.composum.sling.core/composum-sling-package-manager@1.7.0?classifier=sources

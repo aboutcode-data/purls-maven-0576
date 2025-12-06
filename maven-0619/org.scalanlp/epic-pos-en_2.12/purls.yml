@@ -1,0 +1,2 @@
+- pkg:maven/org.scalanlp/epic-pos-en_2.12@2017.3.10
+- pkg:maven/org.scalanlp/epic-pos-en_2.12@2017.3.10?classifier=sources

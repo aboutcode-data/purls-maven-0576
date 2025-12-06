@@ -1,0 +1,2 @@
+- pkg:maven/org.seerc.paasword/ICQueryValidatorREST@1.0.3?classifier=sources
+- pkg:maven/org.seerc.paasword/ICQueryValidatorREST@1.0.3?type=war

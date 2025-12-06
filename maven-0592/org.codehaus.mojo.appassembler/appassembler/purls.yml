@@ -13,3 +13,4 @@
 - pkg:maven/org.codehaus.mojo.appassembler/appassembler@1.8.1?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.mojo.appassembler/appassembler@1.8?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.mojo.appassembler/appassembler@1.9?classifier=source-release&type=zip
+- pkg:maven/org.codehaus.mojo.appassembler/appassembler@2.0.0?classifier=source-release&type=zip

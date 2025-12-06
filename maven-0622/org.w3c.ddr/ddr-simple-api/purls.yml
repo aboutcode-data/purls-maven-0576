@@ -1,0 +1,2 @@
+- pkg:maven/org.w3c.ddr/ddr-simple-api@20081205
+- pkg:maven/org.w3c.ddr/ddr-simple-api@20081205?classifier=sources

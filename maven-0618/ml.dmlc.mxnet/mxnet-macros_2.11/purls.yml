@@ -1,0 +1,2 @@
+- pkg:maven/ml.dmlc.mxnet/mxnet-macros_2.11@0.9.3a
+- pkg:maven/ml.dmlc.mxnet/mxnet-macros_2.11@0.9.3a?classifier=sources

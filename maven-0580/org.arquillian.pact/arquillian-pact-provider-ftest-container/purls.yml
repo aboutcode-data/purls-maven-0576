@@ -1,0 +1,4 @@
+- pkg:maven/org.arquillian.pact/arquillian-pact-provider-ftest-container@1.0.0.Alpha3
+- pkg:maven/org.arquillian.pact/arquillian-pact-provider-ftest-container@1.0.0.Alpha3?classifier=sources
+- pkg:maven/org.arquillian.pact/arquillian-pact-provider-ftest-container@1.0.0.Alpha4
+- pkg:maven/org.arquillian.pact/arquillian-pact-provider-ftest-container@1.0.0.Alpha4?classifier=sources

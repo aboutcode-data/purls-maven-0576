@@ -6,3 +6,13 @@
 - pkg:maven/org.webjars.npm/snabbdom@0.5.1?classifier=sources
 - pkg:maven/org.webjars.npm/snabbdom@0.5.3
 - pkg:maven/org.webjars.npm/snabbdom@0.5.3?classifier=sources
+- pkg:maven/org.webjars.npm/snabbdom@0.5.4
+- pkg:maven/org.webjars.npm/snabbdom@0.5.4?classifier=sources
+- pkg:maven/org.webjars.npm/snabbdom@0.6.4
+- pkg:maven/org.webjars.npm/snabbdom@0.6.4?classifier=sources
+- pkg:maven/org.webjars.npm/snabbdom@0.6.6
+- pkg:maven/org.webjars.npm/snabbdom@0.6.6?classifier=sources
+- pkg:maven/org.webjars.npm/snabbdom@0.6.7
+- pkg:maven/org.webjars.npm/snabbdom@0.6.7?classifier=sources
+- pkg:maven/org.webjars.npm/snabbdom@0.6.9
+- pkg:maven/org.webjars.npm/snabbdom@0.6.9?classifier=sources

@@ -18,3 +18,13 @@
 - pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundation@8.0.2016061011?type=aar
 - pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundation@8.0.2016070718?classifier=sources
 - pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundation@8.0.2016070718?type=aar
+- pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundation@8.0.2016102017?classifier=sources
+- pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundation@8.0.2016102017?type=aar
+- pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundation@8.0.2017012509?classifier=sources
+- pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundation@8.0.2017012509?type=aar
+- pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundation@8.0.2017012919?classifier=sources
+- pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundation@8.0.2017012919?type=aar
+- pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundation@8.0.2017021516?classifier=sources
+- pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundation@8.0.2017021516?type=aar
+- pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundation@8.0.2017040512?classifier=sources
+- pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundation@8.0.2017040512?type=aar

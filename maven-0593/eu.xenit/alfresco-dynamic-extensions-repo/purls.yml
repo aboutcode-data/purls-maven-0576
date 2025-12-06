@@ -1,0 +1,4 @@
+- pkg:maven/eu.xenit/alfresco-dynamic-extensions-repo@1.5.0
+- pkg:maven/eu.xenit/alfresco-dynamic-extensions-repo@1.5.0?classifier=sources
+- pkg:maven/eu.xenit/alfresco-dynamic-extensions-repo@1.5.1
+- pkg:maven/eu.xenit/alfresco-dynamic-extensions-repo@1.5.1?classifier=sources

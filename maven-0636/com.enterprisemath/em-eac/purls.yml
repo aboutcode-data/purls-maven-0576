@@ -6,3 +6,9 @@
 - pkg:maven/com.enterprisemath/em-eac@3.4.0?classifier=sources
 - pkg:maven/com.enterprisemath/em-eac@3.5.0
 - pkg:maven/com.enterprisemath/em-eac@3.5.0?classifier=sources
+- pkg:maven/com.enterprisemath/em-eac@3.6.0
+- pkg:maven/com.enterprisemath/em-eac@3.6.0?classifier=sources
+- pkg:maven/com.enterprisemath/em-eac@3.7.0
+- pkg:maven/com.enterprisemath/em-eac@3.7.0?classifier=sources
+- pkg:maven/com.enterprisemath/em-eac@3.8.0
+- pkg:maven/com.enterprisemath/em-eac@3.8.0?classifier=sources

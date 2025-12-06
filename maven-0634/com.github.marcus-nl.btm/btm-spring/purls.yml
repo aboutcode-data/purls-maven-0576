@@ -1,0 +1,2 @@
+- pkg:maven/com.github.marcus-nl.btm/btm-spring@3.0.0-mk1
+- pkg:maven/com.github.marcus-nl.btm/btm-spring@3.0.0-mk1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.distributedlog/distributedlog_2.10@0.4.0-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.distributedlog/distributedlog_2.10@0.4.0-incubating?classifier=src&type=tar.gz

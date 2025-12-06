@@ -1,0 +1,8 @@
+- pkg:maven/org.scalikejdbc/scalikejdbc-jsr310_2.12@2.5.0
+- pkg:maven/org.scalikejdbc/scalikejdbc-jsr310_2.12@2.5.0-RC2
+- pkg:maven/org.scalikejdbc/scalikejdbc-jsr310_2.12@2.5.0-RC2?classifier=sources
+- pkg:maven/org.scalikejdbc/scalikejdbc-jsr310_2.12@2.5.0?classifier=sources
+- pkg:maven/org.scalikejdbc/scalikejdbc-jsr310_2.12@2.5.1
+- pkg:maven/org.scalikejdbc/scalikejdbc-jsr310_2.12@2.5.1?classifier=sources
+- pkg:maven/org.scalikejdbc/scalikejdbc-jsr310_2.12@2.5.2
+- pkg:maven/org.scalikejdbc/scalikejdbc-jsr310_2.12@2.5.2?classifier=sources

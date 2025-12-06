@@ -2,6 +2,8 @@
 - pkg:maven/com.jcabi/jcabi-ssl-maven-plugin@0.10?classifier=sources
 - pkg:maven/com.jcabi/jcabi-ssl-maven-plugin@0.11
 - pkg:maven/com.jcabi/jcabi-ssl-maven-plugin@0.11?classifier=sources
+- pkg:maven/com.jcabi/jcabi-ssl-maven-plugin@0.12
+- pkg:maven/com.jcabi/jcabi-ssl-maven-plugin@0.12?classifier=sources
 - pkg:maven/com.jcabi/jcabi-ssl-maven-plugin@0.5
 - pkg:maven/com.jcabi/jcabi-ssl-maven-plugin@0.5.1
 - pkg:maven/com.jcabi/jcabi-ssl-maven-plugin@0.5.1?classifier=sources

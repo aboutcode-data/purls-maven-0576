@@ -1,0 +1,4 @@
+- pkg:maven/org.ff4j/ff4j-store-commonsconfig@1.6.3
+- pkg:maven/org.ff4j/ff4j-store-commonsconfig@1.6.3?classifier=sources
+- pkg:maven/org.ff4j/ff4j-store-commonsconfig@1.6.4
+- pkg:maven/org.ff4j/ff4j-store-commonsconfig@1.6.4?classifier=sources

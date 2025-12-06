@@ -38,3 +38,17 @@
 - pkg:maven/it.unibo.alchemist/alchemist-swingui@3.4.3-2.6.0-3f779c2?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-swingui@3.4.3-2.6.1-dabffc1
 - pkg:maven/it.unibo.alchemist/alchemist-swingui@3.4.3-2.6.1-dabffc1?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-swingui@3.4.3-3.0.0-2755bd9
+- pkg:maven/it.unibo.alchemist/alchemist-swingui@3.4.3-3.0.0-2755bd9?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-swingui@3.4.3-3.0.1-ceba287
+- pkg:maven/it.unibo.alchemist/alchemist-swingui@3.4.3-3.0.1-ceba287?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-swingui@4.0.0
+- pkg:maven/it.unibo.alchemist/alchemist-swingui@4.0.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-swingui@5.0.0
+- pkg:maven/it.unibo.alchemist/alchemist-swingui@5.0.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-swingui@5.0.1
+- pkg:maven/it.unibo.alchemist/alchemist-swingui@5.0.1?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-swingui@5.0.2
+- pkg:maven/it.unibo.alchemist/alchemist-swingui@5.0.2?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-swingui@5.1.0
+- pkg:maven/it.unibo.alchemist/alchemist-swingui@5.1.0?classifier=sources

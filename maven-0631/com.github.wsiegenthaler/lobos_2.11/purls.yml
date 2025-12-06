@@ -2,3 +2,5 @@
 - pkg:maven/com.github.wsiegenthaler/lobos_2.11@0.9.22?classifier=sources
 - pkg:maven/com.github.wsiegenthaler/lobos_2.11@0.9.23
 - pkg:maven/com.github.wsiegenthaler/lobos_2.11@0.9.23?classifier=sources
+- pkg:maven/com.github.wsiegenthaler/lobos_2.11@0.9.24
+- pkg:maven/com.github.wsiegenthaler/lobos_2.11@0.9.24?classifier=sources

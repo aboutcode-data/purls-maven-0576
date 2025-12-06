@@ -1,0 +1,6 @@
+- pkg:maven/nl.hsac/allure-fitnesse-listener@1.0.0
+- pkg:maven/nl.hsac/allure-fitnesse-listener@1.0.0?classifier=sources
+- pkg:maven/nl.hsac/allure-fitnesse-listener@1.0.0a
+- pkg:maven/nl.hsac/allure-fitnesse-listener@1.0.0a?classifier=sources
+- pkg:maven/nl.hsac/allure-fitnesse-listener@1.0.1
+- pkg:maven/nl.hsac/allure-fitnesse-listener@1.0.1?classifier=sources

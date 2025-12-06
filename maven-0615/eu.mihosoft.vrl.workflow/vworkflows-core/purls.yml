@@ -11,4 +11,6 @@
 - pkg:maven/eu.mihosoft.vrl.workflow/vworkflows-core@0.2.4.1?classifier=sources
 - pkg:maven/eu.mihosoft.vrl.workflow/vworkflows-core@0.2.4.2
 - pkg:maven/eu.mihosoft.vrl.workflow/vworkflows-core@0.2.4.2?classifier=sources
+- pkg:maven/eu.mihosoft.vrl.workflow/vworkflows-core@0.2.4.3
+- pkg:maven/eu.mihosoft.vrl.workflow/vworkflows-core@0.2.4.3?classifier=sources
 - pkg:maven/eu.mihosoft.vrl.workflow/vworkflows-core@0.2.4?classifier=sources

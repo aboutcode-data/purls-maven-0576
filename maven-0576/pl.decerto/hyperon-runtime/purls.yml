@@ -1,0 +1,10 @@
+- pkg:maven/pl.decerto/hyperon-runtime@1.5.13
+- pkg:maven/pl.decerto/hyperon-runtime@1.5.13?classifier=sources
+- pkg:maven/pl.decerto/hyperon-runtime@1.5.14
+- pkg:maven/pl.decerto/hyperon-runtime@1.5.14?classifier=sources
+- pkg:maven/pl.decerto/hyperon-runtime@1.5.19
+- pkg:maven/pl.decerto/hyperon-runtime@1.5.19?classifier=sources
+- pkg:maven/pl.decerto/hyperon-runtime@1.5.22
+- pkg:maven/pl.decerto/hyperon-runtime@1.5.22?classifier=sources
+- pkg:maven/pl.decerto/hyperon-runtime@1.5.25
+- pkg:maven/pl.decerto/hyperon-runtime@1.5.25?classifier=sources

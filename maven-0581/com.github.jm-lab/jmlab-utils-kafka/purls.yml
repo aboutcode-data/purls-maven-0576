@@ -1,0 +1,4 @@
+- pkg:maven/com.github.jm-lab/jmlab-utils-kafka@0.10.0
+- pkg:maven/com.github.jm-lab/jmlab-utils-kafka@0.10.0?classifier=sources
+- pkg:maven/com.github.jm-lab/jmlab-utils-kafka@0.10.1
+- pkg:maven/com.github.jm-lab/jmlab-utils-kafka@0.10.1?classifier=sources

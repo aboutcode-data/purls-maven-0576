@@ -1,0 +1,6 @@
+- pkg:maven/com.linecorp.armeria/armeria-tomcat8.0@0.42.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-tomcat8.0@0.43.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-tomcat8.0@0.44.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-tomcat8.0@0.45.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-tomcat8.0@0.46.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-tomcat8.0@0.47.0?classifier=sources

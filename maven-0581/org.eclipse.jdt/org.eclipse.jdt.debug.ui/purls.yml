@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.debug.ui@3.7.201
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.debug.ui@3.7.201?classifier=sources

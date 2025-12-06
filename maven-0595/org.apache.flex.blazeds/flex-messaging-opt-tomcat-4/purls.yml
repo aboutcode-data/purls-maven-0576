@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.flex.blazeds/flex-messaging-opt-tomcat-4@4.7.3
+- pkg:maven/org.apache.flex.blazeds/flex-messaging-opt-tomcat-4@4.7.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.technolords.micro.service/microservice-jolokia-client@1.0.0
+- pkg:maven/net.technolords.micro.service/microservice-jolokia-client@1.0.0?classifier=sources

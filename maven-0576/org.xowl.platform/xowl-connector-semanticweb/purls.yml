@@ -1,0 +1,2 @@
+- pkg:maven/org.xowl.platform/xowl-connector-semanticweb@0.3.0
+- pkg:maven/org.xowl.platform/xowl-connector-semanticweb@0.3.0?classifier=sources

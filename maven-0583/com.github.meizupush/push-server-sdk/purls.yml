@@ -1,0 +1,4 @@
+- pkg:maven/com.github.meizupush/push-server-sdk@1.0.0.20161218_release
+- pkg:maven/com.github.meizupush/push-server-sdk@1.0.0.20161218_release?classifier=sources
+- pkg:maven/com.github.meizupush/push-server-sdk@1.0.0.20171218_release
+- pkg:maven/com.github.meizupush/push-server-sdk@1.0.0.20171218_release?classifier=sources

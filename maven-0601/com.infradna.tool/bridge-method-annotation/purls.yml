@@ -6,6 +6,10 @@
 - pkg:maven/com.infradna.tool/bridge-method-annotation@1.13?classifier=sources
 - pkg:maven/com.infradna.tool/bridge-method-annotation@1.14
 - pkg:maven/com.infradna.tool/bridge-method-annotation@1.14?classifier=sources
+- pkg:maven/com.infradna.tool/bridge-method-annotation@1.15
+- pkg:maven/com.infradna.tool/bridge-method-annotation@1.15?classifier=sources
+- pkg:maven/com.infradna.tool/bridge-method-annotation@1.17
+- pkg:maven/com.infradna.tool/bridge-method-annotation@1.17?classifier=sources
 - pkg:maven/com.infradna.tool/bridge-method-annotation@1.2
 - pkg:maven/com.infradna.tool/bridge-method-annotation@1.2?classifier=sources
 - pkg:maven/com.infradna.tool/bridge-method-annotation@1.3

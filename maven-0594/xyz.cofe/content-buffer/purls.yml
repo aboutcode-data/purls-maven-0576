@@ -1,0 +1,2 @@
+- pkg:maven/xyz.cofe/content-buffer@0.1
+- pkg:maven/xyz.cofe/content-buffer@0.1?classifier=sources

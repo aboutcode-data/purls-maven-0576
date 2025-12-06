@@ -1,0 +1,4 @@
+- pkg:maven/at.ac.ait/ariadne-json-route-format@0.18
+- pkg:maven/at.ac.ait/ariadne-json-route-format@0.18?classifier=sources
+- pkg:maven/at.ac.ait/ariadne-json-route-format@0.19
+- pkg:maven/at.ac.ait/ariadne-json-route-format@0.19?classifier=sources

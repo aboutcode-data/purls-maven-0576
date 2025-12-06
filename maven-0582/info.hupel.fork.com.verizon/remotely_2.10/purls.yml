@@ -1,0 +1,2 @@
+- pkg:maven/info.hupel.fork.com.verizon/remotely_2.10@1.5.0
+- pkg:maven/info.hupel.fork.com.verizon/remotely_2.10@1.5.0?classifier=sources

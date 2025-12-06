@@ -10,3 +10,7 @@
 - pkg:maven/com.oym.indoor/goindoor@2.1.1?type=aar
 - pkg:maven/com.oym.indoor/goindoor@2.2.0?type=aar
 - pkg:maven/com.oym.indoor/goindoor@2.2.1?type=aar
+- pkg:maven/com.oym.indoor/goindoor@2.3.0?type=aar
+- pkg:maven/com.oym.indoor/goindoor@2.3.1?type=aar
+- pkg:maven/com.oym.indoor/goindoor@2.3.2?type=aar
+- pkg:maven/com.oym.indoor/goindoor@2.3.3?type=aar

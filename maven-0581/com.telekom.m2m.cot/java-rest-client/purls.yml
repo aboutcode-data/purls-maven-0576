@@ -1,2 +1,12 @@
 - pkg:maven/com.telekom.m2m.cot/java-rest-client@0.1.0
 - pkg:maven/com.telekom.m2m.cot/java-rest-client@0.1.0?classifier=sources
+- pkg:maven/com.telekom.m2m.cot/java-rest-client@0.2.0
+- pkg:maven/com.telekom.m2m.cot/java-rest-client@0.2.0?classifier=sources
+- pkg:maven/com.telekom.m2m.cot/java-rest-client@0.2.2
+- pkg:maven/com.telekom.m2m.cot/java-rest-client@0.2.2?classifier=sources
+- pkg:maven/com.telekom.m2m.cot/java-rest-client@0.3.0
+- pkg:maven/com.telekom.m2m.cot/java-rest-client@0.3.0?classifier=sources
+- pkg:maven/com.telekom.m2m.cot/java-rest-client@0.4.0
+- pkg:maven/com.telekom.m2m.cot/java-rest-client@0.4.0?classifier=sources
+- pkg:maven/com.telekom.m2m.cot/java-rest-client@0.4.1
+- pkg:maven/com.telekom.m2m.cot/java-rest-client@0.4.1?classifier=sources

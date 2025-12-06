@@ -8,3 +8,5 @@
 - pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.enablement.oda.ws@1.2.6.v201307051812?classifier=sources
 - pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.enablement.oda.ws@1.2.6.v201403131825
 - pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.enablement.oda.ws@1.2.6.v201403131825?classifier=sources
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.enablement.oda.ws@1.3.0.201603142002
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.enablement.oda.ws@1.3.0.201603142002?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/cd.go.plugin/gocd-package-material-plugin-shim@16.12.0
+- pkg:maven/cd.go.plugin/gocd-package-material-plugin-shim@16.12.0?classifier=sources

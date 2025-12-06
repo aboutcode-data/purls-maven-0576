@@ -1,0 +1,2 @@
+- pkg:maven/pt.tecnico.dsi/ldap_2.12.0-RC2@0.4.0
+- pkg:maven/pt.tecnico.dsi/ldap_2.12.0-RC2@0.4.0?classifier=sources

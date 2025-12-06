@@ -1,0 +1,4 @@
+- pkg:maven/com.att.ajsc/ajsc-archetype@1.0.0
+- pkg:maven/com.att.ajsc/ajsc-archetype@2.0.0
+- pkg:maven/com.att.ajsc/ajsc-archetype@2.1.0
+- pkg:maven/com.att.ajsc/ajsc-archetype@3.0.0

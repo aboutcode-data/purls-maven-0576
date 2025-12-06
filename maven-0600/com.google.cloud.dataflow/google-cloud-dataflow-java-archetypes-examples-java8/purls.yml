@@ -1,0 +1,2 @@
+- pkg:maven/com.google.cloud.dataflow/google-cloud-dataflow-java-archetypes-examples-java8@2.0.0-beta3?classifier=sources
+- pkg:maven/com.google.cloud.dataflow/google-cloud-dataflow-java-archetypes-examples-java8@2.0.0?classifier=sources

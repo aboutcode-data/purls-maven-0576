@@ -1,0 +1,2 @@
+- pkg:maven/ru.sbtqa.tag.parsers/pdf@1.0.0
+- pkg:maven/ru.sbtqa.tag.parsers/pdf@1.0.0?classifier=sources

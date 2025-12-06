@@ -1,0 +1,2 @@
+- pkg:maven/com.github.japkit/japkit-juel@1.12
+- pkg:maven/com.github.japkit/japkit-juel@1.12?classifier=sources

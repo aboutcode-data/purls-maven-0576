@@ -1,0 +1,4 @@
+- pkg:maven/com.github.jhonyscamacho/web-configuration@1.0.0
+- pkg:maven/com.github.jhonyscamacho/web-configuration@1.0.0?classifier=sources
+- pkg:maven/com.github.jhonyscamacho/web-configuration@2.0.0
+- pkg:maven/com.github.jhonyscamacho/web-configuration@2.0.0?classifier=sources

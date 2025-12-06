@@ -5,3 +5,5 @@
 - pkg:maven/org.webjars/webcomponentsjs@0.7.2
 - pkg:maven/org.webjars/webcomponentsjs@0.7.22
 - pkg:maven/org.webjars/webcomponentsjs@0.7.7
+- pkg:maven/org.webjars/webcomponentsjs@1.0.0-rc.11
+- pkg:maven/org.webjars/webcomponentsjs@1.0.1

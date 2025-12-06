@@ -1,0 +1,2 @@
+- pkg:maven/com.github.smallcham/mybatis-page-nodep@1.5-RELEASES
+- pkg:maven/com.github.smallcham/mybatis-page-nodep@1.5-RELEASES?classifier=sources

@@ -1,2 +1,4 @@
+- pkg:maven/com.twitter.common/quantity@0.0.100
+- pkg:maven/com.twitter.common/quantity@0.0.100?classifier=sources
 - pkg:maven/com.twitter.common/quantity@0.0.99
 - pkg:maven/com.twitter.common/quantity@0.0.99?classifier=sources

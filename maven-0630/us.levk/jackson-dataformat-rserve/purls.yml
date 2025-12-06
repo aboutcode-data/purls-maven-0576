@@ -1,0 +1,4 @@
+- pkg:maven/us.levk/jackson-dataformat-rserve@0.0.1
+- pkg:maven/us.levk/jackson-dataformat-rserve@0.0.1?classifier=sources
+- pkg:maven/us.levk/jackson-dataformat-rserve@0.0.2
+- pkg:maven/us.levk/jackson-dataformat-rserve@0.0.2?classifier=sources

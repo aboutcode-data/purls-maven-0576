@@ -1,0 +1,4 @@
+- pkg:maven/com.att.ajsc/sdk-java-camel-interceptor@6.2.0.5
+- pkg:maven/com.att.ajsc/sdk-java-camel-interceptor@6.2.0.5-oss
+- pkg:maven/com.att.ajsc/sdk-java-camel-interceptor@6.2.0.5-oss?classifier=sources
+- pkg:maven/com.att.ajsc/sdk-java-camel-interceptor@6.2.0.5?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.vencent-lu/giants-xmlmapping@1.0.0
+- pkg:maven/com.github.vencent-lu/giants-xmlmapping@1.0.0?classifier=sources

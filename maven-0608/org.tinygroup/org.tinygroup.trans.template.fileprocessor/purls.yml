@@ -1,0 +1,2 @@
+- pkg:maven/org.tinygroup/org.tinygroup.trans.template.fileprocessor@3.4.0
+- pkg:maven/org.tinygroup/org.tinygroup.trans.template.fileprocessor@3.4.0?classifier=sources

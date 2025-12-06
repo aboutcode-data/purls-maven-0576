@@ -1,0 +1,2 @@
+- pkg:maven/io.astronomer.analytics.android/analytics-wear@4.2.2?classifier=sources
+- pkg:maven/io.astronomer.analytics.android/analytics-wear@4.2.2?type=aar

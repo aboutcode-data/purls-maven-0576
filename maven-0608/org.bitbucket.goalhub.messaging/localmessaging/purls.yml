@@ -1,0 +1,4 @@
+- pkg:maven/org.bitbucket.goalhub.messaging/localmessaging@1.1.10
+- pkg:maven/org.bitbucket.goalhub.messaging/localmessaging@1.1.10?classifier=sources
+- pkg:maven/org.bitbucket.goalhub.messaging/localmessaging@1.1.11
+- pkg:maven/org.bitbucket.goalhub.messaging/localmessaging@1.1.11?classifier=sources

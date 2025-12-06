@@ -1,2 +1,16 @@
+- pkg:maven/com.mzlion/easy-okhttp@1.0.0-Final
+- pkg:maven/com.mzlion/easy-okhttp@1.0.0-Final?classifier=sources
+- pkg:maven/com.mzlion/easy-okhttp@1.0.10-Final
+- pkg:maven/com.mzlion/easy-okhttp@1.0.10-Final?classifier=sources
 - pkg:maven/com.mzlion/easy-okhttp@1.0.2-beta
 - pkg:maven/com.mzlion/easy-okhttp@1.0.2-beta?classifier=sources
+- pkg:maven/com.mzlion/easy-okhttp@1.0.3-beta
+- pkg:maven/com.mzlion/easy-okhttp@1.0.3-beta?classifier=sources
+- pkg:maven/com.mzlion/easy-okhttp@1.0.4-beta
+- pkg:maven/com.mzlion/easy-okhttp@1.0.4-beta?classifier=sources
+- pkg:maven/com.mzlion/easy-okhttp@1.0.7-beta
+- pkg:maven/com.mzlion/easy-okhttp@1.0.7-beta?classifier=sources
+- pkg:maven/com.mzlion/easy-okhttp@1.1.0
+- pkg:maven/com.mzlion/easy-okhttp@1.1.0?classifier=sources
+- pkg:maven/com.mzlion/easy-okhttp@1.1.1
+- pkg:maven/com.mzlion/easy-okhttp@1.1.1?classifier=sources

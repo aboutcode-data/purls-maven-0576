@@ -1,2 +1,4 @@
 - pkg:maven/com.datumbox/libsvm@3.21
 - pkg:maven/com.datumbox/libsvm@3.21?classifier=sources
+- pkg:maven/com.datumbox/libsvm@3.22
+- pkg:maven/com.datumbox/libsvm@3.22?classifier=sources

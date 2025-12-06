@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bower/github-com-katspaugh-wavesurfer-js@1.0.53
+- pkg:maven/org.webjars.bower/github-com-katspaugh-wavesurfer-js@1.0.53?classifier=sources
+- pkg:maven/org.webjars.bower/github-com-katspaugh-wavesurfer-js@1.4.0
+- pkg:maven/org.webjars.bower/github-com-katspaugh-wavesurfer-js@1.4.0?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/com.github.ykiselev/binary-format@1.31?classifier=sources
 - pkg:maven/com.github.ykiselev/binary-format@1.32
 - pkg:maven/com.github.ykiselev/binary-format@1.32?classifier=sources
+- pkg:maven/com.github.ykiselev/binary-format@1.34
+- pkg:maven/com.github.ykiselev/binary-format@1.34?classifier=sources

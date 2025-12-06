@@ -1,0 +1,2 @@
+- pkg:maven/org.scalawebtest/integration_test_2.11@1.0.2?classifier=sources
+- pkg:maven/org.scalawebtest/integration_test_2.11@1.0.3?classifier=sources

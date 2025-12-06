@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/regenerator-transform@0.9.11
+- pkg:maven/org.webjars.npm/regenerator-transform@0.9.11?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.wealthfront/magellan-support@1.0.0?classifier=sources
+- pkg:maven/com.wealthfront/magellan-support@1.0.0?type=aar

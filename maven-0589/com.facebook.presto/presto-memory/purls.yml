@@ -1,0 +1,10 @@
+- pkg:maven/com.facebook.presto/presto-memory@0.168?classifier=sources
+- pkg:maven/com.facebook.presto/presto-memory@0.169?classifier=sources
+- pkg:maven/com.facebook.presto/presto-memory@0.170?classifier=sources
+- pkg:maven/com.facebook.presto/presto-memory@0.171?classifier=sources
+- pkg:maven/com.facebook.presto/presto-memory@0.172?classifier=sources
+- pkg:maven/com.facebook.presto/presto-memory@0.173?classifier=sources
+- pkg:maven/com.facebook.presto/presto-memory@0.174?classifier=sources
+- pkg:maven/com.facebook.presto/presto-memory@0.175?classifier=sources
+- pkg:maven/com.facebook.presto/presto-memory@0.176?classifier=sources
+- pkg:maven/com.facebook.presto/presto-memory@0.177?classifier=sources

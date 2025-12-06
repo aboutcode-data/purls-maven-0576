@@ -1,0 +1,2 @@
+- pkg:maven/com.fluxtion/fluxtion-statemachine-maven-plugin@1.0.2
+- pkg:maven/com.fluxtion/fluxtion-statemachine-maven-plugin@1.0.2?classifier=sources

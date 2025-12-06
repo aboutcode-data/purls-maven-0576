@@ -1,2 +1,4 @@
 - pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.enablement.ibm.db2@1.0.0.v201401170830
 - pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.enablement.ibm.db2@1.0.0.v201401170830?classifier=sources
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.enablement.ibm.db2@1.1.0.201603142002
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.enablement.ibm.db2@1.1.0.201603142002?classifier=sources

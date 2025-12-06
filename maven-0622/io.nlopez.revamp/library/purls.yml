@@ -1,2 +1,9 @@
 - pkg:maven/io.nlopez.revamp/library@1.0.0?type=aar
 - pkg:maven/io.nlopez.revamp/library@1.0.1?type=aar
+- pkg:maven/io.nlopez.revamp/library@1.0.2?type=aar
+- pkg:maven/io.nlopez.revamp/library@1.0.3?type=aar
+- pkg:maven/io.nlopez.revamp/library@1.0.4?type=aar
+- pkg:maven/io.nlopez.revamp/library@1.0.5?type=aar
+- pkg:maven/io.nlopez.revamp/library@1.0.6?type=aar
+- pkg:maven/io.nlopez.revamp/library@1.0.7?type=aar
+- pkg:maven/io.nlopez.revamp/library@1.0.8?type=aar

@@ -2,3 +2,8 @@
 - pkg:maven/org.arquillian.universe/arquillian-universe-parent@1.0.0.Alpha2?classifier=source-release&type=zip
 - pkg:maven/org.arquillian.universe/arquillian-universe-parent@1.0.0.Alpha3?classifier=source-release&type=zip
 - pkg:maven/org.arquillian.universe/arquillian-universe-parent@1.0.0.Alpha4?classifier=source-release&type=zip
+- pkg:maven/org.arquillian.universe/arquillian-universe-parent@1.0.0.Alpha5?classifier=source-release&type=zip
+- pkg:maven/org.arquillian.universe/arquillian-universe-parent@1.0.0.Alpha6?classifier=source-release&type=zip
+- pkg:maven/org.arquillian.universe/arquillian-universe-parent@1.0.0.Alpha7?classifier=source-release&type=zip
+- pkg:maven/org.arquillian.universe/arquillian-universe-parent@1.1.12.0?classifier=source-release&type=zip
+- pkg:maven/org.arquillian.universe/arquillian-universe-parent@1.1.13.0?classifier=source-release&type=zip

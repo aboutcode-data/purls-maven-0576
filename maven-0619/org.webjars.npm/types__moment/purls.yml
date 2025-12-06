@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/types__moment@2.11.26-alpha
 - pkg:maven/org.webjars.npm/types__moment@2.11.26-alpha?classifier=sources
+- pkg:maven/org.webjars.npm/types__moment@2.11.28
+- pkg:maven/org.webjars.npm/types__moment@2.11.28?classifier=sources

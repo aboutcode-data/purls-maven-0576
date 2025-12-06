@@ -1,2 +1,10 @@
 - pkg:maven/net.stickycode.bootstrap/sticky-bootstrap-api@1.5
 - pkg:maven/net.stickycode.bootstrap/sticky-bootstrap-api@1.5?classifier=sources
+- pkg:maven/net.stickycode.bootstrap/sticky-bootstrap-api@2.5
+- pkg:maven/net.stickycode.bootstrap/sticky-bootstrap-api@2.5?classifier=sources
+- pkg:maven/net.stickycode.bootstrap/sticky-bootstrap-api@2.7
+- pkg:maven/net.stickycode.bootstrap/sticky-bootstrap-api@2.7?classifier=sources
+- pkg:maven/net.stickycode.bootstrap/sticky-bootstrap-api@3.1
+- pkg:maven/net.stickycode.bootstrap/sticky-bootstrap-api@3.1?classifier=sources
+- pkg:maven/net.stickycode.bootstrap/sticky-bootstrap-api@3.4
+- pkg:maven/net.stickycode.bootstrap/sticky-bootstrap-api@3.4?classifier=sources

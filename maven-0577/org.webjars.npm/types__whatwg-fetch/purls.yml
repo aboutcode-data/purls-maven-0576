@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/types__whatwg-fetch@0.0.32
+- pkg:maven/org.webjars.npm/types__whatwg-fetch@0.0.32?classifier=sources
+- pkg:maven/org.webjars.npm/types__whatwg-fetch@0.0.33
+- pkg:maven/org.webjars.npm/types__whatwg-fetch@0.0.33?classifier=sources

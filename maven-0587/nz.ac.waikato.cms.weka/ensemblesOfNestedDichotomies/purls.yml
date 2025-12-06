@@ -6,3 +6,5 @@
 - pkg:maven/nz.ac.waikato.cms.weka/ensemblesOfNestedDichotomies@1.0.3?classifier=sources
 - pkg:maven/nz.ac.waikato.cms.weka/ensemblesOfNestedDichotomies@1.0.5
 - pkg:maven/nz.ac.waikato.cms.weka/ensemblesOfNestedDichotomies@1.0.5?classifier=sources
+- pkg:maven/nz.ac.waikato.cms.weka/ensemblesOfNestedDichotomies@1.0.6
+- pkg:maven/nz.ac.waikato.cms.weka/ensemblesOfNestedDichotomies@1.0.6?classifier=sources

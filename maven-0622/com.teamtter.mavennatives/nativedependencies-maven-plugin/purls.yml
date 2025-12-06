@@ -2,3 +2,5 @@
 - pkg:maven/com.teamtter.mavennatives/nativedependencies-maven-plugin@0.0.8?classifier=sources
 - pkg:maven/com.teamtter.mavennatives/nativedependencies-maven-plugin@1.0.0
 - pkg:maven/com.teamtter.mavennatives/nativedependencies-maven-plugin@1.0.0?classifier=sources
+- pkg:maven/com.teamtter.mavennatives/nativedependencies-maven-plugin@1.0.1
+- pkg:maven/com.teamtter.mavennatives/nativedependencies-maven-plugin@1.0.1?classifier=sources

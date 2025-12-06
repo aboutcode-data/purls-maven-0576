@@ -8,3 +8,9 @@
 - pkg:maven/org.webjars.bower/three.js@0.73.0?classifier=sources
 - pkg:maven/org.webjars.bower/three.js@0.74.0
 - pkg:maven/org.webjars.bower/three.js@0.74.0?classifier=sources
+- pkg:maven/org.webjars.bower/three.js@0.77.0
+- pkg:maven/org.webjars.bower/three.js@0.77.0?classifier=sources
+- pkg:maven/org.webjars.bower/three.js@0.81.0
+- pkg:maven/org.webjars.bower/three.js@0.81.0?classifier=sources
+- pkg:maven/org.webjars.bower/three.js@0.82.0
+- pkg:maven/org.webjars.bower/three.js@0.82.0?classifier=sources

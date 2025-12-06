@@ -10,5 +10,7 @@
 - pkg:maven/org.eclipse.emf/org.eclipse.emf.mapping.ecore2xml@2.8.0-v20150123-0452
 - pkg:maven/org.eclipse.emf/org.eclipse.emf.mapping.ecore2xml@2.8.0-v20150123-0452?classifier=sources
 - pkg:maven/org.eclipse.emf/org.eclipse.emf.mapping.ecore2xml@2.8.0?classifier=sources
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.mapping.ecore2xml@2.9.0
 - pkg:maven/org.eclipse.emf/org.eclipse.emf.mapping.ecore2xml@2.9.0-v20150806-0404
 - pkg:maven/org.eclipse.emf/org.eclipse.emf.mapping.ecore2xml@2.9.0-v20150806-0404?classifier=sources
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.mapping.ecore2xml@2.9.0?classifier=sources
