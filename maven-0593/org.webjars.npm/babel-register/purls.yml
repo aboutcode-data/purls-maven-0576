@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/babel-register@6.1.18
+- pkg:maven/org.webjars.npm/babel-register@6.1.18?classifier=sources

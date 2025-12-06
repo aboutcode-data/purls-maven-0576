@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.remoting/jboss-remoting-core@2.5.0.SP2
+- pkg:maven/org.jboss.remoting/jboss-remoting-core@3.0.0.GA

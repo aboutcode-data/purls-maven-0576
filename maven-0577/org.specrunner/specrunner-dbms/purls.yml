@@ -1,0 +1,4 @@
+- pkg:maven/org.specrunner/specrunner-dbms@1.4.22
+- pkg:maven/org.specrunner/specrunner-dbms@1.4.22?classifier=sources
+- pkg:maven/org.specrunner/specrunner-dbms@1.4.23
+- pkg:maven/org.specrunner/specrunner-dbms@1.4.23?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/im.mange/shoreditch-api_2.11@0.0.60
+- pkg:maven/im.mange/shoreditch-api_2.11@0.0.60?classifier=sources
+- pkg:maven/im.mange/shoreditch-api_2.11@0.0.61
+- pkg:maven/im.mange/shoreditch-api_2.11@0.0.61?classifier=sources
+- pkg:maven/im.mange/shoreditch-api_2.11@0.0.65
+- pkg:maven/im.mange/shoreditch-api_2.11@0.0.65?classifier=sources
+- pkg:maven/im.mange/shoreditch-api_2.11@0.0.66
+- pkg:maven/im.mange/shoreditch-api_2.11@0.0.66?classifier=sources

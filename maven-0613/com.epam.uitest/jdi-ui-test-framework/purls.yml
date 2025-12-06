@@ -1,0 +1,2 @@
+- pkg:maven/com.epam.uitest/jdi-ui-test-framework@2.0.1
+- pkg:maven/com.epam.uitest/jdi-ui-test-framework@2.0.1?classifier=sources

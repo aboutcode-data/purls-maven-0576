@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.resteasy/resteasy-wadl@3.0.13.Final
+- pkg:maven/org.jboss.resteasy/resteasy-wadl@3.0.13.Final?classifier=sources

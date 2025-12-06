@@ -1,0 +1,2 @@
+- pkg:maven/it.neokree/GoogleNavigationDrawer@0.6?classifier=sources
+- pkg:maven/it.neokree/GoogleNavigationDrawer@0.6?type=aar

@@ -1,0 +1,8 @@
+- pkg:maven/com.magicmicky.habitrpgwrapper/lib@1.0?classifier=sources
+- pkg:maven/com.magicmicky.habitrpgwrapper/lib@1.0?type=aar
+- pkg:maven/com.magicmicky.habitrpgwrapper/lib@1.6?classifier=sources
+- pkg:maven/com.magicmicky.habitrpgwrapper/lib@1.6?type=aar
+- pkg:maven/com.magicmicky.habitrpgwrapper/lib@1.7?classifier=sources
+- pkg:maven/com.magicmicky.habitrpgwrapper/lib@1.7?type=aar
+- pkg:maven/com.magicmicky.habitrpgwrapper/lib@1.8?classifier=sources
+- pkg:maven/com.magicmicky.habitrpgwrapper/lib@1.8?type=aar

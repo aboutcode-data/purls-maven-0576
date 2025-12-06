@@ -1,0 +1,2 @@
+- pkg:maven/net.dmitriyvolk.maven.plugins/archetype-assembly-maven-plugin@1.0
+- pkg:maven/net.dmitriyvolk.maven.plugins/archetype-assembly-maven-plugin@1.0?classifier=sources

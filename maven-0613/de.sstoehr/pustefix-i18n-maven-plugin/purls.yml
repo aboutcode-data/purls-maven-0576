@@ -1,0 +1,4 @@
+- pkg:maven/de.sstoehr/pustefix-i18n-maven-plugin@1.0.0
+- pkg:maven/de.sstoehr/pustefix-i18n-maven-plugin@1.0.0?classifier=sources
+- pkg:maven/de.sstoehr/pustefix-i18n-maven-plugin@1.0.1
+- pkg:maven/de.sstoehr/pustefix-i18n-maven-plugin@1.0.1?classifier=sources

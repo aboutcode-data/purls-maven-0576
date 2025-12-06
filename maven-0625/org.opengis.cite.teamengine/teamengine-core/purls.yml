@@ -1,0 +1,2 @@
+- pkg:maven/org.opengis.cite.teamengine/teamengine-core@4.0.6
+- pkg:maven/org.opengis.cite.teamengine/teamengine-core@4.0.6?classifier=sources

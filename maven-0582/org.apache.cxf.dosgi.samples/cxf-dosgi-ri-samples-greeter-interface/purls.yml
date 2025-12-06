@@ -6,3 +6,4 @@
 - pkg:maven/org.apache.cxf.dosgi.samples/cxf-dosgi-ri-samples-greeter-interface@1.4.0
 - pkg:maven/org.apache.cxf.dosgi.samples/cxf-dosgi-ri-samples-greeter-interface@1.5.0
 - pkg:maven/org.apache.cxf.dosgi.samples/cxf-dosgi-ri-samples-greeter-interface@1.6.0
+- pkg:maven/org.apache.cxf.dosgi.samples/cxf-dosgi-ri-samples-greeter-interface@1.7.0

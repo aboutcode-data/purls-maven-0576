@@ -1,0 +1,2 @@
+- pkg:maven/org.tomitribe/microscoped-header@0.3
+- pkg:maven/org.tomitribe/microscoped-header@0.3?classifier=sources

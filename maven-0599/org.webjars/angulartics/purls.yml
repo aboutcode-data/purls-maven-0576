@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars/angulartics@0.15.19
+- pkg:maven/org.webjars/angulartics@0.16.5
+- pkg:maven/org.webjars/angulartics@0.17.0
+- pkg:maven/org.webjars/angulartics@0.17.2

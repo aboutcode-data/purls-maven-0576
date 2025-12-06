@@ -10,3 +10,7 @@
 - pkg:maven/org.apache.cxf.build-utils/cxf-xml2fastinfoset-test@2.5.0?classifier=sources
 - pkg:maven/org.apache.cxf.build-utils/cxf-xml2fastinfoset-test@2.6.0
 - pkg:maven/org.apache.cxf.build-utils/cxf-xml2fastinfoset-test@2.6.0?classifier=sources
+- pkg:maven/org.apache.cxf.build-utils/cxf-xml2fastinfoset-test@3.0.0
+- pkg:maven/org.apache.cxf.build-utils/cxf-xml2fastinfoset-test@3.0.0?classifier=sources
+- pkg:maven/org.apache.cxf.build-utils/cxf-xml2fastinfoset-test@3.1.0
+- pkg:maven/org.apache.cxf.build-utils/cxf-xml2fastinfoset-test@3.1.0?classifier=sources

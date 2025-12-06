@@ -1,0 +1,2 @@
+- pkg:maven/com.github.rhyskeepence/core_2.10@1.0.24
+- pkg:maven/com.github.rhyskeepence/core_2.10@1.0.24?classifier=sources

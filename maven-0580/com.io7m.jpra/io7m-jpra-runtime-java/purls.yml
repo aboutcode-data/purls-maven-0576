@@ -1,0 +1,6 @@
+- pkg:maven/com.io7m.jpra/io7m-jpra-runtime-java@0.1.0
+- pkg:maven/com.io7m.jpra/io7m-jpra-runtime-java@0.1.0?classifier=sources
+- pkg:maven/com.io7m.jpra/io7m-jpra-runtime-java@0.2.0
+- pkg:maven/com.io7m.jpra/io7m-jpra-runtime-java@0.2.0?classifier=sources
+- pkg:maven/com.io7m.jpra/io7m-jpra-runtime-java@0.2.1
+- pkg:maven/com.io7m.jpra/io7m-jpra-runtime-java@0.2.1?classifier=sources

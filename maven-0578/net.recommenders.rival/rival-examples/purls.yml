@@ -1,0 +1,2 @@
+- pkg:maven/net.recommenders.rival/rival-examples@0.2
+- pkg:maven/net.recommenders.rival/rival-examples@0.2?classifier=sources

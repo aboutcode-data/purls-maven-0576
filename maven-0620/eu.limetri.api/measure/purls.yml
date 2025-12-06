@@ -1,1 +1,5 @@
 - pkg:maven/eu.limetri.api/measure@0.2?classifier=sources
+- pkg:maven/eu.limetri.api/measure@0.3.1-NB80?classifier=sources
+- pkg:maven/eu.limetri.api/measure@0.3.2-NB80?classifier=sources
+- pkg:maven/eu.limetri.api/measure@0.3.3-NB80?classifier=sources
+- pkg:maven/eu.limetri.api/measure@0.3?classifier=sources

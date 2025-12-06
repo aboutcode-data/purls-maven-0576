@@ -1,0 +1,2 @@
+- pkg:maven/org.simpleflatmapper/sfm-test@1.11b1
+- pkg:maven/org.simpleflatmapper/sfm-test@1.11b1?classifier=sources

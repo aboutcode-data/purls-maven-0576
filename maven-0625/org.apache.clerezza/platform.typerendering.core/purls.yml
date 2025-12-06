@@ -1,2 +1,6 @@
 - pkg:maven/org.apache.clerezza/platform.typerendering.core@0.2-incubating
 - pkg:maven/org.apache.clerezza/platform.typerendering.core@0.2-incubating?classifier=sources
+- pkg:maven/org.apache.clerezza/platform.typerendering.core@0.3
+- pkg:maven/org.apache.clerezza/platform.typerendering.core@0.3?classifier=sources
+- pkg:maven/org.apache.clerezza/platform.typerendering.core@1.0.0
+- pkg:maven/org.apache.clerezza/platform.typerendering.core@1.0.0?classifier=sources

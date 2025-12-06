@@ -1,0 +1,2 @@
+- pkg:maven/org.dbflute.report/xlsflute@0.3.0-RC1
+- pkg:maven/org.dbflute.report/xlsflute@0.3.0-RC1?classifier=sources

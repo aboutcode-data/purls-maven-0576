@@ -1,0 +1,2 @@
+- pkg:maven/de.dimensionv/androfragments-supportlibs@1.0.0?classifier=sources
+- pkg:maven/de.dimensionv/androfragments-supportlibs@1.0.0?type=aar

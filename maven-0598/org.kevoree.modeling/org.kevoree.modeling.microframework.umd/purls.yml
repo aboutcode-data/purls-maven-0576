@@ -1,0 +1,10 @@
+- pkg:maven/org.kevoree.modeling/org.kevoree.modeling.microframework.umd@4.22.0
+- pkg:maven/org.kevoree.modeling/org.kevoree.modeling.microframework.umd@4.22.0?classifier=sources
+- pkg:maven/org.kevoree.modeling/org.kevoree.modeling.microframework.umd@4.23.0
+- pkg:maven/org.kevoree.modeling/org.kevoree.modeling.microframework.umd@4.23.0?classifier=sources
+- pkg:maven/org.kevoree.modeling/org.kevoree.modeling.microframework.umd@4.24.0
+- pkg:maven/org.kevoree.modeling/org.kevoree.modeling.microframework.umd@4.24.0?classifier=sources
+- pkg:maven/org.kevoree.modeling/org.kevoree.modeling.microframework.umd@4.25.0
+- pkg:maven/org.kevoree.modeling/org.kevoree.modeling.microframework.umd@4.25.0?classifier=sources
+- pkg:maven/org.kevoree.modeling/org.kevoree.modeling.microframework.umd@4.26.0
+- pkg:maven/org.kevoree.modeling/org.kevoree.modeling.microframework.umd@4.26.0?classifier=sources

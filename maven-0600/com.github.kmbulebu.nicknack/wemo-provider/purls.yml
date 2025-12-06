@@ -1,0 +1,2 @@
+- pkg:maven/com.github.kmbulebu.nicknack/wemo-provider@0.0.7
+- pkg:maven/com.github.kmbulebu.nicknack/wemo-provider@0.0.7?classifier=sources

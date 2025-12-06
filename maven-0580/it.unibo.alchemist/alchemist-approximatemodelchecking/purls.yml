@@ -1,0 +1,2 @@
+- pkg:maven/it.unibo.alchemist/alchemist-approximatemodelchecking@0.0.0
+- pkg:maven/it.unibo.alchemist/alchemist-approximatemodelchecking@0.0.0?classifier=sources

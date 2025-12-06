@@ -13,4 +13,10 @@
 - pkg:maven/org.apache.geronimo.javamail/geronimo-javamail_1.4_mail@1.8.2?classifier=sources
 - pkg:maven/org.apache.geronimo.javamail/geronimo-javamail_1.4_mail@1.8.3
 - pkg:maven/org.apache.geronimo.javamail/geronimo-javamail_1.4_mail@1.8.3?classifier=sources
+- pkg:maven/org.apache.geronimo.javamail/geronimo-javamail_1.4_mail@1.8.4
+- pkg:maven/org.apache.geronimo.javamail/geronimo-javamail_1.4_mail@1.8.4?classifier=sources
 - pkg:maven/org.apache.geronimo.javamail/geronimo-javamail_1.4_mail@1.8?classifier=sources
+- pkg:maven/org.apache.geronimo.javamail/geronimo-javamail_1.4_mail@1.9.0-alpha-1
+- pkg:maven/org.apache.geronimo.javamail/geronimo-javamail_1.4_mail@1.9.0-alpha-1?classifier=sources
+- pkg:maven/org.apache.geronimo.javamail/geronimo-javamail_1.4_mail@1.9.0-alpha-2
+- pkg:maven/org.apache.geronimo.javamail/geronimo-javamail_1.4_mail@1.9.0-alpha-2?classifier=sources

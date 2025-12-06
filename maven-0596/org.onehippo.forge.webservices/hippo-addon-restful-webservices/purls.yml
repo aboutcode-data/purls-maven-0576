@@ -1,0 +1,8 @@
+- pkg:maven/org.onehippo.forge.webservices/hippo-addon-restful-webservices@0.1.0
+- pkg:maven/org.onehippo.forge.webservices/hippo-addon-restful-webservices@0.1.0?classifier=sources
+- pkg:maven/org.onehippo.forge.webservices/hippo-addon-restful-webservices@0.2.0
+- pkg:maven/org.onehippo.forge.webservices/hippo-addon-restful-webservices@0.2.0?classifier=sources
+- pkg:maven/org.onehippo.forge.webservices/hippo-addon-restful-webservices@0.3.0
+- pkg:maven/org.onehippo.forge.webservices/hippo-addon-restful-webservices@0.3.0?classifier=sources
+- pkg:maven/org.onehippo.forge.webservices/hippo-addon-restful-webservices@0.3.1
+- pkg:maven/org.onehippo.forge.webservices/hippo-addon-restful-webservices@0.3.1?classifier=sources

@@ -2,3 +2,9 @@
 - pkg:maven/org.schedulesdirect/sdjson-api@0.20131021.0?classifier=sources
 - pkg:maven/org.schedulesdirect/sdjson-api@0.20131021.1
 - pkg:maven/org.schedulesdirect/sdjson-api@0.20131021.1?classifier=sources
+- pkg:maven/org.schedulesdirect/sdjson-api@0.20131021.2
+- pkg:maven/org.schedulesdirect/sdjson-api@0.20131021.2?classifier=sources
+- pkg:maven/org.schedulesdirect/sdjson-api@0.20140530.0
+- pkg:maven/org.schedulesdirect/sdjson-api@0.20140530.0?classifier=sources
+- pkg:maven/org.schedulesdirect/sdjson-api@0.20140530.1
+- pkg:maven/org.schedulesdirect/sdjson-api@0.20140530.1?classifier=sources

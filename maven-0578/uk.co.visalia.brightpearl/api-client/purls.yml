@@ -1,0 +1,2 @@
+- pkg:maven/uk.co.visalia.brightpearl/api-client@1.0.0
+- pkg:maven/uk.co.visalia.brightpearl/api-client@1.0.0?classifier=sources

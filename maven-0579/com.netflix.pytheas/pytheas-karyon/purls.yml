@@ -1,0 +1,6 @@
+- pkg:maven/com.netflix.pytheas/pytheas-karyon@1.22
+- pkg:maven/com.netflix.pytheas/pytheas-karyon@1.22?classifier=sources
+- pkg:maven/com.netflix.pytheas/pytheas-karyon@1.25
+- pkg:maven/com.netflix.pytheas/pytheas-karyon@1.25?classifier=sources
+- pkg:maven/com.netflix.pytheas/pytheas-karyon@1.26
+- pkg:maven/com.netflix.pytheas/pytheas-karyon@1.26?classifier=sources

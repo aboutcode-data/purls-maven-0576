@@ -1,0 +1,2 @@
+- pkg:maven/org.everit.credential/org.everit.credential.encryptor.api@1.0.0
+- pkg:maven/org.everit.credential/org.everit.credential.encryptor.api@1.0.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/br.usp.each.saeg/saeg-commons@0.0.4
 - pkg:maven/br.usp.each.saeg/saeg-commons@0.0.4?classifier=sources
+- pkg:maven/br.usp.each.saeg/saeg-commons@0.0.5
+- pkg:maven/br.usp.each.saeg/saeg-commons@0.0.5?classifier=sources

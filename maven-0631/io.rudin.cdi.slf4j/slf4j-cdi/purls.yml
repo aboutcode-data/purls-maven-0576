@@ -1,0 +1,2 @@
+- pkg:maven/io.rudin.cdi.slf4j/slf4j-cdi@1.0
+- pkg:maven/io.rudin.cdi.slf4j/slf4j-cdi@1.0?classifier=sources

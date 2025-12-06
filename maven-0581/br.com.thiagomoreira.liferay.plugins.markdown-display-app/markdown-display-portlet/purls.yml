@@ -1,0 +1,2 @@
+- pkg:maven/br.com.thiagomoreira.liferay.plugins.markdown-display-app/markdown-display-portlet@1.0.0?classifier=sources
+- pkg:maven/br.com.thiagomoreira.liferay.plugins.markdown-display-app/markdown-display-portlet@1.0.0?type=war

@@ -1,2 +1,16 @@
 - pkg:maven/com.prolificinteractive/parallaxpager@0.7?classifier=sources
 - pkg:maven/com.prolificinteractive/parallaxpager@0.7?type=aar
+- pkg:maven/com.prolificinteractive/parallaxpager@0.8.0?classifier=sources
+- pkg:maven/com.prolificinteractive/parallaxpager@0.8.0?type=aar
+- pkg:maven/com.prolificinteractive/parallaxpager@0.9.0?classifier=sources
+- pkg:maven/com.prolificinteractive/parallaxpager@0.9.0?type=aar
+- pkg:maven/com.prolificinteractive/parallaxpager@1.0.0?classifier=sources
+- pkg:maven/com.prolificinteractive/parallaxpager@1.0.0?type=aar
+- pkg:maven/com.prolificinteractive/parallaxpager@2.0.0?classifier=sources
+- pkg:maven/com.prolificinteractive/parallaxpager@2.0.0?type=aar
+- pkg:maven/com.prolificinteractive/parallaxpager@2.1.0?classifier=sources
+- pkg:maven/com.prolificinteractive/parallaxpager@2.1.0?type=aar
+- pkg:maven/com.prolificinteractive/parallaxpager@2.2.0?classifier=sources
+- pkg:maven/com.prolificinteractive/parallaxpager@2.2.0?type=aar
+- pkg:maven/com.prolificinteractive/parallaxpager@2.2.1?classifier=sources
+- pkg:maven/com.prolificinteractive/parallaxpager@2.2.1?type=aar

@@ -1,0 +1,4 @@
+- pkg:maven/br.com.starcode.jerichoselector/jericho-selector@1.0-RELEASE
+- pkg:maven/br.com.starcode.jerichoselector/jericho-selector@1.0-RELEASE?classifier=sources
+- pkg:maven/br.com.starcode.jerichoselector/jericho-selector@1.0.1-RELEASE
+- pkg:maven/br.com.starcode.jerichoselector/jericho-selector@1.0.1-RELEASE?classifier=sources

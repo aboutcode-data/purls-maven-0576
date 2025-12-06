@@ -1,0 +1,2 @@
+- pkg:maven/fr.irit.smac.thirdparty.net.sf.rlforj/rlforj@0.3
+- pkg:maven/fr.irit.smac.thirdparty.net.sf.rlforj/rlforj@0.3?classifier=sources

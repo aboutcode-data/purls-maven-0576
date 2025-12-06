@@ -1,0 +1,2 @@
+- pkg:maven/org.openengsb.framework/org.openengsb.framework.usersync@3.0.0.M2
+- pkg:maven/org.openengsb.framework/org.openengsb.framework.usersync@3.0.0.M2?classifier=sources

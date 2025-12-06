@@ -1,0 +1,2 @@
+- pkg:maven/nz.co.senanque/madura-pizzaorder@3.4.0?classifier=sources
+- pkg:maven/nz.co.senanque/madura-pizzaorder@3.4.0?type=war

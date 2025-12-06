@@ -1,0 +1,2 @@
+- pkg:maven/com.exmertec.dummie/dummie@0.0.1
+- pkg:maven/com.exmertec.dummie/dummie@0.0.1?classifier=sources

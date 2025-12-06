@@ -1,0 +1,2 @@
+- pkg:maven/com.liferay/org.apache.commons.fileupload@1.2.2.LIFERAY-PATCHED-1
+- pkg:maven/com.liferay/org.apache.commons.fileupload@1.2.2.LIFERAY-PATCHED-1?classifier=sources

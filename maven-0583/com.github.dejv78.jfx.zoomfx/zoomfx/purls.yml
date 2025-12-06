@@ -1,0 +1,2 @@
+- pkg:maven/com.github.dejv78.jfx.zoomfx/zoomfx@1.0.1
+- pkg:maven/com.github.dejv78.jfx.zoomfx/zoomfx@1.0.1?classifier=sources

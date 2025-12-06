@@ -1,0 +1,10 @@
+- pkg:maven/com.baidu.disconf/disconf-web@2.6.20?classifier=sources
+- pkg:maven/com.baidu.disconf/disconf-web@2.6.20?type=war
+- pkg:maven/com.baidu.disconf/disconf-web@2.6.21?classifier=sources
+- pkg:maven/com.baidu.disconf/disconf-web@2.6.21?type=war
+- pkg:maven/com.baidu.disconf/disconf-web@2.6.22?classifier=sources
+- pkg:maven/com.baidu.disconf/disconf-web@2.6.22?type=war
+- pkg:maven/com.baidu.disconf/disconf-web@2.6.23?classifier=sources
+- pkg:maven/com.baidu.disconf/disconf-web@2.6.23?type=war
+- pkg:maven/com.baidu.disconf/disconf-web@2.6.24?classifier=sources
+- pkg:maven/com.baidu.disconf/disconf-web@2.6.24?type=war

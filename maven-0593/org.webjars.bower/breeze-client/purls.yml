@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/breeze-client@1.5.4
+- pkg:maven/org.webjars.bower/breeze-client@1.5.4?classifier=sources

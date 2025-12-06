@@ -29,3 +29,8 @@
 - pkg:maven/com.google.guava/guava-tests@17.0
 - pkg:maven/com.google.guava/guava-tests@17.0-rc1
 - pkg:maven/com.google.guava/guava-tests@17.0-rc2
+- pkg:maven/com.google.guava/guava-tests@18.0
+- pkg:maven/com.google.guava/guava-tests@18.0-rc1
+- pkg:maven/com.google.guava/guava-tests@18.0-rc2
+- pkg:maven/com.google.guava/guava-tests@19.0-rc1
+- pkg:maven/com.google.guava/guava-tests@19.0-rc2

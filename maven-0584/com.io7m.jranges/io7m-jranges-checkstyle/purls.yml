@@ -1,0 +1,4 @@
+- pkg:maven/com.io7m.jranges/io7m-jranges-checkstyle@2.0.0
+- pkg:maven/com.io7m.jranges/io7m-jranges-checkstyle@2.0.0?classifier=sources
+- pkg:maven/com.io7m.jranges/io7m-jranges-checkstyle@2.0.1
+- pkg:maven/com.io7m.jranges/io7m-jranges-checkstyle@2.0.1?classifier=sources

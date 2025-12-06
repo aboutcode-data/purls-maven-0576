@@ -1,0 +1,2 @@
+- pkg:maven/com.github.wshackle/rcslib@2015.05.04.02
+- pkg:maven/com.github.wshackle/rcslib@2015.05.04.02?classifier=sources

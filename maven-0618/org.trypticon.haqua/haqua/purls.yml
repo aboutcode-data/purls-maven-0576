@@ -1,0 +1,2 @@
+- pkg:maven/org.trypticon.haqua/haqua@0.1
+- pkg:maven/org.trypticon.haqua/haqua@0.1?classifier=sources

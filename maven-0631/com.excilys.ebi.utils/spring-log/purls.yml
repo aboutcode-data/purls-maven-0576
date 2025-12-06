@@ -1,0 +1,2 @@
+- pkg:maven/com.excilys.ebi.utils/spring-log@1.0.4
+- pkg:maven/com.excilys.ebi.utils/spring-log@1.0.4?classifier=sources

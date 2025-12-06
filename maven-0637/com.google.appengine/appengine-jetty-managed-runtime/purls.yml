@@ -1,0 +1,6 @@
+- pkg:maven/com.google.appengine/appengine-jetty-managed-runtime@1.9.13
+- pkg:maven/com.google.appengine/appengine-jetty-managed-runtime@1.9.15
+- pkg:maven/com.google.appengine/appengine-jetty-managed-runtime@1.9.17
+- pkg:maven/com.google.appengine/appengine-jetty-managed-runtime@1.9.19
+- pkg:maven/com.google.appengine/appengine-jetty-managed-runtime@1.9.21
+- pkg:maven/com.google.appengine/appengine-jetty-managed-runtime@1.9.23

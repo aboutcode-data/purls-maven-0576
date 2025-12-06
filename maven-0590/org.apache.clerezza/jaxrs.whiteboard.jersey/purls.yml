@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.clerezza/jaxrs.whiteboard.jersey@0.1
+- pkg:maven/org.apache.clerezza/jaxrs.whiteboard.jersey@0.1?classifier=sources

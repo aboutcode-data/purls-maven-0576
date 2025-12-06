@@ -1,0 +1,2 @@
+- pkg:maven/com.brunomcustodio.math.numbertheory/number-theory@1.0
+- pkg:maven/com.brunomcustodio.math.numbertheory/number-theory@1.0?classifier=sources

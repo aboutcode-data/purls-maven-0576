@@ -4,3 +4,7 @@
 - pkg:maven/org.osmdroid/OpenStreetMapViewer@3.0.9?classifier=sources
 - pkg:maven/org.osmdroid/OpenStreetMapViewer@4.0?classifier=sources
 - pkg:maven/org.osmdroid/OpenStreetMapViewer@4.1?classifier=sources
+- pkg:maven/org.osmdroid/OpenStreetMapViewer@4.2?classifier=sources
+- pkg:maven/org.osmdroid/OpenStreetMapViewer@4.3?classifier=sources
+- pkg:maven/org.osmdroid/OpenStreetMapViewer@5.0.1?classifier=sources
+- pkg:maven/org.osmdroid/OpenStreetMapViewer@5.0?classifier=sources

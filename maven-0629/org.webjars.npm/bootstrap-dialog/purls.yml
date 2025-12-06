@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/bootstrap-dialog@1.34.6
+- pkg:maven/org.webjars.npm/bootstrap-dialog@1.34.6?classifier=sources

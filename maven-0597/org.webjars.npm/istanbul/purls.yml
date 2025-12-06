@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/istanbul@0.3.19
+- pkg:maven/org.webjars.npm/istanbul@0.3.19?classifier=sources

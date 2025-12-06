@@ -1,0 +1,6 @@
+- pkg:maven/org.jrebirth.af.showcase/fxml@8.0.2?classifier=sources
+- pkg:maven/org.jrebirth.af.showcase/fxml@8.0.2?type=zip
+- pkg:maven/org.jrebirth.af.showcase/fxml@8.0.3?classifier=sources
+- pkg:maven/org.jrebirth.af.showcase/fxml@8.0.3?type=zip
+- pkg:maven/org.jrebirth.af.showcase/fxml@8.0.4?classifier=sources
+- pkg:maven/org.jrebirth.af.showcase/fxml@8.0.4?type=zip

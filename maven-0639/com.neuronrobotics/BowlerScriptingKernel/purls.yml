@@ -1,0 +1,16 @@
+- pkg:maven/com.neuronrobotics/BowlerScriptingKernel@0.4.25
+- pkg:maven/com.neuronrobotics/BowlerScriptingKernel@0.4.25?classifier=sources
+- pkg:maven/com.neuronrobotics/BowlerScriptingKernel@0.4.26
+- pkg:maven/com.neuronrobotics/BowlerScriptingKernel@0.4.26?classifier=sources
+- pkg:maven/com.neuronrobotics/BowlerScriptingKernel@0.4.27
+- pkg:maven/com.neuronrobotics/BowlerScriptingKernel@0.4.27?classifier=sources
+- pkg:maven/com.neuronrobotics/BowlerScriptingKernel@0.4.28
+- pkg:maven/com.neuronrobotics/BowlerScriptingKernel@0.4.28?classifier=sources
+- pkg:maven/com.neuronrobotics/BowlerScriptingKernel@0.4.29
+- pkg:maven/com.neuronrobotics/BowlerScriptingKernel@0.4.29?classifier=sources
+- pkg:maven/com.neuronrobotics/BowlerScriptingKernel@0.5.0
+- pkg:maven/com.neuronrobotics/BowlerScriptingKernel@0.5.0?classifier=sources
+- pkg:maven/com.neuronrobotics/BowlerScriptingKernel@0.5.1
+- pkg:maven/com.neuronrobotics/BowlerScriptingKernel@0.5.1?classifier=sources
+- pkg:maven/com.neuronrobotics/BowlerScriptingKernel@0.6.1
+- pkg:maven/com.neuronrobotics/BowlerScriptingKernel@0.6.1?classifier=sources

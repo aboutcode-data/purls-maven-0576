@@ -1,0 +1,4 @@
+- pkg:maven/org.fusesource.hawtdispatch/hawtdispatch-scala-2.11@1.21
+- pkg:maven/org.fusesource.hawtdispatch/hawtdispatch-scala-2.11@1.21?classifier=sources
+- pkg:maven/org.fusesource.hawtdispatch/hawtdispatch-scala-2.11@1.22
+- pkg:maven/org.fusesource.hawtdispatch/hawtdispatch-scala-2.11@1.22?classifier=sources

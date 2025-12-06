@@ -1,0 +1,10 @@
+- pkg:maven/com.java-adventures.smarkdown/smarkdown-location-http@0.5.0
+- pkg:maven/com.java-adventures.smarkdown/smarkdown-location-http@0.5.0?classifier=sources
+- pkg:maven/com.java-adventures.smarkdown/smarkdown-location-http@0.5.1
+- pkg:maven/com.java-adventures.smarkdown/smarkdown-location-http@0.5.1?classifier=sources
+- pkg:maven/com.java-adventures.smarkdown/smarkdown-location-http@0.6.0
+- pkg:maven/com.java-adventures.smarkdown/smarkdown-location-http@0.6.0?classifier=sources
+- pkg:maven/com.java-adventures.smarkdown/smarkdown-location-http@0.7.0
+- pkg:maven/com.java-adventures.smarkdown/smarkdown-location-http@0.7.0?classifier=sources
+- pkg:maven/com.java-adventures.smarkdown/smarkdown-location-http@0.8.0
+- pkg:maven/com.java-adventures.smarkdown/smarkdown-location-http@0.8.0?classifier=sources

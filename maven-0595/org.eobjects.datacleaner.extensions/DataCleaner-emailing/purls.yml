@@ -1,0 +1,10 @@
+- pkg:maven/org.eobjects.datacleaner.extensions/DataCleaner-emailing@1.0
+- pkg:maven/org.eobjects.datacleaner.extensions/DataCleaner-emailing@1.0?classifier=sources
+- pkg:maven/org.eobjects.datacleaner.extensions/DataCleaner-emailing@1.1
+- pkg:maven/org.eobjects.datacleaner.extensions/DataCleaner-emailing@1.1?classifier=sources
+- pkg:maven/org.eobjects.datacleaner.extensions/DataCleaner-emailing@1.2
+- pkg:maven/org.eobjects.datacleaner.extensions/DataCleaner-emailing@1.2?classifier=sources
+- pkg:maven/org.eobjects.datacleaner.extensions/DataCleaner-emailing@2.0
+- pkg:maven/org.eobjects.datacleaner.extensions/DataCleaner-emailing@2.0?classifier=sources
+- pkg:maven/org.eobjects.datacleaner.extensions/DataCleaner-emailing@2.1
+- pkg:maven/org.eobjects.datacleaner.extensions/DataCleaner-emailing@2.1?classifier=sources

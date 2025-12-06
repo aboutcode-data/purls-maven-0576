@@ -1,2 +1,4 @@
 - pkg:maven/org.corejet/corejet-junit-runner@0.21
 - pkg:maven/org.corejet/corejet-junit-runner@0.21?classifier=sources
+- pkg:maven/org.corejet/corejet-junit-runner@0.29
+- pkg:maven/org.corejet/corejet-junit-runner@0.29?classifier=sources

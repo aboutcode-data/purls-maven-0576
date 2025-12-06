@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/mobile-detect.js@1.2.1
+- pkg:maven/org.webjars.bower/mobile-detect.js@1.2.1?classifier=sources

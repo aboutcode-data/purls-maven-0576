@@ -1,0 +1,2 @@
+- pkg:maven/com.freedomotic/base-objects@3.0
+- pkg:maven/com.freedomotic/base-objects@3.0?classifier=sources

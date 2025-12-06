@@ -1,0 +1,2 @@
+- pkg:maven/org.codejuicer/asynchronize-processor@0.9.1
+- pkg:maven/org.codejuicer/asynchronize-processor@0.9.1?classifier=sources

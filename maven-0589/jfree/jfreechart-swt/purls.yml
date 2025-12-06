@@ -1,3 +1,5 @@
+- pkg:maven/jfree/jfreechart-swt@1.0.17
+- pkg:maven/jfree/jfreechart-swt@1.0.17?classifier=sources
 - pkg:maven/jfree/jfreechart-swt@1.0.3
 - pkg:maven/jfree/jfreechart-swt@1.0.3?classifier=sources
 - pkg:maven/jfree/jfreechart-swt@1.0.4

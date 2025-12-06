@@ -1,0 +1,2 @@
+- pkg:maven/org.coursera.courier/courier-android@0.6.3
+- pkg:maven/org.coursera.courier/courier-android@0.6.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.remotecontrol/remote-transport-http@0.7
+- pkg:maven/io.remotecontrol/remote-transport-http@0.7?classifier=sources

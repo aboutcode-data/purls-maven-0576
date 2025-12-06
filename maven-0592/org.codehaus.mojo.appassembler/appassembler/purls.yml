@@ -1,4 +1,5 @@
 - pkg:maven/org.codehaus.mojo.appassembler/appassembler@1.1.1?classifier=source-release&type=zip
+- pkg:maven/org.codehaus.mojo.appassembler/appassembler@1.10?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.mojo.appassembler/appassembler@1.1?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.mojo.appassembler/appassembler@1.2.1?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.mojo.appassembler/appassembler@1.2.2?classifier=source-release&type=zip
@@ -9,4 +10,6 @@
 - pkg:maven/org.codehaus.mojo.appassembler/appassembler@1.5?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.mojo.appassembler/appassembler@1.6?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.mojo.appassembler/appassembler@1.7?classifier=source-release&type=zip
+- pkg:maven/org.codehaus.mojo.appassembler/appassembler@1.8.1?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.mojo.appassembler/appassembler@1.8?classifier=source-release&type=zip
+- pkg:maven/org.codehaus.mojo.appassembler/appassembler@1.9?classifier=source-release&type=zip

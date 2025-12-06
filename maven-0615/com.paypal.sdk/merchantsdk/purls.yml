@@ -1,5 +1,15 @@
 - pkg:maven/com.paypal.sdk/merchantsdk@2.1.96
 - pkg:maven/com.paypal.sdk/merchantsdk@2.1.96?classifier=sources
+- pkg:maven/com.paypal.sdk/merchantsdk@2.10.116
+- pkg:maven/com.paypal.sdk/merchantsdk@2.10.116?classifier=sources
+- pkg:maven/com.paypal.sdk/merchantsdk@2.11.117
+- pkg:maven/com.paypal.sdk/merchantsdk@2.11.117?classifier=sources
+- pkg:maven/com.paypal.sdk/merchantsdk@2.12.117
+- pkg:maven/com.paypal.sdk/merchantsdk@2.12.117?classifier=sources
+- pkg:maven/com.paypal.sdk/merchantsdk@2.13.117
+- pkg:maven/com.paypal.sdk/merchantsdk@2.13.117?classifier=sources
+- pkg:maven/com.paypal.sdk/merchantsdk@2.14.117
+- pkg:maven/com.paypal.sdk/merchantsdk@2.14.117?classifier=sources
 - pkg:maven/com.paypal.sdk/merchantsdk@2.2.98
 - pkg:maven/com.paypal.sdk/merchantsdk@2.2.98?classifier=sources
 - pkg:maven/com.paypal.sdk/merchantsdk@2.3.100
@@ -16,3 +26,7 @@
 - pkg:maven/com.paypal.sdk/merchantsdk@2.6.109?classifier=sources
 - pkg:maven/com.paypal.sdk/merchantsdk@2.7.113
 - pkg:maven/com.paypal.sdk/merchantsdk@2.7.113?classifier=sources
+- pkg:maven/com.paypal.sdk/merchantsdk@2.8.114
+- pkg:maven/com.paypal.sdk/merchantsdk@2.8.114?classifier=sources
+- pkg:maven/com.paypal.sdk/merchantsdk@2.9.115
+- pkg:maven/com.paypal.sdk/merchantsdk@2.9.115?classifier=sources

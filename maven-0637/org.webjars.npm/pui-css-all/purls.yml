@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/pui-css-all@1.9.1
+- pkg:maven/org.webjars.npm/pui-css-all@1.9.1?classifier=sources

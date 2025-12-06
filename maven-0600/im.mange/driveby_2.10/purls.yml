@@ -1,0 +1,6 @@
+- pkg:maven/im.mange/driveby_2.10@0.2.28
+- pkg:maven/im.mange/driveby_2.10@0.2.28?classifier=sources
+- pkg:maven/im.mange/driveby_2.10@0.3.3
+- pkg:maven/im.mange/driveby_2.10@0.3.3?classifier=sources
+- pkg:maven/im.mange/driveby_2.10@0.3.4
+- pkg:maven/im.mange/driveby_2.10@0.3.4?classifier=sources

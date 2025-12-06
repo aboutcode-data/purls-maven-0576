@@ -23,6 +23,8 @@
 - pkg:maven/org.nuiton.web/nuiton-web@1.15-alpha-3?classifier=sources
 - pkg:maven/org.nuiton.web/nuiton-web@1.16
 - pkg:maven/org.nuiton.web/nuiton-web@1.16?classifier=sources
+- pkg:maven/org.nuiton.web/nuiton-web@1.17
+- pkg:maven/org.nuiton.web/nuiton-web@1.17?classifier=sources
 - pkg:maven/org.nuiton.web/nuiton-web@1.1?classifier=sources
 - pkg:maven/org.nuiton.web/nuiton-web@1.2
 - pkg:maven/org.nuiton.web/nuiton-web@1.2?classifier=sources

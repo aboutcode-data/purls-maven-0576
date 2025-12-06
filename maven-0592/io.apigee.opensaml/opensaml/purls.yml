@@ -1,0 +1,4 @@
+- pkg:maven/io.apigee.opensaml/opensaml@2.6.0
+- pkg:maven/io.apigee.opensaml/opensaml@2.6.0?classifier=sources
+- pkg:maven/io.apigee.opensaml/opensaml@2.6.2
+- pkg:maven/io.apigee.opensaml/opensaml@2.6.2?classifier=sources

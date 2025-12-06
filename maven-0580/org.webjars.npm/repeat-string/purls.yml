@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/repeat-string@1.5.2
+- pkg:maven/org.webjars.npm/repeat-string@1.5.2?classifier=sources

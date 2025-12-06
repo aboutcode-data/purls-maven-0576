@@ -1,0 +1,2 @@
+- pkg:maven/com.hi3project.broccoli/broccoli-api@0.9.0
+- pkg:maven/com.hi3project.broccoli/broccoli-api@0.9.0?classifier=sources

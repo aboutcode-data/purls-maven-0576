@@ -1,0 +1,2 @@
+- pkg:maven/com.codepoetics/mtuples@0.2
+- pkg:maven/com.codepoetics/mtuples@0.2?classifier=sources

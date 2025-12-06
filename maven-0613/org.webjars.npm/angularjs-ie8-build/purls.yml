@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/angularjs-ie8-build@1.3.20
+- pkg:maven/org.webjars.npm/angularjs-ie8-build@1.3.20?classifier=sources
+- pkg:maven/org.webjars.npm/angularjs-ie8-build@1.4.7
+- pkg:maven/org.webjars.npm/angularjs-ie8-build@1.4.7?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/co.unruly/junit-rules@1.0
+- pkg:maven/co.unruly/junit-rules@1.0?classifier=sources

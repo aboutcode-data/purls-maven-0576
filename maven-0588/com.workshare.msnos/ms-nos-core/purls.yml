@@ -1,0 +1,2 @@
+- pkg:maven/com.workshare.msnos/ms-nos-core@1.0.0-RC-01
+- pkg:maven/com.workshare.msnos/ms-nos-core@1.0.0-RC-01?classifier=sources

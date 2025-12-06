@@ -1,0 +1,2 @@
+- pkg:maven/org.jsimplelib/jsimple-logging-api@0.9.3
+- pkg:maven/org.jsimplelib/jsimple-logging-api@0.9.3?classifier=sources

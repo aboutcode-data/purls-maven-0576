@@ -1,0 +1,2 @@
+- pkg:maven/com.github.totyumengr/minicubes-cluster@0.2
+- pkg:maven/com.github.totyumengr/minicubes-cluster@0.2?classifier=sources

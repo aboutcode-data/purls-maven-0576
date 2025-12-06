@@ -1,2 +1,6 @@
 - pkg:maven/net.virtual-void/speed_2.10@12
 - pkg:maven/net.virtual-void/speed_2.10@12?classifier=sources
+- pkg:maven/net.virtual-void/speed_2.10@13
+- pkg:maven/net.virtual-void/speed_2.10@13?classifier=sources
+- pkg:maven/net.virtual-void/speed_2.10@15
+- pkg:maven/net.virtual-void/speed_2.10@15?classifier=sources

@@ -1,2 +1,6 @@
+- pkg:maven/com.marvinformatics/kiss-matchers@0.14
+- pkg:maven/com.marvinformatics/kiss-matchers@0.14?classifier=sources
+- pkg:maven/com.marvinformatics/kiss-matchers@0.15
+- pkg:maven/com.marvinformatics/kiss-matchers@0.15?classifier=sources
 - pkg:maven/com.marvinformatics/kiss-matchers@0.7
 - pkg:maven/com.marvinformatics/kiss-matchers@0.7?classifier=sources

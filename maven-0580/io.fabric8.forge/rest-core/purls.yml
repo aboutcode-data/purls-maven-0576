@@ -1,0 +1,2 @@
+- pkg:maven/io.fabric8.forge/rest-core@2.0.33
+- pkg:maven/io.fabric8.forge/rest-core@2.0.33?classifier=sources

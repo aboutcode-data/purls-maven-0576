@@ -4,6 +4,12 @@
 - pkg:maven/org.sisioh/baseunits-scala_2.10@0.1.11?classifier=sources
 - pkg:maven/org.sisioh/baseunits-scala_2.10@0.1.12
 - pkg:maven/org.sisioh/baseunits-scala_2.10@0.1.12?classifier=sources
+- pkg:maven/org.sisioh/baseunits-scala_2.10@0.1.15
+- pkg:maven/org.sisioh/baseunits-scala_2.10@0.1.15?classifier=sources
+- pkg:maven/org.sisioh/baseunits-scala_2.10@0.1.16
+- pkg:maven/org.sisioh/baseunits-scala_2.10@0.1.16?classifier=sources
+- pkg:maven/org.sisioh/baseunits-scala_2.10@0.1.17
+- pkg:maven/org.sisioh/baseunits-scala_2.10@0.1.17?classifier=sources
 - pkg:maven/org.sisioh/baseunits-scala_2.10@0.1.7
 - pkg:maven/org.sisioh/baseunits-scala_2.10@0.1.7?classifier=sources
 - pkg:maven/org.sisioh/baseunits-scala_2.10@0.1.8

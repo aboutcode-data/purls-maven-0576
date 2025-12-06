@@ -1,0 +1,2 @@
+- pkg:maven/com.legsem.legstar/legstar-avro-maven-plugin@0.4.2
+- pkg:maven/com.legsem.legstar/legstar-avro-maven-plugin@0.4.2?classifier=sources

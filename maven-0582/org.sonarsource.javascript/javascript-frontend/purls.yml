@@ -1,0 +1,2 @@
+- pkg:maven/org.sonarsource.javascript/javascript-frontend@2.8
+- pkg:maven/org.sonarsource.javascript/javascript-frontend@2.8?classifier=sources

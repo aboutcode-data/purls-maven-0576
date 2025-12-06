@@ -1,3 +1,5 @@
 - pkg:maven/org.webjars/jquery-chained@0.9.3
 - pkg:maven/org.webjars/jquery-chained@0.9.3-1
 - pkg:maven/org.webjars/jquery-chained@0.9.3-1?classifier=sources
+- pkg:maven/org.webjars/jquery-chained@1.0.0
+- pkg:maven/org.webjars/jquery-chained@1.0.0?classifier=sources

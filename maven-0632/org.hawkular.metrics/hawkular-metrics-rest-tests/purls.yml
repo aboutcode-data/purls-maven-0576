@@ -1,0 +1,7 @@
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-rest-tests@0.3.1
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-rest-tests@0.3.2
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-rest-tests@0.3.3
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-rest-tests@0.3.4
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-rest-tests@0.4.0.Final
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-rest-tests@0.5.0.Final
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-rest-tests@0.6.0.Final

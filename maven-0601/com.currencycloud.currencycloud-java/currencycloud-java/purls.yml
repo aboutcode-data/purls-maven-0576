@@ -1,0 +1,2 @@
+- pkg:maven/com.currencycloud.currencycloud-java/currencycloud-java@0.7.1
+- pkg:maven/com.currencycloud.currencycloud-java/currencycloud-java@0.7.1?classifier=sources

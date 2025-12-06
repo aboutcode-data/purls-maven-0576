@@ -1,0 +1,2 @@
+- pkg:maven/org.bongiorno.dto.typadapters/xml-type-adapters-java@1.0.3
+- pkg:maven/org.bongiorno.dto.typadapters/xml-type-adapters-java@1.0.3?classifier=sources

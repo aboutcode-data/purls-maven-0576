@@ -1,0 +1,2 @@
+- pkg:maven/com.github.sundeepk/compact-calender-view@1?classifier=sources
+- pkg:maven/com.github.sundeepk/compact-calender-view@1?type=aar

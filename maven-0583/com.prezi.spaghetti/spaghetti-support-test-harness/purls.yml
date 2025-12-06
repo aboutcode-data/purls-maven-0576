@@ -1,0 +1,4 @@
+- pkg:maven/com.prezi.spaghetti/spaghetti-support-test-harness@2.1
+- pkg:maven/com.prezi.spaghetti/spaghetti-support-test-harness@2.1-rc-1
+- pkg:maven/com.prezi.spaghetti/spaghetti-support-test-harness@2.1-rc-1?classifier=sources
+- pkg:maven/com.prezi.spaghetti/spaghetti-support-test-harness@2.1?classifier=sources

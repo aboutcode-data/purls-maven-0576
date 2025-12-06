@@ -1,0 +1,2 @@
+- pkg:maven/org.nerd4j/nerd4j-core@1.0.0
+- pkg:maven/org.nerd4j/nerd4j-core@1.0.0?classifier=sources

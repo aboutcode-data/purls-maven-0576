@@ -25,7 +25,12 @@
 - pkg:maven/org.jboss.ironjacamar/mail@1.0.24.Final?classifier=sources
 - pkg:maven/org.jboss.ironjacamar/mail@1.0.25.Final?classifier=sources
 - pkg:maven/org.jboss.ironjacamar/mail@1.0.26.Final?classifier=sources
+- pkg:maven/org.jboss.ironjacamar/mail@1.0.27.Final?classifier=sources
+- pkg:maven/org.jboss.ironjacamar/mail@1.0.28.Final?classifier=sources
+- pkg:maven/org.jboss.ironjacamar/mail@1.0.29.Final?classifier=sources
 - pkg:maven/org.jboss.ironjacamar/mail@1.0.3.Final?classifier=sources
+- pkg:maven/org.jboss.ironjacamar/mail@1.0.30.Final?classifier=sources
+- pkg:maven/org.jboss.ironjacamar/mail@1.0.31.Final?classifier=sources
 - pkg:maven/org.jboss.ironjacamar/mail@1.0.4.Final?classifier=sources
 - pkg:maven/org.jboss.ironjacamar/mail@1.0.5.Final?classifier=sources
 - pkg:maven/org.jboss.ironjacamar/mail@1.0.6.Final?classifier=sources

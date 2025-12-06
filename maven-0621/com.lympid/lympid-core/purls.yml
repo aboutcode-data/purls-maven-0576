@@ -1,0 +1,4 @@
+- pkg:maven/com.lympid/lympid-core@0.9.0
+- pkg:maven/com.lympid/lympid-core@0.9.0?classifier=sources
+- pkg:maven/com.lympid/lympid-core@0.9.1
+- pkg:maven/com.lympid/lympid-core@0.9.1?classifier=sources

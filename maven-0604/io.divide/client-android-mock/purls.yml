@@ -1,0 +1,4 @@
+- pkg:maven/io.divide/client-android-mock@0.5.2?classifier=sources
+- pkg:maven/io.divide/client-android-mock@0.5.2?type=aar
+- pkg:maven/io.divide/client-android-mock@0.5.3?classifier=sources
+- pkg:maven/io.divide/client-android-mock@0.5.3?type=aar

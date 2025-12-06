@@ -26,3 +26,15 @@
 - pkg:maven/org.appverse.web.framework.modules.backend.frontfacade.json/appverse-web-modules-backend-frontfacade-json@1.3-RELEASE?classifier=sources
 - pkg:maven/org.appverse.web.framework.modules.backend.frontfacade.json/appverse-web-modules-backend-frontfacade-json@1.4-MILESTONE_1
 - pkg:maven/org.appverse.web.framework.modules.backend.frontfacade.json/appverse-web-modules-backend-frontfacade-json@1.4-MILESTONE_1?classifier=sources
+- pkg:maven/org.appverse.web.framework.modules.backend.frontfacade.json/appverse-web-modules-backend-frontfacade-json@1.4-RELEASE
+- pkg:maven/org.appverse.web.framework.modules.backend.frontfacade.json/appverse-web-modules-backend-frontfacade-json@1.4-RELEASE?classifier=sources
+- pkg:maven/org.appverse.web.framework.modules.backend.frontfacade.json/appverse-web-modules-backend-frontfacade-json@1.4.1-MILESTONE_2
+- pkg:maven/org.appverse.web.framework.modules.backend.frontfacade.json/appverse-web-modules-backend-frontfacade-json@1.4.1-MILESTONE_2?classifier=sources
+- pkg:maven/org.appverse.web.framework.modules.backend.frontfacade.json/appverse-web-modules-backend-frontfacade-json@1.5.0-RELEASE
+- pkg:maven/org.appverse.web.framework.modules.backend.frontfacade.json/appverse-web-modules-backend-frontfacade-json@1.5.0-RELEASE?classifier=sources
+- pkg:maven/org.appverse.web.framework.modules.backend.frontfacade.json/appverse-web-modules-backend-frontfacade-json@1.5.1
+- pkg:maven/org.appverse.web.framework.modules.backend.frontfacade.json/appverse-web-modules-backend-frontfacade-json@1.5.1?classifier=sources
+- pkg:maven/org.appverse.web.framework.modules.backend.frontfacade.json/appverse-web-modules-backend-frontfacade-json@1.5.2-RELEASE
+- pkg:maven/org.appverse.web.framework.modules.backend.frontfacade.json/appverse-web-modules-backend-frontfacade-json@1.5.2-RELEASE?classifier=sources
+- pkg:maven/org.appverse.web.framework.modules.backend.frontfacade.json/appverse-web-modules-backend-frontfacade-json@1.5.3-RELEASE
+- pkg:maven/org.appverse.web.framework.modules.backend.frontfacade.json/appverse-web-modules-backend-frontfacade-json@1.5.3-RELEASE?classifier=sources

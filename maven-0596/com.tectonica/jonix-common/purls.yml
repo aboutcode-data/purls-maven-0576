@@ -1,0 +1,2 @@
+- pkg:maven/com.tectonica/jonix-common@3.0
+- pkg:maven/com.tectonica/jonix-common@3.0?classifier=sources

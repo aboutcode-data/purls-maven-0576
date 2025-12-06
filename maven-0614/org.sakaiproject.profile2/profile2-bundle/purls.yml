@@ -22,3 +22,7 @@
 - pkg:maven/org.sakaiproject.profile2/profile2-bundle@1.5.2?classifier=sources
 - pkg:maven/org.sakaiproject.profile2/profile2-bundle@1.5.3
 - pkg:maven/org.sakaiproject.profile2/profile2-bundle@1.5.3?classifier=sources
+- pkg:maven/org.sakaiproject.profile2/profile2-bundle@10.3
+- pkg:maven/org.sakaiproject.profile2/profile2-bundle@10.3?classifier=sources
+- pkg:maven/org.sakaiproject.profile2/profile2-bundle@10.4
+- pkg:maven/org.sakaiproject.profile2/profile2-bundle@10.4?classifier=sources

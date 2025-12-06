@@ -1,0 +1,2 @@
+- pkg:maven/io.github.robwin/javaslang-circuitbreaker@0.1.6
+- pkg:maven/io.github.robwin/javaslang-circuitbreaker@0.1.6?classifier=sources

@@ -70,3 +70,11 @@
 - pkg:maven/net.thucydides/thucydides-browsermob-plugin@0.9.238?classifier=sources
 - pkg:maven/net.thucydides/thucydides-browsermob-plugin@0.9.239
 - pkg:maven/net.thucydides/thucydides-browsermob-plugin@0.9.239?classifier=sources
+- pkg:maven/net.thucydides/thucydides-browsermob-plugin@0.9.240
+- pkg:maven/net.thucydides/thucydides-browsermob-plugin@0.9.240?classifier=sources
+- pkg:maven/net.thucydides/thucydides-browsermob-plugin@0.9.243
+- pkg:maven/net.thucydides/thucydides-browsermob-plugin@0.9.243?classifier=sources
+- pkg:maven/net.thucydides/thucydides-browsermob-plugin@0.9.264
+- pkg:maven/net.thucydides/thucydides-browsermob-plugin@0.9.264?classifier=sources
+- pkg:maven/net.thucydides/thucydides-browsermob-plugin@0.9.275
+- pkg:maven/net.thucydides/thucydides-browsermob-plugin@0.9.275?classifier=sources

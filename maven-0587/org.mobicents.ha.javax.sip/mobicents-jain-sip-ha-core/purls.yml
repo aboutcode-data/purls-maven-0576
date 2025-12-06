@@ -2,3 +2,11 @@
 - pkg:maven/org.mobicents.ha.javax.sip/mobicents-jain-sip-ha-core@1.3.1.FINAL?classifier=sources
 - pkg:maven/org.mobicents.ha.javax.sip/mobicents-jain-sip-ha-core@1.4.0.FINAL
 - pkg:maven/org.mobicents.ha.javax.sip/mobicents-jain-sip-ha-core@1.4.0.FINAL?classifier=sources
+- pkg:maven/org.mobicents.ha.javax.sip/mobicents-jain-sip-ha-core@1.5.3
+- pkg:maven/org.mobicents.ha.javax.sip/mobicents-jain-sip-ha-core@1.5.3?classifier=sources
+- pkg:maven/org.mobicents.ha.javax.sip/mobicents-jain-sip-ha-core@1.5.4
+- pkg:maven/org.mobicents.ha.javax.sip/mobicents-jain-sip-ha-core@1.5.4?classifier=sources
+- pkg:maven/org.mobicents.ha.javax.sip/mobicents-jain-sip-ha-core@1.5.5
+- pkg:maven/org.mobicents.ha.javax.sip/mobicents-jain-sip-ha-core@1.5.5?classifier=sources
+- pkg:maven/org.mobicents.ha.javax.sip/mobicents-jain-sip-ha-core@1.5.6
+- pkg:maven/org.mobicents.ha.javax.sip/mobicents-jain-sip-ha-core@1.5.6?classifier=sources

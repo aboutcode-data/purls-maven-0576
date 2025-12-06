@@ -1,0 +1,2 @@
+- pkg:maven/com.liferay/org.hibernate.core@3.6.10.LIFERAY-PATCHED-1
+- pkg:maven/com.liferay/org.hibernate.core@3.6.10.LIFERAY-PATCHED-1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/de.taimos/s3upload-maven-plugin@0.1
+- pkg:maven/de.taimos/s3upload-maven-plugin@0.1?classifier=sources
+- pkg:maven/de.taimos/s3upload-maven-plugin@0.2
+- pkg:maven/de.taimos/s3upload-maven-plugin@0.2?classifier=sources

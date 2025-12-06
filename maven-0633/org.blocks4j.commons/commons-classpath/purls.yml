@@ -1,0 +1,2 @@
+- pkg:maven/org.blocks4j.commons/commons-classpath@1.0.0
+- pkg:maven/org.blocks4j.commons/commons-classpath@1.0.0?classifier=sources

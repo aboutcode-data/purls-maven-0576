@@ -1,0 +1,8 @@
+- pkg:maven/com.anrisoftware.globalpom/globalpom-log@1.18
+- pkg:maven/com.anrisoftware.globalpom/globalpom-log@1.18?classifier=sources
+- pkg:maven/com.anrisoftware.globalpom/globalpom-log@1.19
+- pkg:maven/com.anrisoftware.globalpom/globalpom-log@1.19?classifier=sources
+- pkg:maven/com.anrisoftware.globalpom/globalpom-log@1.20
+- pkg:maven/com.anrisoftware.globalpom/globalpom-log@1.20?classifier=sources
+- pkg:maven/com.anrisoftware.globalpom/globalpom-log@1.21
+- pkg:maven/com.anrisoftware.globalpom/globalpom-log@1.21?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/org.webjars.npm/github-com-editorconfig-editorconfig-core-js@0.11.1
+- pkg:maven/org.webjars.npm/github-com-editorconfig-editorconfig-core-js@0.11.1?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-editorconfig-editorconfig-core-js@0.11.3
+- pkg:maven/org.webjars.npm/github-com-editorconfig-editorconfig-core-js@0.11.3?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-editorconfig-editorconfig-core-js@0.11.4
+- pkg:maven/org.webjars.npm/github-com-editorconfig-editorconfig-core-js@0.11.4?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-editorconfig-editorconfig-core-js@0.12.1
+- pkg:maven/org.webjars.npm/github-com-editorconfig-editorconfig-core-js@0.12.1?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-editorconfig-editorconfig-core-js@0.12.2
+- pkg:maven/org.webjars.npm/github-com-editorconfig-editorconfig-core-js@0.12.2?classifier=sources

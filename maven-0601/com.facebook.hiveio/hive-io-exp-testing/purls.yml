@@ -26,5 +26,7 @@
 - pkg:maven/com.facebook.hiveio/hive-io-exp-testing@0.22?classifier=sources
 - pkg:maven/com.facebook.hiveio/hive-io-exp-testing@0.23
 - pkg:maven/com.facebook.hiveio/hive-io-exp-testing@0.23?classifier=sources
+- pkg:maven/com.facebook.hiveio/hive-io-exp-testing@0.26
+- pkg:maven/com.facebook.hiveio/hive-io-exp-testing@0.26?classifier=sources
 - pkg:maven/com.facebook.hiveio/hive-io-exp-testing@0.9
 - pkg:maven/com.facebook.hiveio/hive-io-exp-testing@0.9?classifier=sources

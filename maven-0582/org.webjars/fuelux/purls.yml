@@ -2,3 +2,9 @@
 - pkg:maven/org.webjars/fuelux@2.3.0?classifier=sources
 - pkg:maven/org.webjars/fuelux@2.6.0
 - pkg:maven/org.webjars/fuelux@2.6.0?classifier=sources
+- pkg:maven/org.webjars/fuelux@3.0.2
+- pkg:maven/org.webjars/fuelux@3.0.2?classifier=sources
+- pkg:maven/org.webjars/fuelux@3.1.0
+- pkg:maven/org.webjars/fuelux@3.1.0?classifier=sources
+- pkg:maven/org.webjars/fuelux@3.3.1
+- pkg:maven/org.webjars/fuelux@3.3.1?classifier=sources

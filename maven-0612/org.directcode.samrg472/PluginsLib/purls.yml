@@ -1,0 +1,2 @@
+- pkg:maven/org.directcode.samrg472/PluginsLib@1.0.0
+- pkg:maven/org.directcode.samrg472/PluginsLib@1.0.0?classifier=sources

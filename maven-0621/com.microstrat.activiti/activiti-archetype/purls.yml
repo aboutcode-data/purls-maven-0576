@@ -1,0 +1,2 @@
+- pkg:maven/com.microstrat.activiti/activiti-archetype@0.6?classifier=sources
+- pkg:maven/com.microstrat.activiti/activiti-archetype@0.7?classifier=sources

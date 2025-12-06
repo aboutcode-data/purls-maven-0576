@@ -14,3 +14,7 @@
 - pkg:maven/org.apache.maven.archetype/archetype-proxy@2.1?type=war
 - pkg:maven/org.apache.maven.archetype/archetype-proxy@2.2?classifier=sources
 - pkg:maven/org.apache.maven.archetype/archetype-proxy@2.2?type=war
+- pkg:maven/org.apache.maven.archetype/archetype-proxy@2.3?classifier=sources
+- pkg:maven/org.apache.maven.archetype/archetype-proxy@2.3?type=war
+- pkg:maven/org.apache.maven.archetype/archetype-proxy@2.4?classifier=sources
+- pkg:maven/org.apache.maven.archetype/archetype-proxy@2.4?type=war

@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.yal10n/yal10n-maven-plugin@1.0.0
+- pkg:maven/net.sf.yal10n/yal10n-maven-plugin@1.0.0?classifier=sources

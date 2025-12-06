@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/braces@0.1.2
+- pkg:maven/org.webjars.npm/braces@0.1.2?classifier=sources
+- pkg:maven/org.webjars.npm/braces@1.8.0
+- pkg:maven/org.webjars.npm/braces@1.8.0?classifier=sources

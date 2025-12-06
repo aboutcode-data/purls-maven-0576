@@ -1,0 +1,2 @@
+- pkg:maven/com.github.pgrandjean/TarballInputFormat@0.0.1
+- pkg:maven/com.github.pgrandjean/TarballInputFormat@0.0.1?classifier=sources

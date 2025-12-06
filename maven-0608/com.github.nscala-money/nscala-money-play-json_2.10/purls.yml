@@ -1,0 +1,2 @@
+- pkg:maven/com.github.nscala-money/nscala-money-play-json_2.10@0.10.0
+- pkg:maven/com.github.nscala-money/nscala-money-play-json_2.10@0.10.0?classifier=sources

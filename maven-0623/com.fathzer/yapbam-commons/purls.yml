@@ -1,0 +1,4 @@
+- pkg:maven/com.fathzer/yapbam-commons@1.4.4
+- pkg:maven/com.fathzer/yapbam-commons@1.4.4?classifier=sources
+- pkg:maven/com.fathzer/yapbam-commons@1.5.0
+- pkg:maven/com.fathzer/yapbam-commons@1.5.0?classifier=sources

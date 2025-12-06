@@ -1,2 +1,7 @@
 - pkg:maven/com.jporm/jporm-website@7.2.0?type=war
 - pkg:maven/com.jporm/jporm-website@7.2.1?type=war
+- pkg:maven/com.jporm/jporm-website@7.2.8?type=war
+- pkg:maven/com.jporm/jporm-website@7.3.2?type=war
+- pkg:maven/com.jporm/jporm-website@7.3.6?type=war
+- pkg:maven/com.jporm/jporm-website@7.4.0?type=war
+- pkg:maven/com.jporm/jporm-website@7.4.1?type=war

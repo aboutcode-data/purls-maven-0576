@@ -1,0 +1,4 @@
+- pkg:maven/eu.fbk.rdfpro/rdfpro-rules@0.4
+- pkg:maven/eu.fbk.rdfpro/rdfpro-rules@0.4.1
+- pkg:maven/eu.fbk.rdfpro/rdfpro-rules@0.4.1?classifier=sources
+- pkg:maven/eu.fbk.rdfpro/rdfpro-rules@0.4?classifier=sources

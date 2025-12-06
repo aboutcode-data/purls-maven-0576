@@ -1,0 +1,4 @@
+- pkg:maven/io.github.elkan1788/mpsdk4j@1.a.24
+- pkg:maven/io.github.elkan1788/mpsdk4j@1.a.24?classifier=sources
+- pkg:maven/io.github.elkan1788/mpsdk4j@2.b.1
+- pkg:maven/io.github.elkan1788/mpsdk4j@2.b.1?classifier=sources

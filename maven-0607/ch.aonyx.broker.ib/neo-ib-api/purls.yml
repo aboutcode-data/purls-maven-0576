@@ -1,2 +1,4 @@
 - pkg:maven/ch.aonyx.broker.ib/neo-ib-api@1.1.4
 - pkg:maven/ch.aonyx.broker.ib/neo-ib-api@1.1.4?classifier=sources
+- pkg:maven/ch.aonyx.broker.ib/neo-ib-api@1.1.5
+- pkg:maven/ch.aonyx.broker.ib/neo-ib-api@1.1.5?classifier=sources

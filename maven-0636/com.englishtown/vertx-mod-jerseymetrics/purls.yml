@@ -1,0 +1,16 @@
+- pkg:maven/com.englishtown/vertx-mod-jerseymetrics@2.5.0
+- pkg:maven/com.englishtown/vertx-mod-jerseymetrics@2.5.0?classifier=sources
+- pkg:maven/com.englishtown/vertx-mod-jerseymetrics@2.6.0
+- pkg:maven/com.englishtown/vertx-mod-jerseymetrics@2.6.0?classifier=sources
+- pkg:maven/com.englishtown/vertx-mod-jerseymetrics@2.6.1
+- pkg:maven/com.englishtown/vertx-mod-jerseymetrics@2.6.1?classifier=sources
+- pkg:maven/com.englishtown/vertx-mod-jerseymetrics@2.7.0
+- pkg:maven/com.englishtown/vertx-mod-jerseymetrics@2.7.0?classifier=sources
+- pkg:maven/com.englishtown/vertx-mod-jerseymetrics@2.7.1
+- pkg:maven/com.englishtown/vertx-mod-jerseymetrics@2.7.1?classifier=sources
+- pkg:maven/com.englishtown/vertx-mod-jerseymetrics@3.0.0
+- pkg:maven/com.englishtown/vertx-mod-jerseymetrics@3.0.0-RC1
+- pkg:maven/com.englishtown/vertx-mod-jerseymetrics@3.0.0-RC1?classifier=sources
+- pkg:maven/com.englishtown/vertx-mod-jerseymetrics@3.0.0?classifier=sources
+- pkg:maven/com.englishtown/vertx-mod-jerseymetrics@3.0.1
+- pkg:maven/com.englishtown/vertx-mod-jerseymetrics@3.0.1?classifier=sources

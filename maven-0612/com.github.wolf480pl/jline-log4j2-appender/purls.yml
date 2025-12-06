@@ -1,0 +1,2 @@
+- pkg:maven/com.github.wolf480pl/jline-log4j2-appender@1.0.0
+- pkg:maven/com.github.wolf480pl/jline-log4j2-appender@1.0.0?classifier=sources

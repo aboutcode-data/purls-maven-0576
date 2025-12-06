@@ -1,0 +1,4 @@
+- pkg:maven/com.trueaccord.scalapb/scalapb-runtime_2.12.0-M1@0.4.20
+- pkg:maven/com.trueaccord.scalapb/scalapb-runtime_2.12.0-M1@0.4.20?classifier=sources
+- pkg:maven/com.trueaccord.scalapb/scalapb-runtime_2.12.0-M1@0.5.14
+- pkg:maven/com.trueaccord.scalapb/scalapb-runtime_2.12.0-M1@0.5.14?classifier=sources

@@ -1,3 +1,4 @@
 - pkg:maven/org.webjars/source-map@0.1.31
 - pkg:maven/org.webjars/source-map@0.1.31-1
 - pkg:maven/org.webjars/source-map@0.1.31-2
+- pkg:maven/org.webjars/source-map@0.1.40-1

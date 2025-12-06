@@ -1,0 +1,2 @@
+- pkg:maven/de.qaware.seu.as.code/seuac-credentials-plugin@2.0.1
+- pkg:maven/de.qaware.seu.as.code/seuac-credentials-plugin@2.0.1?classifier=sources

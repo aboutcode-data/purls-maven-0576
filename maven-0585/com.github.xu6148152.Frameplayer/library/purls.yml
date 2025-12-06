@@ -1,0 +1,2 @@
+- pkg:maven/com.github.xu6148152.Frameplayer/library@frameplayer?classifier=sources
+- pkg:maven/com.github.xu6148152.Frameplayer/library@frameplayer?type=aar

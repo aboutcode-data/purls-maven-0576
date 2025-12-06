@@ -1,0 +1,1 @@
+- pkg:maven/org.mule.tools.maven/maven-archetype-mule-domain@1.1?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/org.codehaus.sonar/sonar-server-benchmarks@5.0
+- pkg:maven/org.codehaus.sonar/sonar-server-benchmarks@5.0-RC1
+- pkg:maven/org.codehaus.sonar/sonar-server-benchmarks@5.0-RC2
+- pkg:maven/org.codehaus.sonar/sonar-server-benchmarks@5.0-RC3
+- pkg:maven/org.codehaus.sonar/sonar-server-benchmarks@5.0.1
+- pkg:maven/org.codehaus.sonar/sonar-server-benchmarks@5.1
+- pkg:maven/org.codehaus.sonar/sonar-server-benchmarks@5.1-RC1
+- pkg:maven/org.codehaus.sonar/sonar-server-benchmarks@5.1-RC2

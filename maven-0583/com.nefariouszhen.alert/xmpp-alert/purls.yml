@@ -1,0 +1,2 @@
+- pkg:maven/com.nefariouszhen.alert/xmpp-alert@0.1
+- pkg:maven/com.nefariouszhen.alert/xmpp-alert@0.1?classifier=sources

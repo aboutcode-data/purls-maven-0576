@@ -1,0 +1,2 @@
+- pkg:maven/nl.2312/mimicry@0.2?classifier=sources
+- pkg:maven/nl.2312/mimicry@0.2?type=aar

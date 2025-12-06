@@ -1,0 +1,2 @@
+- pkg:maven/de.inetsofware/jlessc@1.1
+- pkg:maven/de.inetsofware/jlessc@1.1?classifier=sources

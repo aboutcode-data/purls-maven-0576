@@ -1,0 +1,2 @@
+- pkg:maven/com.seovic.coherence/pof-threeten-bp@0.6
+- pkg:maven/com.seovic.coherence/pof-threeten-bp@0.6?classifier=sources

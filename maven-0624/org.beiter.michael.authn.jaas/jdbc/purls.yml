@@ -1,0 +1,2 @@
+- pkg:maven/org.beiter.michael.authn.jaas/jdbc@1.0
+- pkg:maven/org.beiter.michael.authn.jaas/jdbc@1.0?classifier=sources

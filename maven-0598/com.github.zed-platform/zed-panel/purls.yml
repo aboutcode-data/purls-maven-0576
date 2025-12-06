@@ -1,0 +1,4 @@
+- pkg:maven/com.github.zed-platform/zed-panel@0.0.18?classifier=sources
+- pkg:maven/com.github.zed-platform/zed-panel@0.0.18?type=war
+- pkg:maven/com.github.zed-platform/zed-panel@0.0.19?classifier=sources
+- pkg:maven/com.github.zed-platform/zed-panel@0.0.19?type=war

@@ -1,0 +1,2 @@
+- pkg:maven/cool.arch.patterns/license-resources@1.0.0
+- pkg:maven/cool.arch.patterns/license-resources@1.0.0?classifier=sources

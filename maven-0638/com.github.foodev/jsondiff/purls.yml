@@ -1,0 +1,2 @@
+- pkg:maven/com.github.foodev/jsondiff@2.0.0
+- pkg:maven/com.github.foodev/jsondiff@2.0.0?classifier=sources

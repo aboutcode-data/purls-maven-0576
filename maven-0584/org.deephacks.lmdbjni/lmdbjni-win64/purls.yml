@@ -1,0 +1,5 @@
+- pkg:maven/org.deephacks.lmdbjni/lmdbjni-win64@0.2.6
+- pkg:maven/org.deephacks.lmdbjni/lmdbjni-win64@0.3.0
+- pkg:maven/org.deephacks.lmdbjni/lmdbjni-win64@0.3.2
+- pkg:maven/org.deephacks.lmdbjni/lmdbjni-win64@0.4.4.1
+- pkg:maven/org.deephacks.lmdbjni/lmdbjni-win64@0.4.4.1?classifier=sources

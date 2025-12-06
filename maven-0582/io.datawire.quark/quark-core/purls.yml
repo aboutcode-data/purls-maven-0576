@@ -1,0 +1,6 @@
+- pkg:maven/io.datawire.quark/quark-core@0.1.0
+- pkg:maven/io.datawire.quark/quark-core@0.1.0?classifier=sources
+- pkg:maven/io.datawire.quark/quark-core@0.1.12
+- pkg:maven/io.datawire.quark/quark-core@0.1.12?classifier=sources
+- pkg:maven/io.datawire.quark/quark-core@0.1.14
+- pkg:maven/io.datawire.quark/quark-core@0.1.14?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.chtijbug.drools/guvnor-examples@5.6.1.chtijbug
+- pkg:maven/org.chtijbug.drools/guvnor-examples@5.6.1.chtijbug?classifier=sources
+- pkg:maven/org.chtijbug.drools/guvnor-examples@5.6.2.chtijbug
+- pkg:maven/org.chtijbug.drools/guvnor-examples@5.6.2.chtijbug?classifier=sources

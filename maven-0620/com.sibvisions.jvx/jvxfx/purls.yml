@@ -1,0 +1,4 @@
+- pkg:maven/com.sibvisions.jvx/jvxfx@0.9_beta
+- pkg:maven/com.sibvisions.jvx/jvxfx@0.9_beta?classifier=sources
+- pkg:maven/com.sibvisions.jvx/jvxfx@1.0
+- pkg:maven/com.sibvisions.jvx/jvxfx@1.0?classifier=sources

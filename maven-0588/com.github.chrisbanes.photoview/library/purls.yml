@@ -8,4 +8,6 @@
 - pkg:maven/com.github.chrisbanes.photoview/library@1.2.2?classifier=sources
 - pkg:maven/com.github.chrisbanes.photoview/library@1.2.3?classifier=sources
 - pkg:maven/com.github.chrisbanes.photoview/library@1.2.3?type=aar
+- pkg:maven/com.github.chrisbanes.photoview/library@1.2.4?classifier=sources
+- pkg:maven/com.github.chrisbanes.photoview/library@1.2.4?type=aar
 - pkg:maven/com.github.chrisbanes.photoview/library@1.2?classifier=sources

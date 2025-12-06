@@ -4,3 +4,5 @@
 - pkg:maven/org.jadira.reflection.cloning/cloning@3.1.0.GA?classifier=sources
 - pkg:maven/org.jadira.reflection.cloning/cloning@3.2.0.GA
 - pkg:maven/org.jadira.reflection.cloning/cloning@3.2.0.GA?classifier=sources
+- pkg:maven/org.jadira.reflection.cloning/cloning@4.0.0.GA
+- pkg:maven/org.jadira.reflection.cloning/cloning@4.0.0.GA?classifier=sources

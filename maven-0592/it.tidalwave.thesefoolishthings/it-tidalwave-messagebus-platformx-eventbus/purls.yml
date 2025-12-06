@@ -1,4 +1,8 @@
 - pkg:maven/it.tidalwave.thesefoolishthings/it-tidalwave-messagebus-platformx-eventbus@1.0.0?classifier=sources
+- pkg:maven/it.tidalwave.thesefoolishthings/it-tidalwave-messagebus-platformx-eventbus@1.0.10?classifier=sources
+- pkg:maven/it.tidalwave.thesefoolishthings/it-tidalwave-messagebus-platformx-eventbus@1.0.11?classifier=sources
+- pkg:maven/it.tidalwave.thesefoolishthings/it-tidalwave-messagebus-platformx-eventbus@1.0.12?classifier=sources
+- pkg:maven/it.tidalwave.thesefoolishthings/it-tidalwave-messagebus-platformx-eventbus@1.0.13?classifier=sources
 - pkg:maven/it.tidalwave.thesefoolishthings/it-tidalwave-messagebus-platformx-eventbus@1.0.1?classifier=sources
 - pkg:maven/it.tidalwave.thesefoolishthings/it-tidalwave-messagebus-platformx-eventbus@1.0.2?classifier=sources
 - pkg:maven/it.tidalwave.thesefoolishthings/it-tidalwave-messagebus-platformx-eventbus@1.0.3?classifier=sources
@@ -8,3 +12,6 @@
 - pkg:maven/it.tidalwave.thesefoolishthings/it-tidalwave-messagebus-platformx-eventbus@1.0.7?classifier=sources
 - pkg:maven/it.tidalwave.thesefoolishthings/it-tidalwave-messagebus-platformx-eventbus@1.0.8?classifier=sources
 - pkg:maven/it.tidalwave.thesefoolishthings/it-tidalwave-messagebus-platformx-eventbus@1.0.9?classifier=sources
+- pkg:maven/it.tidalwave.thesefoolishthings/it-tidalwave-messagebus-platformx-eventbus@2.0?classifier=sources
+- pkg:maven/it.tidalwave.thesefoolishthings/it-tidalwave-messagebus-platformx-eventbus@2.1?classifier=sources
+- pkg:maven/it.tidalwave.thesefoolishthings/it-tidalwave-messagebus-platformx-eventbus@2.2?classifier=sources

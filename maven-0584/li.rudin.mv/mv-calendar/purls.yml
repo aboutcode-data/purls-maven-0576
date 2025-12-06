@@ -1,2 +1,4 @@
 - pkg:maven/li.rudin.mv/mv-calendar@1.4
 - pkg:maven/li.rudin.mv/mv-calendar@1.4?classifier=sources
+- pkg:maven/li.rudin.mv/mv-calendar@1.5
+- pkg:maven/li.rudin.mv/mv-calendar@1.5?classifier=sources

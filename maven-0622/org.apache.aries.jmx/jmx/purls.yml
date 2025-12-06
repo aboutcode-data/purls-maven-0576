@@ -1,3 +1,4 @@
 - pkg:maven/org.apache.aries.jmx/jmx@0.1-incubating?classifier=source-release&type=zip
 - pkg:maven/org.apache.aries.jmx/jmx@0.2-incubating?classifier=source-release&type=zip
 - pkg:maven/org.apache.aries.jmx/jmx@0.3?classifier=source-release&type=zip
+- pkg:maven/org.apache.aries.jmx/jmx@1.1.5?classifier=source-release&type=zip

@@ -1,0 +1,2 @@
+- pkg:maven/net.javacrumbs/lambda-param-name-extractor@0.1.0
+- pkg:maven/net.javacrumbs/lambda-param-name-extractor@0.1.0?classifier=sources

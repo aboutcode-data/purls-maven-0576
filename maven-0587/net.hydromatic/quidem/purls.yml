@@ -1,0 +1,12 @@
+- pkg:maven/net.hydromatic/quidem@0.3
+- pkg:maven/net.hydromatic/quidem@0.3?classifier=source-release&type=zip
+- pkg:maven/net.hydromatic/quidem@0.3?classifier=sources
+- pkg:maven/net.hydromatic/quidem@0.4
+- pkg:maven/net.hydromatic/quidem@0.4?classifier=source-release&type=zip
+- pkg:maven/net.hydromatic/quidem@0.4?classifier=sources
+- pkg:maven/net.hydromatic/quidem@0.5
+- pkg:maven/net.hydromatic/quidem@0.5?classifier=source-release&type=zip
+- pkg:maven/net.hydromatic/quidem@0.5?classifier=sources
+- pkg:maven/net.hydromatic/quidem@0.6
+- pkg:maven/net.hydromatic/quidem@0.6?classifier=source-release&type=zip
+- pkg:maven/net.hydromatic/quidem@0.6?classifier=sources

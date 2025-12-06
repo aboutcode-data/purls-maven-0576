@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.isis.viewer/isis-viewer-restfulobjects-tck@2.1.0?type=war
 - pkg:maven/org.apache.isis.viewer/isis-viewer-restfulobjects-tck@2.2.0?classifier=sources
 - pkg:maven/org.apache.isis.viewer/isis-viewer-restfulobjects-tck@2.2.0?type=war
+- pkg:maven/org.apache.isis.viewer/isis-viewer-restfulobjects-tck@2.3.0?classifier=sources
+- pkg:maven/org.apache.isis.viewer/isis-viewer-restfulobjects-tck@2.3.0?type=war

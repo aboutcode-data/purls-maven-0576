@@ -24,3 +24,5 @@
 - pkg:maven/org.mybatis/mybatis-guice@3.5?type=zip
 - pkg:maven/org.mybatis/mybatis-guice@3.6
 - pkg:maven/org.mybatis/mybatis-guice@3.6?classifier=sources
+- pkg:maven/org.mybatis/mybatis-guice@3.7
+- pkg:maven/org.mybatis/mybatis-guice@3.7?classifier=sources

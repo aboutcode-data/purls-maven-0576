@@ -1,0 +1,2 @@
+- pkg:maven/com.sequoiadb/spark-sequoiadb-scala_2.10.4@1.12
+- pkg:maven/com.sequoiadb/spark-sequoiadb-scala_2.10.4@1.12?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.sshtools/j2ssh-maverick@1.5.2
+- pkg:maven/com.sshtools/j2ssh-maverick@1.5.2?classifier=sources

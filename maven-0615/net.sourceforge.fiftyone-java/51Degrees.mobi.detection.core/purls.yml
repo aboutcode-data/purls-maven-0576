@@ -2,6 +2,8 @@
 - pkg:maven/net.sourceforge.fiftyone-java/51Degrees.mobi.detection.core@2.1.16.1?classifier=sources
 - pkg:maven/net.sourceforge.fiftyone-java/51Degrees.mobi.detection.core@2.1.17.1
 - pkg:maven/net.sourceforge.fiftyone-java/51Degrees.mobi.detection.core@2.1.17.1?classifier=sources
+- pkg:maven/net.sourceforge.fiftyone-java/51Degrees.mobi.detection.core@2.2.10.1
+- pkg:maven/net.sourceforge.fiftyone-java/51Degrees.mobi.detection.core@2.2.10.1?classifier=sources
 - pkg:maven/net.sourceforge.fiftyone-java/51Degrees.mobi.detection.core@2.2.2.3
 - pkg:maven/net.sourceforge.fiftyone-java/51Degrees.mobi.detection.core@2.2.2.3?classifier=sources
 - pkg:maven/net.sourceforge.fiftyone-java/51Degrees.mobi.detection.core@2.2.4.2

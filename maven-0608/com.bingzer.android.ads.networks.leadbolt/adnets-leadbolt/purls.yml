@@ -1,0 +1,2 @@
+- pkg:maven/com.bingzer.android.ads.networks.leadbolt/adnets-leadbolt@1.0.0?classifier=sources
+- pkg:maven/com.bingzer.android.ads.networks.leadbolt/adnets-leadbolt@1.0.0?type=aar

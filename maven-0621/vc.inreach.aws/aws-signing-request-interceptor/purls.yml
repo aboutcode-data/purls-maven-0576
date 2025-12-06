@@ -1,0 +1,4 @@
+- pkg:maven/vc.inreach.aws/aws-signing-request-interceptor@0.0.4
+- pkg:maven/vc.inreach.aws/aws-signing-request-interceptor@0.0.4?classifier=sources
+- pkg:maven/vc.inreach.aws/aws-signing-request-interceptor@0.0.5
+- pkg:maven/vc.inreach.aws/aws-signing-request-interceptor@0.0.5?classifier=sources

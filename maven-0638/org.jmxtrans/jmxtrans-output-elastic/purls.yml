@@ -1,0 +1,2 @@
+- pkg:maven/org.jmxtrans/jmxtrans-output-elastic@252
+- pkg:maven/org.jmxtrans/jmxtrans-output-elastic@252?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.aestasit.infrastructure.aws/gramazon@0.3.7
+- pkg:maven/com.aestasit.infrastructure.aws/gramazon@0.3.7?classifier=sources

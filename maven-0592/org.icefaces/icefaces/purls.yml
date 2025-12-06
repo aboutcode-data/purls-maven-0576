@@ -11,3 +11,5 @@
 - pkg:maven/org.icefaces/icefaces@3.2.0?classifier=sources
 - pkg:maven/org.icefaces/icefaces@3.3.0
 - pkg:maven/org.icefaces/icefaces@3.3.0?classifier=sources
+- pkg:maven/org.icefaces/icefaces@4.0.0
+- pkg:maven/org.icefaces/icefaces@4.0.0?classifier=sources

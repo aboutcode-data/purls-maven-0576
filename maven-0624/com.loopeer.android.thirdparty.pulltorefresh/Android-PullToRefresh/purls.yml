@@ -1,0 +1,2 @@
+- pkg:maven/com.loopeer.android.thirdparty.pulltorefresh/Android-PullToRefresh@2.1.1?classifier=sources
+- pkg:maven/com.loopeer.android.thirdparty.pulltorefresh/Android-PullToRefresh@2.1.1?type=aar

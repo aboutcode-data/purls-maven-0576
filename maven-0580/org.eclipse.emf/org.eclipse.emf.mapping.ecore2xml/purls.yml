@@ -1,2 +1,12 @@
 - pkg:maven/org.eclipse.emf/org.eclipse.emf.mapping.ecore2xml@2.5.0.v20100521-1847
 - pkg:maven/org.eclipse.emf/org.eclipse.emf.mapping.ecore2xml@2.5.0.v20100521-1847?classifier=sources
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.mapping.ecore2xml@2.8.0
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.mapping.ecore2xml@2.8.0-v20140519-0339
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.mapping.ecore2xml@2.8.0-v20140519-0339?classifier=sources
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.mapping.ecore2xml@2.8.0-v20140901-1055
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.mapping.ecore2xml@2.8.0-v20140901-1055?classifier=sources
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.mapping.ecore2xml@2.8.0-v20150123-0357
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.mapping.ecore2xml@2.8.0-v20150123-0357?classifier=sources
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.mapping.ecore2xml@2.8.0-v20150123-0452
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.mapping.ecore2xml@2.8.0-v20150123-0452?classifier=sources
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.mapping.ecore2xml@2.8.0?classifier=sources

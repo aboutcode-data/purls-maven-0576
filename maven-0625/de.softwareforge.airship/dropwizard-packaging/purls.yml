@@ -1,0 +1,2 @@
+- pkg:maven/de.softwareforge.airship/dropwizard-packaging@1
+- pkg:maven/de.softwareforge.airship/dropwizard-packaging@1?classifier=sources

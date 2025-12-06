@@ -1,0 +1,2 @@
+- pkg:maven/com.epam.indigo/bingo@1.2.2beta-r1
+- pkg:maven/com.epam.indigo/bingo@1.2.2beta-r1?classifier=sources

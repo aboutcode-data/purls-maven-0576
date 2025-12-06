@@ -46,6 +46,8 @@
 - pkg:maven/org.codehaus.jtstand/jtstand-admin-ui@1.4.7
 - pkg:maven/org.codehaus.jtstand/jtstand-admin-ui@1.4.7?classifier=sources
 - pkg:maven/org.codehaus.jtstand/jtstand-admin-ui@1.4?classifier=sources
+- pkg:maven/org.codehaus.jtstand/jtstand-admin-ui@1.5.13
+- pkg:maven/org.codehaus.jtstand/jtstand-admin-ui@1.5.13?classifier=sources
 - pkg:maven/org.codehaus.jtstand/jtstand-admin-ui@1.5.2
 - pkg:maven/org.codehaus.jtstand/jtstand-admin-ui@1.5.2?classifier=sources
 - pkg:maven/org.codehaus.jtstand/jtstand-admin-ui@1.5.3

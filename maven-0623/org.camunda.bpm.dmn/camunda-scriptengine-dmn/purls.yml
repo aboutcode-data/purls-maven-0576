@@ -1,0 +1,2 @@
+- pkg:maven/org.camunda.bpm.dmn/camunda-scriptengine-dmn@7.4.0-alpha2
+- pkg:maven/org.camunda.bpm.dmn/camunda-scriptengine-dmn@7.4.0-alpha2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.really/jwt-scala_2.10@1.0
+- pkg:maven/io.really/jwt-scala_2.10@1.0?classifier=sources
+- pkg:maven/io.really/jwt-scala_2.10@1.2.2
+- pkg:maven/io.really/jwt-scala_2.10@1.2.2?classifier=sources

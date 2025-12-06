@@ -16,3 +16,5 @@
 - pkg:maven/com.googlecode.efficient-java-matrix-library/ejml@0.23?classifier=sources
 - pkg:maven/com.googlecode.efficient-java-matrix-library/ejml@0.24
 - pkg:maven/com.googlecode.efficient-java-matrix-library/ejml@0.24?classifier=sources
+- pkg:maven/com.googlecode.efficient-java-matrix-library/ejml@0.25
+- pkg:maven/com.googlecode.efficient-java-matrix-library/ejml@0.25?classifier=sources

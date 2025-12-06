@@ -1,0 +1,2 @@
+- pkg:maven/com.liferay.faces.demos/jsf2-html5-portlet@4.2.5-ga6?classifier=sources
+- pkg:maven/com.liferay.faces.demos/jsf2-html5-portlet@4.2.5-ga6?type=war

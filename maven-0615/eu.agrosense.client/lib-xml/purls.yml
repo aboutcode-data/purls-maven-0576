@@ -1,1 +1,2 @@
 - pkg:maven/eu.agrosense.client/lib-xml@1.4.02-NB72?classifier=sources
+- pkg:maven/eu.agrosense.client/lib-xml@1.4.02-NB80?classifier=sources

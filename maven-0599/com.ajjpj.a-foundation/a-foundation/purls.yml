@@ -1,0 +1,6 @@
+- pkg:maven/com.ajjpj.a-foundation/a-foundation@1.0-pre13
+- pkg:maven/com.ajjpj.a-foundation/a-foundation@1.0-pre13?classifier=sources
+- pkg:maven/com.ajjpj.a-foundation/a-foundation@1.0-pre14
+- pkg:maven/com.ajjpj.a-foundation/a-foundation@1.0-pre14?classifier=sources
+- pkg:maven/com.ajjpj.a-foundation/a-foundation@1.0-pre16
+- pkg:maven/com.ajjpj.a-foundation/a-foundation@1.0-pre16?classifier=sources

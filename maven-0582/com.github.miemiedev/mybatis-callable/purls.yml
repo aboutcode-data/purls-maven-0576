@@ -1,0 +1,2 @@
+- pkg:maven/com.github.miemiedev/mybatis-callable@1.0
+- pkg:maven/com.github.miemiedev/mybatis-callable@1.0?classifier=sources

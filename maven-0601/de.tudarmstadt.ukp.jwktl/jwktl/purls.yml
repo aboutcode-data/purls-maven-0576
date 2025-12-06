@@ -2,3 +2,5 @@
 - pkg:maven/de.tudarmstadt.ukp.jwktl/jwktl@0.17.2?classifier=sources
 - pkg:maven/de.tudarmstadt.ukp.jwktl/jwktl@1.0.0
 - pkg:maven/de.tudarmstadt.ukp.jwktl/jwktl@1.0.0?classifier=sources
+- pkg:maven/de.tudarmstadt.ukp.jwktl/jwktl@1.0.1
+- pkg:maven/de.tudarmstadt.ukp.jwktl/jwktl@1.0.1?classifier=sources

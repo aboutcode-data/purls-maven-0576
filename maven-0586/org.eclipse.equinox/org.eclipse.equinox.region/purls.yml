@@ -1,2 +1,6 @@
 - pkg:maven/org.eclipse.equinox/org.eclipse.equinox.region@1.1.0.v20120522-1841
 - pkg:maven/org.eclipse.equinox/org.eclipse.equinox.region@1.1.0.v20120522-1841?classifier=sources
+- pkg:maven/org.eclipse.equinox/org.eclipse.equinox.region@1.2.100.v20141023-1537
+- pkg:maven/org.eclipse.equinox/org.eclipse.equinox.region@1.2.100.v20141023-1537?classifier=sources
+- pkg:maven/org.eclipse.equinox/org.eclipse.equinox.region@1.2.101.v20150831-1342
+- pkg:maven/org.eclipse.equinox/org.eclipse.equinox.region@1.2.101.v20150831-1342?classifier=sources

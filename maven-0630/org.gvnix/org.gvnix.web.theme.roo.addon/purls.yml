@@ -1,0 +1,4 @@
+- pkg:maven/org.gvnix/org.gvnix.web.theme.roo.addon@1.4.0.RELEASE
+- pkg:maven/org.gvnix/org.gvnix.web.theme.roo.addon@1.4.0.RELEASE?classifier=sources
+- pkg:maven/org.gvnix/org.gvnix.web.theme.roo.addon@1.4.1.RELEASE
+- pkg:maven/org.gvnix/org.gvnix.web.theme.roo.addon@1.4.1.RELEASE?classifier=sources

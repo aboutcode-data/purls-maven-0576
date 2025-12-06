@@ -1,0 +1,2 @@
+- pkg:maven/com.pahakia.lib/pahakia-annotation-registry@1.0
+- pkg:maven/com.pahakia.lib/pahakia-annotation-registry@1.0?classifier=sources

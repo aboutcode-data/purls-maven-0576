@@ -1,0 +1,5 @@
+- pkg:maven/ninja.ugly/android-prevail@0.2.2?classifier=sources
+- pkg:maven/ninja.ugly/android-prevail@0.2.3?classifier=sources
+- pkg:maven/ninja.ugly/android-prevail@0.2.3?type=aar
+- pkg:maven/ninja.ugly/android-prevail@0.2.4?classifier=sources
+- pkg:maven/ninja.ugly/android-prevail@0.2.4?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/ng-annotate@0.15.4
+- pkg:maven/org.webjars.npm/ng-annotate@0.15.4?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.mcxiaoke.next/functions@1.1.14?classifier=sources
+- pkg:maven/com.mcxiaoke.next/functions@1.1.14?type=aar
+- pkg:maven/com.mcxiaoke.next/functions@1.2.0?classifier=sources
+- pkg:maven/com.mcxiaoke.next/functions@1.2.0?type=aar

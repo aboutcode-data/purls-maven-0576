@@ -1,0 +1,2 @@
+- pkg:maven/io.apiman/apiman-gateway-platforms-war-jetty8@1.0.0.Beta1?classifier=sources
+- pkg:maven/io.apiman/apiman-gateway-platforms-war-jetty8@1.0.0.Beta1?type=war

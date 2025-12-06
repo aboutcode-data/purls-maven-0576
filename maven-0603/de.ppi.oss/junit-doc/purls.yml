@@ -1,0 +1,2 @@
+- pkg:maven/de.ppi.oss/junit-doc@0.2
+- pkg:maven/de.ppi.oss/junit-doc@0.2?classifier=sources

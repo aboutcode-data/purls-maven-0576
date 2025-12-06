@@ -1,0 +1,2 @@
+- pkg:maven/com.fitbur.external/external-tools@0.5.1
+- pkg:maven/com.fitbur.external/external-tools@0.5.1?classifier=sources

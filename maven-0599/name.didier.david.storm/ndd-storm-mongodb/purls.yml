@@ -1,0 +1,2 @@
+- pkg:maven/name.didier.david.storm/ndd-storm-mongodb@0.1.0
+- pkg:maven/name.didier.david.storm/ndd-storm-mongodb@0.1.0?classifier=sources

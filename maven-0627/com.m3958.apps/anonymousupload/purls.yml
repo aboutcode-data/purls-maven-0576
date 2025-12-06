@@ -1,0 +1,6 @@
+- pkg:maven/com.m3958.apps/anonymousupload@0.0.2
+- pkg:maven/com.m3958.apps/anonymousupload@0.0.2.1
+- pkg:maven/com.m3958.apps/anonymousupload@0.0.2.1?classifier=sources
+- pkg:maven/com.m3958.apps/anonymousupload@0.0.2?classifier=sources
+- pkg:maven/com.m3958.apps/anonymousupload@0.0.4
+- pkg:maven/com.m3958.apps/anonymousupload@0.0.4?classifier=sources

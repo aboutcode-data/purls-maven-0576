@@ -1,0 +1,4 @@
+- pkg:maven/ru.noties/parcel-gen@1.0.0
+- pkg:maven/ru.noties/parcel-gen@1.0.0?classifier=sources
+- pkg:maven/ru.noties/parcel-gen@1.1.0
+- pkg:maven/ru.noties/parcel-gen@1.1.0?classifier=sources

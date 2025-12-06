@@ -1,0 +1,2 @@
+- pkg:maven/com.ansvia.graph/blueprints-scala_2.11@0.1.50
+- pkg:maven/com.ansvia.graph/blueprints-scala_2.11@0.1.50?classifier=sources

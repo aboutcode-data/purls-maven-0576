@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars.bower/angular-ui-tree@2.2.0
+- pkg:maven/org.webjars.bower/angular-ui-tree@2.2.0?classifier=sources
+- pkg:maven/org.webjars.bower/angular-ui-tree@2.5.0
+- pkg:maven/org.webjars.bower/angular-ui-tree@2.5.0?classifier=sources
+- pkg:maven/org.webjars.bower/angular-ui-tree@2.9.0
+- pkg:maven/org.webjars.bower/angular-ui-tree@2.9.0?classifier=sources

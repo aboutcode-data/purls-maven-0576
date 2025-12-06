@@ -1,0 +1,2 @@
+- pkg:maven/com.thoughtworks.each/each_sjs0.6_2.11@0.4.2
+- pkg:maven/com.thoughtworks.each/each_sjs0.6_2.11@0.4.2?classifier=sources

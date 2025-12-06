@@ -1,0 +1,6 @@
+- pkg:maven/com.github.prt2121/marbledcat-runtime@0.1.0?classifier=sources
+- pkg:maven/com.github.prt2121/marbledcat-runtime@0.1.0?type=aar
+- pkg:maven/com.github.prt2121/marbledcat-runtime@0.3.3?classifier=sources
+- pkg:maven/com.github.prt2121/marbledcat-runtime@0.3.3?type=aar
+- pkg:maven/com.github.prt2121/marbledcat-runtime@0.3.4?classifier=sources
+- pkg:maven/com.github.prt2121/marbledcat-runtime@0.3.4?type=aar
