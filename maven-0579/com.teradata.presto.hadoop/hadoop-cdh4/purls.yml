@@ -1,0 +1,2 @@
+- pkg:maven/com.teradata.presto.hadoop/hadoop-cdh4@0.8t
+- pkg:maven/com.teradata.presto.hadoop/hadoop-cdh4@0.8t?classifier=sources

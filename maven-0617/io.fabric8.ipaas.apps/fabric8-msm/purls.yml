@@ -1,0 +1,14 @@
+- pkg:maven/io.fabric8.ipaas.apps/fabric8-msm@2.2.90
+- pkg:maven/io.fabric8.ipaas.apps/fabric8-msm@2.2.90?classifier=sources
+- pkg:maven/io.fabric8.ipaas.apps/fabric8-msm@2.2.91
+- pkg:maven/io.fabric8.ipaas.apps/fabric8-msm@2.2.91?classifier=sources
+- pkg:maven/io.fabric8.ipaas.apps/fabric8-msm@2.2.92
+- pkg:maven/io.fabric8.ipaas.apps/fabric8-msm@2.2.92?classifier=sources
+- pkg:maven/io.fabric8.ipaas.apps/fabric8-msm@2.2.93
+- pkg:maven/io.fabric8.ipaas.apps/fabric8-msm@2.2.93?classifier=sources
+- pkg:maven/io.fabric8.ipaas.apps/fabric8-msm@2.2.94
+- pkg:maven/io.fabric8.ipaas.apps/fabric8-msm@2.2.94?classifier=sources
+- pkg:maven/io.fabric8.ipaas.apps/fabric8-msm@2.2.95
+- pkg:maven/io.fabric8.ipaas.apps/fabric8-msm@2.2.95?classifier=sources
+- pkg:maven/io.fabric8.ipaas.apps/fabric8-msm@2.2.96
+- pkg:maven/io.fabric8.ipaas.apps/fabric8-msm@2.2.96?classifier=sources

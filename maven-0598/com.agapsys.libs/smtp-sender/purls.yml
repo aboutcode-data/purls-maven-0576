@@ -2,3 +2,7 @@
 - pkg:maven/com.agapsys.libs/smtp-sender@0.1.0?classifier=sources
 - pkg:maven/com.agapsys.libs/smtp-sender@1.0.0
 - pkg:maven/com.agapsys.libs/smtp-sender@1.0.0?classifier=sources
+- pkg:maven/com.agapsys.libs/smtp-sender@2.0.0
+- pkg:maven/com.agapsys.libs/smtp-sender@2.0.0?classifier=sources
+- pkg:maven/com.agapsys.libs/smtp-sender@3.0.0
+- pkg:maven/com.agapsys.libs/smtp-sender@3.0.0?classifier=sources

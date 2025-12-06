@@ -52,5 +52,7 @@
 - pkg:maven/org.fusesource.mvnplugins/fuse-jxr-skin@1.37?classifier=sources
 - pkg:maven/org.fusesource.mvnplugins/fuse-jxr-skin@1.38
 - pkg:maven/org.fusesource.mvnplugins/fuse-jxr-skin@1.38?classifier=sources
+- pkg:maven/org.fusesource.mvnplugins/fuse-jxr-skin@1.39
+- pkg:maven/org.fusesource.mvnplugins/fuse-jxr-skin@1.39?classifier=sources
 - pkg:maven/org.fusesource.mvnplugins/fuse-jxr-skin@1.9
 - pkg:maven/org.fusesource.mvnplugins/fuse-jxr-skin@1.9?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/com.megatome.javadoc2dash/javadoc2dash-api@1.0.6?classifier=sources
 - pkg:maven/com.megatome.javadoc2dash/javadoc2dash-api@1.0.7
 - pkg:maven/com.megatome.javadoc2dash/javadoc2dash-api@1.0.7?classifier=sources
+- pkg:maven/com.megatome.javadoc2dash/javadoc2dash-api@1.0.8
+- pkg:maven/com.megatome.javadoc2dash/javadoc2dash-api@1.0.8?classifier=sources

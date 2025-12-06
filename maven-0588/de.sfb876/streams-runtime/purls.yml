@@ -1,0 +1,2 @@
+- pkg:maven/de.sfb876/streams-runtime@0.9.25
+- pkg:maven/de.sfb876/streams-runtime@0.9.25?classifier=sources

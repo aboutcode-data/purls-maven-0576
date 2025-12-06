@@ -30,3 +30,9 @@
 - pkg:maven/org.apache.maven.plugins/maven-resources-plugin@2.7
 - pkg:maven/org.apache.maven.plugins/maven-resources-plugin@2.7?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.plugins/maven-resources-plugin@2.7?classifier=sources
+- pkg:maven/org.apache.maven.plugins/maven-resources-plugin@3.0.0
+- pkg:maven/org.apache.maven.plugins/maven-resources-plugin@3.0.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.plugins/maven-resources-plugin@3.0.0?classifier=sources
+- pkg:maven/org.apache.maven.plugins/maven-resources-plugin@3.0.1
+- pkg:maven/org.apache.maven.plugins/maven-resources-plugin@3.0.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.plugins/maven-resources-plugin@3.0.1?classifier=sources

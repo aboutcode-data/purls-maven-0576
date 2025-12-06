@@ -1,0 +1,4 @@
+- pkg:maven/io.swave/swave-akka-compat_2.11@0.5-M3
+- pkg:maven/io.swave/swave-akka-compat_2.11@0.5-M3?classifier=sources
+- pkg:maven/io.swave/swave-akka-compat_2.11@0.5-M4
+- pkg:maven/io.swave/swave-akka-compat_2.11@0.5-M4?classifier=sources

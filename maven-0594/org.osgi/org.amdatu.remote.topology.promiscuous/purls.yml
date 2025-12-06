@@ -1,0 +1,2 @@
+- pkg:maven/org.osgi/org.amdatu.remote.topology.promiscuous@0.1.2
+- pkg:maven/org.osgi/org.amdatu.remote.topology.promiscuous@0.1.2?classifier=sources

@@ -32,3 +32,11 @@
 - pkg:maven/net.wouterdanes.docker/docker-maven-plugin@4.0.1?classifier=sources
 - pkg:maven/net.wouterdanes.docker/docker-maven-plugin@4.1.0
 - pkg:maven/net.wouterdanes.docker/docker-maven-plugin@4.1.0?classifier=sources
+- pkg:maven/net.wouterdanes.docker/docker-maven-plugin@4.1.1
+- pkg:maven/net.wouterdanes.docker/docker-maven-plugin@4.1.1?classifier=sources
+- pkg:maven/net.wouterdanes.docker/docker-maven-plugin@4.2.0
+- pkg:maven/net.wouterdanes.docker/docker-maven-plugin@4.2.0?classifier=sources
+- pkg:maven/net.wouterdanes.docker/docker-maven-plugin@4.2.1
+- pkg:maven/net.wouterdanes.docker/docker-maven-plugin@4.2.1?classifier=sources
+- pkg:maven/net.wouterdanes.docker/docker-maven-plugin@5.0.0
+- pkg:maven/net.wouterdanes.docker/docker-maven-plugin@5.0.0?classifier=sources

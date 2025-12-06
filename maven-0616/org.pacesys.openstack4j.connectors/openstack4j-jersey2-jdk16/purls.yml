@@ -18,3 +18,9 @@
 - pkg:maven/org.pacesys.openstack4j.connectors/openstack4j-jersey2-jdk16@2.0.8?classifier=sources
 - pkg:maven/org.pacesys.openstack4j.connectors/openstack4j-jersey2-jdk16@2.0.9
 - pkg:maven/org.pacesys.openstack4j.connectors/openstack4j-jersey2-jdk16@2.0.9?classifier=sources
+- pkg:maven/org.pacesys.openstack4j.connectors/openstack4j-jersey2-jdk16@2.10
+- pkg:maven/org.pacesys.openstack4j.connectors/openstack4j-jersey2-jdk16@2.10?classifier=sources
+- pkg:maven/org.pacesys.openstack4j.connectors/openstack4j-jersey2-jdk16@2.11
+- pkg:maven/org.pacesys.openstack4j.connectors/openstack4j-jersey2-jdk16@2.11?classifier=sources
+- pkg:maven/org.pacesys.openstack4j.connectors/openstack4j-jersey2-jdk16@2.20
+- pkg:maven/org.pacesys.openstack4j.connectors/openstack4j-jersey2-jdk16@2.20?classifier=sources

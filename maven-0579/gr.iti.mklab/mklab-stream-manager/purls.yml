@@ -1,0 +1,4 @@
+- pkg:maven/gr.iti.mklab/mklab-stream-manager@0.2
+- pkg:maven/gr.iti.mklab/mklab-stream-manager@0.2.1
+- pkg:maven/gr.iti.mklab/mklab-stream-manager@0.2.1?classifier=sources
+- pkg:maven/gr.iti.mklab/mklab-stream-manager@0.2?classifier=sources

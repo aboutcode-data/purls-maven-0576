@@ -6,3 +6,5 @@
 - pkg:maven/com.sap.hana.cloud/spring-cloud-sap-connector@1.0.2.RELEASE?classifier=sources
 - pkg:maven/com.sap.hana.cloud/spring-cloud-sap-connector@1.0.3.RELEASE
 - pkg:maven/com.sap.hana.cloud/spring-cloud-sap-connector@1.0.3.RELEASE?classifier=sources
+- pkg:maven/com.sap.hana.cloud/spring-cloud-sap-connector@1.0.4.RELEASE
+- pkg:maven/com.sap.hana.cloud/spring-cloud-sap-connector@1.0.4.RELEASE?classifier=sources

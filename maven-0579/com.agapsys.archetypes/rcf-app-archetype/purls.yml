@@ -1,0 +1,7 @@
+- pkg:maven/com.agapsys.archetypes/rcf-app-archetype@0.1.0?classifier=sources
+- pkg:maven/com.agapsys.archetypes/rcf-app-archetype@0.2.0?classifier=sources
+- pkg:maven/com.agapsys.archetypes/rcf-app-archetype@1.0.0?classifier=sources
+- pkg:maven/com.agapsys.archetypes/rcf-app-archetype@2.0.0?classifier=sources
+- pkg:maven/com.agapsys.archetypes/rcf-app-archetype@3.0.0?classifier=sources
+- pkg:maven/com.agapsys.archetypes/rcf-app-archetype@4.0.0?classifier=sources
+- pkg:maven/com.agapsys.archetypes/rcf-app-archetype@5.0.0?classifier=sources

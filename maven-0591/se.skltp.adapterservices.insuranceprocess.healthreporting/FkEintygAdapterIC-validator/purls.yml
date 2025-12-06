@@ -1,2 +1,4 @@
 - pkg:maven/se.skltp.adapterservices.insuranceprocess.healthreporting/FkEintygAdapterIC-validator@2.1.1
 - pkg:maven/se.skltp.adapterservices.insuranceprocess.healthreporting/FkEintygAdapterIC-validator@2.1.1?classifier=sources
+- pkg:maven/se.skltp.adapterservices.insuranceprocess.healthreporting/FkEintygAdapterIC-validator@2.2-RC1
+- pkg:maven/se.skltp.adapterservices.insuranceprocess.healthreporting/FkEintygAdapterIC-validator@2.2-RC1?classifier=sources

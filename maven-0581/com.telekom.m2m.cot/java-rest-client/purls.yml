@@ -1,0 +1,2 @@
+- pkg:maven/com.telekom.m2m.cot/java-rest-client@0.1.0
+- pkg:maven/com.telekom.m2m.cot/java-rest-client@0.1.0?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/com.adaptc.mws.plugins/plugins-openstack@1.0-1417551756?classifier=sources
 - pkg:maven/com.adaptc.mws.plugins/plugins-openstack@1.0-1417714285
 - pkg:maven/com.adaptc.mws.plugins/plugins-openstack@1.0-1417714285?classifier=sources
+- pkg:maven/com.adaptc.mws.plugins/plugins-openstack@1.0-1464025210
+- pkg:maven/com.adaptc.mws.plugins/plugins-openstack@1.0-1464025210?classifier=sources

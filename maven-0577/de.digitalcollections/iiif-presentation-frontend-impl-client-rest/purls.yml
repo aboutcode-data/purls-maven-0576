@@ -1,0 +1,2 @@
+- pkg:maven/de.digitalcollections/iiif-presentation-frontend-impl-client-rest@3.0.0
+- pkg:maven/de.digitalcollections/iiif-presentation-frontend-impl-client-rest@3.0.0?classifier=sources

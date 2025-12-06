@@ -1,0 +1,2 @@
+- pkg:maven/com.scalepoint/oauth-jwt-assertion-client@1.0
+- pkg:maven/com.scalepoint/oauth-jwt-assertion-client@1.0?classifier=sources

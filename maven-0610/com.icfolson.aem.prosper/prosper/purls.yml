@@ -1,0 +1,6 @@
+- pkg:maven/com.icfolson.aem.prosper/prosper@8.0.0
+- pkg:maven/com.icfolson.aem.prosper/prosper@8.0.0?classifier=sources
+- pkg:maven/com.icfolson.aem.prosper/prosper@8.1.0
+- pkg:maven/com.icfolson.aem.prosper/prosper@8.1.0?classifier=sources
+- pkg:maven/com.icfolson.aem.prosper/prosper@8.1.1
+- pkg:maven/com.icfolson.aem.prosper/prosper@8.1.1?classifier=sources

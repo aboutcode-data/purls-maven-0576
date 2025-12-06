@@ -1,0 +1,2 @@
+- pkg:maven/com.masetta.spann/spann-orm@0.1.2
+- pkg:maven/com.masetta.spann/spann-orm@0.1.2?classifier=sources

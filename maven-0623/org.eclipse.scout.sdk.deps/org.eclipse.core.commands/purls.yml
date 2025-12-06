@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.core.commands@3.7.0.v20150422-0725
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.core.commands@3.7.0.v20150422-0725?classifier=sources
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.core.commands@3.8.0.v20160316-1921
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.core.commands@3.8.0.v20160316-1921?classifier=sources

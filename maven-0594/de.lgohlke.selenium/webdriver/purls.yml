@@ -10,3 +10,5 @@
 - pkg:maven/de.lgohlke.selenium/webdriver@20151024?classifier=sources
 - pkg:maven/de.lgohlke.selenium/webdriver@20151031
 - pkg:maven/de.lgohlke.selenium/webdriver@20151031?classifier=sources
+- pkg:maven/de.lgohlke.selenium/webdriver@20151215
+- pkg:maven/de.lgohlke.selenium/webdriver@20151215?classifier=sources

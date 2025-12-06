@@ -1,0 +1,2 @@
+- pkg:maven/com.ganshane.centipede/centipede-android@0.0.4?classifier=sources
+- pkg:maven/com.ganshane.centipede/centipede-android@0.0.4?type=aar

@@ -8,3 +8,7 @@
 - pkg:maven/fr.fastconnect.factory.tibco.bw.maven/bw-javaxpath-maven-plugin@2.3.3?classifier=sources
 - pkg:maven/fr.fastconnect.factory.tibco.bw.maven/bw-javaxpath-maven-plugin@2.3.4
 - pkg:maven/fr.fastconnect.factory.tibco.bw.maven/bw-javaxpath-maven-plugin@2.3.4?classifier=sources
+- pkg:maven/fr.fastconnect.factory.tibco.bw.maven/bw-javaxpath-maven-plugin@2.4.0
+- pkg:maven/fr.fastconnect.factory.tibco.bw.maven/bw-javaxpath-maven-plugin@2.4.0?classifier=sources
+- pkg:maven/fr.fastconnect.factory.tibco.bw.maven/bw-javaxpath-maven-plugin@2.4.1
+- pkg:maven/fr.fastconnect.factory.tibco.bw.maven/bw-javaxpath-maven-plugin@2.4.1?classifier=sources

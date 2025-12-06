@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/ethereumjs-connect@0.7.14
+- pkg:maven/org.webjars.npm/ethereumjs-connect@0.7.14?classifier=sources

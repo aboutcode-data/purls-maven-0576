@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/lodash.hasin@4.4.0
+- pkg:maven/org.webjars.npm/lodash.hasin@4.4.0?classifier=sources

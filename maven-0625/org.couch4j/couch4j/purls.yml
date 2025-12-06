@@ -1,0 +1,2 @@
+- pkg:maven/org.couch4j/couch4j@0.9.2-alpha1
+- pkg:maven/org.couch4j/couch4j@0.9.2-alpha1?classifier=sources

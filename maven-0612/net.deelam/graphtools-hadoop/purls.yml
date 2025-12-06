@@ -1,2 +1,4 @@
 - pkg:maven/net.deelam/graphtools-hadoop@0.0.2
 - pkg:maven/net.deelam/graphtools-hadoop@0.0.2?classifier=sources
+- pkg:maven/net.deelam/graphtools-hadoop@0.0.3
+- pkg:maven/net.deelam/graphtools-hadoop@0.0.3?classifier=sources

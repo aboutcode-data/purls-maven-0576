@@ -1,0 +1,2 @@
+- pkg:maven/com.silentgo/test@0.0.1?classifier=sources
+- pkg:maven/com.silentgo/test@0.0.1?type=war

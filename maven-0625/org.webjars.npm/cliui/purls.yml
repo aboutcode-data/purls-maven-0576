@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/cliui@2.1.0
+- pkg:maven/org.webjars.npm/cliui@2.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/cliui@3.0.3
 - pkg:maven/org.webjars.npm/cliui@3.0.3?classifier=sources

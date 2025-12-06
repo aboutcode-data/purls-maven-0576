@@ -1,0 +1,6 @@
+- pkg:maven/ws.ament.hammock/util-cxf-shaded@0.1.0
+- pkg:maven/ws.ament.hammock/util-cxf-shaded@0.1.0?classifier=sources
+- pkg:maven/ws.ament.hammock/util-cxf-shaded@0.2.0
+- pkg:maven/ws.ament.hammock/util-cxf-shaded@0.2.0?classifier=sources
+- pkg:maven/ws.ament.hammock/util-cxf-shaded@0.3.0
+- pkg:maven/ws.ament.hammock/util-cxf-shaded@0.3.0?classifier=sources

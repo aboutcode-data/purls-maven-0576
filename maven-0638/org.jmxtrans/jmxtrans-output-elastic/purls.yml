@@ -1,2 +1,10 @@
 - pkg:maven/org.jmxtrans/jmxtrans-output-elastic@252
 - pkg:maven/org.jmxtrans/jmxtrans-output-elastic@252?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-output-elastic@253
+- pkg:maven/org.jmxtrans/jmxtrans-output-elastic@253?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-output-elastic@254
+- pkg:maven/org.jmxtrans/jmxtrans-output-elastic@254?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-output-elastic@256
+- pkg:maven/org.jmxtrans/jmxtrans-output-elastic@256?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-output-elastic@259
+- pkg:maven/org.jmxtrans/jmxtrans-output-elastic@259?classifier=sources

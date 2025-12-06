@@ -1,1 +1,5 @@
 - pkg:maven/org.rapidpm.microservice/rapidpm-microservice-modules-optionals-metrics@0.0.4?classifier=sources
+- pkg:maven/org.rapidpm.microservice/rapidpm-microservice-modules-optionals-metrics@0.0.5?classifier=sources
+- pkg:maven/org.rapidpm.microservice/rapidpm-microservice-modules-optionals-metrics@0.0.6?classifier=sources
+- pkg:maven/org.rapidpm.microservice/rapidpm-microservice-modules-optionals-metrics@0.0.7?classifier=sources
+- pkg:maven/org.rapidpm.microservice/rapidpm-microservice-modules-optionals-metrics@0.1.0?classifier=sources

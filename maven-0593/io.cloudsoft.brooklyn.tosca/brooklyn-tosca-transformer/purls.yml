@@ -1,0 +1,2 @@
+- pkg:maven/io.cloudsoft.brooklyn.tosca/brooklyn-tosca-transformer@0.9.0
+- pkg:maven/io.cloudsoft.brooklyn.tosca/brooklyn-tosca-transformer@0.9.0?classifier=sources

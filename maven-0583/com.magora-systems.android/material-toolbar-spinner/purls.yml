@@ -1,0 +1,2 @@
+- pkg:maven/com.magora-systems.android/material-toolbar-spinner@1.0.0?classifier=sources
+- pkg:maven/com.magora-systems.android/material-toolbar-spinner@1.0.0?type=aar

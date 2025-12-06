@@ -22,3 +22,7 @@
 - pkg:maven/com.karumi/rosie-framework@0.4.5?type=aar
 - pkg:maven/com.karumi/rosie-framework@0.4.6?classifier=sources
 - pkg:maven/com.karumi/rosie-framework@0.4.6?type=aar
+- pkg:maven/com.karumi/rosie-framework@0.4.7?classifier=sources
+- pkg:maven/com.karumi/rosie-framework@0.4.7?type=aar
+- pkg:maven/com.karumi/rosie-framework@1.0.0?classifier=sources
+- pkg:maven/com.karumi/rosie-framework@1.0.0?type=aar

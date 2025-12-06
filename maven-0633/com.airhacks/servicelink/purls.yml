@@ -1,0 +1,2 @@
+- pkg:maven/com.airhacks/servicelink@0.0.2
+- pkg:maven/com.airhacks/servicelink@0.0.2?classifier=sources

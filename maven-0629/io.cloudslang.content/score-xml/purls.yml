@@ -1,0 +1,2 @@
+- pkg:maven/io.cloudslang.content/score-xml@0.0.2
+- pkg:maven/io.cloudslang.content/score-xml@0.0.2?classifier=sources

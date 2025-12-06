@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/gold-zip-input@1.0.5
+- pkg:maven/org.webjars.bower/gold-zip-input@1.0.5?classifier=sources

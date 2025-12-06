@@ -22,3 +22,6 @@
 - pkg:maven/org.apache.maven.skins/maven-fluido-skin@1.4
 - pkg:maven/org.apache.maven.skins/maven-fluido-skin@1.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.skins/maven-fluido-skin@1.4?classifier=sources
+- pkg:maven/org.apache.maven.skins/maven-fluido-skin@1.5
+- pkg:maven/org.apache.maven.skins/maven-fluido-skin@1.5?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.skins/maven-fluido-skin@1.5?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.wix/sample-petri-app@0.6.0?classifier=sources
+- pkg:maven/com.wix/sample-petri-app@0.6.0?type=war

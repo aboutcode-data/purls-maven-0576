@@ -5,3 +5,7 @@
 - pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.description/GetAggregatedFunctionalStatus@1.0.0?classifier=sources
 - pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.description/GetAggregatedFunctionalStatus@1.0.1-RC1?classifier=sources
 - pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.description/GetAggregatedFunctionalStatus@1.0.1-RC2?classifier=sources
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.description/GetAggregatedFunctionalStatus@1.0.1?classifier=sources
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.description/GetAggregatedFunctionalStatus@1.1.0-RC1?classifier=sources
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.description/GetAggregatedFunctionalStatus@1.1.0?classifier=sources
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.description/GetAggregatedFunctionalStatus@1.2.0-RC1?classifier=sources

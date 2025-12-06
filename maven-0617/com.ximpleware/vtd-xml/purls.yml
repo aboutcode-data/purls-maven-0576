@@ -1,2 +1,6 @@
 - pkg:maven/com.ximpleware/vtd-xml@2.11
 - pkg:maven/com.ximpleware/vtd-xml@2.11?classifier=sources
+- pkg:maven/com.ximpleware/vtd-xml@2.12
+- pkg:maven/com.ximpleware/vtd-xml@2.12?classifier=sources
+- pkg:maven/com.ximpleware/vtd-xml@2.13
+- pkg:maven/com.ximpleware/vtd-xml@2.13?classifier=sources

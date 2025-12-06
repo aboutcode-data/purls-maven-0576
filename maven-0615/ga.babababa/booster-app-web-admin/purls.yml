@@ -1,0 +1,4 @@
+- pkg:maven/ga.babababa/booster-app-web-admin@0.0.1?classifier=sources
+- pkg:maven/ga.babababa/booster-app-web-admin@0.0.1?type=war
+- pkg:maven/ga.babababa/booster-app-web-admin@0.0.2?classifier=sources
+- pkg:maven/ga.babababa/booster-app-web-admin@0.0.2?type=war

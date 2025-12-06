@@ -1,2 +1,6 @@
 - pkg:maven/net.serenity-bdd/serenity-jira-customfield-requirements-provider@1.0.1
 - pkg:maven/net.serenity-bdd/serenity-jira-customfield-requirements-provider@1.0.1?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-jira-customfield-requirements-provider@1.1.1
+- pkg:maven/net.serenity-bdd/serenity-jira-customfield-requirements-provider@1.1.1?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-jira-customfield-requirements-provider@1.1.2-rc.1
+- pkg:maven/net.serenity-bdd/serenity-jira-customfield-requirements-provider@1.1.2-rc.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.advantageous.elekt/elekt-consul@0.1.0.RELEASE
+- pkg:maven/io.advantageous.elekt/elekt-consul@0.1.0.RELEASE?classifier=sources
+- pkg:maven/io.advantageous.elekt/elekt-consul@0.2.0.RELEASE
+- pkg:maven/io.advantageous.elekt/elekt-consul@0.2.0.RELEASE?classifier=sources

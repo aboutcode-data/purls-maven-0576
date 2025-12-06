@@ -1,0 +1,2 @@
+- pkg:maven/link.jfire/simplerpc@1.0
+- pkg:maven/link.jfire/simplerpc@1.0?classifier=sources

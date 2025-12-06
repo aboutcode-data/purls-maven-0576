@@ -1,0 +1,2 @@
+- pkg:maven/com.github.binarywang/java-emoji-converter@0.0.1
+- pkg:maven/com.github.binarywang/java-emoji-converter@0.0.1?classifier=sources

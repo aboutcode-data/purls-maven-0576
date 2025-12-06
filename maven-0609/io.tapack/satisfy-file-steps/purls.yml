@@ -10,3 +10,5 @@
 - pkg:maven/io.tapack/satisfy-file-steps@0.6.3?classifier=sources
 - pkg:maven/io.tapack/satisfy-file-steps@0.6.4
 - pkg:maven/io.tapack/satisfy-file-steps@0.6.4?classifier=sources
+- pkg:maven/io.tapack/satisfy-file-steps@0.6.5
+- pkg:maven/io.tapack/satisfy-file-steps@0.6.5?classifier=sources

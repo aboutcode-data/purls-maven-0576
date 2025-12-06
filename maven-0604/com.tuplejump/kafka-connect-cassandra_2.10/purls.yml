@@ -1,0 +1,2 @@
+- pkg:maven/com.tuplejump/kafka-connect-cassandra_2.10@0.0.7
+- pkg:maven/com.tuplejump/kafka-connect-cassandra_2.10@0.0.7?classifier=sources

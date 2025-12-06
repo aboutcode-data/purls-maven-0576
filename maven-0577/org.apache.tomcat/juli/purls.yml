@@ -17,3 +17,5 @@
 - pkg:maven/org.apache.tomcat/juli@6.0.41
 - pkg:maven/org.apache.tomcat/juli@6.0.43
 - pkg:maven/org.apache.tomcat/juli@6.0.44
+- pkg:maven/org.apache.tomcat/juli@6.0.45
+- pkg:maven/org.apache.tomcat/juli@6.0.47

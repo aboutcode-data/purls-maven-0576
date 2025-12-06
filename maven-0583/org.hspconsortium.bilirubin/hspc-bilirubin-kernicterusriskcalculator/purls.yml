@@ -1,0 +1,2 @@
+- pkg:maven/org.hspconsortium.bilirubin/hspc-bilirubin-kernicterusriskcalculator@0.1
+- pkg:maven/org.hspconsortium.bilirubin/hspc-bilirubin-kernicterusriskcalculator@0.1?classifier=sources

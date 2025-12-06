@@ -1,0 +1,2 @@
+- pkg:maven/org.kantega.respiro/respiro-mongodb-test-modifier-plugin@1.8
+- pkg:maven/org.kantega.respiro/respiro-mongodb-test-modifier-plugin@1.8?classifier=sources

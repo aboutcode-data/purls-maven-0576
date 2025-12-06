@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/react-is-deprecated@0.1.2
+- pkg:maven/org.webjars.npm/react-is-deprecated@0.1.2?classifier=sources

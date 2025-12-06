@@ -1,0 +1,6 @@
+- pkg:maven/io.getquill/quill-core_sjs0.6_2.11@0.10.0
+- pkg:maven/io.getquill/quill-core_sjs0.6_2.11@0.10.0?classifier=sources
+- pkg:maven/io.getquill/quill-core_sjs0.6_2.11@0.8.0
+- pkg:maven/io.getquill/quill-core_sjs0.6_2.11@0.8.0?classifier=sources
+- pkg:maven/io.getquill/quill-core_sjs0.6_2.11@0.9.0
+- pkg:maven/io.getquill/quill-core_sjs0.6_2.11@0.9.0?classifier=sources

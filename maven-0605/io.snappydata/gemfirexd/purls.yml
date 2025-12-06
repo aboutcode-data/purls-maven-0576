@@ -1,0 +1,2 @@
+- pkg:maven/io.snappydata/gemfirexd@2.0-BETA
+- pkg:maven/io.snappydata/gemfirexd@2.0-BETA?classifier=sources

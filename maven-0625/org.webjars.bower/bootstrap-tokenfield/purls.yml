@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.bower/bootstrap-tokenfield@0.12.0
+- pkg:maven/org.webjars.bower/bootstrap-tokenfield@0.12.0?classifier=sources
 - pkg:maven/org.webjars.bower/bootstrap-tokenfield@0.12.1
 - pkg:maven/org.webjars.bower/bootstrap-tokenfield@0.12.1?classifier=sources

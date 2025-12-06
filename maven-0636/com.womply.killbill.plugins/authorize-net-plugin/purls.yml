@@ -1,0 +1,2 @@
+- pkg:maven/com.womply.killbill.plugins/authorize-net-plugin@1.0.54
+- pkg:maven/com.womply.killbill.plugins/authorize-net-plugin@1.0.54?classifier=sources

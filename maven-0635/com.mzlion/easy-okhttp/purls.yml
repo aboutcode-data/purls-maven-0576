@@ -1,0 +1,2 @@
+- pkg:maven/com.mzlion/easy-okhttp@1.0.2-beta
+- pkg:maven/com.mzlion/easy-okhttp@1.0.2-beta?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/konva@0.11.1
+- pkg:maven/org.webjars.npm/konva@0.11.1?classifier=sources

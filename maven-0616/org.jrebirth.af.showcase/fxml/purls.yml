@@ -4,3 +4,7 @@
 - pkg:maven/org.jrebirth.af.showcase/fxml@8.0.3?type=zip
 - pkg:maven/org.jrebirth.af.showcase/fxml@8.0.4?classifier=sources
 - pkg:maven/org.jrebirth.af.showcase/fxml@8.0.4?type=zip
+- pkg:maven/org.jrebirth.af.showcase/fxml@8.0.5?classifier=sources
+- pkg:maven/org.jrebirth.af.showcase/fxml@8.0.5?type=zip
+- pkg:maven/org.jrebirth.af.showcase/fxml@8.5.0
+- pkg:maven/org.jrebirth.af.showcase/fxml@8.5.0?classifier=sources

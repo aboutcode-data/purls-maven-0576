@@ -1,2 +1,4 @@
 - pkg:maven/org.milyn/milyn-smooks-ediutils@1.6
 - pkg:maven/org.milyn/milyn-smooks-ediutils@1.6?classifier=sources
+- pkg:maven/org.milyn/milyn-smooks-ediutils@1.7.0
+- pkg:maven/org.milyn/milyn-smooks-ediutils@1.7.0?classifier=sources

@@ -12,3 +12,9 @@
 - pkg:maven/ru.qatools.seleniumkit/gridrouter-proxy@1.26?type=war
 - pkg:maven/ru.qatools.seleniumkit/gridrouter-proxy@1.27?classifier=sources
 - pkg:maven/ru.qatools.seleniumkit/gridrouter-proxy@1.27?type=war
+- pkg:maven/ru.qatools.seleniumkit/gridrouter-proxy@1.28?classifier=sources
+- pkg:maven/ru.qatools.seleniumkit/gridrouter-proxy@1.28?type=war
+- pkg:maven/ru.qatools.seleniumkit/gridrouter-proxy@1.29?classifier=sources
+- pkg:maven/ru.qatools.seleniumkit/gridrouter-proxy@1.29?type=war
+- pkg:maven/ru.qatools.seleniumkit/gridrouter-proxy@1.30?classifier=sources
+- pkg:maven/ru.qatools.seleniumkit/gridrouter-proxy@1.30?type=war

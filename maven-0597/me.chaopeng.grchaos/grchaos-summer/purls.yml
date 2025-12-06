@@ -1,0 +1,6 @@
+- pkg:maven/me.chaopeng.grchaos/grchaos-summer@1.0.0-alpha
+- pkg:maven/me.chaopeng.grchaos/grchaos-summer@1.0.0-alpha-2
+- pkg:maven/me.chaopeng.grchaos/grchaos-summer@1.0.0-alpha-2?classifier=sources
+- pkg:maven/me.chaopeng.grchaos/grchaos-summer@1.0.0-alpha?classifier=sources
+- pkg:maven/me.chaopeng.grchaos/grchaos-summer@1.0.0-rc
+- pkg:maven/me.chaopeng.grchaos/grchaos-summer@1.0.0-rc?classifier=sources

@@ -1,5 +1,7 @@
 - pkg:maven/co.luminositylabs.oss.distributions/payara-full@4.1.1.154?classifier=sources
 - pkg:maven/co.luminositylabs.oss.distributions/payara-full@4.1.1.154?type=zip
+- pkg:maven/co.luminositylabs.oss.distributions/payara-full@4.1.1.161?classifier=sources
+- pkg:maven/co.luminositylabs.oss.distributions/payara-full@4.1.1.161?type=zip
 - pkg:maven/co.luminositylabs.oss.distributions/payara-full@4.1.152.1
 - pkg:maven/co.luminositylabs.oss.distributions/payara-full@4.1.152.1.1?classifier=sources
 - pkg:maven/co.luminositylabs.oss.distributions/payara-full@4.1.152.1.1?type=zip

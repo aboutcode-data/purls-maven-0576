@@ -1,0 +1,2 @@
+- pkg:maven/de.unidue.ltl.flextag/de.unidue.ltl.flextag.features@0.1.0
+- pkg:maven/de.unidue.ltl.flextag/de.unidue.ltl.flextag.features@0.1.0?classifier=sources

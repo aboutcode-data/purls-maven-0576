@@ -10,3 +10,5 @@
 - pkg:maven/org.concordion/concordion-logback-extension@0.2.2?classifier=sources
 - pkg:maven/org.concordion/concordion-logback-extension@0.3.0
 - pkg:maven/org.concordion/concordion-logback-extension@0.3.0?classifier=sources
+- pkg:maven/org.concordion/concordion-logback-extension@1.0.0
+- pkg:maven/org.concordion/concordion-logback-extension@1.0.0?classifier=sources

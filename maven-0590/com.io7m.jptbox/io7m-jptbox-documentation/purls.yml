@@ -1,0 +1,2 @@
+- pkg:maven/com.io7m.jptbox/io7m-jptbox-documentation@0.1.0?classifier=sources
+- pkg:maven/com.io7m.jptbox/io7m-jptbox-documentation@0.1.0?type=zip

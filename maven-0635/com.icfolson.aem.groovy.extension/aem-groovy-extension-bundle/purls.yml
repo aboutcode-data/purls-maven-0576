@@ -1,0 +1,2 @@
+- pkg:maven/com.icfolson.aem.groovy.extension/aem-groovy-extension-bundle@2.0.0
+- pkg:maven/com.icfolson.aem.groovy.extension/aem-groovy-extension-bundle@2.0.0?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/net.sf.jett/jett-core@0.10.0
+- pkg:maven/net.sf.jett/jett-core@0.10.0?classifier=sources
 - pkg:maven/net.sf.jett/jett-core@0.3.0
 - pkg:maven/net.sf.jett/jett-core@0.3.0?classifier=sources
 - pkg:maven/net.sf.jett/jett-core@0.4.0

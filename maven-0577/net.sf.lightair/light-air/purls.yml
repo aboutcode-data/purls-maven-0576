@@ -26,3 +26,13 @@
 - pkg:maven/net.sf.lightair/light-air@2.4.0?classifier=sources
 - pkg:maven/net.sf.lightair/light-air@2.6.0
 - pkg:maven/net.sf.lightair/light-air@2.6.0?classifier=sources
+- pkg:maven/net.sf.lightair/light-air@2.7.0
+- pkg:maven/net.sf.lightair/light-air@2.7.0?classifier=sources
+- pkg:maven/net.sf.lightair/light-air@2.8.0
+- pkg:maven/net.sf.lightair/light-air@2.8.0?classifier=sources
+- pkg:maven/net.sf.lightair/light-air@2.9.0
+- pkg:maven/net.sf.lightair/light-air@2.9.0?classifier=sources
+- pkg:maven/net.sf.lightair/light-air@3.0.0
+- pkg:maven/net.sf.lightair/light-air@3.0.0?classifier=sources
+- pkg:maven/net.sf.lightair/light-air@3.0.1
+- pkg:maven/net.sf.lightair/light-air@3.0.1?classifier=sources

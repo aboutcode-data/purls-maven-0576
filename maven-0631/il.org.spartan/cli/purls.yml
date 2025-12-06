@@ -1,0 +1,2 @@
+- pkg:maven/il.org.spartan/cli@1.0
+- pkg:maven/il.org.spartan/cli@1.0?classifier=sources

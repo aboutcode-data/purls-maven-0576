@@ -1,0 +1,2 @@
+- pkg:maven/org.ojbc.bundles.connectors/ojb-web-application-connector-extension@2.0.0
+- pkg:maven/org.ojbc.bundles.connectors/ojb-web-application-connector-extension@2.0.0?classifier=sources

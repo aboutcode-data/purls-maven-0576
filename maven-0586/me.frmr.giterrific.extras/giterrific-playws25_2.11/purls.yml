@@ -1,0 +1,4 @@
+- pkg:maven/me.frmr.giterrific.extras/giterrific-playws25_2.11@0.1.0
+- pkg:maven/me.frmr.giterrific.extras/giterrific-playws25_2.11@0.1.0?classifier=sources
+- pkg:maven/me.frmr.giterrific.extras/giterrific-playws25_2.11@0.2.0
+- pkg:maven/me.frmr.giterrific.extras/giterrific-playws25_2.11@0.2.0?classifier=sources

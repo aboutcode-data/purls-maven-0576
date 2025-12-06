@@ -1,0 +1,4 @@
+- pkg:maven/org.hawkular.apm/hawkular-apm-tests-server-wildfly@0.10.0.Final
+- pkg:maven/org.hawkular.apm/hawkular-apm-tests-server-wildfly@0.9.0.Final
+- pkg:maven/org.hawkular.apm/hawkular-apm-tests-server-wildfly@0.9.1.Final
+- pkg:maven/org.hawkular.apm/hawkular-apm-tests-server-wildfly@0.9.2.Final

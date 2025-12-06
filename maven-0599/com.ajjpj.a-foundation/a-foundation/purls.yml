@@ -4,3 +4,9 @@
 - pkg:maven/com.ajjpj.a-foundation/a-foundation@1.0-pre14?classifier=sources
 - pkg:maven/com.ajjpj.a-foundation/a-foundation@1.0-pre16
 - pkg:maven/com.ajjpj.a-foundation/a-foundation@1.0-pre16?classifier=sources
+- pkg:maven/com.ajjpj.a-foundation/a-foundation@1.0-pre17
+- pkg:maven/com.ajjpj.a-foundation/a-foundation@1.0-pre17?classifier=sources
+- pkg:maven/com.ajjpj.a-foundation/a-foundation@1.0-pre18
+- pkg:maven/com.ajjpj.a-foundation/a-foundation@1.0-pre18?classifier=sources
+- pkg:maven/com.ajjpj.a-foundation/a-foundation@1.0-pre19
+- pkg:maven/com.ajjpj.a-foundation/a-foundation@1.0-pre19?classifier=sources

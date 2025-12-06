@@ -1,0 +1,2 @@
+- pkg:maven/com.iih5/smart-wechat@1.0
+- pkg:maven/com.iih5/smart-wechat@1.0?classifier=sources

@@ -2,3 +2,10 @@
 - pkg:maven/org.hawkular.btm/hawkular-btm-server@0.3.1.Final?type=war
 - pkg:maven/org.hawkular.btm/hawkular-btm-server@0.4.0.Final?type=war
 - pkg:maven/org.hawkular.btm/hawkular-btm-server@0.5.0.Final?type=war
+- pkg:maven/org.hawkular.btm/hawkular-btm-server@0.6.0.Final?type=war
+- pkg:maven/org.hawkular.btm/hawkular-btm-server@0.7.0.Final?type=war
+- pkg:maven/org.hawkular.btm/hawkular-btm-server@0.7.1.Final?type=war
+- pkg:maven/org.hawkular.btm/hawkular-btm-server@0.7.2.Final?type=war
+- pkg:maven/org.hawkular.btm/hawkular-btm-server@0.7.3.Final?type=war
+- pkg:maven/org.hawkular.btm/hawkular-btm-server@0.7.4.Final?type=war
+- pkg:maven/org.hawkular.btm/hawkular-btm-server@0.8.0.Final?type=war

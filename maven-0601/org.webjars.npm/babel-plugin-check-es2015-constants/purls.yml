@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/babel-plugin-check-es2015-constants@6.3.13
+- pkg:maven/org.webjars.npm/babel-plugin-check-es2015-constants@6.3.13?classifier=sources

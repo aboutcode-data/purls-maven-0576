@@ -18,3 +18,5 @@
 - pkg:maven/com.mebigfatguy.yank/yank@1.4.0?classifier=sources
 - pkg:maven/com.mebigfatguy.yank/yank@1.6.0
 - pkg:maven/com.mebigfatguy.yank/yank@1.6.0?classifier=sources
+- pkg:maven/com.mebigfatguy.yank/yank@1.6.1
+- pkg:maven/com.mebigfatguy.yank/yank@1.6.1?classifier=sources

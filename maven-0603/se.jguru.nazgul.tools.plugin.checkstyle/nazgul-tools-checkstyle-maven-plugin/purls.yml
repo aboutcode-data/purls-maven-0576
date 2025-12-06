@@ -1,0 +1,6 @@
+- pkg:maven/se.jguru.nazgul.tools.plugin.checkstyle/nazgul-tools-checkstyle-maven-plugin@6.0.0
+- pkg:maven/se.jguru.nazgul.tools.plugin.checkstyle/nazgul-tools-checkstyle-maven-plugin@6.0.0?classifier=sources
+- pkg:maven/se.jguru.nazgul.tools.plugin.checkstyle/nazgul-tools-checkstyle-maven-plugin@6.0.1
+- pkg:maven/se.jguru.nazgul.tools.plugin.checkstyle/nazgul-tools-checkstyle-maven-plugin@6.0.1?classifier=sources
+- pkg:maven/se.jguru.nazgul.tools.plugin.checkstyle/nazgul-tools-checkstyle-maven-plugin@6.0.2
+- pkg:maven/se.jguru.nazgul.tools.plugin.checkstyle/nazgul-tools-checkstyle-maven-plugin@6.0.2?classifier=sources

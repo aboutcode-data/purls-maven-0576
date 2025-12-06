@@ -1,0 +1,2 @@
+- pkg:maven/com.floragunn/ldaptive-templates@1.1.0-fg-fork1
+- pkg:maven/com.floragunn/ldaptive-templates@1.1.0-fg-fork1?classifier=sources

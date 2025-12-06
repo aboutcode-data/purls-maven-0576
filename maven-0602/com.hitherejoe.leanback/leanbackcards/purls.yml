@@ -1,0 +1,2 @@
+- pkg:maven/com.hitherejoe.leanback/leanbackcards@0.1.0?classifier=sources
+- pkg:maven/com.hitherejoe.leanback/leanbackcards@0.1.0?type=aar

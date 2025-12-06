@@ -64,10 +64,16 @@
 - pkg:maven/com.google.guava/guava@18.0-rc2
 - pkg:maven/com.google.guava/guava@18.0-rc2?classifier=sources
 - pkg:maven/com.google.guava/guava@18.0?classifier=sources
+- pkg:maven/com.google.guava/guava@19.0
 - pkg:maven/com.google.guava/guava@19.0-rc1
 - pkg:maven/com.google.guava/guava@19.0-rc1?classifier=sources
 - pkg:maven/com.google.guava/guava@19.0-rc2
 - pkg:maven/com.google.guava/guava@19.0-rc2?classifier=sources
+- pkg:maven/com.google.guava/guava@19.0-rc3
+- pkg:maven/com.google.guava/guava@19.0-rc3?classifier=sources
+- pkg:maven/com.google.guava/guava@19.0?classifier=sources
+- pkg:maven/com.google.guava/guava@20.0-rc1
+- pkg:maven/com.google.guava/guava@20.0-rc1?classifier=sources
 - pkg:maven/com.google.guava/guava@r03
 - pkg:maven/com.google.guava/guava@r03?classifier=sources
 - pkg:maven/com.google.guava/guava@r05

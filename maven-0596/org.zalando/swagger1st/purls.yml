@@ -2,3 +2,6 @@
 - pkg:maven/org.zalando/swagger1st@0.16.0
 - pkg:maven/org.zalando/swagger1st@0.16.1
 - pkg:maven/org.zalando/swagger1st@0.16.2
+- pkg:maven/org.zalando/swagger1st@0.22.0-beta1
+- pkg:maven/org.zalando/swagger1st@0.22.0-beta2
+- pkg:maven/org.zalando/swagger1st@0.22.0-beta3

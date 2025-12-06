@@ -1,0 +1,12 @@
+- pkg:maven/com.llsfw/llsfw-generator@2.0-RELEASE
+- pkg:maven/com.llsfw/llsfw-generator@2.0-RELEASE?classifier=sources
+- pkg:maven/com.llsfw/llsfw-generator@2.1-RELEASE
+- pkg:maven/com.llsfw/llsfw-generator@2.1-RELEASE?classifier=sources
+- pkg:maven/com.llsfw/llsfw-generator@2.2-RELEASE
+- pkg:maven/com.llsfw/llsfw-generator@2.2-RELEASE?classifier=sources
+- pkg:maven/com.llsfw/llsfw-generator@2.3-RELEASE
+- pkg:maven/com.llsfw/llsfw-generator@2.3-RELEASE?classifier=sources
+- pkg:maven/com.llsfw/llsfw-generator@2.3.1-RELEASE
+- pkg:maven/com.llsfw/llsfw-generator@2.3.1-RELEASE?classifier=sources
+- pkg:maven/com.llsfw/llsfw-generator@2.3.2-RELEASE
+- pkg:maven/com.llsfw/llsfw-generator@2.3.2-RELEASE?classifier=sources

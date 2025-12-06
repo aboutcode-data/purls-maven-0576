@@ -2,3 +2,13 @@
 - pkg:maven/org.webjars.npm/babel-generator@6.0.15?classifier=sources
 - pkg:maven/org.webjars.npm/babel-generator@6.1.18
 - pkg:maven/org.webjars.npm/babel-generator@6.1.18?classifier=sources
+- pkg:maven/org.webjars.npm/babel-generator@6.11.4
+- pkg:maven/org.webjars.npm/babel-generator@6.11.4?classifier=sources
+- pkg:maven/org.webjars.npm/babel-generator@6.14.0
+- pkg:maven/org.webjars.npm/babel-generator@6.14.0?classifier=sources
+- pkg:maven/org.webjars.npm/babel-generator@6.2.4
+- pkg:maven/org.webjars.npm/babel-generator@6.2.4?classifier=sources
+- pkg:maven/org.webjars.npm/babel-generator@6.4.5
+- pkg:maven/org.webjars.npm/babel-generator@6.4.5?classifier=sources
+- pkg:maven/org.webjars.npm/babel-generator@6.7.2
+- pkg:maven/org.webjars.npm/babel-generator@6.7.2?classifier=sources

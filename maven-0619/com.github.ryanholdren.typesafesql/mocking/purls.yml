@@ -1,0 +1,4 @@
+- pkg:maven/com.github.ryanholdren.typesafesql/mocking@2016-08-07
+- pkg:maven/com.github.ryanholdren.typesafesql/mocking@2016-08-07?classifier=sources
+- pkg:maven/com.github.ryanholdren.typesafesql/mocking@2016-09-30
+- pkg:maven/com.github.ryanholdren.typesafesql/mocking@2016-09-30?classifier=sources

@@ -1,3 +1,4 @@
 - pkg:maven/org.webjars/angular-ckeditor@0.2.0
 - pkg:maven/org.webjars/angular-ckeditor@0.2.0-1
 - pkg:maven/org.webjars/angular-ckeditor@0.4.1
+- pkg:maven/org.webjars/angular-ckeditor@1.0.3

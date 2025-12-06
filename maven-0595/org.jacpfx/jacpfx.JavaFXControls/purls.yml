@@ -12,6 +12,7 @@
 - pkg:maven/org.jacpfx/jacpfx.JavaFXControls@2.0.2
 - pkg:maven/org.jacpfx/jacpfx.JavaFXControls@2.0.2?classifier=sources
 - pkg:maven/org.jacpfx/jacpfx.JavaFXControls@2.0?classifier=sources
+- pkg:maven/org.jacpfx/jacpfx.JavaFXControls@2.1
 - pkg:maven/org.jacpfx/jacpfx.JavaFXControls@2.1-RC1
 - pkg:maven/org.jacpfx/jacpfx.JavaFXControls@2.1-RC1?classifier=sources
 - pkg:maven/org.jacpfx/jacpfx.JavaFXControls@2.1-RC2
@@ -22,3 +23,4 @@
 - pkg:maven/org.jacpfx/jacpfx.JavaFXControls@2.1-RC4?classifier=sources
 - pkg:maven/org.jacpfx/jacpfx.JavaFXControls@2.1-RC5
 - pkg:maven/org.jacpfx/jacpfx.JavaFXControls@2.1-RC5?classifier=sources
+- pkg:maven/org.jacpfx/jacpfx.JavaFXControls@2.1?classifier=sources

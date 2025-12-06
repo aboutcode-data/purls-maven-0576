@@ -4,3 +4,9 @@
 - pkg:maven/biz.aQute.bnd/biz.aQute.bnd.gradle@2.4.1?classifier=sources
 - pkg:maven/biz.aQute.bnd/biz.aQute.bnd.gradle@3.0.0
 - pkg:maven/biz.aQute.bnd/biz.aQute.bnd.gradle@3.0.0?classifier=sources
+- pkg:maven/biz.aQute.bnd/biz.aQute.bnd.gradle@3.1.0
+- pkg:maven/biz.aQute.bnd/biz.aQute.bnd.gradle@3.1.0?classifier=sources
+- pkg:maven/biz.aQute.bnd/biz.aQute.bnd.gradle@3.2.0
+- pkg:maven/biz.aQute.bnd/biz.aQute.bnd.gradle@3.2.0?classifier=sources
+- pkg:maven/biz.aQute.bnd/biz.aQute.bnd.gradle@3.3.0
+- pkg:maven/biz.aQute.bnd/biz.aQute.bnd.gradle@3.3.0?classifier=sources

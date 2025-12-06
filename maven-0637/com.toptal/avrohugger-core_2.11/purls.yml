@@ -1,0 +1,8 @@
+- pkg:maven/com.toptal/avrohugger-core_2.11@0.11.1
+- pkg:maven/com.toptal/avrohugger-core_2.11@0.11.1?classifier=sources
+- pkg:maven/com.toptal/avrohugger-core_2.11@0.9.10
+- pkg:maven/com.toptal/avrohugger-core_2.11@0.9.10?classifier=sources
+- pkg:maven/com.toptal/avrohugger-core_2.11@0.9.15
+- pkg:maven/com.toptal/avrohugger-core_2.11@0.9.15?classifier=sources
+- pkg:maven/com.toptal/avrohugger-core_2.11@0.9.17
+- pkg:maven/com.toptal/avrohugger-core_2.11@0.9.17?classifier=sources

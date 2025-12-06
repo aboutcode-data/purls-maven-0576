@@ -1,0 +1,2 @@
+- pkg:maven/org.irenical.bit/bit@1.0.0
+- pkg:maven/org.irenical.bit/bit@1.0.0?classifier=sources

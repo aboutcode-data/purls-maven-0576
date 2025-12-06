@@ -1,0 +1,2 @@
+- pkg:maven/org.isisaddons.module.pdfbox/isis-module-pdfbox-dom@1.13.0
+- pkg:maven/org.isisaddons.module.pdfbox/isis-module-pdfbox-dom@1.13.0?classifier=sources

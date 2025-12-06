@@ -1,2 +1,8 @@
 - pkg:maven/com.sshtools/j2ssh-maverick@1.5.2
 - pkg:maven/com.sshtools/j2ssh-maverick@1.5.2?classifier=sources
+- pkg:maven/com.sshtools/j2ssh-maverick@1.5.3
+- pkg:maven/com.sshtools/j2ssh-maverick@1.5.3?classifier=sources
+- pkg:maven/com.sshtools/j2ssh-maverick@1.5.4
+- pkg:maven/com.sshtools/j2ssh-maverick@1.5.4?classifier=sources
+- pkg:maven/com.sshtools/j2ssh-maverick@1.5.5
+- pkg:maven/com.sshtools/j2ssh-maverick@1.5.5?classifier=sources

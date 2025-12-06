@@ -1,3 +1,5 @@
+- pkg:maven/org.amebastack.module/ameba-dev@0.1.10
+- pkg:maven/org.amebastack.module/ameba-dev@0.1.10?classifier=sources
 - pkg:maven/org.amebastack.module/ameba-dev@0.1.6
 - pkg:maven/org.amebastack.module/ameba-dev@0.1.6?classifier=sources
 - pkg:maven/org.amebastack.module/ameba-dev@0.1.6a
@@ -12,3 +14,7 @@
 - pkg:maven/org.amebastack.module/ameba-dev@0.1.7.Alpha1?classifier=sources
 - pkg:maven/org.amebastack.module/ameba-dev@0.1.7.Alpha2
 - pkg:maven/org.amebastack.module/ameba-dev@0.1.7.Alpha2?classifier=sources
+- pkg:maven/org.amebastack.module/ameba-dev@0.1.8
+- pkg:maven/org.amebastack.module/ameba-dev@0.1.8?classifier=sources
+- pkg:maven/org.amebastack.module/ameba-dev@0.1.9
+- pkg:maven/org.amebastack.module/ameba-dev@0.1.9?classifier=sources

@@ -11,6 +11,8 @@
 - pkg:maven/org.webjars/jquery-atmosphere@2.1.5?classifier=sources
 - pkg:maven/org.webjars/jquery-atmosphere@2.1.6
 - pkg:maven/org.webjars/jquery-atmosphere@2.1.6?classifier=sources
+- pkg:maven/org.webjars/jquery-atmosphere@2.2.13
+- pkg:maven/org.webjars/jquery-atmosphere@2.2.13?classifier=sources
 - pkg:maven/org.webjars/jquery-atmosphere@2.2.3
 - pkg:maven/org.webjars/jquery-atmosphere@2.2.3?classifier=sources
 - pkg:maven/org.webjars/jquery-atmosphere@2.2.7

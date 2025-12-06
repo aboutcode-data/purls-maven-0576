@@ -1,0 +1,4 @@
+- pkg:maven/com.moz.kiji.mapreduce/kiji-mapreduce@3.0.0
+- pkg:maven/com.moz.kiji.mapreduce/kiji-mapreduce@3.0.0?classifier=sources
+- pkg:maven/com.moz.kiji.mapreduce/kiji-mapreduce@3.0.1
+- pkg:maven/com.moz.kiji.mapreduce/kiji-mapreduce@3.0.1?classifier=sources

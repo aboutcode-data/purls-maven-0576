@@ -34,3 +34,13 @@
 - pkg:maven/com.google.cloud.dataflow/google-cloud-dataflow-java-proto-library-all@0.4.151111?classifier=sources
 - pkg:maven/com.google.cloud.dataflow/google-cloud-dataflow-java-proto-library-all@0.4.151117
 - pkg:maven/com.google.cloud.dataflow/google-cloud-dataflow-java-proto-library-all@0.4.151117?classifier=sources
+- pkg:maven/com.google.cloud.dataflow/google-cloud-dataflow-java-proto-library-all@0.4.160120
+- pkg:maven/com.google.cloud.dataflow/google-cloud-dataflow-java-proto-library-all@0.4.160120?classifier=sources
+- pkg:maven/com.google.cloud.dataflow/google-cloud-dataflow-java-proto-library-all@0.5.160121
+- pkg:maven/com.google.cloud.dataflow/google-cloud-dataflow-java-proto-library-all@0.5.160121?classifier=sources
+- pkg:maven/com.google.cloud.dataflow/google-cloud-dataflow-java-proto-library-all@0.5.160127
+- pkg:maven/com.google.cloud.dataflow/google-cloud-dataflow-java-proto-library-all@0.5.160127?classifier=sources
+- pkg:maven/com.google.cloud.dataflow/google-cloud-dataflow-java-proto-library-all@0.5.160222
+- pkg:maven/com.google.cloud.dataflow/google-cloud-dataflow-java-proto-library-all@0.5.160222?classifier=sources
+- pkg:maven/com.google.cloud.dataflow/google-cloud-dataflow-java-proto-library-all@0.5.160304
+- pkg:maven/com.google.cloud.dataflow/google-cloud-dataflow-java-proto-library-all@0.5.160304?classifier=sources

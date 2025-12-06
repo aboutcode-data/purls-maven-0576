@@ -1,0 +1,8 @@
+- pkg:maven/de.julielab/jcore-xmi-writer@2.0.0
+- pkg:maven/de.julielab/jcore-xmi-writer@2.0.0?classifier=sources
+- pkg:maven/de.julielab/jcore-xmi-writer@2.1.0
+- pkg:maven/de.julielab/jcore-xmi-writer@2.1.0?classifier=sources
+- pkg:maven/de.julielab/jcore-xmi-writer@2.2.0
+- pkg:maven/de.julielab/jcore-xmi-writer@2.2.0?classifier=sources
+- pkg:maven/de.julielab/jcore-xmi-writer@2.2.1
+- pkg:maven/de.julielab/jcore-xmi-writer@2.2.1?classifier=sources

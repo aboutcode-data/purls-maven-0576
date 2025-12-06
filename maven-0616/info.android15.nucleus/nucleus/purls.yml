@@ -44,3 +44,17 @@
 - pkg:maven/info.android15.nucleus/nucleus@2.0.3?classifier=sources
 - pkg:maven/info.android15.nucleus/nucleus@2.0.4
 - pkg:maven/info.android15.nucleus/nucleus@2.0.4?classifier=sources
+- pkg:maven/info.android15.nucleus/nucleus@2.0.5
+- pkg:maven/info.android15.nucleus/nucleus@2.0.5?classifier=sources
+- pkg:maven/info.android15.nucleus/nucleus@2.0.5beta
+- pkg:maven/info.android15.nucleus/nucleus@2.0.5beta?classifier=sources
+- pkg:maven/info.android15.nucleus/nucleus@2.0.6
+- pkg:maven/info.android15.nucleus/nucleus@2.0.6?classifier=sources
+- pkg:maven/info.android15.nucleus/nucleus@3.0.0
+- pkg:maven/info.android15.nucleus/nucleus@3.0.0-beta
+- pkg:maven/info.android15.nucleus/nucleus@3.0.0-beta?classifier=sources
+- pkg:maven/info.android15.nucleus/nucleus@3.0.0?classifier=sources
+- pkg:maven/info.android15.nucleus/nucleus@3.0.1
+- pkg:maven/info.android15.nucleus/nucleus@3.0.1?classifier=sources
+- pkg:maven/info.android15.nucleus/nucleus@4.0.0
+- pkg:maven/info.android15.nucleus/nucleus@4.0.0?classifier=sources

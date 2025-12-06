@@ -8,3 +8,4 @@
 - pkg:maven/org.randombits.storage/storage@5.3.1?classifier=sources
 - pkg:maven/org.randombits.storage/storage@5.3.2?classifier=sources
 - pkg:maven/org.randombits.storage/storage@5.4.0?classifier=sources
+- pkg:maven/org.randombits.storage/storage@5.5.0?classifier=sources

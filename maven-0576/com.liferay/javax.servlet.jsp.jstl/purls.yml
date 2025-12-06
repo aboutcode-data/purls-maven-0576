@@ -1,0 +1,4 @@
+- pkg:maven/com.liferay/javax.servlet.jsp.jstl@1.2.3.LIFERAY-PATCHED-1
+- pkg:maven/com.liferay/javax.servlet.jsp.jstl@1.2.3.LIFERAY-PATCHED-1?classifier=sources
+- pkg:maven/com.liferay/javax.servlet.jsp.jstl@1.2.3.LIFERAY-PATCHED-2
+- pkg:maven/com.liferay/javax.servlet.jsp.jstl@1.2.3.LIFERAY-PATCHED-2?classifier=sources

@@ -16,3 +16,6 @@
 - pkg:maven/org.apache.aries.subsystem/org.apache.aries.subsystem@2.0.6
 - pkg:maven/org.apache.aries.subsystem/org.apache.aries.subsystem@2.0.6?classifier=source-release&type=zip
 - pkg:maven/org.apache.aries.subsystem/org.apache.aries.subsystem@2.0.6?classifier=sources
+- pkg:maven/org.apache.aries.subsystem/org.apache.aries.subsystem@2.0.8
+- pkg:maven/org.apache.aries.subsystem/org.apache.aries.subsystem@2.0.8?classifier=source-release&type=zip
+- pkg:maven/org.apache.aries.subsystem/org.apache.aries.subsystem@2.0.8?classifier=sources

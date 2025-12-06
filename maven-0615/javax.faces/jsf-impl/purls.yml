@@ -1,5 +1,7 @@
 - pkg:maven/javax.faces/jsf-impl@1.1_02
 - pkg:maven/javax.faces/jsf-impl@1.2
+- pkg:maven/javax.faces/jsf-impl@1.2-20
+- pkg:maven/javax.faces/jsf-impl@1.2-20?classifier=sources
 - pkg:maven/javax.faces/jsf-impl@1.2-NIGHTLY_20060227
 - pkg:maven/javax.faces/jsf-impl@1.2-b19
 - pkg:maven/javax.faces/jsf-impl@1.2?classifier=sources
@@ -23,6 +25,8 @@
 - pkg:maven/javax.faces/jsf-impl@1.2_08
 - pkg:maven/javax.faces/jsf-impl@1.2_08?classifier=sources
 - pkg:maven/javax.faces/jsf-impl@1.2_09
+- pkg:maven/javax.faces/jsf-impl@1.2_09-03
+- pkg:maven/javax.faces/jsf-impl@1.2_09-03?classifier=sources
 - pkg:maven/javax.faces/jsf-impl@1.2_09-BETA1
 - pkg:maven/javax.faces/jsf-impl@1.2_09-BETA1?classifier=sources
 - pkg:maven/javax.faces/jsf-impl@1.2_09?classifier=sources
@@ -39,6 +43,8 @@
 - pkg:maven/javax.faces/jsf-impl@1.2_14
 - pkg:maven/javax.faces/jsf-impl@1.2_14?classifier=sources
 - pkg:maven/javax.faces/jsf-impl@1.2_15
+- pkg:maven/javax.faces/jsf-impl@1.2_15-03
+- pkg:maven/javax.faces/jsf-impl@1.2_15-03?classifier=sources
 - pkg:maven/javax.faces/jsf-impl@1.2_15-B02
 - pkg:maven/javax.faces/jsf-impl@1.2_15-B02?classifier=sources
 - pkg:maven/javax.faces/jsf-impl@1.2_15?classifier=sources

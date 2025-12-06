@@ -1,0 +1,2 @@
+- pkg:maven/org.smartdeveloperhub.testing/sdh-testing-hamcrest@0.1.0
+- pkg:maven/org.smartdeveloperhub.testing/sdh-testing-hamcrest@0.1.0?classifier=sources

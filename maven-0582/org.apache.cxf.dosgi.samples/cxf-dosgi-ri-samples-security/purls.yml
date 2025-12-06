@@ -1,2 +1,3 @@
 - pkg:maven/org.apache.cxf.dosgi.samples/cxf-dosgi-ri-samples-security@1.6.0
 - pkg:maven/org.apache.cxf.dosgi.samples/cxf-dosgi-ri-samples-security@1.7.0
+- pkg:maven/org.apache.cxf.dosgi.samples/cxf-dosgi-ri-samples-security@1.8.0

@@ -1,0 +1,4 @@
+- pkg:maven/com.github.pleomax00/sdk@1.0.2.0?classifier=sources
+- pkg:maven/com.github.pleomax00/sdk@1.0.2.0?type=aar
+- pkg:maven/com.github.pleomax00/sdk@1.0.2?classifier=sources
+- pkg:maven/com.github.pleomax00/sdk@1.0.2?type=aar

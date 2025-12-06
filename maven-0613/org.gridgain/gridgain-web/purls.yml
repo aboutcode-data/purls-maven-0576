@@ -42,3 +42,7 @@
 - pkg:maven/org.gridgain/gridgain-web@6.6.8-p1
 - pkg:maven/org.gridgain/gridgain-web@6.6.8-p1?classifier=sources
 - pkg:maven/org.gridgain/gridgain-web@6.6.8?classifier=sources
+- pkg:maven/org.gridgain/gridgain-web@6.6.9
+- pkg:maven/org.gridgain/gridgain-web@6.6.9-p1
+- pkg:maven/org.gridgain/gridgain-web@6.6.9-p1?classifier=sources
+- pkg:maven/org.gridgain/gridgain-web@6.6.9?classifier=sources

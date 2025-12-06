@@ -12,6 +12,12 @@
 - pkg:maven/org.apidesign.bck2brwsr/launcher.http@0.15?classifier=sources
 - pkg:maven/org.apidesign.bck2brwsr/launcher.http@0.16
 - pkg:maven/org.apidesign.bck2brwsr/launcher.http@0.16?classifier=sources
+- pkg:maven/org.apidesign.bck2brwsr/launcher.http@0.17
+- pkg:maven/org.apidesign.bck2brwsr/launcher.http@0.17?classifier=sources
+- pkg:maven/org.apidesign.bck2brwsr/launcher.http@0.18
+- pkg:maven/org.apidesign.bck2brwsr/launcher.http@0.18?classifier=sources
+- pkg:maven/org.apidesign.bck2brwsr/launcher.http@0.19
+- pkg:maven/org.apidesign.bck2brwsr/launcher.http@0.19?classifier=sources
 - pkg:maven/org.apidesign.bck2brwsr/launcher.http@0.7
 - pkg:maven/org.apidesign.bck2brwsr/launcher.http@0.7.1
 - pkg:maven/org.apidesign.bck2brwsr/launcher.http@0.7.1?classifier=sources

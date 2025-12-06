@@ -1,0 +1,4 @@
+- pkg:maven/com.javaetmoi.util/javaetmoi-javabean-marshaller@1.0.0
+- pkg:maven/com.javaetmoi.util/javaetmoi-javabean-marshaller@1.0.0?classifier=sources
+- pkg:maven/com.javaetmoi.util/javaetmoi-javabean-marshaller@1.0.1
+- pkg:maven/com.javaetmoi.util/javaetmoi-javabean-marshaller@1.0.1?classifier=sources

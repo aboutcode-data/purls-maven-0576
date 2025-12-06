@@ -1,0 +1,2 @@
+- pkg:maven/com.android.tools.analytics-library/protos@25.2.0
+- pkg:maven/com.android.tools.analytics-library/protos@25.2.0?classifier=sources

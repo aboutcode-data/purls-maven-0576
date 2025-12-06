@@ -1,0 +1,2 @@
+- pkg:maven/com.khubla.pragmatach/controllertester@1.40
+- pkg:maven/com.khubla.pragmatach/controllertester@1.40?classifier=sources

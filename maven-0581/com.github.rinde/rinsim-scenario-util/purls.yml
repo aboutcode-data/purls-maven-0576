@@ -16,3 +16,7 @@
 - pkg:maven/com.github.rinde/rinsim-scenario-util@3.2.4?classifier=sources
 - pkg:maven/com.github.rinde/rinsim-scenario-util@4.0.0
 - pkg:maven/com.github.rinde/rinsim-scenario-util@4.0.0?classifier=sources
+- pkg:maven/com.github.rinde/rinsim-scenario-util@4.1.0
+- pkg:maven/com.github.rinde/rinsim-scenario-util@4.1.0?classifier=sources
+- pkg:maven/com.github.rinde/rinsim-scenario-util@4.1.1
+- pkg:maven/com.github.rinde/rinsim-scenario-util@4.1.1?classifier=sources

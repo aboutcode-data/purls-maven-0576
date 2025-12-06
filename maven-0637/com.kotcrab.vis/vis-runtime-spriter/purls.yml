@@ -1,0 +1,4 @@
+- pkg:maven/com.kotcrab.vis/vis-runtime-spriter@0.3.3
+- pkg:maven/com.kotcrab.vis/vis-runtime-spriter@0.3.3?classifier=sources
+- pkg:maven/com.kotcrab.vis/vis-runtime-spriter@0.3.4
+- pkg:maven/com.kotcrab.vis/vis-runtime-spriter@0.3.4?classifier=sources

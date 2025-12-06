@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.bower/bootstrap-submenu@1.2.13?classifier=sources
 - pkg:maven/org.webjars.bower/bootstrap-submenu@2.0.0
 - pkg:maven/org.webjars.bower/bootstrap-submenu@2.0.0?classifier=sources
+- pkg:maven/org.webjars.bower/bootstrap-submenu@2.0.4
+- pkg:maven/org.webjars.bower/bootstrap-submenu@2.0.4?classifier=sources

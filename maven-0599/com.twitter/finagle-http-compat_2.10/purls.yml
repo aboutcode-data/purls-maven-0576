@@ -1,2 +1,10 @@
 - pkg:maven/com.twitter/finagle-http-compat_2.10@6.30.0
 - pkg:maven/com.twitter/finagle-http-compat_2.10@6.30.0?classifier=sources
+- pkg:maven/com.twitter/finagle-http-compat_2.10@6.31.0
+- pkg:maven/com.twitter/finagle-http-compat_2.10@6.31.0?classifier=sources
+- pkg:maven/com.twitter/finagle-http-compat_2.10@6.33.0
+- pkg:maven/com.twitter/finagle-http-compat_2.10@6.33.0?classifier=sources
+- pkg:maven/com.twitter/finagle-http-compat_2.10@6.34.0
+- pkg:maven/com.twitter/finagle-http-compat_2.10@6.34.0?classifier=sources
+- pkg:maven/com.twitter/finagle-http-compat_2.10@6.35.0
+- pkg:maven/com.twitter/finagle-http-compat_2.10@6.35.0?classifier=sources

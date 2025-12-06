@@ -1,0 +1,2 @@
+- pkg:maven/me.angrybyte.picker/picker@1.2.0?classifier=sources
+- pkg:maven/me.angrybyte.picker/picker@1.2.0?type=aar

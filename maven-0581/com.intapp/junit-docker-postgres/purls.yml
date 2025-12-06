@@ -1,0 +1,2 @@
+- pkg:maven/com.intapp/junit-docker-postgres@1.1
+- pkg:maven/com.intapp/junit-docker-postgres@1.1?classifier=sources

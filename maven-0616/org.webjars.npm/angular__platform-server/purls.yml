@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars.npm/angular__platform-server@2.0.0
+- pkg:maven/org.webjars.npm/angular__platform-server@2.0.0-rc.6
+- pkg:maven/org.webjars.npm/angular__platform-server@2.0.0-rc.6?classifier=sources
+- pkg:maven/org.webjars.npm/angular__platform-server@2.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/angular__platform-server@2.1.0
+- pkg:maven/org.webjars.npm/angular__platform-server@2.1.0?classifier=sources

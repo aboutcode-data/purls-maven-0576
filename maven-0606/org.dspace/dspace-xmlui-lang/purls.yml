@@ -33,3 +33,8 @@
 - pkg:maven/org.dspace/dspace-xmlui-lang@5.0.4?type=war
 - pkg:maven/org.dspace/dspace-xmlui-lang@5.0.5?type=war
 - pkg:maven/org.dspace/dspace-xmlui-lang@5.0.6?type=war
+- pkg:maven/org.dspace/dspace-xmlui-lang@5.0.7?type=war
+- pkg:maven/org.dspace/dspace-xmlui-lang@6.0.0?type=war
+- pkg:maven/org.dspace/dspace-xmlui-lang@6.0.1?type=war
+- pkg:maven/org.dspace/dspace-xmlui-lang@6.0.2?type=war
+- pkg:maven/org.dspace/dspace-xmlui-lang@6.0.3?type=war

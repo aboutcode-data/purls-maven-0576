@@ -1,0 +1,4 @@
+- pkg:maven/io.github.dispalt/vdom_sjs0.6_2.11@0.1.7
+- pkg:maven/io.github.dispalt/vdom_sjs0.6_2.11@0.1.7?classifier=sources
+- pkg:maven/io.github.dispalt/vdom_sjs0.6_2.11@0.1.8
+- pkg:maven/io.github.dispalt/vdom_sjs0.6_2.11@0.1.8?classifier=sources

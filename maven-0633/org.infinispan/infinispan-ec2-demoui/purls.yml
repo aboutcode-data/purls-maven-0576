@@ -96,6 +96,8 @@
 - pkg:maven/org.infinispan/infinispan-ec2-demoui@5.2.14.Final?type=war
 - pkg:maven/org.infinispan/infinispan-ec2-demoui@5.2.15.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-ec2-demoui@5.2.15.Final?type=war
+- pkg:maven/org.infinispan/infinispan-ec2-demoui@5.2.18.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-ec2-demoui@5.2.18.Final?type=war
 - pkg:maven/org.infinispan/infinispan-ec2-demoui@5.2.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-ec2-demoui@5.2.2.Final?type=war
 - pkg:maven/org.infinispan/infinispan-ec2-demoui@5.2.3.Final?classifier=sources

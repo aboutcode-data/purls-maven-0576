@@ -1,0 +1,2 @@
+- pkg:maven/org.webpieces/http1_1-parser@1.9.36
+- pkg:maven/org.webpieces/http1_1-parser@1.9.36?classifier=sources

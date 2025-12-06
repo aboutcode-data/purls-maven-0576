@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/angular-hashtagify@0.0.2
+- pkg:maven/org.webjars.npm/angular-hashtagify@0.0.2?classifier=sources

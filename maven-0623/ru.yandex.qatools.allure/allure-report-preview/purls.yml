@@ -7,4 +7,13 @@
 - pkg:maven/ru.yandex.qatools.allure/allure-report-preview@1.4.17
 - pkg:maven/ru.yandex.qatools.allure/allure-report-preview@1.4.18
 - pkg:maven/ru.yandex.qatools.allure/allure-report-preview@1.4.19
+- pkg:maven/ru.yandex.qatools.allure/allure-report-preview@1.4.20
+- pkg:maven/ru.yandex.qatools.allure/allure-report-preview@1.4.21
+- pkg:maven/ru.yandex.qatools.allure/allure-report-preview@1.4.22
+- pkg:maven/ru.yandex.qatools.allure/allure-report-preview@1.4.23
+- pkg:maven/ru.yandex.qatools.allure/allure-report-preview@1.4.23.HOTFIX1
+- pkg:maven/ru.yandex.qatools.allure/allure-report-preview@1.4.24.RC1
+- pkg:maven/ru.yandex.qatools.allure/allure-report-preview@1.4.24.RC2
+- pkg:maven/ru.yandex.qatools.allure/allure-report-preview@1.4.24.RC3
 - pkg:maven/ru.yandex.qatools.allure/allure-report-preview@1.5.0-RC1
+- pkg:maven/ru.yandex.qatools.allure/allure-report-preview@1.5.0.RC2

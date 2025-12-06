@@ -1,0 +1,2 @@
+- pkg:maven/de.xn--ho-hia.quality/suppress-warnings@4.0.0-20160619211629
+- pkg:maven/de.xn--ho-hia.quality/suppress-warnings@4.0.0-20160619211629?classifier=sources

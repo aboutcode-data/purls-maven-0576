@@ -1,0 +1,2 @@
+- pkg:maven/com.myjavadoc/hibernate4-maven-plugin@1.0.Beta1
+- pkg:maven/com.myjavadoc/hibernate4-maven-plugin@1.0.Beta1?classifier=sources

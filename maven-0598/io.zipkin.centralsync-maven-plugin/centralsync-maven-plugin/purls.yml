@@ -1,0 +1,2 @@
+- pkg:maven/io.zipkin.centralsync-maven-plugin/centralsync-maven-plugin@0.1.0
+- pkg:maven/io.zipkin.centralsync-maven-plugin/centralsync-maven-plugin@0.1.0?classifier=sources

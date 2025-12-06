@@ -1,0 +1,4 @@
+- pkg:maven/com.lightbend.constructr/constructr-zookeeper-root_2.11@0.1.0
+- pkg:maven/com.lightbend.constructr/constructr-zookeeper-root_2.11@0.1.0?classifier=sources
+- pkg:maven/com.lightbend.constructr/constructr-zookeeper-root_2.11@0.1.1
+- pkg:maven/com.lightbend.constructr/constructr-zookeeper-root_2.11@0.1.1?classifier=sources

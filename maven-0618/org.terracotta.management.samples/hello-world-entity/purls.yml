@@ -1,0 +1,2 @@
+- pkg:maven/org.terracotta.management.samples/hello-world-entity@2.5.0
+- pkg:maven/org.terracotta.management.samples/hello-world-entity@2.5.0?classifier=sources

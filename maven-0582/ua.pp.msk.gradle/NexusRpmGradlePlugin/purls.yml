@@ -1,0 +1,2 @@
+- pkg:maven/ua.pp.msk.gradle/NexusRpmGradlePlugin@1.0.0
+- pkg:maven/ua.pp.msk.gradle/NexusRpmGradlePlugin@1.0.0?classifier=sources

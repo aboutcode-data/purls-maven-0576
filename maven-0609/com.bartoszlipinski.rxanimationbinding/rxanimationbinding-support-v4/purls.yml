@@ -1,0 +1,2 @@
+- pkg:maven/com.bartoszlipinski.rxanimationbinding/rxanimationbinding-support-v4@1.1.0?classifier=sources
+- pkg:maven/com.bartoszlipinski.rxanimationbinding/rxanimationbinding-support-v4@1.1.0?type=aar

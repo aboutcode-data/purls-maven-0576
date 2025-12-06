@@ -1,1 +1,2 @@
 - pkg:maven/de.nierbeck.cassandra/Karaf-Cassandra-Feature@1.0.0?classifier=sources
+- pkg:maven/de.nierbeck.cassandra/Karaf-Cassandra-Feature@1.0.1?classifier=sources

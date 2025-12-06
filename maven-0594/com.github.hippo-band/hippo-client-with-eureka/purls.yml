@@ -1,0 +1,2 @@
+- pkg:maven/com.github.hippo-band/hippo-client-with-eureka@0.0.1
+- pkg:maven/com.github.hippo-band/hippo-client-with-eureka@0.0.1?classifier=sources

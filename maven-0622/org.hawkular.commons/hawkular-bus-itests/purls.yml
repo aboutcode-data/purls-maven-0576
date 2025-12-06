@@ -1,0 +1,10 @@
+- pkg:maven/org.hawkular.commons/hawkular-bus-itests@0.3.0.Final
+- pkg:maven/org.hawkular.commons/hawkular-bus-itests@0.3.1.Final
+- pkg:maven/org.hawkular.commons/hawkular-bus-itests@0.3.2.Final
+- pkg:maven/org.hawkular.commons/hawkular-bus-itests@0.3.3.Final
+- pkg:maven/org.hawkular.commons/hawkular-bus-itests@0.3.4.Final
+- pkg:maven/org.hawkular.commons/hawkular-bus-itests@0.3.5.Final
+- pkg:maven/org.hawkular.commons/hawkular-bus-itests@0.4.0.Final
+- pkg:maven/org.hawkular.commons/hawkular-bus-itests@0.5.0.Final
+- pkg:maven/org.hawkular.commons/hawkular-bus-itests@0.6.0.Final
+- pkg:maven/org.hawkular.commons/hawkular-bus-itests@0.6.1.Final

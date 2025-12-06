@@ -54,6 +54,10 @@
 - pkg:maven/com.jcabi/jcabi-log@0.16
 - pkg:maven/com.jcabi/jcabi-log@0.16?classifier=sources
 - pkg:maven/com.jcabi/jcabi-log@0.17
+- pkg:maven/com.jcabi/jcabi-log@0.17.1
+- pkg:maven/com.jcabi/jcabi-log@0.17.1?classifier=sources
+- pkg:maven/com.jcabi/jcabi-log@0.17.2
+- pkg:maven/com.jcabi/jcabi-log@0.17.2?classifier=sources
 - pkg:maven/com.jcabi/jcabi-log@0.17?classifier=sources
 - pkg:maven/com.jcabi/jcabi-log@0.1?classifier=sources
 - pkg:maven/com.jcabi/jcabi-log@0.2.0

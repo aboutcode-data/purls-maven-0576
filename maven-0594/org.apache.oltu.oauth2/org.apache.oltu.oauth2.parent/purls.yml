@@ -1,3 +1,4 @@
 - pkg:maven/org.apache.oltu.oauth2/org.apache.oltu.oauth2.parent@0.31?classifier=source-release&type=zip
 - pkg:maven/org.apache.oltu.oauth2/org.apache.oltu.oauth2.parent@1.0.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.oltu.oauth2/org.apache.oltu.oauth2.parent@1.0.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.oltu.oauth2/org.apache.oltu.oauth2.parent@1.0.2?classifier=source-release&type=zip

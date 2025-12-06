@@ -1,0 +1,2 @@
+- pkg:maven/com.github.tkrs/fluflu-sf_2.11@0.5.3
+- pkg:maven/com.github.tkrs/fluflu-sf_2.11@0.5.3?classifier=sources

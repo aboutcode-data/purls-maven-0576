@@ -1,0 +1,6 @@
+- pkg:maven/org.hspconsortium.reference/hspc-reference-api@0.10?classifier=sources
+- pkg:maven/org.hspconsortium.reference/hspc-reference-api@0.10?type=war
+- pkg:maven/org.hspconsortium.reference/hspc-reference-api@0.9?classifier=sources
+- pkg:maven/org.hspconsortium.reference/hspc-reference-api@0.9?type=war
+- pkg:maven/org.hspconsortium.reference/hspc-reference-api@1.0?classifier=sources
+- pkg:maven/org.hspconsortium.reference/hspc-reference-api@1.0?type=war

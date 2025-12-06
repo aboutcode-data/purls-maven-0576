@@ -1,0 +1,2 @@
+- pkg:maven/com.tmsps.util/desutil@1.0
+- pkg:maven/com.tmsps.util/desutil@1.0?classifier=sources

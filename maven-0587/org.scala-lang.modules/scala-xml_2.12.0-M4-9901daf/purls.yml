@@ -1,0 +1,2 @@
+- pkg:maven/org.scala-lang.modules/scala-xml_2.12.0-M4-9901daf@1.0.5
+- pkg:maven/org.scala-lang.modules/scala-xml_2.12.0-M4-9901daf@1.0.5?classifier=sources

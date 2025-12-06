@@ -1,0 +1,2 @@
+- pkg:maven/me.hz89.library/swipeback@1.0.1?classifier=sources
+- pkg:maven/me.hz89.library/swipeback@1.0.1?type=aar

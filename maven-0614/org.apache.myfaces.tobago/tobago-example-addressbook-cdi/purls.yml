@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.myfaces.tobago/tobago-example-addressbook-cdi@2.0.10?classifier=sources
+- pkg:maven/org.apache.myfaces.tobago/tobago-example-addressbook-cdi@2.0.10?type=war
+- pkg:maven/org.apache.myfaces.tobago/tobago-example-addressbook-cdi@2.0.9?classifier=sources
+- pkg:maven/org.apache.myfaces.tobago/tobago-example-addressbook-cdi@2.0.9?type=war

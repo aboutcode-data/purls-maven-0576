@@ -1,0 +1,4 @@
+- pkg:maven/net.kenro-ji-jin/erika_2.11@30
+- pkg:maven/net.kenro-ji-jin/erika_2.11@30?classifier=sources
+- pkg:maven/net.kenro-ji-jin/erika_2.11@36
+- pkg:maven/net.kenro-ji-jin/erika_2.11@36?classifier=sources

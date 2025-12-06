@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/create-hash@1.1.2
+- pkg:maven/org.webjars.npm/create-hash@1.1.2?classifier=sources

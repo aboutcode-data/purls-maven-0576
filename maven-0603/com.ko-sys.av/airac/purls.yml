@@ -1,0 +1,4 @@
+- pkg:maven/com.ko-sys.av/airac@0.10.2
+- pkg:maven/com.ko-sys.av/airac@0.10.2?classifier=sources
+- pkg:maven/com.ko-sys.av/airac@1.0.0
+- pkg:maven/com.ko-sys.av/airac@1.0.0?classifier=sources

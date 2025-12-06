@@ -1,0 +1,2 @@
+- pkg:maven/io.openbouquet/bouquet-server@4.2.0?classifier=sources
+- pkg:maven/io.openbouquet/bouquet-server@4.2.0?type=war

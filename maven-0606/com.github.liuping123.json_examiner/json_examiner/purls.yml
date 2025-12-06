@@ -1,0 +1,2 @@
+- pkg:maven/com.github.liuping123.json_examiner/json_examiner@0.0.1?classifier=sources
+- pkg:maven/com.github.liuping123.json_examiner/json_examiner@0.0.1?type=aar

@@ -1,0 +1,4 @@
+- pkg:maven/stream.alwaysbecrafting/flare@1.0.0-alpha1
+- pkg:maven/stream.alwaysbecrafting/flare@1.0.0-alpha1?classifier=sources
+- pkg:maven/stream.alwaysbecrafting/flare@1.0.0-alpha2
+- pkg:maven/stream.alwaysbecrafting/flare@1.0.0-alpha2?classifier=sources

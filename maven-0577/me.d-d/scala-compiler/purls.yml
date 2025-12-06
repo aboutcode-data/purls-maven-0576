@@ -30,6 +30,8 @@
 - pkg:maven/me.d-d/scala-compiler@2.11.5-20150929-163701-ccbac24726?classifier=sources
 - pkg:maven/me.d-d/scala-compiler@2.11.5-20151022-113908-7fb0e653fd
 - pkg:maven/me.d-d/scala-compiler@2.11.5-20151022-113908-7fb0e653fd?classifier=sources
+- pkg:maven/me.d-d/scala-compiler@2.11.5-20160322-171045-e19b30b3cd
+- pkg:maven/me.d-d/scala-compiler@2.11.5-20160322-171045-e19b30b3cd?classifier=sources
 - pkg:maven/me.d-d/scala-compiler@2.11.5.20141127-151222-084cc06425
 - pkg:maven/me.d-d/scala-compiler@2.11.5.20141127-151222-084cc06425?classifier=sources
 - pkg:maven/me.d-d/scala-compiler@2.11.5.v20141127-151222-084cc06425

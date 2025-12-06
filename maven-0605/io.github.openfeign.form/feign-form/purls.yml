@@ -1,0 +1,2 @@
+- pkg:maven/io.github.openfeign.form/feign-form@2.0.2
+- pkg:maven/io.github.openfeign.form/feign-form@2.0.2?classifier=sources

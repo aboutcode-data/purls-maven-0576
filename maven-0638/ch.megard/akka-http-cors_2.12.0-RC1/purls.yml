@@ -1,0 +1,2 @@
+- pkg:maven/ch.megard/akka-http-cors_2.12.0-RC1@0.1.7
+- pkg:maven/ch.megard/akka-http-cors_2.12.0-RC1@0.1.7?classifier=sources

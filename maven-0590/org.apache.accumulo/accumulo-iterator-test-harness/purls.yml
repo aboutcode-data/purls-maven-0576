@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.accumulo/accumulo-iterator-test-harness@1.8.0
+- pkg:maven/org.apache.accumulo/accumulo-iterator-test-harness@1.8.0?classifier=sources

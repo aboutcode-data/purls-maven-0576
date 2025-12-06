@@ -1,0 +1,2 @@
+- pkg:maven/com.ibm.watson.developer_cloud/retrieve-and-rank@3.4.0
+- pkg:maven/com.ibm.watson.developer_cloud/retrieve-and-rank@3.4.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.error418.properties/markdown-properties@0.0.2
+- pkg:maven/com.github.error418.properties/markdown-properties@0.0.2?classifier=sources

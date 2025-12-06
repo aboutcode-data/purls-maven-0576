@@ -1,0 +1,10 @@
+- pkg:maven/org.apache.tomee/examples@7.0.0-M1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.tomee/examples@7.0.0-M1?classifier=src&type=zip
+- pkg:maven/org.apache.tomee/examples@7.0.0-M2?classifier=src&type=tar.gz
+- pkg:maven/org.apache.tomee/examples@7.0.0-M2?classifier=src&type=zip
+- pkg:maven/org.apache.tomee/examples@7.0.0-M3?classifier=src&type=tar.gz
+- pkg:maven/org.apache.tomee/examples@7.0.0-M3?classifier=src&type=zip
+- pkg:maven/org.apache.tomee/examples@7.0.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.tomee/examples@7.0.0?classifier=src&type=zip
+- pkg:maven/org.apache.tomee/examples@7.0.1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.tomee/examples@7.0.1?classifier=src&type=zip

@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/jshint@2.6.0?classifier=sources
 - pkg:maven/org.webjars.npm/jshint@2.7.0
 - pkg:maven/org.webjars.npm/jshint@2.7.0?classifier=sources
+- pkg:maven/org.webjars.npm/jshint@2.9.3
+- pkg:maven/org.webjars.npm/jshint@2.9.3?classifier=sources

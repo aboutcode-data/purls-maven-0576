@@ -10,3 +10,13 @@
 - pkg:maven/org.seqdoop/hadoop-bam@7.2.1?classifier=sources
 - pkg:maven/org.seqdoop/hadoop-bam@7.3.0
 - pkg:maven/org.seqdoop/hadoop-bam@7.3.0?classifier=sources
+- pkg:maven/org.seqdoop/hadoop-bam@7.3.1
+- pkg:maven/org.seqdoop/hadoop-bam@7.3.1?classifier=sources
+- pkg:maven/org.seqdoop/hadoop-bam@7.4.0
+- pkg:maven/org.seqdoop/hadoop-bam@7.4.0?classifier=sources
+- pkg:maven/org.seqdoop/hadoop-bam@7.5.0
+- pkg:maven/org.seqdoop/hadoop-bam@7.5.0?classifier=sources
+- pkg:maven/org.seqdoop/hadoop-bam@7.6.0
+- pkg:maven/org.seqdoop/hadoop-bam@7.6.0?classifier=sources
+- pkg:maven/org.seqdoop/hadoop-bam@7.7.0
+- pkg:maven/org.seqdoop/hadoop-bam@7.7.0?classifier=sources
