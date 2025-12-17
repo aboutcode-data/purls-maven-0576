@@ -26,3 +26,7 @@
 - pkg:maven/org.jmxtrans/jmxtrans-output-elastic@267?classifier=sources
 - pkg:maven/org.jmxtrans/jmxtrans-output-elastic@268
 - pkg:maven/org.jmxtrans/jmxtrans-output-elastic@268?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-output-elastic@269
+- pkg:maven/org.jmxtrans/jmxtrans-output-elastic@269?classifier=sources
+- pkg:maven/org.jmxtrans/jmxtrans-output-elastic@270
+- pkg:maven/org.jmxtrans/jmxtrans-output-elastic@270?classifier=sources

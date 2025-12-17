@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/markdown-to-jsx@6.6.6
+- pkg:maven/org.webjars.npm/markdown-to-jsx@6.6.6?classifier=sources

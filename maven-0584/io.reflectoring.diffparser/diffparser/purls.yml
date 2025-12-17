@@ -1,0 +1,2 @@
+- pkg:maven/io.reflectoring.diffparser/diffparser@1.4
+- pkg:maven/io.reflectoring.diffparser/diffparser@1.4?classifier=sources

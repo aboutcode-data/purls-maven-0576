@@ -4,3 +4,5 @@
 - pkg:maven/io.gs2/gs2-java-sdk-money@0.3.1?classifier=sources
 - pkg:maven/io.gs2/gs2-java-sdk-money@0.4.0
 - pkg:maven/io.gs2/gs2-java-sdk-money@0.4.0?classifier=sources
+- pkg:maven/io.gs2/gs2-java-sdk-money@0.5.0
+- pkg:maven/io.gs2/gs2-java-sdk-money@0.5.0?classifier=sources

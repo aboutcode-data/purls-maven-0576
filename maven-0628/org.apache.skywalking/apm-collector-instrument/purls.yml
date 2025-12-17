@@ -1,0 +1,3 @@
+- pkg:maven/org.apache.skywalking/apm-collector-instrument@5.0.0-alpha
+- pkg:maven/org.apache.skywalking/apm-collector-instrument@5.0.0-beta
+- pkg:maven/org.apache.skywalking/apm-collector-instrument@5.0.0-beta?classifier=sources

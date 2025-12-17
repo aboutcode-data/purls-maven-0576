@@ -1,0 +1,4 @@
+- pkg:maven/com.consol.citrus.model/citrus-model-jdbc@2.7.4
+- pkg:maven/com.consol.citrus.model/citrus-model-jdbc@2.7.4?classifier=sources
+- pkg:maven/com.consol.citrus.model/citrus-model-jdbc@2.7.5
+- pkg:maven/com.consol.citrus.model/citrus-model-jdbc@2.7.5?classifier=sources

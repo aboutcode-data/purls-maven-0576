@@ -1,0 +1,2 @@
+- pkg:maven/org.jupyter-scala/ammonite-shell_2.10.6@0.8.3-2
+- pkg:maven/org.jupyter-scala/ammonite-shell_2.10.6@0.8.3-2?classifier=sources

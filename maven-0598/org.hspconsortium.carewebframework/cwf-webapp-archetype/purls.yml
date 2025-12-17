@@ -1,1 +1,2 @@
 - pkg:maven/org.hspconsortium.carewebframework/cwf-webapp-archetype@2.0.0?classifier=sources
+- pkg:maven/org.hspconsortium.carewebframework/cwf-webapp-archetype@3.0.0-RC1?classifier=sources

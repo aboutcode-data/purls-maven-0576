@@ -1,0 +1,2 @@
+- pkg:maven/io.chapp.wield/wield-http-api@1.0.0
+- pkg:maven/io.chapp.wield/wield-http-api@1.0.0?classifier=sources

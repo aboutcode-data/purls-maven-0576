@@ -4,3 +4,5 @@
 - pkg:maven/org.devefx/validator-web@1.0.0-release?classifier=sources
 - pkg:maven/org.devefx/validator-web@1.0.1-release
 - pkg:maven/org.devefx/validator-web@1.0.1-release?classifier=sources
+- pkg:maven/org.devefx/validator-web@1.0.2-release
+- pkg:maven/org.devefx/validator-web@1.0.2-release?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.microfocus.adm.leanft/leanft-selenium-java-sdk@1.0
+- pkg:maven/com.microfocus.adm.leanft/leanft-selenium-java-sdk@1.0?classifier=sources

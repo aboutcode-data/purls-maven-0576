@@ -1,0 +1,2 @@
+- pkg:maven/com.quhaodian.adminstore/web@1.01?classifier=sources
+- pkg:maven/com.quhaodian.adminstore/web@1.01?type=war

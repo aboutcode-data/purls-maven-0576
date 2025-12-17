@@ -4,3 +4,5 @@
 - pkg:maven/com.zavtech/morpheus-yahoo@0.9.16?classifier=sources
 - pkg:maven/com.zavtech/morpheus-yahoo@0.9.17
 - pkg:maven/com.zavtech/morpheus-yahoo@0.9.17?classifier=sources
+- pkg:maven/com.zavtech/morpheus-yahoo@0.9.21
+- pkg:maven/com.zavtech/morpheus-yahoo@0.9.21?classifier=sources

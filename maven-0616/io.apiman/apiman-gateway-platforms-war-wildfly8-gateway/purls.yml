@@ -33,3 +33,8 @@
 - pkg:maven/io.apiman/apiman-gateway-platforms-war-wildfly8-gateway@1.2.9.Final?type=war
 - pkg:maven/io.apiman/apiman-gateway-platforms-war-wildfly8-gateway@1.3.0.Final?type=war
 - pkg:maven/io.apiman/apiman-gateway-platforms-war-wildfly8-gateway@1.3.1.Final?type=war
+- pkg:maven/io.apiman/apiman-gateway-platforms-war-wildfly8-gateway@1.3.2.Final?type=war
+- pkg:maven/io.apiman/apiman-gateway-platforms-war-wildfly8-gateway@1.3.3.Final?type=war
+- pkg:maven/io.apiman/apiman-gateway-platforms-war-wildfly8-gateway@1.3.4.Final?type=war
+- pkg:maven/io.apiman/apiman-gateway-platforms-war-wildfly8-gateway@1.3.5.Final?type=war
+- pkg:maven/io.apiman/apiman-gateway-platforms-war-wildfly8-gateway@1.4.0.Final?type=war

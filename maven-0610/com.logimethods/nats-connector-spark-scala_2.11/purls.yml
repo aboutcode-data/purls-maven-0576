@@ -1,2 +1,4 @@
 - pkg:maven/com.logimethods/nats-connector-spark-scala_2.11@0.3.0
 - pkg:maven/com.logimethods/nats-connector-spark-scala_2.11@0.3.0?classifier=sources
+- pkg:maven/com.logimethods/nats-connector-spark-scala_2.11@0.4.0
+- pkg:maven/com.logimethods/nats-connector-spark-scala_2.11@0.4.0?classifier=sources

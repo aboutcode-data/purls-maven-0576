@@ -1,0 +1,2 @@
+- pkg:maven/io.finix.payments.processing.client/finix@1.0.0
+- pkg:maven/io.finix.payments.processing.client/finix@1.0.0?classifier=sources

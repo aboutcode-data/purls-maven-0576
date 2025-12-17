@@ -1,1 +1,2 @@
+- pkg:maven/org.apache.struts/struts-archetypes@2.5.14?classifier=source-release&type=zip
 - pkg:maven/org.apache.struts/struts-archetypes@2.5.5?classifier=source-release&type=zip

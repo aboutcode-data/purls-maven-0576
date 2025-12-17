@@ -23,6 +23,10 @@
 - pkg:maven/com.facebook.android/audience-network-sdk@4.26.0?type=aar
 - pkg:maven/com.facebook.android/audience-network-sdk@4.26.1?type=aar
 - pkg:maven/com.facebook.android/audience-network-sdk@4.27.0?type=aar
+- pkg:maven/com.facebook.android/audience-network-sdk@4.27.1?type=aar
+- pkg:maven/com.facebook.android/audience-network-sdk@4.28.0?type=aar
+- pkg:maven/com.facebook.android/audience-network-sdk@4.28.1?type=aar
+- pkg:maven/com.facebook.android/audience-network-sdk@4.28.2?type=aar
 - pkg:maven/com.facebook.android/audience-network-sdk@4.6.0?type=aar
 - pkg:maven/com.facebook.android/audience-network-sdk@4.7.0?type=aar
 - pkg:maven/com.facebook.android/audience-network-sdk@4.8.0?type=aar

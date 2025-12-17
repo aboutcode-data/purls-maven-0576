@@ -1,0 +1,2 @@
+- pkg:maven/com.vgaidarji/dependencies-overview@1.0.0
+- pkg:maven/com.vgaidarji/dependencies-overview@1.0.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/com.quhaodian/user_api@1.5.2?classifier=sources
 - pkg:maven/com.quhaodian/user_api@1.6.0
 - pkg:maven/com.quhaodian/user_api@1.6.0?classifier=sources
+- pkg:maven/com.quhaodian/user_api@1.8.1
+- pkg:maven/com.quhaodian/user_api@1.8.1?classifier=sources

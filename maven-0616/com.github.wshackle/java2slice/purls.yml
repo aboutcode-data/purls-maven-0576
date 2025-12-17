@@ -1,0 +1,2 @@
+- pkg:maven/com.github.wshackle/java2slice@1.5
+- pkg:maven/com.github.wshackle/java2slice@1.5?classifier=sources

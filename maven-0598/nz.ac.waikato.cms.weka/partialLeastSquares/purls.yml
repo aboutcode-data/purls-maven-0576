@@ -6,3 +6,5 @@
 - pkg:maven/nz.ac.waikato.cms.weka/partialLeastSquares@1.0.3?classifier=sources
 - pkg:maven/nz.ac.waikato.cms.weka/partialLeastSquares@1.0.4
 - pkg:maven/nz.ac.waikato.cms.weka/partialLeastSquares@1.0.4?classifier=sources
+- pkg:maven/nz.ac.waikato.cms.weka/partialLeastSquares@1.0.5
+- pkg:maven/nz.ac.waikato.cms.weka/partialLeastSquares@1.0.5?classifier=sources

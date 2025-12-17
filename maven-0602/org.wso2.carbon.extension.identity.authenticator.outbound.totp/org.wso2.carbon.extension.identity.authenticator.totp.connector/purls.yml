@@ -1,2 +1,6 @@
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.totp/org.wso2.carbon.extension.identity.authenticator.totp.connector@2.0.10
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.totp/org.wso2.carbon.extension.identity.authenticator.totp.connector@2.0.10?classifier=sources
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.totp/org.wso2.carbon.extension.identity.authenticator.totp.connector@2.0.11
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.totp/org.wso2.carbon.extension.identity.authenticator.totp.connector@2.0.11?classifier=sources
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.totp/org.wso2.carbon.extension.identity.authenticator.totp.connector@2.0.9
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.totp/org.wso2.carbon.extension.identity.authenticator.totp.connector@2.0.9?classifier=sources

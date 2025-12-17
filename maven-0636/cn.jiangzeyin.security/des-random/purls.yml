@@ -1,0 +1,2 @@
+- pkg:maven/cn.jiangzeyin.security/des-random@1.0.1
+- pkg:maven/cn.jiangzeyin.security/des-random@1.0.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bowergithub.predixdesignsystem/px-demo-data@0.0.21
+- pkg:maven/org.webjars.bowergithub.predixdesignsystem/px-demo-data@0.0.21?classifier=sources
+- pkg:maven/org.webjars.bowergithub.predixdesignsystem/px-demo-data@1.0.0
+- pkg:maven/org.webjars.bowergithub.predixdesignsystem/px-demo-data@1.0.0?classifier=sources

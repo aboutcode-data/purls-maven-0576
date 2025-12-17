@@ -1,0 +1,4 @@
+- pkg:maven/de.cs-dev.ebus/ebus-core@0.9.17
+- pkg:maven/de.cs-dev.ebus/ebus-core@0.9.17.2
+- pkg:maven/de.cs-dev.ebus/ebus-core@0.9.17.2?classifier=sources
+- pkg:maven/de.cs-dev.ebus/ebus-core@0.9.17?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/tableexport.jquery.plugin@1.9.11
+- pkg:maven/org.webjars.npm/tableexport.jquery.plugin@1.9.11?classifier=sources
+- pkg:maven/org.webjars.npm/tableexport.jquery.plugin@1.9.9
+- pkg:maven/org.webjars.npm/tableexport.jquery.plugin@1.9.9?classifier=sources

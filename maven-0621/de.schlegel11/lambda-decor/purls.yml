@@ -1,0 +1,6 @@
+- pkg:maven/de.schlegel11/lambda-decor@1.0
+- pkg:maven/de.schlegel11/lambda-decor@1.0?classifier=sources
+- pkg:maven/de.schlegel11/lambda-decor@1.1
+- pkg:maven/de.schlegel11/lambda-decor@1.1?classifier=sources
+- pkg:maven/de.schlegel11/lambda-decor@1.2
+- pkg:maven/de.schlegel11/lambda-decor@1.2?classifier=sources

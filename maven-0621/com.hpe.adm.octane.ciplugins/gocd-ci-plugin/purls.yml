@@ -1,0 +1,2 @@
+- pkg:maven/com.hpe.adm.octane.ciplugins/gocd-ci-plugin@1.7
+- pkg:maven/com.hpe.adm.octane.ciplugins/gocd-ci-plugin@1.7?classifier=sources

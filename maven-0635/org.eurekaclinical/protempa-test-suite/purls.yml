@@ -13,6 +13,7 @@
 - pkg:maven/org.eurekaclinical/protempa-test-suite@3.0-Alpha-9
 - pkg:maven/org.eurekaclinical/protempa-test-suite@3.5
 - pkg:maven/org.eurekaclinical/protempa-test-suite@3.5-Beta-1
+- pkg:maven/org.eurekaclinical/protempa-test-suite@4.0
 - pkg:maven/org.eurekaclinical/protempa-test-suite@4.0-Alpha-1
 - pkg:maven/org.eurekaclinical/protempa-test-suite@4.0-Alpha-10
 - pkg:maven/org.eurekaclinical/protempa-test-suite@4.0-Alpha-11
@@ -34,3 +35,4 @@
 - pkg:maven/org.eurekaclinical/protempa-test-suite@4.0-Alpha-7
 - pkg:maven/org.eurekaclinical/protempa-test-suite@4.0-Alpha-8
 - pkg:maven/org.eurekaclinical/protempa-test-suite@4.0-Alpha-9
+- pkg:maven/org.eurekaclinical/protempa-test-suite@4.0-Beta-1

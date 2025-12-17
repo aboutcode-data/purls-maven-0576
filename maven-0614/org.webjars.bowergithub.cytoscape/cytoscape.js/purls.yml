@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bowergithub.cytoscape/cytoscape.js@3.2.12
+- pkg:maven/org.webjars.bowergithub.cytoscape/cytoscape.js@3.2.12?classifier=sources

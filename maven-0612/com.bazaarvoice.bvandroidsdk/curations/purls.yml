@@ -44,6 +44,12 @@
 - pkg:maven/com.bazaarvoice.bvandroidsdk/curations@6.14.0?type=aar
 - pkg:maven/com.bazaarvoice.bvandroidsdk/curations@6.14.2?classifier=sources
 - pkg:maven/com.bazaarvoice.bvandroidsdk/curations@6.14.2?type=aar
+- pkg:maven/com.bazaarvoice.bvandroidsdk/curations@6.14.3?classifier=sources
+- pkg:maven/com.bazaarvoice.bvandroidsdk/curations@6.14.3?type=aar
+- pkg:maven/com.bazaarvoice.bvandroidsdk/curations@6.14.4?classifier=sources
+- pkg:maven/com.bazaarvoice.bvandroidsdk/curations@6.14.4?type=aar
+- pkg:maven/com.bazaarvoice.bvandroidsdk/curations@6.14.5?classifier=sources
+- pkg:maven/com.bazaarvoice.bvandroidsdk/curations@6.14.5?type=aar
 - pkg:maven/com.bazaarvoice.bvandroidsdk/curations@6.2.0?classifier=sources
 - pkg:maven/com.bazaarvoice.bvandroidsdk/curations@6.2.0?type=aar
 - pkg:maven/com.bazaarvoice.bvandroidsdk/curations@6.3.0?classifier=sources

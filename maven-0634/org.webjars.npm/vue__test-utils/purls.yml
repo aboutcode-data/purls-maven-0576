@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/vue__test-utils@1.0.0-beta.12
+- pkg:maven/org.webjars.npm/vue__test-utils@1.0.0-beta.12?classifier=sources

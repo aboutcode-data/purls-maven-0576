@@ -1,0 +1,2 @@
+- pkg:maven/com.github.apanimesh061/vader-sentiment-analyzer@1.0
+- pkg:maven/com.github.apanimesh061/vader-sentiment-analyzer@1.0?classifier=sources

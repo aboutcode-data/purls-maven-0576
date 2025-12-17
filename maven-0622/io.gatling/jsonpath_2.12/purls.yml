@@ -1,5 +1,7 @@
 - pkg:maven/io.gatling/jsonpath_2.12@0.6.10
 - pkg:maven/io.gatling/jsonpath_2.12@0.6.10?classifier=sources
+- pkg:maven/io.gatling/jsonpath_2.12@0.6.11
+- pkg:maven/io.gatling/jsonpath_2.12@0.6.11?classifier=sources
 - pkg:maven/io.gatling/jsonpath_2.12@0.6.8
 - pkg:maven/io.gatling/jsonpath_2.12@0.6.8?classifier=sources
 - pkg:maven/io.gatling/jsonpath_2.12@0.6.9

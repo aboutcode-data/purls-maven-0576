@@ -32,6 +32,8 @@
 - pkg:maven/com.github.moaxcp/graph-dsl@0.22.0?classifier=sources
 - pkg:maven/com.github.moaxcp/graph-dsl@0.23.0
 - pkg:maven/com.github.moaxcp/graph-dsl@0.23.0?classifier=sources
+- pkg:maven/com.github.moaxcp/graph-dsl@0.24.0
+- pkg:maven/com.github.moaxcp/graph-dsl@0.24.0?classifier=sources
 - pkg:maven/com.github.moaxcp/graph-dsl@0.4.4
 - pkg:maven/com.github.moaxcp/graph-dsl@0.4.4?classifier=sources
 - pkg:maven/com.github.moaxcp/graph-dsl@0.5.0

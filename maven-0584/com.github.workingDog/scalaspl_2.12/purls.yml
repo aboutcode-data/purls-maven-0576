@@ -1,0 +1,2 @@
+- pkg:maven/com.github.workingDog/scalaspl_2.12@1.1
+- pkg:maven/com.github.workingDog/scalaspl_2.12@1.1?classifier=sources

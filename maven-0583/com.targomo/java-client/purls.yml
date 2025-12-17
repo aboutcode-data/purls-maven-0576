@@ -1,0 +1,10 @@
+- pkg:maven/com.targomo/java-client@0.0.29
+- pkg:maven/com.targomo/java-client@0.0.29?classifier=sources
+- pkg:maven/com.targomo/java-client@0.1.1
+- pkg:maven/com.targomo/java-client@0.1.1-SNAPSHOTv5
+- pkg:maven/com.targomo/java-client@0.1.1-SNAPSHOTv5?classifier=sources
+- pkg:maven/com.targomo/java-client@0.1.1-SNAPSHOTv6
+- pkg:maven/com.targomo/java-client@0.1.1-SNAPSHOTv6?classifier=sources
+- pkg:maven/com.targomo/java-client@0.1.1-SNAPSHOTv7
+- pkg:maven/com.targomo/java-client@0.1.1-SNAPSHOTv7?classifier=sources
+- pkg:maven/com.targomo/java-client@0.1.1?classifier=sources

@@ -8,6 +8,8 @@
 - pkg:maven/org.zkoss/zktypeahead@0.11.1.4?classifier=sources
 - pkg:maven/org.zkoss/zktypeahead@0.11.1.5
 - pkg:maven/org.zkoss/zktypeahead@0.11.1.5?classifier=sources
+- pkg:maven/org.zkoss/zktypeahead@0.11.1.6
+- pkg:maven/org.zkoss/zktypeahead@0.11.1.6?classifier=sources
 - pkg:maven/org.zkoss/zktypeahead@0.2
 - pkg:maven/org.zkoss/zktypeahead@0.2?classifier=sources
 - pkg:maven/org.zkoss/zktypeahead@0.3

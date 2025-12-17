@@ -1,0 +1,2 @@
+- pkg:maven/com.github.azapen6/okkam-http_2.12@0.0.875
+- pkg:maven/com.github.azapen6/okkam-http_2.12@0.0.875?classifier=sources

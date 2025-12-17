@@ -1,0 +1,2 @@
+- pkg:maven/com.github.stephanenicolas.dart.v2/dart-processor@2.0.4
+- pkg:maven/com.github.stephanenicolas.dart.v2/dart-processor@2.0.4?classifier=sources

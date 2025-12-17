@@ -8,3 +8,5 @@
 - pkg:maven/org.typelevel/mouse_2.10@0.14?classifier=sources
 - pkg:maven/org.typelevel/mouse_2.10@0.15
 - pkg:maven/org.typelevel/mouse_2.10@0.15?classifier=sources
+- pkg:maven/org.typelevel/mouse_2.10@0.16
+- pkg:maven/org.typelevel/mouse_2.10@0.16?classifier=sources

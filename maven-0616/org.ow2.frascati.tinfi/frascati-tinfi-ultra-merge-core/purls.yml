@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.frascati.tinfi/frascati-tinfi-ultra-merge-core@2.7
+- pkg:maven/org.ow2.frascati.tinfi/frascati-tinfi-ultra-merge-core@2.7?classifier=sources

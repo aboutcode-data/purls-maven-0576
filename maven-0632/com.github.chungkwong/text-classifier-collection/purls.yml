@@ -1,0 +1,2 @@
+- pkg:maven/com.github.chungkwong/text-classifier-collection@0.1
+- pkg:maven/com.github.chungkwong/text-classifier-collection@0.1?classifier=sources

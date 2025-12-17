@@ -9,3 +9,5 @@
 - pkg:maven/com.github.curioustechizen.android-ago/library@1.3.3?type=aar
 - pkg:maven/com.github.curioustechizen.android-ago/library@1.3.4?classifier=sources
 - pkg:maven/com.github.curioustechizen.android-ago/library@1.3.4?type=aar
+- pkg:maven/com.github.curioustechizen.android-ago/library@1.4.0?classifier=sources
+- pkg:maven/com.github.curioustechizen.android-ago/library@1.4.0?type=aar

@@ -1,0 +1,4 @@
+- pkg:maven/ru.sbtqa.tag.pagefactory/mobile-plugin@1.0.0
+- pkg:maven/ru.sbtqa.tag.pagefactory/mobile-plugin@1.0.0?classifier=sources
+- pkg:maven/ru.sbtqa.tag.pagefactory/mobile-plugin@2.0.0
+- pkg:maven/ru.sbtqa.tag.pagefactory/mobile-plugin@2.0.0?classifier=sources

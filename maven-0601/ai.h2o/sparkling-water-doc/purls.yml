@@ -1,0 +1,12 @@
+- pkg:maven/ai.h2o/sparkling-water-doc@2.0.23
+- pkg:maven/ai.h2o/sparkling-water-doc@2.0.23?classifier=sources
+- pkg:maven/ai.h2o/sparkling-water-doc@2.0.24
+- pkg:maven/ai.h2o/sparkling-water-doc@2.0.24?classifier=sources
+- pkg:maven/ai.h2o/sparkling-water-doc@2.1.22
+- pkg:maven/ai.h2o/sparkling-water-doc@2.1.22?classifier=sources
+- pkg:maven/ai.h2o/sparkling-water-doc@2.1.23
+- pkg:maven/ai.h2o/sparkling-water-doc@2.1.23?classifier=sources
+- pkg:maven/ai.h2o/sparkling-water-doc@2.2.8
+- pkg:maven/ai.h2o/sparkling-water-doc@2.2.8?classifier=sources
+- pkg:maven/ai.h2o/sparkling-water-doc@2.2.9
+- pkg:maven/ai.h2o/sparkling-water-doc@2.2.9?classifier=sources

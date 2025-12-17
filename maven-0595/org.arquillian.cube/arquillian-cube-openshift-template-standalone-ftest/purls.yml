@@ -1,2 +1,4 @@
 - pkg:maven/org.arquillian.cube/arquillian-cube-openshift-template-standalone-ftest@1.10.0
 - pkg:maven/org.arquillian.cube/arquillian-cube-openshift-template-standalone-ftest@1.11.0
+- pkg:maven/org.arquillian.cube/arquillian-cube-openshift-template-standalone-ftest@1.12.0
+- pkg:maven/org.arquillian.cube/arquillian-cube-openshift-template-standalone-ftest@1.13.0

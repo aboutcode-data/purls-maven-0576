@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/schematics__angular@0.0.35
 - pkg:maven/org.webjars.npm/schematics__angular@0.0.35?classifier=sources
+- pkg:maven/org.webjars.npm/schematics__angular@0.5.13
+- pkg:maven/org.webjars.npm/schematics__angular@0.5.13?classifier=sources

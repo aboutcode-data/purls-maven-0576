@@ -54,3 +54,7 @@
 - pkg:maven/com.blackducksoftware.integration/hub-common-response@3.8.0?classifier=sources
 - pkg:maven/com.blackducksoftware.integration/hub-common-response@3.9.0
 - pkg:maven/com.blackducksoftware.integration/hub-common-response@3.9.0?classifier=sources
+- pkg:maven/com.blackducksoftware.integration/hub-common-response@4.0.0
+- pkg:maven/com.blackducksoftware.integration/hub-common-response@4.0.0?classifier=sources
+- pkg:maven/com.blackducksoftware.integration/hub-common-response@5.0.0
+- pkg:maven/com.blackducksoftware.integration/hub-common-response@5.0.0?classifier=sources

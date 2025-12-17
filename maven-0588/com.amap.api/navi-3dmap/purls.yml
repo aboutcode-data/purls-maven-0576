@@ -16,3 +16,15 @@
 - pkg:maven/com.amap.api/navi-3dmap@5.4.0_3dmap5.4.0?classifier=sources
 - pkg:maven/com.amap.api/navi-3dmap@5.5.0_3dmap5.6.0
 - pkg:maven/com.amap.api/navi-3dmap@5.5.0_3dmap5.6.0?classifier=sources
+- pkg:maven/com.amap.api/navi-3dmap@5.5.0_3dmap5.7.0
+- pkg:maven/com.amap.api/navi-3dmap@5.5.0_3dmap5.7.0?classifier=sources
+- pkg:maven/com.amap.api/navi-3dmap@5.6.0_3dmap5.7.0
+- pkg:maven/com.amap.api/navi-3dmap@5.6.0_3dmap5.7.0?classifier=sources
+- pkg:maven/com.amap.api/navi-3dmap@6.0.0_3dmap6.0.0
+- pkg:maven/com.amap.api/navi-3dmap@6.0.0_3dmap6.0.0?classifier=sources
+- pkg:maven/com.amap.api/navi-3dmap@6.0.1_3dmap6.0.1
+- pkg:maven/com.amap.api/navi-3dmap@6.0.1_3dmap6.0.1?classifier=sources
+- pkg:maven/com.amap.api/navi-3dmap@6.0.1_3dmap6.1.0
+- pkg:maven/com.amap.api/navi-3dmap@6.0.1_3dmap6.1.0?classifier=sources
+- pkg:maven/com.amap.api/navi-3dmap@6.1.0_3dmap6.2.0
+- pkg:maven/com.amap.api/navi-3dmap@6.1.0_3dmap6.2.0?classifier=sources

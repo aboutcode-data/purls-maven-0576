@@ -1,0 +1,2 @@
+- pkg:maven/com.github.andyglow/scala-xml-diff_2.12@2.0.3
+- pkg:maven/com.github.andyglow/scala-xml-diff_2.12@2.0.3?classifier=sources

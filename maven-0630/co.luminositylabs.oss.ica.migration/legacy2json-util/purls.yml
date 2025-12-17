@@ -1,0 +1,2 @@
+- pkg:maven/co.luminositylabs.oss.ica.migration/legacy2json-util@0.2.0
+- pkg:maven/co.luminositylabs.oss.ica.migration/legacy2json-util@0.2.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.metarchive.mex/log4mex-java@1.0.2b
+- pkg:maven/org.metarchive.mex/log4mex-java@1.0.2b?classifier=sources
+- pkg:maven/org.metarchive.mex/log4mex-java@1.0.3
+- pkg:maven/org.metarchive.mex/log4mex-java@1.0.3?classifier=sources

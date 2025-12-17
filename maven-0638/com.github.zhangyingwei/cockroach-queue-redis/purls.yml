@@ -1,0 +1,2 @@
+- pkg:maven/com.github.zhangyingwei/cockroach-queue-redis@1.0.6-Beta
+- pkg:maven/com.github.zhangyingwei/cockroach-queue-redis@1.0.6-Beta?classifier=sources

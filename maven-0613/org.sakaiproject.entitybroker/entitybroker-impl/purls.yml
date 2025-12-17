@@ -40,3 +40,7 @@
 - pkg:maven/org.sakaiproject.entitybroker/entitybroker-impl@11.3?classifier=sources
 - pkg:maven/org.sakaiproject.entitybroker/entitybroker-impl@11.4
 - pkg:maven/org.sakaiproject.entitybroker/entitybroker-impl@11.4?classifier=sources
+- pkg:maven/org.sakaiproject.entitybroker/entitybroker-impl@12.0
+- pkg:maven/org.sakaiproject.entitybroker/entitybroker-impl@12.0?classifier=sources
+- pkg:maven/org.sakaiproject.entitybroker/entitybroker-impl@12.1
+- pkg:maven/org.sakaiproject.entitybroker/entitybroker-impl@12.1?classifier=sources

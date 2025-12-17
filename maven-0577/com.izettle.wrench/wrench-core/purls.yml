@@ -6,3 +6,5 @@
 - pkg:maven/com.izettle.wrench/wrench-core@0.2-RC2?type=aar
 - pkg:maven/com.izettle.wrench/wrench-core@0.2?classifier=sources
 - pkg:maven/com.izettle.wrench/wrench-core@0.2?type=aar
+- pkg:maven/com.izettle.wrench/wrench-core@0.3?classifier=sources
+- pkg:maven/com.izettle.wrench/wrench-core@0.3?type=aar

@@ -1,0 +1,4 @@
+- pkg:maven/net.apjanke.log4j-config-gui/log4j1-config-gui@0.1.0
+- pkg:maven/net.apjanke.log4j-config-gui/log4j1-config-gui@0.1.0?classifier=sources
+- pkg:maven/net.apjanke.log4j-config-gui/log4j1-config-gui@0.1.1
+- pkg:maven/net.apjanke.log4j-config-gui/log4j1-config-gui@0.1.1?classifier=sources

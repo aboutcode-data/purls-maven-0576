@@ -43,4 +43,6 @@
 - pkg:maven/org.sonatype.sisu.goodies/goodies-i18n@1.8
 - pkg:maven/org.sonatype.sisu.goodies/goodies-i18n@1.8?classifier=sources
 - pkg:maven/org.sonatype.sisu.goodies/goodies-i18n@1.9
+- pkg:maven/org.sonatype.sisu.goodies/goodies-i18n@1.9.1
+- pkg:maven/org.sonatype.sisu.goodies/goodies-i18n@1.9.1?classifier=sources
 - pkg:maven/org.sonatype.sisu.goodies/goodies-i18n@1.9?classifier=sources

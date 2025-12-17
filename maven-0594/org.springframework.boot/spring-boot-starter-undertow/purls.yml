@@ -26,6 +26,11 @@
 - pkg:maven/org.springframework.boot/spring-boot-starter-undertow@1.4.7.RELEASE
 - pkg:maven/org.springframework.boot/spring-boot-starter-undertow@1.5.0.RELEASE
 - pkg:maven/org.springframework.boot/spring-boot-starter-undertow@1.5.1.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-starter-undertow@1.5.10.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-starter-undertow@1.5.11.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-starter-undertow@1.5.12.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-starter-undertow@1.5.13.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-starter-undertow@1.5.14.RELEASE
 - pkg:maven/org.springframework.boot/spring-boot-starter-undertow@1.5.2.RELEASE
 - pkg:maven/org.springframework.boot/spring-boot-starter-undertow@1.5.3.RELEASE
 - pkg:maven/org.springframework.boot/spring-boot-starter-undertow@1.5.4.RELEASE
@@ -34,3 +39,7 @@
 - pkg:maven/org.springframework.boot/spring-boot-starter-undertow@1.5.7.RELEASE
 - pkg:maven/org.springframework.boot/spring-boot-starter-undertow@1.5.8.RELEASE
 - pkg:maven/org.springframework.boot/spring-boot-starter-undertow@1.5.9.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-starter-undertow@2.0.0.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-starter-undertow@2.0.1.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-starter-undertow@2.0.2.RELEASE
+- pkg:maven/org.springframework.boot/spring-boot-starter-undertow@2.0.3.RELEASE

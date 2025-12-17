@@ -1,0 +1,6 @@
+- pkg:maven/com.github.tianjing/tgtools.core@1.0.275
+- pkg:maven/com.github.tianjing/tgtools.core@1.0.275?classifier=sources
+- pkg:maven/com.github.tianjing/tgtools.core@1.1.0
+- pkg:maven/com.github.tianjing/tgtools.core@1.1.0?classifier=sources
+- pkg:maven/com.github.tianjing/tgtools.core@1.1.1
+- pkg:maven/com.github.tianjing/tgtools.core@1.1.1?classifier=sources

@@ -34,6 +34,16 @@
 - pkg:maven/com.uber.jaeger/jaeger-zipkin@0.22.0-RC2?classifier=sources
 - pkg:maven/com.uber.jaeger/jaeger-zipkin@0.22.0-RC3
 - pkg:maven/com.uber.jaeger/jaeger-zipkin@0.22.0-RC3?classifier=sources
+- pkg:maven/com.uber.jaeger/jaeger-zipkin@0.23.0
+- pkg:maven/com.uber.jaeger/jaeger-zipkin@0.23.0?classifier=sources
+- pkg:maven/com.uber.jaeger/jaeger-zipkin@0.24.0
+- pkg:maven/com.uber.jaeger/jaeger-zipkin@0.24.0?classifier=sources
+- pkg:maven/com.uber.jaeger/jaeger-zipkin@0.25.0
+- pkg:maven/com.uber.jaeger/jaeger-zipkin@0.25.0?classifier=sources
+- pkg:maven/com.uber.jaeger/jaeger-zipkin@0.26.0
+- pkg:maven/com.uber.jaeger/jaeger-zipkin@0.26.0?classifier=sources
+- pkg:maven/com.uber.jaeger/jaeger-zipkin@0.27.0
+- pkg:maven/com.uber.jaeger/jaeger-zipkin@0.27.0?classifier=sources
 - pkg:maven/com.uber.jaeger/jaeger-zipkin@0.8.0
 - pkg:maven/com.uber.jaeger/jaeger-zipkin@0.8.0?classifier=sources
 - pkg:maven/com.uber.jaeger/jaeger-zipkin@0.8.1

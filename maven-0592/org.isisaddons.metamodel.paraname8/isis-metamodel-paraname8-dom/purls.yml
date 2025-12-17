@@ -14,5 +14,9 @@
 - pkg:maven/org.isisaddons.metamodel.paraname8/isis-metamodel-paraname8-dom@1.15.0?classifier=sources
 - pkg:maven/org.isisaddons.metamodel.paraname8/isis-metamodel-paraname8-dom@1.15.1.1
 - pkg:maven/org.isisaddons.metamodel.paraname8/isis-metamodel-paraname8-dom@1.15.1.1?classifier=sources
+- pkg:maven/org.isisaddons.metamodel.paraname8/isis-metamodel-paraname8-dom@1.16.0
+- pkg:maven/org.isisaddons.metamodel.paraname8/isis-metamodel-paraname8-dom@1.16.0?classifier=sources
+- pkg:maven/org.isisaddons.metamodel.paraname8/isis-metamodel-paraname8-dom@1.16.2
+- pkg:maven/org.isisaddons.metamodel.paraname8/isis-metamodel-paraname8-dom@1.16.2?classifier=sources
 - pkg:maven/org.isisaddons.metamodel.paraname8/isis-metamodel-paraname8-dom@1.9.0
 - pkg:maven/org.isisaddons.metamodel.paraname8/isis-metamodel-paraname8-dom@1.9.0?classifier=sources

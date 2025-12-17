@@ -12,3 +12,5 @@
 - pkg:maven/cn.gateside/gatesideLib@2.0.6?classifier=sources
 - pkg:maven/cn.gateside/gatesideLib@2.0.7
 - pkg:maven/cn.gateside/gatesideLib@2.0.7?classifier=sources
+- pkg:maven/cn.gateside/gatesideLib@2.0.8
+- pkg:maven/cn.gateside/gatesideLib@2.0.8?classifier=sources

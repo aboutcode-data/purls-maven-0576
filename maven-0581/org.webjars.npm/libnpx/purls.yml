@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/libnpx@10.2.0
+- pkg:maven/org.webjars.npm/libnpx@10.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/libnpx@9.7.1
+- pkg:maven/org.webjars.npm/libnpx@9.7.1?classifier=sources

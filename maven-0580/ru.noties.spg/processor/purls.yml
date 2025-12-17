@@ -6,3 +6,5 @@
 - pkg:maven/ru.noties.spg/processor@1.0.2?classifier=sources
 - pkg:maven/ru.noties.spg/processor@1.0.3
 - pkg:maven/ru.noties.spg/processor@1.0.3?classifier=sources
+- pkg:maven/ru.noties.spg/processor@1.0.4
+- pkg:maven/ru.noties.spg/processor@1.0.4?classifier=sources

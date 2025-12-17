@@ -1,1 +1,2 @@
 - pkg:maven/org.eclipse.ecf/org.eclipse.ecf.provider.jslp@3.2.100?classifier=sources
+- pkg:maven/org.eclipse.ecf/org.eclipse.ecf.provider.jslp@3.2.200?classifier=sources

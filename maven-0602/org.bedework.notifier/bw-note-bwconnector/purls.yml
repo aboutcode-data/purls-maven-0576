@@ -1,0 +1,2 @@
+- pkg:maven/org.bedework.notifier/bw-note-bwconnector@4.0.2
+- pkg:maven/org.bedework.notifier/bw-note-bwconnector@4.0.2?classifier=sources

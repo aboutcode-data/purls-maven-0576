@@ -23,6 +23,14 @@
 - pkg:maven/co.luminositylabs.oss/luminositylabs-orientdb-utils@0.0.2
 - pkg:maven/co.luminositylabs.oss/luminositylabs-orientdb-utils@0.0.20
 - pkg:maven/co.luminositylabs.oss/luminositylabs-orientdb-utils@0.0.20?classifier=sources
+- pkg:maven/co.luminositylabs.oss/luminositylabs-orientdb-utils@0.0.21
+- pkg:maven/co.luminositylabs.oss/luminositylabs-orientdb-utils@0.0.21?classifier=sources
+- pkg:maven/co.luminositylabs.oss/luminositylabs-orientdb-utils@0.0.22
+- pkg:maven/co.luminositylabs.oss/luminositylabs-orientdb-utils@0.0.22?classifier=sources
+- pkg:maven/co.luminositylabs.oss/luminositylabs-orientdb-utils@0.0.23
+- pkg:maven/co.luminositylabs.oss/luminositylabs-orientdb-utils@0.0.23?classifier=sources
+- pkg:maven/co.luminositylabs.oss/luminositylabs-orientdb-utils@0.0.24
+- pkg:maven/co.luminositylabs.oss/luminositylabs-orientdb-utils@0.0.24?classifier=sources
 - pkg:maven/co.luminositylabs.oss/luminositylabs-orientdb-utils@0.0.2?classifier=sources
 - pkg:maven/co.luminositylabs.oss/luminositylabs-orientdb-utils@0.0.3
 - pkg:maven/co.luminositylabs.oss/luminositylabs-orientdb-utils@0.0.3?classifier=sources

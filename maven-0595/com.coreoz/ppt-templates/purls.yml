@@ -12,3 +12,5 @@
 - pkg:maven/com.coreoz/ppt-templates@1.0.0-rc5
 - pkg:maven/com.coreoz/ppt-templates@1.0.0-rc5?classifier=sources
 - pkg:maven/com.coreoz/ppt-templates@1.0.0?classifier=sources
+- pkg:maven/com.coreoz/ppt-templates@1.0.1
+- pkg:maven/com.coreoz/ppt-templates@1.0.1?classifier=sources

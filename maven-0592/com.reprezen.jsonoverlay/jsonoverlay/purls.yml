@@ -1,0 +1,14 @@
+- pkg:maven/com.reprezen.jsonoverlay/jsonoverlay@0.0.1.201803210221
+- pkg:maven/com.reprezen.jsonoverlay/jsonoverlay@0.0.1.201803210221?classifier=sources
+- pkg:maven/com.reprezen.jsonoverlay/jsonoverlay@1.0.0.201803221258
+- pkg:maven/com.reprezen.jsonoverlay/jsonoverlay@1.0.0.201803221258?classifier=sources
+- pkg:maven/com.reprezen.jsonoverlay/jsonoverlay@1.0.0.201803221529
+- pkg:maven/com.reprezen.jsonoverlay/jsonoverlay@1.0.0.201803221529?classifier=sources
+- pkg:maven/com.reprezen.jsonoverlay/jsonoverlay@1.0.0.201803221816
+- pkg:maven/com.reprezen.jsonoverlay/jsonoverlay@1.0.0.201803221816?classifier=sources
+- pkg:maven/com.reprezen.jsonoverlay/jsonoverlay@2.0.0.201803231630
+- pkg:maven/com.reprezen.jsonoverlay/jsonoverlay@2.0.0.201803231630?classifier=sources
+- pkg:maven/com.reprezen.jsonoverlay/jsonoverlay@2.0.1-201803281431
+- pkg:maven/com.reprezen.jsonoverlay/jsonoverlay@2.0.1-201803281431?classifier=sources
+- pkg:maven/com.reprezen.jsonoverlay/jsonoverlay@2.0.2-201805111136
+- pkg:maven/com.reprezen.jsonoverlay/jsonoverlay@2.0.2-201805111136?classifier=sources

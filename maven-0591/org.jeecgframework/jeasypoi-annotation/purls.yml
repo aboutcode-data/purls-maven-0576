@@ -1,2 +1,4 @@
 - pkg:maven/org.jeecgframework/jeasypoi-annotation@2.1.4
 - pkg:maven/org.jeecgframework/jeasypoi-annotation@2.1.4?classifier=sources
+- pkg:maven/org.jeecgframework/jeasypoi-annotation@2.1.6
+- pkg:maven/org.jeecgframework/jeasypoi-annotation@2.1.6?classifier=sources

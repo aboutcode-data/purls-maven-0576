@@ -1,0 +1,2 @@
+- pkg:maven/io.github.frostingwolf/spring-boot-starter-salukiops@1.5.8.RELEASE
+- pkg:maven/io.github.frostingwolf/spring-boot-starter-salukiops@1.5.8.RELEASE?classifier=sources

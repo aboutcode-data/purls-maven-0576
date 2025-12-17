@@ -1,0 +1,4 @@
+- pkg:maven/com.meizu.flyme/ups-oppo-push-java-sdk@1.0.0.20180601
+- pkg:maven/com.meizu.flyme/ups-oppo-push-java-sdk@1.0.0.20180601?classifier=sources
+- pkg:maven/com.meizu.flyme/ups-oppo-push-java-sdk@1.0.0.20180605
+- pkg:maven/com.meizu.flyme/ups-oppo-push-java-sdk@1.0.0.20180605?classifier=sources

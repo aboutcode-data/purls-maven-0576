@@ -9,3 +9,4 @@
 - pkg:maven/io.nlopez.revamp/library@1.0.8?type=aar
 - pkg:maven/io.nlopez.revamp/library@1.1.0?type=aar
 - pkg:maven/io.nlopez.revamp/library@1.1.1?type=aar
+- pkg:maven/io.nlopez.revamp/library@1.1.2?type=aar

@@ -50,3 +50,5 @@
 - pkg:maven/eu.cdevreeze.yaidom/yaidom-xlink_2.11@1.6.0-M7
 - pkg:maven/eu.cdevreeze.yaidom/yaidom-xlink_2.11@1.6.0-M7?classifier=sources
 - pkg:maven/eu.cdevreeze.yaidom/yaidom-xlink_2.11@1.6.0?classifier=sources
+- pkg:maven/eu.cdevreeze.yaidom/yaidom-xlink_2.11@1.7.0
+- pkg:maven/eu.cdevreeze.yaidom/yaidom-xlink_2.11@1.7.0?classifier=sources

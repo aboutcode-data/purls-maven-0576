@@ -7,3 +7,4 @@
 - pkg:maven/org.ops4j.ramler/ramler-manual@0.6.1?type=war
 - pkg:maven/org.ops4j.ramler/ramler-manual@0.7.0?type=war
 - pkg:maven/org.ops4j.ramler/ramler-manual@0.8.0?type=war
+- pkg:maven/org.ops4j.ramler/ramler-manual@0.9.0?type=war

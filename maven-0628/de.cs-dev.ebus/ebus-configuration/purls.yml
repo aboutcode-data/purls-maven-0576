@@ -1,0 +1,2 @@
+- pkg:maven/de.cs-dev.ebus/ebus-configuration@0.9.17.2
+- pkg:maven/de.cs-dev.ebus/ebus-configuration@0.9.17.2?classifier=sources

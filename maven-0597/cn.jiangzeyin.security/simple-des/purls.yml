@@ -1,0 +1,2 @@
+- pkg:maven/cn.jiangzeyin.security/simple-des@1.0.0
+- pkg:maven/cn.jiangzeyin.security/simple-des@1.0.0?classifier=sources

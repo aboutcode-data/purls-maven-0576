@@ -1,0 +1,2 @@
+- pkg:maven/com.diozero/diozero-remote-server@0.11
+- pkg:maven/com.diozero/diozero-remote-server@0.11?classifier=sources

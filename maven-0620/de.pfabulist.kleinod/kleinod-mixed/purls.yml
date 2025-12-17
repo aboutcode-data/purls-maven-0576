@@ -1,0 +1,2 @@
+- pkg:maven/de.pfabulist.kleinod/kleinod-mixed@0.37.2
+- pkg:maven/de.pfabulist.kleinod/kleinod-mixed@0.37.2?classifier=sources

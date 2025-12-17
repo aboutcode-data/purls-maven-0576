@@ -1,0 +1,4 @@
+- pkg:maven/org.entando.entando.bundles.misc/entando-misc-light@4.3.2?classifier=sources
+- pkg:maven/org.entando.entando.bundles.misc/entando-misc-light@4.3.2?type=war
+- pkg:maven/org.entando.entando.bundles.misc/entando-misc-light@5.0.0?classifier=sources
+- pkg:maven/org.entando.entando.bundles.misc/entando-misc-light@5.0.0?type=war

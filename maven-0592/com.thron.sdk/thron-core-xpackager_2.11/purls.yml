@@ -18,3 +18,9 @@
 - pkg:maven/com.thron.sdk/thron-core-xpackager_2.11@6.0.0?classifier=sources
 - pkg:maven/com.thron.sdk/thron-core-xpackager_2.11@6.1.0
 - pkg:maven/com.thron.sdk/thron-core-xpackager_2.11@6.1.0?classifier=sources
+- pkg:maven/com.thron.sdk/thron-core-xpackager_2.11@6.1.1
+- pkg:maven/com.thron.sdk/thron-core-xpackager_2.11@6.1.1-RC
+- pkg:maven/com.thron.sdk/thron-core-xpackager_2.11@6.1.1-RC?classifier=sources
+- pkg:maven/com.thron.sdk/thron-core-xpackager_2.11@6.1.1?classifier=sources
+- pkg:maven/com.thron.sdk/thron-core-xpackager_2.11@6.1.2
+- pkg:maven/com.thron.sdk/thron-core-xpackager_2.11@6.1.2?classifier=sources

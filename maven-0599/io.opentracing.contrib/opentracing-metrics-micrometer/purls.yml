@@ -1,0 +1,2 @@
+- pkg:maven/io.opentracing.contrib/opentracing-metrics-micrometer@0.3.0
+- pkg:maven/io.opentracing.contrib/opentracing-metrics-micrometer@0.3.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.jklingsporn/vertx-jooq-completablefuture-reactive@4.0.0-BETA
+- pkg:maven/io.github.jklingsporn/vertx-jooq-completablefuture-reactive@4.0.0-BETA?classifier=sources

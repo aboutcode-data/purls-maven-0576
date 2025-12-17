@@ -2,3 +2,7 @@
 - pkg:maven/com.notronix/AlbacoreDeed@1.0.0?classifier=sources
 - pkg:maven/com.notronix/AlbacoreDeed@1.1.0
 - pkg:maven/com.notronix/AlbacoreDeed@1.1.0?classifier=sources
+- pkg:maven/com.notronix/AlbacoreDeed@2.0.0
+- pkg:maven/com.notronix/AlbacoreDeed@2.0.0?classifier=sources
+- pkg:maven/com.notronix/AlbacoreDeed@2.0.1
+- pkg:maven/com.notronix/AlbacoreDeed@2.0.1?classifier=sources

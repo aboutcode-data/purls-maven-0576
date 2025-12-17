@@ -10,3 +10,5 @@
 - pkg:maven/com.github.phiz71/vertx-swagger-codegen@1.4.0?classifier=sources
 - pkg:maven/com.github.phiz71/vertx-swagger-codegen@1.5.0
 - pkg:maven/com.github.phiz71/vertx-swagger-codegen@1.5.0?classifier=sources
+- pkg:maven/com.github.phiz71/vertx-swagger-codegen@1.6.0
+- pkg:maven/com.github.phiz71/vertx-swagger-codegen@1.6.0?classifier=sources

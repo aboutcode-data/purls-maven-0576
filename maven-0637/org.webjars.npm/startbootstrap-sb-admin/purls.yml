@@ -1,4 +1,6 @@
 - pkg:maven/org.webjars.npm/startbootstrap-sb-admin@3.3.7
 - pkg:maven/org.webjars.npm/startbootstrap-sb-admin@3.3.7?classifier=sources
+- pkg:maven/org.webjars.npm/startbootstrap-sb-admin@4.0.0
 - pkg:maven/org.webjars.npm/startbootstrap-sb-admin@4.0.0-beta
 - pkg:maven/org.webjars.npm/startbootstrap-sb-admin@4.0.0-beta?classifier=sources
+- pkg:maven/org.webjars.npm/startbootstrap-sb-admin@4.0.0?classifier=sources

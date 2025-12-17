@@ -69,6 +69,7 @@
 - pkg:maven/net.jangaroo/ext-as@6.2.0-13?classifier=sources
 - pkg:maven/net.jangaroo/ext-as@6.2.0-14?classifier=sources
 - pkg:maven/net.jangaroo/ext-as@6.2.0-15?classifier=sources
+- pkg:maven/net.jangaroo/ext-as@6.2.0-16?classifier=sources
 - pkg:maven/net.jangaroo/ext-as@6.2.0-2?classifier=sources
 - pkg:maven/net.jangaroo/ext-as@6.2.0-3?classifier=sources
 - pkg:maven/net.jangaroo/ext-as@6.2.0-4?classifier=sources
@@ -78,5 +79,12 @@
 - pkg:maven/net.jangaroo/ext-as@6.2.0-8?classifier=sources
 - pkg:maven/net.jangaroo/ext-as@6.2.0-9?classifier=sources
 - pkg:maven/net.jangaroo/ext-as@6.2.0?classifier=sources
+- pkg:maven/net.jangaroo/ext-as@6.2.1-1?classifier=sources
+- pkg:maven/net.jangaroo/ext-as@6.2.1-2?classifier=sources
 - pkg:maven/net.jangaroo/ext-as@6.5.2-1?classifier=sources
 - pkg:maven/net.jangaroo/ext-as@6.5.2-2?classifier=sources
+- pkg:maven/net.jangaroo/ext-as@6.5.3-1?classifier=sources
+- pkg:maven/net.jangaroo/ext-as@6.5.3-2?classifier=sources
+- pkg:maven/net.jangaroo/ext-as@6.5.3-3?classifier=sources
+- pkg:maven/net.jangaroo/ext-as@6.5.3-4?classifier=sources
+- pkg:maven/net.jangaroo/ext-as@6.5.3-5?classifier=sources

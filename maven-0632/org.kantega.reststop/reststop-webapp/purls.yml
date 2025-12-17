@@ -25,3 +25,6 @@
 - pkg:maven/org.kantega.reststop/reststop-webapp@3.3?type=war
 - pkg:maven/org.kantega.reststop/reststop-webapp@3.5?type=war
 - pkg:maven/org.kantega.reststop/reststop-webapp@3.6?type=war
+- pkg:maven/org.kantega.reststop/reststop-webapp@3.7?type=war
+- pkg:maven/org.kantega.reststop/reststop-webapp@3.8?type=war
+- pkg:maven/org.kantega.reststop/reststop-webapp@3.9?type=war

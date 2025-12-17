@@ -24,6 +24,8 @@
 - pkg:maven/org.webjars.npm/debug@2.6.7?classifier=sources
 - pkg:maven/org.webjars.npm/debug@2.6.8
 - pkg:maven/org.webjars.npm/debug@2.6.8?classifier=sources
+- pkg:maven/org.webjars.npm/debug@2.6.9
+- pkg:maven/org.webjars.npm/debug@2.6.9?classifier=sources
 - pkg:maven/org.webjars.npm/debug@3.0.0
 - pkg:maven/org.webjars.npm/debug@3.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/debug@3.1.0

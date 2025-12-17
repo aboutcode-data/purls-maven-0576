@@ -1,0 +1,2 @@
+- pkg:maven/org.fusesource.hawtjni/hawtjni-maven-plugin@1.16
+- pkg:maven/org.fusesource.hawtjni/hawtjni-maven-plugin@1.16?classifier=sources

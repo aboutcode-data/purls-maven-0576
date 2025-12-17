@@ -1,2 +1,4 @@
 - pkg:maven/com.github.davidmarquis/redis-scheduler@2.0.0
 - pkg:maven/com.github.davidmarquis/redis-scheduler@2.0.0?classifier=sources
+- pkg:maven/com.github.davidmarquis/redis-scheduler@3.0.0
+- pkg:maven/com.github.davidmarquis/redis-scheduler@3.0.0?classifier=sources

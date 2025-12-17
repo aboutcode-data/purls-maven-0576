@@ -1,0 +1,2 @@
+- pkg:maven/com.scireum/sirius-nlp-plugin@5.6.8.1?classifier=sources
+- pkg:maven/com.scireum/sirius-nlp-plugin@5.6.8.1?type=zip

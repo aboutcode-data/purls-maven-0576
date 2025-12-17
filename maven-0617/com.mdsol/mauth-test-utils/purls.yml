@@ -1,0 +1,2 @@
+- pkg:maven/com.mdsol/mauth-test-utils@1.0.1
+- pkg:maven/com.mdsol/mauth-test-utils@1.0.1?classifier=sources

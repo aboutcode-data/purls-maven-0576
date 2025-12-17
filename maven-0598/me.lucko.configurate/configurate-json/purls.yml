@@ -1,0 +1,4 @@
+- pkg:maven/me.lucko.configurate/configurate-json@3.4
+- pkg:maven/me.lucko.configurate/configurate-json@3.4?classifier=sources
+- pkg:maven/me.lucko.configurate/configurate-json@3.5
+- pkg:maven/me.lucko.configurate/configurate-json@3.5?classifier=sources

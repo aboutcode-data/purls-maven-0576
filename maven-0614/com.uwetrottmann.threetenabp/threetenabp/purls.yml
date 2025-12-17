@@ -1,0 +1,2 @@
+- pkg:maven/com.uwetrottmann.threetenabp/threetenabp@1.0.6?classifier=sources
+- pkg:maven/com.uwetrottmann.threetenabp/threetenabp@1.0.6?type=aar

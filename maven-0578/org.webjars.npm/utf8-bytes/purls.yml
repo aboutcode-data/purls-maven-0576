@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/utf8-bytes@0.0.1
+- pkg:maven/org.webjars.npm/utf8-bytes@0.0.1?classifier=sources

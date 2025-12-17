@@ -1,0 +1,2 @@
+- pkg:maven/de.isas.mztab/jmztabm-cli@0.9.5
+- pkg:maven/de.isas.mztab/jmztabm-cli@0.9.5?classifier=sources

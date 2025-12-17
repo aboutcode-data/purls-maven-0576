@@ -1,0 +1,12 @@
+- pkg:maven/ch.epfl.scala/bsp_2.12@0.1.0
+- pkg:maven/ch.epfl.scala/bsp_2.12@0.1.0?classifier=sources
+- pkg:maven/ch.epfl.scala/bsp_2.12@03e9b72d
+- pkg:maven/ch.epfl.scala/bsp_2.12@03e9b72d?classifier=sources
+- pkg:maven/ch.epfl.scala/bsp_2.12@1769827d
+- pkg:maven/ch.epfl.scala/bsp_2.12@1769827d?classifier=sources
+- pkg:maven/ch.epfl.scala/bsp_2.12@1ca97e62
+- pkg:maven/ch.epfl.scala/bsp_2.12@1ca97e62?classifier=sources
+- pkg:maven/ch.epfl.scala/bsp_2.12@b3d16806
+- pkg:maven/ch.epfl.scala/bsp_2.12@b3d16806?classifier=sources
+- pkg:maven/ch.epfl.scala/bsp_2.12@ce87199c
+- pkg:maven/ch.epfl.scala/bsp_2.12@ce87199c?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.openurp.lixin.admission/lixin-admission-core@0.0.1
+- pkg:maven/net.openurp.lixin.admission/lixin-admission-core@0.0.1?classifier=sources

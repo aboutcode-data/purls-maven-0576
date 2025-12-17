@@ -23,3 +23,4 @@
 - pkg:maven/org.spincast/spincast-plugins-undertow-tests@0.9.34
 - pkg:maven/org.spincast/spincast-plugins-undertow-tests@0.9.35
 - pkg:maven/org.spincast/spincast-plugins-undertow-tests@0.9.36
+- pkg:maven/org.spincast/spincast-plugins-undertow-tests@0.9.37

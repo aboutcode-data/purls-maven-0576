@@ -1,0 +1,2 @@
+- pkg:maven/com.github.tnessn/couscous-spring@0.0.30
+- pkg:maven/com.github.tnessn/couscous-spring@0.0.30?classifier=sources

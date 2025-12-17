@@ -1,0 +1,2 @@
+- pkg:maven/net.sourceforge.jscl-meditor/snuggletex-core@1.2.2
+- pkg:maven/net.sourceforge.jscl-meditor/snuggletex-core@1.2.2?classifier=sources

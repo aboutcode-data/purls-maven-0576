@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bowergithub.strml/textfit@2.1.1
+- pkg:maven/org.webjars.bowergithub.strml/textfit@2.1.1?classifier=sources
+- pkg:maven/org.webjars.bowergithub.strml/textfit@2.3.1
+- pkg:maven/org.webjars.bowergithub.strml/textfit@2.3.1?classifier=sources

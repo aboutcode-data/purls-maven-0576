@@ -1,0 +1,10 @@
+- pkg:maven/de.adorsys.sts/sts-persistence-docusafe@0.24.0
+- pkg:maven/de.adorsys.sts/sts-persistence-docusafe@0.24.0?classifier=sources
+- pkg:maven/de.adorsys.sts/sts-persistence-docusafe@0.25.0
+- pkg:maven/de.adorsys.sts/sts-persistence-docusafe@0.25.0?classifier=sources
+- pkg:maven/de.adorsys.sts/sts-persistence-docusafe@0.25.1
+- pkg:maven/de.adorsys.sts/sts-persistence-docusafe@0.25.1?classifier=sources
+- pkg:maven/de.adorsys.sts/sts-persistence-docusafe@0.26.0
+- pkg:maven/de.adorsys.sts/sts-persistence-docusafe@0.26.0?classifier=sources
+- pkg:maven/de.adorsys.sts/sts-persistence-docusafe@0.26.1
+- pkg:maven/de.adorsys.sts/sts-persistence-docusafe@0.26.1?classifier=sources

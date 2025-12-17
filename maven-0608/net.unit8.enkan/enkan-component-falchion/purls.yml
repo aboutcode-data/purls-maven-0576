@@ -1,0 +1,2 @@
+- pkg:maven/net.unit8.enkan/enkan-component-falchion@0.6.0-beta3
+- pkg:maven/net.unit8.enkan/enkan-component-falchion@0.6.0-beta3?classifier=sources

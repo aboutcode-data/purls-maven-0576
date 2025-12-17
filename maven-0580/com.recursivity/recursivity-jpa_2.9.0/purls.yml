@@ -1,0 +1,2 @@
+- pkg:maven/com.recursivity/recursivity-jpa_2.9.0@1.0
+- pkg:maven/com.recursivity/recursivity-jpa_2.9.0@1.0?classifier=sources

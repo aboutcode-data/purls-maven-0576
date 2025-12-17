@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/stimulus__core@0.9.0
+- pkg:maven/org.webjars.npm/stimulus__core@0.9.0?classifier=sources
+- pkg:maven/org.webjars.npm/stimulus__core@1.0.1
+- pkg:maven/org.webjars.npm/stimulus__core@1.0.1?classifier=sources

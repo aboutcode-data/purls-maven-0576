@@ -12,3 +12,5 @@
 - pkg:maven/com.github.medyo/android-about-page@1.0.7?type=aar
 - pkg:maven/com.github.medyo/android-about-page@1.0?classifier=sources
 - pkg:maven/com.github.medyo/android-about-page@1.0?type=aar
+- pkg:maven/com.github.medyo/android-about-page@1.2.4?classifier=sources
+- pkg:maven/com.github.medyo/android-about-page@1.2.4?type=aar

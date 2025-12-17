@@ -30,6 +30,10 @@
 - pkg:maven/com.google.firebase/firebase-admin@5.0.1?classifier=sources
 - pkg:maven/com.google.firebase/firebase-admin@5.1.0
 - pkg:maven/com.google.firebase/firebase-admin@5.1.0?classifier=sources
+- pkg:maven/com.google.firebase/firebase-admin@5.10.0
+- pkg:maven/com.google.firebase/firebase-admin@5.10.0?classifier=sources
+- pkg:maven/com.google.firebase/firebase-admin@5.11.0
+- pkg:maven/com.google.firebase/firebase-admin@5.11.0?classifier=sources
 - pkg:maven/com.google.firebase/firebase-admin@5.2.0
 - pkg:maven/com.google.firebase/firebase-admin@5.2.0?classifier=sources
 - pkg:maven/com.google.firebase/firebase-admin@5.3.0
@@ -44,3 +48,13 @@
 - pkg:maven/com.google.firebase/firebase-admin@5.6.0?classifier=sources
 - pkg:maven/com.google.firebase/firebase-admin@5.7.0
 - pkg:maven/com.google.firebase/firebase-admin@5.7.0?classifier=sources
+- pkg:maven/com.google.firebase/firebase-admin@5.8.0
+- pkg:maven/com.google.firebase/firebase-admin@5.8.0?classifier=sources
+- pkg:maven/com.google.firebase/firebase-admin@5.9.0
+- pkg:maven/com.google.firebase/firebase-admin@5.9.0?classifier=sources
+- pkg:maven/com.google.firebase/firebase-admin@6.0.0
+- pkg:maven/com.google.firebase/firebase-admin@6.0.0?classifier=sources
+- pkg:maven/com.google.firebase/firebase-admin@6.1.0
+- pkg:maven/com.google.firebase/firebase-admin@6.1.0?classifier=sources
+- pkg:maven/com.google.firebase/firebase-admin@6.2.0
+- pkg:maven/com.google.firebase/firebase-admin@6.2.0?classifier=sources

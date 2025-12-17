@@ -1,0 +1,3 @@
+- pkg:maven/edu.psu.swe.scim/scim-tools-studio@2.20?type=war
+- pkg:maven/edu.psu.swe.scim/scim-tools-studio@2.21?type=war
+- pkg:maven/edu.psu.swe.scim/scim-tools-studio@2.22?type=war

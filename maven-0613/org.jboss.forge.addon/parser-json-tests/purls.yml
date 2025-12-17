@@ -70,3 +70,4 @@
 - pkg:maven/org.jboss.forge.addon/parser-json-tests@3.7.2.Final
 - pkg:maven/org.jboss.forge.addon/parser-json-tests@3.8.0.Final
 - pkg:maven/org.jboss.forge.addon/parser-json-tests@3.8.1.Final
+- pkg:maven/org.jboss.forge.addon/parser-json-tests@3.9.0.Final

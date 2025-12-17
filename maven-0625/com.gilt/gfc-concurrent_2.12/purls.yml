@@ -4,3 +4,5 @@
 - pkg:maven/com.gilt/gfc-concurrent_2.12@0.3.6?classifier=sources
 - pkg:maven/com.gilt/gfc-concurrent_2.12@0.3.7
 - pkg:maven/com.gilt/gfc-concurrent_2.12@0.3.7?classifier=sources
+- pkg:maven/com.gilt/gfc-concurrent_2.12@0.3.8
+- pkg:maven/com.gilt/gfc-concurrent_2.12@0.3.8?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.activiti.cloud/activiti-cloud-services-rest-docs@7-201802-EA
+- pkg:maven/org.activiti.cloud/activiti-cloud-services-rest-docs@7-201802-EA?classifier=sources

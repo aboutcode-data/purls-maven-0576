@@ -20,3 +20,15 @@
 - pkg:maven/org.wso2.carbon.governance/org.wso2.carbon.governance.rest.api@4.7.20?type=war
 - pkg:maven/org.wso2.carbon.governance/org.wso2.carbon.governance.rest.api@4.7.21?classifier=sources
 - pkg:maven/org.wso2.carbon.governance/org.wso2.carbon.governance.rest.api@4.7.21?type=war
+- pkg:maven/org.wso2.carbon.governance/org.wso2.carbon.governance.rest.api@4.7.22?classifier=sources
+- pkg:maven/org.wso2.carbon.governance/org.wso2.carbon.governance.rest.api@4.7.22?type=war
+- pkg:maven/org.wso2.carbon.governance/org.wso2.carbon.governance.rest.api@4.7.23?classifier=sources
+- pkg:maven/org.wso2.carbon.governance/org.wso2.carbon.governance.rest.api@4.7.23?type=war
+- pkg:maven/org.wso2.carbon.governance/org.wso2.carbon.governance.rest.api@4.7.24?classifier=sources
+- pkg:maven/org.wso2.carbon.governance/org.wso2.carbon.governance.rest.api@4.7.24?type=war
+- pkg:maven/org.wso2.carbon.governance/org.wso2.carbon.governance.rest.api@4.7.25?classifier=sources
+- pkg:maven/org.wso2.carbon.governance/org.wso2.carbon.governance.rest.api@4.7.25?type=war
+- pkg:maven/org.wso2.carbon.governance/org.wso2.carbon.governance.rest.api@4.7.26?classifier=sources
+- pkg:maven/org.wso2.carbon.governance/org.wso2.carbon.governance.rest.api@4.7.26?type=war
+- pkg:maven/org.wso2.carbon.governance/org.wso2.carbon.governance.rest.api@4.7.27?classifier=sources
+- pkg:maven/org.wso2.carbon.governance/org.wso2.carbon.governance.rest.api@4.7.27?type=war

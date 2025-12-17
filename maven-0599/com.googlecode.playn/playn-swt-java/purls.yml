@@ -5,4 +5,6 @@
 - pkg:maven/com.googlecode.playn/playn-swt-java@1.9
 - pkg:maven/com.googlecode.playn/playn-swt-java@1.9-alpha1
 - pkg:maven/com.googlecode.playn/playn-swt-java@1.9-alpha1?classifier=sources
+- pkg:maven/com.googlecode.playn/playn-swt-java@1.9.1
+- pkg:maven/com.googlecode.playn/playn-swt-java@1.9.1?classifier=sources
 - pkg:maven/com.googlecode.playn/playn-swt-java@1.9?classifier=sources

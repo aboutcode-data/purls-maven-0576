@@ -24,6 +24,8 @@
 - pkg:maven/org.mobicents.servers.jainslee.tools/mobicents-slee-tools-management-console-war@3.0.41?type=war
 - pkg:maven/org.mobicents.servers.jainslee.tools/mobicents-slee-tools-management-console-war@3.0.42?classifier=sources
 - pkg:maven/org.mobicents.servers.jainslee.tools/mobicents-slee-tools-management-console-war@3.0.42?type=war
+- pkg:maven/org.mobicents.servers.jainslee.tools/mobicents-slee-tools-management-console-war@3.0.43?classifier=sources
+- pkg:maven/org.mobicents.servers.jainslee.tools/mobicents-slee-tools-management-console-war@3.0.43?type=war
 - pkg:maven/org.mobicents.servers.jainslee.tools/mobicents-slee-tools-management-console-war@3.0.44?classifier=sources
 - pkg:maven/org.mobicents.servers.jainslee.tools/mobicents-slee-tools-management-console-war@3.0.44?type=war
 - pkg:maven/org.mobicents.servers.jainslee.tools/mobicents-slee-tools-management-console-war@3.0.45?classifier=sources

@@ -2,3 +2,8 @@
 - pkg:maven/com.unvired/android-sdk@3.0.145?type=aar
 - pkg:maven/com.unvired/android-sdk@3.0.146?type=aar
 - pkg:maven/com.unvired/android-sdk@3.0.147?type=aar
+- pkg:maven/com.unvired/android-sdk@3.0.187?type=aar
+- pkg:maven/com.unvired/android-sdk@3.0.188?type=aar
+- pkg:maven/com.unvired/android-sdk@3.0.189?type=aar
+- pkg:maven/com.unvired/android-sdk@3.0.193?type=aar
+- pkg:maven/com.unvired/android-sdk@3.0.194?type=aar

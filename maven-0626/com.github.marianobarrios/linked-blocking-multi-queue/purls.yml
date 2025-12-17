@@ -1,0 +1,2 @@
+- pkg:maven/com.github.marianobarrios/linked-blocking-multi-queue@0.3.0
+- pkg:maven/com.github.marianobarrios/linked-blocking-multi-queue@0.3.0?classifier=sources

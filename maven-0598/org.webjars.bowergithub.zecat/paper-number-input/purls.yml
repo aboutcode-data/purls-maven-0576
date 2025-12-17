@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bowergithub.zecat/paper-number-input@0.1.0
+- pkg:maven/org.webjars.bowergithub.zecat/paper-number-input@0.1.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.zecat/paper-number-input@1.1.0
+- pkg:maven/org.webjars.bowergithub.zecat/paper-number-input@1.1.0?classifier=sources

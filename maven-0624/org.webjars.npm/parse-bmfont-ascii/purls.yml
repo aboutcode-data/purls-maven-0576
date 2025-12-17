@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/parse-bmfont-ascii@1.0.3
 - pkg:maven/org.webjars.npm/parse-bmfont-ascii@1.0.3?classifier=sources
+- pkg:maven/org.webjars.npm/parse-bmfont-ascii@1.0.6
+- pkg:maven/org.webjars.npm/parse-bmfont-ascii@1.0.6?classifier=sources

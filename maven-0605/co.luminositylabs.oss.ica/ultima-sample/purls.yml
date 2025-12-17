@@ -1,0 +1,2 @@
+- pkg:maven/co.luminositylabs.oss.ica/ultima-sample@0.2.0?classifier=sources
+- pkg:maven/co.luminositylabs.oss.ica/ultima-sample@0.2.0?type=war

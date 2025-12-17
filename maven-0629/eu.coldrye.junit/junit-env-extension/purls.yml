@@ -1,0 +1,4 @@
+- pkg:maven/eu.coldrye.junit/junit-env-extension@1.0.0
+- pkg:maven/eu.coldrye.junit/junit-env-extension@1.0.0?classifier=sources
+- pkg:maven/eu.coldrye.junit/junit-env-extension@1.0.2
+- pkg:maven/eu.coldrye.junit/junit-env-extension@1.0.2?classifier=sources

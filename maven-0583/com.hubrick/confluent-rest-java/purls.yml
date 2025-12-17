@@ -1,0 +1,2 @@
+- pkg:maven/com.hubrick/confluent-rest-java@1.0.1
+- pkg:maven/com.hubrick/confluent-rest-java@1.0.1?classifier=sources

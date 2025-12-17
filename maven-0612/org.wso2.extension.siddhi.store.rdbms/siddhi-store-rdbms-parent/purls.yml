@@ -11,7 +11,13 @@
 - pkg:maven/org.wso2.extension.siddhi.store.rdbms/siddhi-store-rdbms-parent@4.0.13?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.store.rdbms/siddhi-store-rdbms-parent@4.0.14?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.store.rdbms/siddhi-store-rdbms-parent@4.0.15?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.store.rdbms/siddhi-store-rdbms-parent@4.0.16?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.store.rdbms/siddhi-store-rdbms-parent@4.0.17?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.store.rdbms/siddhi-store-rdbms-parent@4.0.18?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.store.rdbms/siddhi-store-rdbms-parent@4.0.19?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.store.rdbms/siddhi-store-rdbms-parent@4.0.1?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.store.rdbms/siddhi-store-rdbms-parent@4.0.20?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.store.rdbms/siddhi-store-rdbms-parent@4.0.21?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.store.rdbms/siddhi-store-rdbms-parent@4.0.2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.store.rdbms/siddhi-store-rdbms-parent@4.0.3?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.store.rdbms/siddhi-store-rdbms-parent@4.0.4?classifier=source-release&type=zip

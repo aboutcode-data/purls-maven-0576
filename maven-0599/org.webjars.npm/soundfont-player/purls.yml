@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/soundfont-player@0.10.6
+- pkg:maven/org.webjars.npm/soundfont-player@0.10.6?classifier=sources

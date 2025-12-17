@@ -1,0 +1,2 @@
+- pkg:maven/com.thoughtworks.deeplearning/plugins-products_2.11@2.2.0-M1
+- pkg:maven/com.thoughtworks.deeplearning/plugins-products_2.11@2.2.0-M1?classifier=sources

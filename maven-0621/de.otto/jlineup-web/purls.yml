@@ -1,0 +1,4 @@
+- pkg:maven/de.otto/jlineup-web@2.4.1
+- pkg:maven/de.otto/jlineup-web@2.4.1?classifier=sources
+- pkg:maven/de.otto/jlineup-web@3.0.0-rc1
+- pkg:maven/de.otto/jlineup-web@3.0.0-rc1?classifier=sources

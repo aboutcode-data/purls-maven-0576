@@ -12,3 +12,7 @@
 - pkg:maven/systems.manifold/manifold-docs@0.6-alpha?classifier=sources
 - pkg:maven/systems.manifold/manifold-docs@0.7-alpha
 - pkg:maven/systems.manifold/manifold-docs@0.7-alpha?classifier=sources
+- pkg:maven/systems.manifold/manifold-docs@0.8-alpha
+- pkg:maven/systems.manifold/manifold-docs@0.8-alpha?classifier=sources
+- pkg:maven/systems.manifold/manifold-docs@0.9-alpha
+- pkg:maven/systems.manifold/manifold-docs@0.9-alpha?classifier=sources

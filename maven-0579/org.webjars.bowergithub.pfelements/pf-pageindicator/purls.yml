@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bowergithub.pfelements/pf-pageindicator@0.1.4
+- pkg:maven/org.webjars.bowergithub.pfelements/pf-pageindicator@0.1.4?classifier=sources
+- pkg:maven/org.webjars.bowergithub.pfelements/pf-pageindicator@0.1.5
+- pkg:maven/org.webjars.bowergithub.pfelements/pf-pageindicator@0.1.5?classifier=sources

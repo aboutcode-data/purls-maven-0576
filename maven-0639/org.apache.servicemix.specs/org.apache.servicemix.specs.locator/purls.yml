@@ -28,6 +28,8 @@
 - pkg:maven/org.apache.servicemix.specs/org.apache.servicemix.specs.locator@2.0.0?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix.specs/org.apache.servicemix.specs.locator@2.1.0
 - pkg:maven/org.apache.servicemix.specs/org.apache.servicemix.specs.locator@2.1.0?classifier=sources
+- pkg:maven/org.apache.servicemix.specs/org.apache.servicemix.specs.locator@2.10
+- pkg:maven/org.apache.servicemix.specs/org.apache.servicemix.specs.locator@2.10?classifier=sources
 - pkg:maven/org.apache.servicemix.specs/org.apache.servicemix.specs.locator@2.2.0
 - pkg:maven/org.apache.servicemix.specs/org.apache.servicemix.specs.locator@2.2.0?classifier=sources
 - pkg:maven/org.apache.servicemix.specs/org.apache.servicemix.specs.locator@2.3.0

@@ -494,3 +494,5 @@
 - pkg:maven/org.glassfish.hk2/osgiversion-maven-plugin@2.5.0-b56?classifier=sources
 - pkg:maven/org.glassfish.hk2/osgiversion-maven-plugin@2.5.0-b57
 - pkg:maven/org.glassfish.hk2/osgiversion-maven-plugin@2.5.0-b57?classifier=sources
+- pkg:maven/org.glassfish.hk2/osgiversion-maven-plugin@2.5.0-b61
+- pkg:maven/org.glassfish.hk2/osgiversion-maven-plugin@2.5.0-b61?classifier=sources

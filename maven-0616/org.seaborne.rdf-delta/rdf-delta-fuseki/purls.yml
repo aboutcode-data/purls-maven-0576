@@ -1,0 +1,2 @@
+- pkg:maven/org.seaborne.rdf-delta/rdf-delta-fuseki@0.4.0
+- pkg:maven/org.seaborne.rdf-delta/rdf-delta-fuseki@0.4.0?classifier=sources

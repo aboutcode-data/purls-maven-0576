@@ -1,0 +1,4 @@
+- pkg:maven/org.foundweekends/knockoff_sjs0.6_2.13.0-M3@0.8.10
+- pkg:maven/org.foundweekends/knockoff_sjs0.6_2.13.0-M3@0.8.10?classifier=sources
+- pkg:maven/org.foundweekends/knockoff_sjs0.6_2.13.0-M3@0.8.9
+- pkg:maven/org.foundweekends/knockoff_sjs0.6_2.13.0-M3@0.8.9?classifier=sources

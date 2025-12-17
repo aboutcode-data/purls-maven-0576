@@ -12,3 +12,5 @@
 - pkg:maven/com.foreach.across/across-web@2.1.0.RELEASE?classifier=sources
 - pkg:maven/com.foreach.across/across-web@2.1.1.RELEASE
 - pkg:maven/com.foreach.across/across-web@2.1.1.RELEASE?classifier=sources
+- pkg:maven/com.foreach.across/across-web@3.0.0.RELEASE
+- pkg:maven/com.foreach.across/across-web@3.0.0.RELEASE?classifier=sources

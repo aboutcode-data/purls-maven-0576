@@ -1,0 +1,6 @@
+- pkg:maven/net.sourceforge.streamsupport/java9-concurrent-backport@1.0.0
+- pkg:maven/net.sourceforge.streamsupport/java9-concurrent-backport@1.0.0?classifier=sources
+- pkg:maven/net.sourceforge.streamsupport/java9-concurrent-backport@1.1.0
+- pkg:maven/net.sourceforge.streamsupport/java9-concurrent-backport@1.1.0?classifier=sources
+- pkg:maven/net.sourceforge.streamsupport/java9-concurrent-backport@1.1.1
+- pkg:maven/net.sourceforge.streamsupport/java9-concurrent-backport@1.1.1?classifier=sources

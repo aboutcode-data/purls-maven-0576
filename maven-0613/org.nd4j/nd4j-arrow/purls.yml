@@ -1,0 +1,4 @@
+- pkg:maven/org.nd4j/nd4j-arrow@1.0.0-alpha
+- pkg:maven/org.nd4j/nd4j-arrow@1.0.0-alpha?classifier=sources
+- pkg:maven/org.nd4j/nd4j-arrow@1.0.0-beta
+- pkg:maven/org.nd4j/nd4j-arrow@1.0.0-beta?classifier=sources

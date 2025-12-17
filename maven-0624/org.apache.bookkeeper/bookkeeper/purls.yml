@@ -3,3 +3,6 @@
 - pkg:maven/org.apache.bookkeeper/bookkeeper@4.5.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.bookkeeper/bookkeeper@4.5.1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.bookkeeper/bookkeeper@4.6.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.bookkeeper/bookkeeper@4.6.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.bookkeeper/bookkeeper@4.6.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.bookkeeper/bookkeeper@4.7.0?classifier=source-release&type=zip

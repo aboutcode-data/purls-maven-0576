@@ -36,3 +36,5 @@
 - pkg:maven/org.duracloud.db/mill-db-repo@4.1.0-SNAPSHOt
 - pkg:maven/org.duracloud.db/mill-db-repo@4.1.0-SNAPSHOt?classifier=sources
 - pkg:maven/org.duracloud.db/mill-db-repo@4.1.0?classifier=sources
+- pkg:maven/org.duracloud.db/mill-db-repo@4.1.1
+- pkg:maven/org.duracloud.db/mill-db-repo@4.1.1?classifier=sources

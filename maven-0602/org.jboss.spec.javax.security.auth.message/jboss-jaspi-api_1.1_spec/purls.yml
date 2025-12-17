@@ -10,3 +10,6 @@
 - pkg:maven/org.jboss.spec.javax.security.auth.message/jboss-jaspi-api_1.1_spec@1.0.1.Final
 - pkg:maven/org.jboss.spec.javax.security.auth.message/jboss-jaspi-api_1.1_spec@1.0.1.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.spec.javax.security.auth.message/jboss-jaspi-api_1.1_spec@1.0.1.Final?classifier=sources
+- pkg:maven/org.jboss.spec.javax.security.auth.message/jboss-jaspi-api_1.1_spec@1.0.2.Final
+- pkg:maven/org.jboss.spec.javax.security.auth.message/jboss-jaspi-api_1.1_spec@1.0.2.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.spec.javax.security.auth.message/jboss-jaspi-api_1.1_spec@1.0.2.Final?classifier=sources

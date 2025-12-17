@@ -10,3 +10,5 @@
 - pkg:maven/io.frees/frees-cassandra-core_2.12@0.0.4?classifier=sources
 - pkg:maven/io.frees/frees-cassandra-core_2.12@0.1.0
 - pkg:maven/io.frees/frees-cassandra-core_2.12@0.1.0?classifier=sources
+- pkg:maven/io.frees/frees-cassandra-core_2.12@0.1.1
+- pkg:maven/io.frees/frees-cassandra-core_2.12@0.1.1?classifier=sources

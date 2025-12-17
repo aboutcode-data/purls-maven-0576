@@ -1,0 +1,4 @@
+- pkg:maven/biz.jovido/jovido-webseed@0.0.1
+- pkg:maven/biz.jovido/jovido-webseed@0.0.1-fenicesfa
+- pkg:maven/biz.jovido/jovido-webseed@0.0.1-fenicesfa?classifier=sources
+- pkg:maven/biz.jovido/jovido-webseed@0.0.1?classifier=sources

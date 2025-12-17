@@ -1,0 +1,2 @@
+- pkg:maven/com.deepblueai.quixmart/quixmart-java-sdk@0.1.6-RELEASE
+- pkg:maven/com.deepblueai.quixmart/quixmart-java-sdk@0.1.6-RELEASE?classifier=sources

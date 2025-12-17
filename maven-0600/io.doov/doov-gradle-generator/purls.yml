@@ -1,0 +1,2 @@
+- pkg:maven/io.doov/doov-gradle-generator@2.0.0
+- pkg:maven/io.doov/doov-gradle-generator@2.0.0?classifier=sources

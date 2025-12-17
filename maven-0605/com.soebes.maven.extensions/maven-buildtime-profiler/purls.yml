@@ -1,2 +1,4 @@
 - pkg:maven/com.soebes.maven.extensions/maven-buildtime-profiler@0.1.0
 - pkg:maven/com.soebes.maven.extensions/maven-buildtime-profiler@0.1.0?classifier=sources
+- pkg:maven/com.soebes.maven.extensions/maven-buildtime-profiler@0.2.0
+- pkg:maven/com.soebes.maven.extensions/maven-buildtime-profiler@0.2.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/io.zeebe.spring/spring-zeebe-broker-starter@0.1.0
 - pkg:maven/io.zeebe.spring/spring-zeebe-broker-starter@0.1.0?classifier=sources
+- pkg:maven/io.zeebe.spring/spring-zeebe-broker-starter@0.2.0
+- pkg:maven/io.zeebe.spring/spring-zeebe-broker-starter@0.2.0?classifier=sources
