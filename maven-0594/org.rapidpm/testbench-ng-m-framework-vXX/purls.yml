@@ -1,0 +1,4 @@
+- pkg:maven/org.rapidpm/testbench-ng-m-framework-vXX@00.07.05-RPM
+- pkg:maven/org.rapidpm/testbench-ng-m-framework-vXX@00.07.05-RPM?classifier=sources
+- pkg:maven/org.rapidpm/testbench-ng-m-framework-vXX@00.07.06-RPM
+- pkg:maven/org.rapidpm/testbench-ng-m-framework-vXX@00.07.06-RPM?classifier=sources

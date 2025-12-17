@@ -1,2 +1,4 @@
 - pkg:maven/org.arakhne.afc.core/mathgen@14.0
 - pkg:maven/org.arakhne.afc.core/mathgen@14.0?classifier=sources
+- pkg:maven/org.arakhne.afc.core/mathgen@15.0
+- pkg:maven/org.arakhne.afc.core/mathgen@15.0?classifier=sources

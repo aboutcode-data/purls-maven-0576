@@ -1,0 +1,8 @@
+- pkg:maven/io.bitsensor/lib-privacy@2.1.0
+- pkg:maven/io.bitsensor/lib-privacy@2.1.0?classifier=sources
+- pkg:maven/io.bitsensor/lib-privacy@3.0.0
+- pkg:maven/io.bitsensor/lib-privacy@3.0.0?classifier=sources
+- pkg:maven/io.bitsensor/lib-privacy@4.0.0
+- pkg:maven/io.bitsensor/lib-privacy@4.0.0?classifier=sources
+- pkg:maven/io.bitsensor/lib-privacy@4.2.0
+- pkg:maven/io.bitsensor/lib-privacy@4.2.0?classifier=sources

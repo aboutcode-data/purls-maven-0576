@@ -80,3 +80,7 @@
 - pkg:maven/ly.kite/kite-print-sdk-gcm@5.8.5?type=aar
 - pkg:maven/ly.kite/kite-print-sdk-gcm@5.8.7?classifier=sources
 - pkg:maven/ly.kite/kite-print-sdk-gcm@5.8.7?type=aar
+- pkg:maven/ly.kite/kite-print-sdk-gcm@5.8.8?classifier=sources
+- pkg:maven/ly.kite/kite-print-sdk-gcm@5.8.8?type=aar
+- pkg:maven/ly.kite/kite-print-sdk-gcm@5.8.9?classifier=sources
+- pkg:maven/ly.kite/kite-print-sdk-gcm@5.8.9?type=aar

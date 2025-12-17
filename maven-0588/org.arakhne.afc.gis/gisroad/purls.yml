@@ -1,2 +1,4 @@
 - pkg:maven/org.arakhne.afc.gis/gisroad@14.0
 - pkg:maven/org.arakhne.afc.gis/gisroad@14.0?classifier=sources
+- pkg:maven/org.arakhne.afc.gis/gisroad@15.0
+- pkg:maven/org.arakhne.afc.gis/gisroad@15.0?classifier=sources

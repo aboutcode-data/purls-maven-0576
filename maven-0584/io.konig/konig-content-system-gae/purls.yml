@@ -1,0 +1,4 @@
+- pkg:maven/io.konig/konig-content-system-gae@2.0.0?classifier=sources
+- pkg:maven/io.konig/konig-content-system-gae@2.0.0?type=war
+- pkg:maven/io.konig/konig-content-system-gae@2.1.0?classifier=sources
+- pkg:maven/io.konig/konig-content-system-gae@2.1.0?type=war

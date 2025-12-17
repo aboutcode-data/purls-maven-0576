@@ -7,3 +7,7 @@
 - pkg:maven/com.github.cimpress-mcp/sqs-streams@0.7.46-5cddac7?classifier=sources
 - pkg:maven/com.github.cimpress-mcp/sqs-streams@0.7.51-52fb018
 - pkg:maven/com.github.cimpress-mcp/sqs-streams@0.7.51-52fb018?classifier=sources
+- pkg:maven/com.github.cimpress-mcp/sqs-streams@0.7.55-5bbb44c
+- pkg:maven/com.github.cimpress-mcp/sqs-streams@0.7.55-5bbb44c?classifier=sources
+- pkg:maven/com.github.cimpress-mcp/sqs-streams@0.7.56-2514323
+- pkg:maven/com.github.cimpress-mcp/sqs-streams@0.7.56-2514323?classifier=sources

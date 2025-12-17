@@ -3,6 +3,12 @@
 - pkg:maven/com.opsbears.webcomponents/dic@1.0.0-PR2
 - pkg:maven/com.opsbears.webcomponents/dic@1.0.0-PR2?classifier=sources
 - pkg:maven/com.opsbears.webcomponents/dic@1.0.0-alpha1
+- pkg:maven/com.opsbears.webcomponents/dic@1.0.0-alpha10
+- pkg:maven/com.opsbears.webcomponents/dic@1.0.0-alpha10?classifier=sources
+- pkg:maven/com.opsbears.webcomponents/dic@1.0.0-alpha11
+- pkg:maven/com.opsbears.webcomponents/dic@1.0.0-alpha11?classifier=sources
+- pkg:maven/com.opsbears.webcomponents/dic@1.0.0-alpha13
+- pkg:maven/com.opsbears.webcomponents/dic@1.0.0-alpha13?classifier=sources
 - pkg:maven/com.opsbears.webcomponents/dic@1.0.0-alpha1?classifier=sources
 - pkg:maven/com.opsbears.webcomponents/dic@1.0.0-alpha2
 - pkg:maven/com.opsbears.webcomponents/dic@1.0.0-alpha2?classifier=sources
@@ -10,3 +16,7 @@
 - pkg:maven/com.opsbears.webcomponents/dic@1.0.0-alpha3?classifier=sources
 - pkg:maven/com.opsbears.webcomponents/dic@1.0.0-alpha4
 - pkg:maven/com.opsbears.webcomponents/dic@1.0.0-alpha4?classifier=sources
+- pkg:maven/com.opsbears.webcomponents/dic@1.0.0-alpha8
+- pkg:maven/com.opsbears.webcomponents/dic@1.0.0-alpha8?classifier=sources
+- pkg:maven/com.opsbears.webcomponents/dic@1.0.0-alpha9
+- pkg:maven/com.opsbears.webcomponents/dic@1.0.0-alpha9?classifier=sources

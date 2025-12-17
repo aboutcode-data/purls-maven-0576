@@ -1,0 +1,4 @@
+- pkg:maven/com.hds.hcpaw/anywhere-reporting-sdk@2.1.0.0
+- pkg:maven/com.hds.hcpaw/anywhere-reporting-sdk@2.1.0.0?classifier=sources
+- pkg:maven/com.hds.hcpaw/anywhere-reporting-sdk@4.0.0.12
+- pkg:maven/com.hds.hcpaw/anywhere-reporting-sdk@4.0.0.12?classifier=sources

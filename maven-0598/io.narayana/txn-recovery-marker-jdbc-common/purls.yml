@@ -1,0 +1,2 @@
+- pkg:maven/io.narayana/txn-recovery-marker-jdbc-common@1.1.1.Final
+- pkg:maven/io.narayana/txn-recovery-marker-jdbc-common@1.1.1.Final?classifier=sources

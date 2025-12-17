@@ -1,0 +1,10 @@
+- pkg:maven/de.adorsys.aspsp/cms-client@1.5
+- pkg:maven/de.adorsys.aspsp/cms-client@1.5?classifier=sources
+- pkg:maven/de.adorsys.aspsp/cms-client@1.6
+- pkg:maven/de.adorsys.aspsp/cms-client@1.6?classifier=sources
+- pkg:maven/de.adorsys.aspsp/cms-client@1.7
+- pkg:maven/de.adorsys.aspsp/cms-client@1.7.1
+- pkg:maven/de.adorsys.aspsp/cms-client@1.7.1?classifier=sources
+- pkg:maven/de.adorsys.aspsp/cms-client@1.7?classifier=sources
+- pkg:maven/de.adorsys.aspsp/cms-client@1.8
+- pkg:maven/de.adorsys.aspsp/cms-client@1.8?classifier=sources

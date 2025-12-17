@@ -2,6 +2,16 @@
 - pkg:maven/org.wso2.extension.siddhi.map.wso2event/siddhi-map-wso2event@4.0.10?classifier=sources
 - pkg:maven/org.wso2.extension.siddhi.map.wso2event/siddhi-map-wso2event@4.0.11
 - pkg:maven/org.wso2.extension.siddhi.map.wso2event/siddhi-map-wso2event@4.0.11?classifier=sources
+- pkg:maven/org.wso2.extension.siddhi.map.wso2event/siddhi-map-wso2event@4.0.12
+- pkg:maven/org.wso2.extension.siddhi.map.wso2event/siddhi-map-wso2event@4.0.12?classifier=sources
+- pkg:maven/org.wso2.extension.siddhi.map.wso2event/siddhi-map-wso2event@4.0.13
+- pkg:maven/org.wso2.extension.siddhi.map.wso2event/siddhi-map-wso2event@4.0.13?classifier=sources
+- pkg:maven/org.wso2.extension.siddhi.map.wso2event/siddhi-map-wso2event@4.0.14
+- pkg:maven/org.wso2.extension.siddhi.map.wso2event/siddhi-map-wso2event@4.0.14?classifier=sources
+- pkg:maven/org.wso2.extension.siddhi.map.wso2event/siddhi-map-wso2event@4.0.15
+- pkg:maven/org.wso2.extension.siddhi.map.wso2event/siddhi-map-wso2event@4.0.15?classifier=sources
+- pkg:maven/org.wso2.extension.siddhi.map.wso2event/siddhi-map-wso2event@4.0.16
+- pkg:maven/org.wso2.extension.siddhi.map.wso2event/siddhi-map-wso2event@4.0.16?classifier=sources
 - pkg:maven/org.wso2.extension.siddhi.map.wso2event/siddhi-map-wso2event@4.0.3
 - pkg:maven/org.wso2.extension.siddhi.map.wso2event/siddhi-map-wso2event@4.0.3?classifier=sources
 - pkg:maven/org.wso2.extension.siddhi.map.wso2event/siddhi-map-wso2event@4.0.4

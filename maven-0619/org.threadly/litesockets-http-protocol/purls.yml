@@ -18,6 +18,8 @@
 - pkg:maven/org.threadly/litesockets-http-protocol@0.18?classifier=sources
 - pkg:maven/org.threadly/litesockets-http-protocol@0.19
 - pkg:maven/org.threadly/litesockets-http-protocol@0.19?classifier=sources
+- pkg:maven/org.threadly/litesockets-http-protocol@0.20
+- pkg:maven/org.threadly/litesockets-http-protocol@0.20?classifier=sources
 - pkg:maven/org.threadly/litesockets-http-protocol@0.6.1
 - pkg:maven/org.threadly/litesockets-http-protocol@0.6.1?classifier=sources
 - pkg:maven/org.threadly/litesockets-http-protocol@0.7

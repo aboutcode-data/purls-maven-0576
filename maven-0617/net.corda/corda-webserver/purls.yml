@@ -24,5 +24,9 @@
 - pkg:maven/net.corda/corda-webserver@2.0.0?classifier=sources
 - pkg:maven/net.corda/corda-webserver@3.1-corda
 - pkg:maven/net.corda/corda-webserver@3.1-corda?classifier=sources
+- pkg:maven/net.corda/corda-webserver@3.2-corda
+- pkg:maven/net.corda/corda-webserver@3.2-corda?classifier=sources
+- pkg:maven/net.corda/corda-webserver@3.3-corda
+- pkg:maven/net.corda/corda-webserver@3.3-corda?classifier=sources
 - pkg:maven/net.corda/corda-webserver@corda-3.0
 - pkg:maven/net.corda/corda-webserver@corda-3.0?classifier=sources

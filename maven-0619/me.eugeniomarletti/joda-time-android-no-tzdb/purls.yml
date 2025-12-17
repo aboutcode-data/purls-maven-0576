@@ -1,0 +1,2 @@
+- pkg:maven/me.eugeniomarletti/joda-time-android-no-tzdb@0.9.0?classifier=sources
+- pkg:maven/me.eugeniomarletti/joda-time-android-no-tzdb@0.9.0?type=aar

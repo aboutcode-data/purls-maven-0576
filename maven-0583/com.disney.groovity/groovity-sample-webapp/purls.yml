@@ -6,3 +6,9 @@
 - pkg:maven/com.disney.groovity/groovity-sample-webapp@2.0.0-rc.18?type=war
 - pkg:maven/com.disney.groovity/groovity-sample-webapp@2.0.0-rc.19?classifier=sources
 - pkg:maven/com.disney.groovity/groovity-sample-webapp@2.0.0-rc.19?type=war
+- pkg:maven/com.disney.groovity/groovity-sample-webapp@2.0.0-rc.20?classifier=sources
+- pkg:maven/com.disney.groovity/groovity-sample-webapp@2.0.0-rc.20?type=war
+- pkg:maven/com.disney.groovity/groovity-sample-webapp@2.0.0-rc.21?classifier=sources
+- pkg:maven/com.disney.groovity/groovity-sample-webapp@2.0.0-rc.21?type=war
+- pkg:maven/com.disney.groovity/groovity-sample-webapp@2.0.0?classifier=sources
+- pkg:maven/com.disney.groovity/groovity-sample-webapp@2.0.0?type=war

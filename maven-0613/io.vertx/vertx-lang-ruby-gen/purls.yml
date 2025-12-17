@@ -1,0 +1,2 @@
+- pkg:maven/io.vertx/vertx-lang-ruby-gen@3.6.0.CR1
+- pkg:maven/io.vertx/vertx-lang-ruby-gen@3.6.0.CR1?classifier=sources

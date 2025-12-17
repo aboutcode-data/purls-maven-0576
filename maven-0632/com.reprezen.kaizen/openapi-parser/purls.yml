@@ -38,3 +38,13 @@
 - pkg:maven/com.reprezen.kaizen/openapi-parser@2.1.0.201803270245?classifier=sources
 - pkg:maven/com.reprezen.kaizen/openapi-parser@2.1.1-201803281732
 - pkg:maven/com.reprezen.kaizen/openapi-parser@2.1.1-201803281732?classifier=sources
+- pkg:maven/com.reprezen.kaizen/openapi-parser@3.0.0-201808022344
+- pkg:maven/com.reprezen.kaizen/openapi-parser@3.0.0-201808022344?classifier=sources
+- pkg:maven/com.reprezen.kaizen/openapi-parser@3.0.1-201808030030
+- pkg:maven/com.reprezen.kaizen/openapi-parser@3.0.1-201808030030?classifier=sources
+- pkg:maven/com.reprezen.kaizen/openapi-parser@3.0.1-201808070540
+- pkg:maven/com.reprezen.kaizen/openapi-parser@3.0.1-201808070540?classifier=sources
+- pkg:maven/com.reprezen.kaizen/openapi-parser@4.0.0-201809041836
+- pkg:maven/com.reprezen.kaizen/openapi-parser@4.0.0-201809041836?classifier=sources
+- pkg:maven/com.reprezen.kaizen/openapi-parser@4.0.1-201809050415
+- pkg:maven/com.reprezen.kaizen/openapi-parser@4.0.1-201809050415?classifier=sources

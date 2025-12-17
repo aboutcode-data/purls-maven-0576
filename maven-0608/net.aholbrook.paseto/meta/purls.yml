@@ -1,0 +1,2 @@
+- pkg:maven/net.aholbrook.paseto/meta@0.3.0
+- pkg:maven/net.aholbrook.paseto/meta@0.3.0?classifier=sources

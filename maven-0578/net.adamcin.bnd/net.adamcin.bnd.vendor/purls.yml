@@ -1,0 +1,2 @@
+- pkg:maven/net.adamcin.bnd/net.adamcin.bnd.vendor@0.1.0
+- pkg:maven/net.adamcin.bnd/net.adamcin.bnd.vendor@0.1.0?classifier=sources

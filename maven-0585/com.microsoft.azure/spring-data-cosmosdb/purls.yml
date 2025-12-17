@@ -1,2 +1,8 @@
 - pkg:maven/com.microsoft.azure/spring-data-cosmosdb@2.0.3
 - pkg:maven/com.microsoft.azure/spring-data-cosmosdb@2.0.3?classifier=sources
+- pkg:maven/com.microsoft.azure/spring-data-cosmosdb@2.0.4
+- pkg:maven/com.microsoft.azure/spring-data-cosmosdb@2.0.4?classifier=sources
+- pkg:maven/com.microsoft.azure/spring-data-cosmosdb@2.0.5
+- pkg:maven/com.microsoft.azure/spring-data-cosmosdb@2.0.5?classifier=sources
+- pkg:maven/com.microsoft.azure/spring-data-cosmosdb@3.0.0.M1
+- pkg:maven/com.microsoft.azure/spring-data-cosmosdb@3.0.0.M1?classifier=sources

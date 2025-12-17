@@ -26,3 +26,5 @@
 - pkg:maven/org.webjars/react@15.6.1
 - pkg:maven/org.webjars/react@16.2.0
 - pkg:maven/org.webjars/react@16.3.2
+- pkg:maven/org.webjars/react@16.4.2
+- pkg:maven/org.webjars/react@16.5.2

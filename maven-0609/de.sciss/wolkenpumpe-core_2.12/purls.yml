@@ -16,3 +16,9 @@
 - pkg:maven/de.sciss/wolkenpumpe-core_2.12@2.24.0?classifier=sources
 - pkg:maven/de.sciss/wolkenpumpe-core_2.12@2.25.0
 - pkg:maven/de.sciss/wolkenpumpe-core_2.12@2.25.0?classifier=sources
+- pkg:maven/de.sciss/wolkenpumpe-core_2.12@2.26.0
+- pkg:maven/de.sciss/wolkenpumpe-core_2.12@2.26.0?classifier=sources
+- pkg:maven/de.sciss/wolkenpumpe-core_2.12@2.27.0
+- pkg:maven/de.sciss/wolkenpumpe-core_2.12@2.27.0?classifier=sources
+- pkg:maven/de.sciss/wolkenpumpe-core_2.12@2.28.0
+- pkg:maven/de.sciss/wolkenpumpe-core_2.12@2.28.0?classifier=sources

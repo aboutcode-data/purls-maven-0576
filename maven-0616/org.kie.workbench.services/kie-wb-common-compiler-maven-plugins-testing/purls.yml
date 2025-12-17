@@ -1,0 +1,5 @@
+- pkg:maven/org.kie.workbench.services/kie-wb-common-compiler-maven-plugins-testing@7.10.0.Final
+- pkg:maven/org.kie.workbench.services/kie-wb-common-compiler-maven-plugins-testing@7.11.0.Final
+- pkg:maven/org.kie.workbench.services/kie-wb-common-compiler-maven-plugins-testing@7.12.0.Final
+- pkg:maven/org.kie.workbench.services/kie-wb-common-compiler-maven-plugins-testing@7.13.0.Final
+- pkg:maven/org.kie.workbench.services/kie-wb-common-compiler-maven-plugins-testing@7.14.0.Final

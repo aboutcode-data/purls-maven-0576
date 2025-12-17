@@ -12,3 +12,7 @@
 - pkg:maven/org.jspringbot/jspringbot-maven-plugin@1.5?classifier=sources
 - pkg:maven/org.jspringbot/jspringbot-maven-plugin@1.6
 - pkg:maven/org.jspringbot/jspringbot-maven-plugin@1.6?classifier=sources
+- pkg:maven/org.jspringbot/jspringbot-maven-plugin@1.8
+- pkg:maven/org.jspringbot/jspringbot-maven-plugin@1.8?classifier=sources
+- pkg:maven/org.jspringbot/jspringbot-maven-plugin@1.9
+- pkg:maven/org.jspringbot/jspringbot-maven-plugin@1.9?classifier=sources

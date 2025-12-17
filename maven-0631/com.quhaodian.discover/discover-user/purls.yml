@@ -27,6 +27,16 @@
 - pkg:maven/com.quhaodian.discover/discover-user@1.8.24?classifier=sources
 - pkg:maven/com.quhaodian.discover/discover-user@1.8.25
 - pkg:maven/com.quhaodian.discover/discover-user@1.8.25?classifier=sources
+- pkg:maven/com.quhaodian.discover/discover-user@1.8.26
+- pkg:maven/com.quhaodian.discover/discover-user@1.8.26?classifier=sources
+- pkg:maven/com.quhaodian.discover/discover-user@1.8.27
+- pkg:maven/com.quhaodian.discover/discover-user@1.8.27?classifier=sources
+- pkg:maven/com.quhaodian.discover/discover-user@1.8.29
+- pkg:maven/com.quhaodian.discover/discover-user@1.8.29?classifier=sources
+- pkg:maven/com.quhaodian.discover/discover-user@1.8.30
+- pkg:maven/com.quhaodian.discover/discover-user@1.8.30?classifier=sources
+- pkg:maven/com.quhaodian.discover/discover-user@1.8.31
+- pkg:maven/com.quhaodian.discover/discover-user@1.8.31?classifier=sources
 - pkg:maven/com.quhaodian.discover/discover-user@1.8.7
 - pkg:maven/com.quhaodian.discover/discover-user@1.8.7?classifier=sources
 - pkg:maven/com.quhaodian.discover/discover-user@1.8.8

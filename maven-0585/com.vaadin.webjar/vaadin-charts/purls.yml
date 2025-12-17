@@ -1,0 +1,4 @@
+- pkg:maven/com.vaadin.webjar/vaadin-charts@6.0.1
+- pkg:maven/com.vaadin.webjar/vaadin-charts@6.1.0
+- pkg:maven/com.vaadin.webjar/vaadin-charts@6.2.0
+- pkg:maven/com.vaadin.webjar/vaadin-charts@6.2.1

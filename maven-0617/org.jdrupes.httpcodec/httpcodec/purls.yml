@@ -24,3 +24,11 @@
 - pkg:maven/org.jdrupes.httpcodec/httpcodec@1.0.5?classifier=sources
 - pkg:maven/org.jdrupes.httpcodec/httpcodec@1.0.6
 - pkg:maven/org.jdrupes.httpcodec/httpcodec@1.0.6?classifier=sources
+- pkg:maven/org.jdrupes.httpcodec/httpcodec@1.0.7
+- pkg:maven/org.jdrupes.httpcodec/httpcodec@1.0.7?classifier=sources
+- pkg:maven/org.jdrupes.httpcodec/httpcodec@1.0.8
+- pkg:maven/org.jdrupes.httpcodec/httpcodec@1.0.8?classifier=sources
+- pkg:maven/org.jdrupes.httpcodec/httpcodec@2.0.0
+- pkg:maven/org.jdrupes.httpcodec/httpcodec@2.0.0?classifier=sources
+- pkg:maven/org.jdrupes.httpcodec/httpcodec@2.0.1
+- pkg:maven/org.jdrupes.httpcodec/httpcodec@2.0.1?classifier=sources

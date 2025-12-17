@@ -14,3 +14,5 @@
 - pkg:maven/be.wegenenverkeer/rxhttpclient-scala_2.11@0.5.2?classifier=sources
 - pkg:maven/be.wegenenverkeer/rxhttpclient-scala_2.11@0.6
 - pkg:maven/be.wegenenverkeer/rxhttpclient-scala_2.11@0.6?classifier=sources
+- pkg:maven/be.wegenenverkeer/rxhttpclient-scala_2.11@0.7
+- pkg:maven/be.wegenenverkeer/rxhttpclient-scala_2.11@0.7?classifier=sources

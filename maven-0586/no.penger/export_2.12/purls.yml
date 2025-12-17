@@ -48,3 +48,7 @@
 - pkg:maven/no.penger/export_2.12@0.9.9
 - pkg:maven/no.penger/export_2.12@0.9.9?classifier=sources
 - pkg:maven/no.penger/export_2.12@0.9?classifier=sources
+- pkg:maven/no.penger/export_2.12@1.0.0
+- pkg:maven/no.penger/export_2.12@1.0.0?classifier=sources
+- pkg:maven/no.penger/export_2.12@1.1.0
+- pkg:maven/no.penger/export_2.12@1.1.0?classifier=sources

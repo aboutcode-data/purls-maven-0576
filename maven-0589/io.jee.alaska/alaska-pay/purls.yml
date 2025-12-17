@@ -1,0 +1,2 @@
+- pkg:maven/io.jee.alaska/alaska-pay@3.0.0
+- pkg:maven/io.jee.alaska/alaska-pay@3.0.0?classifier=sources

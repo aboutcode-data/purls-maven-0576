@@ -2,3 +2,7 @@
 - pkg:maven/com.mattprecious.swirl/swirl@1.0.0?type=aar
 - pkg:maven/com.mattprecious.swirl/swirl@1.1.0?classifier=sources
 - pkg:maven/com.mattprecious.swirl/swirl@1.1.0?type=aar
+- pkg:maven/com.mattprecious.swirl/swirl@1.1.1?classifier=sources
+- pkg:maven/com.mattprecious.swirl/swirl@1.1.1?type=aar
+- pkg:maven/com.mattprecious.swirl/swirl@1.2.0?classifier=sources
+- pkg:maven/com.mattprecious.swirl/swirl@1.2.0?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/vaadin__vaadin-usage-statistics@2.0.1
+- pkg:maven/org.webjars.npm/vaadin__vaadin-usage-statistics@2.0.1?classifier=sources

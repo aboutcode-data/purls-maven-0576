@@ -1,0 +1,8 @@
+- pkg:maven/org.webjars.bowergithub.syndybat/chartjs-web-components@1.6
+- pkg:maven/org.webjars.bowergithub.syndybat/chartjs-web-components@1.6?classifier=sources
+- pkg:maven/org.webjars.bowergithub.syndybat/chartjs-web-components@2.0.0
+- pkg:maven/org.webjars.bowergithub.syndybat/chartjs-web-components@2.0.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.syndybat/chartjs-web-components@2.0.2
+- pkg:maven/org.webjars.bowergithub.syndybat/chartjs-web-components@2.0.2?classifier=sources
+- pkg:maven/org.webjars.bowergithub.syndybat/chartjs-web-components@2.0.3
+- pkg:maven/org.webjars.bowergithub.syndybat/chartjs-web-components@2.0.3?classifier=sources

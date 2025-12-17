@@ -1,0 +1,2 @@
+- pkg:maven/com.degoos/Languages@1.6
+- pkg:maven/com.degoos/Languages@1.6?classifier=sources

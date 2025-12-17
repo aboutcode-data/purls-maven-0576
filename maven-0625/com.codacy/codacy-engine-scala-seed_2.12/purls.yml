@@ -1,0 +1,16 @@
+- pkg:maven/com.codacy/codacy-engine-scala-seed_2.12@3.0.141
+- pkg:maven/com.codacy/codacy-engine-scala-seed_2.12@3.0.141?classifier=sources
+- pkg:maven/com.codacy/codacy-engine-scala-seed_2.12@3.0.167
+- pkg:maven/com.codacy/codacy-engine-scala-seed_2.12@3.0.167?classifier=sources
+- pkg:maven/com.codacy/codacy-engine-scala-seed_2.12@3.0.168
+- pkg:maven/com.codacy/codacy-engine-scala-seed_2.12@3.0.168?classifier=sources
+- pkg:maven/com.codacy/codacy-engine-scala-seed_2.12@3.0.183
+- pkg:maven/com.codacy/codacy-engine-scala-seed_2.12@3.0.183?classifier=sources
+- pkg:maven/com.codacy/codacy-engine-scala-seed_2.12@3.0.222
+- pkg:maven/com.codacy/codacy-engine-scala-seed_2.12@3.0.222?classifier=sources
+- pkg:maven/com.codacy/codacy-engine-scala-seed_2.12@3.0.233
+- pkg:maven/com.codacy/codacy-engine-scala-seed_2.12@3.0.233?classifier=sources
+- pkg:maven/com.codacy/codacy-engine-scala-seed_2.12@3.0.244
+- pkg:maven/com.codacy/codacy-engine-scala-seed_2.12@3.0.244?classifier=sources
+- pkg:maven/com.codacy/codacy-engine-scala-seed_2.12@3.0.255
+- pkg:maven/com.codacy/codacy-engine-scala-seed_2.12@3.0.255?classifier=sources

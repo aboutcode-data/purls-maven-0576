@@ -1,0 +1,2 @@
+- pkg:maven/com.lightbend.akka/lagom-persistence-couchbase-core_2.12@0.1
+- pkg:maven/com.lightbend.akka/lagom-persistence-couchbase-core_2.12@0.1?classifier=sources

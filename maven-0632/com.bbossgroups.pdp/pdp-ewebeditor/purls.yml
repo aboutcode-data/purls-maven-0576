@@ -1,0 +1,2 @@
+- pkg:maven/com.bbossgroups.pdp/pdp-ewebeditor@5.0.9
+- pkg:maven/com.bbossgroups.pdp/pdp-ewebeditor@5.0.9?classifier=sources

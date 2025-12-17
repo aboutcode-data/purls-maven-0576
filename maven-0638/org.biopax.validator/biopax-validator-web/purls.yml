@@ -1,0 +1,2 @@
+- pkg:maven/org.biopax.validator/biopax-validator-web@4.0.0?classifier=sources
+- pkg:maven/org.biopax.validator/biopax-validator-web@4.0.0?type=war

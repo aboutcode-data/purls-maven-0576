@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/datatables.net-fixedcolumns-dt@3.2.6
+- pkg:maven/org.webjars.npm/datatables.net-fixedcolumns-dt@3.2.6?classifier=sources

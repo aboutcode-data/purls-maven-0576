@@ -15,12 +15,17 @@
 - pkg:maven/no.digipost/digipost-api-client-java@1.9?classifier=sources
 - pkg:maven/no.digipost/digipost-api-client-java@1.9?type=zip
 - pkg:maven/no.digipost/digipost-api-client-java@10.0?classifier=sources
+- pkg:maven/no.digipost/digipost-api-client-java@10.10?classifier=sources
+- pkg:maven/no.digipost/digipost-api-client-java@10.11?classifier=sources
 - pkg:maven/no.digipost/digipost-api-client-java@10.1?classifier=sources
 - pkg:maven/no.digipost/digipost-api-client-java@10.2?classifier=sources
 - pkg:maven/no.digipost/digipost-api-client-java@10.3?classifier=sources
 - pkg:maven/no.digipost/digipost-api-client-java@10.4?classifier=sources
 - pkg:maven/no.digipost/digipost-api-client-java@10.5?classifier=sources
 - pkg:maven/no.digipost/digipost-api-client-java@10.6?classifier=sources
+- pkg:maven/no.digipost/digipost-api-client-java@10.7?classifier=sources
+- pkg:maven/no.digipost/digipost-api-client-java@10.8?classifier=sources
+- pkg:maven/no.digipost/digipost-api-client-java@10.9?classifier=sources
 - pkg:maven/no.digipost/digipost-api-client-java@2.0?classifier=sources
 - pkg:maven/no.digipost/digipost-api-client-java@2.0?type=zip
 - pkg:maven/no.digipost/digipost-api-client-java@2.1?classifier=sources

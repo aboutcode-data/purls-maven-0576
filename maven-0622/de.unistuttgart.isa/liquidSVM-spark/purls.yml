@@ -1,0 +1,2 @@
+- pkg:maven/de.unistuttgart.isa/liquidSVM-spark@0.6.0_2.11
+- pkg:maven/de.unistuttgart.isa/liquidSVM-spark@0.6.0_2.11?classifier=sources

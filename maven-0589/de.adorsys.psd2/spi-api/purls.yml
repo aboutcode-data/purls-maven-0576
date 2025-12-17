@@ -1,0 +1,8 @@
+- pkg:maven/de.adorsys.psd2/spi-api@1.10
+- pkg:maven/de.adorsys.psd2/spi-api@1.10-RC1
+- pkg:maven/de.adorsys.psd2/spi-api@1.10-RC1?classifier=sources
+- pkg:maven/de.adorsys.psd2/spi-api@1.10?classifier=sources
+- pkg:maven/de.adorsys.psd2/spi-api@1.11
+- pkg:maven/de.adorsys.psd2/spi-api@1.11-RC1
+- pkg:maven/de.adorsys.psd2/spi-api@1.11-RC1?classifier=sources
+- pkg:maven/de.adorsys.psd2/spi-api@1.11?classifier=sources

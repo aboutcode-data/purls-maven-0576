@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.dirigible/dirigible-core-registry@3.2.7
+- pkg:maven/org.eclipse.dirigible/dirigible-core-registry@3.2.7?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-core-registry@3.2.8
+- pkg:maven/org.eclipse.dirigible/dirigible-core-registry@3.2.8?classifier=sources

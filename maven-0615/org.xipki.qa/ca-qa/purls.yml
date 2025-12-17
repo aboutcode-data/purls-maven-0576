@@ -1,0 +1,2 @@
+- pkg:maven/org.xipki.qa/ca-qa@4.0.0
+- pkg:maven/org.xipki.qa/ca-qa@4.0.0?classifier=sources

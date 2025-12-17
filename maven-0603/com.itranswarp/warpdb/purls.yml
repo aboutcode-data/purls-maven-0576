@@ -36,3 +36,13 @@
 - pkg:maven/com.itranswarp/warpdb@3.3?classifier=sources
 - pkg:maven/com.itranswarp/warpdb@3.4
 - pkg:maven/com.itranswarp/warpdb@3.4?classifier=sources
+- pkg:maven/com.itranswarp/warpdb@3.5
+- pkg:maven/com.itranswarp/warpdb@3.5?classifier=sources
+- pkg:maven/com.itranswarp/warpdb@3.6
+- pkg:maven/com.itranswarp/warpdb@3.6?classifier=sources
+- pkg:maven/com.itranswarp/warpdb@3.7
+- pkg:maven/com.itranswarp/warpdb@3.7?classifier=sources
+- pkg:maven/com.itranswarp/warpdb@3.8
+- pkg:maven/com.itranswarp/warpdb@3.8?classifier=sources
+- pkg:maven/com.itranswarp/warpdb@4.0
+- pkg:maven/com.itranswarp/warpdb@4.0?classifier=sources

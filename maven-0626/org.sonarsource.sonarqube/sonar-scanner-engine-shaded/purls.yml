@@ -77,6 +77,8 @@
 - pkg:maven/org.sonarsource.sonarqube/sonar-scanner-engine-shaded@6.7.3?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-scanner-engine-shaded@6.7.4
 - pkg:maven/org.sonarsource.sonarqube/sonar-scanner-engine-shaded@6.7.4?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-scanner-engine-shaded@6.7.5
+- pkg:maven/org.sonarsource.sonarqube/sonar-scanner-engine-shaded@6.7.5?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-scanner-engine-shaded@6.7?classifier=sources
 - pkg:maven/org.sonarsource.sonarqube/sonar-scanner-engine-shaded@7.0
 - pkg:maven/org.sonarsource.sonarqube/sonar-scanner-engine-shaded@7.0-RC1

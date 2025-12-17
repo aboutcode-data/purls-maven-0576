@@ -149,6 +149,7 @@
 - pkg:maven/org.hibernate/hibernate-search@5.6.3.Final
 - pkg:maven/org.hibernate/hibernate-search@5.6.4.Final
 - pkg:maven/org.hibernate/hibernate-search@5.6.5.Final
+- pkg:maven/org.hibernate/hibernate-search@5.6.6.Final
 - pkg:maven/org.hibernate/hibernate-search@5.7.0.Alpha1
 - pkg:maven/org.hibernate/hibernate-search@5.7.0.Beta1
 - pkg:maven/org.hibernate/hibernate-search@5.7.0.Beta2
@@ -170,3 +171,4 @@
 - pkg:maven/org.hibernate/hibernate-search@5.9.0.Final
 - pkg:maven/org.hibernate/hibernate-search@5.9.1.Final
 - pkg:maven/org.hibernate/hibernate-search@5.9.2.Final
+- pkg:maven/org.hibernate/hibernate-search@5.9.3.Final

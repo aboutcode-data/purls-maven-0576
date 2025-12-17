@@ -13,3 +13,6 @@
 - pkg:maven/org.ow2.petals/petals-jbi@1.3.4
 - pkg:maven/org.ow2.petals/petals-jbi@1.3.4?classifier=source-release&type=zip
 - pkg:maven/org.ow2.petals/petals-jbi@1.3.4?classifier=sources
+- pkg:maven/org.ow2.petals/petals-jbi@1.4.0
+- pkg:maven/org.ow2.petals/petals-jbi@1.4.0?classifier=source-release&type=zip
+- pkg:maven/org.ow2.petals/petals-jbi@1.4.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/de.proxietv/ConfigManager@1.0
+- pkg:maven/de.proxietv/ConfigManager@1.0?classifier=sources
+- pkg:maven/de.proxietv/ConfigManager@1.4
+- pkg:maven/de.proxietv/ConfigManager@1.4?classifier=sources
+- pkg:maven/de.proxietv/ConfigManager@1.5
+- pkg:maven/de.proxietv/ConfigManager@1.5?classifier=sources

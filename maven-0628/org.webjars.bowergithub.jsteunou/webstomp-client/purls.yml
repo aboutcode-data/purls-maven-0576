@@ -1,2 +1,6 @@
 - pkg:maven/org.webjars.bowergithub.jsteunou/webstomp-client@1.2.0
 - pkg:maven/org.webjars.bowergithub.jsteunou/webstomp-client@1.2.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.jsteunou/webstomp-client@1.2.2
+- pkg:maven/org.webjars.bowergithub.jsteunou/webstomp-client@1.2.2?classifier=sources
+- pkg:maven/org.webjars.bowergithub.jsteunou/webstomp-client@1.2.4
+- pkg:maven/org.webjars.bowergithub.jsteunou/webstomp-client@1.2.4?classifier=sources

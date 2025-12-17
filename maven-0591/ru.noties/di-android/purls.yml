@@ -1,0 +1,2 @@
+- pkg:maven/ru.noties/di-android@0.7.0?classifier=sources
+- pkg:maven/ru.noties/di-android@0.7.0?type=aar

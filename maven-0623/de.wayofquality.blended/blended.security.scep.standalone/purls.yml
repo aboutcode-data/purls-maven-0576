@@ -1,0 +1,2 @@
+- pkg:maven/de.wayofquality.blended/blended.security.scep.standalone@2.5.0-M10
+- pkg:maven/de.wayofquality.blended/blended.security.scep.standalone@2.5.0-M10?classifier=sources

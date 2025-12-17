@@ -4,3 +4,5 @@
 - pkg:maven/com.braintreepayments.api/visa-checkout@0.1.1?type=aar
 - pkg:maven/com.braintreepayments.api/visa-checkout@1.0.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/visa-checkout@1.0.0?type=aar
+- pkg:maven/com.braintreepayments.api/visa-checkout@2.0.0?classifier=sources
+- pkg:maven/com.braintreepayments.api/visa-checkout@2.0.0?type=aar

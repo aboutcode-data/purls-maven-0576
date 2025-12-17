@@ -12,3 +12,7 @@
 - pkg:maven/org.apereo.inspektr/inspektr-aspects@1.8.1.GA?classifier=sources
 - pkg:maven/org.apereo.inspektr/inspektr-aspects@1.8.2.GA
 - pkg:maven/org.apereo.inspektr/inspektr-aspects@1.8.2.GA?classifier=sources
+- pkg:maven/org.apereo.inspektr/inspektr-aspects@1.8.3.GA
+- pkg:maven/org.apereo.inspektr/inspektr-aspects@1.8.3.GA?classifier=sources
+- pkg:maven/org.apereo.inspektr/inspektr-aspects@1.8.4.GA
+- pkg:maven/org.apereo.inspektr/inspektr-aspects@1.8.4.GA?classifier=sources

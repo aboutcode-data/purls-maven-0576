@@ -12,3 +12,5 @@
 - pkg:maven/pl.decerto/hyperon-runtime@1.5.54?classifier=sources
 - pkg:maven/pl.decerto/hyperon-runtime@1.5.88
 - pkg:maven/pl.decerto/hyperon-runtime@1.5.88?classifier=sources
+- pkg:maven/pl.decerto/hyperon-runtime@1.6.15
+- pkg:maven/pl.decerto/hyperon-runtime@1.6.15?classifier=sources

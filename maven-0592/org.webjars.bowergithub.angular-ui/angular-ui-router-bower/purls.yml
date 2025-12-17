@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.bowergithub.angular-ui/angular-ui-router-bower@0.4.3
+- pkg:maven/org.webjars.bowergithub.angular-ui/angular-ui-router-bower@0.4.3?classifier=sources
 - pkg:maven/org.webjars.bowergithub.angular-ui/angular-ui-router-bower@1.0.0-rc.1
 - pkg:maven/org.webjars.bowergithub.angular-ui/angular-ui-router-bower@1.0.0-rc.1?classifier=sources

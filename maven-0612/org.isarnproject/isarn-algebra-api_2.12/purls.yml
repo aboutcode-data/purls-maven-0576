@@ -1,0 +1,2 @@
+- pkg:maven/org.isarnproject/isarn-algebra-api_2.12@0.0.3
+- pkg:maven/org.isarnproject/isarn-algebra-api_2.12@0.0.3?classifier=sources

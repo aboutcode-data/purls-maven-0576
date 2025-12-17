@@ -28,3 +28,13 @@
 - pkg:maven/com.facebook.presto/presto-sqlserver@0.201?classifier=sources
 - pkg:maven/com.facebook.presto/presto-sqlserver@0.202?classifier=sources
 - pkg:maven/com.facebook.presto/presto-sqlserver@0.203?classifier=sources
+- pkg:maven/com.facebook.presto/presto-sqlserver@0.204?classifier=sources
+- pkg:maven/com.facebook.presto/presto-sqlserver@0.205?classifier=sources
+- pkg:maven/com.facebook.presto/presto-sqlserver@0.206?classifier=sources
+- pkg:maven/com.facebook.presto/presto-sqlserver@0.207?classifier=sources
+- pkg:maven/com.facebook.presto/presto-sqlserver@0.208?classifier=sources
+- pkg:maven/com.facebook.presto/presto-sqlserver@0.209?classifier=sources
+- pkg:maven/com.facebook.presto/presto-sqlserver@0.210?classifier=sources
+- pkg:maven/com.facebook.presto/presto-sqlserver@0.211?classifier=sources
+- pkg:maven/com.facebook.presto/presto-sqlserver@0.212?classifier=sources
+- pkg:maven/com.facebook.presto/presto-sqlserver@0.213?classifier=sources

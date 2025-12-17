@@ -1,0 +1,4 @@
+- pkg:maven/com.hackerrank.applications/junit-ordered-test-runner@1.0
+- pkg:maven/com.hackerrank.applications/junit-ordered-test-runner@1.0.0
+- pkg:maven/com.hackerrank.applications/junit-ordered-test-runner@1.0.0?classifier=sources
+- pkg:maven/com.hackerrank.applications/junit-ordered-test-runner@1.0?classifier=sources

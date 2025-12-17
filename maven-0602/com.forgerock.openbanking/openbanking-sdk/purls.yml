@@ -1,0 +1,16 @@
+- pkg:maven/com.forgerock.openbanking/openbanking-sdk@2.0.0.23
+- pkg:maven/com.forgerock.openbanking/openbanking-sdk@2.0.0.23?classifier=sources
+- pkg:maven/com.forgerock.openbanking/openbanking-sdk@2.0.0.25
+- pkg:maven/com.forgerock.openbanking/openbanking-sdk@2.0.0.25?classifier=sources
+- pkg:maven/com.forgerock.openbanking/openbanking-sdk@3.0.0.0
+- pkg:maven/com.forgerock.openbanking/openbanking-sdk@3.0.0.0?classifier=sources
+- pkg:maven/com.forgerock.openbanking/openbanking-sdk@3.0.0.1
+- pkg:maven/com.forgerock.openbanking/openbanking-sdk@3.0.0.1?classifier=sources
+- pkg:maven/com.forgerock.openbanking/openbanking-sdk@3.0.0.2
+- pkg:maven/com.forgerock.openbanking/openbanking-sdk@3.0.0.2?classifier=sources
+- pkg:maven/com.forgerock.openbanking/openbanking-sdk@3.0.0.4
+- pkg:maven/com.forgerock.openbanking/openbanking-sdk@3.0.0.4?classifier=sources
+- pkg:maven/com.forgerock.openbanking/openbanking-sdk@3.0.0.5
+- pkg:maven/com.forgerock.openbanking/openbanking-sdk@3.0.0.5?classifier=sources
+- pkg:maven/com.forgerock.openbanking/openbanking-sdk@3.0.0.6
+- pkg:maven/com.forgerock.openbanking/openbanking-sdk@3.0.0.6?classifier=sources

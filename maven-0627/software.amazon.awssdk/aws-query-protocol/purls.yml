@@ -1,0 +1,2 @@
+- pkg:maven/software.amazon.awssdk/aws-query-protocol@2.0.0-preview-13
+- pkg:maven/software.amazon.awssdk/aws-query-protocol@2.0.0-preview-13?classifier=sources

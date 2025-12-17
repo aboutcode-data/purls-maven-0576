@@ -1,0 +1,2 @@
+- pkg:maven/sh.almond/spark-stubs_24_2.12@0.1.2
+- pkg:maven/sh.almond/spark-stubs_24_2.12@0.1.2?classifier=sources

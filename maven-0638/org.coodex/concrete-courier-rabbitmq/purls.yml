@@ -1,0 +1,2 @@
+- pkg:maven/org.coodex/concrete-courier-rabbitmq@0.2.3
+- pkg:maven/org.coodex/concrete-courier-rabbitmq@0.2.3?classifier=sources

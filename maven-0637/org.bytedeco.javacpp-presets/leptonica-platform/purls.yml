@@ -1,3 +1,5 @@
 - pkg:maven/org.bytedeco.javacpp-presets/leptonica-platform@1.73-1.3
 - pkg:maven/org.bytedeco.javacpp-presets/leptonica-platform@1.74.4-1.4
 - pkg:maven/org.bytedeco.javacpp-presets/leptonica-platform@1.75.3-1.4.1
+- pkg:maven/org.bytedeco.javacpp-presets/leptonica-platform@1.76.0-1.4.2
+- pkg:maven/org.bytedeco.javacpp-presets/leptonica-platform@1.76.0-1.4.3

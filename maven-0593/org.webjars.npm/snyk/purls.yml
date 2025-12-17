@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/snyk@1.95.3
+- pkg:maven/org.webjars.npm/snyk@1.95.3?classifier=sources

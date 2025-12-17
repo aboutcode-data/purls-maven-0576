@@ -1,2 +1,6 @@
 - pkg:maven/com.pep1/pep1-commons-feature-toggles@0.8
 - pkg:maven/com.pep1/pep1-commons-feature-toggles@0.8?classifier=sources
+- pkg:maven/com.pep1/pep1-commons-feature-toggles@2.0
+- pkg:maven/com.pep1/pep1-commons-feature-toggles@2.0?classifier=sources
+- pkg:maven/com.pep1/pep1-commons-feature-toggles@2.1
+- pkg:maven/com.pep1/pep1-commons-feature-toggles@2.1?classifier=sources

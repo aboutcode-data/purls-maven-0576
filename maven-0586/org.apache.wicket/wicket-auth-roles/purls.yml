@@ -270,3 +270,7 @@
 - pkg:maven/org.apache.wicket/wicket-auth-roles@8.0.0-M9
 - pkg:maven/org.apache.wicket/wicket-auth-roles@8.0.0-M9?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-auth-roles@8.0.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-auth-roles@8.1.0
+- pkg:maven/org.apache.wicket/wicket-auth-roles@8.1.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-auth-roles@8.2.0
+- pkg:maven/org.apache.wicket/wicket-auth-roles@8.2.0?classifier=sources

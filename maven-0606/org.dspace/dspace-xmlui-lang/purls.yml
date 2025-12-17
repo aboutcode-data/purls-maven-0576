@@ -41,3 +41,4 @@
 - pkg:maven/org.dspace/dspace-xmlui-lang@6.0.4?type=war
 - pkg:maven/org.dspace/dspace-xmlui-lang@6.0.5?type=war
 - pkg:maven/org.dspace/dspace-xmlui-lang@6.0.6?type=war
+- pkg:maven/org.dspace/dspace-xmlui-lang@6.0.7?type=war

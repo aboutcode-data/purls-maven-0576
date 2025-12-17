@@ -1,0 +1,8 @@
+- pkg:maven/com.amazonaws/aws-java-sdk-pinpointemail@1.11.444
+- pkg:maven/com.amazonaws/aws-java-sdk-pinpointemail@1.11.444?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-pinpointemail@1.11.445
+- pkg:maven/com.amazonaws/aws-java-sdk-pinpointemail@1.11.445?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-pinpointemail@1.11.446
+- pkg:maven/com.amazonaws/aws-java-sdk-pinpointemail@1.11.446?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-pinpointemail@1.11.447
+- pkg:maven/com.amazonaws/aws-java-sdk-pinpointemail@1.11.447?classifier=sources

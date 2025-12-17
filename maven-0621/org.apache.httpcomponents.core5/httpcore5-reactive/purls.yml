@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.httpcomponents.core5/httpcore5-reactive@5.0-beta4
+- pkg:maven/org.apache.httpcomponents.core5/httpcore5-reactive@5.0-beta4?classifier=sources
+- pkg:maven/org.apache.httpcomponents.core5/httpcore5-reactive@5.0-beta5
+- pkg:maven/org.apache.httpcomponents.core5/httpcore5-reactive@5.0-beta5?classifier=sources

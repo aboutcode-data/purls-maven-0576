@@ -1,2 +1,4 @@
 - pkg:maven/kr.jmlab/jmlab-utils-elasticsearch@0.6.2.4
 - pkg:maven/kr.jmlab/jmlab-utils-elasticsearch@0.6.2.4?classifier=sources
+- pkg:maven/kr.jmlab/jmlab-utils-elasticsearch@0.6.4.2
+- pkg:maven/kr.jmlab/jmlab-utils-elasticsearch@0.6.4.2?classifier=sources

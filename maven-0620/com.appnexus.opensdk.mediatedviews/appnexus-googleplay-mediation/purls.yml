@@ -28,6 +28,11 @@
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-googleplay-mediation@3.5-10.0.1?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-googleplay-mediation@4.0-10.0.1?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-googleplay-mediation@4.1-11.4.2?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-googleplay-mediation@4.10-15.0.0?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-googleplay-mediation@4.11-15.0.0?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-googleplay-mediation@4.11.1-15.0.0?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-googleplay-mediation@4.11.2-15.0.0?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-googleplay-mediation@4.12-16.0.0?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-googleplay-mediation@4.2-11.4.2?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-googleplay-mediation@4.3-11.4.2?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-googleplay-mediation@4.4-11.4.2?type=aar
@@ -36,3 +41,4 @@
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-googleplay-mediation@4.7-11.4.2?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-googleplay-mediation@4.8-15.0.0?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-googleplay-mediation@4.8.1-15.0.0?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-googleplay-mediation@4.9-15.0.0?type=aar

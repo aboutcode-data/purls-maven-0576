@@ -1,0 +1,4 @@
+- pkg:maven/software.amazon.awssdk/sms@2.0.0-preview-12
+- pkg:maven/software.amazon.awssdk/sms@2.0.0-preview-12?classifier=sources
+- pkg:maven/software.amazon.awssdk/sms@2.0.0-preview-13
+- pkg:maven/software.amazon.awssdk/sms@2.0.0-preview-13?classifier=sources

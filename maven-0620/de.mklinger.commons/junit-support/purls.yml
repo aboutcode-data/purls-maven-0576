@@ -1,3 +1,5 @@
+- pkg:maven/de.mklinger.commons/junit-support@0.10
+- pkg:maven/de.mklinger.commons/junit-support@0.10?classifier=sources
 - pkg:maven/de.mklinger.commons/junit-support@0.6
 - pkg:maven/de.mklinger.commons/junit-support@0.6?classifier=sources
 - pkg:maven/de.mklinger.commons/junit-support@0.7

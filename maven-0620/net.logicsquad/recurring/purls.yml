@@ -1,0 +1,2 @@
+- pkg:maven/net.logicsquad/recurring@0.1
+- pkg:maven/net.logicsquad/recurring@0.1?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/com.github.cafdataprocessing/worker-markup-core@2.3.0-64?classifier=sources
 - pkg:maven/com.github.cafdataprocessing/worker-markup-core@2.4.0-99
 - pkg:maven/com.github.cafdataprocessing/worker-markup-core@2.4.0-99?classifier=sources
+- pkg:maven/com.github.cafdataprocessing/worker-markup-core@3.0.0-265
+- pkg:maven/com.github.cafdataprocessing/worker-markup-core@3.0.0-265?classifier=sources

@@ -2,3 +2,7 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.ant.ui@3.6.201?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ant.ui@3.7.0
 - pkg:maven/org.eclipse.platform/org.eclipse.ant.ui@3.7.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.ant.ui@3.7.100
+- pkg:maven/org.eclipse.platform/org.eclipse.ant.ui@3.7.100?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.ant.ui@3.7.200
+- pkg:maven/org.eclipse.platform/org.eclipse.ant.ui@3.7.200?classifier=sources

@@ -218,3 +218,11 @@
 - pkg:maven/org.scijava/scijava-common@2.74.1?classifier=sources
 - pkg:maven/org.scijava/scijava-common@2.74.2
 - pkg:maven/org.scijava/scijava-common@2.74.2?classifier=sources
+- pkg:maven/org.scijava/scijava-common@2.74.3
+- pkg:maven/org.scijava/scijava-common@2.74.3?classifier=sources
+- pkg:maven/org.scijava/scijava-common@2.75.0
+- pkg:maven/org.scijava/scijava-common@2.75.0?classifier=sources
+- pkg:maven/org.scijava/scijava-common@2.75.1
+- pkg:maven/org.scijava/scijava-common@2.75.1?classifier=sources
+- pkg:maven/org.scijava/scijava-common@2.76.0
+- pkg:maven/org.scijava/scijava-common@2.76.0?classifier=sources

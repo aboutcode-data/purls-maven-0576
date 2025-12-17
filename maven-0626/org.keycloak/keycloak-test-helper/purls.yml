@@ -38,3 +38,17 @@
 - pkg:maven/org.keycloak/keycloak-test-helper@4.0.0.Beta3?classifier=sources
 - pkg:maven/org.keycloak/keycloak-test-helper@4.0.0.Final
 - pkg:maven/org.keycloak/keycloak-test-helper@4.0.0.Final?classifier=sources
+- pkg:maven/org.keycloak/keycloak-test-helper@4.1.0.Final
+- pkg:maven/org.keycloak/keycloak-test-helper@4.1.0.Final?classifier=sources
+- pkg:maven/org.keycloak/keycloak-test-helper@4.2.0.Final
+- pkg:maven/org.keycloak/keycloak-test-helper@4.2.0.Final?classifier=sources
+- pkg:maven/org.keycloak/keycloak-test-helper@4.2.1.Final
+- pkg:maven/org.keycloak/keycloak-test-helper@4.2.1.Final?classifier=sources
+- pkg:maven/org.keycloak/keycloak-test-helper@4.3.0.Final
+- pkg:maven/org.keycloak/keycloak-test-helper@4.3.0.Final?classifier=sources
+- pkg:maven/org.keycloak/keycloak-test-helper@4.4.0.Final
+- pkg:maven/org.keycloak/keycloak-test-helper@4.4.0.Final?classifier=sources
+- pkg:maven/org.keycloak/keycloak-test-helper@4.5.0.Final
+- pkg:maven/org.keycloak/keycloak-test-helper@4.5.0.Final?classifier=sources
+- pkg:maven/org.keycloak/keycloak-test-helper@4.6.0.Final
+- pkg:maven/org.keycloak/keycloak-test-helper@4.6.0.Final?classifier=sources

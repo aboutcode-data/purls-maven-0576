@@ -1,0 +1,2 @@
+- pkg:maven/com.willowtreeapps.hyperion/hyperion-build-config@0.9.24?classifier=sources
+- pkg:maven/com.willowtreeapps.hyperion/hyperion-build-config@0.9.24?type=aar

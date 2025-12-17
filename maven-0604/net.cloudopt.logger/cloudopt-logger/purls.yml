@@ -1,0 +1,3 @@
+- pkg:maven/net.cloudopt.logger/cloudopt-logger@1.0.0
+- pkg:maven/net.cloudopt.logger/cloudopt-logger@1.0.1
+- pkg:maven/net.cloudopt.logger/cloudopt-logger@1.0.1?classifier=sources

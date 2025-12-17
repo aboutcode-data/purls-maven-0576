@@ -128,3 +128,5 @@
 - pkg:maven/org.realityforge.guiceyloops/guiceyloops@0.94?classifier=sources
 - pkg:maven/org.realityforge.guiceyloops/guiceyloops@0.95
 - pkg:maven/org.realityforge.guiceyloops/guiceyloops@0.95?classifier=sources
+- pkg:maven/org.realityforge.guiceyloops/guiceyloops@0.96
+- pkg:maven/org.realityforge.guiceyloops/guiceyloops@0.96?classifier=sources

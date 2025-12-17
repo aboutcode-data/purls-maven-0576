@@ -1,0 +1,2 @@
+- pkg:maven/org.jfaster.derror/derror-logback-plugin@1.0.5
+- pkg:maven/org.jfaster.derror/derror-logback-plugin@1.0.5?classifier=sources

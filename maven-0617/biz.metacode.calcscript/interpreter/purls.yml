@@ -1,0 +1,2 @@
+- pkg:maven/biz.metacode.calcscript/interpreter@1.0.0
+- pkg:maven/biz.metacode.calcscript/interpreter@1.0.0?classifier=sources

@@ -8,3 +8,7 @@
 - pkg:maven/org.whispersystems/webrtc-android-debug@M59?type=aar
 - pkg:maven/org.whispersystems/webrtc-android-debug@M63?type=aar
 - pkg:maven/org.whispersystems/webrtc-android-debug@M64?type=aar
+- pkg:maven/org.whispersystems/webrtc-android-debug@M67?type=aar
+- pkg:maven/org.whispersystems/webrtc-android-debug@M68?type=aar
+- pkg:maven/org.whispersystems/webrtc-android-debug@M69?type=aar
+- pkg:maven/org.whispersystems/webrtc-android-debug@M70?type=aar

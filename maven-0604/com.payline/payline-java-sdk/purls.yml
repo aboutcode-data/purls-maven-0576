@@ -6,3 +6,5 @@
 - pkg:maven/com.payline/payline-java-sdk@4.48?classifier=sources
 - pkg:maven/com.payline/payline-java-sdk@4.53
 - pkg:maven/com.payline/payline-java-sdk@4.53?classifier=sources
+- pkg:maven/com.payline/payline-java-sdk@4.56
+- pkg:maven/com.payline/payline-java-sdk@4.56?classifier=sources

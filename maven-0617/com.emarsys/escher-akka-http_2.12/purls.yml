@@ -1,0 +1,6 @@
+- pkg:maven/com.emarsys/escher-akka-http_2.12@1.0.2%2B4-9fe04ae2
+- pkg:maven/com.emarsys/escher-akka-http_2.12@1.0.2%2B4-9fe04ae2?classifier=sources
+- pkg:maven/com.emarsys/escher-akka-http_2.12@1.0.2%2B5-e0291469
+- pkg:maven/com.emarsys/escher-akka-http_2.12@1.0.2%2B5-e0291469?classifier=sources
+- pkg:maven/com.emarsys/escher-akka-http_2.12@1.0.3
+- pkg:maven/com.emarsys/escher-akka-http_2.12@1.0.3?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/org.zeroturnaround/zt-process-killer@1.7?classifier=sources
 - pkg:maven/org.zeroturnaround/zt-process-killer@1.8
 - pkg:maven/org.zeroturnaround/zt-process-killer@1.8?classifier=sources
+- pkg:maven/org.zeroturnaround/zt-process-killer@1.9
+- pkg:maven/org.zeroturnaround/zt-process-killer@1.9?classifier=sources

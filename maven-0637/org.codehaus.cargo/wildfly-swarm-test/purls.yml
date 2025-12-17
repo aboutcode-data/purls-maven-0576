@@ -1,3 +1,7 @@
+- pkg:maven/org.codehaus.cargo/wildfly-swarm-test@1.6.10?classifier=sources
+- pkg:maven/org.codehaus.cargo/wildfly-swarm-test@1.6.10?type=war
+- pkg:maven/org.codehaus.cargo/wildfly-swarm-test@1.6.11?classifier=sources
+- pkg:maven/org.codehaus.cargo/wildfly-swarm-test@1.6.11?type=war
 - pkg:maven/org.codehaus.cargo/wildfly-swarm-test@1.6.5?classifier=sources
 - pkg:maven/org.codehaus.cargo/wildfly-swarm-test@1.6.5?type=war
 - pkg:maven/org.codehaus.cargo/wildfly-swarm-test@1.6.6?classifier=sources
@@ -6,3 +10,7 @@
 - pkg:maven/org.codehaus.cargo/wildfly-swarm-test@1.6.7?type=war
 - pkg:maven/org.codehaus.cargo/wildfly-swarm-test@1.6.8?classifier=sources
 - pkg:maven/org.codehaus.cargo/wildfly-swarm-test@1.6.8?type=war
+- pkg:maven/org.codehaus.cargo/wildfly-swarm-test@1.6.9?classifier=sources
+- pkg:maven/org.codehaus.cargo/wildfly-swarm-test@1.6.9?type=war
+- pkg:maven/org.codehaus.cargo/wildfly-swarm-test@1.7.0?classifier=sources
+- pkg:maven/org.codehaus.cargo/wildfly-swarm-test@1.7.0?type=war

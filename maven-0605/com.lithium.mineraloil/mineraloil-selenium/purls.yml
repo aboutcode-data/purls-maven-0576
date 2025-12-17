@@ -127,6 +127,10 @@
 - pkg:maven/com.lithium.mineraloil/mineraloil-selenium@2.14?classifier=sources
 - pkg:maven/com.lithium.mineraloil/mineraloil-selenium@2.15
 - pkg:maven/com.lithium.mineraloil/mineraloil-selenium@2.15?classifier=sources
+- pkg:maven/com.lithium.mineraloil/mineraloil-selenium@2.16
+- pkg:maven/com.lithium.mineraloil/mineraloil-selenium@2.16?classifier=sources
+- pkg:maven/com.lithium.mineraloil/mineraloil-selenium@2.18
+- pkg:maven/com.lithium.mineraloil/mineraloil-selenium@2.18?classifier=sources
 - pkg:maven/com.lithium.mineraloil/mineraloil-selenium@2.1?classifier=sources
 - pkg:maven/com.lithium.mineraloil/mineraloil-selenium@2.2
 - pkg:maven/com.lithium.mineraloil/mineraloil-selenium@2.2?classifier=sources

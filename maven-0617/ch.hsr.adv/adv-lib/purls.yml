@@ -1,2 +1,4 @@
 - pkg:maven/ch.hsr.adv/adv-lib@0.3
 - pkg:maven/ch.hsr.adv/adv-lib@0.3?classifier=sources
+- pkg:maven/ch.hsr.adv/adv-lib@1.0
+- pkg:maven/ch.hsr.adv/adv-lib@1.0?classifier=sources

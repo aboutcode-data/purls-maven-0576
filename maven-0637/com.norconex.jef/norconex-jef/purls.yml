@@ -8,3 +8,4 @@
 - pkg:maven/com.norconex.jef/norconex-jef@4.0.7?classifier=sources
 - pkg:maven/com.norconex.jef/norconex-jef@4.0.8?classifier=sources
 - pkg:maven/com.norconex.jef/norconex-jef@4.1.0?classifier=sources
+- pkg:maven/com.norconex.jef/norconex-jef@4.1.1?classifier=sources

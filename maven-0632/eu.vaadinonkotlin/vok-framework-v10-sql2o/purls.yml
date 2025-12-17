@@ -1,0 +1,6 @@
+- pkg:maven/eu.vaadinonkotlin/vok-framework-v10-sql2o@0.6.0
+- pkg:maven/eu.vaadinonkotlin/vok-framework-v10-sql2o@0.6.0?classifier=sources
+- pkg:maven/eu.vaadinonkotlin/vok-framework-v10-sql2o@0.6.1
+- pkg:maven/eu.vaadinonkotlin/vok-framework-v10-sql2o@0.6.1?classifier=sources
+- pkg:maven/eu.vaadinonkotlin/vok-framework-v10-sql2o@0.6.2
+- pkg:maven/eu.vaadinonkotlin/vok-framework-v10-sql2o@0.6.2?classifier=sources

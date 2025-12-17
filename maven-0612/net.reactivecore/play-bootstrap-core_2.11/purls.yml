@@ -1,0 +1,2 @@
+- pkg:maven/net.reactivecore/play-bootstrap-core_2.11@1.4-P26-0
+- pkg:maven/net.reactivecore/play-bootstrap-core_2.11@1.4-P26-0?classifier=sources

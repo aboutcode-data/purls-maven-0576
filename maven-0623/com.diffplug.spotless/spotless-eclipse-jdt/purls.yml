@@ -1,0 +1,2 @@
+- pkg:maven/com.diffplug.spotless/spotless-eclipse-jdt@4.8.0
+- pkg:maven/com.diffplug.spotless/spotless-eclipse-jdt@4.8.0?classifier=sources

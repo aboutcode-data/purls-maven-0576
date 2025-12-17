@@ -1,0 +1,2 @@
+- pkg:maven/ru.sbtqa.tag.datajack.adaptors/excel-adaptor@2.0.0
+- pkg:maven/ru.sbtqa.tag.datajack.adaptors/excel-adaptor@2.0.0?classifier=sources

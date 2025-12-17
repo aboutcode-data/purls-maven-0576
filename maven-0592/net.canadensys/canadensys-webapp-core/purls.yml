@@ -6,3 +6,4 @@
 - pkg:maven/net.canadensys/canadensys-webapp-core@0.5?type=war
 - pkg:maven/net.canadensys/canadensys-webapp-core@0.6?type=war
 - pkg:maven/net.canadensys/canadensys-webapp-core@0.7?type=war
+- pkg:maven/net.canadensys/canadensys-webapp-core@0.8?type=war

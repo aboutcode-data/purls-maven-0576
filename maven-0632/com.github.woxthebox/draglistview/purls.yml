@@ -94,3 +94,7 @@
 - pkg:maven/com.github.woxthebox/draglistview@1.6.0?type=aar
 - pkg:maven/com.github.woxthebox/draglistview@1.6.1?classifier=sources
 - pkg:maven/com.github.woxthebox/draglistview@1.6.1?type=aar
+- pkg:maven/com.github.woxthebox/draglistview@1.6.2?classifier=sources
+- pkg:maven/com.github.woxthebox/draglistview@1.6.2?type=aar
+- pkg:maven/com.github.woxthebox/draglistview@1.6.3?classifier=sources
+- pkg:maven/com.github.woxthebox/draglistview@1.6.3?type=aar

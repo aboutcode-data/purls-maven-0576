@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/webcomponents__template@1.4.0
+- pkg:maven/org.webjars.npm/webcomponents__template@1.4.0?classifier=sources

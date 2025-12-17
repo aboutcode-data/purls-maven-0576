@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.beam/beam-vendor-sdks-java-extensions-protobuf@2.6.0
+- pkg:maven/org.apache.beam/beam-vendor-sdks-java-extensions-protobuf@2.6.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-vendor-sdks-java-extensions-protobuf@2.7.0
+- pkg:maven/org.apache.beam/beam-vendor-sdks-java-extensions-protobuf@2.7.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-vendor-sdks-java-extensions-protobuf@2.8.0
+- pkg:maven/org.apache.beam/beam-vendor-sdks-java-extensions-protobuf@2.8.0?classifier=sources

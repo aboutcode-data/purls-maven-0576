@@ -1,0 +1,2 @@
+- pkg:maven/de.codecentric/chaos-monkey-demo-app-ext-jar@2.0.1
+- pkg:maven/de.codecentric/chaos-monkey-demo-app-ext-jar@2.0.1?classifier=sources

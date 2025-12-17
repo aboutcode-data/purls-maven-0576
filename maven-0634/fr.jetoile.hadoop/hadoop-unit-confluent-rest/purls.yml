@@ -1,0 +1,2 @@
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-confluent-rest@2.9
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-confluent-rest@2.9?classifier=sources

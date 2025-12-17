@@ -6,3 +6,5 @@
 - pkg:maven/net.sf.proguard/proguard-annotations@6.0.3
 - pkg:maven/net.sf.proguard/proguard-annotations@6.0.3?classifier=sources
 - pkg:maven/net.sf.proguard/proguard-annotations@6.0?classifier=sources
+- pkg:maven/net.sf.proguard/proguard-annotations@6.1.0beta1
+- pkg:maven/net.sf.proguard/proguard-annotations@6.1.0beta1?classifier=sources

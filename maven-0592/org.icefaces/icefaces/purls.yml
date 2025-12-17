@@ -21,3 +21,5 @@
 - pkg:maven/org.icefaces/icefaces@4.2.0-BETA
 - pkg:maven/org.icefaces/icefaces@4.2.0-BETA?classifier=sources
 - pkg:maven/org.icefaces/icefaces@4.2.0?classifier=sources
+- pkg:maven/org.icefaces/icefaces@4.3.0
+- pkg:maven/org.icefaces/icefaces@4.3.0?classifier=sources

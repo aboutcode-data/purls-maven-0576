@@ -85,3 +85,6 @@
 - pkg:maven/org.apache.sling/org.apache.sling.installer.core@3.8.8
 - pkg:maven/org.apache.sling/org.apache.sling.installer.core@3.8.8?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.installer.core@3.8.8?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.installer.core@3.9.0
+- pkg:maven/org.apache.sling/org.apache.sling.installer.core@3.9.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.installer.core@3.9.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.streampipes/streampipes-rest-shared@0.60.0
+- pkg:maven/org.streampipes/streampipes-rest-shared@0.60.0?classifier=sources

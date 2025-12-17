@@ -38,3 +38,13 @@
 - pkg:maven/com.perimeterx/perimeterx-sdk@3.0.0?classifier=sources
 - pkg:maven/com.perimeterx/perimeterx-sdk@4.0.0
 - pkg:maven/com.perimeterx/perimeterx-sdk@4.0.0?classifier=sources
+- pkg:maven/com.perimeterx/perimeterx-sdk@4.1.1
+- pkg:maven/com.perimeterx/perimeterx-sdk@4.1.1?classifier=sources
+- pkg:maven/com.perimeterx/perimeterx-sdk@4.2.0
+- pkg:maven/com.perimeterx/perimeterx-sdk@4.2.0?classifier=sources
+- pkg:maven/com.perimeterx/perimeterx-sdk@5.0.0
+- pkg:maven/com.perimeterx/perimeterx-sdk@5.0.0?classifier=sources
+- pkg:maven/com.perimeterx/perimeterx-sdk@5.1.0
+- pkg:maven/com.perimeterx/perimeterx-sdk@5.1.0?classifier=sources
+- pkg:maven/com.perimeterx/perimeterx-sdk@5.2.0
+- pkg:maven/com.perimeterx/perimeterx-sdk@5.2.0?classifier=sources

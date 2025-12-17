@@ -1,0 +1,2 @@
+- pkg:maven/io.openliberty.features/install-map@18.0.0.2
+- pkg:maven/io.openliberty.features/install-map@18.0.0.2?classifier=sources

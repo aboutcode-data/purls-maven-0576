@@ -1,0 +1,2 @@
+- pkg:maven/com.badlogicgames.gdxpay/gdx-pay-android-googlebilling@0.11.3?classifier=sources
+- pkg:maven/com.badlogicgames.gdxpay/gdx-pay-android-googlebilling@0.11.3?type=aar

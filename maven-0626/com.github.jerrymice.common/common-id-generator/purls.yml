@@ -1,0 +1,8 @@
+- pkg:maven/com.github.jerrymice.common/common-id-generator@0.0.2.beta1
+- pkg:maven/com.github.jerrymice.common/common-id-generator@0.0.2.beta1?classifier=sources
+- pkg:maven/com.github.jerrymice.common/common-id-generator@0.0.2.beta4
+- pkg:maven/com.github.jerrymice.common/common-id-generator@0.0.2.beta4?classifier=sources
+- pkg:maven/com.github.jerrymice.common/common-id-generator@0.0.2.beta5
+- pkg:maven/com.github.jerrymice.common/common-id-generator@0.0.2.beta5?classifier=sources
+- pkg:maven/com.github.jerrymice.common/common-id-generator@0.0.2.beta6
+- pkg:maven/com.github.jerrymice.common/common-id-generator@0.0.2.beta6?classifier=sources

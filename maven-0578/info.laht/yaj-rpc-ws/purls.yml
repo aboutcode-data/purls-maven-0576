@@ -1,0 +1,6 @@
+- pkg:maven/info.laht/yaj-rpc-ws@0.10.0
+- pkg:maven/info.laht/yaj-rpc-ws@0.10.0?classifier=sources
+- pkg:maven/info.laht/yaj-rpc-ws@0.8
+- pkg:maven/info.laht/yaj-rpc-ws@0.8?classifier=sources
+- pkg:maven/info.laht/yaj-rpc-ws@0.9
+- pkg:maven/info.laht/yaj-rpc-ws@0.9?classifier=sources

@@ -20,3 +20,7 @@
 - pkg:maven/kr.jmlab/jmlab-utils-java8@0.1.91?classifier=sources
 - pkg:maven/kr.jmlab/jmlab-utils-java8@0.1.92
 - pkg:maven/kr.jmlab/jmlab-utils-java8@0.1.92?classifier=sources
+- pkg:maven/kr.jmlab/jmlab-utils-java8@0.1.93
+- pkg:maven/kr.jmlab/jmlab-utils-java8@0.1.93?classifier=sources
+- pkg:maven/kr.jmlab/jmlab-utils-java8@0.1.94
+- pkg:maven/kr.jmlab/jmlab-utils-java8@0.1.94?classifier=sources

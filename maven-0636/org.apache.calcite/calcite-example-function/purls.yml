@@ -12,6 +12,8 @@
 - pkg:maven/org.apache.calcite/calcite-example-function@1.15.0?classifier=sources
 - pkg:maven/org.apache.calcite/calcite-example-function@1.16.0
 - pkg:maven/org.apache.calcite/calcite-example-function@1.16.0?classifier=sources
+- pkg:maven/org.apache.calcite/calcite-example-function@1.17.0
+- pkg:maven/org.apache.calcite/calcite-example-function@1.17.0?classifier=sources
 - pkg:maven/org.apache.calcite/calcite-example-function@1.5.0
 - pkg:maven/org.apache.calcite/calcite-example-function@1.5.0?classifier=sources
 - pkg:maven/org.apache.calcite/calcite-example-function@1.6.0

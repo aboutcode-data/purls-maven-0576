@@ -1,0 +1,4 @@
+- pkg:maven/ch.baurs/groovy-web-console@0.9.0
+- pkg:maven/ch.baurs/groovy-web-console@0.9.0?classifier=sources
+- pkg:maven/ch.baurs/groovy-web-console@1.0.0
+- pkg:maven/ch.baurs/groovy-web-console@1.0.0?classifier=sources

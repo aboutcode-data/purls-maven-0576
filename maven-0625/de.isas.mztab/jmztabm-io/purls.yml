@@ -1,2 +1,14 @@
 - pkg:maven/de.isas.mztab/jmztabm-io@0.9.5
 - pkg:maven/de.isas.mztab/jmztabm-io@0.9.5?classifier=sources
+- pkg:maven/de.isas.mztab/jmztabm-io@0.9.6
+- pkg:maven/de.isas.mztab/jmztabm-io@0.9.6?classifier=sources
+- pkg:maven/de.isas.mztab/jmztabm-io@0.9.7
+- pkg:maven/de.isas.mztab/jmztabm-io@0.9.7?classifier=sources
+- pkg:maven/de.isas.mztab/jmztabm-io@0.9.8
+- pkg:maven/de.isas.mztab/jmztabm-io@0.9.8?classifier=sources
+- pkg:maven/de.isas.mztab/jmztabm-io@0.9.9
+- pkg:maven/de.isas.mztab/jmztabm-io@0.9.9?classifier=sources
+- pkg:maven/de.isas.mztab/jmztabm-io@1.0.0
+- pkg:maven/de.isas.mztab/jmztabm-io@1.0.0?classifier=sources
+- pkg:maven/de.isas.mztab/jmztabm-io@1.0.1
+- pkg:maven/de.isas.mztab/jmztabm-io@1.0.1?classifier=sources

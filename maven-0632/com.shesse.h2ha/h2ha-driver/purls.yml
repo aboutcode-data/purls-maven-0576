@@ -16,3 +16,5 @@
 - pkg:maven/com.shesse.h2ha/h2ha-driver@1.4.193.1?classifier=sources
 - pkg:maven/com.shesse.h2ha/h2ha-driver@1.4.193.2
 - pkg:maven/com.shesse.h2ha/h2ha-driver@1.4.193.2?classifier=sources
+- pkg:maven/com.shesse.h2ha/h2ha-driver@1.4.193.3
+- pkg:maven/com.shesse.h2ha/h2ha-driver@1.4.193.3?classifier=sources

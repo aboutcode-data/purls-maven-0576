@@ -32,3 +32,9 @@
 - pkg:maven/org.pac4j/spring-security-pac4j@2.1.2?classifier=sources
 - pkg:maven/org.pac4j/spring-security-pac4j@3.0.0
 - pkg:maven/org.pac4j/spring-security-pac4j@3.0.0?classifier=sources
+- pkg:maven/org.pac4j/spring-security-pac4j@3.1.0
+- pkg:maven/org.pac4j/spring-security-pac4j@3.1.0?classifier=sources
+- pkg:maven/org.pac4j/spring-security-pac4j@4.0.0
+- pkg:maven/org.pac4j/spring-security-pac4j@4.0.0?classifier=sources
+- pkg:maven/org.pac4j/spring-security-pac4j@4.1.0
+- pkg:maven/org.pac4j/spring-security-pac4j@4.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.handofgod94/jacoco-cov-badge-maven-plugin@1.0.0
+- pkg:maven/io.github.handofgod94/jacoco-cov-badge-maven-plugin@1.0.0?classifier=sources
