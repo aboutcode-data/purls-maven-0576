@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/emotion@10.0.0-really-unsafe-please-do-not-use.2
+- pkg:maven/org.webjars.npm/emotion@10.0.0-really-unsafe-please-do-not-use.2?classifier=sources
+- pkg:maven/org.webjars.npm/emotion@10.0.6
+- pkg:maven/org.webjars.npm/emotion@10.0.6?classifier=sources

@@ -36,3 +36,5 @@
 - pkg:maven/org.slinkyframework/slinky-client@0.4.4?classifier=sources
 - pkg:maven/org.slinkyframework/slinky-client@0.5.0
 - pkg:maven/org.slinkyframework/slinky-client@0.5.0?classifier=sources
+- pkg:maven/org.slinkyframework/slinky-client@0.5.1
+- pkg:maven/org.slinkyframework/slinky-client@0.5.1?classifier=sources

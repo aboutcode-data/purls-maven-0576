@@ -68,3 +68,7 @@
 - pkg:maven/io.bit3/jsass@5.7.2?classifier=sources
 - pkg:maven/io.bit3/jsass@5.7.3
 - pkg:maven/io.bit3/jsass@5.7.3?classifier=sources
+- pkg:maven/io.bit3/jsass@5.7.4
+- pkg:maven/io.bit3/jsass@5.7.4?classifier=sources
+- pkg:maven/io.bit3/jsass@5.8.0
+- pkg:maven/io.bit3/jsass@5.8.0?classifier=sources

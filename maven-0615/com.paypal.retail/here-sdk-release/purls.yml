@@ -60,3 +60,6 @@
 - pkg:maven/com.paypal.retail/here-sdk-release@2.1.0.201802?type=aar
 - pkg:maven/com.paypal.retail/here-sdk-release@2.1.0.201803-beta01?type=aar
 - pkg:maven/com.paypal.retail/here-sdk-release@2.1.02.18310010-beta?type=aar
+- pkg:maven/com.paypal.retail/here-sdk-release@2.1.02.19018010?type=aar
+- pkg:maven/com.paypal.retail/here-sdk-release@2.1.02.19051000?type=aar
+- pkg:maven/com.paypal.retail/here-sdk-release@2.1.02.19063010?type=aar

@@ -4,3 +4,5 @@
 - pkg:maven/de.envisia.ipp/akka-ipp_2.12@0.1.1?classifier=sources
 - pkg:maven/de.envisia.ipp/akka-ipp_2.12@0.1.2
 - pkg:maven/de.envisia.ipp/akka-ipp_2.12@0.1.2?classifier=sources
+- pkg:maven/de.envisia.ipp/akka-ipp_2.12@0.3.0
+- pkg:maven/de.envisia.ipp/akka-ipp_2.12@0.3.0?classifier=sources

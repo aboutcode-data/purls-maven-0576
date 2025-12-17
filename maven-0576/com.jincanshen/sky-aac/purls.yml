@@ -1,0 +1,2 @@
+- pkg:maven/com.jincanshen/sky-aac@3.1.0?classifier=sources
+- pkg:maven/com.jincanshen/sky-aac@3.1.0?type=aar

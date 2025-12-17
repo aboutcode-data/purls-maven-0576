@@ -1,0 +1,2 @@
+- pkg:maven/org.carlspring.logging/logback-configuration-rest@1.0
+- pkg:maven/org.carlspring.logging/logback-configuration-rest@1.0?classifier=sources

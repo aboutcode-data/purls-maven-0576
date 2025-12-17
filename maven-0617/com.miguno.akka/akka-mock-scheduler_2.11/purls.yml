@@ -10,3 +10,9 @@
 - pkg:maven/com.miguno.akka/akka-mock-scheduler_2.11@0.5.0?classifier=sources
 - pkg:maven/com.miguno.akka/akka-mock-scheduler_2.11@0.5.1
 - pkg:maven/com.miguno.akka/akka-mock-scheduler_2.11@0.5.1?classifier=sources
+- pkg:maven/com.miguno.akka/akka-mock-scheduler_2.11@0.5.2
+- pkg:maven/com.miguno.akka/akka-mock-scheduler_2.11@0.5.2?classifier=sources
+- pkg:maven/com.miguno.akka/akka-mock-scheduler_2.11@0.5.3
+- pkg:maven/com.miguno.akka/akka-mock-scheduler_2.11@0.5.3?classifier=sources
+- pkg:maven/com.miguno.akka/akka-mock-scheduler_2.11@0.5.4
+- pkg:maven/com.miguno.akka/akka-mock-scheduler_2.11@0.5.4?classifier=sources

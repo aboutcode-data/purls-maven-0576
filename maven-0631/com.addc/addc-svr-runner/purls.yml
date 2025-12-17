@@ -1,0 +1,2 @@
+- pkg:maven/com.addc/addc-svr-runner@2.5
+- pkg:maven/com.addc/addc-svr-runner@2.5?classifier=sources

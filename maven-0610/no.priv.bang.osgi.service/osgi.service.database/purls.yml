@@ -1,0 +1,2 @@
+- pkg:maven/no.priv.bang.osgi.service/osgi.service.database@1.0.0
+- pkg:maven/no.priv.bang.osgi.service/osgi.service.database@1.0.0?classifier=sources

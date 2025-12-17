@@ -13,3 +13,4 @@
 - pkg:maven/nz.net.osnz.composite/composite-jetty@3.6
 - pkg:maven/nz.net.osnz.composite/composite-jetty@3.7
 - pkg:maven/nz.net.osnz.composite/composite-jetty@3.8
+- pkg:maven/nz.net.osnz.composite/composite-jetty@3.9

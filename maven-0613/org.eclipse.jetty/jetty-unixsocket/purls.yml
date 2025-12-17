@@ -38,6 +38,8 @@
 - pkg:maven/org.eclipse.jetty/jetty-unixsocket@9.4.13.v20181111?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-unixsocket@9.4.14.v20181114
 - pkg:maven/org.eclipse.jetty/jetty-unixsocket@9.4.14.v20181114?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-unixsocket@9.4.15.v20190215
+- pkg:maven/org.eclipse.jetty/jetty-unixsocket@9.4.15.v20190215?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-unixsocket@9.4.2.v20170220
 - pkg:maven/org.eclipse.jetty/jetty-unixsocket@9.4.2.v20170220?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-unixsocket@9.4.2.v20180619

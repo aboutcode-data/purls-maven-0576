@@ -16,3 +16,5 @@
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-richclient@2.6.0?classifier=sources
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-richclient@2.7.0
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-richclient@2.7.0?classifier=sources
+- pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-richclient@2.8.0
+- pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-richclient@2.8.0?classifier=sources

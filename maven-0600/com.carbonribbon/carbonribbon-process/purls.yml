@@ -1,0 +1,2 @@
+- pkg:maven/com.carbonribbon/carbonribbon-process@0.1.2-RELEASE
+- pkg:maven/com.carbonribbon/carbonribbon-process@0.1.2-RELEASE?classifier=sources

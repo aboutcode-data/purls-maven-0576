@@ -1,5 +1,6 @@
 - pkg:maven/de.otto/jlineup-web@2.4.1
 - pkg:maven/de.otto/jlineup-web@2.4.1?classifier=sources
+- pkg:maven/de.otto/jlineup-web@3.0.0
 - pkg:maven/de.otto/jlineup-web@3.0.0-rc1
 - pkg:maven/de.otto/jlineup-web@3.0.0-rc1?classifier=sources
 - pkg:maven/de.otto/jlineup-web@3.0.0-rc2
@@ -12,3 +13,10 @@
 - pkg:maven/de.otto/jlineup-web@3.0.0-rc5?classifier=sources
 - pkg:maven/de.otto/jlineup-web@3.0.0-rc6
 - pkg:maven/de.otto/jlineup-web@3.0.0-rc6?classifier=sources
+- pkg:maven/de.otto/jlineup-web@3.0.0-rc7
+- pkg:maven/de.otto/jlineup-web@3.0.0-rc7?classifier=sources
+- pkg:maven/de.otto/jlineup-web@3.0.0?classifier=sources
+- pkg:maven/de.otto/jlineup-web@3.0.1
+- pkg:maven/de.otto/jlineup-web@3.0.1?classifier=sources
+- pkg:maven/de.otto/jlineup-web@3.0.2
+- pkg:maven/de.otto/jlineup-web@3.0.2?classifier=sources

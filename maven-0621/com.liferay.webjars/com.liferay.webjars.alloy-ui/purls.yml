@@ -71,6 +71,10 @@
 - pkg:maven/com.liferay.webjars/com.liferay.webjars.alloy-ui@3.0.3-deprecated.82
 - pkg:maven/com.liferay.webjars/com.liferay.webjars.alloy-ui@3.0.3-deprecated.83
 - pkg:maven/com.liferay.webjars/com.liferay.webjars.alloy-ui@3.0.3-deprecated.84
+- pkg:maven/com.liferay.webjars/com.liferay.webjars.alloy-ui@3.0.3-deprecated.85
+- pkg:maven/com.liferay.webjars/com.liferay.webjars.alloy-ui@3.0.3-deprecated.86
+- pkg:maven/com.liferay.webjars/com.liferay.webjars.alloy-ui@3.0.3-deprecated.87
+- pkg:maven/com.liferay.webjars/com.liferay.webjars.alloy-ui@3.0.3-deprecated.88
 - pkg:maven/com.liferay.webjars/com.liferay.webjars.alloy-ui@3.1.0-deprecated.1
 - pkg:maven/com.liferay.webjars/com.liferay.webjars.alloy-ui@3.1.0-deprecated.10
 - pkg:maven/com.liferay.webjars/com.liferay.webjars.alloy-ui@3.1.0-deprecated.11
@@ -117,6 +121,12 @@
 - pkg:maven/com.liferay.webjars/com.liferay.webjars.alloy-ui@3.1.0-deprecated.50
 - pkg:maven/com.liferay.webjars/com.liferay.webjars.alloy-ui@3.1.0-deprecated.51
 - pkg:maven/com.liferay.webjars/com.liferay.webjars.alloy-ui@3.1.0-deprecated.52
+- pkg:maven/com.liferay.webjars/com.liferay.webjars.alloy-ui@3.1.0-deprecated.53
+- pkg:maven/com.liferay.webjars/com.liferay.webjars.alloy-ui@3.1.0-deprecated.54
+- pkg:maven/com.liferay.webjars/com.liferay.webjars.alloy-ui@3.1.0-deprecated.55
+- pkg:maven/com.liferay.webjars/com.liferay.webjars.alloy-ui@3.1.0-deprecated.56
+- pkg:maven/com.liferay.webjars/com.liferay.webjars.alloy-ui@3.1.0-deprecated.57
+- pkg:maven/com.liferay.webjars/com.liferay.webjars.alloy-ui@3.1.0-deprecated.58
 - pkg:maven/com.liferay.webjars/com.liferay.webjars.alloy-ui@3.1.0-deprecated.6
 - pkg:maven/com.liferay.webjars/com.liferay.webjars.alloy-ui@3.1.0-deprecated.7
 - pkg:maven/com.liferay.webjars/com.liferay.webjars.alloy-ui@3.1.0-deprecated.8

@@ -2,3 +2,7 @@
 - pkg:maven/com.codecommit/shims-effect_2.13.0-M4@1.5-abcb3e0?classifier=sources
 - pkg:maven/com.codecommit/shims-effect_2.13.0-M4@1.5.0
 - pkg:maven/com.codecommit/shims-effect_2.13.0-M4@1.5.0?classifier=sources
+- pkg:maven/com.codecommit/shims-effect_2.13.0-M4@1.6.0
+- pkg:maven/com.codecommit/shims-effect_2.13.0-M4@1.6.0?classifier=sources
+- pkg:maven/com.codecommit/shims-effect_2.13.0-M4@1.6.1
+- pkg:maven/com.codecommit/shims-effect_2.13.0-M4@1.6.1?classifier=sources

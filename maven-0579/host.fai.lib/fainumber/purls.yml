@@ -1,0 +1,10 @@
+- pkg:maven/host.fai.lib/fainumber@1.0.0.f
+- pkg:maven/host.fai.lib/fainumber@1.0.0.f-10
+- pkg:maven/host.fai.lib/fainumber@1.0.0.f-10?classifier=sources
+- pkg:maven/host.fai.lib/fainumber@1.0.0.f-11
+- pkg:maven/host.fai.lib/fainumber@1.0.0.f-11?classifier=sources
+- pkg:maven/host.fai.lib/fainumber@1.0.0.f-8
+- pkg:maven/host.fai.lib/fainumber@1.0.0.f-8?classifier=sources
+- pkg:maven/host.fai.lib/fainumber@1.0.0.f-9
+- pkg:maven/host.fai.lib/fainumber@1.0.0.f-9?classifier=sources
+- pkg:maven/host.fai.lib/fainumber@1.0.0.f?classifier=sources

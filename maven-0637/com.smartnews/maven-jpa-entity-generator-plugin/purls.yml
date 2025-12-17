@@ -8,3 +8,5 @@
 - pkg:maven/com.smartnews/maven-jpa-entity-generator-plugin@0.99.3?classifier=sources
 - pkg:maven/com.smartnews/maven-jpa-entity-generator-plugin@0.99.4
 - pkg:maven/com.smartnews/maven-jpa-entity-generator-plugin@0.99.4?classifier=sources
+- pkg:maven/com.smartnews/maven-jpa-entity-generator-plugin@0.99.5
+- pkg:maven/com.smartnews/maven-jpa-entity-generator-plugin@0.99.5?classifier=sources

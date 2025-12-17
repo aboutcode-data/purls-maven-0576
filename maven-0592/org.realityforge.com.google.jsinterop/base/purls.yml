@@ -1,0 +1,4 @@
+- pkg:maven/org.realityforge.com.google.jsinterop/base@1.0.0-b1-e6d791f
+- pkg:maven/org.realityforge.com.google.jsinterop/base@1.0.0-b1-e6d791f?classifier=sources
+- pkg:maven/org.realityforge.com.google.jsinterop/base@1.0.0-b2-e6d791f
+- pkg:maven/org.realityforge.com.google.jsinterop/base@1.0.0-b2-e6d791f?classifier=sources

@@ -6,3 +6,9 @@
 - pkg:maven/org.ctoolkit.restapi/ctoolkit-client-sheets@0.27?classifier=sources
 - pkg:maven/org.ctoolkit.restapi/ctoolkit-client-sheets@0.28
 - pkg:maven/org.ctoolkit.restapi/ctoolkit-client-sheets@0.28?classifier=sources
+- pkg:maven/org.ctoolkit.restapi/ctoolkit-client-sheets@0.29
+- pkg:maven/org.ctoolkit.restapi/ctoolkit-client-sheets@0.29?classifier=sources
+- pkg:maven/org.ctoolkit.restapi/ctoolkit-client-sheets@0.30
+- pkg:maven/org.ctoolkit.restapi/ctoolkit-client-sheets@0.30?classifier=sources
+- pkg:maven/org.ctoolkit.restapi/ctoolkit-client-sheets@0.31
+- pkg:maven/org.ctoolkit.restapi/ctoolkit-client-sheets@0.31?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.github.mvh77/gson-log4j2-layout@1.0.0
+- pkg:maven/com.github.mvh77/gson-log4j2-layout@1.0.0?classifier=sources
+- pkg:maven/com.github.mvh77/gson-log4j2-layout@1.1.0
+- pkg:maven/com.github.mvh77/gson-log4j2-layout@1.1.0?classifier=sources

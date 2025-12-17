@@ -32,3 +32,7 @@
 - pkg:maven/net.hamnaberg.json/immutable-json-core@6.1.0?classifier=sources
 - pkg:maven/net.hamnaberg.json/immutable-json-core@6.2.0
 - pkg:maven/net.hamnaberg.json/immutable-json-core@6.2.0?classifier=sources
+- pkg:maven/net.hamnaberg.json/immutable-json-core@7.0.0
+- pkg:maven/net.hamnaberg.json/immutable-json-core@7.0.0?classifier=sources
+- pkg:maven/net.hamnaberg.json/immutable-json-core@7.0.1
+- pkg:maven/net.hamnaberg.json/immutable-json-core@7.0.1?classifier=sources

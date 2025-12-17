@@ -8,5 +8,8 @@
 - pkg:maven/org.glassfish.main.webservices/jsr109-impl@4.1.1?classifier=sources
 - pkg:maven/org.glassfish.main.webservices/jsr109-impl@4.1.2?classifier=sources
 - pkg:maven/org.glassfish.main.webservices/jsr109-impl@4.1?classifier=sources
+- pkg:maven/org.glassfish.main.webservices/jsr109-impl@5.0.1?classifier=sources
 - pkg:maven/org.glassfish.main.webservices/jsr109-impl@5.0?classifier=sources
 - pkg:maven/org.glassfish.main.webservices/jsr109-impl@5.1.0-RC1?classifier=sources
+- pkg:maven/org.glassfish.main.webservices/jsr109-impl@5.1.0-RC2?classifier=sources
+- pkg:maven/org.glassfish.main.webservices/jsr109-impl@5.1.0?classifier=sources

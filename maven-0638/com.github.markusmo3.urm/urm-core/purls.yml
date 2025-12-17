@@ -8,3 +8,5 @@
 - pkg:maven/com.github.markusmo3.urm/urm-core@1.4.3?classifier=sources
 - pkg:maven/com.github.markusmo3.urm/urm-core@1.4.4
 - pkg:maven/com.github.markusmo3.urm/urm-core@1.4.4?classifier=sources
+- pkg:maven/com.github.markusmo3.urm/urm-core@1.4.5
+- pkg:maven/com.github.markusmo3.urm/urm-core@1.4.5?classifier=sources

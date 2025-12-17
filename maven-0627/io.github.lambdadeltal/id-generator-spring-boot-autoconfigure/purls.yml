@@ -1,0 +1,4 @@
+- pkg:maven/io.github.lambdadeltal/id-generator-spring-boot-autoconfigure@1.0.0.RELEASE
+- pkg:maven/io.github.lambdadeltal/id-generator-spring-boot-autoconfigure@1.0.0.RELEASE?classifier=sources
+- pkg:maven/io.github.lambdadeltal/id-generator-spring-boot-autoconfigure@2.3
+- pkg:maven/io.github.lambdadeltal/id-generator-spring-boot-autoconfigure@2.3?classifier=sources

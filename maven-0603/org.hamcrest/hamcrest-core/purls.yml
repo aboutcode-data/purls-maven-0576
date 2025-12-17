@@ -8,3 +8,9 @@
 - pkg:maven/org.hamcrest/hamcrest-core@1.3.RC2
 - pkg:maven/org.hamcrest/hamcrest-core@1.3.RC2?classifier=sources
 - pkg:maven/org.hamcrest/hamcrest-core@1.3?classifier=sources
+- pkg:maven/org.hamcrest/hamcrest-core@2.1
+- pkg:maven/org.hamcrest/hamcrest-core@2.1-rc3
+- pkg:maven/org.hamcrest/hamcrest-core@2.1-rc3?classifier=sources
+- pkg:maven/org.hamcrest/hamcrest-core@2.1-rc4
+- pkg:maven/org.hamcrest/hamcrest-core@2.1-rc4?classifier=sources
+- pkg:maven/org.hamcrest/hamcrest-core@2.1?classifier=sources

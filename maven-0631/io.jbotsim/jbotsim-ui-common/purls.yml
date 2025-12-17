@@ -1,0 +1,2 @@
+- pkg:maven/io.jbotsim/jbotsim-ui-common@1.0.0
+- pkg:maven/io.jbotsim/jbotsim-ui-common@1.0.0?classifier=sources

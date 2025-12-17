@@ -1,0 +1,6 @@
+- pkg:maven/software.amazon.awscdk/greengrass@0.26.0
+- pkg:maven/software.amazon.awscdk/greengrass@0.26.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/greengrass@0.27.0
+- pkg:maven/software.amazon.awscdk/greengrass@0.27.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/greengrass@0.28.0
+- pkg:maven/software.amazon.awscdk/greengrass@0.28.0?classifier=sources

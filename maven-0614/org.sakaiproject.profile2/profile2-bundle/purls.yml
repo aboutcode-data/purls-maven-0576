@@ -50,3 +50,9 @@
 - pkg:maven/org.sakaiproject.profile2/profile2-bundle@12.3?classifier=sources
 - pkg:maven/org.sakaiproject.profile2/profile2-bundle@12.4
 - pkg:maven/org.sakaiproject.profile2/profile2-bundle@12.4?classifier=sources
+- pkg:maven/org.sakaiproject.profile2/profile2-bundle@12.5
+- pkg:maven/org.sakaiproject.profile2/profile2-bundle@12.5?classifier=sources
+- pkg:maven/org.sakaiproject.profile2/profile2-bundle@12.6
+- pkg:maven/org.sakaiproject.profile2/profile2-bundle@12.6?classifier=sources
+- pkg:maven/org.sakaiproject.profile2/profile2-bundle@19.0
+- pkg:maven/org.sakaiproject.profile2/profile2-bundle@19.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/nl.colorize/multimedialib@2018.2
+- pkg:maven/nl.colorize/multimedialib@2018.2.1
+- pkg:maven/nl.colorize/multimedialib@2018.2.1?classifier=sources
 - pkg:maven/nl.colorize/multimedialib@2018.2?classifier=sources

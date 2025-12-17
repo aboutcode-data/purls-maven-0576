@@ -2,6 +2,8 @@
 - pkg:maven/org.dmfs/oauth2-providers@0.10?classifier=sources
 - pkg:maven/org.dmfs/oauth2-providers@0.11
 - pkg:maven/org.dmfs/oauth2-providers@0.11?classifier=sources
+- pkg:maven/org.dmfs/oauth2-providers@0.12
+- pkg:maven/org.dmfs/oauth2-providers@0.12?classifier=sources
 - pkg:maven/org.dmfs/oauth2-providers@0.5.1
 - pkg:maven/org.dmfs/oauth2-providers@0.5.1?classifier=sources
 - pkg:maven/org.dmfs/oauth2-providers@0.5.2

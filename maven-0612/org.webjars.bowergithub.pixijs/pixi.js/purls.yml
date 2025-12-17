@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bowergithub.pixijs/pixi.js@4.4.4
+- pkg:maven/org.webjars.bowergithub.pixijs/pixi.js@4.4.4?classifier=sources

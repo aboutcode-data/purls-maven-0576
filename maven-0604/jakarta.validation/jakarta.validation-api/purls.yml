@@ -1,0 +1,2 @@
+- pkg:maven/jakarta.validation/jakarta.validation-api@2.0.1
+- pkg:maven/jakarta.validation/jakarta.validation-api@2.0.1?classifier=sources

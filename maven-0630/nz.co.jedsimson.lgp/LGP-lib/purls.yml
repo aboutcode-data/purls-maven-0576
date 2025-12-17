@@ -1,0 +1,4 @@
+- pkg:maven/nz.co.jedsimson.lgp/LGP-lib@1.0
+- pkg:maven/nz.co.jedsimson.lgp/LGP-lib@1.0?classifier=sources
+- pkg:maven/nz.co.jedsimson.lgp/LGP-lib@1.1
+- pkg:maven/nz.co.jedsimson.lgp/LGP-lib@1.1?classifier=sources

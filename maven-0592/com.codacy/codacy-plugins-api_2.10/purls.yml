@@ -20,3 +20,9 @@
 - pkg:maven/com.codacy/codacy-plugins-api_2.10@1.0.8?classifier=sources
 - pkg:maven/com.codacy/codacy-plugins-api_2.10@2.0.0
 - pkg:maven/com.codacy/codacy-plugins-api_2.10@2.0.0?classifier=sources
+- pkg:maven/com.codacy/codacy-plugins-api_2.10@3.0.276
+- pkg:maven/com.codacy/codacy-plugins-api_2.10@3.0.276?classifier=sources
+- pkg:maven/com.codacy/codacy-plugins-api_2.10@3.0.293
+- pkg:maven/com.codacy/codacy-plugins-api_2.10@3.0.293?classifier=sources
+- pkg:maven/com.codacy/codacy-plugins-api_2.10@3.0.7
+- pkg:maven/com.codacy/codacy-plugins-api_2.10@3.0.7?classifier=sources

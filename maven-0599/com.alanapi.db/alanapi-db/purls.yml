@@ -4,3 +4,5 @@
 - pkg:maven/com.alanapi.db/alanapi-db@0.0.2?type=aar
 - pkg:maven/com.alanapi.db/alanapi-db@0.0.3?classifier=sources
 - pkg:maven/com.alanapi.db/alanapi-db@0.0.3?type=aar
+- pkg:maven/com.alanapi.db/alanapi-db@0.0.4?classifier=sources
+- pkg:maven/com.alanapi.db/alanapi-db@0.0.4?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/com.magic80/spring-boot-archetype@0.0.1
+- pkg:maven/com.magic80/spring-boot-archetype@0.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.antframework.idcenter/idcenter-spring-boot-starter@1.3.0.RELEASE
+- pkg:maven/org.antframework.idcenter/idcenter-spring-boot-starter@1.3.0.RELEASE?classifier=sources

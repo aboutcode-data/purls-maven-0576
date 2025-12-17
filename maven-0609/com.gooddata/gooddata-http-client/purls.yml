@@ -18,3 +18,5 @@
 - pkg:maven/com.gooddata/gooddata-http-client@0.9.3?classifier=sources
 - pkg:maven/com.gooddata/gooddata-http-client@0.9.4
 - pkg:maven/com.gooddata/gooddata-http-client@0.9.4?classifier=sources
+- pkg:maven/com.gooddata/gooddata-http-client@1.0.0
+- pkg:maven/com.gooddata/gooddata-http-client@1.0.0?classifier=sources

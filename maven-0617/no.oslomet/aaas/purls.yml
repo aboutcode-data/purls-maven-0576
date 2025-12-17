@@ -1,0 +1,14 @@
+- pkg:maven/no.oslomet/aaas@0.0.1-RELEASE
+- pkg:maven/no.oslomet/aaas@0.0.1-RELEASE?classifier=sources
+- pkg:maven/no.oslomet/aaas@0.0.2-RELEASE
+- pkg:maven/no.oslomet/aaas@0.0.2-RELEASE?classifier=sources
+- pkg:maven/no.oslomet/aaas@0.0.3
+- pkg:maven/no.oslomet/aaas@0.0.3?classifier=sources
+- pkg:maven/no.oslomet/aaas@0.0.4
+- pkg:maven/no.oslomet/aaas@0.0.4-RELEASE
+- pkg:maven/no.oslomet/aaas@0.0.4-RELEASE?classifier=sources
+- pkg:maven/no.oslomet/aaas@0.0.4?classifier=sources
+- pkg:maven/no.oslomet/aaas@0.1.0-RELEASE
+- pkg:maven/no.oslomet/aaas@0.1.0-RELEASE?classifier=sources
+- pkg:maven/no.oslomet/aaas@0.1.1-RELEASE
+- pkg:maven/no.oslomet/aaas@0.1.1-RELEASE?classifier=sources

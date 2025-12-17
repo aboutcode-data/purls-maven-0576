@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/shaka-player@2.4.5
+- pkg:maven/org.webjars.npm/shaka-player@2.4.5?classifier=sources

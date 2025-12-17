@@ -1,0 +1,2 @@
+- pkg:maven/ro.kuberam.libs.java/digital-publishing@1.0.0
+- pkg:maven/ro.kuberam.libs.java/digital-publishing@1.0.0?classifier=sources

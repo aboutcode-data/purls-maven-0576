@@ -1,0 +1,8 @@
+- pkg:maven/io.dinject/javalin-generator@0.4
+- pkg:maven/io.dinject/javalin-generator@0.4?classifier=sources
+- pkg:maven/io.dinject/javalin-generator@0.5
+- pkg:maven/io.dinject/javalin-generator@0.5?classifier=sources
+- pkg:maven/io.dinject/javalin-generator@0.6
+- pkg:maven/io.dinject/javalin-generator@0.6?classifier=sources
+- pkg:maven/io.dinject/javalin-generator@1.1
+- pkg:maven/io.dinject/javalin-generator@1.1?classifier=sources

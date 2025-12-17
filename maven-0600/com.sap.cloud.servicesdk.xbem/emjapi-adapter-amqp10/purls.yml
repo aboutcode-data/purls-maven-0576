@@ -16,3 +16,5 @@
 - pkg:maven/com.sap.cloud.servicesdk.xbem/emjapi-adapter-amqp10@1.8.4?classifier=sources
 - pkg:maven/com.sap.cloud.servicesdk.xbem/emjapi-adapter-amqp10@1.9.0
 - pkg:maven/com.sap.cloud.servicesdk.xbem/emjapi-adapter-amqp10@1.9.0?classifier=sources
+- pkg:maven/com.sap.cloud.servicesdk.xbem/emjapi-adapter-amqp10@1.9.1
+- pkg:maven/com.sap.cloud.servicesdk.xbem/emjapi-adapter-amqp10@1.9.1?classifier=sources

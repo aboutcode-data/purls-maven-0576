@@ -10,3 +10,5 @@
 - pkg:maven/org.fusesource.jansi/example@1.17.1
 - pkg:maven/org.fusesource.jansi/example@1.17.1?classifier=sources
 - pkg:maven/org.fusesource.jansi/example@1.17?classifier=sources
+- pkg:maven/org.fusesource.jansi/example@1.18
+- pkg:maven/org.fusesource.jansi/example@1.18?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.j5ik2o/example-sbt-release_2.12@0.1.8
+- pkg:maven/com.github.j5ik2o/example-sbt-release_2.12@0.1.8?classifier=sources

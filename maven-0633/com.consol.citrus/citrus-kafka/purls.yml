@@ -1,0 +1,2 @@
+- pkg:maven/com.consol.citrus/citrus-kafka@2.8.0
+- pkg:maven/com.consol.citrus/citrus-kafka@2.8.0?classifier=sources

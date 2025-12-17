@@ -40,6 +40,12 @@
 - pkg:maven/org.webpieces/http1_1-parser@1.9.126?classifier=sources
 - pkg:maven/org.webpieces/http1_1-parser@1.9.127
 - pkg:maven/org.webpieces/http1_1-parser@1.9.127?classifier=sources
+- pkg:maven/org.webpieces/http1_1-parser@1.9.128
+- pkg:maven/org.webpieces/http1_1-parser@1.9.128?classifier=sources
+- pkg:maven/org.webpieces/http1_1-parser@1.9.129
+- pkg:maven/org.webpieces/http1_1-parser@1.9.129?classifier=sources
+- pkg:maven/org.webpieces/http1_1-parser@1.9.130
+- pkg:maven/org.webpieces/http1_1-parser@1.9.130?classifier=sources
 - pkg:maven/org.webpieces/http1_1-parser@1.9.36
 - pkg:maven/org.webpieces/http1_1-parser@1.9.36?classifier=sources
 - pkg:maven/org.webpieces/http1_1-parser@1.9.37

@@ -1,2 +1,6 @@
+- pkg:maven/org.webjars.npm/grapesjs@0.14.43
+- pkg:maven/org.webjars.npm/grapesjs@0.14.43?classifier=sources
+- pkg:maven/org.webjars.npm/grapesjs@0.14.50
+- pkg:maven/org.webjars.npm/grapesjs@0.14.50?classifier=sources
 - pkg:maven/org.webjars.npm/grapesjs@0.4.30
 - pkg:maven/org.webjars.npm/grapesjs@0.4.30?classifier=sources

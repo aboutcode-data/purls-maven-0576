@@ -9,6 +9,12 @@
 - pkg:maven/com.avsystem.scex/scex-util_2.12@1.20.11?classifier=sources
 - pkg:maven/com.avsystem.scex/scex-util_2.12@1.20.12
 - pkg:maven/com.avsystem.scex/scex-util_2.12@1.20.12?classifier=sources
+- pkg:maven/com.avsystem.scex/scex-util_2.12@1.20.14
+- pkg:maven/com.avsystem.scex/scex-util_2.12@1.20.14?classifier=sources
+- pkg:maven/com.avsystem.scex/scex-util_2.12@1.20.15
+- pkg:maven/com.avsystem.scex/scex-util_2.12@1.20.15?classifier=sources
+- pkg:maven/com.avsystem.scex/scex-util_2.12@1.20.16
+- pkg:maven/com.avsystem.scex/scex-util_2.12@1.20.16?classifier=sources
 - pkg:maven/com.avsystem.scex/scex-util_2.12@1.20.1?classifier=sources
 - pkg:maven/com.avsystem.scex/scex-util_2.12@1.20.2
 - pkg:maven/com.avsystem.scex/scex-util_2.12@1.20.2?classifier=sources
@@ -38,3 +44,5 @@
 - pkg:maven/com.avsystem.scex/scex-util_2.12@1.22.2?classifier=sources
 - pkg:maven/com.avsystem.scex/scex-util_2.12@1.22.4
 - pkg:maven/com.avsystem.scex/scex-util_2.12@1.22.4?classifier=sources
+- pkg:maven/com.avsystem.scex/scex-util_2.12@1.22.5
+- pkg:maven/com.avsystem.scex/scex-util_2.12@1.22.5?classifier=sources

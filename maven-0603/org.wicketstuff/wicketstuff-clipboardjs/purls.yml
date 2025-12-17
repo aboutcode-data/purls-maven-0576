@@ -1,5 +1,9 @@
 - pkg:maven/org.wicketstuff/wicketstuff-clipboardjs@7.10.0
 - pkg:maven/org.wicketstuff/wicketstuff-clipboardjs@7.10.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-clipboardjs@7.11.0
+- pkg:maven/org.wicketstuff/wicketstuff-clipboardjs@7.11.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-clipboardjs@7.12.0
+- pkg:maven/org.wicketstuff/wicketstuff-clipboardjs@7.12.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-clipboardjs@7.6.0
 - pkg:maven/org.wicketstuff/wicketstuff-clipboardjs@7.6.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-clipboardjs@7.7.0
@@ -28,3 +32,7 @@
 - pkg:maven/org.wicketstuff/wicketstuff-clipboardjs@8.0.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-clipboardjs@8.1.0
 - pkg:maven/org.wicketstuff/wicketstuff-clipboardjs@8.1.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-clipboardjs@8.2.0
+- pkg:maven/org.wicketstuff/wicketstuff-clipboardjs@8.2.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-clipboardjs@8.3.0
+- pkg:maven/org.wicketstuff/wicketstuff-clipboardjs@8.3.0?classifier=sources

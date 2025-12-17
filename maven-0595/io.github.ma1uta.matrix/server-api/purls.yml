@@ -1,0 +1,2 @@
+- pkg:maven/io.github.ma1uta.matrix/server-api@r0.1.1-1-rc1
+- pkg:maven/io.github.ma1uta.matrix/server-api@r0.1.1-1-rc1?classifier=sources

@@ -1,2 +1,8 @@
 - pkg:maven/com.gsralex.gdata/gdata-bean@1.078
 - pkg:maven/com.gsralex.gdata/gdata-bean@1.078?classifier=sources
+- pkg:maven/com.gsralex.gdata/gdata-bean@1.079
+- pkg:maven/com.gsralex.gdata/gdata-bean@1.079?classifier=sources
+- pkg:maven/com.gsralex.gdata/gdata-bean@1.08
+- pkg:maven/com.gsralex.gdata/gdata-bean@1.08?classifier=sources
+- pkg:maven/com.gsralex.gdata/gdata-bean@1.10
+- pkg:maven/com.gsralex.gdata/gdata-bean@1.10?classifier=sources

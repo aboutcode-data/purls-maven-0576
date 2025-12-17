@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun/aliyun-java-sdk-welfare-inner@1.1.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-welfare-inner@1.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.ignite/ignite-spring-data_2.0@2.7.0
+- pkg:maven/org.apache.ignite/ignite-spring-data_2.0@2.7.0?classifier=sources

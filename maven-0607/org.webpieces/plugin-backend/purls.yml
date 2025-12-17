@@ -38,3 +38,9 @@
 - pkg:maven/org.webpieces/plugin-backend@1.9.126?classifier=sources
 - pkg:maven/org.webpieces/plugin-backend@1.9.127
 - pkg:maven/org.webpieces/plugin-backend@1.9.127?classifier=sources
+- pkg:maven/org.webpieces/plugin-backend@1.9.128
+- pkg:maven/org.webpieces/plugin-backend@1.9.128?classifier=sources
+- pkg:maven/org.webpieces/plugin-backend@1.9.129
+- pkg:maven/org.webpieces/plugin-backend@1.9.129?classifier=sources
+- pkg:maven/org.webpieces/plugin-backend@1.9.130
+- pkg:maven/org.webpieces/plugin-backend@1.9.130?classifier=sources

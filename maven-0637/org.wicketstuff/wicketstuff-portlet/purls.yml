@@ -72,6 +72,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-portlet@6.28.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-portlet@6.3.0
 - pkg:maven/org.wicketstuff/wicketstuff-portlet@6.3.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-portlet@6.30.0
+- pkg:maven/org.wicketstuff/wicketstuff-portlet@6.30.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-portlet@6.4.0
 - pkg:maven/org.wicketstuff/wicketstuff-portlet@6.4.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-portlet@6.5.0
@@ -96,6 +98,10 @@
 - pkg:maven/org.wicketstuff/wicketstuff-portlet@7.1.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-portlet@7.10.0
 - pkg:maven/org.wicketstuff/wicketstuff-portlet@7.10.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-portlet@7.11.0
+- pkg:maven/org.wicketstuff/wicketstuff-portlet@7.11.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-portlet@7.12.0
+- pkg:maven/org.wicketstuff/wicketstuff-portlet@7.12.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-portlet@7.2.0
 - pkg:maven/org.wicketstuff/wicketstuff-portlet@7.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-portlet@7.3.0
@@ -136,3 +142,7 @@
 - pkg:maven/org.wicketstuff/wicketstuff-portlet@8.0.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-portlet@8.1.0
 - pkg:maven/org.wicketstuff/wicketstuff-portlet@8.1.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-portlet@8.2.0
+- pkg:maven/org.wicketstuff/wicketstuff-portlet@8.2.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-portlet@8.3.0
+- pkg:maven/org.wicketstuff/wicketstuff-portlet@8.3.0?classifier=sources

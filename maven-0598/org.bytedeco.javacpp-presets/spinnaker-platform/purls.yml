@@ -1,1 +1,2 @@
 - pkg:maven/org.bytedeco.javacpp-presets/spinnaker-platform@1.15.0.63-1.4.3
+- pkg:maven/org.bytedeco.javacpp-presets/spinnaker-platform@1.19.0.22-1.4.4

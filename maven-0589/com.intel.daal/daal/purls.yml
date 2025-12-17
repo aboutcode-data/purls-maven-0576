@@ -2,3 +2,5 @@
 - pkg:maven/com.intel.daal/daal@2019.0.001?classifier=sources
 - pkg:maven/com.intel.daal/daal@2019.1.001
 - pkg:maven/com.intel.daal/daal@2019.1.001?classifier=sources
+- pkg:maven/com.intel.daal/daal@2019.3.199
+- pkg:maven/com.intel.daal/daal@2019.3.199?classifier=sources

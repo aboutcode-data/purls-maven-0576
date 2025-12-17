@@ -1,0 +1,2 @@
+- pkg:maven/com.github.tarsys.android.kotlin/orm_kotlin@1.0.0.0?classifier=sources
+- pkg:maven/com.github.tarsys.android.kotlin/orm_kotlin@1.0.0.0?type=aar

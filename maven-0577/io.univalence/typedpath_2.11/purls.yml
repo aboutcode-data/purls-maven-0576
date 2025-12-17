@@ -1,0 +1,6 @@
+- pkg:maven/io.univalence/typedpath_2.11@0.2
+- pkg:maven/io.univalence/typedpath_2.11@0.2%2B103-0acdd2f5%2B20190405-1607
+- pkg:maven/io.univalence/typedpath_2.11@0.2%2B103-0acdd2f5%2B20190405-1607?classifier=sources
+- pkg:maven/io.univalence/typedpath_2.11@0.2?classifier=sources
+- pkg:maven/io.univalence/typedpath_2.11@0acdd2f5
+- pkg:maven/io.univalence/typedpath_2.11@0acdd2f5?classifier=sources

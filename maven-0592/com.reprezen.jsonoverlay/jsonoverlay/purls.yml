@@ -28,3 +28,5 @@
 - pkg:maven/com.reprezen.jsonoverlay/jsonoverlay@4.0.0-201809041730?classifier=sources
 - pkg:maven/com.reprezen.jsonoverlay/jsonoverlay@4.0.1-201809050106
 - pkg:maven/com.reprezen.jsonoverlay/jsonoverlay@4.0.1-201809050106?classifier=sources
+- pkg:maven/com.reprezen.jsonoverlay/jsonoverlay@4.0.3
+- pkg:maven/com.reprezen.jsonoverlay/jsonoverlay@4.0.3?classifier=sources

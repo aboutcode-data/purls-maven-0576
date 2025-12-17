@@ -6,3 +6,4 @@
 - pkg:maven/com.icfolson.aem.groovy.extension/aem-groovy-extension-bundle@4.0.0?classifier=sources
 - pkg:maven/com.icfolson.aem.groovy.extension/aem-groovy-extension-bundle@5.0.0
 - pkg:maven/com.icfolson.aem.groovy.extension/aem-groovy-extension-bundle@6.0.0
+- pkg:maven/com.icfolson.aem.groovy.extension/aem-groovy-extension-bundle@7.0.0

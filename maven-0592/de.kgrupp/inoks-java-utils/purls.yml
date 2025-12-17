@@ -1,2 +1,6 @@
 - pkg:maven/de.kgrupp/inoks-java-utils@0.7.1.1
 - pkg:maven/de.kgrupp/inoks-java-utils@0.7.1.1?classifier=sources
+- pkg:maven/de.kgrupp/inoks-java-utils@0.8.0.1
+- pkg:maven/de.kgrupp/inoks-java-utils@0.8.0.1?classifier=sources
+- pkg:maven/de.kgrupp/inoks-java-utils@0.8.1.1
+- pkg:maven/de.kgrupp/inoks-java-utils@0.8.1.1?classifier=sources

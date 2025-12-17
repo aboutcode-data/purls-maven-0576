@@ -1,0 +1,2 @@
+- pkg:maven/com.hurence.logisland/logisland-service-mongodb-api@1.1.0
+- pkg:maven/com.hurence.logisland/logisland-service-mongodb-api@1.1.0?classifier=sources

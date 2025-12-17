@@ -1,2 +1,8 @@
 - pkg:maven/com.willowtreeapps.hyperion/hyperion-build-config@0.9.24?classifier=sources
 - pkg:maven/com.willowtreeapps.hyperion/hyperion-build-config@0.9.24?type=aar
+- pkg:maven/com.willowtreeapps.hyperion/hyperion-build-config@0.9.25?classifier=sources
+- pkg:maven/com.willowtreeapps.hyperion/hyperion-build-config@0.9.25?type=aar
+- pkg:maven/com.willowtreeapps.hyperion/hyperion-build-config@0.9.26?classifier=sources
+- pkg:maven/com.willowtreeapps.hyperion/hyperion-build-config@0.9.26?type=aar
+- pkg:maven/com.willowtreeapps.hyperion/hyperion-build-config@0.9.27?classifier=sources
+- pkg:maven/com.willowtreeapps.hyperion/hyperion-build-config@0.9.27?type=aar

@@ -106,6 +106,8 @@
 - pkg:maven/org.jresearch.commons.gwt/org.jresearch.commons.gwt.flexess.shared@1.0.195?classifier=sources
 - pkg:maven/org.jresearch.commons.gwt/org.jresearch.commons.gwt.flexess.shared@1.0.196
 - pkg:maven/org.jresearch.commons.gwt/org.jresearch.commons.gwt.flexess.shared@1.0.196?classifier=sources
+- pkg:maven/org.jresearch.commons.gwt/org.jresearch.commons.gwt.flexess.shared@1.0.197
+- pkg:maven/org.jresearch.commons.gwt/org.jresearch.commons.gwt.flexess.shared@1.0.197?classifier=sources
 - pkg:maven/org.jresearch.commons.gwt/org.jresearch.commons.gwt.flexess.shared@1.0.21
 - pkg:maven/org.jresearch.commons.gwt/org.jresearch.commons.gwt.flexess.shared@1.0.21?classifier=sources
 - pkg:maven/org.jresearch.commons.gwt/org.jresearch.commons.gwt.flexess.shared@1.0.24

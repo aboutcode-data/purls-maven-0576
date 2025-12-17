@@ -1,2 +1,14 @@
 - pkg:maven/org.drools/camel-container-tests-module@7.14.0.Final?classifier=sources
 - pkg:maven/org.drools/camel-container-tests-module@7.14.0.Final?type=war
+- pkg:maven/org.drools/camel-container-tests-module@7.15.0.Final?classifier=sources
+- pkg:maven/org.drools/camel-container-tests-module@7.15.0.Final?type=war
+- pkg:maven/org.drools/camel-container-tests-module@7.16.0.Final?classifier=sources
+- pkg:maven/org.drools/camel-container-tests-module@7.16.0.Final?type=war
+- pkg:maven/org.drools/camel-container-tests-module@7.17.0.Final?classifier=sources
+- pkg:maven/org.drools/camel-container-tests-module@7.17.0.Final?type=war
+- pkg:maven/org.drools/camel-container-tests-module@7.18.0.Final?classifier=sources
+- pkg:maven/org.drools/camel-container-tests-module@7.18.0.Final?type=war
+- pkg:maven/org.drools/camel-container-tests-module@7.19.0.Final?classifier=sources
+- pkg:maven/org.drools/camel-container-tests-module@7.19.0.Final?type=war
+- pkg:maven/org.drools/camel-container-tests-module@7.20.0.Final?classifier=sources
+- pkg:maven/org.drools/camel-container-tests-module@7.20.0.Final?type=war

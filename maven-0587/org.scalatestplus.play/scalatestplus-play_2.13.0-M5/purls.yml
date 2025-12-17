@@ -1,0 +1,2 @@
+- pkg:maven/org.scalatestplus.play/scalatestplus-play_2.13.0-M5@4.0.1
+- pkg:maven/org.scalatestplus.play/scalatestplus-play_2.13.0-M5@4.0.1?classifier=sources

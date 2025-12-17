@@ -1,2 +1,4 @@
 - pkg:maven/de.richtercloud/reflection-form-builder-test-entities@1.0-beta2
 - pkg:maven/de.richtercloud/reflection-form-builder-test-entities@1.0-beta2?classifier=sources
+- pkg:maven/de.richtercloud/reflection-form-builder-test-entities@1.2
+- pkg:maven/de.richtercloud/reflection-form-builder-test-entities@1.2?classifier=sources

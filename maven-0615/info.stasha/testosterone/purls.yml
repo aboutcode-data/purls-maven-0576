@@ -4,3 +4,5 @@
 - pkg:maven/info.stasha/testosterone@2.27.2
 - pkg:maven/info.stasha/testosterone@2.27.2?classifier=sources
 - pkg:maven/info.stasha/testosterone@2.27?classifier=sources
+- pkg:maven/info.stasha/testosterone@3.0.0
+- pkg:maven/info.stasha/testosterone@3.0.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.github.relvl/thread.pool.manager@1.0.4
+- pkg:maven/io.github.relvl/thread.pool.manager@1.0.4?classifier=sources
+- pkg:maven/io.github.relvl/thread.pool.manager@1.0.6
+- pkg:maven/io.github.relvl/thread.pool.manager@1.0.6?classifier=sources

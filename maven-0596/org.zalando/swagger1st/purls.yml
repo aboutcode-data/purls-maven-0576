@@ -10,3 +10,5 @@
 - pkg:maven/org.zalando/swagger1st@0.23.0
 - pkg:maven/org.zalando/swagger1st@0.24.0
 - pkg:maven/org.zalando/swagger1st@0.25.0
+- pkg:maven/org.zalando/swagger1st@0.26.0
+- pkg:maven/org.zalando/swagger1st@0.27.0

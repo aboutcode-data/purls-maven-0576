@@ -30,5 +30,7 @@
 - pkg:maven/com.fifesoft/autocomplete@2.6.0?classifier=src&type=zip
 - pkg:maven/com.fifesoft/autocomplete@2.6.1?classifier=sources
 - pkg:maven/com.fifesoft/autocomplete@2.6.1?classifier=src&type=zip
+- pkg:maven/com.fifesoft/autocomplete@3.0.0?classifier=sources
+- pkg:maven/com.fifesoft/autocomplete@3.0.0?classifier=src&type=zip
 - pkg:maven/com.fifesoft/autocomplete@r239
 - pkg:maven/com.fifesoft/autocomplete@r239?classifier=sources

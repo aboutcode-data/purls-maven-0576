@@ -36,3 +36,11 @@
 - pkg:maven/io.polyglotted/elastic-common@6.3.0?classifier=sources
 - pkg:maven/io.polyglotted/elastic-common@6.3.1
 - pkg:maven/io.polyglotted/elastic-common@6.3.1?classifier=sources
+- pkg:maven/io.polyglotted/elastic-common@6.4.3
+- pkg:maven/io.polyglotted/elastic-common@6.4.3?classifier=sources
+- pkg:maven/io.polyglotted/elastic-common@6.5.4
+- pkg:maven/io.polyglotted/elastic-common@6.5.4?classifier=sources
+- pkg:maven/io.polyglotted/elastic-common@6.6.2
+- pkg:maven/io.polyglotted/elastic-common@6.6.2-1
+- pkg:maven/io.polyglotted/elastic-common@6.6.2-1?classifier=sources
+- pkg:maven/io.polyglotted/elastic-common@6.6.2?classifier=sources

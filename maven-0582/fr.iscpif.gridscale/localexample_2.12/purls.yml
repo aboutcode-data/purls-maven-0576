@@ -8,6 +8,8 @@
 - pkg:maven/fr.iscpif.gridscale/localexample_2.12@2.13?classifier=sources
 - pkg:maven/fr.iscpif.gridscale/localexample_2.12@2.14
 - pkg:maven/fr.iscpif.gridscale/localexample_2.12@2.14?classifier=sources
+- pkg:maven/fr.iscpif.gridscale/localexample_2.12@2.15
+- pkg:maven/fr.iscpif.gridscale/localexample_2.12@2.15?classifier=sources
 - pkg:maven/fr.iscpif.gridscale/localexample_2.12@2.8
 - pkg:maven/fr.iscpif.gridscale/localexample_2.12@2.8?classifier=sources
 - pkg:maven/fr.iscpif.gridscale/localexample_2.12@2.9

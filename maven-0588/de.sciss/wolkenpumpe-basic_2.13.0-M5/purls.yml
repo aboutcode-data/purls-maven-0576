@@ -1,0 +1,6 @@
+- pkg:maven/de.sciss/wolkenpumpe-basic_2.13.0-M5@2.29.0
+- pkg:maven/de.sciss/wolkenpumpe-basic_2.13.0-M5@2.29.0?classifier=sources
+- pkg:maven/de.sciss/wolkenpumpe-basic_2.13.0-M5@2.30.0
+- pkg:maven/de.sciss/wolkenpumpe-basic_2.13.0-M5@2.30.0?classifier=sources
+- pkg:maven/de.sciss/wolkenpumpe-basic_2.13.0-M5@2.31.0
+- pkg:maven/de.sciss/wolkenpumpe-basic_2.13.0-M5@2.31.0?classifier=sources

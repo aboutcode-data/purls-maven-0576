@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/esm@3.2.22
+- pkg:maven/org.webjars.npm/esm@3.2.22?classifier=sources

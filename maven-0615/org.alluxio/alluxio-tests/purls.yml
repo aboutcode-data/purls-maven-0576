@@ -12,3 +12,5 @@
 - pkg:maven/org.alluxio/alluxio-tests@1.7.1
 - pkg:maven/org.alluxio/alluxio-tests@1.8.0
 - pkg:maven/org.alluxio/alluxio-tests@1.8.1
+- pkg:maven/org.alluxio/alluxio-tests@2.0.0-preview
+- pkg:maven/org.alluxio/alluxio-tests@2.0.0-preview?classifier=sources

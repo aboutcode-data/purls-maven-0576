@@ -1,0 +1,2 @@
+- pkg:maven/com.assertthat.plugins/assertthat-bdd-gradle-tasks@1.1
+- pkg:maven/com.assertthat.plugins/assertthat-bdd-gradle-tasks@1.1?classifier=sources

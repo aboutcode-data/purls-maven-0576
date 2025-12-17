@@ -1,0 +1,4 @@
+- pkg:maven/io.xiaper/xiaper-spring-boot-autoconfigure@2.1.3.RELEASE
+- pkg:maven/io.xiaper/xiaper-spring-boot-autoconfigure@2.1.3.RELEASE?classifier=sources
+- pkg:maven/io.xiaper/xiaper-spring-boot-autoconfigure@2.1.4.RELEASE
+- pkg:maven/io.xiaper/xiaper-spring-boot-autoconfigure@2.1.4.RELEASE?classifier=sources

@@ -5,3 +5,7 @@
 - pkg:maven/com.surenpi.autotest/autotest.web.framework.archetype@2.0.0-20170706?classifier=sources
 - pkg:maven/com.surenpi.autotest/autotest.web.framework.archetype@2.0.1-20180106
 - pkg:maven/com.surenpi.autotest/autotest.web.framework.archetype@2.0.1-20180106?classifier=sources
+- pkg:maven/com.surenpi.autotest/autotest.web.framework.archetype@2.0.2
+- pkg:maven/com.surenpi.autotest/autotest.web.framework.archetype@2.0.2?classifier=sources
+- pkg:maven/com.surenpi.autotest/autotest.web.framework.archetype@2.0.3
+- pkg:maven/com.surenpi.autotest/autotest.web.framework.archetype@2.0.3?classifier=sources

@@ -26,3 +26,5 @@
 - pkg:maven/com.google.cloud.tools/endpoints-framework-gradle-plugin@1.0.3?classifier=sources
 - pkg:maven/com.google.cloud.tools/endpoints-framework-gradle-plugin@2.0.0
 - pkg:maven/com.google.cloud.tools/endpoints-framework-gradle-plugin@2.0.0?classifier=sources
+- pkg:maven/com.google.cloud.tools/endpoints-framework-gradle-plugin@2.0.1
+- pkg:maven/com.google.cloud.tools/endpoints-framework-gradle-plugin@2.0.1?classifier=sources

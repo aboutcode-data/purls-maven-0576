@@ -1,5 +1,7 @@
 - pkg:maven/com.sun.xml.bind.external/relaxng-datatype@2.3.1
 - pkg:maven/com.sun.xml.bind.external/relaxng-datatype@2.3.1?classifier=sources
+- pkg:maven/com.sun.xml.bind.external/relaxng-datatype@2.3.2
+- pkg:maven/com.sun.xml.bind.external/relaxng-datatype@2.3.2?classifier=sources
 - pkg:maven/com.sun.xml.bind.external/relaxng-datatype@2.4.0-b180725.0644
 - pkg:maven/com.sun.xml.bind.external/relaxng-datatype@2.4.0-b180725.0644?classifier=sources
 - pkg:maven/com.sun.xml.bind.external/relaxng-datatype@2.4.0-b180830.0438

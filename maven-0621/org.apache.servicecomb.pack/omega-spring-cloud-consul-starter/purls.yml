@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.servicecomb.pack/omega-spring-cloud-consul-starter@0.4.0
+- pkg:maven/org.apache.servicecomb.pack/omega-spring-cloud-consul-starter@0.4.0?classifier=sources

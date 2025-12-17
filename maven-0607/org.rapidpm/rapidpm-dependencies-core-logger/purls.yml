@@ -4,6 +4,8 @@
 - pkg:maven/org.rapidpm/rapidpm-dependencies-core-logger@04.00.06-RPM?classifier=sources
 - pkg:maven/org.rapidpm/rapidpm-dependencies-core-logger@04.00.07-RPM
 - pkg:maven/org.rapidpm/rapidpm-dependencies-core-logger@04.00.07-RPM?classifier=sources
+- pkg:maven/org.rapidpm/rapidpm-dependencies-core-logger@04.00.08-RPM
+- pkg:maven/org.rapidpm/rapidpm-dependencies-core-logger@04.00.08-RPM?classifier=sources
 - pkg:maven/org.rapidpm/rapidpm-dependencies-core-logger@3.5.10
 - pkg:maven/org.rapidpm/rapidpm-dependencies-core-logger@3.5.10?classifier=sources
 - pkg:maven/org.rapidpm/rapidpm-dependencies-core-logger@3.5.3

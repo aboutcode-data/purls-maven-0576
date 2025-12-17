@@ -8,3 +8,13 @@
 - pkg:maven/com.github.ostrovskal/sshstd@0.4.0?type=aar
 - pkg:maven/com.github.ostrovskal/sshstd@0.4.1?classifier=sources
 - pkg:maven/com.github.ostrovskal/sshstd@0.4.1?type=aar
+- pkg:maven/com.github.ostrovskal/sshstd@0.5.1?classifier=sources
+- pkg:maven/com.github.ostrovskal/sshstd@0.5.1?type=aar
+- pkg:maven/com.github.ostrovskal/sshstd@0.6.0?classifier=sources
+- pkg:maven/com.github.ostrovskal/sshstd@0.6.0?type=aar
+- pkg:maven/com.github.ostrovskal/sshstd@0.6.3?classifier=sources
+- pkg:maven/com.github.ostrovskal/sshstd@0.6.3?type=aar
+- pkg:maven/com.github.ostrovskal/sshstd@0.7.1?classifier=sources
+- pkg:maven/com.github.ostrovskal/sshstd@0.7.1?type=aar
+- pkg:maven/com.github.ostrovskal/sshstd@0.8.2?classifier=sources
+- pkg:maven/com.github.ostrovskal/sshstd@0.8.2?type=aar

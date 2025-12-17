@@ -40,6 +40,12 @@
 - pkg:maven/org.webpieces/http2-client@1.9.126?classifier=sources
 - pkg:maven/org.webpieces/http2-client@1.9.127
 - pkg:maven/org.webpieces/http2-client@1.9.127?classifier=sources
+- pkg:maven/org.webpieces/http2-client@1.9.128
+- pkg:maven/org.webpieces/http2-client@1.9.128?classifier=sources
+- pkg:maven/org.webpieces/http2-client@1.9.129
+- pkg:maven/org.webpieces/http2-client@1.9.129?classifier=sources
+- pkg:maven/org.webpieces/http2-client@1.9.130
+- pkg:maven/org.webpieces/http2-client@1.9.130?classifier=sources
 - pkg:maven/org.webpieces/http2-client@1.9.46
 - pkg:maven/org.webpieces/http2-client@1.9.46?classifier=sources
 - pkg:maven/org.webpieces/http2-client@1.9.52

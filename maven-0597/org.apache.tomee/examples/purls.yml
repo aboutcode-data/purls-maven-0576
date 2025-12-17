@@ -18,3 +18,5 @@
 - pkg:maven/org.apache.tomee/examples@7.1.0?classifier=src&type=zip
 - pkg:maven/org.apache.tomee/examples@8.0.0-M1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.tomee/examples@8.0.0-M1?classifier=src&type=zip
+- pkg:maven/org.apache.tomee/examples@8.0.0-M2?classifier=src&type=tar.gz
+- pkg:maven/org.apache.tomee/examples@8.0.0-M2?classifier=src&type=zip

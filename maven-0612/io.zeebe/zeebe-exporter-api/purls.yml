@@ -1,0 +1,2 @@
+- pkg:maven/io.zeebe/zeebe-exporter-api@0.17.0
+- pkg:maven/io.zeebe/zeebe-exporter-api@0.17.0?classifier=sources

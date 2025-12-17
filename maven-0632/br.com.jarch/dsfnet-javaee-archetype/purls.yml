@@ -1,0 +1,2 @@
+- pkg:maven/br.com.jarch/dsfnet-javaee-archetype@19.1.0?classifier=sources
+- pkg:maven/br.com.jarch/dsfnet-javaee-archetype@19.1.9?classifier=sources

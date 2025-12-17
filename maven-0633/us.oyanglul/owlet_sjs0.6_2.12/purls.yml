@@ -1,2 +1,8 @@
 - pkg:maven/us.oyanglul/owlet_sjs0.6_2.12@0.1.5
 - pkg:maven/us.oyanglul/owlet_sjs0.6_2.12@0.1.5?classifier=sources
+- pkg:maven/us.oyanglul/owlet_sjs0.6_2.12@0.2.1
+- pkg:maven/us.oyanglul/owlet_sjs0.6_2.12@0.2.1?classifier=sources
+- pkg:maven/us.oyanglul/owlet_sjs0.6_2.12@0.3.0
+- pkg:maven/us.oyanglul/owlet_sjs0.6_2.12@0.3.0?classifier=sources
+- pkg:maven/us.oyanglul/owlet_sjs0.6_2.12@0.3.1
+- pkg:maven/us.oyanglul/owlet_sjs0.6_2.12@0.3.1?classifier=sources

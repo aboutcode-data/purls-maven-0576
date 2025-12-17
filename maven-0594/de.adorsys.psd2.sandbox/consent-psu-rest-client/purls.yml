@@ -1,0 +1,2 @@
+- pkg:maven/de.adorsys.psd2.sandbox/consent-psu-rest-client@0.2.4.2
+- pkg:maven/de.adorsys.psd2.sandbox/consent-psu-rest-client@0.2.4.2?classifier=sources

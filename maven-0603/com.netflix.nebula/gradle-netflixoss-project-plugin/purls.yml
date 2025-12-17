@@ -98,3 +98,13 @@
 - pkg:maven/com.netflix.nebula/gradle-netflixoss-project-plugin@6.0.3?classifier=sources
 - pkg:maven/com.netflix.nebula/gradle-netflixoss-project-plugin@6.0.4
 - pkg:maven/com.netflix.nebula/gradle-netflixoss-project-plugin@6.0.4?classifier=sources
+- pkg:maven/com.netflix.nebula/gradle-netflixoss-project-plugin@6.1.0
+- pkg:maven/com.netflix.nebula/gradle-netflixoss-project-plugin@6.1.0?classifier=sources
+- pkg:maven/com.netflix.nebula/gradle-netflixoss-project-plugin@7.0.0
+- pkg:maven/com.netflix.nebula/gradle-netflixoss-project-plugin@7.0.0?classifier=sources
+- pkg:maven/com.netflix.nebula/gradle-netflixoss-project-plugin@7.1.0
+- pkg:maven/com.netflix.nebula/gradle-netflixoss-project-plugin@7.1.0?classifier=sources
+- pkg:maven/com.netflix.nebula/gradle-netflixoss-project-plugin@7.1.1
+- pkg:maven/com.netflix.nebula/gradle-netflixoss-project-plugin@7.1.1?classifier=sources
+- pkg:maven/com.netflix.nebula/gradle-netflixoss-project-plugin@7.1.2
+- pkg:maven/com.netflix.nebula/gradle-netflixoss-project-plugin@7.1.2?classifier=sources

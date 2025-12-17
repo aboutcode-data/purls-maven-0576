@@ -12,6 +12,8 @@
 - pkg:maven/org.apache.airavata/airavata-gfac-core@0.15?classifier=sources
 - pkg:maven/org.apache.airavata/airavata-gfac-core@0.16
 - pkg:maven/org.apache.airavata/airavata-gfac-core@0.16?classifier=sources
+- pkg:maven/org.apache.airavata/airavata-gfac-core@0.17
+- pkg:maven/org.apache.airavata/airavata-gfac-core@0.17?classifier=sources
 - pkg:maven/org.apache.airavata/airavata-gfac-core@0.3-incubating
 - pkg:maven/org.apache.airavata/airavata-gfac-core@0.3-incubating?classifier=sources
 - pkg:maven/org.apache.airavata/airavata-gfac-core@0.4-incubating

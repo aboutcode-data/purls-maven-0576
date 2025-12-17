@@ -74,3 +74,5 @@
 - pkg:maven/net.sourceforge.tess4j/tess4j@4.2.3?classifier=sources
 - pkg:maven/net.sourceforge.tess4j/tess4j@4.3.0
 - pkg:maven/net.sourceforge.tess4j/tess4j@4.3.0?classifier=sources
+- pkg:maven/net.sourceforge.tess4j/tess4j@4.3.1
+- pkg:maven/net.sourceforge.tess4j/tess4j@4.3.1?classifier=sources

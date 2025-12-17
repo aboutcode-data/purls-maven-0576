@@ -12,3 +12,11 @@
 - pkg:maven/com.microsoft.azure/azure-storage-blob@10.1.0?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-storage-blob@10.2.0
 - pkg:maven/com.microsoft.azure/azure-storage-blob@10.2.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-storage-blob@10.3.0
+- pkg:maven/com.microsoft.azure/azure-storage-blob@10.3.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-storage-blob@10.4.0
+- pkg:maven/com.microsoft.azure/azure-storage-blob@10.4.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-storage-blob@10.5.0
+- pkg:maven/com.microsoft.azure/azure-storage-blob@10.5.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-storage-blob@11.0.0
+- pkg:maven/com.microsoft.azure/azure-storage-blob@11.0.0?classifier=sources

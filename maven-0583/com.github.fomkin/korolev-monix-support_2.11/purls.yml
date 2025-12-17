@@ -1,3 +1,5 @@
+- pkg:maven/com.github.fomkin/korolev-monix-support_2.11@0.10.0
+- pkg:maven/com.github.fomkin/korolev-monix-support_2.11@0.10.0?classifier=sources
 - pkg:maven/com.github.fomkin/korolev-monix-support_2.11@0.7.0
 - pkg:maven/com.github.fomkin/korolev-monix-support_2.11@0.7.0?classifier=sources
 - pkg:maven/com.github.fomkin/korolev-monix-support_2.11@0.8.0

@@ -9,3 +9,5 @@
 - pkg:maven/org.webjars/jquery-form@3.51?classifier=sources
 - pkg:maven/org.webjars/jquery-form@4.2.1
 - pkg:maven/org.webjars/jquery-form@4.2.1?classifier=sources
+- pkg:maven/org.webjars/jquery-form@4.2.2
+- pkg:maven/org.webjars/jquery-form@4.2.2?classifier=sources

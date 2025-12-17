@@ -1,0 +1,4 @@
+- pkg:maven/com.intel.analytics.bigdl.spark-version/2.0-SPARK_2.4@0.7.2
+- pkg:maven/com.intel.analytics.bigdl.spark-version/2.0-SPARK_2.4@0.7.2?classifier=sources
+- pkg:maven/com.intel.analytics.bigdl.spark-version/2.0-SPARK_2.4@0.8.0
+- pkg:maven/com.intel.analytics.bigdl.spark-version/2.0-SPARK_2.4@0.8.0?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/com.tridion/cd_common_config_api@8.5.0-1009?classifier=sources
 - pkg:maven/com.tridion/cd_common_config_api@8.5.0-1024
 - pkg:maven/com.tridion/cd_common_config_api@8.5.0-1024?classifier=sources
+- pkg:maven/com.tridion/cd_common_config_api@8.5.0-1052
+- pkg:maven/com.tridion/cd_common_config_api@8.5.0-1052?classifier=sources

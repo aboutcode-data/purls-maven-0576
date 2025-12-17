@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/plyr@3.0.0-beta.17?classifier=sources
 - pkg:maven/org.webjars.npm/plyr@3.0.0-beta.9
 - pkg:maven/org.webjars.npm/plyr@3.0.0-beta.9?classifier=sources
+- pkg:maven/org.webjars.npm/plyr@3.4.7
+- pkg:maven/org.webjars.npm/plyr@3.4.7?classifier=sources

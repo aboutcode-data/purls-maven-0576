@@ -1,3 +1,4 @@
 - pkg:maven/com.github.calimero/serial-native@2.3-beta?classifier=sources
 - pkg:maven/com.github.calimero/serial-native@2.3?classifier=sources
 - pkg:maven/com.github.calimero/serial-native@2.4-rc1?classifier=sources
+- pkg:maven/com.github.calimero/serial-native@2.4-rc2?classifier=sources

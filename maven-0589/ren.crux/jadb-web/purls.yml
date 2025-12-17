@@ -1,0 +1,2 @@
+- pkg:maven/ren.crux/jadb-web@3.0
+- pkg:maven/ren.crux/jadb-web@3.0?classifier=sources

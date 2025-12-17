@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.zipkin.brave.cassandra/brave-instrumentation-cassandra@0.10.2
+- pkg:maven/org.apache.zipkin.brave.cassandra/brave-instrumentation-cassandra@0.10.2?classifier=sources

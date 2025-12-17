@@ -8,3 +8,5 @@
 - pkg:maven/nz.net.osnz.composite/composite-spring-data-jpa@5.4
 - pkg:maven/nz.net.osnz.composite/composite-spring-data-jpa@5.5
 - pkg:maven/nz.net.osnz.composite/composite-spring-data-jpa@5.7
+- pkg:maven/nz.net.osnz.composite/composite-spring-data-jpa@5.8
+- pkg:maven/nz.net.osnz.composite/composite-spring-data-jpa@5.9

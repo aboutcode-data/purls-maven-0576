@@ -16,6 +16,7 @@
 - pkg:maven/com.thoughtworks.future/future_sjs0.6_2.11@1.1.1?classifier=sources
 - pkg:maven/com.thoughtworks.future/future_sjs0.6_2.11@1.1.2
 - pkg:maven/com.thoughtworks.future/future_sjs0.6_2.11@1.1.2?classifier=sources
+- pkg:maven/com.thoughtworks.future/future_sjs0.6_2.11@2.0.0
 - pkg:maven/com.thoughtworks.future/future_sjs0.6_2.11@2.0.0-M0
 - pkg:maven/com.thoughtworks.future/future_sjs0.6_2.11@2.0.0-M0?classifier=sources
 - pkg:maven/com.thoughtworks.future/future_sjs0.6_2.11@2.0.0-M1
@@ -30,3 +31,4 @@
 - pkg:maven/com.thoughtworks.future/future_sjs0.6_2.11@2.0.0-M5?classifier=sources
 - pkg:maven/com.thoughtworks.future/future_sjs0.6_2.11@2.0.0-M6
 - pkg:maven/com.thoughtworks.future/future_sjs0.6_2.11@2.0.0-M6?classifier=sources
+- pkg:maven/com.thoughtworks.future/future_sjs0.6_2.11@2.0.0?classifier=sources

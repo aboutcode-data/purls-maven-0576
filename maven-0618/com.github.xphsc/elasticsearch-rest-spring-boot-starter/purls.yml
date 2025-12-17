@@ -1,0 +1,9 @@
+- pkg:maven/com.github.xphsc/elasticsearch-rest-spring-boot-starter@1.0.0-RC
+- pkg:maven/com.github.xphsc/elasticsearch-rest-spring-boot-starter@1.0.0-RC1
+- pkg:maven/com.github.xphsc/elasticsearch-rest-spring-boot-starter@1.0.0-RC2
+- pkg:maven/com.github.xphsc/elasticsearch-rest-spring-boot-starter@1.0.0-RC2?classifier=sources
+- pkg:maven/com.github.xphsc/elasticsearch-rest-spring-boot-starter@1.0.0-RC3?classifier=sources
+- pkg:maven/com.github.xphsc/elasticsearch-rest-spring-boot-starter@1.0.0-RC4
+- pkg:maven/com.github.xphsc/elasticsearch-rest-spring-boot-starter@1.0.0-RC4?classifier=sources
+- pkg:maven/com.github.xphsc/elasticsearch-rest-spring-boot-starter@1.0.0-RC5
+- pkg:maven/com.github.xphsc/elasticsearch-rest-spring-boot-starter@1.0.0-RC5?classifier=sources
