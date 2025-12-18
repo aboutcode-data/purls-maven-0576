@@ -20,3 +20,5 @@
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-akka_2.11@6.7.2?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-akka_2.11@6.7.3
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-akka_2.11@6.7.3?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-akka_2.11@6.7.4
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-akka_2.11@6.7.4?classifier=sources

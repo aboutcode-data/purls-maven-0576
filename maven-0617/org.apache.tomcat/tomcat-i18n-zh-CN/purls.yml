@@ -1,5 +1,11 @@
+- pkg:maven/org.apache.tomcat/tomcat-i18n-zh-CN@10.0.0-M1
+- pkg:maven/org.apache.tomcat/tomcat-i18n-zh-CN@7.0.100
+- pkg:maven/org.apache.tomcat/tomcat-i18n-zh-CN@7.0.99
 - pkg:maven/org.apache.tomcat/tomcat-i18n-zh-CN@8.5.46
 - pkg:maven/org.apache.tomcat/tomcat-i18n-zh-CN@8.5.47
+- pkg:maven/org.apache.tomcat/tomcat-i18n-zh-CN@8.5.49
+- pkg:maven/org.apache.tomcat/tomcat-i18n-zh-CN@8.5.50
+- pkg:maven/org.apache.tomcat/tomcat-i18n-zh-CN@8.5.51
 - pkg:maven/org.apache.tomcat/tomcat-i18n-zh-CN@9.0.14
 - pkg:maven/org.apache.tomcat/tomcat-i18n-zh-CN@9.0.16
 - pkg:maven/org.apache.tomcat/tomcat-i18n-zh-CN@9.0.17
@@ -10,3 +16,6 @@
 - pkg:maven/org.apache.tomcat/tomcat-i18n-zh-CN@9.0.24
 - pkg:maven/org.apache.tomcat/tomcat-i18n-zh-CN@9.0.26
 - pkg:maven/org.apache.tomcat/tomcat-i18n-zh-CN@9.0.27
+- pkg:maven/org.apache.tomcat/tomcat-i18n-zh-CN@9.0.29
+- pkg:maven/org.apache.tomcat/tomcat-i18n-zh-CN@9.0.30
+- pkg:maven/org.apache.tomcat/tomcat-i18n-zh-CN@9.0.31

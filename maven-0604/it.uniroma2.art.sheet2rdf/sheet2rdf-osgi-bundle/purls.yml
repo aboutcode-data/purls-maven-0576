@@ -2,3 +2,4 @@
 - pkg:maven/it.uniroma2.art.sheet2rdf/sheet2rdf-osgi-bundle@2.1
 - pkg:maven/it.uniroma2.art.sheet2rdf/sheet2rdf-osgi-bundle@2.1.1
 - pkg:maven/it.uniroma2.art.sheet2rdf/sheet2rdf-osgi-bundle@3.0
+- pkg:maven/it.uniroma2.art.sheet2rdf/sheet2rdf-osgi-bundle@4.0

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.kburger/request-url-resolver-api@0.1.0
+- pkg:maven/com.github.kburger/request-url-resolver-api@0.1.0?classifier=sources

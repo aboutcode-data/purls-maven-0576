@@ -4,3 +4,4 @@
 - pkg:maven/org.ops4j.pax.cdi/pax-cdi-manual@1.1.0?type=war
 - pkg:maven/org.ops4j.pax.cdi/pax-cdi-manual@1.1.1?type=war
 - pkg:maven/org.ops4j.pax.cdi/pax-cdi-manual@1.1.2?type=war
+- pkg:maven/org.ops4j.pax.cdi/pax-cdi-manual@1.1.3?type=war

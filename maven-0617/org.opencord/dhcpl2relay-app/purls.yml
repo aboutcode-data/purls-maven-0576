@@ -1,2 +1,6 @@
 - pkg:maven/org.opencord/dhcpl2relay-app@1.6.0?classifier=sources
 - pkg:maven/org.opencord/dhcpl2relay-app@1.6.1?classifier=sources
+- pkg:maven/org.opencord/dhcpl2relay-app@1.6.2?classifier=sources
+- pkg:maven/org.opencord/dhcpl2relay-app@1.6.3?classifier=sources
+- pkg:maven/org.opencord/dhcpl2relay-app@2.0.0?classifier=sources
+- pkg:maven/org.opencord/dhcpl2relay-app@2.0.1?classifier=sources

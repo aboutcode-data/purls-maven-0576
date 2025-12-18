@@ -30,3 +30,5 @@
 - pkg:maven/io.citrine/jcc@3.1.0?classifier=sources
 - pkg:maven/io.citrine/jcc@4.0.0
 - pkg:maven/io.citrine/jcc@4.0.0?classifier=sources
+- pkg:maven/io.citrine/jcc@4.0.5
+- pkg:maven/io.citrine/jcc@4.0.5?classifier=sources

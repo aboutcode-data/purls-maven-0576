@@ -1,0 +1,2 @@
+- pkg:maven/com.kubukoz/circe-fs2_2.13@0.13.0-M2
+- pkg:maven/com.kubukoz/circe-fs2_2.13@0.13.0-M2?classifier=sources

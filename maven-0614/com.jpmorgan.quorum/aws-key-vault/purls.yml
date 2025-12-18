@@ -1,0 +1,2 @@
+- pkg:maven/com.jpmorgan.quorum/aws-key-vault@0.10.3
+- pkg:maven/com.jpmorgan.quorum/aws-key-vault@0.10.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.acxiom/metalus-common_2.12-spark_2.4@1.5.0
+- pkg:maven/com.acxiom/metalus-common_2.12-spark_2.4@1.5.0?classifier=sources

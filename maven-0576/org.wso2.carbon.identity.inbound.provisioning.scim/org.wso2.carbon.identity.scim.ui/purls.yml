@@ -56,3 +56,7 @@
 - pkg:maven/org.wso2.carbon.identity.inbound.provisioning.scim/org.wso2.carbon.identity.scim.ui@5.3.8?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.inbound.provisioning.scim/org.wso2.carbon.identity.scim.ui@5.3.9
 - pkg:maven/org.wso2.carbon.identity.inbound.provisioning.scim/org.wso2.carbon.identity.scim.ui@5.3.9?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.inbound.provisioning.scim/org.wso2.carbon.identity.scim.ui@5.5.4
+- pkg:maven/org.wso2.carbon.identity.inbound.provisioning.scim/org.wso2.carbon.identity.scim.ui@5.5.4?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.inbound.provisioning.scim/org.wso2.carbon.identity.scim.ui@5.5.5
+- pkg:maven/org.wso2.carbon.identity.inbound.provisioning.scim/org.wso2.carbon.identity.scim.ui@5.5.5?classifier=sources

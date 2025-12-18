@@ -42,3 +42,11 @@
 - pkg:maven/org.nightcode.yaranga/yaranga@0.7.2
 - pkg:maven/org.nightcode.yaranga/yaranga@0.7.2?classifier=sources
 - pkg:maven/org.nightcode.yaranga/yaranga@0.7?classifier=sources
+- pkg:maven/org.nightcode.yaranga/yaranga@0.8
+- pkg:maven/org.nightcode.yaranga/yaranga@0.8.1
+- pkg:maven/org.nightcode.yaranga/yaranga@0.8.1?classifier=sources
+- pkg:maven/org.nightcode.yaranga/yaranga@0.8.2
+- pkg:maven/org.nightcode.yaranga/yaranga@0.8.2?classifier=sources
+- pkg:maven/org.nightcode.yaranga/yaranga@0.8.3
+- pkg:maven/org.nightcode.yaranga/yaranga@0.8.3?classifier=sources
+- pkg:maven/org.nightcode.yaranga/yaranga@0.8?classifier=sources

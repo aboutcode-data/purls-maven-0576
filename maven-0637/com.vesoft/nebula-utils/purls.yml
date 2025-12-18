@@ -1,0 +1,2 @@
+- pkg:maven/com.vesoft/nebula-utils@1.0.0-rc2
+- pkg:maven/com.vesoft/nebula-utils@1.0.0-rc2?classifier=sources

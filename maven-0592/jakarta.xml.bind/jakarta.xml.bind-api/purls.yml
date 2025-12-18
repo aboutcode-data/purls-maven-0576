@@ -1,2 +1,6 @@
 - pkg:maven/jakarta.xml.bind/jakarta.xml.bind-api@2.3.2
 - pkg:maven/jakarta.xml.bind/jakarta.xml.bind-api@2.3.2?classifier=sources
+- pkg:maven/jakarta.xml.bind/jakarta.xml.bind-api@2.3.3
+- pkg:maven/jakarta.xml.bind/jakarta.xml.bind-api@2.3.3?classifier=sources
+- pkg:maven/jakarta.xml.bind/jakarta.xml.bind-api@3.0.0-RC1
+- pkg:maven/jakarta.xml.bind/jakarta.xml.bind-api@3.0.0-RC1?classifier=sources

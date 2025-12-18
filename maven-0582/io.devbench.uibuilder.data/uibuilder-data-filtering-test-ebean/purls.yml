@@ -3,3 +3,6 @@
 - pkg:maven/io.devbench.uibuilder.data/uibuilder-data-filtering-test-ebean@1.1.1
 - pkg:maven/io.devbench.uibuilder.data/uibuilder-data-filtering-test-ebean@1.1.2
 - pkg:maven/io.devbench.uibuilder.data/uibuilder-data-filtering-test-ebean@1.2.0
+- pkg:maven/io.devbench.uibuilder.data/uibuilder-data-filtering-test-ebean@1.2.1
+- pkg:maven/io.devbench.uibuilder.data/uibuilder-data-filtering-test-ebean@1.3.0
+- pkg:maven/io.devbench.uibuilder.data/uibuilder-data-filtering-test-ebean@2.0.0

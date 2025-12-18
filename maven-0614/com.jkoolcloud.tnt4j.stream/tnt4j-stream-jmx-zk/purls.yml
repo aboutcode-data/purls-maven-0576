@@ -1,2 +1,4 @@
+- pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-zk@0.10
+- pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-zk@0.10?classifier=sources
 - pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-zk@0.9
 - pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-zk@0.9?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.lhotari/akka-http-health_2.13@1.0.9
+- pkg:maven/io.github.lhotari/akka-http-health_2.13@1.0.9?classifier=sources

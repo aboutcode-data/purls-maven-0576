@@ -8,3 +8,5 @@
 - pkg:maven/com.cognitect.aws/s3control@747.2.533.0?classifier=sources
 - pkg:maven/com.cognitect.aws/s3control@770.2.568.0
 - pkg:maven/com.cognitect.aws/s3control@770.2.568.0?classifier=sources
+- pkg:maven/com.cognitect.aws/s3control@780.2.583.0
+- pkg:maven/com.cognitect.aws/s3control@780.2.583.0?classifier=sources

@@ -2,4 +2,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-css-prep@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-css-prep@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-css-prep@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-css-prep@RELEASE113?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-css-prep@RELEASE90?classifier=sources

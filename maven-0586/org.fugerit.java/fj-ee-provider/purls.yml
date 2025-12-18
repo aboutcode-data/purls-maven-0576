@@ -1,0 +1,2 @@
+- pkg:maven/org.fugerit.java/fj-ee-provider@1.0.1
+- pkg:maven/org.fugerit.java/fj-ee-provider@1.0.1?classifier=sources

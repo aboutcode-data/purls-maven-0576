@@ -22,3 +22,5 @@
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-richclient@2.9.0?classifier=sources
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-richclient@3.0.0
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-richclient@3.0.0?classifier=sources
+- pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-richclient@4.0.0
+- pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-richclient@4.0.0?classifier=sources

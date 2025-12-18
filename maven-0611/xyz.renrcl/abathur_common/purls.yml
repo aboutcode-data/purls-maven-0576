@@ -1,0 +1,2 @@
+- pkg:maven/xyz.renrcl/abathur_common@0.2
+- pkg:maven/xyz.renrcl/abathur_common@0.2?classifier=sources

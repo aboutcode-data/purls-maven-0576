@@ -1,0 +1,2 @@
+- pkg:maven/org.comroid/common-util-upd8r-nginx@0.1.0
+- pkg:maven/org.comroid/common-util-upd8r-nginx@0.1.0?classifier=sources

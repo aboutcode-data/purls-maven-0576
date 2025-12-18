@@ -2,4 +2,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-whitelist@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-whitelist@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-whitelist@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-whitelist@RELEASE113?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-whitelist@RELEASE90?classifier=sources

@@ -4,3 +4,6 @@
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.openid/identity-inbound-auth-openid@5.2.6?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.openid/identity-inbound-auth-openid@5.2.7?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.openid/identity-inbound-auth-openid@5.2.8?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.openid/identity-inbound-auth-openid@5.4.4?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.openid/identity-inbound-auth-openid@5.4.5?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.openid/identity-inbound-auth-openid@5.4.6?classifier=source-release&type=zip

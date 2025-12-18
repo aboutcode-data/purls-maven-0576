@@ -1,0 +1,2 @@
+- pkg:maven/io.peacemakr/peacemakr-java-sdk-jdk7@0.0.2
+- pkg:maven/io.peacemakr/peacemakr-java-sdk-jdk7@0.0.2?classifier=sources

@@ -38,3 +38,5 @@
 - pkg:maven/org.knowm.xchart/xchart-demo@3.5.4?classifier=sources
 - pkg:maven/org.knowm.xchart/xchart-demo@3.6.0
 - pkg:maven/org.knowm.xchart/xchart-demo@3.6.0?classifier=sources
+- pkg:maven/org.knowm.xchart/xchart-demo@3.6.1
+- pkg:maven/org.knowm.xchart/xchart-demo@3.6.1?classifier=sources

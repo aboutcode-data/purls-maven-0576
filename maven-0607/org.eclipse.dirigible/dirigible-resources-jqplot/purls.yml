@@ -28,3 +28,9 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-resources-jqplot@3.5.1?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-resources-jqplot@3.5.2
 - pkg:maven/org.eclipse.dirigible/dirigible-resources-jqplot@3.5.2?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-resources-jqplot@4.0.0
+- pkg:maven/org.eclipse.dirigible/dirigible-resources-jqplot@4.0.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-resources-jqplot@4.1.0
+- pkg:maven/org.eclipse.dirigible/dirigible-resources-jqplot@4.1.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-resources-jqplot@4.2.0
+- pkg:maven/org.eclipse.dirigible/dirigible-resources-jqplot@4.2.0?classifier=sources

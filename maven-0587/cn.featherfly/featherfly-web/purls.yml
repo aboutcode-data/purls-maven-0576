@@ -12,3 +12,5 @@
 - pkg:maven/cn.featherfly/featherfly-web@1.2.1?classifier=sources
 - pkg:maven/cn.featherfly/featherfly-web@1.2.2
 - pkg:maven/cn.featherfly/featherfly-web@1.2.2?classifier=sources
+- pkg:maven/cn.featherfly/featherfly-web@1.2.3
+- pkg:maven/cn.featherfly/featherfly-web@1.2.3?classifier=sources

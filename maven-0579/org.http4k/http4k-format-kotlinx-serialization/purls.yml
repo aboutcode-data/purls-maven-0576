@@ -1,0 +1,10 @@
+- pkg:maven/org.http4k/http4k-format-kotlinx-serialization@3.232.0
+- pkg:maven/org.http4k/http4k-format-kotlinx-serialization@3.232.0?classifier=sources
+- pkg:maven/org.http4k/http4k-format-kotlinx-serialization@3.234.0
+- pkg:maven/org.http4k/http4k-format-kotlinx-serialization@3.234.0?classifier=sources
+- pkg:maven/org.http4k/http4k-format-kotlinx-serialization@3.235.0
+- pkg:maven/org.http4k/http4k-format-kotlinx-serialization@3.235.0?classifier=sources
+- pkg:maven/org.http4k/http4k-format-kotlinx-serialization@3.237.0
+- pkg:maven/org.http4k/http4k-format-kotlinx-serialization@3.237.0?classifier=sources
+- pkg:maven/org.http4k/http4k-format-kotlinx-serialization@3.238.0
+- pkg:maven/org.http4k/http4k-format-kotlinx-serialization@3.238.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.teesoft/jackson-dataformat-toml@1.0
+- pkg:maven/com.teesoft/jackson-dataformat-toml@1.0?classifier=sources

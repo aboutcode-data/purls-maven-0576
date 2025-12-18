@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/handlebars-helpers@0.10.0?classifier=sources
 - pkg:maven/org.webjars.npm/handlebars-helpers@0.5.8
 - pkg:maven/org.webjars.npm/handlebars-helpers@0.5.8?classifier=sources
+- pkg:maven/org.webjars.npm/handlebars-helpers@0.9.8
+- pkg:maven/org.webjars.npm/handlebars-helpers@0.9.8?classifier=sources

@@ -6,3 +6,4 @@
 - pkg:maven/org.jbundle.util.biorhythm/jbundle-util-biorhythm-jnlp@0.8.3?type=war
 - pkg:maven/org.jbundle.util.biorhythm/jbundle-util-biorhythm-jnlp@0.8.4?type=war
 - pkg:maven/org.jbundle.util.biorhythm/jbundle-util-biorhythm-jnlp@0.8.6?type=war
+- pkg:maven/org.jbundle.util.biorhythm/jbundle-util-biorhythm-jnlp@0.8.7?type=war

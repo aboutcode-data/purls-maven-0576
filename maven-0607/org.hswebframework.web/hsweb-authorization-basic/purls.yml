@@ -20,3 +20,5 @@
 - pkg:maven/org.hswebframework.web/hsweb-authorization-basic@3.0.8?classifier=sources
 - pkg:maven/org.hswebframework.web/hsweb-authorization-basic@3.0.9
 - pkg:maven/org.hswebframework.web/hsweb-authorization-basic@3.0.9?classifier=sources
+- pkg:maven/org.hswebframework.web/hsweb-authorization-basic@4.0.0
+- pkg:maven/org.hswebframework.web/hsweb-authorization-basic@4.0.0?classifier=sources

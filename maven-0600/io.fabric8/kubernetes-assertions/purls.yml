@@ -504,3 +504,5 @@
 - pkg:maven/io.fabric8/kubernetes-assertions@3.0.7?classifier=sources
 - pkg:maven/io.fabric8/kubernetes-assertions@3.0.8
 - pkg:maven/io.fabric8/kubernetes-assertions@3.0.8?classifier=sources
+- pkg:maven/io.fabric8/kubernetes-assertions@4.0.0
+- pkg:maven/io.fabric8/kubernetes-assertions@4.0.0?classifier=sources

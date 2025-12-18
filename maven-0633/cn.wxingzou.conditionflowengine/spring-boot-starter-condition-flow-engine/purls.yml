@@ -1,0 +1,4 @@
+- pkg:maven/cn.wxingzou.conditionflowengine/spring-boot-starter-condition-flow-engine@1.0-RELEASE
+- pkg:maven/cn.wxingzou.conditionflowengine/spring-boot-starter-condition-flow-engine@1.0-RELEASE?classifier=sources
+- pkg:maven/cn.wxingzou.conditionflowengine/spring-boot-starter-condition-flow-engine@2.0-RELEASE
+- pkg:maven/cn.wxingzou.conditionflowengine/spring-boot-starter-condition-flow-engine@2.0-RELEASE?classifier=sources

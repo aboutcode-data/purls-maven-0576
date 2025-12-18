@@ -1,0 +1,6 @@
+- pkg:maven/com.playtika.testcontainers/embedded-keycloak@1.38
+- pkg:maven/com.playtika.testcontainers/embedded-keycloak@1.38?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-keycloak@1.39
+- pkg:maven/com.playtika.testcontainers/embedded-keycloak@1.39?classifier=sources
+- pkg:maven/com.playtika.testcontainers/embedded-keycloak@1.40
+- pkg:maven/com.playtika.testcontainers/embedded-keycloak@1.40?classifier=sources

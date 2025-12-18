@@ -1,0 +1,2 @@
+- pkg:maven/com.wix/quix-python-module_2.13@1.0.2
+- pkg:maven/com.wix/quix-python-module_2.13@1.0.2?classifier=sources

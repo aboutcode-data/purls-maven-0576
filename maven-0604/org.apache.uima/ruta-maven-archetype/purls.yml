@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.uima/ruta-maven-archetype@2.6.0?classifier=sources
 - pkg:maven/org.apache.uima/ruta-maven-archetype@2.6.1?classifier=sources
 - pkg:maven/org.apache.uima/ruta-maven-archetype@2.7.0?classifier=sources
+- pkg:maven/org.apache.uima/ruta-maven-archetype@2.8.0?classifier=sources
+- pkg:maven/org.apache.uima/ruta-maven-archetype@3.0.0?classifier=sources

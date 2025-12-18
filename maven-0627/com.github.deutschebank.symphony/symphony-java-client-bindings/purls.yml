@@ -4,3 +4,9 @@
 - pkg:maven/com.github.deutschebank.symphony/symphony-java-client-bindings@4.54.3?classifier=sources
 - pkg:maven/com.github.deutschebank.symphony/symphony-java-client-bindings@4.55.1
 - pkg:maven/com.github.deutschebank.symphony/symphony-java-client-bindings@4.55.1?classifier=sources
+- pkg:maven/com.github.deutschebank.symphony/symphony-java-client-bindings@4.55.2
+- pkg:maven/com.github.deutschebank.symphony/symphony-java-client-bindings@4.55.2?classifier=sources
+- pkg:maven/com.github.deutschebank.symphony/symphony-java-client-bindings@4.55.3
+- pkg:maven/com.github.deutschebank.symphony/symphony-java-client-bindings@4.55.3?classifier=sources
+- pkg:maven/com.github.deutschebank.symphony/symphony-java-client-bindings@4.55.4
+- pkg:maven/com.github.deutschebank.symphony/symphony-java-client-bindings@4.55.4?classifier=sources

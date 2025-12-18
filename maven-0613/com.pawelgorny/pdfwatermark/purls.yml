@@ -1,0 +1,4 @@
+- pkg:maven/com.pawelgorny/pdfwatermark@1.0
+- pkg:maven/com.pawelgorny/pdfwatermark@1.0?classifier=sources
+- pkg:maven/com.pawelgorny/pdfwatermark@1.1
+- pkg:maven/com.pawelgorny/pdfwatermark@1.1?classifier=sources

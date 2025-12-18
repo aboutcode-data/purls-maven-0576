@@ -1,0 +1,2 @@
+- pkg:maven/team.yi.tools/semantic-commit@0.1.0?classifier=sources
+- pkg:maven/team.yi.tools/semantic-commit@0.1.2?classifier=sources

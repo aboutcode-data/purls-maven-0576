@@ -1,1 +1,2 @@
 - pkg:maven/io.nixer/nixer-plugin-example@0.1.0.0
+- pkg:maven/io.nixer/nixer-plugin-example@0.1.0.0?classifier=sources

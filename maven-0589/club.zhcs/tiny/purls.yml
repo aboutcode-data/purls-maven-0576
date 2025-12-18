@@ -1,0 +1,6 @@
+- pkg:maven/club.zhcs/tiny@2.2.1.RELEASE
+- pkg:maven/club.zhcs/tiny@2.2.1.RELEASE?classifier=sources
+- pkg:maven/club.zhcs/tiny@2.2.2.RELEASE
+- pkg:maven/club.zhcs/tiny@2.2.2.RELEASE.20191216
+- pkg:maven/club.zhcs/tiny@2.2.2.RELEASE.20191216?classifier=sources
+- pkg:maven/club.zhcs/tiny@2.2.2.RELEASE?classifier=sources

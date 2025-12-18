@@ -12,3 +12,5 @@
 - pkg:maven/net.iakovlev/timeshape@2018d.6?classifier=sources
 - pkg:maven/net.iakovlev/timeshape@2019b.7
 - pkg:maven/net.iakovlev/timeshape@2019b.7?classifier=sources
+- pkg:maven/net.iakovlev/timeshape@2019b.8
+- pkg:maven/net.iakovlev/timeshape@2019b.8?classifier=sources

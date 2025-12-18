@@ -1,0 +1,2 @@
+- pkg:maven/io.islandtime/threetenabp-extensions@0.1.0?classifier=sources
+- pkg:maven/io.islandtime/threetenabp-extensions@0.1.0?type=aar

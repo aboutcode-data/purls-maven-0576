@@ -2,4 +2,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-css-model@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-css-model@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-css-model@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-css-model@RELEASE113?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-css-model@RELEASE90?classifier=sources

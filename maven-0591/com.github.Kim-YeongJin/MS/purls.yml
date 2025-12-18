@@ -1,0 +1,2 @@
+- pkg:maven/com.github.Kim-YeongJin/MS@1.0
+- pkg:maven/com.github.Kim-YeongJin/MS@1.0?classifier=sources

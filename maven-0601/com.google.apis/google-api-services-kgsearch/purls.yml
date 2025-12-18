@@ -40,6 +40,10 @@
 - pkg:maven/com.google.apis/google-api-services-kgsearch@v1-rev20180809-1.29.2?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-kgsearch@v1-rev20180809-1.30.1
 - pkg:maven/com.google.apis/google-api-services-kgsearch@v1-rev20180809-1.30.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-kgsearch@v1-rev20180809-1.30.8
+- pkg:maven/com.google.apis/google-api-services-kgsearch@v1-rev20180809-1.30.8?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-kgsearch@v1-rev20200210-1.30.8
+- pkg:maven/com.google.apis/google-api-services-kgsearch@v1-rev20200210-1.30.8?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-kgsearch@v1-rev226-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-kgsearch@v1-rev226-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-kgsearch@v1-rev226-1.20.0
@@ -94,6 +98,14 @@
 - pkg:maven/com.google.apis/google-api-services-kgsearch@v1-rev240-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-kgsearch@v1-rev240-1.25.0
 - pkg:maven/com.google.apis/google-api-services-kgsearch@v1-rev240-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-kgsearch@v1-rev251-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-kgsearch@v1-rev251-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-kgsearch@v1-rev251-1.25.0
+- pkg:maven/com.google.apis/google-api-services-kgsearch@v1-rev251-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-kgsearch@v1-rev253-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-kgsearch@v1-rev253-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-kgsearch@v1-rev253-1.25.0
+- pkg:maven/com.google.apis/google-api-services-kgsearch@v1-rev253-1.25.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-kgsearch@v1-rev3-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-kgsearch@v1-rev3-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-kgsearch@v1-rev3-1.19.1

@@ -34,3 +34,5 @@
 - pkg:maven/io.github.devacfr.maven.skins/reflow-maven-skin@2.0.2?classifier=sources
 - pkg:maven/io.github.devacfr.maven.skins/reflow-maven-skin@2.1.0
 - pkg:maven/io.github.devacfr.maven.skins/reflow-maven-skin@2.1.0?classifier=sources
+- pkg:maven/io.github.devacfr.maven.skins/reflow-maven-skin@2.2.0
+- pkg:maven/io.github.devacfr.maven.skins/reflow-maven-skin@2.2.0?classifier=sources

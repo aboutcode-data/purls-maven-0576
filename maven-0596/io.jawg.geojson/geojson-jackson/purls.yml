@@ -2,3 +2,5 @@
 - pkg:maven/io.jawg.geojson/geojson-jackson@1.0.0?classifier=sources
 - pkg:maven/io.jawg.geojson/geojson-jackson@1.1.0
 - pkg:maven/io.jawg.geojson/geojson-jackson@1.1.0?classifier=sources
+- pkg:maven/io.jawg.geojson/geojson-jackson@1.2.0?classifier=sources
+- pkg:maven/io.jawg.geojson/geojson-jackson@1.2.1?classifier=sources

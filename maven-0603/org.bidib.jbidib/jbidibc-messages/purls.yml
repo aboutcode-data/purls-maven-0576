@@ -1,0 +1,2 @@
+- pkg:maven/org.bidib.jbidib/jbidibc-messages@1.12.4
+- pkg:maven/org.bidib.jbidib/jbidibc-messages@1.12.4?classifier=sources

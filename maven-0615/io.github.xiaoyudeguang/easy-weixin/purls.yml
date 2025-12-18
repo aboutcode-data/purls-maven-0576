@@ -1,0 +1,2 @@
+- pkg:maven/io.github.xiaoyudeguang/easy-weixin@4.0.1.1
+- pkg:maven/io.github.xiaoyudeguang/easy-weixin@4.0.1.1?classifier=sources

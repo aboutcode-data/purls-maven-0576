@@ -42,3 +42,7 @@
 - pkg:maven/com.github.dakusui/thincrest@3.5.1?classifier=sources
 - pkg:maven/com.github.dakusui/thincrest@3.6.0
 - pkg:maven/com.github.dakusui/thincrest@3.6.0?classifier=sources
+- pkg:maven/com.github.dakusui/thincrest@3.7.0
+- pkg:maven/com.github.dakusui/thincrest@3.7.0?classifier=sources
+- pkg:maven/com.github.dakusui/thincrest@4.0.0
+- pkg:maven/com.github.dakusui/thincrest@4.0.0?classifier=sources

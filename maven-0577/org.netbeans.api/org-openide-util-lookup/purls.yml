@@ -2,4 +2,5 @@
 - pkg:maven/org.netbeans.api/org-openide-util-lookup@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.api/org-openide-util-lookup@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.api/org-openide-util-lookup@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.api/org-openide-util-lookup@RELEASE113?classifier=sources
 - pkg:maven/org.netbeans.api/org-openide-util-lookup@RELEASE90?classifier=sources

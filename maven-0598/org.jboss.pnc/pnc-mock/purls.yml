@@ -70,3 +70,5 @@
 - pkg:maven/org.jboss.pnc/pnc-mock@1.7.4?classifier=sources
 - pkg:maven/org.jboss.pnc/pnc-mock@1.7.5
 - pkg:maven/org.jboss.pnc/pnc-mock@1.7.5?classifier=sources
+- pkg:maven/org.jboss.pnc/pnc-mock@1.8.0
+- pkg:maven/org.jboss.pnc/pnc-mock@1.8.0?classifier=sources

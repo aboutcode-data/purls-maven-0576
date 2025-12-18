@@ -1,0 +1,6 @@
+- pkg:maven/com.pig4cloud/spring-boot-admin-server-ui@0.0.2
+- pkg:maven/com.pig4cloud/spring-boot-admin-server-ui@0.0.2?classifier=sources
+- pkg:maven/com.pig4cloud/spring-boot-admin-server-ui@0.1.2
+- pkg:maven/com.pig4cloud/spring-boot-admin-server-ui@0.1.2?classifier=sources
+- pkg:maven/com.pig4cloud/spring-boot-admin-server-ui@2.2.0
+- pkg:maven/com.pig4cloud/spring-boot-admin-server-ui@2.2.0?classifier=sources

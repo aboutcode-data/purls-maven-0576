@@ -159,6 +159,7 @@
 - pkg:maven/org.pustefixframework.samples/pustefix-i18n-webapp@0.22.14?type=war
 - pkg:maven/org.pustefixframework.samples/pustefix-i18n-webapp@0.22.15?type=war
 - pkg:maven/org.pustefixframework.samples/pustefix-i18n-webapp@0.22.16?type=war
+- pkg:maven/org.pustefixframework.samples/pustefix-i18n-webapp@0.22.17?type=war
 - pkg:maven/org.pustefixframework.samples/pustefix-i18n-webapp@0.22.1?type=war
 - pkg:maven/org.pustefixframework.samples/pustefix-i18n-webapp@0.22.2?type=war
 - pkg:maven/org.pustefixframework.samples/pustefix-i18n-webapp@0.22.3?type=war

@@ -6,3 +6,5 @@
 - pkg:maven/org.arakhne.afc.gis/gisbusinputoutput@15.2?classifier=sources
 - pkg:maven/org.arakhne.afc.gis/gisbusinputoutput@16.0
 - pkg:maven/org.arakhne.afc.gis/gisbusinputoutput@16.0?classifier=sources
+- pkg:maven/org.arakhne.afc.gis/gisbusinputoutput@17.0
+- pkg:maven/org.arakhne.afc.gis/gisbusinputoutput@17.0?classifier=sources

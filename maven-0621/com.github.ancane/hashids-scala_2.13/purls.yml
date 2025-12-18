@@ -1,0 +1,2 @@
+- pkg:maven/com.github.ancane/hashids-scala_2.13@1.4
+- pkg:maven/com.github.ancane/hashids-scala_2.13@1.4?classifier=sources

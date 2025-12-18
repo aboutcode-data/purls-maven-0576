@@ -22,3 +22,5 @@
 - pkg:maven/org.webjars.npm/filepond@4.3.3?classifier=sources
 - pkg:maven/org.webjars.npm/filepond@4.7.2
 - pkg:maven/org.webjars.npm/filepond@4.7.2?classifier=sources
+- pkg:maven/org.webjars.npm/filepond@4.7.4
+- pkg:maven/org.webjars.npm/filepond@4.7.4?classifier=sources

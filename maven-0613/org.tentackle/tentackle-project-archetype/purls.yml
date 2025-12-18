@@ -1,3 +1,4 @@
 - pkg:maven/org.tentackle/tentackle-project-archetype@11.4.0.0?classifier=sources
 - pkg:maven/org.tentackle/tentackle-project-archetype@11.4.0.1?classifier=sources
 - pkg:maven/org.tentackle/tentackle-project-archetype@11.5.0.0?classifier=sources
+- pkg:maven/org.tentackle/tentackle-project-archetype@11.6.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.ogema.external/org.apache.felix.useradmin.filestore@1.0.2
+- pkg:maven/org.ogema.external/org.apache.felix.useradmin.filestore@1.0.2?classifier=sources

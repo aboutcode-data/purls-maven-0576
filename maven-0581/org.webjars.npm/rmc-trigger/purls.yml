@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/rmc-trigger@1.0.12
+- pkg:maven/org.webjars.npm/rmc-trigger@1.0.12?classifier=sources

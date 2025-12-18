@@ -48,3 +48,5 @@
 - pkg:maven/com.lightbend.akka.management/akka-management-cluster-bootstrap_2.12@1.0.3?classifier=sources
 - pkg:maven/com.lightbend.akka.management/akka-management-cluster-bootstrap_2.12@1.0.4
 - pkg:maven/com.lightbend.akka.management/akka-management-cluster-bootstrap_2.12@1.0.4?classifier=sources
+- pkg:maven/com.lightbend.akka.management/akka-management-cluster-bootstrap_2.12@1.0.5
+- pkg:maven/com.lightbend.akka.management/akka-management-cluster-bootstrap_2.12@1.0.5?classifier=sources

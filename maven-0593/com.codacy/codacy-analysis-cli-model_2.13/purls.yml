@@ -1,0 +1,2 @@
+- pkg:maven/com.codacy/codacy-analysis-cli-model_2.13@2.2.0
+- pkg:maven/com.codacy/codacy-analysis-cli-model_2.13@2.2.0?classifier=sources

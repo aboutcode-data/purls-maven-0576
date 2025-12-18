@@ -28,6 +28,8 @@
 - pkg:maven/net.dankito.richtexteditor/richtexteditor-android@2.0.12?type=aar
 - pkg:maven/net.dankito.richtexteditor/richtexteditor-android@2.0.13?classifier=sources
 - pkg:maven/net.dankito.richtexteditor/richtexteditor-android@2.0.13?type=aar
+- pkg:maven/net.dankito.richtexteditor/richtexteditor-android@2.0.15?classifier=sources
+- pkg:maven/net.dankito.richtexteditor/richtexteditor-android@2.0.15?type=aar
 - pkg:maven/net.dankito.richtexteditor/richtexteditor-android@2.0.1?classifier=sources
 - pkg:maven/net.dankito.richtexteditor/richtexteditor-android@2.0.1?type=aar
 - pkg:maven/net.dankito.richtexteditor/richtexteditor-android@2.0.2?classifier=sources

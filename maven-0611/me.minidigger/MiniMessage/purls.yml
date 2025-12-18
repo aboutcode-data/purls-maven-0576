@@ -1,0 +1,2 @@
+- pkg:maven/me.minidigger/MiniMessage@1.0.1
+- pkg:maven/me.minidigger/MiniMessage@1.0.1?classifier=sources

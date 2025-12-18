@@ -10,6 +10,8 @@
 - pkg:maven/org.realityforge.guiceyloops/guiceyloops@0.104?classifier=sources
 - pkg:maven/org.realityforge.guiceyloops/guiceyloops@0.105
 - pkg:maven/org.realityforge.guiceyloops/guiceyloops@0.105?classifier=sources
+- pkg:maven/org.realityforge.guiceyloops/guiceyloops@0.106
+- pkg:maven/org.realityforge.guiceyloops/guiceyloops@0.106?classifier=sources
 - pkg:maven/org.realityforge.guiceyloops/guiceyloops@0.28
 - pkg:maven/org.realityforge.guiceyloops/guiceyloops@0.28?classifier=sources
 - pkg:maven/org.realityforge.guiceyloops/guiceyloops@0.30

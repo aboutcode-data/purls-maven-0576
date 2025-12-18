@@ -10,3 +10,5 @@
 - pkg:maven/com.sta-soft/converter3@3.113?classifier=sources
 - pkg:maven/com.sta-soft/converter3@3.114
 - pkg:maven/com.sta-soft/converter3@3.114?classifier=sources
+- pkg:maven/com.sta-soft/converter3@3.115
+- pkg:maven/com.sta-soft/converter3@3.115?classifier=sources

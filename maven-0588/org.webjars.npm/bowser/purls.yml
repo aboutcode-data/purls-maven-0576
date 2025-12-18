@@ -12,5 +12,7 @@
 - pkg:maven/org.webjars.npm/bowser@1.9.2?classifier=sources
 - pkg:maven/org.webjars.npm/bowser@1.9.3
 - pkg:maven/org.webjars.npm/bowser@1.9.3?classifier=sources
+- pkg:maven/org.webjars.npm/bowser@1.9.4
+- pkg:maven/org.webjars.npm/bowser@1.9.4?classifier=sources
 - pkg:maven/org.webjars.npm/bowser@2.0.0-beta.3
 - pkg:maven/org.webjars.npm/bowser@2.0.0-beta.3?classifier=sources

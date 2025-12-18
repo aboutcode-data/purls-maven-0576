@@ -1,0 +1,2 @@
+- pkg:maven/co.aurasphere.metrics/jmx-metrics-filter-jdk5@1.0.0
+- pkg:maven/co.aurasphere.metrics/jmx-metrics-filter-jdk5@1.0.0?classifier=sources

@@ -2,4 +2,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-api-debugger-jpda@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-debugger-jpda@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-debugger-jpda@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-api-debugger-jpda@RELEASE113?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-debugger-jpda@RELEASE90?classifier=sources

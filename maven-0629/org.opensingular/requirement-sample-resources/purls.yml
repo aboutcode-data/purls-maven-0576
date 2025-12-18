@@ -1,0 +1,4 @@
+- pkg:maven/org.opensingular/requirement-sample-resources@1.9.1-RC14
+- pkg:maven/org.opensingular/requirement-sample-resources@1.9.1-RC14?classifier=sources
+- pkg:maven/org.opensingular/requirement-sample-resources@1.9.1-RC15
+- pkg:maven/org.opensingular/requirement-sample-resources@1.9.1-RC15?classifier=sources

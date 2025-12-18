@@ -1,3 +1,7 @@
+- pkg:maven/com.squareup.misk/misk-jaeger@0.10.0
+- pkg:maven/com.squareup.misk/misk-jaeger@0.10.0?classifier=sources
+- pkg:maven/com.squareup.misk/misk-jaeger@0.11.0
+- pkg:maven/com.squareup.misk/misk-jaeger@0.11.0?classifier=sources
 - pkg:maven/com.squareup.misk/misk-jaeger@0.4.0
 - pkg:maven/com.squareup.misk/misk-jaeger@0.4.0?classifier=sources
 - pkg:maven/com.squareup.misk/misk-jaeger@0.6.0
@@ -6,3 +10,5 @@
 - pkg:maven/com.squareup.misk/misk-jaeger@0.7.0?classifier=sources
 - pkg:maven/com.squareup.misk/misk-jaeger@0.8.0
 - pkg:maven/com.squareup.misk/misk-jaeger@0.8.0?classifier=sources
+- pkg:maven/com.squareup.misk/misk-jaeger@0.9.0
+- pkg:maven/com.squareup.misk/misk-jaeger@0.9.0?classifier=sources

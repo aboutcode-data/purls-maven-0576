@@ -1,0 +1,6 @@
+- pkg:maven/com.robotemi/sdk@0.10.50?type=aar
+- pkg:maven/com.robotemi/sdk@0.10.52?type=aar
+- pkg:maven/com.robotemi/sdk@0.10.53?type=aar
+- pkg:maven/com.robotemi/sdk@0.10.54?type=aar
+- pkg:maven/com.robotemi/sdk@0.10.55?type=aar
+- pkg:maven/com.robotemi/sdk@0.10.6?type=aar

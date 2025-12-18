@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/jsonata@1.8.0
+- pkg:maven/org.webjars.bower/jsonata@1.8.0?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/net.raumzeitfalle.fx/scenic-view@11.0.2
+- pkg:maven/net.raumzeitfalle.fx/scenic-view@11.0.2?classifier=sources
+- pkg:maven/net.raumzeitfalle.fx/scenic-view@8.7.0?classifier=sources

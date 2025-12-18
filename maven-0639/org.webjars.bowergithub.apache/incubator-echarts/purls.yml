@@ -8,3 +8,7 @@
 - pkg:maven/org.webjars.bowergithub.apache/incubator-echarts@4.2.1?classifier=sources
 - pkg:maven/org.webjars.bowergithub.apache/incubator-echarts@4.3.0
 - pkg:maven/org.webjars.bowergithub.apache/incubator-echarts@4.3.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.apache/incubator-echarts@4.5.0
+- pkg:maven/org.webjars.bowergithub.apache/incubator-echarts@4.5.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.apache/incubator-echarts@4.6.0
+- pkg:maven/org.webjars.bowergithub.apache/incubator-echarts@4.6.0?classifier=sources

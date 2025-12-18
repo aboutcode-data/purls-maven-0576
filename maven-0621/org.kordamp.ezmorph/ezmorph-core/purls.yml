@@ -1,0 +1,2 @@
+- pkg:maven/org.kordamp.ezmorph/ezmorph-core@3.0.0
+- pkg:maven/org.kordamp.ezmorph/ezmorph-core@3.0.0?classifier=sources

@@ -21,6 +21,12 @@
 - pkg:maven/br.com.anteros/Anteros-Spring-Web@2.0.0
 - pkg:maven/br.com.anteros/Anteros-Spring-Web@2.0.0?classifier=sources
 - pkg:maven/br.com.anteros/Anteros-Spring-Web@2.0.1
+- pkg:maven/br.com.anteros/Anteros-Spring-Web@2.0.10
+- pkg:maven/br.com.anteros/Anteros-Spring-Web@2.0.10?classifier=sources
+- pkg:maven/br.com.anteros/Anteros-Spring-Web@2.0.11
+- pkg:maven/br.com.anteros/Anteros-Spring-Web@2.0.11?classifier=sources
+- pkg:maven/br.com.anteros/Anteros-Spring-Web@2.0.13
+- pkg:maven/br.com.anteros/Anteros-Spring-Web@2.0.13?classifier=sources
 - pkg:maven/br.com.anteros/Anteros-Spring-Web@2.0.1?classifier=sources
 - pkg:maven/br.com.anteros/Anteros-Spring-Web@2.0.2
 - pkg:maven/br.com.anteros/Anteros-Spring-Web@2.0.2?classifier=sources
@@ -32,3 +38,5 @@
 - pkg:maven/br.com.anteros/Anteros-Spring-Web@2.0.6?classifier=sources
 - pkg:maven/br.com.anteros/Anteros-Spring-Web@2.0.7
 - pkg:maven/br.com.anteros/Anteros-Spring-Web@2.0.7?classifier=sources
+- pkg:maven/br.com.anteros/Anteros-Spring-Web@2.0.8
+- pkg:maven/br.com.anteros/Anteros-Spring-Web@2.0.8?classifier=sources

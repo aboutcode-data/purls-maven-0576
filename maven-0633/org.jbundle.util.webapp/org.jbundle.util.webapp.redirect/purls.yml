@@ -14,3 +14,4 @@
 - pkg:maven/org.jbundle.util.webapp/org.jbundle.util.webapp.redirect@1.3.3?classifier=sources
 - pkg:maven/org.jbundle.util.webapp/org.jbundle.util.webapp.redirect@1.3.4?classifier=sources
 - pkg:maven/org.jbundle.util.webapp/org.jbundle.util.webapp.redirect@1.3.6?classifier=sources
+- pkg:maven/org.jbundle.util.webapp/org.jbundle.util.webapp.redirect@1.3.7?classifier=sources

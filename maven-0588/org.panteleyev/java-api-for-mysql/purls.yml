@@ -1,0 +1,4 @@
+- pkg:maven/org.panteleyev/java-api-for-mysql@1.0.0
+- pkg:maven/org.panteleyev/java-api-for-mysql@1.0.0?classifier=sources
+- pkg:maven/org.panteleyev/java-api-for-mysql@1.1.0
+- pkg:maven/org.panteleyev/java-api-for-mysql@1.1.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.bower/autoNumeric@1.9.30?classifier=sources
 - pkg:maven/org.webjars.bower/autoNumeric@2.0.12
 - pkg:maven/org.webjars.bower/autoNumeric@2.0.12?classifier=sources
+- pkg:maven/org.webjars.bower/autoNumeric@4.5.10
+- pkg:maven/org.webjars.bower/autoNumeric@4.5.10?classifier=sources

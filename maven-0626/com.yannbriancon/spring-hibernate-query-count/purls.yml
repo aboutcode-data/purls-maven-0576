@@ -1,0 +1,4 @@
+- pkg:maven/com.yannbriancon/spring-hibernate-query-count@0.1.0
+- pkg:maven/com.yannbriancon/spring-hibernate-query-count@0.1.0?classifier=sources
+- pkg:maven/com.yannbriancon/spring-hibernate-query-count@1.0.0
+- pkg:maven/com.yannbriancon/spring-hibernate-query-count@1.0.0?classifier=sources

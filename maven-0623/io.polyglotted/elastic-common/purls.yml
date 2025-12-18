@@ -52,3 +52,5 @@
 - pkg:maven/io.polyglotted/elastic-common@6.7.4?classifier=sources
 - pkg:maven/io.polyglotted/elastic-common@6.8.2
 - pkg:maven/io.polyglotted/elastic-common@6.8.2?classifier=sources
+- pkg:maven/io.polyglotted/elastic-common@6.8.5
+- pkg:maven/io.polyglotted/elastic-common@6.8.5?classifier=sources

@@ -34,3 +34,5 @@
 - pkg:maven/com.gitee.sohnny/sojpt-boot@2.5.8-3.8?classifier=sources
 - pkg:maven/com.gitee.sohnny/sojpt-boot@2.5.8-4.3
 - pkg:maven/com.gitee.sohnny/sojpt-boot@2.5.8-4.3?classifier=sources
+- pkg:maven/com.gitee.sohnny/sojpt-boot@2.5.8-4.7
+- pkg:maven/com.gitee.sohnny/sojpt-boot@2.5.8-4.7?classifier=sources

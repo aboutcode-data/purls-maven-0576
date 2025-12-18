@@ -1,0 +1,2 @@
+- pkg:maven/com.sandinh/play-soap_2.13@1.9.0
+- pkg:maven/com.sandinh/play-soap_2.13@1.9.0?classifier=sources

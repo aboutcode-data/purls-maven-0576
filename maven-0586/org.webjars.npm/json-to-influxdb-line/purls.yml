@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/json-to-influxdb-line@0.2.0
+- pkg:maven/org.webjars.npm/json-to-influxdb-line@0.2.0?classifier=sources

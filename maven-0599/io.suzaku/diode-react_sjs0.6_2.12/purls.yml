@@ -10,3 +10,7 @@
 - pkg:maven/io.suzaku/diode-react_sjs0.6_2.12@1.1.4.131?classifier=sources
 - pkg:maven/io.suzaku/diode-react_sjs0.6_2.12@1.1.5.142
 - pkg:maven/io.suzaku/diode-react_sjs0.6_2.12@1.1.5.142?classifier=sources
+- pkg:maven/io.suzaku/diode-react_sjs0.6_2.12@1.1.6.142
+- pkg:maven/io.suzaku/diode-react_sjs0.6_2.12@1.1.6.142?classifier=sources
+- pkg:maven/io.suzaku/diode-react_sjs0.6_2.12@1.1.7.160
+- pkg:maven/io.suzaku/diode-react_sjs0.6_2.12@1.1.7.160?classifier=sources

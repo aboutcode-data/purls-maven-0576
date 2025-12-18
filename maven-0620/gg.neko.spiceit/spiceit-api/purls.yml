@@ -1,0 +1,2 @@
+- pkg:maven/gg.neko.spiceit/spiceit-api@0.1
+- pkg:maven/gg.neko.spiceit/spiceit-api@0.1?classifier=sources

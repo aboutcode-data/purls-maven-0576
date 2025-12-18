@@ -1,0 +1,4 @@
+- pkg:maven/org.rapidpm.vaadin/pdfviewer-for-flow@01.00.00-RPM
+- pkg:maven/org.rapidpm.vaadin/pdfviewer-for-flow@01.00.00-RPM?classifier=sources
+- pkg:maven/org.rapidpm.vaadin/pdfviewer-for-flow@01.00.01-RPM
+- pkg:maven/org.rapidpm.vaadin/pdfviewer-for-flow@01.00.01-RPM?classifier=sources

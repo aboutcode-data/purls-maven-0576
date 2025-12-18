@@ -1,0 +1,2 @@
+- pkg:maven/org.hotswapagent/hotswap-agent-wicket-plugin@1.4.0
+- pkg:maven/org.hotswapagent/hotswap-agent-wicket-plugin@1.4.0?classifier=sources

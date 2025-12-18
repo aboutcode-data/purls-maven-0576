@@ -8,3 +8,5 @@
 - pkg:maven/org.ogema.tools/timeseries-import@2.2.0_3?classifier=sources
 - pkg:maven/org.ogema.tools/timeseries-import@2.2.0_4
 - pkg:maven/org.ogema.tools/timeseries-import@2.2.0_4?classifier=sources
+- pkg:maven/org.ogema.tools/timeseries-import@2.2.1
+- pkg:maven/org.ogema.tools/timeseries-import@2.2.1?classifier=sources

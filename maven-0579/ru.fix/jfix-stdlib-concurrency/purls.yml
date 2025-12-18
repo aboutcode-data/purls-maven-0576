@@ -48,3 +48,4 @@
 - pkg:maven/ru.fix/jfix-stdlib-concurrency@1.0.8?classifier=sources
 - pkg:maven/ru.fix/jfix-stdlib-concurrency@1.0.9
 - pkg:maven/ru.fix/jfix-stdlib-concurrency@1.0.9?classifier=sources
+- pkg:maven/ru.fix/jfix-stdlib-concurrency@2.0.2?classifier=sources

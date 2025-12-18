@@ -14,3 +14,6 @@
 - pkg:maven/de.codecentric/spring-boot-admin-starter-server@2.1.4
 - pkg:maven/de.codecentric/spring-boot-admin-starter-server@2.1.5
 - pkg:maven/de.codecentric/spring-boot-admin-starter-server@2.1.6
+- pkg:maven/de.codecentric/spring-boot-admin-starter-server@2.2.0
+- pkg:maven/de.codecentric/spring-boot-admin-starter-server@2.2.1
+- pkg:maven/de.codecentric/spring-boot-admin-starter-server@2.2.2

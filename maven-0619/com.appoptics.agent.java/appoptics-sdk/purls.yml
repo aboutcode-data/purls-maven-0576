@@ -12,6 +12,14 @@
 - pkg:maven/com.appoptics.agent.java/appoptics-sdk@6.13.0?classifier=sources
 - pkg:maven/com.appoptics.agent.java/appoptics-sdk@6.14.0
 - pkg:maven/com.appoptics.agent.java/appoptics-sdk@6.14.0?classifier=sources
+- pkg:maven/com.appoptics.agent.java/appoptics-sdk@6.15.0
+- pkg:maven/com.appoptics.agent.java/appoptics-sdk@6.15.0?classifier=sources
+- pkg:maven/com.appoptics.agent.java/appoptics-sdk@6.16.0
+- pkg:maven/com.appoptics.agent.java/appoptics-sdk@6.16.0?classifier=sources
+- pkg:maven/com.appoptics.agent.java/appoptics-sdk@6.17.0
+- pkg:maven/com.appoptics.agent.java/appoptics-sdk@6.17.0?classifier=sources
+- pkg:maven/com.appoptics.agent.java/appoptics-sdk@6.18.0
+- pkg:maven/com.appoptics.agent.java/appoptics-sdk@6.18.0?classifier=sources
 - pkg:maven/com.appoptics.agent.java/appoptics-sdk@6.3.0
 - pkg:maven/com.appoptics.agent.java/appoptics-sdk@6.3.0?classifier=sources
 - pkg:maven/com.appoptics.agent.java/appoptics-sdk@6.5.0

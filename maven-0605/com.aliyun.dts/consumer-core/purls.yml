@@ -10,6 +10,12 @@
 - pkg:maven/com.aliyun.dts/consumer-core@4.8.2.12.4.beta2?classifier=sources
 - pkg:maven/com.aliyun.dts/consumer-core@4.8.2.12.4.beta?classifier=sources
 - pkg:maven/com.aliyun.dts/consumer-core@4.8.2.12.4?classifier=sources
+- pkg:maven/com.aliyun.dts/consumer-core@4.8.3.13.6
+- pkg:maven/com.aliyun.dts/consumer-core@4.8.3.13.6?classifier=sources
+- pkg:maven/com.aliyun.dts/consumer-core@4.8.3.13.7
+- pkg:maven/com.aliyun.dts/consumer-core@4.8.3.13.7?classifier=sources
+- pkg:maven/com.aliyun.dts/consumer-core@4.8.3.13.8
+- pkg:maven/com.aliyun.dts/consumer-core@4.8.3.13.8?classifier=sources
 - pkg:maven/com.aliyun.dts/consumer-core@5.0.0
 - pkg:maven/com.aliyun.dts/consumer-core@5.0.0.0.beta
 - pkg:maven/com.aliyun.dts/consumer-core@5.0.0.0.beta?classifier=sources

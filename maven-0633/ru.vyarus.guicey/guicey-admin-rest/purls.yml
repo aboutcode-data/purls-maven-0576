@@ -1,2 +1,4 @@
+- pkg:maven/ru.vyarus.guicey/guicey-admin-rest@5.0.0-0
 - pkg:maven/ru.vyarus.guicey/guicey-admin-rest@5.0.0-0-rc.2
 - pkg:maven/ru.vyarus.guicey/guicey-admin-rest@5.0.0-0-rc.2?classifier=sources
+- pkg:maven/ru.vyarus.guicey/guicey-admin-rest@5.0.0-0?classifier=sources
