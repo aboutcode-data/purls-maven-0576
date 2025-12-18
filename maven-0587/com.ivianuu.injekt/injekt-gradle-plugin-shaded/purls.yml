@@ -1,0 +1,3 @@
+- pkg:maven/com.ivianuu.injekt/injekt-gradle-plugin-shaded@0.0.1-dev649?classifier=sources
+- pkg:maven/com.ivianuu.injekt/injekt-gradle-plugin-shaded@0.0.1-dev654?classifier=sources
+- pkg:maven/com.ivianuu.injekt/injekt-gradle-plugin-shaded@0.0.1-dev655?classifier=sources

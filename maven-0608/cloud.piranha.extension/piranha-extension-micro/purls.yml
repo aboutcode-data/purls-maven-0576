@@ -10,6 +10,8 @@
 - pkg:maven/cloud.piranha.extension/piranha-extension-micro@20.9.0?classifier=sources
 - pkg:maven/cloud.piranha.extension/piranha-extension-micro@21.1.0
 - pkg:maven/cloud.piranha.extension/piranha-extension-micro@21.1.0?classifier=sources
+- pkg:maven/cloud.piranha.extension/piranha-extension-micro@21.10.0
+- pkg:maven/cloud.piranha.extension/piranha-extension-micro@21.10.0?classifier=sources
 - pkg:maven/cloud.piranha.extension/piranha-extension-micro@21.2.0
 - pkg:maven/cloud.piranha.extension/piranha-extension-micro@21.2.0?classifier=sources
 - pkg:maven/cloud.piranha.extension/piranha-extension-micro@21.3.0
@@ -24,3 +26,5 @@
 - pkg:maven/cloud.piranha.extension/piranha-extension-micro@21.7.0?classifier=sources
 - pkg:maven/cloud.piranha.extension/piranha-extension-micro@21.8.0
 - pkg:maven/cloud.piranha.extension/piranha-extension-micro@21.8.0?classifier=sources
+- pkg:maven/cloud.piranha.extension/piranha-extension-micro@21.9.0
+- pkg:maven/cloud.piranha.extension/piranha-extension-micro@21.9.0?classifier=sources

@@ -16,3 +16,9 @@
 - pkg:maven/icu.easyj/easyj-core@0.1.7?classifier=sources
 - pkg:maven/icu.easyj/easyj-core@0.1.8
 - pkg:maven/icu.easyj/easyj-core@0.1.8?classifier=sources
+- pkg:maven/icu.easyj/easyj-core@0.1.9
+- pkg:maven/icu.easyj/easyj-core@0.1.9?classifier=sources
+- pkg:maven/icu.easyj/easyj-core@0.2.0
+- pkg:maven/icu.easyj/easyj-core@0.2.0?classifier=sources
+- pkg:maven/icu.easyj/easyj-core@0.2.1
+- pkg:maven/icu.easyj/easyj-core@0.2.1?classifier=sources

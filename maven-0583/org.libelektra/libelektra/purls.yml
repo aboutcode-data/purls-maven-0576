@@ -5,4 +5,5 @@
 - pkg:maven/org.libelektra/libelektra@0.9.7-3?classifier=sources
 - pkg:maven/org.libelektra/libelektra@0.9.7-5?classifier=sources
 - pkg:maven/org.libelektra/libelektra@0.9.7?classifier=sources
+- pkg:maven/org.libelektra/libelektra@0.9.8?classifier=sources
 - pkg:maven/org.libelektra/libelektra@unspecified?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.lidengju/redeq@1.1.0-ALPHA
+- pkg:maven/com.lidengju/redeq@1.1.0-ALPHA?classifier=sources
+- pkg:maven/com.lidengju/redeq@1.1.1-ALPHA
+- pkg:maven/com.lidengju/redeq@1.1.1-ALPHA?classifier=sources

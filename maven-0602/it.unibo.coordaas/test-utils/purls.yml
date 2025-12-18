@@ -1,0 +1,2 @@
+- pkg:maven/it.unibo.coordaas/test-utils@0.7.0?classifier=sources
+- pkg:maven/it.unibo.coordaas/test-utils@0.7.1?classifier=sources

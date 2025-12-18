@@ -1,1 +1,2 @@
 - pkg:maven/org.opensearch.plugin/mapper-murmur3@1.0.0?classifier=sources
+- pkg:maven/org.opensearch.plugin/mapper-murmur3@1.1.0?classifier=sources

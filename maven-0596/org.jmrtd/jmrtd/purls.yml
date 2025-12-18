@@ -101,6 +101,8 @@
 - pkg:maven/org.jmrtd/jmrtd@0.7.3
 - pkg:maven/org.jmrtd/jmrtd@0.7.30
 - pkg:maven/org.jmrtd/jmrtd@0.7.30?classifier=sources
+- pkg:maven/org.jmrtd/jmrtd@0.7.31
+- pkg:maven/org.jmrtd/jmrtd@0.7.31?classifier=sources
 - pkg:maven/org.jmrtd/jmrtd@0.7.3?classifier=sources
 - pkg:maven/org.jmrtd/jmrtd@0.7.4
 - pkg:maven/org.jmrtd/jmrtd@0.7.4?classifier=sources

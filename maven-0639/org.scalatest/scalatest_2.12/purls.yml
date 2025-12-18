@@ -113,6 +113,8 @@
 - pkg:maven/org.scalatest/scalatest_2.12@3.2.0-SNAP9?classifier=sources
 - pkg:maven/org.scalatest/scalatest_2.12@3.2.0?classifier=sources
 - pkg:maven/org.scalatest/scalatest_2.12@3.2.1
+- pkg:maven/org.scalatest/scalatest_2.12@3.2.10
+- pkg:maven/org.scalatest/scalatest_2.12@3.2.10?classifier=sources
 - pkg:maven/org.scalatest/scalatest_2.12@3.2.1?classifier=sources
 - pkg:maven/org.scalatest/scalatest_2.12@3.2.2
 - pkg:maven/org.scalatest/scalatest_2.12@3.2.2-M1

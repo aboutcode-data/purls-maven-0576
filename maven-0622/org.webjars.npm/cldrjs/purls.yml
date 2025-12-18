@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/cldrjs@0.4.8?classifier=sources
 - pkg:maven/org.webjars.npm/cldrjs@0.5.0
 - pkg:maven/org.webjars.npm/cldrjs@0.5.0?classifier=sources
+- pkg:maven/org.webjars.npm/cldrjs@0.5.5
+- pkg:maven/org.webjars.npm/cldrjs@0.5.5?classifier=sources

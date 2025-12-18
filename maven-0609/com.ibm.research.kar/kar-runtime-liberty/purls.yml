@@ -6,3 +6,5 @@
 - pkg:maven/com.ibm.research.kar/kar-runtime-liberty@1.0.8?classifier=sources
 - pkg:maven/com.ibm.research.kar/kar-runtime-liberty@1.0.9
 - pkg:maven/com.ibm.research.kar/kar-runtime-liberty@1.0.9?classifier=sources
+- pkg:maven/com.ibm.research.kar/kar-runtime-liberty@1.1.0
+- pkg:maven/com.ibm.research.kar/kar-runtime-liberty@1.1.0?classifier=sources

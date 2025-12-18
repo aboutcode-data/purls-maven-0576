@@ -1,0 +1,2 @@
+- pkg:maven/de.redsix/dmn-check-gradle-plugin@1.2.0?classifier=sources
+- pkg:maven/de.redsix/dmn-check-gradle-plugin@1.2.1?classifier=sources

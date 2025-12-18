@@ -2,3 +2,4 @@
 - pkg:maven/com.bisnode.kafka.authorization/opa-authorizer@0.4.2?classifier=sources
 - pkg:maven/com.bisnode.kafka.authorization/opa-authorizer@1.0.0?classifier=sources
 - pkg:maven/com.bisnode.kafka.authorization/opa-authorizer@1.1.0?classifier=sources
+- pkg:maven/com.bisnode.kafka.authorization/opa-authorizer@1.2.0?classifier=sources

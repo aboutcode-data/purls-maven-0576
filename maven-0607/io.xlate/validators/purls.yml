@@ -4,3 +4,7 @@
 - pkg:maven/io.xlate/validators@0.0.2?classifier=sources
 - pkg:maven/io.xlate/validators@1.0.0
 - pkg:maven/io.xlate/validators@1.0.0?classifier=sources
+- pkg:maven/io.xlate/validators@1.1.0
+- pkg:maven/io.xlate/validators@1.1.0?classifier=sources
+- pkg:maven/io.xlate/validators@1.1.1
+- pkg:maven/io.xlate/validators@1.1.1?classifier=sources

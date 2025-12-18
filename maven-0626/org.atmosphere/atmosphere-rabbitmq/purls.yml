@@ -64,3 +64,5 @@
 - pkg:maven/org.atmosphere/atmosphere-rabbitmq@2.5.2?classifier=sources
 - pkg:maven/org.atmosphere/atmosphere-rabbitmq@2.6.4
 - pkg:maven/org.atmosphere/atmosphere-rabbitmq@2.6.4?classifier=sources
+- pkg:maven/org.atmosphere/atmosphere-rabbitmq@2.6.5
+- pkg:maven/org.atmosphere/atmosphere-rabbitmq@2.6.5?classifier=sources

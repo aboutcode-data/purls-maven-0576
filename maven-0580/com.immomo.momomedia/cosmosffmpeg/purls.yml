@@ -1,2 +1,6 @@
 - pkg:maven/com.immomo.momomedia/cosmosffmpeg@cosmosffmpeg_1.0.7_2020-0429-18166?classifier=sources
 - pkg:maven/com.immomo.momomedia/cosmosffmpeg@cosmosffmpeg_1.0.7_2020-0429-18166?type=aar
+- pkg:maven/com.immomo.momomedia/cosmosffmpeg@cosmosffmpeg_1.0.7_2021-0429-18166?classifier=sources
+- pkg:maven/com.immomo.momomedia/cosmosffmpeg@cosmosffmpeg_1.0.7_2021-0429-18166?type=aar
+- pkg:maven/com.immomo.momomedia/cosmosffmpeg@cosmosffmpeg_1.0.7_2021-1025-18166?classifier=sources
+- pkg:maven/com.immomo.momomedia/cosmosffmpeg@cosmosffmpeg_1.0.7_2021-1025-18166?type=aar

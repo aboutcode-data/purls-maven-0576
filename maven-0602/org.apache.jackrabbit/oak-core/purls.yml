@@ -248,6 +248,8 @@
 - pkg:maven/org.apache.jackrabbit/oak-core@1.22.7?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-core@1.22.8
 - pkg:maven/org.apache.jackrabbit/oak-core@1.22.8?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-core@1.22.9
+- pkg:maven/org.apache.jackrabbit/oak-core@1.22.9?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-core@1.24.0
 - pkg:maven/org.apache.jackrabbit/oak-core@1.24.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-core@1.26.0
@@ -497,6 +499,8 @@
 - pkg:maven/org.apache.jackrabbit/oak-core@1.8.23?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-core@1.8.24
 - pkg:maven/org.apache.jackrabbit/oak-core@1.8.24?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-core@1.8.25
+- pkg:maven/org.apache.jackrabbit/oak-core@1.8.25?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-core@1.8.2?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-core@1.8.3
 - pkg:maven/org.apache.jackrabbit/oak-core@1.8.3?classifier=sources

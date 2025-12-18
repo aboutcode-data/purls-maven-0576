@@ -1,0 +1,5 @@
+- pkg:maven/me.nikhilchaudhari/k5-compose@1.0.0-alpha01?classifier=sources
+- pkg:maven/me.nikhilchaudhari/k5-compose@1.0.0-alpha2.1?classifier=sources
+- pkg:maven/me.nikhilchaudhari/k5-compose@1.0.0-alpha2.2?classifier=sources
+- pkg:maven/me.nikhilchaudhari/k5-compose@1.0.0-alpha2.3?classifier=sources
+- pkg:maven/me.nikhilchaudhari/k5-compose@1.0.0-alpha2?classifier=sources

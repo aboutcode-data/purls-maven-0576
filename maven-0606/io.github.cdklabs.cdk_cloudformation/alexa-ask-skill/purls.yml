@@ -1,0 +1,2 @@
+- pkg:maven/io.github.cdklabs.cdk_cloudformation/alexa-ask-skill@0.0.0-alpha.1
+- pkg:maven/io.github.cdklabs.cdk_cloudformation/alexa-ask-skill@0.0.0-alpha.1?classifier=sources

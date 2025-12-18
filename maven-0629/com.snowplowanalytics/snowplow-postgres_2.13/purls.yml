@@ -24,3 +24,5 @@
 - pkg:maven/com.snowplowanalytics/snowplow-postgres_2.13@0.3.1-rc1
 - pkg:maven/com.snowplowanalytics/snowplow-postgres_2.13@0.3.1-rc1?classifier=sources
 - pkg:maven/com.snowplowanalytics/snowplow-postgres_2.13@0.3.1?classifier=sources
+- pkg:maven/com.snowplowanalytics/snowplow-postgres_2.13@0.3.2-rc1
+- pkg:maven/com.snowplowanalytics/snowplow-postgres_2.13@0.3.2-rc1?classifier=sources

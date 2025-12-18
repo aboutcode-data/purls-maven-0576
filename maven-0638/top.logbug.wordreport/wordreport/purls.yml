@@ -1,0 +1,2 @@
+- pkg:maven/top.logbug.wordreport/wordreport@1.0
+- pkg:maven/top.logbug.wordreport/wordreport@1.0?classifier=sources

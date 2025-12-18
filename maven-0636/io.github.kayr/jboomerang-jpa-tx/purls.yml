@@ -1,0 +1,2 @@
+- pkg:maven/io.github.kayr/jboomerang-jpa-tx@0.8
+- pkg:maven/io.github.kayr/jboomerang-jpa-tx@0.8?classifier=sources

@@ -60,3 +60,7 @@
 - pkg:maven/com.ejlchina/okhttps@3.1.4?classifier=sources
 - pkg:maven/com.ejlchina/okhttps@3.1.5
 - pkg:maven/com.ejlchina/okhttps@3.1.5?classifier=sources
+- pkg:maven/com.ejlchina/okhttps@3.2.0
+- pkg:maven/com.ejlchina/okhttps@3.2.0?classifier=sources
+- pkg:maven/com.ejlchina/okhttps@3.3.0
+- pkg:maven/com.ejlchina/okhttps@3.3.0?classifier=sources

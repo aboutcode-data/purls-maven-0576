@@ -6,6 +6,8 @@
 - pkg:maven/org.opencastproject/opencast-statistics-export-service-api@10.2?classifier=sources
 - pkg:maven/org.opencastproject/opencast-statistics-export-service-api@10.3
 - pkg:maven/org.opencastproject/opencast-statistics-export-service-api@10.3?classifier=sources
+- pkg:maven/org.opencastproject/opencast-statistics-export-service-api@10.4
+- pkg:maven/org.opencastproject/opencast-statistics-export-service-api@10.4?classifier=sources
 - pkg:maven/org.opencastproject/opencast-statistics-export-service-api@9.0
 - pkg:maven/org.opencastproject/opencast-statistics-export-service-api@9.0?classifier=sources
 - pkg:maven/org.opencastproject/opencast-statistics-export-service-api@9.1
@@ -22,3 +24,5 @@
 - pkg:maven/org.opencastproject/opencast-statistics-export-service-api@9.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-statistics-export-service-api@9.7
 - pkg:maven/org.opencastproject/opencast-statistics-export-service-api@9.7?classifier=sources
+- pkg:maven/org.opencastproject/opencast-statistics-export-service-api@9.9
+- pkg:maven/org.opencastproject/opencast-statistics-export-service-api@9.9?classifier=sources

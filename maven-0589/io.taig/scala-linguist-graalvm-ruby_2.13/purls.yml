@@ -1,5 +1,15 @@
 - pkg:maven/io.taig/scala-linguist-graalvm-ruby_2.13@0.0.10
 - pkg:maven/io.taig/scala-linguist-graalvm-ruby_2.13@0.0.10?classifier=sources
+- pkg:maven/io.taig/scala-linguist-graalvm-ruby_2.13@0.0.13
+- pkg:maven/io.taig/scala-linguist-graalvm-ruby_2.13@0.0.13?classifier=sources
+- pkg:maven/io.taig/scala-linguist-graalvm-ruby_2.13@0.0.14
+- pkg:maven/io.taig/scala-linguist-graalvm-ruby_2.13@0.0.14?classifier=sources
+- pkg:maven/io.taig/scala-linguist-graalvm-ruby_2.13@0.0.15
+- pkg:maven/io.taig/scala-linguist-graalvm-ruby_2.13@0.0.15?classifier=sources
+- pkg:maven/io.taig/scala-linguist-graalvm-ruby_2.13@0.0.17
+- pkg:maven/io.taig/scala-linguist-graalvm-ruby_2.13@0.0.17?classifier=sources
+- pkg:maven/io.taig/scala-linguist-graalvm-ruby_2.13@0.0.18
+- pkg:maven/io.taig/scala-linguist-graalvm-ruby_2.13@0.0.18?classifier=sources
 - pkg:maven/io.taig/scala-linguist-graalvm-ruby_2.13@0.0.5
 - pkg:maven/io.taig/scala-linguist-graalvm-ruby_2.13@0.0.5?classifier=sources
 - pkg:maven/io.taig/scala-linguist-graalvm-ruby_2.13@0.0.6

@@ -106,6 +106,10 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-linkedmall@2.12.8?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-linkedmall@2.12.9
 - pkg:maven/com.aliyun/aliyun-java-sdk-linkedmall@2.12.9?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-linkedmall@2.13.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-linkedmall@2.13.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-linkedmall@2.13.1
+- pkg:maven/com.aliyun/aliyun-java-sdk-linkedmall@2.13.1?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-linkedmall@2.2.0
 - pkg:maven/com.aliyun/aliyun-java-sdk-linkedmall@2.2.0?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-linkedmall@2.2.1

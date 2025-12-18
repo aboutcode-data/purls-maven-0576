@@ -2,3 +2,5 @@
 - pkg:maven/io.github.astrapi69/silly-strings@5.6?classifier=sources
 - pkg:maven/io.github.astrapi69/silly-strings@6
 - pkg:maven/io.github.astrapi69/silly-strings@6?classifier=sources
+- pkg:maven/io.github.astrapi69/silly-strings@8.1
+- pkg:maven/io.github.astrapi69/silly-strings@8.1?classifier=sources

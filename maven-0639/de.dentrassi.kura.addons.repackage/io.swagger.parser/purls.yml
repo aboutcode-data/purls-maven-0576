@@ -3,3 +3,6 @@
 - pkg:maven/de.dentrassi.kura.addons.repackage/io.swagger.parser@0.6.2
 - pkg:maven/de.dentrassi.kura.addons.repackage/io.swagger.parser@0.6.3
 - pkg:maven/de.dentrassi.kura.addons.repackage/io.swagger.parser@0.7.0
+- pkg:maven/de.dentrassi.kura.addons.repackage/io.swagger.parser@0.8.0
+- pkg:maven/de.dentrassi.kura.addons.repackage/io.swagger.parser@0.8.2
+- pkg:maven/de.dentrassi.kura.addons.repackage/io.swagger.parser@0.8.3

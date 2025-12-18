@@ -32,3 +32,7 @@
 - pkg:maven/com.helger/phoss-smp-backend-mongodb@5.3.2?classifier=sources
 - pkg:maven/com.helger/phoss-smp-backend-mongodb@5.3.3
 - pkg:maven/com.helger/phoss-smp-backend-mongodb@5.3.3?classifier=sources
+- pkg:maven/com.helger/phoss-smp-backend-mongodb@5.4.0
+- pkg:maven/com.helger/phoss-smp-backend-mongodb@5.4.0?classifier=sources
+- pkg:maven/com.helger/phoss-smp-backend-mongodb@5.4.1
+- pkg:maven/com.helger/phoss-smp-backend-mongodb@5.4.1?classifier=sources

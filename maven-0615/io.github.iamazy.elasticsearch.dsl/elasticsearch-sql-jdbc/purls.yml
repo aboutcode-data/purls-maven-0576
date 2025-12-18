@@ -30,6 +30,12 @@
 - pkg:maven/io.github.iamazy.elasticsearch.dsl/elasticsearch-sql-jdbc@7.13.4?classifier=sources
 - pkg:maven/io.github.iamazy.elasticsearch.dsl/elasticsearch-sql-jdbc@7.14.0
 - pkg:maven/io.github.iamazy.elasticsearch.dsl/elasticsearch-sql-jdbc@7.14.0?classifier=sources
+- pkg:maven/io.github.iamazy.elasticsearch.dsl/elasticsearch-sql-jdbc@7.14.1
+- pkg:maven/io.github.iamazy.elasticsearch.dsl/elasticsearch-sql-jdbc@7.14.1?classifier=sources
+- pkg:maven/io.github.iamazy.elasticsearch.dsl/elasticsearch-sql-jdbc@7.14.2
+- pkg:maven/io.github.iamazy.elasticsearch.dsl/elasticsearch-sql-jdbc@7.14.2?classifier=sources
+- pkg:maven/io.github.iamazy.elasticsearch.dsl/elasticsearch-sql-jdbc@7.15.0
+- pkg:maven/io.github.iamazy.elasticsearch.dsl/elasticsearch-sql-jdbc@7.15.0?classifier=sources
 - pkg:maven/io.github.iamazy.elasticsearch.dsl/elasticsearch-sql-jdbc@7.8.1
 - pkg:maven/io.github.iamazy.elasticsearch.dsl/elasticsearch-sql-jdbc@7.8.1.1
 - pkg:maven/io.github.iamazy.elasticsearch.dsl/elasticsearch-sql-jdbc@7.8.1.1?classifier=sources

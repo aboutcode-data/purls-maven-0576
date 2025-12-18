@@ -1,2 +1,4 @@
 - pkg:maven/com.immomo.cosmos.mediax/beautyutils@1.0.2_07151537?classifier=sources
 - pkg:maven/com.immomo.cosmos.mediax/beautyutils@1.0.2_07151537?type=aar
+- pkg:maven/com.immomo.cosmos.mediax/beautyutils@1.0.3_10201722?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/beautyutils@1.0.3_10201722?type=aar

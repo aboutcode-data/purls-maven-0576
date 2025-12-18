@@ -1,0 +1,8 @@
+- pkg:maven/com.enbatis/dynamic-datasource-spring-boot-starter@1.0.0
+- pkg:maven/com.enbatis/dynamic-datasource-spring-boot-starter@1.0.0?classifier=sources
+- pkg:maven/com.enbatis/dynamic-datasource-spring-boot-starter@1.1.0
+- pkg:maven/com.enbatis/dynamic-datasource-spring-boot-starter@1.1.0?classifier=sources
+- pkg:maven/com.enbatis/dynamic-datasource-spring-boot-starter@1.2.0
+- pkg:maven/com.enbatis/dynamic-datasource-spring-boot-starter@1.2.0?classifier=sources
+- pkg:maven/com.enbatis/dynamic-datasource-spring-boot-starter@1.4.0
+- pkg:maven/com.enbatis/dynamic-datasource-spring-boot-starter@1.4.0?classifier=sources

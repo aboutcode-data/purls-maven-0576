@@ -1,0 +1,2 @@
+- pkg:maven/io.github.dobrynya/zio-jms_3@0.2
+- pkg:maven/io.github.dobrynya/zio-jms_3@0.2?classifier=sources

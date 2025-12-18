@@ -1,0 +1,2 @@
+- pkg:maven/com.github.618lf/swak-job@1.1.2_final
+- pkg:maven/com.github.618lf/swak-job@1.1.2_final?classifier=sources

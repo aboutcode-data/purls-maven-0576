@@ -1,0 +1,1 @@
+- pkg:maven/org.mockito/mockito-proxy@4.0.0?classifier=sources

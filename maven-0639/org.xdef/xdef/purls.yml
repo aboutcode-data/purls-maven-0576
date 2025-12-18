@@ -37,3 +37,6 @@
 - pkg:maven/org.xdef/xdef@40.1.7
 - pkg:maven/org.xdef/xdef@40.1.7?classifier=sources
 - pkg:maven/org.xdef/xdef@40.1.7?classifier=src&type=zip
+- pkg:maven/org.xdef/xdef@40.1.8
+- pkg:maven/org.xdef/xdef@40.1.8?classifier=sources
+- pkg:maven/org.xdef/xdef@40.1.8?classifier=src&type=zip

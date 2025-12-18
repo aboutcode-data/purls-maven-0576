@@ -1,0 +1,4 @@
+- pkg:maven/com.pancakedb/spark-pancake-db-connector_2.12@0.0.0-alpha.0
+- pkg:maven/com.pancakedb/spark-pancake-db-connector_2.12@0.0.0-alpha.0-full
+- pkg:maven/com.pancakedb/spark-pancake-db-connector_2.12@0.0.0-alpha.0-full?classifier=sources
+- pkg:maven/com.pancakedb/spark-pancake-db-connector_2.12@0.0.0-alpha.0?classifier=sources

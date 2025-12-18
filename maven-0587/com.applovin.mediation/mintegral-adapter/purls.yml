@@ -20,3 +20,5 @@
 - pkg:maven/com.applovin.mediation/mintegral-adapter@15.6.31.0?type=aar
 - pkg:maven/com.applovin.mediation/mintegral-adapter@15.7.11.0?classifier=sources
 - pkg:maven/com.applovin.mediation/mintegral-adapter@15.7.11.0?type=aar
+- pkg:maven/com.applovin.mediation/mintegral-adapter@15.7.21.0?classifier=sources
+- pkg:maven/com.applovin.mediation/mintegral-adapter@15.7.21.0?type=aar

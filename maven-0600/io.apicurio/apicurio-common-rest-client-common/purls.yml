@@ -1,0 +1,2 @@
+- pkg:maven/io.apicurio/apicurio-common-rest-client-common@0.0.9.Final
+- pkg:maven/io.apicurio/apicurio-common-rest-client-common@0.0.9.Final?classifier=sources

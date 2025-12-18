@@ -160,6 +160,8 @@
 - pkg:maven/com.groupbyinc/common-blip-client@193?classifier=sources
 - pkg:maven/com.groupbyinc/common-blip-client@194
 - pkg:maven/com.groupbyinc/common-blip-client@194?classifier=sources
+- pkg:maven/com.groupbyinc/common-blip-client@195
+- pkg:maven/com.groupbyinc/common-blip-client@195?classifier=sources
 - pkg:maven/com.groupbyinc/common-blip-client@55
 - pkg:maven/com.groupbyinc/common-blip-client@55?classifier=sources
 - pkg:maven/com.groupbyinc/common-blip-client@56

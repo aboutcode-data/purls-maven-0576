@@ -38,3 +38,11 @@
 - pkg:maven/com.funnelback/funnelback-shared@16.5.2135?classifier=sources
 - pkg:maven/com.funnelback/funnelback-shared@16.6.0
 - pkg:maven/com.funnelback/funnelback-shared@16.6.0?classifier=sources
+- pkg:maven/com.funnelback/funnelback-shared@16.7.2139
+- pkg:maven/com.funnelback/funnelback-shared@16.7.2139?classifier=sources
+- pkg:maven/com.funnelback/funnelback-shared@16.7.2141
+- pkg:maven/com.funnelback/funnelback-shared@16.7.2141.1
+- pkg:maven/com.funnelback/funnelback-shared@16.7.2141.1?classifier=sources
+- pkg:maven/com.funnelback/funnelback-shared@16.7.2141?classifier=sources
+- pkg:maven/com.funnelback/funnelback-shared@16.7.2142
+- pkg:maven/com.funnelback/funnelback-shared@16.7.2142?classifier=sources

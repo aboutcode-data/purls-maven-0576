@@ -56,3 +56,5 @@
 - pkg:maven/edu.berkeley.cs/firrtl-diagrammer_2.12@1.3.3?classifier=sources
 - pkg:maven/edu.berkeley.cs/firrtl-diagrammer_2.12@1.3.4
 - pkg:maven/edu.berkeley.cs/firrtl-diagrammer_2.12@1.3.4?classifier=sources
+- pkg:maven/edu.berkeley.cs/firrtl-diagrammer_2.12@1.5.0-RC1
+- pkg:maven/edu.berkeley.cs/firrtl-diagrammer_2.12@1.5.0-RC1?classifier=sources

@@ -20,3 +20,7 @@
 - pkg:maven/hu.advancedweb/scott@3.5.0?classifier=sources
 - pkg:maven/hu.advancedweb/scott@3.6.0
 - pkg:maven/hu.advancedweb/scott@3.6.0?classifier=sources
+- pkg:maven/hu.advancedweb/scott@4.0.0
+- pkg:maven/hu.advancedweb/scott@4.0.0?classifier=sources
+- pkg:maven/hu.advancedweb/scott@4.0.1
+- pkg:maven/hu.advancedweb/scott@4.0.1?classifier=sources

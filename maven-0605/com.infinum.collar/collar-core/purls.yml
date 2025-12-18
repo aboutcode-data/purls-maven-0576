@@ -6,3 +6,4 @@
 - pkg:maven/com.infinum.collar/collar-core@1.2.8?classifier=sources
 - pkg:maven/com.infinum.collar/collar-core@1.2.9?classifier=sources
 - pkg:maven/com.infinum.collar/collar-core@1.3.0?classifier=sources
+- pkg:maven/com.infinum.collar/collar-core@1.3.1?classifier=sources

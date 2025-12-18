@@ -1,0 +1,2 @@
+- pkg:maven/org.jitsi/jitsi-android-osgi@1.0-6-gfd0a759
+- pkg:maven/org.jitsi/jitsi-android-osgi@1.0-6-gfd0a759?classifier=sources

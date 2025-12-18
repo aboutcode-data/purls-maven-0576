@@ -1,3 +1,13 @@
+- pkg:maven/com.ibeetl/sql-sample-quickstart@3.10.0-RELEASE
+- pkg:maven/com.ibeetl/sql-sample-quickstart@3.10.0-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-sample-quickstart@3.10.1-RELEASE
+- pkg:maven/com.ibeetl/sql-sample-quickstart@3.10.1-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-sample-quickstart@3.11.0-RELEASE
+- pkg:maven/com.ibeetl/sql-sample-quickstart@3.11.0-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-sample-quickstart@3.11.1-RELEASE
+- pkg:maven/com.ibeetl/sql-sample-quickstart@3.11.1-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-sample-quickstart@3.11.2-RELEASE
+- pkg:maven/com.ibeetl/sql-sample-quickstart@3.11.2-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-sample-quickstart@3.2.10-RELEASE
 - pkg:maven/com.ibeetl/sql-sample-quickstart@3.2.10-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-sample-quickstart@3.2.11-RELEASE

@@ -110,3 +110,7 @@
 - pkg:maven/com.apptimize.segment/apptimize-segment-integration@3.8.2?type=aar
 - pkg:maven/com.apptimize.segment/apptimize-segment-integration@3.9.0?classifier=sources
 - pkg:maven/com.apptimize.segment/apptimize-segment-integration@3.9.0?type=aar
+- pkg:maven/com.apptimize.segment/apptimize-segment-integration@3.9.2?classifier=sources
+- pkg:maven/com.apptimize.segment/apptimize-segment-integration@3.9.2?type=aar
+- pkg:maven/com.apptimize.segment/apptimize-segment-integration@3.9.6?classifier=sources
+- pkg:maven/com.apptimize.segment/apptimize-segment-integration@3.9.6?type=aar

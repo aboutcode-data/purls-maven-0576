@@ -6,4 +6,7 @@
 - pkg:maven/com.metricstream.jdbc/sqlbuilder-mock@2.1.1?classifier=sources
 - pkg:maven/com.metricstream.jdbc/sqlbuilder-mock@2.2.0?classifier=sources
 - pkg:maven/com.metricstream.jdbc/sqlbuilder-mock@2.3.0?classifier=sources
+- pkg:maven/com.metricstream.jdbc/sqlbuilder-mock@2.4.0?classifier=sources
+- pkg:maven/com.metricstream.jdbc/sqlbuilder-mock@2.6.0?classifier=sources
 - pkg:maven/com.metricstream.jdbc/sqlbuilder-mock@3.0.1?classifier=sources
+- pkg:maven/com.metricstream.jdbc/sqlbuilder-mock@3.2.2?classifier=sources

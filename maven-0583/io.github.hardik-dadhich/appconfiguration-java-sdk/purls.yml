@@ -1,0 +1,2 @@
+- pkg:maven/io.github.hardik-dadhich/appconfiguration-java-sdk@0.2.0
+- pkg:maven/io.github.hardik-dadhich/appconfiguration-java-sdk@0.2.0?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/software.amazon.awscdk/lightsail@1.127.0
+- pkg:maven/software.amazon.awscdk/lightsail@1.127.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/lightsail@1.128.0
+- pkg:maven/software.amazon.awscdk/lightsail@1.128.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/lightsail@1.129.0
+- pkg:maven/software.amazon.awscdk/lightsail@1.129.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/lightsail@1.130.0
+- pkg:maven/software.amazon.awscdk/lightsail@1.130.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/lightsail@1.131.0
+- pkg:maven/software.amazon.awscdk/lightsail@1.131.0?classifier=sources

@@ -241,3 +241,6 @@
 - pkg:maven/org.glassfish.jersey.examples/jersey-ejb@3.0.2?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/jersey-ejb@3.0.2?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/jersey-ejb@3.0.2?type=war
+- pkg:maven/org.glassfish.jersey.examples/jersey-ejb@3.0.3?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/jersey-ejb@3.0.3?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/jersey-ejb@3.0.3?type=war

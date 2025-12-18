@@ -1,0 +1,2 @@
+- pkg:maven/com.sandinh/subfolder-evolutions_2_6_2.12@2.8.1
+- pkg:maven/com.sandinh/subfolder-evolutions_2_6_2.12@2.8.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/in.dragonbra/javasteam-tf@1.0.0
+- pkg:maven/in.dragonbra/javasteam-tf@1.0.0?classifier=sources

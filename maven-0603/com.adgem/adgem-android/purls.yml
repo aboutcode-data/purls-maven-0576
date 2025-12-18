@@ -1,0 +1,2 @@
+- pkg:maven/com.adgem/adgem-android@3.0.0?classifier=sources
+- pkg:maven/com.adgem/adgem-android@3.0.1?classifier=sources

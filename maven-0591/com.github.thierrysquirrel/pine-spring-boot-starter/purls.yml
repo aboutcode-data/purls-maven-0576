@@ -48,3 +48,7 @@
 - pkg:maven/com.github.thierrysquirrel/pine-spring-boot-starter@1.4.0.5-RELEASE?classifier=sources
 - pkg:maven/com.github.thierrysquirrel/pine-spring-boot-starter@1.4.0.6-RELEASE
 - pkg:maven/com.github.thierrysquirrel/pine-spring-boot-starter@1.4.0.6-RELEASE?classifier=sources
+- pkg:maven/com.github.thierrysquirrel/pine-spring-boot-starter@1.4.0.7-RELEASE
+- pkg:maven/com.github.thierrysquirrel/pine-spring-boot-starter@1.4.0.7-RELEASE?classifier=sources
+- pkg:maven/com.github.thierrysquirrel/pine-spring-boot-starter@1.4.0.8-RELEASE
+- pkg:maven/com.github.thierrysquirrel/pine-spring-boot-starter@1.4.0.8-RELEASE?classifier=sources

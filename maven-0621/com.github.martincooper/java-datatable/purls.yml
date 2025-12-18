@@ -1,2 +1,4 @@
 - pkg:maven/com.github.martincooper/java-datatable@0.9.0
 - pkg:maven/com.github.martincooper/java-datatable@0.9.0?classifier=sources
+- pkg:maven/com.github.martincooper/java-datatable@1.0.0
+- pkg:maven/com.github.martincooper/java-datatable@1.0.0?classifier=sources

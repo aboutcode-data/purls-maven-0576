@@ -1,3 +1,9 @@
+- pkg:maven/hu.simplexion.zakadabar/accounts-jvm@2021.10.12?classifier=sources
+- pkg:maven/hu.simplexion.zakadabar/accounts-jvm@2021.10.14?classifier=sources
+- pkg:maven/hu.simplexion.zakadabar/accounts-jvm@2021.10.19?classifier=sources
+- pkg:maven/hu.simplexion.zakadabar/accounts-jvm@2021.10.28?classifier=sources
+- pkg:maven/hu.simplexion.zakadabar/accounts-jvm@2021.11.03?classifier=sources
+- pkg:maven/hu.simplexion.zakadabar/accounts-jvm@2021.11.5?classifier=sources
 - pkg:maven/hu.simplexion.zakadabar/accounts-jvm@2021.6.15?classifier=sources
 - pkg:maven/hu.simplexion.zakadabar/accounts-jvm@2021.6.16?classifier=sources
 - pkg:maven/hu.simplexion.zakadabar/accounts-jvm@2021.6.1?classifier=sources
@@ -18,3 +24,4 @@
 - pkg:maven/hu.simplexion.zakadabar/accounts-jvm@2021.8.31?classifier=sources
 - pkg:maven/hu.simplexion.zakadabar/accounts-jvm@2021.8.4?classifier=sources
 - pkg:maven/hu.simplexion.zakadabar/accounts-jvm@2021.9.15?classifier=sources
+- pkg:maven/hu.simplexion.zakadabar/accounts-jvm@2021.9.21?classifier=sources

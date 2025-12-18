@@ -1,6 +1,8 @@
 - pkg:maven/io.github.dontshavetheyak/jenkins-std-lib@0.0.0-DEV?classifier=sources
 - pkg:maven/io.github.dontshavetheyak/jenkins-std-lib@0.1.1
 - pkg:maven/io.github.dontshavetheyak/jenkins-std-lib@0.1.1?classifier=sources
+- pkg:maven/io.github.dontshavetheyak/jenkins-std-lib@0.10.0?classifier=sources
+- pkg:maven/io.github.dontshavetheyak/jenkins-std-lib@0.11.0?classifier=sources
 - pkg:maven/io.github.dontshavetheyak/jenkins-std-lib@0.2.13?classifier=sources
 - pkg:maven/io.github.dontshavetheyak/jenkins-std-lib@0.2.1?classifier=sources
 - pkg:maven/io.github.dontshavetheyak/jenkins-std-lib@0.2.3?classifier=sources
@@ -14,4 +16,5 @@
 - pkg:maven/io.github.dontshavetheyak/jenkins-std-lib@0.7.1?classifier=sources
 - pkg:maven/io.github.dontshavetheyak/jenkins-std-lib@0.7.2?classifier=sources
 - pkg:maven/io.github.dontshavetheyak/jenkins-std-lib@0.8.0?classifier=sources
+- pkg:maven/io.github.dontshavetheyak/jenkins-std-lib@0.9.0?classifier=sources
 - pkg:maven/io.github.dontshavetheyak/jenkins-std-lib@v0.2.0?classifier=sources

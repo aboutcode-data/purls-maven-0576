@@ -280,6 +280,10 @@
 - pkg:maven/org.drools/drools-workbench-models-commons@7.6.0.Final?classifier=sources
 - pkg:maven/org.drools/drools-workbench-models-commons@7.6.0.t022
 - pkg:maven/org.drools/drools-workbench-models-commons@7.6.0.t022?classifier=sources
+- pkg:maven/org.drools/drools-workbench-models-commons@7.60.0.Final
+- pkg:maven/org.drools/drools-workbench-models-commons@7.60.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-workbench-models-commons@7.61.0.Final
+- pkg:maven/org.drools/drools-workbench-models-commons@7.61.0.Final?classifier=sources
 - pkg:maven/org.drools/drools-workbench-models-commons@7.7.0.Final
 - pkg:maven/org.drools/drools-workbench-models-commons@7.7.0.Final?classifier=sources
 - pkg:maven/org.drools/drools-workbench-models-commons@7.8.0.Final

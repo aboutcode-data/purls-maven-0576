@@ -1,0 +1,4 @@
+- pkg:maven/com.github.gun88/fitnesse-radius-fixture@1.0.0
+- pkg:maven/com.github.gun88/fitnesse-radius-fixture@1.0.0?classifier=sources
+- pkg:maven/com.github.gun88/fitnesse-radius-fixture@1.0.1
+- pkg:maven/com.github.gun88/fitnesse-radius-fixture@1.0.1?classifier=sources

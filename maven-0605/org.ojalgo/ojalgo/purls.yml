@@ -86,3 +86,9 @@
 - pkg:maven/org.ojalgo/ojalgo@49.0.2?classifier=sources
 - pkg:maven/org.ojalgo/ojalgo@49.0.3
 - pkg:maven/org.ojalgo/ojalgo@49.0.3?classifier=sources
+- pkg:maven/org.ojalgo/ojalgo@49.1.0
+- pkg:maven/org.ojalgo/ojalgo@49.1.0?classifier=sources
+- pkg:maven/org.ojalgo/ojalgo@49.2.0
+- pkg:maven/org.ojalgo/ojalgo@49.2.0?classifier=sources
+- pkg:maven/org.ojalgo/ojalgo@49.2.1
+- pkg:maven/org.ojalgo/ojalgo@49.2.1?classifier=sources

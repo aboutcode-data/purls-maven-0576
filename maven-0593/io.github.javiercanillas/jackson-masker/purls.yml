@@ -1,0 +1,2 @@
+- pkg:maven/io.github.javiercanillas/jackson-masker@0.9.4
+- pkg:maven/io.github.javiercanillas/jackson-masker@0.9.4?classifier=sources

@@ -22,3 +22,7 @@
 - pkg:maven/io.helidon.integrations.db/ojdbc@2.3.2?classifier=sources
 - pkg:maven/io.helidon.integrations.db/ojdbc@2.3.3
 - pkg:maven/io.helidon.integrations.db/ojdbc@2.3.3?classifier=sources
+- pkg:maven/io.helidon.integrations.db/ojdbc@2.3.4
+- pkg:maven/io.helidon.integrations.db/ojdbc@2.3.4?classifier=sources
+- pkg:maven/io.helidon.integrations.db/ojdbc@2.4.0
+- pkg:maven/io.helidon.integrations.db/ojdbc@2.4.0?classifier=sources

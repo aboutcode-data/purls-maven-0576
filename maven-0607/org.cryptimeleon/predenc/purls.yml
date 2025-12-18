@@ -1,1 +1,2 @@
 - pkg:maven/org.cryptimeleon/predenc@1.0.0?classifier=sources
+- pkg:maven/org.cryptimeleon/predenc@2.0.0?classifier=sources

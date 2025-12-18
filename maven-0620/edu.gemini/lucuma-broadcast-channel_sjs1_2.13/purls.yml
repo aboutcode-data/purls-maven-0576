@@ -10,3 +10,7 @@
 - pkg:maven/edu.gemini/lucuma-broadcast-channel_sjs1_2.13@0.2.4?classifier=sources
 - pkg:maven/edu.gemini/lucuma-broadcast-channel_sjs1_2.13@0.3.0
 - pkg:maven/edu.gemini/lucuma-broadcast-channel_sjs1_2.13@0.3.0?classifier=sources
+- pkg:maven/edu.gemini/lucuma-broadcast-channel_sjs1_2.13@0.3.1
+- pkg:maven/edu.gemini/lucuma-broadcast-channel_sjs1_2.13@0.3.1?classifier=sources
+- pkg:maven/edu.gemini/lucuma-broadcast-channel_sjs1_2.13@0.3.2
+- pkg:maven/edu.gemini/lucuma-broadcast-channel_sjs1_2.13@0.3.2?classifier=sources

@@ -36,6 +36,8 @@
 - pkg:maven/org.sonatype.buildsupport/licenses@26?classifier=sources
 - pkg:maven/org.sonatype.buildsupport/licenses@27
 - pkg:maven/org.sonatype.buildsupport/licenses@27?classifier=sources
+- pkg:maven/org.sonatype.buildsupport/licenses@28
+- pkg:maven/org.sonatype.buildsupport/licenses@28?classifier=sources
 - pkg:maven/org.sonatype.buildsupport/licenses@3
 - pkg:maven/org.sonatype.buildsupport/licenses@3?classifier=sources
 - pkg:maven/org.sonatype.buildsupport/licenses@4

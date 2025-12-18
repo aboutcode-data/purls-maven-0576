@@ -179,6 +179,8 @@
 - pkg:maven/org.jooq/jooq-codegen@3.14.13?classifier=sources
 - pkg:maven/org.jooq/jooq-codegen@3.14.14
 - pkg:maven/org.jooq/jooq-codegen@3.14.14?classifier=sources
+- pkg:maven/org.jooq/jooq-codegen@3.14.15
+- pkg:maven/org.jooq/jooq-codegen@3.14.15?classifier=sources
 - pkg:maven/org.jooq/jooq-codegen@3.14.1?classifier=sources
 - pkg:maven/org.jooq/jooq-codegen@3.14.2
 - pkg:maven/org.jooq/jooq-codegen@3.14.2?classifier=sources
@@ -200,6 +202,10 @@
 - pkg:maven/org.jooq/jooq-codegen@3.15.1?classifier=sources
 - pkg:maven/org.jooq/jooq-codegen@3.15.2
 - pkg:maven/org.jooq/jooq-codegen@3.15.2?classifier=sources
+- pkg:maven/org.jooq/jooq-codegen@3.15.3
+- pkg:maven/org.jooq/jooq-codegen@3.15.3?classifier=sources
+- pkg:maven/org.jooq/jooq-codegen@3.15.4
+- pkg:maven/org.jooq/jooq-codegen@3.15.4?classifier=sources
 - pkg:maven/org.jooq/jooq-codegen@3.2.0
 - pkg:maven/org.jooq/jooq-codegen@3.2.0-alpha-01
 - pkg:maven/org.jooq/jooq-codegen@3.2.0-alpha-01?classifier=sources

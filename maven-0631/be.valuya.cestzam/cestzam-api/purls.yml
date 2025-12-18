@@ -1,0 +1,2 @@
+- pkg:maven/be.valuya.cestzam/cestzam-api@2021.9.1
+- pkg:maven/be.valuya.cestzam/cestzam-api@2021.9.1?classifier=sources

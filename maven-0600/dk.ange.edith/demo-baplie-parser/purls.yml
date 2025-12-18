@@ -1,2 +1,4 @@
 - pkg:maven/dk.ange.edith/demo-baplie-parser@0.0.4
 - pkg:maven/dk.ange.edith/demo-baplie-parser@0.0.4?classifier=sources
+- pkg:maven/dk.ange.edith/demo-baplie-parser@0.0.5
+- pkg:maven/dk.ange.edith/demo-baplie-parser@0.0.5?classifier=sources

@@ -272,3 +272,5 @@
 - pkg:maven/net.snowflake/spark-snowflake_2.11@2.9.0-spark_2.4?classifier=sources
 - pkg:maven/net.snowflake/spark-snowflake_2.11@2.9.1-spark_2.4
 - pkg:maven/net.snowflake/spark-snowflake_2.11@2.9.1-spark_2.4?classifier=sources
+- pkg:maven/net.snowflake/spark-snowflake_2.11@2.9.2-spark_2.4
+- pkg:maven/net.snowflake/spark-snowflake_2.11@2.9.2-spark_2.4?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/hu.simplexion.zakadabar/content@2021.10.12?classifier=sources
+- pkg:maven/hu.simplexion.zakadabar/content@2021.10.14?classifier=sources
+- pkg:maven/hu.simplexion.zakadabar/content@2021.10.19?classifier=sources
+- pkg:maven/hu.simplexion.zakadabar/content@2021.10.28?classifier=sources
+- pkg:maven/hu.simplexion.zakadabar/content@2021.11.03?classifier=sources
+- pkg:maven/hu.simplexion.zakadabar/content@2021.11.5?classifier=sources

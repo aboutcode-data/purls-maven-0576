@@ -4,3 +4,7 @@
 - pkg:maven/com.immomo.wink/compiler-hook@0.3.22?type=aar
 - pkg:maven/com.immomo.wink/compiler-hook@0.3.23?classifier=sources
 - pkg:maven/com.immomo.wink/compiler-hook@0.3.23?type=aar
+- pkg:maven/com.immomo.wink/compiler-hook@0.3.27?classifier=sources
+- pkg:maven/com.immomo.wink/compiler-hook@0.3.27?type=aar
+- pkg:maven/com.immomo.wink/compiler-hook@0.3.30?classifier=sources
+- pkg:maven/com.immomo.wink/compiler-hook@0.3.30?type=aar

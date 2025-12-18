@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.cxf.systests/cxf-systests-microprofile-nocdi@3.3.12
+- pkg:maven/org.apache.cxf.systests/cxf-systests-microprofile-nocdi@3.3.12?classifier=sources
+- pkg:maven/org.apache.cxf.systests/cxf-systests-microprofile-nocdi@3.4.5
+- pkg:maven/org.apache.cxf.systests/cxf-systests-microprofile-nocdi@3.4.5?classifier=sources
