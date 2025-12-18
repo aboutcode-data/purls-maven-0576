@@ -1,0 +1,8 @@
+- pkg:maven/pl.morgwai.base/guiced-servlet-jpa@1.0-alpha2
+- pkg:maven/pl.morgwai.base/guiced-servlet-jpa@1.0-alpha2?classifier=sources
+- pkg:maven/pl.morgwai.base/guiced-servlet-jpa@1.0-alpha3
+- pkg:maven/pl.morgwai.base/guiced-servlet-jpa@1.0-alpha3?classifier=sources
+- pkg:maven/pl.morgwai.base/guiced-servlet-jpa@1.0-alpha4
+- pkg:maven/pl.morgwai.base/guiced-servlet-jpa@1.0-alpha4?classifier=sources
+- pkg:maven/pl.morgwai.base/guiced-servlet-jpa@1.0-alpha5
+- pkg:maven/pl.morgwai.base/guiced-servlet-jpa@1.0-alpha5?classifier=sources

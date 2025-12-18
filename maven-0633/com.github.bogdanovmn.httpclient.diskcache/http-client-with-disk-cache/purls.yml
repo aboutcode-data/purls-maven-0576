@@ -1,0 +1,2 @@
+- pkg:maven/com.github.bogdanovmn.httpclient.diskcache/http-client-with-disk-cache@3.1.0
+- pkg:maven/com.github.bogdanovmn.httpclient.diskcache/http-client-with-disk-cache@3.1.0?classifier=sources

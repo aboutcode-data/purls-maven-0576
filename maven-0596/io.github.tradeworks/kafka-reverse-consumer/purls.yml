@@ -1,0 +1,8 @@
+- pkg:maven/io.github.tradeworks/kafka-reverse-consumer@20210809.10
+- pkg:maven/io.github.tradeworks/kafka-reverse-consumer@20210809.10?classifier=sources
+- pkg:maven/io.github.tradeworks/kafka-reverse-consumer@20210809.11
+- pkg:maven/io.github.tradeworks/kafka-reverse-consumer@20210809.11?classifier=sources
+- pkg:maven/io.github.tradeworks/kafka-reverse-consumer@20210809.12
+- pkg:maven/io.github.tradeworks/kafka-reverse-consumer@20210809.12?classifier=sources
+- pkg:maven/io.github.tradeworks/kafka-reverse-consumer@20210809.9
+- pkg:maven/io.github.tradeworks/kafka-reverse-consumer@20210809.9?classifier=sources

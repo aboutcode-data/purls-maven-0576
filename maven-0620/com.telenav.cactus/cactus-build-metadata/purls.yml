@@ -2,3 +2,5 @@
 - pkg:maven/com.telenav.cactus/cactus-build-metadata@0.9.6-alpha?classifier=sources
 - pkg:maven/com.telenav.cactus/cactus-build-metadata@0.9.8-beta
 - pkg:maven/com.telenav.cactus/cactus-build-metadata@0.9.8-beta?classifier=sources
+- pkg:maven/com.telenav.cactus/cactus-build-metadata@1.0.0
+- pkg:maven/com.telenav.cactus/cactus-build-metadata@1.0.0?classifier=sources

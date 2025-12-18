@@ -1,0 +1,2 @@
+- pkg:maven/org.neo4j.gds/pregel@1.7.0-alpha05?classifier=sources
+- pkg:maven/org.neo4j.gds/pregel@1.7.0-alpha06?classifier=sources

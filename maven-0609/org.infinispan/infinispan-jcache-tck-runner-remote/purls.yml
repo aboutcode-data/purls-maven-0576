@@ -51,3 +51,4 @@
 - pkg:maven/org.infinispan/infinispan-jcache-tck-runner-remote@13.0.0.Dev01
 - pkg:maven/org.infinispan/infinispan-jcache-tck-runner-remote@13.0.0.Dev02
 - pkg:maven/org.infinispan/infinispan-jcache-tck-runner-remote@13.0.0.Dev03
+- pkg:maven/org.infinispan/infinispan-jcache-tck-runner-remote@13.0.0.Dev04

@@ -68,6 +68,10 @@
 - pkg:maven/net.officefloor.polyglot/officepolyglot_test@3.37.0?classifier=sources
 - pkg:maven/net.officefloor.polyglot/officepolyglot_test@3.38.0
 - pkg:maven/net.officefloor.polyglot/officepolyglot_test@3.38.0?classifier=sources
+- pkg:maven/net.officefloor.polyglot/officepolyglot_test@3.39.0
+- pkg:maven/net.officefloor.polyglot/officepolyglot_test@3.39.0?classifier=sources
+- pkg:maven/net.officefloor.polyglot/officepolyglot_test@3.40.0
+- pkg:maven/net.officefloor.polyglot/officepolyglot_test@3.40.0?classifier=sources
 - pkg:maven/net.officefloor.polyglot/officepolyglot_test@3.9.0
 - pkg:maven/net.officefloor.polyglot/officepolyglot_test@3.9.0?classifier=sources
 - pkg:maven/net.officefloor.polyglot/officepolyglot_test@3.9.1

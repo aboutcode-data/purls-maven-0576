@@ -1,0 +1,2 @@
+- pkg:maven/io.bigconnect/dw-sentiment-corenlp@4.2.1
+- pkg:maven/io.bigconnect/dw-sentiment-corenlp@4.2.1?classifier=sources

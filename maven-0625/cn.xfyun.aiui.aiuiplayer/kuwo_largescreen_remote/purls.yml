@@ -1,7 +1,9 @@
 - pkg:maven/cn.xfyun.aiui.aiuiplayer/kuwo_largescreen_remote@1000?classifier=sources
 - pkg:maven/cn.xfyun.aiui.aiuiplayer/kuwo_largescreen_remote@1001?classifier=sources
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/kuwo_largescreen_remote@1002?classifier=sources
 - pkg:maven/cn.xfyun.aiui.aiuiplayer/kuwo_largescreen_remote@2?classifier=sources
 - pkg:maven/cn.xfyun.aiui.aiuiplayer/kuwo_largescreen_remote@3?classifier=sources
 - pkg:maven/cn.xfyun.aiui.aiuiplayer/kuwo_largescreen_remote@4?classifier=sources
 - pkg:maven/cn.xfyun.aiui.aiuiplayer/kuwo_largescreen_remote@6?classifier=sources
 - pkg:maven/cn.xfyun.aiui.aiuiplayer/kuwo_largescreen_remote@7?classifier=sources
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/kuwo_largescreen_remote@8?type=aar

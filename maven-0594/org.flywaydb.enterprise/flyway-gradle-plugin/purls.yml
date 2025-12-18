@@ -48,6 +48,20 @@
 - pkg:maven/org.flywaydb.enterprise/flyway-gradle-plugin@7.11.2?classifier=sources
 - pkg:maven/org.flywaydb.enterprise/flyway-gradle-plugin@7.11.3
 - pkg:maven/org.flywaydb.enterprise/flyway-gradle-plugin@7.11.3?classifier=sources
+- pkg:maven/org.flywaydb.enterprise/flyway-gradle-plugin@7.11.4
+- pkg:maven/org.flywaydb.enterprise/flyway-gradle-plugin@7.11.4?classifier=sources
+- pkg:maven/org.flywaydb.enterprise/flyway-gradle-plugin@7.12.0
+- pkg:maven/org.flywaydb.enterprise/flyway-gradle-plugin@7.12.0?classifier=sources
+- pkg:maven/org.flywaydb.enterprise/flyway-gradle-plugin@7.12.1
+- pkg:maven/org.flywaydb.enterprise/flyway-gradle-plugin@7.12.1?classifier=sources
+- pkg:maven/org.flywaydb.enterprise/flyway-gradle-plugin@7.13.0
+- pkg:maven/org.flywaydb.enterprise/flyway-gradle-plugin@7.13.0?classifier=sources
+- pkg:maven/org.flywaydb.enterprise/flyway-gradle-plugin@7.14.0
+- pkg:maven/org.flywaydb.enterprise/flyway-gradle-plugin@7.14.0?classifier=sources
+- pkg:maven/org.flywaydb.enterprise/flyway-gradle-plugin@7.14.1
+- pkg:maven/org.flywaydb.enterprise/flyway-gradle-plugin@7.14.1?classifier=sources
+- pkg:maven/org.flywaydb.enterprise/flyway-gradle-plugin@7.15.0
+- pkg:maven/org.flywaydb.enterprise/flyway-gradle-plugin@7.15.0?classifier=sources
 - pkg:maven/org.flywaydb.enterprise/flyway-gradle-plugin@7.2.0
 - pkg:maven/org.flywaydb.enterprise/flyway-gradle-plugin@7.2.0?classifier=sources
 - pkg:maven/org.flywaydb.enterprise/flyway-gradle-plugin@7.2.1
@@ -92,3 +106,5 @@
 - pkg:maven/org.flywaydb.enterprise/flyway-gradle-plugin@7.9.1?classifier=sources
 - pkg:maven/org.flywaydb.enterprise/flyway-gradle-plugin@7.9.2
 - pkg:maven/org.flywaydb.enterprise/flyway-gradle-plugin@7.9.2?classifier=sources
+- pkg:maven/org.flywaydb.enterprise/flyway-gradle-plugin@8.0.0-beta1
+- pkg:maven/org.flywaydb.enterprise/flyway-gradle-plugin@8.0.0-beta1?classifier=sources

@@ -2,3 +2,4 @@
 - pkg:maven/net.pwall.json/json-kotlin-gradle@0.31.3?classifier=sources
 - pkg:maven/net.pwall.json/json-kotlin-gradle@0.31.4?classifier=sources
 - pkg:maven/net.pwall.json/json-kotlin-gradle@0.34?classifier=sources
+- pkg:maven/net.pwall.json/json-kotlin-gradle@0.35?classifier=sources

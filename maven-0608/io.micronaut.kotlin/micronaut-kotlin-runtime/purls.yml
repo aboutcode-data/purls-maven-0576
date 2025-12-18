@@ -15,3 +15,4 @@
 - pkg:maven/io.micronaut.kotlin/micronaut-kotlin-runtime@2.3.0?classifier=sources
 - pkg:maven/io.micronaut.kotlin/micronaut-kotlin-runtime@2.3.1?classifier=sources
 - pkg:maven/io.micronaut.kotlin/micronaut-kotlin-runtime@3.0.0-RC1?classifier=sources
+- pkg:maven/io.micronaut.kotlin/micronaut-kotlin-runtime@3.0.0?classifier=sources

@@ -284,6 +284,10 @@
 - pkg:maven/org.jbpm/jbpm-persistence-jpa@7.56.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-persistence-jpa@7.57.0.Final
 - pkg:maven/org.jbpm/jbpm-persistence-jpa@7.57.0.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-persistence-jpa@7.58.0.Final
+- pkg:maven/org.jbpm/jbpm-persistence-jpa@7.58.0.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-persistence-jpa@7.59.0.Final
+- pkg:maven/org.jbpm/jbpm-persistence-jpa@7.59.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-persistence-jpa@7.6.0.Final
 - pkg:maven/org.jbpm/jbpm-persistence-jpa@7.6.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-persistence-jpa@7.6.0.t022

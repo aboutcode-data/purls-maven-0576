@@ -1,6 +1,8 @@
 - pkg:maven/net.tascalate.javaflow.examples/net.tascalate.javaflow.examples.dyninvoke@1.0.0
 - pkg:maven/net.tascalate.javaflow.examples/net.tascalate.javaflow.examples.dyninvoke@1.0.0?classifier=sources
 - pkg:maven/net.tascalate.javaflow.examples/net.tascalate.javaflow.examples.dyninvoke@1.0.1
+- pkg:maven/net.tascalate.javaflow.examples/net.tascalate.javaflow.examples.dyninvoke@1.0.10
+- pkg:maven/net.tascalate.javaflow.examples/net.tascalate.javaflow.examples.dyninvoke@1.0.10?classifier=sources
 - pkg:maven/net.tascalate.javaflow.examples/net.tascalate.javaflow.examples.dyninvoke@1.0.1?classifier=sources
 - pkg:maven/net.tascalate.javaflow.examples/net.tascalate.javaflow.examples.dyninvoke@1.0.2
 - pkg:maven/net.tascalate.javaflow.examples/net.tascalate.javaflow.examples.dyninvoke@1.0.2?classifier=sources

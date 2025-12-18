@@ -1,0 +1,6 @@
+- pkg:maven/io.github.safe-ending/myscript@1.0.1?type=aar
+- pkg:maven/io.github.safe-ending/myscript@1.0.2?type=aar
+- pkg:maven/io.github.safe-ending/myscript@1.0.3?type=aar
+- pkg:maven/io.github.safe-ending/myscript@1.0.4?type=aar
+- pkg:maven/io.github.safe-ending/myscript@2.0.1?type=aar
+- pkg:maven/io.github.safe-ending/myscript@2.0.2?type=aar

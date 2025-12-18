@@ -94,6 +94,9 @@
 - pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-tests@7.57.0.Beta1
 - pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-tests@7.57.0.Final
 - pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-tests@7.58.0.Beta1
+- pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-tests@7.58.0.Final
+- pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-tests@7.59.0.Beta1
+- pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-tests@7.59.0.Final
 - pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-tests@7.6.0.Final
 - pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-tests@7.6.0.t022
 - pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-tests@7.7.0.Final

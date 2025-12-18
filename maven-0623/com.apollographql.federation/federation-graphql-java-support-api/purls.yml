@@ -1,0 +1,2 @@
+- pkg:maven/com.apollographql.federation/federation-graphql-java-support-api@0.6.5
+- pkg:maven/com.apollographql.federation/federation-graphql-java-support-api@0.6.5?classifier=sources

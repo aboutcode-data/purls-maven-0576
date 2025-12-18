@@ -456,3 +456,15 @@
 - pkg:maven/org.reactivemongo/play2-reactivemongo_2.11@1.0.5-play26?classifier=sources
 - pkg:maven/org.reactivemongo/play2-reactivemongo_2.11@1.0.5-play27
 - pkg:maven/org.reactivemongo/play2-reactivemongo_2.11@1.0.5-play27?classifier=sources
+- pkg:maven/org.reactivemongo/play2-reactivemongo_2.11@1.0.6-play25
+- pkg:maven/org.reactivemongo/play2-reactivemongo_2.11@1.0.6-play25?classifier=sources
+- pkg:maven/org.reactivemongo/play2-reactivemongo_2.11@1.0.6-play26
+- pkg:maven/org.reactivemongo/play2-reactivemongo_2.11@1.0.6-play26?classifier=sources
+- pkg:maven/org.reactivemongo/play2-reactivemongo_2.11@1.0.6-play27
+- pkg:maven/org.reactivemongo/play2-reactivemongo_2.11@1.0.6-play27?classifier=sources
+- pkg:maven/org.reactivemongo/play2-reactivemongo_2.11@1.0.7-play25
+- pkg:maven/org.reactivemongo/play2-reactivemongo_2.11@1.0.7-play25?classifier=sources
+- pkg:maven/org.reactivemongo/play2-reactivemongo_2.11@1.0.7-play26
+- pkg:maven/org.reactivemongo/play2-reactivemongo_2.11@1.0.7-play26?classifier=sources
+- pkg:maven/org.reactivemongo/play2-reactivemongo_2.11@1.0.7-play27
+- pkg:maven/org.reactivemongo/play2-reactivemongo_2.11@1.0.7-play27?classifier=sources

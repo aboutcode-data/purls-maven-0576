@@ -1,0 +1,2 @@
+- pkg:maven/io.bigconnect/web-product-chart@4.2.1
+- pkg:maven/io.bigconnect/web-product-chart@4.2.1?classifier=sources

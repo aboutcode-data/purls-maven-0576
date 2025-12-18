@@ -2,3 +2,5 @@
 - pkg:maven/it.agilelab/wasp-delta-lake_2.11@0.6.1-2.4.0-cdh6.3.2?classifier=sources
 - pkg:maven/it.agilelab/wasp-delta-lake_2.11@0.6.1-2.4.0-cdh6.3.3
 - pkg:maven/it.agilelab/wasp-delta-lake_2.11@0.6.1-2.4.0-cdh6.3.3?classifier=sources
+- pkg:maven/it.agilelab/wasp-delta-lake_2.11@0.6.1-2.4.7.7.1.7.0-551
+- pkg:maven/it.agilelab/wasp-delta-lake_2.11@0.6.1-2.4.7.7.1.7.0-551?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/org.micro-manager.pycro-manager/PycroManagerJava@0.21.7?classifier=sources
 - pkg:maven/org.micro-manager.pycro-manager/PycroManagerJava@0.21.8
 - pkg:maven/org.micro-manager.pycro-manager/PycroManagerJava@0.21.8?classifier=sources
+- pkg:maven/org.micro-manager.pycro-manager/PycroManagerJava@0.21.9
+- pkg:maven/org.micro-manager.pycro-manager/PycroManagerJava@0.21.9?classifier=sources

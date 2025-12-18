@@ -4,3 +4,5 @@
 - pkg:maven/com.datarobot/scoring-code-spark-api_1.6.0@0.0.19?classifier=sources
 - pkg:maven/com.datarobot/scoring-code-spark-api_1.6.0@0.0.20
 - pkg:maven/com.datarobot/scoring-code-spark-api_1.6.0@0.0.20?classifier=sources
+- pkg:maven/com.datarobot/scoring-code-spark-api_1.6.0@0.0.21
+- pkg:maven/com.datarobot/scoring-code-spark-api_1.6.0@0.0.21?classifier=sources

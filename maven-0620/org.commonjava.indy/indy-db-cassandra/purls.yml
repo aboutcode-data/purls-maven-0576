@@ -1,2 +1,4 @@
 - pkg:maven/org.commonjava.indy/indy-db-cassandra@2.6.0
 - pkg:maven/org.commonjava.indy/indy-db-cassandra@2.6.0?classifier=sources
+- pkg:maven/org.commonjava.indy/indy-db-cassandra@2.6.1
+- pkg:maven/org.commonjava.indy/indy-db-cassandra@2.6.1?classifier=sources

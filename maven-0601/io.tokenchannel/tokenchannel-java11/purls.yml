@@ -8,3 +8,7 @@
 - pkg:maven/io.tokenchannel/tokenchannel-java11@0.13.0.RELEASE?classifier=sources
 - pkg:maven/io.tokenchannel/tokenchannel-java11@0.14.0.RELEASE
 - pkg:maven/io.tokenchannel/tokenchannel-java11@0.14.0.RELEASE?classifier=sources
+- pkg:maven/io.tokenchannel/tokenchannel-java11@0.15.RELEASE
+- pkg:maven/io.tokenchannel/tokenchannel-java11@0.15.RELEASE?classifier=sources
+- pkg:maven/io.tokenchannel/tokenchannel-java11@0.16.RELEASE
+- pkg:maven/io.tokenchannel/tokenchannel-java11@0.16.RELEASE?classifier=sources

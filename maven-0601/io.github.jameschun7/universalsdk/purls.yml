@@ -2,6 +2,8 @@
 - pkg:maven/io.github.jameschun7/universalsdk@0.2.11?type=aar
 - pkg:maven/io.github.jameschun7/universalsdk@0.2.12?type=aar
 - pkg:maven/io.github.jameschun7/universalsdk@0.2.13?type=aar
+- pkg:maven/io.github.jameschun7/universalsdk@0.2.14?type=aar
+- pkg:maven/io.github.jameschun7/universalsdk@0.2.15?type=aar
 - pkg:maven/io.github.jameschun7/universalsdk@0.2.3?type=aar
 - pkg:maven/io.github.jameschun7/universalsdk@0.2.4?type=aar
 - pkg:maven/io.github.jameschun7/universalsdk@0.2.5?type=aar

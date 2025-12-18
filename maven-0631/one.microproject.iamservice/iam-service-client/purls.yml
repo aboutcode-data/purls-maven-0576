@@ -4,8 +4,11 @@
 - pkg:maven/one.microproject.iamservice/iam-service-client@2.4.3-RELEASE?classifier=sources
 - pkg:maven/one.microproject.iamservice/iam-service-client@2.5.0-RELEASE?classifier=sources
 - pkg:maven/one.microproject.iamservice/iam-service-client@2.5.1-RELEASE?classifier=sources
+- pkg:maven/one.microproject.iamservice/iam-service-client@2.5.10-RELEASE?classifier=sources
 - pkg:maven/one.microproject.iamservice/iam-service-client@2.5.2-RELEASE?classifier=sources
 - pkg:maven/one.microproject.iamservice/iam-service-client@2.5.3-RELEASE?classifier=sources
 - pkg:maven/one.microproject.iamservice/iam-service-client@2.5.4-RELEASE?classifier=sources
 - pkg:maven/one.microproject.iamservice/iam-service-client@2.5.5-RELEASE?classifier=sources
 - pkg:maven/one.microproject.iamservice/iam-service-client@2.5.7-RELEASE?classifier=sources
+- pkg:maven/one.microproject.iamservice/iam-service-client@2.5.8-RELEASE?classifier=sources
+- pkg:maven/one.microproject.iamservice/iam-service-client@2.5.9-RELEASE?classifier=sources

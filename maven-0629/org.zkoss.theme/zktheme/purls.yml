@@ -33,3 +33,5 @@
 - pkg:maven/org.zkoss.theme/zktheme@9.5.0.2?classifier=sources
 - pkg:maven/org.zkoss.theme/zktheme@9.5.0.3?classifier=sources
 - pkg:maven/org.zkoss.theme/zktheme@9.5.0?classifier=sources
+- pkg:maven/org.zkoss.theme/zktheme@9.6.0.1?classifier=sources
+- pkg:maven/org.zkoss.theme/zktheme@9.6.0?classifier=sources

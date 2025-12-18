@@ -1,0 +1,3 @@
+- pkg:maven/com.adevinta.android/barista@3.10.0?classifier=sources
+- pkg:maven/com.adevinta.android/barista@4.0.0?classifier=sources
+- pkg:maven/com.adevinta.android/barista@4.1.0?classifier=sources

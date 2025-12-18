@@ -1,0 +1,2 @@
+- pkg:maven/com.nryanov.schemakeeper/schemakeeper-server@0.3.0-RC1
+- pkg:maven/com.nryanov.schemakeeper/schemakeeper-server@0.3.0-RC1?classifier=sources

@@ -1,1 +1,6 @@
 - pkg:maven/com.klibisz.elastiknn/client-java@7.13.2.1?classifier=sources
+- pkg:maven/com.klibisz.elastiknn/client-java@7.13.2.2?classifier=sources
+- pkg:maven/com.klibisz.elastiknn/client-java@7.13.3.0?classifier=sources
+- pkg:maven/com.klibisz.elastiknn/client-java@7.13.3.1?classifier=sources
+- pkg:maven/com.klibisz.elastiknn/client-java@7.13.3.2?classifier=sources
+- pkg:maven/com.klibisz.elastiknn/client-java@7.14.0.0?classifier=sources

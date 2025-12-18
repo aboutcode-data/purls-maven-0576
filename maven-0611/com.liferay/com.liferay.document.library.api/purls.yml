@@ -85,6 +85,9 @@
 - pkg:maven/com.liferay/com.liferay.document.library.api@3.7.11
 - pkg:maven/com.liferay/com.liferay.document.library.api@3.7.11?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.api@3.7.11?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.api@3.7.12
+- pkg:maven/com.liferay/com.liferay.document.library.api@3.7.12?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.api@3.7.12?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.api@3.7.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.api@3.7.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.api@3.7.2
@@ -223,6 +226,12 @@
 - pkg:maven/com.liferay/com.liferay.document.library.api@4.3.20
 - pkg:maven/com.liferay/com.liferay.document.library.api@4.3.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.api@4.3.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.api@4.3.21
+- pkg:maven/com.liferay/com.liferay.document.library.api@4.3.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.api@4.3.21?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.api@4.3.22
+- pkg:maven/com.liferay/com.liferay.document.library.api@4.3.22?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.api@4.3.22?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.api@4.3.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.api@4.3.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.api@4.3.3
@@ -333,6 +342,15 @@
 - pkg:maven/com.liferay/com.liferay.document.library.api@5.3.16
 - pkg:maven/com.liferay/com.liferay.document.library.api@5.3.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.api@5.3.16?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.api@5.3.17
+- pkg:maven/com.liferay/com.liferay.document.library.api@5.3.17?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.api@5.3.17?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.api@5.3.18
+- pkg:maven/com.liferay/com.liferay.document.library.api@5.3.18?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.api@5.3.18?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.api@5.3.19
+- pkg:maven/com.liferay/com.liferay.document.library.api@5.3.19?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.api@5.3.19?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.api@5.3.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.api@5.3.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.api@5.3.2
@@ -443,6 +461,9 @@
 - pkg:maven/com.liferay/com.liferay.document.library.api@6.5.1
 - pkg:maven/com.liferay/com.liferay.document.library.api@6.5.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.api@6.5.1?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.api@6.5.2
+- pkg:maven/com.liferay/com.liferay.document.library.api@6.5.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.api@6.5.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.api@7.0.0
 - pkg:maven/com.liferay/com.liferay.document.library.api@7.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.api@7.0.0?classifier=sources-commercial
@@ -470,3 +491,6 @@
 - pkg:maven/com.liferay/com.liferay.document.library.api@7.2.4
 - pkg:maven/com.liferay/com.liferay.document.library.api@7.2.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.api@7.2.4?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.api@7.2.5
+- pkg:maven/com.liferay/com.liferay.document.library.api@7.2.5?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.api@7.2.5?classifier=sources-commercial

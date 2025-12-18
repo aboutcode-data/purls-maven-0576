@@ -231,3 +231,7 @@
 - pkg:maven/com.palantir.conjure.java/conjure-java-core@5.9.0
 - pkg:maven/com.palantir.conjure.java/conjure-java-core@5.9.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java/conjure-java-core@6.0.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java/conjure-java-core@6.1.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java/conjure-java-core@6.2.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java/conjure-java-core@6.3.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java/conjure-java-core@6.4.0?classifier=sources

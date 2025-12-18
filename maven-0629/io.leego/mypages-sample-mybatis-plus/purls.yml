@@ -1,0 +1,6 @@
+- pkg:maven/io.leego/mypages-sample-mybatis-plus@2.0.0
+- pkg:maven/io.leego/mypages-sample-mybatis-plus@2.0.0?classifier=sources
+- pkg:maven/io.leego/mypages-sample-mybatis-plus@2.1.0
+- pkg:maven/io.leego/mypages-sample-mybatis-plus@2.1.0?classifier=sources
+- pkg:maven/io.leego/mypages-sample-mybatis-plus@2.2.0
+- pkg:maven/io.leego/mypages-sample-mybatis-plus@2.2.0?classifier=sources

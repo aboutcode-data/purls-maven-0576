@@ -110,6 +110,8 @@
 - pkg:maven/com.google.dagger/dagger-compiler@2.37
 - pkg:maven/com.google.dagger/dagger-compiler@2.37?classifier=sources
 - pkg:maven/com.google.dagger/dagger-compiler@2.38
+- pkg:maven/com.google.dagger/dagger-compiler@2.38.1
+- pkg:maven/com.google.dagger/dagger-compiler@2.38.1?classifier=sources
 - pkg:maven/com.google.dagger/dagger-compiler@2.38?classifier=sources
 - pkg:maven/com.google.dagger/dagger-compiler@2.3?classifier=sources
 - pkg:maven/com.google.dagger/dagger-compiler@2.4

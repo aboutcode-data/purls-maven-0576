@@ -1,3 +1,5 @@
 - pkg:maven/com.shepeliev/webrtc-kmp-iosarm64@0.89.1?classifier=sources
 - pkg:maven/com.shepeliev/webrtc-kmp-iosarm64@0.89.2?classifier=sources
+- pkg:maven/com.shepeliev/webrtc-kmp-iosarm64@0.89.3?classifier=sources
+- pkg:maven/com.shepeliev/webrtc-kmp-iosarm64@0.89.4?classifier=sources
 - pkg:maven/com.shepeliev/webrtc-kmp-iosarm64@0.89?classifier=sources

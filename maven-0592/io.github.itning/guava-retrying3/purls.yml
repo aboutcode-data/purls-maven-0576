@@ -1,0 +1,4 @@
+- pkg:maven/io.github.itning/guava-retrying3@3.0.0
+- pkg:maven/io.github.itning/guava-retrying3@3.0.0-BETA0
+- pkg:maven/io.github.itning/guava-retrying3@3.0.0-BETA0?classifier=sources
+- pkg:maven/io.github.itning/guava-retrying3@3.0.0?classifier=sources

@@ -66,3 +66,5 @@
 - pkg:maven/com.github.imrafaelmerino/json-values@9.0.1?type=zip
 - pkg:maven/com.github.imrafaelmerino/json-values@9.0.2?classifier=sources
 - pkg:maven/com.github.imrafaelmerino/json-values@9.0.2?type=zip
+- pkg:maven/com.github.imrafaelmerino/json-values@9.1.0?classifier=sources
+- pkg:maven/com.github.imrafaelmerino/json-values@9.1.0?type=zip

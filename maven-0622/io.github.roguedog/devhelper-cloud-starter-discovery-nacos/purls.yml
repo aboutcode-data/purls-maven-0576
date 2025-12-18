@@ -1,0 +1,2 @@
+- pkg:maven/io.github.roguedog/devhelper-cloud-starter-discovery-nacos@1.0
+- pkg:maven/io.github.roguedog/devhelper-cloud-starter-discovery-nacos@1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.royale.compiler/compiler-playerglobalc@0.9.8
+- pkg:maven/org.apache.royale.compiler/compiler-playerglobalc@0.9.8?classifier=sources

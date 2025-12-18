@@ -48,3 +48,13 @@
 - pkg:maven/com.github.yulichang/mybatis-plus-join@1.1.8.beta3
 - pkg:maven/com.github.yulichang/mybatis-plus-join@1.1.8.beta3?classifier=sources
 - pkg:maven/com.github.yulichang/mybatis-plus-join@1.1.8?classifier=sources
+- pkg:maven/com.github.yulichang/mybatis-plus-join@1.2.0.Beta1
+- pkg:maven/com.github.yulichang/mybatis-plus-join@1.2.0.Beta1?classifier=sources
+- pkg:maven/com.github.yulichang/mybatis-plus-join@1.2.0.Beta2
+- pkg:maven/com.github.yulichang/mybatis-plus-join@1.2.0.Beta2?classifier=sources
+- pkg:maven/com.github.yulichang/mybatis-plus-join@1.2.0.Beta3
+- pkg:maven/com.github.yulichang/mybatis-plus-join@1.2.0.Beta3?classifier=sources
+- pkg:maven/com.github.yulichang/mybatis-plus-join@1.2.0.Beta4
+- pkg:maven/com.github.yulichang/mybatis-plus-join@1.2.0.Beta4?classifier=sources
+- pkg:maven/com.github.yulichang/mybatis-plus-join@1.2.0.Beta5
+- pkg:maven/com.github.yulichang/mybatis-plus-join@1.2.0.Beta5?classifier=sources

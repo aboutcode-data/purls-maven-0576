@@ -232,6 +232,8 @@
 - pkg:maven/com.google.api-ads/dfp-appengine@4.13.0?classifier=sources
 - pkg:maven/com.google.api-ads/dfp-appengine@4.14.0
 - pkg:maven/com.google.api-ads/dfp-appengine@4.14.0?classifier=sources
+- pkg:maven/com.google.api-ads/dfp-appengine@4.15.0
+- pkg:maven/com.google.api-ads/dfp-appengine@4.15.0?classifier=sources
 - pkg:maven/com.google.api-ads/dfp-appengine@4.2.0
 - pkg:maven/com.google.api-ads/dfp-appengine@4.2.0?classifier=sources
 - pkg:maven/com.google.api-ads/dfp-appengine@4.3.0

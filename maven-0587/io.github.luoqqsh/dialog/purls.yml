@@ -12,3 +12,10 @@
 - pkg:maven/io.github.luoqqsh/dialog@1.2.83?classifier=sources
 - pkg:maven/io.github.luoqqsh/dialog@1.2.84?classifier=sources
 - pkg:maven/io.github.luoqqsh/dialog@1.2.85?classifier=sources
+- pkg:maven/io.github.luoqqsh/dialog@1.2.86?classifier=sources
+- pkg:maven/io.github.luoqqsh/dialog@1.2.87?classifier=sources
+- pkg:maven/io.github.luoqqsh/dialog@1.2.88?classifier=sources
+- pkg:maven/io.github.luoqqsh/dialog@1.2.89?classifier=sources
+- pkg:maven/io.github.luoqqsh/dialog@1.2.90?classifier=sources
+- pkg:maven/io.github.luoqqsh/dialog@1.2.91?classifier=sources
+- pkg:maven/io.github.luoqqsh/dialog@1.2.92?classifier=sources

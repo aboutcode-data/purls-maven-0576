@@ -1,0 +1,2 @@
+- pkg:maven/com.manorrock.faces.lifecycle/manorrock-faces-lifecycle-action@21.8.0
+- pkg:maven/com.manorrock.faces.lifecycle/manorrock-faces-lifecycle-action@21.8.0?classifier=sources

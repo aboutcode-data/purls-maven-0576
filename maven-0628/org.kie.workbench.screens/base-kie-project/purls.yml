@@ -28,3 +28,5 @@
 - pkg:maven/org.kie.workbench.screens/base-kie-project@7.55.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.screens/base-kie-project@7.56.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.screens/base-kie-project@7.57.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.screens/base-kie-project@7.58.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.screens/base-kie-project@7.59.0.Final?classifier=sources

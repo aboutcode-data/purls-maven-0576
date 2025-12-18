@@ -8,3 +8,4 @@
 - pkg:maven/com.github.skydoves/sandwich@1.0.9?type=aar
 - pkg:maven/com.github.skydoves/sandwich@1.1.0?classifier=sources
 - pkg:maven/com.github.skydoves/sandwich@1.2.0?classifier=sources
+- pkg:maven/com.github.skydoves/sandwich@1.2.1?classifier=sources

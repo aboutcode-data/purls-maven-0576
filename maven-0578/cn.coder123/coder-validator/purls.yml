@@ -1,0 +1,2 @@
+- pkg:maven/cn.coder123/coder-validator@0.0.1
+- pkg:maven/cn.coder123/coder-validator@0.0.1?classifier=sources

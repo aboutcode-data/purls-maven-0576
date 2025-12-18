@@ -27,3 +27,5 @@
 - pkg:maven/net.officefloor.editor/net.officefloor.gef.configurer.tests@3.36.0?classifier=sources
 - pkg:maven/net.officefloor.editor/net.officefloor.gef.configurer.tests@3.37.0?classifier=sources
 - pkg:maven/net.officefloor.editor/net.officefloor.gef.configurer.tests@3.38.0?classifier=sources
+- pkg:maven/net.officefloor.editor/net.officefloor.gef.configurer.tests@3.39.0?classifier=sources
+- pkg:maven/net.officefloor.editor/net.officefloor.gef.configurer.tests@3.40.0?classifier=sources

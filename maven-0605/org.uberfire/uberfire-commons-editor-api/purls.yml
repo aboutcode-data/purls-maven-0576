@@ -234,3 +234,7 @@
 - pkg:maven/org.uberfire/uberfire-commons-editor-api@7.56.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-commons-editor-api@7.57.0.Final
 - pkg:maven/org.uberfire/uberfire-commons-editor-api@7.57.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-commons-editor-api@7.58.0.Final
+- pkg:maven/org.uberfire/uberfire-commons-editor-api@7.58.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-commons-editor-api@7.59.0.Final
+- pkg:maven/org.uberfire/uberfire-commons-editor-api@7.59.0.Final?classifier=sources

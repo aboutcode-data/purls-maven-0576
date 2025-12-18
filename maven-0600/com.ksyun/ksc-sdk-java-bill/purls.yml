@@ -1,0 +1,10 @@
+- pkg:maven/com.ksyun/ksc-sdk-java-bill@0.3.19
+- pkg:maven/com.ksyun/ksc-sdk-java-bill@0.3.19?classifier=sources
+- pkg:maven/com.ksyun/ksc-sdk-java-bill@0.3.20
+- pkg:maven/com.ksyun/ksc-sdk-java-bill@0.3.20?classifier=sources
+- pkg:maven/com.ksyun/ksc-sdk-java-bill@0.3.21
+- pkg:maven/com.ksyun/ksc-sdk-java-bill@0.3.21?classifier=sources
+- pkg:maven/com.ksyun/ksc-sdk-java-bill@0.3.22
+- pkg:maven/com.ksyun/ksc-sdk-java-bill@0.3.22?classifier=sources
+- pkg:maven/com.ksyun/ksc-sdk-java-bill@0.3.23
+- pkg:maven/com.ksyun/ksc-sdk-java-bill@0.3.23?classifier=sources

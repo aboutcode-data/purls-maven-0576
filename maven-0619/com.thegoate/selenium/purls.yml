@@ -28,3 +28,4 @@
 - pkg:maven/com.thegoate/selenium@0.15.8.202106302131?classifier=sources
 - pkg:maven/com.thegoate/selenium@0.15.8.202107031624?classifier=sources
 - pkg:maven/com.thegoate/selenium@0.15.8.202107032201?classifier=sources
+- pkg:maven/com.thegoate/selenium@0.15.8.202108192327?classifier=sources

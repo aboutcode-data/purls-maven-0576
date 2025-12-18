@@ -6,6 +6,8 @@
 - pkg:maven/it.uniroma2.art.semanticturkey/st-console@0.12?classifier=sources
 - pkg:maven/it.uniroma2.art.semanticturkey/st-console@1.0
 - pkg:maven/it.uniroma2.art.semanticturkey/st-console@1.0?classifier=sources
+- pkg:maven/it.uniroma2.art.semanticturkey/st-console@10.0
+- pkg:maven/it.uniroma2.art.semanticturkey/st-console@10.0?classifier=sources
 - pkg:maven/it.uniroma2.art.semanticturkey/st-console@2.0
 - pkg:maven/it.uniroma2.art.semanticturkey/st-console@2.0?classifier=sources
 - pkg:maven/it.uniroma2.art.semanticturkey/st-console@3.0

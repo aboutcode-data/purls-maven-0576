@@ -19,6 +19,14 @@
 - pkg:maven/io.github.kirill5k/mongo4cats-core_2.12@0.2.14?classifier=sources
 - pkg:maven/io.github.kirill5k/mongo4cats-core_2.12@0.2.15
 - pkg:maven/io.github.kirill5k/mongo4cats-core_2.12@0.2.15?classifier=sources
+- pkg:maven/io.github.kirill5k/mongo4cats-core_2.12@0.2.16
+- pkg:maven/io.github.kirill5k/mongo4cats-core_2.12@0.2.16?classifier=sources
+- pkg:maven/io.github.kirill5k/mongo4cats-core_2.12@0.2.17
+- pkg:maven/io.github.kirill5k/mongo4cats-core_2.12@0.2.17?classifier=sources
+- pkg:maven/io.github.kirill5k/mongo4cats-core_2.12@0.2.18
+- pkg:maven/io.github.kirill5k/mongo4cats-core_2.12@0.2.18?classifier=sources
+- pkg:maven/io.github.kirill5k/mongo4cats-core_2.12@0.2.19
+- pkg:maven/io.github.kirill5k/mongo4cats-core_2.12@0.2.19?classifier=sources
 - pkg:maven/io.github.kirill5k/mongo4cats-core_2.12@0.2.1?classifier=sources
 - pkg:maven/io.github.kirill5k/mongo4cats-core_2.12@0.2.2
 - pkg:maven/io.github.kirill5k/mongo4cats-core_2.12@0.2.2?classifier=sources
@@ -36,3 +44,9 @@
 - pkg:maven/io.github.kirill5k/mongo4cats-core_2.12@0.2.8?classifier=sources
 - pkg:maven/io.github.kirill5k/mongo4cats-core_2.12@0.2.9
 - pkg:maven/io.github.kirill5k/mongo4cats-core_2.12@0.2.9?classifier=sources
+- pkg:maven/io.github.kirill5k/mongo4cats-core_2.12@0.3.0
+- pkg:maven/io.github.kirill5k/mongo4cats-core_2.12@0.3.0?classifier=sources
+- pkg:maven/io.github.kirill5k/mongo4cats-core_2.12@0.3.1
+- pkg:maven/io.github.kirill5k/mongo4cats-core_2.12@0.3.1?classifier=sources
+- pkg:maven/io.github.kirill5k/mongo4cats-core_2.12@0.4.0
+- pkg:maven/io.github.kirill5k/mongo4cats-core_2.12@0.4.0?classifier=sources

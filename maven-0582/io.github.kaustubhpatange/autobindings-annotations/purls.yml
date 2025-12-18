@@ -36,3 +36,4 @@
 - pkg:maven/io.github.kaustubhpatange/autobindings-annotations@1.1-beta02?classifier=sources
 - pkg:maven/io.github.kaustubhpatange/autobindings-annotations@1.1-beta03
 - pkg:maven/io.github.kaustubhpatange/autobindings-annotations@1.1-beta03?classifier=sources
+- pkg:maven/io.github.kaustubhpatange/autobindings-annotations@1.1-beta04?classifier=sources

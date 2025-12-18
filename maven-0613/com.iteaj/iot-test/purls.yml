@@ -1,2 +1,8 @@
 - pkg:maven/com.iteaj/iot-test@1.1.3
 - pkg:maven/com.iteaj/iot-test@1.1.3?classifier=sources
+- pkg:maven/com.iteaj/iot-test@2.0.0
+- pkg:maven/com.iteaj/iot-test@2.0.0?classifier=sources
+- pkg:maven/com.iteaj/iot-test@2.1.0
+- pkg:maven/com.iteaj/iot-test@2.1.0?classifier=sources
+- pkg:maven/com.iteaj/iot-test@2.2.1
+- pkg:maven/com.iteaj/iot-test@2.2.1?classifier=sources

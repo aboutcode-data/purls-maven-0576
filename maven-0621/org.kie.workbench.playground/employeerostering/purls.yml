@@ -66,6 +66,8 @@
 - pkg:maven/org.kie.workbench.playground/employeerostering@7.55.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/employeerostering@7.56.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/employeerostering@7.57.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.playground/employeerostering@7.58.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.playground/employeerostering@7.59.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/employeerostering@7.6.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/employeerostering@7.7.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/employeerostering@7.8.0.Final?classifier=sources

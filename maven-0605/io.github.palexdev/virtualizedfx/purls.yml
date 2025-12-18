@@ -1,0 +1,5 @@
+- pkg:maven/io.github.palexdev/virtualizedfx@11.0.2?classifier=sources
+- pkg:maven/io.github.palexdev/virtualizedfx@11.0.3?classifier=sources
+- pkg:maven/io.github.palexdev/virtualizedfx@11.0.4?classifier=sources
+- pkg:maven/io.github.palexdev/virtualizedfx@11.1.1?classifier=sources
+- pkg:maven/io.github.palexdev/virtualizedfx@11.1.2?classifier=sources

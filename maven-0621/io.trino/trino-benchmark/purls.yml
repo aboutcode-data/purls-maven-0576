@@ -16,3 +16,7 @@
 - pkg:maven/io.trino/trino-benchmark@358?classifier=sources
 - pkg:maven/io.trino/trino-benchmark@359
 - pkg:maven/io.trino/trino-benchmark@359?classifier=sources
+- pkg:maven/io.trino/trino-benchmark@360
+- pkg:maven/io.trino/trino-benchmark@360?classifier=sources
+- pkg:maven/io.trino/trino-benchmark@361
+- pkg:maven/io.trino/trino-benchmark@361?classifier=sources

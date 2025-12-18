@@ -24,6 +24,8 @@
 - pkg:maven/com.sun.xml.bind.external/rngom@2.3.3?classifier=sources
 - pkg:maven/com.sun.xml.bind.external/rngom@2.3.4
 - pkg:maven/com.sun.xml.bind.external/rngom@2.3.4?classifier=sources
+- pkg:maven/com.sun.xml.bind.external/rngom@2.3.5
+- pkg:maven/com.sun.xml.bind.external/rngom@2.3.5?classifier=sources
 - pkg:maven/com.sun.xml.bind.external/rngom@2.4.0-b180725.0644
 - pkg:maven/com.sun.xml.bind.external/rngom@2.4.0-b180725.0644?classifier=sources
 - pkg:maven/com.sun.xml.bind.external/rngom@2.4.0-b180830.0438
@@ -41,6 +43,10 @@
 - pkg:maven/com.sun.xml.bind.external/rngom@3.0.0-M5?classifier=sources
 - pkg:maven/com.sun.xml.bind.external/rngom@3.0.0?classifier=sources
 - pkg:maven/com.sun.xml.bind.external/rngom@3.0.1
+- pkg:maven/com.sun.xml.bind.external/rngom@3.0.1-b02
+- pkg:maven/com.sun.xml.bind.external/rngom@3.0.1-b02?classifier=sources
 - pkg:maven/com.sun.xml.bind.external/rngom@3.0.1?classifier=sources
+- pkg:maven/com.sun.xml.bind.external/rngom@3.0.2
 - pkg:maven/com.sun.xml.bind.external/rngom@3.0.2-b01
 - pkg:maven/com.sun.xml.bind.external/rngom@3.0.2-b01?classifier=sources
+- pkg:maven/com.sun.xml.bind.external/rngom@3.0.2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.github.karimagnusson/kuzminki@0.1.0-trial
+- pkg:maven/io.github.karimagnusson/kuzminki@0.1.0-trial?classifier=sources
+- pkg:maven/io.github.karimagnusson/kuzminki@0.9.0
+- pkg:maven/io.github.karimagnusson/kuzminki@0.9.0?classifier=sources

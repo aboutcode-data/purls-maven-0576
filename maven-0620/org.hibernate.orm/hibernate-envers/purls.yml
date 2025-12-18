@@ -9,3 +9,4 @@
 - pkg:maven/org.hibernate.orm/hibernate-envers@6.0.0.Alpha7
 - pkg:maven/org.hibernate.orm/hibernate-envers@6.0.0.Alpha7?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-envers@6.0.0.Alpha8?classifier=sources
+- pkg:maven/org.hibernate.orm/hibernate-envers@6.0.0.Alpha9?classifier=sources

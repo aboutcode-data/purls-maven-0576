@@ -10,3 +10,11 @@
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-1.x-tools@1.22.0?classifier=sources
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-1.x-tools@1.23.0
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-1.x-tools@1.23.0?classifier=sources
+- pkg:maven/com.google.cloud.bigtable/bigtable-hbase-1.x-tools@1.23.1
+- pkg:maven/com.google.cloud.bigtable/bigtable-hbase-1.x-tools@1.23.1?classifier=sources
+- pkg:maven/com.google.cloud.bigtable/bigtable-hbase-1.x-tools@1.24.0
+- pkg:maven/com.google.cloud.bigtable/bigtable-hbase-1.x-tools@1.24.0?classifier=sources
+- pkg:maven/com.google.cloud.bigtable/bigtable-hbase-1.x-tools@2.0.0-alpha1
+- pkg:maven/com.google.cloud.bigtable/bigtable-hbase-1.x-tools@2.0.0-alpha1?classifier=sources
+- pkg:maven/com.google.cloud.bigtable/bigtable-hbase-1.x-tools@2.0.0-alpha2
+- pkg:maven/com.google.cloud.bigtable/bigtable-hbase-1.x-tools@2.0.0-alpha2?classifier=sources

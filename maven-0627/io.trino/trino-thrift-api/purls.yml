@@ -16,3 +16,7 @@
 - pkg:maven/io.trino/trino-thrift-api@358?classifier=sources
 - pkg:maven/io.trino/trino-thrift-api@359
 - pkg:maven/io.trino/trino-thrift-api@359?classifier=sources
+- pkg:maven/io.trino/trino-thrift-api@360
+- pkg:maven/io.trino/trino-thrift-api@360?classifier=sources
+- pkg:maven/io.trino/trino-thrift-api@361
+- pkg:maven/io.trino/trino-thrift-api@361?classifier=sources

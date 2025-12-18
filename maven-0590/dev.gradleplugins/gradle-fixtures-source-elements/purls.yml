@@ -26,6 +26,8 @@
 - pkg:maven/dev.gradleplugins/gradle-fixtures-source-elements@0.0.125?classifier=sources
 - pkg:maven/dev.gradleplugins/gradle-fixtures-source-elements@0.0.126?classifier=sources
 - pkg:maven/dev.gradleplugins/gradle-fixtures-source-elements@0.0.127?classifier=sources
+- pkg:maven/dev.gradleplugins/gradle-fixtures-source-elements@0.0.128?classifier=sources
+- pkg:maven/dev.gradleplugins/gradle-fixtures-source-elements@0.0.129?classifier=sources
 - pkg:maven/dev.gradleplugins/gradle-fixtures-source-elements@0.0.96?classifier=sources
 - pkg:maven/dev.gradleplugins/gradle-fixtures-source-elements@0.0.97?classifier=sources
 - pkg:maven/dev.gradleplugins/gradle-fixtures-source-elements@0.0.98?classifier=sources

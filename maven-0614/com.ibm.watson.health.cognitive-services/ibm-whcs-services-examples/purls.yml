@@ -4,3 +4,5 @@
 - pkg:maven/com.ibm.watson.health.cognitive-services/ibm-whcs-services-examples@1.1.14?classifier=sources
 - pkg:maven/com.ibm.watson.health.cognitive-services/ibm-whcs-services-examples@1.1.15
 - pkg:maven/com.ibm.watson.health.cognitive-services/ibm-whcs-services-examples@1.1.15?classifier=sources
+- pkg:maven/com.ibm.watson.health.cognitive-services/ibm-whcs-services-examples@1.1.16
+- pkg:maven/com.ibm.watson.health.cognitive-services/ibm-whcs-services-examples@1.1.16?classifier=sources

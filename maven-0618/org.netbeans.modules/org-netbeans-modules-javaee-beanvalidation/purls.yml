@@ -9,3 +9,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee-beanvalidation@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee-beanvalidation@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee-beanvalidation@RELEASE124?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee-beanvalidation@RELEASE125?classifier=sources

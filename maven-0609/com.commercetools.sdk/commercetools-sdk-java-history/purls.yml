@@ -3,3 +3,7 @@
 - pkg:maven/com.commercetools.sdk/commercetools-sdk-java-history@4.1.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-sdk-java-history@5.0.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-sdk-java-history@5.1.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-sdk-java-history@5.2.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-sdk-java-history@6.0.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-sdk-java-history@6.1.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-sdk-java-history@6.2.0?classifier=sources

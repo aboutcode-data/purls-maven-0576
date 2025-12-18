@@ -10,3 +10,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-kit@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-kit@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-kit@RELEASE124?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-kit@RELEASE125?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/fr.pilato.elasticsearch.crawler/fscrawler-elasticsearch-client-v6@2.6
 - pkg:maven/fr.pilato.elasticsearch.crawler/fscrawler-elasticsearch-client-v6@2.6?classifier=sources
+- pkg:maven/fr.pilato.elasticsearch.crawler/fscrawler-elasticsearch-client-v6@2.7
+- pkg:maven/fr.pilato.elasticsearch.crawler/fscrawler-elasticsearch-client-v6@2.7?classifier=sources

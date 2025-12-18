@@ -1,0 +1,2 @@
+- pkg:maven/com.github.nomou.pangolin/pangolin-client-core@0.0.1-BETA
+- pkg:maven/com.github.nomou.pangolin/pangolin-client-core@0.0.1-BETA?classifier=sources

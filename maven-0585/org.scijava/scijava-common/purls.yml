@@ -258,3 +258,5 @@
 - pkg:maven/org.scijava/scijava-common@2.84.0?classifier=sources
 - pkg:maven/org.scijava/scijava-common@2.85.0
 - pkg:maven/org.scijava/scijava-common@2.85.0?classifier=sources
+- pkg:maven/org.scijava/scijava-common@2.87.0
+- pkg:maven/org.scijava/scijava-common@2.87.0?classifier=sources

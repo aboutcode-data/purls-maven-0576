@@ -1,2 +1,4 @@
 - pkg:maven/org.silentsoft.maven.plugins/acmicpc-maven-plugin@1.0.0
 - pkg:maven/org.silentsoft.maven.plugins/acmicpc-maven-plugin@1.0.0?classifier=sources
+- pkg:maven/org.silentsoft.maven.plugins/acmicpc-maven-plugin@1.1.0
+- pkg:maven/org.silentsoft.maven.plugins/acmicpc-maven-plugin@1.1.0?classifier=sources

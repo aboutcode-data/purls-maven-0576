@@ -1,0 +1,2 @@
+- pkg:maven/io.github.taoweiji.grouter/grouter-gradle-plugin@1.2.2
+- pkg:maven/io.github.taoweiji.grouter/grouter-gradle-plugin@1.2.2?classifier=sources

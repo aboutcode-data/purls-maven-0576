@@ -7,3 +7,4 @@
 - pkg:maven/com.epam.reportportal/agent-java-jbehave@4.2.2?classifier=sources
 - pkg:maven/com.epam.reportportal/agent-java-jbehave@5.0.0-RC-2?classifier=sources
 - pkg:maven/com.epam.reportportal/agent-java-jbehave@5.0.0-RC-3?classifier=sources
+- pkg:maven/com.epam.reportportal/agent-java-jbehave@5.1.0-RC-1?classifier=sources

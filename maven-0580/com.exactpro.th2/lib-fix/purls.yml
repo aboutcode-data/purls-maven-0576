@@ -1,0 +1,2 @@
+- pkg:maven/com.exactpro.th2/lib-fix@1.0.1?classifier=sources
+- pkg:maven/com.exactpro.th2/lib-fix@1.1.0?classifier=sources

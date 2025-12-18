@@ -1,0 +1,2 @@
+- pkg:maven/io.github.wangshuwen1107/xpicker@1.0.2?classifier=sources
+- pkg:maven/io.github.wangshuwen1107/xpicker@1.0.2?type=aar
