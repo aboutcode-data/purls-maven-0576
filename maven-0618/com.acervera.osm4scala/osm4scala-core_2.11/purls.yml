@@ -3,4 +3,6 @@
 - pkg:maven/com.acervera.osm4scala/osm4scala-core_2.11@1.0.1?classifier=sources
 - pkg:maven/com.acervera.osm4scala/osm4scala-core_2.11@1.0.3
 - pkg:maven/com.acervera.osm4scala/osm4scala-core_2.11@1.0.3?classifier=sources
+- pkg:maven/com.acervera.osm4scala/osm4scala-core_2.11@1.0.7
+- pkg:maven/com.acervera.osm4scala/osm4scala-core_2.11@1.0.7?classifier=sources
 - pkg:maven/com.acervera.osm4scala/osm4scala-core_2.11@1.0?classifier=sources

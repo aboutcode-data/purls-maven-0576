@@ -1,1 +1,3 @@
+- pkg:maven/com.github.wellusion/xml-extensions@1.01?classifier=sources
 - pkg:maven/com.github.wellusion/xml-extensions@1.0?classifier=sources
+- pkg:maven/com.github.wellusion/xml-extensions@1.1?classifier=sources

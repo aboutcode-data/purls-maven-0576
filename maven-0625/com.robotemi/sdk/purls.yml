@@ -14,3 +14,6 @@
 - pkg:maven/com.robotemi/sdk@0.10.69?type=aar
 - pkg:maven/com.robotemi/sdk@0.10.6?type=aar
 - pkg:maven/com.robotemi/sdk@0.10.70?type=aar
+- pkg:maven/com.robotemi/sdk@0.10.71?type=aar
+- pkg:maven/com.robotemi/sdk@0.10.72?type=aar
+- pkg:maven/com.robotemi/sdk@0.10.73?type=aar

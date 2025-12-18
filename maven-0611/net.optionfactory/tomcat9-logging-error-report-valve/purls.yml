@@ -1,2 +1,4 @@
 - pkg:maven/net.optionfactory/tomcat9-logging-error-report-valve@1.0
 - pkg:maven/net.optionfactory/tomcat9-logging-error-report-valve@1.0?classifier=sources
+- pkg:maven/net.optionfactory/tomcat9-logging-error-report-valve@2.0
+- pkg:maven/net.optionfactory/tomcat9-logging-error-report-valve@2.0?classifier=sources

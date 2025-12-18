@@ -10,3 +10,7 @@
 - pkg:maven/com.github.siwenyan/glue@1.22.a?classifier=sources
 - pkg:maven/com.github.siwenyan/glue@1.23.a
 - pkg:maven/com.github.siwenyan/glue@1.23.a?classifier=sources
+- pkg:maven/com.github.siwenyan/glue@1.24.a
+- pkg:maven/com.github.siwenyan/glue@1.24.a?classifier=sources
+- pkg:maven/com.github.siwenyan/glue@1.25.a
+- pkg:maven/com.github.siwenyan/glue@1.25.a?classifier=sources

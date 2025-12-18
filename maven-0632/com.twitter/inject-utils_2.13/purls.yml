@@ -1,0 +1,4 @@
+- pkg:maven/com.twitter/inject-utils_2.13@20.10.0
+- pkg:maven/com.twitter/inject-utils_2.13@20.10.0?classifier=sources
+- pkg:maven/com.twitter/inject-utils_2.13@20.9.0
+- pkg:maven/com.twitter/inject-utils_2.13@20.9.0?classifier=sources

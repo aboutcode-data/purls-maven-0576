@@ -12,3 +12,5 @@
 - pkg:maven/org.springframework.cloud.stream.app/task-launcher-dataflow-sink-kafka@1.1.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud.stream.app/task-launcher-dataflow-sink-kafka@1.1.3.RELEASE
 - pkg:maven/org.springframework.cloud.stream.app/task-launcher-dataflow-sink-kafka@1.1.3.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud.stream.app/task-launcher-dataflow-sink-kafka@1.1.4.RELEASE
+- pkg:maven/org.springframework.cloud.stream.app/task-launcher-dataflow-sink-kafka@1.1.4.RELEASE?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.hadoop/mini-chaos-tests@0.5.0-beta
+- pkg:maven/org.apache.hadoop/mini-chaos-tests@1.0.0

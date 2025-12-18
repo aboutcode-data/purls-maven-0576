@@ -10,5 +10,7 @@
 - pkg:maven/org.webjars.npm/datatables.net-dt@1.10.19?classifier=sources
 - pkg:maven/org.webjars.npm/datatables.net-dt@1.10.20
 - pkg:maven/org.webjars.npm/datatables.net-dt@1.10.20?classifier=sources
+- pkg:maven/org.webjars.npm/datatables.net-dt@1.10.22
+- pkg:maven/org.webjars.npm/datatables.net-dt@1.10.22?classifier=sources
 - pkg:maven/org.webjars.npm/datatables.net-dt@2.1.1
 - pkg:maven/org.webjars.npm/datatables.net-dt@2.1.1?classifier=sources

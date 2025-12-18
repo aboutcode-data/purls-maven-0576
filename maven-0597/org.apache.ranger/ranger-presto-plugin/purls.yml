@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.ranger/ranger-presto-plugin@2.0.0
+- pkg:maven/org.apache.ranger/ranger-presto-plugin@2.1.0

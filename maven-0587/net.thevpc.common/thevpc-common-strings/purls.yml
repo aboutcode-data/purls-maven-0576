@@ -1,0 +1,2 @@
+- pkg:maven/net.thevpc.common/thevpc-common-strings@1.2.18
+- pkg:maven/net.thevpc.common/thevpc-common-strings@1.2.18?classifier=sources

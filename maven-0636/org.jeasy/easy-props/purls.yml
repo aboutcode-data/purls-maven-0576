@@ -4,3 +4,7 @@
 - pkg:maven/org.jeasy/easy-props@2.0.1?classifier=sources
 - pkg:maven/org.jeasy/easy-props@3.0.0
 - pkg:maven/org.jeasy/easy-props@3.0.0?classifier=sources
+- pkg:maven/org.jeasy/easy-props@3.1.0
+- pkg:maven/org.jeasy/easy-props@3.1.0?classifier=sources
+- pkg:maven/org.jeasy/easy-props@4.0.0
+- pkg:maven/org.jeasy/easy-props@4.0.0?classifier=sources

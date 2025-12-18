@@ -1,0 +1,2 @@
+- pkg:maven/top.ssrsdev/plugin-elasticsearch@1.0.5
+- pkg:maven/top.ssrsdev/plugin-elasticsearch@1.0.5?classifier=sources

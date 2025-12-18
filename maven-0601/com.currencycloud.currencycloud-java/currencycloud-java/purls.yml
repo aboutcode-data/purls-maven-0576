@@ -44,3 +44,9 @@
 - pkg:maven/com.currencycloud.currencycloud-java/currencycloud-java@3.5.1?classifier=sources
 - pkg:maven/com.currencycloud.currencycloud-java/currencycloud-java@3.6.1
 - pkg:maven/com.currencycloud.currencycloud-java/currencycloud-java@3.6.1?classifier=sources
+- pkg:maven/com.currencycloud.currencycloud-java/currencycloud-java@3.7.0
+- pkg:maven/com.currencycloud.currencycloud-java/currencycloud-java@3.7.0?classifier=sources
+- pkg:maven/com.currencycloud.currencycloud-java/currencycloud-java@3.8.1
+- pkg:maven/com.currencycloud.currencycloud-java/currencycloud-java@3.8.1?classifier=sources
+- pkg:maven/com.currencycloud.currencycloud-java/currencycloud-java@4.0.2
+- pkg:maven/com.currencycloud.currencycloud-java/currencycloud-java@4.0.2?classifier=sources

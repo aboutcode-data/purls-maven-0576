@@ -1,0 +1,17 @@
+- pkg:maven/com.adobe.granite/com.adobe.granite.xssprotection@1.0.0?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.xssprotection@1.0.2?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.xssprotection@1.0.4?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.xssprotection@1.0.6?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.xssprotection@5.5.0?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.xssprotection@5.5.10?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.xssprotection@5.5.12?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.xssprotection@5.5.14?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.xssprotection@5.5.18?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.xssprotection@5.5.20?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.xssprotection@5.5.22?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.xssprotection@5.5.24?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.xssprotection@5.5.26?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.xssprotection@5.5.2?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.xssprotection@5.5.4?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.xssprotection@5.5.6?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.xssprotection@5.5.8?classifier=sources

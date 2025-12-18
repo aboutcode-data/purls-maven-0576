@@ -1,5 +1,7 @@
 - pkg:maven/com.anaptecs.jeaf.persistence/jeaf-persistence-service-provider-base@1.5.10
 - pkg:maven/com.anaptecs.jeaf.persistence/jeaf-persistence-service-provider-base@1.5.10?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.persistence/jeaf-persistence-service-provider-base@1.5.13
+- pkg:maven/com.anaptecs.jeaf.persistence/jeaf-persistence-service-provider-base@1.5.13?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.persistence/jeaf-persistence-service-provider-base@1.5.7
 - pkg:maven/com.anaptecs.jeaf.persistence/jeaf-persistence-service-provider-base@1.5.7?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.persistence/jeaf-persistence-service-provider-base@1.5.8

@@ -2,3 +2,4 @@
 - pkg:maven/io.fluidsonic.json/fluid-json-ktor-client@1.0.2?classifier=sources
 - pkg:maven/io.fluidsonic.json/fluid-json-ktor-client@1.0.3?classifier=sources
 - pkg:maven/io.fluidsonic.json/fluid-json-ktor-client@1.1.0?classifier=sources
+- pkg:maven/io.fluidsonic.json/fluid-json-ktor-client@1.1.1?classifier=sources

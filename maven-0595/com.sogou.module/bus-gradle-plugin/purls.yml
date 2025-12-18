@@ -1,0 +1,2 @@
+- pkg:maven/com.sogou.module/bus-gradle-plugin@1.2.3
+- pkg:maven/com.sogou.module/bus-gradle-plugin@1.2.3?classifier=sources

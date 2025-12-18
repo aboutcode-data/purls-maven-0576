@@ -10,3 +10,5 @@
 - pkg:maven/ch.cern.sparkmeasure/spark-measure_2.11@0.15?classifier=sources
 - pkg:maven/ch.cern.sparkmeasure/spark-measure_2.11@0.16
 - pkg:maven/ch.cern.sparkmeasure/spark-measure_2.11@0.16?classifier=sources
+- pkg:maven/ch.cern.sparkmeasure/spark-measure_2.11@0.17
+- pkg:maven/ch.cern.sparkmeasure/spark-measure_2.11@0.17?classifier=sources

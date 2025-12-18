@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.maven/wso2-general-project-plugin@5.2.30
+- pkg:maven/org.wso2.maven/wso2-general-project-plugin@5.2.30?classifier=sources

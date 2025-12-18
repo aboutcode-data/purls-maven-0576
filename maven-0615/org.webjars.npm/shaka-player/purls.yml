@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/shaka-player@2.4.5?classifier=sources
 - pkg:maven/org.webjars.npm/shaka-player@2.5.5
 - pkg:maven/org.webjars.npm/shaka-player@2.5.5?classifier=sources
+- pkg:maven/org.webjars.npm/shaka-player@3.0.4
+- pkg:maven/org.webjars.npm/shaka-player@3.0.4?classifier=sources

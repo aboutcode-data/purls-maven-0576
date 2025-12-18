@@ -38,6 +38,14 @@
 - pkg:maven/net.officefloor.polyglot/officepolyglot_test@3.25.0?classifier=sources
 - pkg:maven/net.officefloor.polyglot/officepolyglot_test@3.26.0
 - pkg:maven/net.officefloor.polyglot/officepolyglot_test@3.26.0?classifier=sources
+- pkg:maven/net.officefloor.polyglot/officepolyglot_test@3.27.0
+- pkg:maven/net.officefloor.polyglot/officepolyglot_test@3.27.0?classifier=sources
+- pkg:maven/net.officefloor.polyglot/officepolyglot_test@3.28.0
+- pkg:maven/net.officefloor.polyglot/officepolyglot_test@3.28.0?classifier=sources
+- pkg:maven/net.officefloor.polyglot/officepolyglot_test@3.28.1
+- pkg:maven/net.officefloor.polyglot/officepolyglot_test@3.28.1?classifier=sources
+- pkg:maven/net.officefloor.polyglot/officepolyglot_test@3.28.2
+- pkg:maven/net.officefloor.polyglot/officepolyglot_test@3.28.2?classifier=sources
 - pkg:maven/net.officefloor.polyglot/officepolyglot_test@3.9.0
 - pkg:maven/net.officefloor.polyglot/officepolyglot_test@3.9.0?classifier=sources
 - pkg:maven/net.officefloor.polyglot/officepolyglot_test@3.9.1

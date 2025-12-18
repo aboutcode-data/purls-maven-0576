@@ -28,3 +28,9 @@
 - pkg:maven/be.personify.iam/personify-frontend@1.1.4.RELEASE?classifier=sources
 - pkg:maven/be.personify.iam/personify-frontend@1.1.5.RELEASE
 - pkg:maven/be.personify.iam/personify-frontend@1.1.5.RELEASE?classifier=sources
+- pkg:maven/be.personify.iam/personify-frontend@1.2.0.RELEASE
+- pkg:maven/be.personify.iam/personify-frontend@1.2.0.RELEASE?classifier=sources
+- pkg:maven/be.personify.iam/personify-frontend@1.2.1.RELEASE
+- pkg:maven/be.personify.iam/personify-frontend@1.2.1.RELEASE?classifier=sources
+- pkg:maven/be.personify.iam/personify-frontend@1.2.2.RELEASE
+- pkg:maven/be.personify.iam/personify-frontend@1.2.2.RELEASE?classifier=sources

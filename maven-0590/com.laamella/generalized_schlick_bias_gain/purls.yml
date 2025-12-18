@@ -1,0 +1,2 @@
+- pkg:maven/com.laamella/generalized_schlick_bias_gain@1.1
+- pkg:maven/com.laamella/generalized_schlick_bias_gain@1.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/cn.onekit.x2x.cloud/weixinsdk@1.2.2
+- pkg:maven/cn.onekit.x2x.cloud/weixinsdk@1.2.2?classifier=sources
+- pkg:maven/cn.onekit.x2x.cloud/weixinsdk@1.2.3
+- pkg:maven/cn.onekit.x2x.cloud/weixinsdk@1.2.3?classifier=sources

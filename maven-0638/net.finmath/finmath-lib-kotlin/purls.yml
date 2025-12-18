@@ -2,3 +2,5 @@
 - pkg:maven/net.finmath/finmath-lib-kotlin@5.0.3?classifier=sources
 - pkg:maven/net.finmath/finmath-lib-kotlin@5.0.4
 - pkg:maven/net.finmath/finmath-lib-kotlin@5.0.4?classifier=sources
+- pkg:maven/net.finmath/finmath-lib-kotlin@5.0.5
+- pkg:maven/net.finmath/finmath-lib-kotlin@5.0.5?classifier=sources

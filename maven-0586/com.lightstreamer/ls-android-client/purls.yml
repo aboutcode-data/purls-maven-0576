@@ -2,3 +2,4 @@
 - pkg:maven/com.lightstreamer/ls-android-client@4.2.2-alpha.2?classifier=sources
 - pkg:maven/com.lightstreamer/ls-android-client@4.2.2-alpha?classifier=sources
 - pkg:maven/com.lightstreamer/ls-android-client@4.2.2?classifier=sources
+- pkg:maven/com.lightstreamer/ls-android-client@4.2.3?classifier=sources

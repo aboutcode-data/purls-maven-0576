@@ -16,3 +16,4 @@
 - pkg:maven/com.shinesolutions/aem-orchestrator@2.0.0?classifier=sources
 - pkg:maven/com.shinesolutions/aem-orchestrator@2.0.1
 - pkg:maven/com.shinesolutions/aem-orchestrator@2.0.1?classifier=sources
+- pkg:maven/com.shinesolutions/aem-orchestrator@3.0.0?classifier=sources

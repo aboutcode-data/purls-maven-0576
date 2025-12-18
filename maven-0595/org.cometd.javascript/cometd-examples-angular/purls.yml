@@ -32,3 +32,4 @@
 - pkg:maven/org.cometd.javascript/cometd-examples-angular@4.0.6?type=war
 - pkg:maven/org.cometd.javascript/cometd-examples-angular@4.0.7?type=war
 - pkg:maven/org.cometd.javascript/cometd-examples-angular@4.0.8?type=war
+- pkg:maven/org.cometd.javascript/cometd-examples-angular@4.0.9?type=war

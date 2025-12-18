@@ -1,0 +1,2 @@
+- pkg:maven/de.sciss/optional_sjs1_2.13@1.0.1
+- pkg:maven/de.sciss/optional_sjs1_2.13@1.0.1?classifier=sources

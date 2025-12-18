@@ -8,3 +8,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.osgi.services@3.7.100?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.osgi.services@3.8.0
 - pkg:maven/org.eclipse.platform/org.eclipse.osgi.services@3.8.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.osgi.services@3.9.0
+- pkg:maven/org.eclipse.platform/org.eclipse.osgi.services@3.9.0?classifier=sources

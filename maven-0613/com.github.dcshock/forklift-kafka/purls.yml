@@ -18,3 +18,4 @@
 - pkg:maven/com.github.dcshock/forklift-kafka@3.6?classifier=sources
 - pkg:maven/com.github.dcshock/forklift-kafka@3.7
 - pkg:maven/com.github.dcshock/forklift-kafka@3.7?classifier=sources
+- pkg:maven/com.github.dcshock/forklift-kafka@3.8?classifier=sources

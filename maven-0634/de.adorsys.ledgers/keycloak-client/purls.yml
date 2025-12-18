@@ -1,0 +1,6 @@
+- pkg:maven/de.adorsys.ledgers/keycloak-client@4.0
+- pkg:maven/de.adorsys.ledgers/keycloak-client@4.0.1
+- pkg:maven/de.adorsys.ledgers/keycloak-client@4.0.1?classifier=sources
+- pkg:maven/de.adorsys.ledgers/keycloak-client@4.0?classifier=sources
+- pkg:maven/de.adorsys.ledgers/keycloak-client@4.1
+- pkg:maven/de.adorsys.ledgers/keycloak-client@4.1?classifier=sources

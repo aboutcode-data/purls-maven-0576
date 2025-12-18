@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun/aliyun-java-sdk-et-industry-openapi@1.8
+- pkg:maven/com.aliyun/aliyun-java-sdk-et-industry-openapi@1.8?classifier=sources

@@ -34,7 +34,11 @@
 - pkg:maven/com.vaadin/vaadin-context-menu-flow@3.1.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-context-menu-flow@3.2.0
 - pkg:maven/com.vaadin/vaadin-context-menu-flow@3.2.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-context-menu-flow@3.3.0
+- pkg:maven/com.vaadin/vaadin-context-menu-flow@3.3.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-context-menu-flow@4.0.0
 - pkg:maven/com.vaadin/vaadin-context-menu-flow@4.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-context-menu-flow@4.1.0
 - pkg:maven/com.vaadin/vaadin-context-menu-flow@4.1.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-context-menu-flow@5.0.0
+- pkg:maven/com.vaadin/vaadin-context-menu-flow@5.0.0?classifier=sources

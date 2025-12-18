@@ -20,6 +20,10 @@
 - pkg:maven/com.goyeau/mill-scalafix_2.13@0.1.4?classifier=sources
 - pkg:maven/com.goyeau/mill-scalafix_2.13@0.1.5
 - pkg:maven/com.goyeau/mill-scalafix_2.13@0.1.5?classifier=sources
+- pkg:maven/com.goyeau/mill-scalafix_2.13@1ae0cf3
+- pkg:maven/com.goyeau/mill-scalafix_2.13@1ae0cf3?classifier=sources
+- pkg:maven/com.goyeau/mill-scalafix_2.13@1e5023d
+- pkg:maven/com.goyeau/mill-scalafix_2.13@1e5023d?classifier=sources
 - pkg:maven/com.goyeau/mill-scalafix_2.13@516a01f
 - pkg:maven/com.goyeau/mill-scalafix_2.13@516a01f?classifier=sources
 - pkg:maven/com.goyeau/mill-scalafix_2.13@5a7afce
@@ -30,8 +34,16 @@
 - pkg:maven/com.goyeau/mill-scalafix_2.13@72d5ca0?classifier=sources
 - pkg:maven/com.goyeau/mill-scalafix_2.13@7e87736
 - pkg:maven/com.goyeau/mill-scalafix_2.13@7e87736?classifier=sources
+- pkg:maven/com.goyeau/mill-scalafix_2.13@7f63d31
+- pkg:maven/com.goyeau/mill-scalafix_2.13@7f63d31?classifier=sources
+- pkg:maven/com.goyeau/mill-scalafix_2.13@82510f7
+- pkg:maven/com.goyeau/mill-scalafix_2.13@82510f7?classifier=sources
+- pkg:maven/com.goyeau/mill-scalafix_2.13@847034c
+- pkg:maven/com.goyeau/mill-scalafix_2.13@847034c?classifier=sources
 - pkg:maven/com.goyeau/mill-scalafix_2.13@8515ae6
 - pkg:maven/com.goyeau/mill-scalafix_2.13@8515ae6?classifier=sources
+- pkg:maven/com.goyeau/mill-scalafix_2.13@88ec358
+- pkg:maven/com.goyeau/mill-scalafix_2.13@88ec358?classifier=sources
 - pkg:maven/com.goyeau/mill-scalafix_2.13@8974b57
 - pkg:maven/com.goyeau/mill-scalafix_2.13@8974b57?classifier=sources
 - pkg:maven/com.goyeau/mill-scalafix_2.13@8c0e7c8
@@ -50,3 +62,5 @@
 - pkg:maven/com.goyeau/mill-scalafix_2.13@d06a578?classifier=sources
 - pkg:maven/com.goyeau/mill-scalafix_2.13@eec2d54
 - pkg:maven/com.goyeau/mill-scalafix_2.13@eec2d54?classifier=sources
+- pkg:maven/com.goyeau/mill-scalafix_2.13@f13d64b
+- pkg:maven/com.goyeau/mill-scalafix_2.13@f13d64b?classifier=sources

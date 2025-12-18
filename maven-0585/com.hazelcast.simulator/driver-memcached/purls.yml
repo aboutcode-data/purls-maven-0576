@@ -1,0 +1,2 @@
+- pkg:maven/com.hazelcast.simulator/driver-memcached@0.12
+- pkg:maven/com.hazelcast.simulator/driver-memcached@0.12?classifier=sources

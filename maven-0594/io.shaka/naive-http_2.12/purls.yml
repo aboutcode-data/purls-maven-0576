@@ -6,6 +6,10 @@
 - pkg:maven/io.shaka/naive-http_2.12@108?classifier=sources
 - pkg:maven/io.shaka/naive-http_2.12@110
 - pkg:maven/io.shaka/naive-http_2.12@110?classifier=sources
+- pkg:maven/io.shaka/naive-http_2.12@113
+- pkg:maven/io.shaka/naive-http_2.12@113?classifier=sources
+- pkg:maven/io.shaka/naive-http_2.12@114
+- pkg:maven/io.shaka/naive-http_2.12@114?classifier=sources
 - pkg:maven/io.shaka/naive-http_2.12@90
 - pkg:maven/io.shaka/naive-http_2.12@90?classifier=sources
 - pkg:maven/io.shaka/naive-http_2.12@94

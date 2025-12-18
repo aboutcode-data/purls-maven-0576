@@ -1,0 +1,4 @@
+- pkg:maven/org.finos.legend.shared/legend-shared-opentracing-base@0.0.8
+- pkg:maven/org.finos.legend.shared/legend-shared-opentracing-base@0.0.8?classifier=sources
+- pkg:maven/org.finos.legend.shared/legend-shared-opentracing-base@0.1.0
+- pkg:maven/org.finos.legend.shared/legend-shared-opentracing-base@0.1.0?classifier=sources

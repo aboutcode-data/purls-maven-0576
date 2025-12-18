@@ -1,0 +1,2 @@
+- pkg:maven/com.github.dsc-cmt/extension-common@1.2.1
+- pkg:maven/com.github.dsc-cmt/extension-common@1.2.1?classifier=sources

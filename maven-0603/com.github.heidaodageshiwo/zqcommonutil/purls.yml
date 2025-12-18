@@ -22,3 +22,5 @@
 - pkg:maven/com.github.heidaodageshiwo/zqcommonutil@0.1.3-RELEASE?classifier=sources
 - pkg:maven/com.github.heidaodageshiwo/zqcommonutil@0.1.4-RELEASE
 - pkg:maven/com.github.heidaodageshiwo/zqcommonutil@0.1.4-RELEASE?classifier=sources
+- pkg:maven/com.github.heidaodageshiwo/zqcommonutil@0.1.6-RELEASE
+- pkg:maven/com.github.heidaodageshiwo/zqcommonutil@0.1.6-RELEASE?classifier=sources

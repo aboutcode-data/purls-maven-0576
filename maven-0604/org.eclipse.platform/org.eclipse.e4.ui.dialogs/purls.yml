@@ -16,3 +16,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.dialogs@1.1.700?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.dialogs@1.1.800
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.dialogs@1.1.800?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.dialogs@1.2.0
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.dialogs@1.2.0?classifier=sources

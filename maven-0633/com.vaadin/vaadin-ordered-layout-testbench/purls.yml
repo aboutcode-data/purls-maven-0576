@@ -4,7 +4,11 @@
 - pkg:maven/com.vaadin/vaadin-ordered-layout-testbench@2.1.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-ordered-layout-testbench@2.2.0
 - pkg:maven/com.vaadin/vaadin-ordered-layout-testbench@2.2.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-ordered-layout-testbench@2.3.0
+- pkg:maven/com.vaadin/vaadin-ordered-layout-testbench@2.3.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-ordered-layout-testbench@3.0.0
 - pkg:maven/com.vaadin/vaadin-ordered-layout-testbench@3.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-ordered-layout-testbench@3.1.0
 - pkg:maven/com.vaadin/vaadin-ordered-layout-testbench@3.1.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-ordered-layout-testbench@4.0.0
+- pkg:maven/com.vaadin/vaadin-ordered-layout-testbench@4.0.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/ch.qligier/schematronix@0.1.1?classifier=sources
 - pkg:maven/ch.qligier/schematronix@0.2.1
 - pkg:maven/ch.qligier/schematronix@0.2.1?classifier=sources
+- pkg:maven/ch.qligier/schematronix@0.3.0
+- pkg:maven/ch.qligier/schematronix@0.3.0?classifier=sources

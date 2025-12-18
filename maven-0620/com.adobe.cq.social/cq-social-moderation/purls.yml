@@ -1,0 +1,4 @@
+- pkg:maven/com.adobe.cq.social/cq-social-moderation@1.0.9?classifier=sources
+- pkg:maven/com.adobe.cq.social/cq-social-moderation@1.9.0?classifier=sources
+- pkg:maven/com.adobe.cq.social/cq-social-moderation@2.1.13?classifier=sources
+- pkg:maven/com.adobe.cq.social/cq-social-moderation@2.2.16?classifier=sources

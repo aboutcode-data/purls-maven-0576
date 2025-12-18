@@ -6,3 +6,7 @@
 - pkg:maven/dk.acto/auth-client@1.1.144.c4a624e?classifier=sources
 - pkg:maven/dk.acto/auth-client@1.1.145.6affb9d
 - pkg:maven/dk.acto/auth-client@1.1.145.6affb9d?classifier=sources
+- pkg:maven/dk.acto/auth-client@1.1.146.d292f93
+- pkg:maven/dk.acto/auth-client@1.1.146.d292f93?classifier=sources
+- pkg:maven/dk.acto/auth-client@1.1.147.b18847f
+- pkg:maven/dk.acto/auth-client@1.1.147.b18847f?classifier=sources

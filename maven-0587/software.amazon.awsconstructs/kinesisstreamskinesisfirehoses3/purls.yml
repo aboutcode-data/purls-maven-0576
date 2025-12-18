@@ -1,0 +1,14 @@
+- pkg:maven/software.amazon.awsconstructs/kinesisstreamskinesisfirehoses3@1.68.0
+- pkg:maven/software.amazon.awsconstructs/kinesisstreamskinesisfirehoses3@1.68.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/kinesisstreamskinesisfirehoses3@1.69.0
+- pkg:maven/software.amazon.awsconstructs/kinesisstreamskinesisfirehoses3@1.69.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/kinesisstreamskinesisfirehoses3@1.70.0
+- pkg:maven/software.amazon.awsconstructs/kinesisstreamskinesisfirehoses3@1.70.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/kinesisstreamskinesisfirehoses3@1.71.0
+- pkg:maven/software.amazon.awsconstructs/kinesisstreamskinesisfirehoses3@1.71.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/kinesisstreamskinesisfirehoses3@1.72.0
+- pkg:maven/software.amazon.awsconstructs/kinesisstreamskinesisfirehoses3@1.72.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/kinesisstreamskinesisfirehoses3@1.73.0
+- pkg:maven/software.amazon.awsconstructs/kinesisstreamskinesisfirehoses3@1.73.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/kinesisstreamskinesisfirehoses3@1.74.0
+- pkg:maven/software.amazon.awsconstructs/kinesisstreamskinesisfirehoses3@1.74.0?classifier=sources

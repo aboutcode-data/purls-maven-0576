@@ -5,3 +5,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-ddloaders@RELEASE120-1?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-ddloaders@RELEASE120-u1?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-ddloaders@RELEASE120?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-ddloaders@RELEASE121?classifier=sources

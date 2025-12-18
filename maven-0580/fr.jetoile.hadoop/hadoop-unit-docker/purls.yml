@@ -10,3 +10,5 @@
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-docker@3.6?classifier=sources
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-docker@3.7
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-docker@3.7?classifier=sources
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-docker@3.8
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-docker@3.8?classifier=sources

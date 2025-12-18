@@ -4,5 +4,7 @@
 - pkg:maven/com.ftpix/sparknotation@1.11?classifier=sources
 - pkg:maven/com.ftpix/sparknotation@1.12
 - pkg:maven/com.ftpix/sparknotation@1.12?classifier=sources
+- pkg:maven/com.ftpix/sparknotation@1.13
+- pkg:maven/com.ftpix/sparknotation@1.13?classifier=sources
 - pkg:maven/com.ftpix/sparknotation@1.9
 - pkg:maven/com.ftpix/sparknotation@1.9?classifier=sources

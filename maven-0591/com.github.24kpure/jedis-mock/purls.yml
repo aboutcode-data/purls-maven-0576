@@ -1,0 +1,2 @@
+- pkg:maven/com.github.24kpure/jedis-mock@0.0.1
+- pkg:maven/com.github.24kpure/jedis-mock@0.0.1?classifier=sources

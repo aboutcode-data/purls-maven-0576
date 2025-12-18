@@ -16,3 +16,5 @@
 - pkg:maven/one.empty3/empty3-library-3d@2020.3.9
 - pkg:maven/one.empty3/empty3-library-3d@2020.3.9?classifier=sources
 - pkg:maven/one.empty3/empty3-library-3d@2020.3?classifier=sources
+- pkg:maven/one.empty3/empty3-library-3d@2020.4.1
+- pkg:maven/one.empty3/empty3-library-3d@2020.4.1?classifier=sources

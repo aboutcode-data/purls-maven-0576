@@ -1,6 +1,8 @@
 - pkg:maven/jakarta.batch/com.ibm.jbatch.tck.ann.proc@1.0.2
 - pkg:maven/jakarta.batch/com.ibm.jbatch.tck.ann.proc@1.0.2?classifier=sources
+- pkg:maven/jakarta.batch/com.ibm.jbatch.tck.ann.proc@2.0.0
 - pkg:maven/jakarta.batch/com.ibm.jbatch.tck.ann.proc@2.0.0-M2
 - pkg:maven/jakarta.batch/com.ibm.jbatch.tck.ann.proc@2.0.0-M2?classifier=sources
 - pkg:maven/jakarta.batch/com.ibm.jbatch.tck.ann.proc@2.0.0-M4
 - pkg:maven/jakarta.batch/com.ibm.jbatch.tck.ann.proc@2.0.0-M4?classifier=sources
+- pkg:maven/jakarta.batch/com.ibm.jbatch.tck.ann.proc@2.0.0?classifier=sources

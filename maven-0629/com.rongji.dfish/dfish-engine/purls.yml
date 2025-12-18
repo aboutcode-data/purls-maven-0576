@@ -3,6 +3,8 @@
 - pkg:maven/com.rongji.dfish/dfish-engine@3.2.6.RELEASE?type=war
 - pkg:maven/com.rongji.dfish/dfish-engine@3.2.7.RELEASE?type=war
 - pkg:maven/com.rongji.dfish/dfish-engine@3.2.8.RELEASE?type=war
+- pkg:maven/com.rongji.dfish/dfish-engine@3.2.9.RELEASE?type=war
 - pkg:maven/com.rongji.dfish/dfish-engine@5.0.0.RELEASE?type=war
 - pkg:maven/com.rongji.dfish/dfish-engine@5.0.1.RELEASE?type=war
 - pkg:maven/com.rongji.dfish/dfish-engine@5.0.2.RELEASE?type=war
+- pkg:maven/com.rongji.dfish/dfish-engine@5.0.3.RELEASE?type=war

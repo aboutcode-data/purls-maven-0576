@@ -1,0 +1,4 @@
+- pkg:maven/io.projectreactor.netty/reactor-netty-http@1.0.0
+- pkg:maven/io.projectreactor.netty/reactor-netty-http@1.0.0?classifier=sources
+- pkg:maven/io.projectreactor.netty/reactor-netty-http@1.0.1
+- pkg:maven/io.projectreactor.netty/reactor-netty-http@1.0.1?classifier=sources

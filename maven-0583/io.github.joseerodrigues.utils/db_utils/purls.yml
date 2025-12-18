@@ -1,0 +1,2 @@
+- pkg:maven/io.github.joseerodrigues.utils/db_utils@1.0.4
+- pkg:maven/io.github.joseerodrigues.utils/db_utils@1.0.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.scodec/core_3.0.0-M1@1.1.0-M1
+- pkg:maven/org.scodec/core_3.0.0-M1@1.1.0-M1?classifier=sources

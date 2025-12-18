@@ -6,3 +6,5 @@
 - pkg:maven/com.gettyio/gim-common@1.1.0-beta?classifier=sources
 - pkg:maven/com.gettyio/gim-common@1.1.1-beta
 - pkg:maven/com.gettyio/gim-common@1.1.1-beta?classifier=sources
+- pkg:maven/com.gettyio/gim-common@1.1.2-beta
+- pkg:maven/com.gettyio/gim-common@1.1.2-beta?classifier=sources

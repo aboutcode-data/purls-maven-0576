@@ -26,6 +26,10 @@
 - pkg:maven/de.sormuras.bach/de.sormuras.bach@11.6?classifier=sources
 - pkg:maven/de.sormuras.bach/de.sormuras.bach@11.7
 - pkg:maven/de.sormuras.bach/de.sormuras.bach@11.7?classifier=sources
+- pkg:maven/de.sormuras.bach/de.sormuras.bach@11.8
+- pkg:maven/de.sormuras.bach/de.sormuras.bach@11.8?classifier=sources
+- pkg:maven/de.sormuras.bach/de.sormuras.bach@11.9
+- pkg:maven/de.sormuras.bach/de.sormuras.bach@11.9?classifier=sources
 - pkg:maven/de.sormuras.bach/de.sormuras.bach@2.0
 - pkg:maven/de.sormuras.bach/de.sormuras.bach@2.0-M4
 - pkg:maven/de.sormuras.bach/de.sormuras.bach@2.0-M4?classifier=sources

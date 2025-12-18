@@ -34,3 +34,9 @@
 - pkg:maven/org.kie.workbench.services/kie-wb-common-compiler-maven-plugins-testing@7.41.0.Final
 - pkg:maven/org.kie.workbench.services/kie-wb-common-compiler-maven-plugins-testing@7.41.0.t20200723
 - pkg:maven/org.kie.workbench.services/kie-wb-common-compiler-maven-plugins-testing@7.42.0.Final
+- pkg:maven/org.kie.workbench.services/kie-wb-common-compiler-maven-plugins-testing@7.43.0.Final
+- pkg:maven/org.kie.workbench.services/kie-wb-common-compiler-maven-plugins-testing@7.43.1.Final
+- pkg:maven/org.kie.workbench.services/kie-wb-common-compiler-maven-plugins-testing@7.44.0.Final
+- pkg:maven/org.kie.workbench.services/kie-wb-common-compiler-maven-plugins-testing@7.45.0.Final
+- pkg:maven/org.kie.workbench.services/kie-wb-common-compiler-maven-plugins-testing@7.45.0.t20201009
+- pkg:maven/org.kie.workbench.services/kie-wb-common-compiler-maven-plugins-testing@7.46.0.Final

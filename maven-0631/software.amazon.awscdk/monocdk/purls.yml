@@ -1,0 +1,16 @@
+- pkg:maven/software.amazon.awscdk/monocdk@1.67.0.DEVPREVIEW
+- pkg:maven/software.amazon.awscdk/monocdk@1.67.0.DEVPREVIEW?classifier=sources
+- pkg:maven/software.amazon.awscdk/monocdk@1.68.0.DEVPREVIEW
+- pkg:maven/software.amazon.awscdk/monocdk@1.68.0.DEVPREVIEW?classifier=sources
+- pkg:maven/software.amazon.awscdk/monocdk@1.69.0.DEVPREVIEW
+- pkg:maven/software.amazon.awscdk/monocdk@1.69.0.DEVPREVIEW?classifier=sources
+- pkg:maven/software.amazon.awscdk/monocdk@1.70.0.DEVPREVIEW
+- pkg:maven/software.amazon.awscdk/monocdk@1.70.0.DEVPREVIEW?classifier=sources
+- pkg:maven/software.amazon.awscdk/monocdk@1.71.0.DEVPREVIEW
+- pkg:maven/software.amazon.awscdk/monocdk@1.71.0.DEVPREVIEW?classifier=sources
+- pkg:maven/software.amazon.awscdk/monocdk@1.72.0.DEVPREVIEW
+- pkg:maven/software.amazon.awscdk/monocdk@1.72.0.DEVPREVIEW?classifier=sources
+- pkg:maven/software.amazon.awscdk/monocdk@1.73.0.DEVPREVIEW
+- pkg:maven/software.amazon.awscdk/monocdk@1.73.0.DEVPREVIEW?classifier=sources
+- pkg:maven/software.amazon.awscdk/monocdk@1.74.0.DEVPREVIEW
+- pkg:maven/software.amazon.awscdk/monocdk@1.74.0.DEVPREVIEW?classifier=sources

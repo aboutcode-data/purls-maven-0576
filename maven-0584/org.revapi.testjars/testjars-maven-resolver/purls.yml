@@ -1,0 +1,2 @@
+- pkg:maven/org.revapi.testjars/testjars-maven-resolver@0.2.0
+- pkg:maven/org.revapi.testjars/testjars-maven-resolver@0.2.0?classifier=sources

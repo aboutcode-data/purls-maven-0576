@@ -1,0 +1,6 @@
+- pkg:maven/io.xream.sqli/sqli-dialect@1.0.0.RELEASE
+- pkg:maven/io.xream.sqli/sqli-dialect@1.0.0.RELEASE?classifier=sources
+- pkg:maven/io.xream.sqli/sqli-dialect@1.1.0.RELEASE
+- pkg:maven/io.xream.sqli/sqli-dialect@1.1.0.RELEASE?classifier=sources
+- pkg:maven/io.xream.sqli/sqli-dialect@1.2.0.RELEASE
+- pkg:maven/io.xream.sqli/sqli-dialect@1.2.0.RELEASE?classifier=sources

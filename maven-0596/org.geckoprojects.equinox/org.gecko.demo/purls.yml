@@ -1,0 +1,2 @@
+- pkg:maven/org.geckoprojects.equinox/org.gecko.demo@1.0.2
+- pkg:maven/org.geckoprojects.equinox/org.gecko.demo@1.0.2?classifier=sources

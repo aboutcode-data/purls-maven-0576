@@ -20,6 +20,12 @@
 - pkg:maven/org.beangle.security/beangle-security-cas_2.13@4.2.19?classifier=sources
 - pkg:maven/org.beangle.security/beangle-security-cas_2.13@4.2.20
 - pkg:maven/org.beangle.security/beangle-security-cas_2.13@4.2.20?classifier=sources
+- pkg:maven/org.beangle.security/beangle-security-cas_2.13@4.2.21
+- pkg:maven/org.beangle.security/beangle-security-cas_2.13@4.2.21?classifier=sources
+- pkg:maven/org.beangle.security/beangle-security-cas_2.13@4.2.22
+- pkg:maven/org.beangle.security/beangle-security-cas_2.13@4.2.22?classifier=sources
+- pkg:maven/org.beangle.security/beangle-security-cas_2.13@4.2.23
+- pkg:maven/org.beangle.security/beangle-security-cas_2.13@4.2.23?classifier=sources
 - pkg:maven/org.beangle.security/beangle-security-cas_2.13@4.2.8
 - pkg:maven/org.beangle.security/beangle-security-cas_2.13@4.2.8?classifier=sources
 - pkg:maven/org.beangle.security/beangle-security-cas_2.13@4.2.9

@@ -1,0 +1,4 @@
+- pkg:maven/edu.gemini/gsp-graphql-sql_2.13@0.0.26
+- pkg:maven/edu.gemini/gsp-graphql-sql_2.13@0.0.26?classifier=sources
+- pkg:maven/edu.gemini/gsp-graphql-sql_2.13@0.0.27
+- pkg:maven/edu.gemini/gsp-graphql-sql_2.13@0.0.27?classifier=sources

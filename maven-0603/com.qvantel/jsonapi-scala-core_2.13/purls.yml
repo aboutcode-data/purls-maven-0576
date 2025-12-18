@@ -1,0 +1,2 @@
+- pkg:maven/com.qvantel/jsonapi-scala-core_2.13@10.0.0
+- pkg:maven/com.qvantel/jsonapi-scala-core_2.13@10.0.0?classifier=sources

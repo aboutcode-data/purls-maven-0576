@@ -1,1 +1,2 @@
 - pkg:maven/io.fluidsonic.json/fluid-json-annotations-metadata@1.1.0?classifier=sources
+- pkg:maven/io.fluidsonic.json/fluid-json-annotations-metadata@1.1.1?classifier=sources

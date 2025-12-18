@@ -4,3 +4,6 @@
 - pkg:maven/net.cnri.cordra/cordra@2.1.0?classifier=sources
 - pkg:maven/net.cnri.cordra/cordra@2.1.0?classifier=src&type=zip
 - pkg:maven/net.cnri.cordra/cordra@2.1.0?type=war
+- pkg:maven/net.cnri.cordra/cordra@2.2.0?classifier=sources
+- pkg:maven/net.cnri.cordra/cordra@2.2.0?classifier=src&type=zip
+- pkg:maven/net.cnri.cordra/cordra@2.2.0?type=war

@@ -16,3 +16,5 @@
 - pkg:maven/org.webjars.npm/vue-async-computed@3.7.0?classifier=sources
 - pkg:maven/org.webjars.npm/vue-async-computed@3.8.2
 - pkg:maven/org.webjars.npm/vue-async-computed@3.8.2?classifier=sources
+- pkg:maven/org.webjars.npm/vue-async-computed@3.9.0
+- pkg:maven/org.webjars.npm/vue-async-computed@3.9.0?classifier=sources

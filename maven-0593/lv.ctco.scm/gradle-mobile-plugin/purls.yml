@@ -46,6 +46,8 @@
 - pkg:maven/lv.ctco.scm/gradle-mobile-plugin@0.13.1.7?classifier=sources
 - pkg:maven/lv.ctco.scm/gradle-mobile-plugin@0.14.0.0
 - pkg:maven/lv.ctco.scm/gradle-mobile-plugin@0.14.0.0?classifier=sources
+- pkg:maven/lv.ctco.scm/gradle-mobile-plugin@0.14.1.0
+- pkg:maven/lv.ctco.scm/gradle-mobile-plugin@0.14.1.0?classifier=sources
 - pkg:maven/lv.ctco.scm/gradle-mobile-plugin@0.9.0.0
 - pkg:maven/lv.ctco.scm/gradle-mobile-plugin@0.9.0.0?classifier=sources
 - pkg:maven/lv.ctco.scm/gradle-mobile-plugin@0.9.0.1

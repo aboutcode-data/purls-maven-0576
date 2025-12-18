@@ -180,3 +180,7 @@
 - pkg:maven/com.google.guava/guava-testlib@29.0-android?classifier=sources
 - pkg:maven/com.google.guava/guava-testlib@29.0-jre
 - pkg:maven/com.google.guava/guava-testlib@29.0-jre?classifier=sources
+- pkg:maven/com.google.guava/guava-testlib@30.0-android
+- pkg:maven/com.google.guava/guava-testlib@30.0-android?classifier=sources
+- pkg:maven/com.google.guava/guava-testlib@30.0-jre
+- pkg:maven/com.google.guava/guava-testlib@30.0-jre?classifier=sources

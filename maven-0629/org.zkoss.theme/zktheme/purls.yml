@@ -29,3 +29,5 @@
 - pkg:maven/org.zkoss.theme/zktheme@9.0.0-RC?classifier=sources
 - pkg:maven/org.zkoss.theme/zktheme@9.0.0.1?classifier=sources
 - pkg:maven/org.zkoss.theme/zktheme@9.0.0?classifier=sources
+- pkg:maven/org.zkoss.theme/zktheme@9.5.0.1?classifier=sources
+- pkg:maven/org.zkoss.theme/zktheme@9.5.0?classifier=sources

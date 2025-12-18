@@ -13,3 +13,5 @@
 - pkg:maven/co.zsmb/rainbow-cake-koin@0.6.0?classifier=sources
 - pkg:maven/co.zsmb/rainbow-cake-koin@0.7.0?classifier=sources
 - pkg:maven/co.zsmb/rainbow-cake-koin@1.0.0?classifier=sources
+- pkg:maven/co.zsmb/rainbow-cake-koin@1.1.0?classifier=sources
+- pkg:maven/co.zsmb/rainbow-cake-koin@1.2.0?classifier=sources

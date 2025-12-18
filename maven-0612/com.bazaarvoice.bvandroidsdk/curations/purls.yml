@@ -128,3 +128,5 @@
 - pkg:maven/com.bazaarvoice.bvandroidsdk/curations@8.5.2?type=aar
 - pkg:maven/com.bazaarvoice.bvandroidsdk/curations@8.6.0?classifier=sources
 - pkg:maven/com.bazaarvoice.bvandroidsdk/curations@8.6.0?type=aar
+- pkg:maven/com.bazaarvoice.bvandroidsdk/curations@8.7.0?classifier=sources
+- pkg:maven/com.bazaarvoice.bvandroidsdk/curations@8.7.0?type=aar

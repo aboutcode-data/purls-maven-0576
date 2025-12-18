@@ -43,4 +43,14 @@
 - pkg:maven/de.tototec/de.tobiasroeser.mill.osgi_2.12@0.3.0-26-37c668?classifier=sources
 - pkg:maven/de.tototec/de.tobiasroeser.mill.osgi_2.12@0.3.0-27-2fc7b7
 - pkg:maven/de.tototec/de.tobiasroeser.mill.osgi_2.12@0.3.0-27-2fc7b7?classifier=sources
+- pkg:maven/de.tototec/de.tobiasroeser.mill.osgi_2.12@0.3.0-29-8e84c2
+- pkg:maven/de.tototec/de.tobiasroeser.mill.osgi_2.12@0.3.0-29-8e84c2?classifier=sources
+- pkg:maven/de.tototec/de.tobiasroeser.mill.osgi_2.12@0.3.0-30-8f7d6a
+- pkg:maven/de.tototec/de.tobiasroeser.mill.osgi_2.12@0.3.0-30-8f7d6a?classifier=sources
+- pkg:maven/de.tototec/de.tobiasroeser.mill.osgi_2.12@0.3.0-31-8e8adc
+- pkg:maven/de.tototec/de.tobiasroeser.mill.osgi_2.12@0.3.0-31-8e8adc?classifier=sources
+- pkg:maven/de.tototec/de.tobiasroeser.mill.osgi_2.12@0.3.0-32-86520c
+- pkg:maven/de.tototec/de.tobiasroeser.mill.osgi_2.12@0.3.0-32-86520c?classifier=sources
 - pkg:maven/de.tototec/de.tobiasroeser.mill.osgi_2.12@0.3.0?classifier=sources
+- pkg:maven/de.tototec/de.tobiasroeser.mill.osgi_2.12@0.3.1
+- pkg:maven/de.tototec/de.tobiasroeser.mill.osgi_2.12@0.3.1?classifier=sources

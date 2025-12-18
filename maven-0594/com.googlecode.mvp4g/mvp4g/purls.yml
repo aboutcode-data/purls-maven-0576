@@ -14,3 +14,5 @@
 - pkg:maven/com.googlecode.mvp4g/mvp4g@1.5.2?classifier=sources
 - pkg:maven/com.googlecode.mvp4g/mvp4g@1.5.3
 - pkg:maven/com.googlecode.mvp4g/mvp4g@1.5.3?classifier=sources
+- pkg:maven/com.googlecode.mvp4g/mvp4g@1.6.0
+- pkg:maven/com.googlecode.mvp4g/mvp4g@1.6.0?classifier=sources

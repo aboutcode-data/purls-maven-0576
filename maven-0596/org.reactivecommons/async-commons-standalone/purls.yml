@@ -46,5 +46,9 @@
 - pkg:maven/org.reactivecommons/async-commons-standalone@0.6.0-beta?classifier=sources
 - pkg:maven/org.reactivecommons/async-commons-standalone@0.6.1-beta
 - pkg:maven/org.reactivecommons/async-commons-standalone@0.6.1-beta?classifier=sources
+- pkg:maven/org.reactivecommons/async-commons-standalone@0.6.2
 - pkg:maven/org.reactivecommons/async-commons-standalone@0.6.2-beta
 - pkg:maven/org.reactivecommons/async-commons-standalone@0.6.2-beta?classifier=sources
+- pkg:maven/org.reactivecommons/async-commons-standalone@0.6.2?classifier=sources
+- pkg:maven/org.reactivecommons/async-commons-standalone@1.0.0-beta1
+- pkg:maven/org.reactivecommons/async-commons-standalone@1.0.0-beta1?classifier=sources

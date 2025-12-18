@@ -1,0 +1,6 @@
+- pkg:maven/net.consensys.quorum.tessera/service-locator-spring@0.11.0
+- pkg:maven/net.consensys.quorum.tessera/service-locator-spring@0.11.0?classifier=sources
+- pkg:maven/net.consensys.quorum.tessera/service-locator-spring@1.0.0
+- pkg:maven/net.consensys.quorum.tessera/service-locator-spring@1.0.0?classifier=sources
+- pkg:maven/net.consensys.quorum.tessera/service-locator-spring@20.10.0
+- pkg:maven/net.consensys.quorum.tessera/service-locator-spring@20.10.0?classifier=sources

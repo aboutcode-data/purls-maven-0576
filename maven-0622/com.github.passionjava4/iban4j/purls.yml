@@ -1,0 +1,2 @@
+- pkg:maven/com.github.passionjava4/iban4j@3.2.2
+- pkg:maven/com.github.passionjava4/iban4j@3.2.2?classifier=sources

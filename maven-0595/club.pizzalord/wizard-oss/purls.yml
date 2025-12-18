@@ -1,0 +1,2 @@
+- pkg:maven/club.pizzalord/wizard-oss@0.0.1
+- pkg:maven/club.pizzalord/wizard-oss@0.0.1?classifier=sources

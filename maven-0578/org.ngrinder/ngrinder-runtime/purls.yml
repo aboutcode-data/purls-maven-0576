@@ -1,0 +1,2 @@
+- pkg:maven/org.ngrinder/ngrinder-runtime@3.5.2
+- pkg:maven/org.ngrinder/ngrinder-runtime@3.5.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.immutables/ecs.gen@0.0.3
+- pkg:maven/io.immutables/ecs.gen@0.0.3?classifier=sources

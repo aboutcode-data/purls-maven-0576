@@ -206,6 +206,8 @@
 - pkg:maven/org.codelibs/elasticsearch-cluster-runner@7.1.0.0?classifier=sources
 - pkg:maven/org.codelibs/elasticsearch-cluster-runner@7.1.1.0
 - pkg:maven/org.codelibs/elasticsearch-cluster-runner@7.1.1.0?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-cluster-runner@7.10.0.0
+- pkg:maven/org.codelibs/elasticsearch-cluster-runner@7.10.0.0?classifier=sources
 - pkg:maven/org.codelibs/elasticsearch-cluster-runner@7.2.0.0
 - pkg:maven/org.codelibs/elasticsearch-cluster-runner@7.2.0.0?classifier=sources
 - pkg:maven/org.codelibs/elasticsearch-cluster-runner@7.2.1.0
@@ -246,3 +248,9 @@
 - pkg:maven/org.codelibs/elasticsearch-cluster-runner@7.8.1.0?classifier=sources
 - pkg:maven/org.codelibs/elasticsearch-cluster-runner@7.9.0.0
 - pkg:maven/org.codelibs/elasticsearch-cluster-runner@7.9.0.0?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-cluster-runner@7.9.1.0
+- pkg:maven/org.codelibs/elasticsearch-cluster-runner@7.9.1.0?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-cluster-runner@7.9.2.0
+- pkg:maven/org.codelibs/elasticsearch-cluster-runner@7.9.2.0?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-cluster-runner@7.9.3.0
+- pkg:maven/org.codelibs/elasticsearch-cluster-runner@7.9.3.0?classifier=sources

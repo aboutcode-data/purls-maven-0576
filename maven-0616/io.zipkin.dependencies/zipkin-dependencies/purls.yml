@@ -108,3 +108,9 @@
 - pkg:maven/io.zipkin.dependencies/zipkin-dependencies@2.4.2?classifier=sources
 - pkg:maven/io.zipkin.dependencies/zipkin-dependencies@2.4.3
 - pkg:maven/io.zipkin.dependencies/zipkin-dependencies@2.4.3?classifier=sources
+- pkg:maven/io.zipkin.dependencies/zipkin-dependencies@2.4.4
+- pkg:maven/io.zipkin.dependencies/zipkin-dependencies@2.4.4?classifier=sources
+- pkg:maven/io.zipkin.dependencies/zipkin-dependencies@2.5.0
+- pkg:maven/io.zipkin.dependencies/zipkin-dependencies@2.5.0?classifier=sources
+- pkg:maven/io.zipkin.dependencies/zipkin-dependencies@2.5.1
+- pkg:maven/io.zipkin.dependencies/zipkin-dependencies@2.5.1?classifier=sources

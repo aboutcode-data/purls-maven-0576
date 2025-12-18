@@ -52,6 +52,8 @@
 - pkg:maven/org.iot-dsa/runtime_shared@0.23.2?classifier=sources
 - pkg:maven/org.iot-dsa/runtime_shared@0.24.0
 - pkg:maven/org.iot-dsa/runtime_shared@0.24.0?classifier=sources
+- pkg:maven/org.iot-dsa/runtime_shared@0.24.1
+- pkg:maven/org.iot-dsa/runtime_shared@0.24.1?classifier=sources
 - pkg:maven/org.iot-dsa/runtime_shared@0.7.0
 - pkg:maven/org.iot-dsa/runtime_shared@0.7.0?classifier=sources
 - pkg:maven/org.iot-dsa/runtime_shared@0.8.0

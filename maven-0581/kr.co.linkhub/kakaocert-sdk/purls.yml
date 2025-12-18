@@ -2,3 +2,9 @@
 - pkg:maven/kr.co.linkhub/kakaocert-sdk@1.0.0?classifier=sources
 - pkg:maven/kr.co.linkhub/kakaocert-sdk@1.1.0
 - pkg:maven/kr.co.linkhub/kakaocert-sdk@1.1.0?classifier=sources
+- pkg:maven/kr.co.linkhub/kakaocert-sdk@1.2.0
+- pkg:maven/kr.co.linkhub/kakaocert-sdk@1.2.0?classifier=sources
+- pkg:maven/kr.co.linkhub/kakaocert-sdk@2.0.0
+- pkg:maven/kr.co.linkhub/kakaocert-sdk@2.0.0?classifier=sources
+- pkg:maven/kr.co.linkhub/kakaocert-sdk@2.1.0
+- pkg:maven/kr.co.linkhub/kakaocert-sdk@2.1.0?classifier=sources

@@ -186,6 +186,8 @@
 - pkg:maven/org.springframework/spring-webmvc-portlet@4.3.27.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-webmvc-portlet@4.3.28.RELEASE
 - pkg:maven/org.springframework/spring-webmvc-portlet@4.3.28.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-webmvc-portlet@4.3.29.RELEASE
+- pkg:maven/org.springframework/spring-webmvc-portlet@4.3.29.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-webmvc-portlet@4.3.3.RELEASE
 - pkg:maven/org.springframework/spring-webmvc-portlet@4.3.3.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-webmvc-portlet@4.3.4.RELEASE

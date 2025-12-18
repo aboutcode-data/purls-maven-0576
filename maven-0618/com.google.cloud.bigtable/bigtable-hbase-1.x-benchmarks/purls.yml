@@ -8,3 +8,5 @@
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-1.x-benchmarks@1.15.0?classifier=sources
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-1.x-benchmarks@1.16.0
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-1.x-benchmarks@1.16.0?classifier=sources
+- pkg:maven/com.google.cloud.bigtable/bigtable-hbase-1.x-benchmarks@1.17.0
+- pkg:maven/com.google.cloud.bigtable/bigtable-hbase-1.x-benchmarks@1.17.0?classifier=sources

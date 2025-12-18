@@ -80,6 +80,12 @@
 - pkg:maven/org.eclipse.jetty/jetty-unixsocket@9.4.30.v20200611?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-unixsocket@9.4.31.v20200723
 - pkg:maven/org.eclipse.jetty/jetty-unixsocket@9.4.31.v20200723?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-unixsocket@9.4.32.v20200930
+- pkg:maven/org.eclipse.jetty/jetty-unixsocket@9.4.32.v20200930?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-unixsocket@9.4.33.v20201020
+- pkg:maven/org.eclipse.jetty/jetty-unixsocket@9.4.33.v20201020?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-unixsocket@9.4.34.v20201102
+- pkg:maven/org.eclipse.jetty/jetty-unixsocket@9.4.34.v20201102?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-unixsocket@9.4.4.v20170414
 - pkg:maven/org.eclipse.jetty/jetty-unixsocket@9.4.4.v20170414?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-unixsocket@9.4.4.v20180619

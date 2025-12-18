@@ -38,6 +38,8 @@
 - pkg:maven/com.softwaremill.diffx/diffx-tagging_2.12@0.3.28?classifier=sources
 - pkg:maven/com.softwaremill.diffx/diffx-tagging_2.12@0.3.29
 - pkg:maven/com.softwaremill.diffx/diffx-tagging_2.12@0.3.29?classifier=sources
+- pkg:maven/com.softwaremill.diffx/diffx-tagging_2.12@0.3.30
+- pkg:maven/com.softwaremill.diffx/diffx-tagging_2.12@0.3.30?classifier=sources
 - pkg:maven/com.softwaremill.diffx/diffx-tagging_2.12@0.3.6
 - pkg:maven/com.softwaremill.diffx/diffx-tagging_2.12@0.3.6?classifier=sources
 - pkg:maven/com.softwaremill.diffx/diffx-tagging_2.12@0.3.7

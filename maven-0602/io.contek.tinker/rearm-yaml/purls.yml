@@ -1,0 +1,5 @@
+- pkg:maven/io.contek.tinker/rearm-yaml@1.1.0?classifier=sources
+- pkg:maven/io.contek.tinker/rearm-yaml@2.0.1?classifier=sources
+- pkg:maven/io.contek.tinker/rearm-yaml@2.0.2?classifier=sources
+- pkg:maven/io.contek.tinker/rearm-yaml@2.0.3?classifier=sources
+- pkg:maven/io.contek.tinker/rearm-yaml@2.0.4?classifier=sources

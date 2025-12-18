@@ -1,2 +1,3 @@
 - pkg:maven/com.github.isong0623/EasyJson@1.0-support?type=aar
 - pkg:maven/com.github.isong0623/EasyJson@1.1-core?type=aar
+- pkg:maven/com.github.isong0623/EasyJson@1.2-core?type=aar

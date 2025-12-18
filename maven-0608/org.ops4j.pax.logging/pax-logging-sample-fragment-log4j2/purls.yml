@@ -26,3 +26,5 @@
 - pkg:maven/org.ops4j.pax.logging/pax-logging-sample-fragment-log4j2@2.0.4?classifier=sources
 - pkg:maven/org.ops4j.pax.logging/pax-logging-sample-fragment-log4j2@2.0.5
 - pkg:maven/org.ops4j.pax.logging/pax-logging-sample-fragment-log4j2@2.0.5?classifier=sources
+- pkg:maven/org.ops4j.pax.logging/pax-logging-sample-fragment-log4j2@2.0.6
+- pkg:maven/org.ops4j.pax.logging/pax-logging-sample-fragment-log4j2@2.0.6?classifier=sources

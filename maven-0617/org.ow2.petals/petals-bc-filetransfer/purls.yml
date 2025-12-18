@@ -26,3 +26,4 @@
 - pkg:maven/org.ow2.petals/petals-bc-filetransfer@4.0.0?classifier=sources
 - pkg:maven/org.ow2.petals/petals-bc-filetransfer@4.1.0?classifier=sources
 - pkg:maven/org.ow2.petals/petals-bc-filetransfer@5.0.0?classifier=sources
+- pkg:maven/org.ow2.petals/petals-bc-filetransfer@5.0.1?classifier=sources

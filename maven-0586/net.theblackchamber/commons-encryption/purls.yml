@@ -4,3 +4,9 @@
 - pkg:maven/net.theblackchamber/commons-encryption@1.1.0?classifier=sources
 - pkg:maven/net.theblackchamber/commons-encryption@1.2.0
 - pkg:maven/net.theblackchamber/commons-encryption@1.2.0?classifier=sources
+- pkg:maven/net.theblackchamber/commons-encryption@1.2.2-RELEASE
+- pkg:maven/net.theblackchamber/commons-encryption@1.2.2-RELEASE?classifier=sources
+- pkg:maven/net.theblackchamber/commons-encryption@2.0.0
+- pkg:maven/net.theblackchamber/commons-encryption@2.0.0?classifier=sources
+- pkg:maven/net.theblackchamber/commons-encryption@2.0.1
+- pkg:maven/net.theblackchamber/commons-encryption@2.0.1?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/de.funfried.netbeans.plugins/externalcodeformatter@1.13.0?classifier=sources
+- pkg:maven/de.funfried.netbeans.plugins/externalcodeformatter@1.14.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/me.fabriciorby/maven-surefire-junit5-tree-reporter@0.1.0
+- pkg:maven/me.fabriciorby/maven-surefire-junit5-tree-reporter@0.1.0?classifier=sources

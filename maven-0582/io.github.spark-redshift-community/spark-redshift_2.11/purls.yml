@@ -2,3 +2,5 @@
 - pkg:maven/io.github.spark-redshift-community/spark-redshift_2.11@4.0.0?classifier=sources
 - pkg:maven/io.github.spark-redshift-community/spark-redshift_2.11@4.0.1
 - pkg:maven/io.github.spark-redshift-community/spark-redshift_2.11@4.0.1?classifier=sources
+- pkg:maven/io.github.spark-redshift-community/spark-redshift_2.11@4.1.1
+- pkg:maven/io.github.spark-redshift-community/spark-redshift_2.11@4.1.1?classifier=sources

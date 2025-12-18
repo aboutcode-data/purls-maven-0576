@@ -71,6 +71,12 @@
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-scafi@9.3.0
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-scafi@9.3.0-dev197%2B283eea26e?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-scafi@9.3.0-dev198%2Bb6c1cfaa1?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-incarnation-scafi@9.3.0-dev1bc%2Bfd2c3a1c0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-incarnation-scafi@9.3.0-dev1bn%2B1fc9a8ebd?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-incarnation-scafi@9.3.0-dev1z1%2B0f186c167?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-incarnation-scafi@9.3.0-dev1z1%2B6808faab9?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-incarnation-scafi@9.3.0-dev1z1%2B782c1887e?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-incarnation-scafi@9.3.0-dev1z1%2B90fa840e0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-scafi@9.3.0-devz9%2Bb6d517de3?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-scafi@9.3.0-devz9%2Bf5bf339a9?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-scafi@9.3.0-devza%2B3c4e9cfc8?classifier=sources

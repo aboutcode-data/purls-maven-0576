@@ -1,0 +1,6 @@
+- pkg:maven/de.samply/common-http@7.0.0
+- pkg:maven/de.samply/common-http@7.0.0?classifier=sources
+- pkg:maven/de.samply/common-http@7.1.0
+- pkg:maven/de.samply/common-http@7.1.0?classifier=sources
+- pkg:maven/de.samply/common-http@7.1.1
+- pkg:maven/de.samply/common-http@7.1.1?classifier=sources

@@ -1,2 +1,6 @@
+- pkg:maven/org.greenrobot/essentials@3.0.0
 - pkg:maven/org.greenrobot/essentials@3.0.0-RC1
 - pkg:maven/org.greenrobot/essentials@3.0.0-RC1?classifier=sources
+- pkg:maven/org.greenrobot/essentials@3.0.0?classifier=sources
+- pkg:maven/org.greenrobot/essentials@3.1.0
+- pkg:maven/org.greenrobot/essentials@3.1.0?classifier=sources

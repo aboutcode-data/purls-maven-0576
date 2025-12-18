@@ -1,0 +1,2 @@
+- pkg:maven/dev.prokop.rxtx/rxtx@2.2.2
+- pkg:maven/dev.prokop.rxtx/rxtx@2.2.2?classifier=sources

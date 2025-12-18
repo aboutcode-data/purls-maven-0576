@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/phaser@3.11.0
 - pkg:maven/org.webjars.npm/phaser@3.11.0?classifier=sources
+- pkg:maven/org.webjars.npm/phaser@3.24.1
+- pkg:maven/org.webjars.npm/phaser@3.24.1?classifier=sources

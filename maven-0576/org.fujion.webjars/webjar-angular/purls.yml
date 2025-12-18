@@ -1,2 +1,4 @@
+- pkg:maven/org.fujion.webjars/webjar-angular@10.0.11
+- pkg:maven/org.fujion.webjars/webjar-angular@10.1.2
 - pkg:maven/org.fujion.webjars/webjar-angular@6.1.4
 - pkg:maven/org.fujion.webjars/webjar-angular@7.2.4

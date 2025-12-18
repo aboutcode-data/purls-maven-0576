@@ -47,3 +47,6 @@
 - pkg:maven/io.apiman/apiman-gateway-platforms-war-wildfly8-gateway@1.5.3.Final?type=war
 - pkg:maven/io.apiman/apiman-gateway-platforms-war-wildfly8-gateway@1.5.4.Final?type=war
 - pkg:maven/io.apiman/apiman-gateway-platforms-war-wildfly8-gateway@1.5.5.Final?type=war
+- pkg:maven/io.apiman/apiman-gateway-platforms-war-wildfly8-gateway@1.5.6.Final?type=war
+- pkg:maven/io.apiman/apiman-gateway-platforms-war-wildfly8-gateway@1.5.7.Final?type=war
+- pkg:maven/io.apiman/apiman-gateway-platforms-war-wildfly8-gateway@2.0.0.Final?type=war

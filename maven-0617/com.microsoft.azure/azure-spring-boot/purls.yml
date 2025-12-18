@@ -88,3 +88,7 @@
 - pkg:maven/com.microsoft.azure/azure-spring-boot@2.3.3?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-spring-boot@2.3.4
 - pkg:maven/com.microsoft.azure/azure-spring-boot@2.3.4?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-spring-boot@2.3.5
+- pkg:maven/com.microsoft.azure/azure-spring-boot@2.3.5?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-spring-boot@2.3.6-beta.1
+- pkg:maven/com.microsoft.azure/azure-spring-boot@2.3.6-beta.1?classifier=sources

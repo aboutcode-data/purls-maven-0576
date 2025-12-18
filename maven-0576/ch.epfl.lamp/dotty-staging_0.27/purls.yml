@@ -1,3 +1,5 @@
+- pkg:maven/ch.epfl.lamp/dotty-staging_0.27@0.27.0-RC1
+- pkg:maven/ch.epfl.lamp/dotty-staging_0.27@0.27.0-RC1?classifier=sources
 - pkg:maven/ch.epfl.lamp/dotty-staging_0.27@0.27.0-bin-20200723-eb3b0ac-NIGHTLY
 - pkg:maven/ch.epfl.lamp/dotty-staging_0.27@0.27.0-bin-20200723-eb3b0ac-NIGHTLY?classifier=sources
 - pkg:maven/ch.epfl.lamp/dotty-staging_0.27@0.27.0-bin-20200724-fd18546-NIGHTLY
@@ -50,3 +52,7 @@
 - pkg:maven/ch.epfl.lamp/dotty-staging_0.27@0.27.0-bin-20200821-387c562-NIGHTLY?classifier=sources
 - pkg:maven/ch.epfl.lamp/dotty-staging_0.27@0.27.0-bin-20200822-0d36979-NIGHTLY
 - pkg:maven/ch.epfl.lamp/dotty-staging_0.27@0.27.0-bin-20200822-0d36979-NIGHTLY?classifier=sources
+- pkg:maven/ch.epfl.lamp/dotty-staging_0.27@0.27.0-bin-20200824-239254a-NIGHTLY
+- pkg:maven/ch.epfl.lamp/dotty-staging_0.27@0.27.0-bin-20200824-239254a-NIGHTLY?classifier=sources
+- pkg:maven/ch.epfl.lamp/dotty-staging_0.27@0.27.0-bin-20200826-2e58a66-NIGHTLY
+- pkg:maven/ch.epfl.lamp/dotty-staging_0.27@0.27.0-bin-20200826-2e58a66-NIGHTLY?classifier=sources

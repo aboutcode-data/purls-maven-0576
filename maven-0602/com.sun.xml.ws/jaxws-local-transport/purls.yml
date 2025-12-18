@@ -50,3 +50,7 @@
 - pkg:maven/com.sun.xml.ws/jaxws-local-transport@3.0.0-M2?classifier=sources
 - pkg:maven/com.sun.xml.ws/jaxws-local-transport@3.0.0-M3
 - pkg:maven/com.sun.xml.ws/jaxws-local-transport@3.0.0-M3?classifier=sources
+- pkg:maven/com.sun.xml.ws/jaxws-local-transport@3.0.0-M4
+- pkg:maven/com.sun.xml.ws/jaxws-local-transport@3.0.0-M4?classifier=sources
+- pkg:maven/com.sun.xml.ws/jaxws-local-transport@3.0.0-M5
+- pkg:maven/com.sun.xml.ws/jaxws-local-transport@3.0.0-M5?classifier=sources

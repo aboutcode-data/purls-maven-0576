@@ -7,3 +7,4 @@
 - pkg:maven/org.scalatest/scalatest-maven-plugin@1.0-RC2
 - pkg:maven/org.scalatest/scalatest-maven-plugin@2.0.0
 - pkg:maven/org.scalatest/scalatest-maven-plugin@2.0.0?classifier=sources
+- pkg:maven/org.scalatest/scalatest-maven-plugin@2.0.2

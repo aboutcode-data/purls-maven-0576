@@ -48,3 +48,5 @@
 - pkg:maven/org.eurekaclinical/eurekaclinical-admin-webapp@2.3?type=war
 - pkg:maven/org.eurekaclinical/eurekaclinical-admin-webapp@2.4?classifier=sources
 - pkg:maven/org.eurekaclinical/eurekaclinical-admin-webapp@2.4?type=war
+- pkg:maven/org.eurekaclinical/eurekaclinical-admin-webapp@2.5?classifier=sources
+- pkg:maven/org.eurekaclinical/eurekaclinical-admin-webapp@2.5?type=war

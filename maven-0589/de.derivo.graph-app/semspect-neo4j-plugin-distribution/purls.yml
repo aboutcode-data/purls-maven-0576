@@ -16,3 +16,11 @@
 - pkg:maven/de.derivo.graph-app/semspect-neo4j-plugin-distribution@3.15.0-neo4j-4.0?classifier=sources
 - pkg:maven/de.derivo.graph-app/semspect-neo4j-plugin-distribution@3.15.0-neo4j-4.1
 - pkg:maven/de.derivo.graph-app/semspect-neo4j-plugin-distribution@3.15.0-neo4j-4.1?classifier=sources
+- pkg:maven/de.derivo.graph-app/semspect-neo4j-plugin-distribution@3.16.0-beta-neo4j-3.4
+- pkg:maven/de.derivo.graph-app/semspect-neo4j-plugin-distribution@3.16.0-beta-neo4j-3.4?classifier=sources
+- pkg:maven/de.derivo.graph-app/semspect-neo4j-plugin-distribution@3.16.0-beta-neo4j-3.5
+- pkg:maven/de.derivo.graph-app/semspect-neo4j-plugin-distribution@3.16.0-beta-neo4j-3.5?classifier=sources
+- pkg:maven/de.derivo.graph-app/semspect-neo4j-plugin-distribution@3.16.0-beta-neo4j-4.0
+- pkg:maven/de.derivo.graph-app/semspect-neo4j-plugin-distribution@3.16.0-beta-neo4j-4.0?classifier=sources
+- pkg:maven/de.derivo.graph-app/semspect-neo4j-plugin-distribution@3.16.0-beta-neo4j-4.1
+- pkg:maven/de.derivo.graph-app/semspect-neo4j-plugin-distribution@3.16.0-beta-neo4j-4.1?classifier=sources

@@ -330,3 +330,13 @@
 - pkg:maven/org.jboss.weld.examples.jsf/weld-jsf-numberguess@4.0.0.Alpha2?type=war
 - pkg:maven/org.jboss.weld.examples.jsf/weld-jsf-numberguess@4.0.0.Alpha3?classifier=sources
 - pkg:maven/org.jboss.weld.examples.jsf/weld-jsf-numberguess@4.0.0.Alpha3?type=war
+- pkg:maven/org.jboss.weld.examples.jsf/weld-jsf-numberguess@4.0.0.Beta1?classifier=sources
+- pkg:maven/org.jboss.weld.examples.jsf/weld-jsf-numberguess@4.0.0.Beta1?type=war
+- pkg:maven/org.jboss.weld.examples.jsf/weld-jsf-numberguess@4.0.0.Beta2?classifier=sources
+- pkg:maven/org.jboss.weld.examples.jsf/weld-jsf-numberguess@4.0.0.Beta2?type=war
+- pkg:maven/org.jboss.weld.examples.jsf/weld-jsf-numberguess@4.0.0.Beta3?classifier=sources
+- pkg:maven/org.jboss.weld.examples.jsf/weld-jsf-numberguess@4.0.0.Beta3?type=war
+- pkg:maven/org.jboss.weld.examples.jsf/weld-jsf-numberguess@4.0.0.Beta4?classifier=sources
+- pkg:maven/org.jboss.weld.examples.jsf/weld-jsf-numberguess@4.0.0.Beta4?type=war
+- pkg:maven/org.jboss.weld.examples.jsf/weld-jsf-numberguess@4.0.0.Beta5?classifier=sources
+- pkg:maven/org.jboss.weld.examples.jsf/weld-jsf-numberguess@4.0.0.Beta5?type=war

@@ -1,0 +1,2 @@
+- pkg:maven/cz.cvut.fel.still/selenium-starter-kit@1.0.0
+- pkg:maven/cz.cvut.fel.still/selenium-starter-kit@1.0.0?classifier=sources

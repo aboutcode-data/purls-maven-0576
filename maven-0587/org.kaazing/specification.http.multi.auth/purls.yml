@@ -112,3 +112,5 @@
 - pkg:maven/org.kaazing/specification.http.multi.auth@3.0.0-alpha-99
 - pkg:maven/org.kaazing/specification.http.multi.auth@3.0.0-alpha-99?classifier=sources
 - pkg:maven/org.kaazing/specification.http.multi.auth@3.0.0?classifier=sources
+- pkg:maven/org.kaazing/specification.http.multi.auth@3.1.0
+- pkg:maven/org.kaazing/specification.http.multi.auth@3.1.0?classifier=sources

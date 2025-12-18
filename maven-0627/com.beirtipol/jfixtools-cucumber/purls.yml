@@ -1,0 +1,2 @@
+- pkg:maven/com.beirtipol/jfixtools-cucumber@1.0-BETA
+- pkg:maven/com.beirtipol/jfixtools-cucumber@1.0-BETA?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.scalactic/scalactic_0.27@3.2.2
+- pkg:maven/org.scalactic/scalactic_0.27@3.2.2?classifier=sources

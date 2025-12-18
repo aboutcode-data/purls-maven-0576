@@ -1,0 +1,9 @@
+- pkg:maven/com.day.cq/cq-polling-importer@5.2.0?classifier=sources
+- pkg:maven/com.day.cq/cq-polling-importer@5.3.0?classifier=sources
+- pkg:maven/com.day.cq/cq-polling-importer@5.3.2?classifier=sources
+- pkg:maven/com.day.cq/cq-polling-importer@5.3.4?classifier=sources
+- pkg:maven/com.day.cq/cq-polling-importer@5.4.0?classifier=sources
+- pkg:maven/com.day.cq/cq-polling-importer@5.5.0?classifier=sources
+- pkg:maven/com.day.cq/cq-polling-importer@5.5.2?classifier=sources
+- pkg:maven/com.day.cq/cq-polling-importer@5.6.2?classifier=sources
+- pkg:maven/com.day.cq/cq-polling-importer@5.6.4?classifier=sources

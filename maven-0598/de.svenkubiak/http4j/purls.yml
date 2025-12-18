@@ -1,0 +1,4 @@
+- pkg:maven/de.svenkubiak/http4j@1.0.0-Alpha2
+- pkg:maven/de.svenkubiak/http4j@1.0.0-Alpha2?classifier=sources
+- pkg:maven/de.svenkubiak/http4j@1.0.0-Alpha3
+- pkg:maven/de.svenkubiak/http4j@1.0.0-Alpha3?classifier=sources
