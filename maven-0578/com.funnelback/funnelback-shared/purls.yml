@@ -12,3 +12,11 @@
 - pkg:maven/com.funnelback/funnelback-shared@15.25.2015?classifier=sources
 - pkg:maven/com.funnelback/funnelback-shared@15.25.2016.1
 - pkg:maven/com.funnelback/funnelback-shared@15.25.2016.1?classifier=sources
+- pkg:maven/com.funnelback/funnelback-shared@15.25.2020
+- pkg:maven/com.funnelback/funnelback-shared@15.25.2020?classifier=sources
+- pkg:maven/com.funnelback/funnelback-shared@15.25.2022
+- pkg:maven/com.funnelback/funnelback-shared@15.25.2022?classifier=sources
+- pkg:maven/com.funnelback/funnelback-shared@15.25.2023
+- pkg:maven/com.funnelback/funnelback-shared@15.25.2023?classifier=sources
+- pkg:maven/com.funnelback/funnelback-shared@16.1.2032
+- pkg:maven/com.funnelback/funnelback-shared@16.1.2032?classifier=sources

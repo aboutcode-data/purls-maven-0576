@@ -76,6 +76,10 @@
 - pkg:maven/org.eclipse.jetty/jetty-unixsocket@9.4.3.v20170317?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-unixsocket@9.4.3.v20180619
 - pkg:maven/org.eclipse.jetty/jetty-unixsocket@9.4.3.v20180619?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-unixsocket@9.4.30.v20200611
+- pkg:maven/org.eclipse.jetty/jetty-unixsocket@9.4.30.v20200611?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-unixsocket@9.4.31.v20200723
+- pkg:maven/org.eclipse.jetty/jetty-unixsocket@9.4.31.v20200723?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-unixsocket@9.4.4.v20170414
 - pkg:maven/org.eclipse.jetty/jetty-unixsocket@9.4.4.v20170414?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-unixsocket@9.4.4.v20180619

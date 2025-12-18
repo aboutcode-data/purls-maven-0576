@@ -1,3 +1,8 @@
 - pkg:maven/org.testingisdocumenting.webtau/webtau-maven-plugin-test@1.21.1
 - pkg:maven/org.testingisdocumenting.webtau/webtau-maven-plugin-test@1.22
 - pkg:maven/org.testingisdocumenting.webtau/webtau-maven-plugin-test@1.23
+- pkg:maven/org.testingisdocumenting.webtau/webtau-maven-plugin-test@1.24
+- pkg:maven/org.testingisdocumenting.webtau/webtau-maven-plugin-test@1.25
+- pkg:maven/org.testingisdocumenting.webtau/webtau-maven-plugin-test@1.26
+- pkg:maven/org.testingisdocumenting.webtau/webtau-maven-plugin-test@1.27
+- pkg:maven/org.testingisdocumenting.webtau/webtau-maven-plugin-test@1.28

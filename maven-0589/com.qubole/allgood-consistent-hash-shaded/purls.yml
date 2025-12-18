@@ -1,0 +1,2 @@
+- pkg:maven/com.qubole/allgood-consistent-hash-shaded@1.0
+- pkg:maven/com.qubole/allgood-consistent-hash-shaded@1.0?classifier=sources

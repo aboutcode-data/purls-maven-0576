@@ -1,0 +1,1 @@
+- pkg:maven/org.embulk/embulk-util-retryhelper-jetty92@0.8.0?classifier=sources

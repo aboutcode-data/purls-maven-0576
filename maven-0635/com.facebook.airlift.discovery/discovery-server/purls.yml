@@ -1,2 +1,3 @@
 - pkg:maven/com.facebook.airlift.discovery/discovery-server@1.30?classifier=sources
 - pkg:maven/com.facebook.airlift.discovery/discovery-server@1.31?classifier=sources
+- pkg:maven/com.facebook.airlift.discovery/discovery-server@1.32?classifier=sources

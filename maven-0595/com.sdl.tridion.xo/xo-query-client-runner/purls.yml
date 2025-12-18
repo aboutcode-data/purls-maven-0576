@@ -6,5 +6,9 @@
 - pkg:maven/com.sdl.tridion.xo/xo-query-client-runner@11.0.0-1056?classifier=sources
 - pkg:maven/com.sdl.tridion.xo/xo-query-client-runner@11.0.0-1058
 - pkg:maven/com.sdl.tridion.xo/xo-query-client-runner@11.0.0-1058?classifier=sources
+- pkg:maven/com.sdl.tridion.xo/xo-query-client-runner@11.0.0-1064
+- pkg:maven/com.sdl.tridion.xo/xo-query-client-runner@11.0.0-1064?classifier=sources
+- pkg:maven/com.sdl.tridion.xo/xo-query-client-runner@11.0.0-1067
+- pkg:maven/com.sdl.tridion.xo/xo-query-client-runner@11.0.0-1067?classifier=sources
 - pkg:maven/com.sdl.tridion.xo/xo-query-client-runner@11.1.0-1064
 - pkg:maven/com.sdl.tridion.xo/xo-query-client-runner@11.1.0-1064?classifier=sources

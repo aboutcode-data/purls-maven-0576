@@ -1,0 +1,2 @@
+- pkg:maven/cn.detachment/detach-api@1.0.8-RELEASE
+- pkg:maven/cn.detachment/detach-api@1.0.8-RELEASE?classifier=sources

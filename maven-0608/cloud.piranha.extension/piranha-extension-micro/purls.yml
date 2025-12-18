@@ -1,0 +1,2 @@
+- pkg:maven/cloud.piranha.extension/piranha-extension-micro@20.8.0
+- pkg:maven/cloud.piranha.extension/piranha-extension-micro@20.8.0?classifier=sources

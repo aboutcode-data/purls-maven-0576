@@ -18,10 +18,14 @@
 - pkg:maven/org.opendaylight.controller.samples/clustering-it-model@1.10.2?classifier=sources
 - pkg:maven/org.opendaylight.controller.samples/clustering-it-model@1.10.3
 - pkg:maven/org.opendaylight.controller.samples/clustering-it-model@1.10.3?classifier=sources
+- pkg:maven/org.opendaylight.controller.samples/clustering-it-model@1.10.4
+- pkg:maven/org.opendaylight.controller.samples/clustering-it-model@1.10.4?classifier=sources
 - pkg:maven/org.opendaylight.controller.samples/clustering-it-model@1.11.0
 - pkg:maven/org.opendaylight.controller.samples/clustering-it-model@1.11.0?classifier=sources
 - pkg:maven/org.opendaylight.controller.samples/clustering-it-model@1.11.1
 - pkg:maven/org.opendaylight.controller.samples/clustering-it-model@1.11.1?classifier=sources
+- pkg:maven/org.opendaylight.controller.samples/clustering-it-model@1.11.2
+- pkg:maven/org.opendaylight.controller.samples/clustering-it-model@1.11.2?classifier=sources
 - pkg:maven/org.opendaylight.controller.samples/clustering-it-model@1.2.0-Lithium
 - pkg:maven/org.opendaylight.controller.samples/clustering-it-model@1.2.1-Lithium-SR1
 - pkg:maven/org.opendaylight.controller.samples/clustering-it-model@1.2.1-Lithium-SR1?classifier=sources
@@ -95,5 +99,11 @@
 - pkg:maven/org.opendaylight.controller.samples/clustering-it-model@1.9.2?classifier=sources
 - pkg:maven/org.opendaylight.controller.samples/clustering-it-model@1.9.3
 - pkg:maven/org.opendaylight.controller.samples/clustering-it-model@1.9.3?classifier=sources
+- pkg:maven/org.opendaylight.controller.samples/clustering-it-model@2.0.0
+- pkg:maven/org.opendaylight.controller.samples/clustering-it-model@2.0.0?classifier=sources
 - pkg:maven/org.opendaylight.controller.samples/clustering-it-model@2.0.1
 - pkg:maven/org.opendaylight.controller.samples/clustering-it-model@2.0.1?classifier=sources
+- pkg:maven/org.opendaylight.controller.samples/clustering-it-model@2.0.2
+- pkg:maven/org.opendaylight.controller.samples/clustering-it-model@2.0.2?classifier=sources
+- pkg:maven/org.opendaylight.controller.samples/clustering-it-model@2.0.3
+- pkg:maven/org.opendaylight.controller.samples/clustering-it-model@2.0.3?classifier=sources

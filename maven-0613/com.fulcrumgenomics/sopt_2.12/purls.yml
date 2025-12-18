@@ -14,3 +14,5 @@
 - pkg:maven/com.fulcrumgenomics/sopt_2.12@0.7.0?classifier=sources
 - pkg:maven/com.fulcrumgenomics/sopt_2.12@1.0.0
 - pkg:maven/com.fulcrumgenomics/sopt_2.12@1.0.0?classifier=sources
+- pkg:maven/com.fulcrumgenomics/sopt_2.12@1.1.0
+- pkg:maven/com.fulcrumgenomics/sopt_2.12@1.1.0?classifier=sources

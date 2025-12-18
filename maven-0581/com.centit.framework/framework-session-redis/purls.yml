@@ -1,0 +1,2 @@
+- pkg:maven/com.centit.framework/framework-session-redis@4.6.2007
+- pkg:maven/com.centit.framework/framework-session-redis@4.6.2007?classifier=sources

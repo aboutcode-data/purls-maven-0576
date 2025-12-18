@@ -23,6 +23,12 @@
 - pkg:maven/org.neo4j/neo4j-ogm-bolt-native-types@3.2.11?classifier=sources
 - pkg:maven/org.neo4j/neo4j-ogm-bolt-native-types@3.2.12
 - pkg:maven/org.neo4j/neo4j-ogm-bolt-native-types@3.2.12?classifier=sources
+- pkg:maven/org.neo4j/neo4j-ogm-bolt-native-types@3.2.13
+- pkg:maven/org.neo4j/neo4j-ogm-bolt-native-types@3.2.13?classifier=sources
+- pkg:maven/org.neo4j/neo4j-ogm-bolt-native-types@3.2.14
+- pkg:maven/org.neo4j/neo4j-ogm-bolt-native-types@3.2.14?classifier=sources
+- pkg:maven/org.neo4j/neo4j-ogm-bolt-native-types@3.2.15
+- pkg:maven/org.neo4j/neo4j-ogm-bolt-native-types@3.2.15?classifier=sources
 - pkg:maven/org.neo4j/neo4j-ogm-bolt-native-types@3.2.1?classifier=sources
 - pkg:maven/org.neo4j/neo4j-ogm-bolt-native-types@3.2.2
 - pkg:maven/org.neo4j/neo4j-ogm-bolt-native-types@3.2.2?classifier=sources
@@ -40,3 +46,5 @@
 - pkg:maven/org.neo4j/neo4j-ogm-bolt-native-types@3.2.8?classifier=sources
 - pkg:maven/org.neo4j/neo4j-ogm-bolt-native-types@3.2.9
 - pkg:maven/org.neo4j/neo4j-ogm-bolt-native-types@3.2.9?classifier=sources
+- pkg:maven/org.neo4j/neo4j-ogm-bolt-native-types@v3.2.13
+- pkg:maven/org.neo4j/neo4j-ogm-bolt-native-types@v3.2.13?classifier=sources

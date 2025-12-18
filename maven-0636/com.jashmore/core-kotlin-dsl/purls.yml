@@ -1,0 +1,3 @@
+- pkg:maven/com.jashmore/core-kotlin-dsl@4.0.0?classifier=sources
+- pkg:maven/com.jashmore/core-kotlin-dsl@4.1.0?classifier=sources
+- pkg:maven/com.jashmore/core-kotlin-dsl@4.2.0?classifier=sources

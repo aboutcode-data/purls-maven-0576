@@ -3,3 +3,6 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-lsp-client@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-lsp-client@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-lsp-client@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-lsp-client@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-lsp-client@RELEASE120-u1?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-lsp-client@RELEASE120?classifier=sources

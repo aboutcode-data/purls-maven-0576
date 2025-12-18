@@ -1,2 +1,12 @@
 - pkg:maven/com.cognitect.aws/macie2@799.2.683.0
 - pkg:maven/com.cognitect.aws/macie2@799.2.683.0?classifier=sources
+- pkg:maven/com.cognitect.aws/macie2@801.2.694.0
+- pkg:maven/com.cognitect.aws/macie2@801.2.694.0?classifier=sources
+- pkg:maven/com.cognitect.aws/macie2@801.2.699.0
+- pkg:maven/com.cognitect.aws/macie2@801.2.699.0?classifier=sources
+- pkg:maven/com.cognitect.aws/macie2@803.2.715.0
+- pkg:maven/com.cognitect.aws/macie2@803.2.715.0?classifier=sources
+- pkg:maven/com.cognitect.aws/macie2@807.2.729.0
+- pkg:maven/com.cognitect.aws/macie2@807.2.729.0?classifier=sources
+- pkg:maven/com.cognitect.aws/macie2@809.2.734.0
+- pkg:maven/com.cognitect.aws/macie2@809.2.734.0?classifier=sources

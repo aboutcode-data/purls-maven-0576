@@ -32,3 +32,10 @@
 - pkg:maven/io.prestosql/presto-example-http@331?classifier=sources
 - pkg:maven/io.prestosql/presto-example-http@332?classifier=sources
 - pkg:maven/io.prestosql/presto-example-http@333?classifier=sources
+- pkg:maven/io.prestosql/presto-example-http@334?classifier=sources
+- pkg:maven/io.prestosql/presto-example-http@335?classifier=sources
+- pkg:maven/io.prestosql/presto-example-http@336?classifier=sources
+- pkg:maven/io.prestosql/presto-example-http@337?classifier=sources
+- pkg:maven/io.prestosql/presto-example-http@338?classifier=sources
+- pkg:maven/io.prestosql/presto-example-http@339?classifier=sources
+- pkg:maven/io.prestosql/presto-example-http@340?classifier=sources

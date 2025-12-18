@@ -60,3 +60,7 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-deployer-spi@2.3.0.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-deployer-spi@2.3.1.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-deployer-spi@2.3.1.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-deployer-spi@2.4.0
+- pkg:maven/org.springframework.cloud/spring-cloud-deployer-spi@2.4.0?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-deployer-spi@2.4.1
+- pkg:maven/org.springframework.cloud/spring-cloud-deployer-spi@2.4.1?classifier=sources

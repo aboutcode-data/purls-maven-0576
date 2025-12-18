@@ -1,0 +1,2 @@
+- pkg:maven/com.rabobank.argos/argos-collector-service@0.0.1
+- pkg:maven/com.rabobank.argos/argos-collector-service@0.0.1?classifier=sources

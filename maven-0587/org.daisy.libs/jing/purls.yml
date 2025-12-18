@@ -4,3 +4,5 @@
 - pkg:maven/org.daisy.libs/jing@20120724.0.0?classifier=sources
 - pkg:maven/org.daisy.libs/jing@20151127.0.0
 - pkg:maven/org.daisy.libs/jing@20151127.0.0?classifier=sources
+- pkg:maven/org.daisy.libs/jing@20151127.0.1
+- pkg:maven/org.daisy.libs/jing@20151127.0.1?classifier=sources

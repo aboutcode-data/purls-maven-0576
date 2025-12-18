@@ -6,3 +6,5 @@
 - pkg:maven/com.maltaisn/iconpack-community-material@5.0.45?type=aar
 - pkg:maven/com.maltaisn/iconpack-community-material@5.1.45?classifier=sources
 - pkg:maven/com.maltaisn/iconpack-community-material@5.1.45?type=aar
+- pkg:maven/com.maltaisn/iconpack-community-material@5.3.45?classifier=sources
+- pkg:maven/com.maltaisn/iconpack-community-material@5.3.45?type=aar

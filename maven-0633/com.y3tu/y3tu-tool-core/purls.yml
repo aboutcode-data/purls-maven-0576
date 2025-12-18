@@ -16,4 +16,6 @@
 - pkg:maven/com.y3tu/y3tu-tool-core@2.2
 - pkg:maven/com.y3tu/y3tu-tool-core@2.2.1
 - pkg:maven/com.y3tu/y3tu-tool-core@2.2.1?classifier=sources
+- pkg:maven/com.y3tu/y3tu-tool-core@2.2.2
+- pkg:maven/com.y3tu/y3tu-tool-core@2.2.2?classifier=sources
 - pkg:maven/com.y3tu/y3tu-tool-core@2.2?classifier=sources

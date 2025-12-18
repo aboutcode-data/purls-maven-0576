@@ -64,3 +64,5 @@
 - pkg:maven/com.amap.api/navi-3dmap@7.3.0_3dmap7.3.0?classifier=sources
 - pkg:maven/com.amap.api/navi-3dmap@7.4.0_3dmap7.4.0
 - pkg:maven/com.amap.api/navi-3dmap@7.4.0_3dmap7.4.0?classifier=sources
+- pkg:maven/com.amap.api/navi-3dmap@7.5.0_3dmap7.5.0?classifier=sources
+- pkg:maven/com.amap.api/navi-3dmap@7.6.0_3dmap7.6.0?classifier=sources

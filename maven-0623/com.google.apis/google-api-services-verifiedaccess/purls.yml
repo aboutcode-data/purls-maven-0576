@@ -8,5 +8,7 @@
 - pkg:maven/com.google.apis/google-api-services-verifiedaccess@v1-rev20190718-1.30.8?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-verifiedaccess@v1-rev20190718-1.30.9
 - pkg:maven/com.google.apis/google-api-services-verifiedaccess@v1-rev20190718-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-verifiedaccess@v1-rev20200512-1.30.10
+- pkg:maven/com.google.apis/google-api-services-verifiedaccess@v1-rev20200512-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-verifiedaccess@v1-rev20200512-1.30.9
 - pkg:maven/com.google.apis/google-api-services-verifiedaccess@v1-rev20200512-1.30.9?classifier=sources

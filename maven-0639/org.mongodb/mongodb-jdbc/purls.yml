@@ -7,3 +7,4 @@
 - pkg:maven/org.mongodb/mongodb-jdbc@0.1-beta-7?classifier=sources
 - pkg:maven/org.mongodb/mongodb-jdbc@0.1-beta-8?classifier=sources
 - pkg:maven/org.mongodb/mongodb-jdbc@0.1-beta-9?classifier=sources
+- pkg:maven/org.mongodb/mongodb-jdbc@1.0.0?classifier=sources

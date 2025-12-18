@@ -8,3 +8,5 @@
 - pkg:maven/com.javax0.jamal/jamal-testsupport@1.0.3?classifier=sources
 - pkg:maven/com.javax0.jamal/jamal-testsupport@1.0.4
 - pkg:maven/com.javax0.jamal/jamal-testsupport@1.0.4?classifier=sources
+- pkg:maven/com.javax0.jamal/jamal-testsupport@1.1.0?classifier=sources
+- pkg:maven/com.javax0.jamal/jamal-testsupport@1.2.0?classifier=sources

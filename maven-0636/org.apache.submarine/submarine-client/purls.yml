@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.submarine/submarine-client@0.3.0
+- pkg:maven/org.apache.submarine/submarine-client@0.4.0

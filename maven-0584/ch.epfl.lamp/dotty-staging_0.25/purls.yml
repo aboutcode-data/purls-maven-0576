@@ -1,3 +1,8 @@
+- pkg:maven/ch.epfl.lamp/dotty-staging_0.25@0.25.0
+- pkg:maven/ch.epfl.lamp/dotty-staging_0.25@0.25.0-RC1
+- pkg:maven/ch.epfl.lamp/dotty-staging_0.25@0.25.0-RC1?classifier=sources
+- pkg:maven/ch.epfl.lamp/dotty-staging_0.25@0.25.0-RC2
+- pkg:maven/ch.epfl.lamp/dotty-staging_0.25@0.25.0-RC2?classifier=sources
 - pkg:maven/ch.epfl.lamp/dotty-staging_0.25@0.25.0-bin-20200427-66f335c-NIGHTLY
 - pkg:maven/ch.epfl.lamp/dotty-staging_0.25@0.25.0-bin-20200427-66f335c-NIGHTLY?classifier=sources
 - pkg:maven/ch.epfl.lamp/dotty-staging_0.25@0.25.0-bin-20200428-d436677-NIGHTLY
@@ -36,3 +41,16 @@
 - pkg:maven/ch.epfl.lamp/dotty-staging_0.25@0.25.0-bin-20200518-b5eded6-NIGHTLY?classifier=sources
 - pkg:maven/ch.epfl.lamp/dotty-staging_0.25@0.25.0-bin-20200523-5358651-NIGHTLY
 - pkg:maven/ch.epfl.lamp/dotty-staging_0.25@0.25.0-bin-20200523-5358651-NIGHTLY?classifier=sources
+- pkg:maven/ch.epfl.lamp/dotty-staging_0.25@0.25.0-bin-20200603-cc8d6c3-NIGHTLY
+- pkg:maven/ch.epfl.lamp/dotty-staging_0.25@0.25.0-bin-20200603-cc8d6c3-NIGHTLY?classifier=sources
+- pkg:maven/ch.epfl.lamp/dotty-staging_0.25@0.25.0-bin-20200604-2fbefb0-NIGHTLY
+- pkg:maven/ch.epfl.lamp/dotty-staging_0.25@0.25.0-bin-20200604-2fbefb0-NIGHTLY?classifier=sources
+- pkg:maven/ch.epfl.lamp/dotty-staging_0.25@0.25.0-bin-20200606-31879e5-NIGHTLY
+- pkg:maven/ch.epfl.lamp/dotty-staging_0.25@0.25.0-bin-20200606-31879e5-NIGHTLY?classifier=sources
+- pkg:maven/ch.epfl.lamp/dotty-staging_0.25@0.25.0-bin-20200607-345c8bc-NIGHTLY
+- pkg:maven/ch.epfl.lamp/dotty-staging_0.25@0.25.0-bin-20200607-345c8bc-NIGHTLY?classifier=sources
+- pkg:maven/ch.epfl.lamp/dotty-staging_0.25@0.25.0-bin-20200608-fa84627-NIGHTLY
+- pkg:maven/ch.epfl.lamp/dotty-staging_0.25@0.25.0-bin-20200608-fa84627-NIGHTLY?classifier=sources
+- pkg:maven/ch.epfl.lamp/dotty-staging_0.25@0.25.0-bin-20200609-a3b417b-NIGHTLY
+- pkg:maven/ch.epfl.lamp/dotty-staging_0.25@0.25.0-bin-20200609-a3b417b-NIGHTLY?classifier=sources
+- pkg:maven/ch.epfl.lamp/dotty-staging_0.25@0.25.0?classifier=sources

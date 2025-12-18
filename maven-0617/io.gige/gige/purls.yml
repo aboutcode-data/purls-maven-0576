@@ -1,0 +1,3 @@
+- pkg:maven/io.gige/gige@0.5.0?classifier=sources
+- pkg:maven/io.gige/gige@0.6.0?classifier=sources
+- pkg:maven/io.gige/gige@0.6.1?classifier=sources

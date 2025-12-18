@@ -8,3 +8,4 @@
 - pkg:maven/com.holon-platform.mongo/holon-starter-mongo-datastore@5.2.4
 - pkg:maven/com.holon-platform.mongo/holon-starter-mongo-datastore@5.3.0
 - pkg:maven/com.holon-platform.mongo/holon-starter-mongo-datastore@5.4.0
+- pkg:maven/com.holon-platform.mongo/holon-starter-mongo-datastore@5.5.0

@@ -1,0 +1,14 @@
+- pkg:maven/de.tototec/de.tobiasroeser.mill.kotlin-worker_2.13@0.0.3-6-c17468
+- pkg:maven/de.tototec/de.tobiasroeser.mill.kotlin-worker_2.13@0.0.3-6-c17468?classifier=sources
+- pkg:maven/de.tototec/de.tobiasroeser.mill.kotlin-worker_2.13@0.0.3-8-94acea
+- pkg:maven/de.tototec/de.tobiasroeser.mill.kotlin-worker_2.13@0.0.3-8-94acea?classifier=sources
+- pkg:maven/de.tototec/de.tobiasroeser.mill.kotlin-worker_2.13@0.0.3-9-adf440
+- pkg:maven/de.tototec/de.tobiasroeser.mill.kotlin-worker_2.13@0.0.3-9-adf440?classifier=sources
+- pkg:maven/de.tototec/de.tobiasroeser.mill.kotlin-worker_2.13@0.1.0
+- pkg:maven/de.tototec/de.tobiasroeser.mill.kotlin-worker_2.13@0.1.0-1-0f8c94
+- pkg:maven/de.tototec/de.tobiasroeser.mill.kotlin-worker_2.13@0.1.0-1-0f8c94?classifier=sources
+- pkg:maven/de.tototec/de.tobiasroeser.mill.kotlin-worker_2.13@0.1.0-2-00540f
+- pkg:maven/de.tototec/de.tobiasroeser.mill.kotlin-worker_2.13@0.1.0-2-00540f?classifier=sources
+- pkg:maven/de.tototec/de.tobiasroeser.mill.kotlin-worker_2.13@0.1.0-3-1662eb
+- pkg:maven/de.tototec/de.tobiasroeser.mill.kotlin-worker_2.13@0.1.0-3-1662eb?classifier=sources
+- pkg:maven/de.tototec/de.tobiasroeser.mill.kotlin-worker_2.13@0.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/remark-highlight.js@5.2.0
+- pkg:maven/org.webjars.npm/remark-highlight.js@5.2.0?classifier=sources

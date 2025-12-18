@@ -40,3 +40,5 @@
 - pkg:maven/org.webjars.npm/material__tab-bar@4.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__tab-bar@6.0.0
 - pkg:maven/org.webjars.npm/material__tab-bar@6.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__tab-bar@7.0.0
+- pkg:maven/org.webjars.npm/material__tab-bar@7.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/it.uniroma2.art.semanticturkey/st-voidlime-dataset-metadata-exporter@8.0
+- pkg:maven/it.uniroma2.art.semanticturkey/st-voidlime-dataset-metadata-exporter@8.0?classifier=sources

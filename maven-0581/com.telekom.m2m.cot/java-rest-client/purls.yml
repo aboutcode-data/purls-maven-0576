@@ -28,3 +28,5 @@
 - pkg:maven/com.telekom.m2m.cot/java-rest-client@1.0.5?classifier=sources
 - pkg:maven/com.telekom.m2m.cot/java-rest-client@1.1.0
 - pkg:maven/com.telekom.m2m.cot/java-rest-client@1.1.0?classifier=sources
+- pkg:maven/com.telekom.m2m.cot/java-rest-client@2.0.0
+- pkg:maven/com.telekom.m2m.cot/java-rest-client@2.0.0?classifier=sources

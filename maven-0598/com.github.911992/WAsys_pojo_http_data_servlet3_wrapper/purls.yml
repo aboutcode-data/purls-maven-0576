@@ -1,0 +1,10 @@
+- pkg:maven/com.github.911992/WAsys_pojo_http_data_servlet3_wrapper@0.2.0
+- pkg:maven/com.github.911992/WAsys_pojo_http_data_servlet3_wrapper@0.2.0?classifier=sources
+- pkg:maven/com.github.911992/WAsys_pojo_http_data_servlet3_wrapper@0.2.2
+- pkg:maven/com.github.911992/WAsys_pojo_http_data_servlet3_wrapper@0.2.2?classifier=sources
+- pkg:maven/com.github.911992/WAsys_pojo_http_data_servlet3_wrapper@0.2.5
+- pkg:maven/com.github.911992/WAsys_pojo_http_data_servlet3_wrapper@0.2.5?classifier=sources
+- pkg:maven/com.github.911992/WAsys_pojo_http_data_servlet3_wrapper@0.2.9
+- pkg:maven/com.github.911992/WAsys_pojo_http_data_servlet3_wrapper@0.2.9?classifier=sources
+- pkg:maven/com.github.911992/WAsys_pojo_http_data_servlet3_wrapper@0.3.1
+- pkg:maven/com.github.911992/WAsys_pojo_http_data_servlet3_wrapper@0.3.1?classifier=sources

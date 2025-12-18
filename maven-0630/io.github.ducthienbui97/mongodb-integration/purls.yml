@@ -1,0 +1,2 @@
+- pkg:maven/io.github.ducthienbui97/mongodb-integration@1.0
+- pkg:maven/io.github.ducthienbui97/mongodb-integration@1.0?classifier=sources

@@ -24,3 +24,5 @@
 - pkg:maven/ru.vyarus/gradle-animalsniffer-plugin@1.4.6?classifier=sources
 - pkg:maven/ru.vyarus/gradle-animalsniffer-plugin@1.5.0
 - pkg:maven/ru.vyarus/gradle-animalsniffer-plugin@1.5.0?classifier=sources
+- pkg:maven/ru.vyarus/gradle-animalsniffer-plugin@1.5.1
+- pkg:maven/ru.vyarus/gradle-animalsniffer-plugin@1.5.1?classifier=sources

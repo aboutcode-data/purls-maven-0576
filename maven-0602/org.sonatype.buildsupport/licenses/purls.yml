@@ -20,6 +20,10 @@
 - pkg:maven/org.sonatype.buildsupport/licenses@19
 - pkg:maven/org.sonatype.buildsupport/licenses@19?classifier=sources
 - pkg:maven/org.sonatype.buildsupport/licenses@1?classifier=sources
+- pkg:maven/org.sonatype.buildsupport/licenses@20
+- pkg:maven/org.sonatype.buildsupport/licenses@20?classifier=sources
+- pkg:maven/org.sonatype.buildsupport/licenses@21
+- pkg:maven/org.sonatype.buildsupport/licenses@21?classifier=sources
 - pkg:maven/org.sonatype.buildsupport/licenses@3
 - pkg:maven/org.sonatype.buildsupport/licenses@3?classifier=sources
 - pkg:maven/org.sonatype.buildsupport/licenses@4

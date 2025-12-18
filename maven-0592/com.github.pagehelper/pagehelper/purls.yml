@@ -120,3 +120,5 @@
 - pkg:maven/com.github.pagehelper/pagehelper@5.1.8?classifier=sources
 - pkg:maven/com.github.pagehelper/pagehelper@5.1.9
 - pkg:maven/com.github.pagehelper/pagehelper@5.1.9?classifier=sources
+- pkg:maven/com.github.pagehelper/pagehelper@5.2.0
+- pkg:maven/com.github.pagehelper/pagehelper@5.2.0?classifier=sources

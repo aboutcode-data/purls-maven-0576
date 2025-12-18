@@ -6,6 +6,10 @@
 - pkg:maven/com.sdl.delivery/udp-context-service-common@11.0.0-1053?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-context-service-common@11.0.0-1057
 - pkg:maven/com.sdl.delivery/udp-context-service-common@11.0.0-1057?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-context-service-common@11.0.0-1066
+- pkg:maven/com.sdl.delivery/udp-context-service-common@11.0.0-1066?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-context-service-common@11.0.0-1073
+- pkg:maven/com.sdl.delivery/udp-context-service-common@11.0.0-1073?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-context-service-common@11.0.0-1074
 - pkg:maven/com.sdl.delivery/udp-context-service-common@11.0.0-1074?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-context-service-common@11.1.0-1063

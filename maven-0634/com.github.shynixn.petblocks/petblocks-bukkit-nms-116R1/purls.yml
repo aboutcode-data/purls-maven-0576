@@ -1,0 +1,6 @@
+- pkg:maven/com.github.shynixn.petblocks/petblocks-bukkit-nms-116R1@8.19.0
+- pkg:maven/com.github.shynixn.petblocks/petblocks-bukkit-nms-116R1@8.19.0?classifier=sources
+- pkg:maven/com.github.shynixn.petblocks/petblocks-bukkit-nms-116R1@8.20.0
+- pkg:maven/com.github.shynixn.petblocks/petblocks-bukkit-nms-116R1@8.20.0?classifier=sources
+- pkg:maven/com.github.shynixn.petblocks/petblocks-bukkit-nms-116R1@8.21.0
+- pkg:maven/com.github.shynixn.petblocks/petblocks-bukkit-nms-116R1@8.21.0?classifier=sources

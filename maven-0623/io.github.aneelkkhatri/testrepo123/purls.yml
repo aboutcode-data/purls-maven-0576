@@ -1,0 +1,8 @@
+- pkg:maven/io.github.aneelkkhatri/testrepo123@1.0.0
+- pkg:maven/io.github.aneelkkhatri/testrepo123@1.0.0-SNAPHOT
+- pkg:maven/io.github.aneelkkhatri/testrepo123@1.0.0-SNAPHOT?classifier=sources
+- pkg:maven/io.github.aneelkkhatri/testrepo123@1.0.0?classifier=sources
+- pkg:maven/io.github.aneelkkhatri/testrepo123@1.0.1-SNAPHOT
+- pkg:maven/io.github.aneelkkhatri/testrepo123@1.0.1-SNAPHOT?classifier=sources
+- pkg:maven/io.github.aneelkkhatri/testrepo123@1.0.2-SNAPHOT
+- pkg:maven/io.github.aneelkkhatri/testrepo123@1.0.2-SNAPHOT?classifier=sources

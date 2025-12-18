@@ -1,0 +1,2 @@
+- pkg:maven/io.featurehub.sdk/java-client-core@1.2
+- pkg:maven/io.featurehub.sdk/java-client-core@1.2?classifier=sources

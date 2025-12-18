@@ -1,0 +1,2 @@
+- pkg:maven/no.priv.bang.oldalbum/oldalbum.web.frontend@1.0.0
+- pkg:maven/no.priv.bang.oldalbum/oldalbum.web.frontend@1.0.0?classifier=sources

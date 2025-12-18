@@ -1,0 +1,2 @@
+- pkg:maven/io.github.isharipov/gson-adapters@0.1
+- pkg:maven/io.github.isharipov/gson-adapters@0.1?classifier=sources

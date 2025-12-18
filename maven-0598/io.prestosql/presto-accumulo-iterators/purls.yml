@@ -1,0 +1,12 @@
+- pkg:maven/io.prestosql/presto-accumulo-iterators@335
+- pkg:maven/io.prestosql/presto-accumulo-iterators@335?classifier=sources
+- pkg:maven/io.prestosql/presto-accumulo-iterators@336
+- pkg:maven/io.prestosql/presto-accumulo-iterators@336?classifier=sources
+- pkg:maven/io.prestosql/presto-accumulo-iterators@337
+- pkg:maven/io.prestosql/presto-accumulo-iterators@337?classifier=sources
+- pkg:maven/io.prestosql/presto-accumulo-iterators@338
+- pkg:maven/io.prestosql/presto-accumulo-iterators@338?classifier=sources
+- pkg:maven/io.prestosql/presto-accumulo-iterators@339
+- pkg:maven/io.prestosql/presto-accumulo-iterators@339?classifier=sources
+- pkg:maven/io.prestosql/presto-accumulo-iterators@340
+- pkg:maven/io.prestosql/presto-accumulo-iterators@340?classifier=sources

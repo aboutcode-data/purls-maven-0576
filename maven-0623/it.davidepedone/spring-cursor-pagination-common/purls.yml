@@ -1,0 +1,2 @@
+- pkg:maven/it.davidepedone/spring-cursor-pagination-common@1.0.1
+- pkg:maven/it.davidepedone/spring-cursor-pagination-common@1.0.1?classifier=sources

@@ -68,3 +68,4 @@
 - pkg:maven/org.eurekaclinical/protempa-test-suite@5.1-Beta-1
 - pkg:maven/org.eurekaclinical/protempa-test-suite@5.1-Beta-3
 - pkg:maven/org.eurekaclinical/protempa-test-suite@5.1-Beta-5
+- pkg:maven/org.eurekaclinical/protempa-test-suite@5.2-Alpha-2

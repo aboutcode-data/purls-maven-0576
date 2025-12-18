@@ -3,4 +3,7 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-source-nbjavac@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-source-nbjavac@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-source-nbjavac@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-java-source-nbjavac@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-java-source-nbjavac@RELEASE120-u1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-java-source-nbjavac@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-source-nbjavac@RELEASE90?classifier=sources

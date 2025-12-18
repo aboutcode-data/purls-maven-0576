@@ -1,2 +1,4 @@
 - pkg:maven/com.magenic.jmaqs.webservices/jmaqs-webservices-jdk8@2.0.0
 - pkg:maven/com.magenic.jmaqs.webservices/jmaqs-webservices-jdk8@2.0.0?classifier=sources
+- pkg:maven/com.magenic.jmaqs.webservices/jmaqs-webservices-jdk8@2.1.0
+- pkg:maven/com.magenic.jmaqs.webservices/jmaqs-webservices-jdk8@2.1.0?classifier=sources

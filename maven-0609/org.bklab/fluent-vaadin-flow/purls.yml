@@ -1,0 +1,4 @@
+- pkg:maven/org.bklab/fluent-vaadin-flow@17.0.0.alpha6
+- pkg:maven/org.bklab/fluent-vaadin-flow@17.0.0.alpha6?classifier=sources
+- pkg:maven/org.bklab/fluent-vaadin-flow@17.0.0.beta1
+- pkg:maven/org.bklab/fluent-vaadin-flow@17.0.0.beta1?classifier=sources

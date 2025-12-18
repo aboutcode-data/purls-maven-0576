@@ -12,3 +12,4 @@
 - pkg:maven/com.tencent.map.geolocation/TencentLocationSdk-openplatform@7.2.5?type=aar
 - pkg:maven/com.tencent.map.geolocation/TencentLocationSdk-openplatform@7.2.6?classifier=sources
 - pkg:maven/com.tencent.map.geolocation/TencentLocationSdk-openplatform@7.2.6?type=aar
+- pkg:maven/com.tencent.map.geolocation/TencentLocationSdk-openplatform@8.7.5.1?classifier=sources

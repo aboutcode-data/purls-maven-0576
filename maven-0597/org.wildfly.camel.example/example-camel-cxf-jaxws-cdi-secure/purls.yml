@@ -10,6 +10,8 @@
 - pkg:maven/org.wildfly.camel.example/example-camel-cxf-jaxws-cdi-secure@11.0.0?type=war
 - pkg:maven/org.wildfly.camel.example/example-camel-cxf-jaxws-cdi-secure@11.1.0?classifier=sources
 - pkg:maven/org.wildfly.camel.example/example-camel-cxf-jaxws-cdi-secure@11.1.0?type=war
+- pkg:maven/org.wildfly.camel.example/example-camel-cxf-jaxws-cdi-secure@12.0.0?classifier=sources
+- pkg:maven/org.wildfly.camel.example/example-camel-cxf-jaxws-cdi-secure@12.0.0?type=war
 - pkg:maven/org.wildfly.camel.example/example-camel-cxf-jaxws-cdi-secure@5.1.0?classifier=sources
 - pkg:maven/org.wildfly.camel.example/example-camel-cxf-jaxws-cdi-secure@5.1.0?type=war
 - pkg:maven/org.wildfly.camel.example/example-camel-cxf-jaxws-cdi-secure@6.0.0?classifier=sources

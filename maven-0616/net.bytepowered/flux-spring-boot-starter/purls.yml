@@ -1,0 +1,4 @@
+- pkg:maven/net.bytepowered/flux-spring-boot-starter@0.0.1-M0
+- pkg:maven/net.bytepowered/flux-spring-boot-starter@0.0.1-M0?classifier=sources
+- pkg:maven/net.bytepowered/flux-spring-boot-starter@0.0.2
+- pkg:maven/net.bytepowered/flux-spring-boot-starter@0.0.2?classifier=sources

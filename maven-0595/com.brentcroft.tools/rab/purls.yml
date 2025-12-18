@@ -1,0 +1,6 @@
+- pkg:maven/com.brentcroft.tools/rab@00.01.02
+- pkg:maven/com.brentcroft.tools/rab@00.01.02?classifier=sources
+- pkg:maven/com.brentcroft.tools/rab@01.01.01
+- pkg:maven/com.brentcroft.tools/rab@01.01.01?classifier=sources
+- pkg:maven/com.brentcroft.tools/rab@01.01.04
+- pkg:maven/com.brentcroft.tools/rab@01.01.04?classifier=sources

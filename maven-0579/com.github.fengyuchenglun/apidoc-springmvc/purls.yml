@@ -1,0 +1,2 @@
+- pkg:maven/com.github.fengyuchenglun/apidoc-springmvc@1.0.10
+- pkg:maven/com.github.fengyuchenglun/apidoc-springmvc@1.0.10?classifier=sources

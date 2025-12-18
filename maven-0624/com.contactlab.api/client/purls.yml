@@ -16,3 +16,5 @@
 - pkg:maven/com.contactlab.api/client@2.23.0?classifier=sources
 - pkg:maven/com.contactlab.api/client@2.24.3
 - pkg:maven/com.contactlab.api/client@2.24.3?classifier=sources
+- pkg:maven/com.contactlab.api/client@2.24.4
+- pkg:maven/com.contactlab.api/client@2.24.4?classifier=sources

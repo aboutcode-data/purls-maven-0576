@@ -1,0 +1,2 @@
+- pkg:maven/com.pig4cloud.plugin/aliyun-sms-core@1.2.1
+- pkg:maven/com.pig4cloud.plugin/aliyun-sms-core@1.2.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure.subscription.v2020_09_01/azure-mgmt-subscription@1.0.0-beta
+- pkg:maven/com.microsoft.azure.subscription.v2020_09_01/azure-mgmt-subscription@1.0.0-beta?classifier=sources

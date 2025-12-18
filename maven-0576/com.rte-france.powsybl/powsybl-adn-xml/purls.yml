@@ -1,5 +1,9 @@
 - pkg:maven/com.rte-france.powsybl/powsybl-adn-xml@2.10.0
 - pkg:maven/com.rte-france.powsybl/powsybl-adn-xml@2.10.1
+- pkg:maven/com.rte-france.powsybl/powsybl-adn-xml@2.11.0
+- pkg:maven/com.rte-france.powsybl/powsybl-adn-xml@2.11.1
+- pkg:maven/com.rte-france.powsybl/powsybl-adn-xml@2.11.2
+- pkg:maven/com.rte-france.powsybl/powsybl-adn-xml@2.12.0
 - pkg:maven/com.rte-france.powsybl/powsybl-adn-xml@2.2.0
 - pkg:maven/com.rte-france.powsybl/powsybl-adn-xml@2.2.1
 - pkg:maven/com.rte-france.powsybl/powsybl-adn-xml@2.3.0

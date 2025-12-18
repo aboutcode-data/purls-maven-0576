@@ -8,3 +8,7 @@
 - pkg:maven/org.locationtech.jts/jts-core@1.16.0?classifier=sources
 - pkg:maven/org.locationtech.jts/jts-core@1.16.1
 - pkg:maven/org.locationtech.jts/jts-core@1.16.1?classifier=sources
+- pkg:maven/org.locationtech.jts/jts-core@1.17.0
+- pkg:maven/org.locationtech.jts/jts-core@1.17.0?classifier=sources
+- pkg:maven/org.locationtech.jts/jts-core@1.17.1
+- pkg:maven/org.locationtech.jts/jts-core@1.17.1?classifier=sources

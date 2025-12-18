@@ -24,3 +24,13 @@
 - pkg:maven/com.facebook.presto/presto-elasticsearch@0.234?classifier=sources
 - pkg:maven/com.facebook.presto/presto-elasticsearch@0.235.1?classifier=sources
 - pkg:maven/com.facebook.presto/presto-elasticsearch@0.235?classifier=sources
+- pkg:maven/com.facebook.presto/presto-elasticsearch@0.236.1?classifier=sources
+- pkg:maven/com.facebook.presto/presto-elasticsearch@0.236?classifier=sources
+- pkg:maven/com.facebook.presto/presto-elasticsearch@0.237.1?classifier=sources
+- pkg:maven/com.facebook.presto/presto-elasticsearch@0.237.2?classifier=sources
+- pkg:maven/com.facebook.presto/presto-elasticsearch@0.237?classifier=sources
+- pkg:maven/com.facebook.presto/presto-elasticsearch@0.238.1?classifier=sources
+- pkg:maven/com.facebook.presto/presto-elasticsearch@0.238.2?classifier=sources
+- pkg:maven/com.facebook.presto/presto-elasticsearch@0.238?classifier=sources
+- pkg:maven/com.facebook.presto/presto-elasticsearch@0.239.1?classifier=sources
+- pkg:maven/com.facebook.presto/presto-elasticsearch@0.239?classifier=sources

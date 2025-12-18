@@ -20,6 +20,12 @@
 - pkg:maven/org.apache.beam/beam-runners-extensions-java-metrics@2.19.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-runners-extensions-java-metrics@2.20.0
 - pkg:maven/org.apache.beam/beam-runners-extensions-java-metrics@2.20.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-runners-extensions-java-metrics@2.21.0
+- pkg:maven/org.apache.beam/beam-runners-extensions-java-metrics@2.21.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-runners-extensions-java-metrics@2.22.0
+- pkg:maven/org.apache.beam/beam-runners-extensions-java-metrics@2.22.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-runners-extensions-java-metrics@2.23.0
+- pkg:maven/org.apache.beam/beam-runners-extensions-java-metrics@2.23.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-runners-extensions-java-metrics@2.5.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-runners-extensions-java-metrics@2.6.0
 - pkg:maven/org.apache.beam/beam-runners-extensions-java-metrics@2.6.0?classifier=sources

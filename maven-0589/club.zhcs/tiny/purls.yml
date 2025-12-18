@@ -12,3 +12,11 @@
 - pkg:maven/club.zhcs/tiny@2.2.7.RELEASE?classifier=sources
 - pkg:maven/club.zhcs/tiny@2.3.0.RELEASE
 - pkg:maven/club.zhcs/tiny@2.3.0.RELEASE?classifier=sources
+- pkg:maven/club.zhcs/tiny@2.3.1.RELEASE
+- pkg:maven/club.zhcs/tiny@2.3.1.RELEASE.20200624
+- pkg:maven/club.zhcs/tiny@2.3.1.RELEASE.20200624?classifier=sources
+- pkg:maven/club.zhcs/tiny@2.3.1.RELEASE?classifier=sources
+- pkg:maven/club.zhcs/tiny@2.3.2.RELEASE
+- pkg:maven/club.zhcs/tiny@2.3.2.RELEASE?classifier=sources
+- pkg:maven/club.zhcs/tiny@2.3.3.RELEASE
+- pkg:maven/club.zhcs/tiny@2.3.3.RELEASE?classifier=sources

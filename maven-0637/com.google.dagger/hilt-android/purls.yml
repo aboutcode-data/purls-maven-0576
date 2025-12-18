@@ -1,0 +1,8 @@
+- pkg:maven/com.google.dagger/hilt-android@2.28-alpha?classifier=sources
+- pkg:maven/com.google.dagger/hilt-android@2.28-alpha?type=aar
+- pkg:maven/com.google.dagger/hilt-android@2.28.1-alpha?classifier=sources
+- pkg:maven/com.google.dagger/hilt-android@2.28.1-alpha?type=aar
+- pkg:maven/com.google.dagger/hilt-android@2.28.2-alpha?classifier=sources
+- pkg:maven/com.google.dagger/hilt-android@2.28.2-alpha?type=aar
+- pkg:maven/com.google.dagger/hilt-android@2.28.3-alpha?classifier=sources
+- pkg:maven/com.google.dagger/hilt-android@2.28.3-alpha?type=aar

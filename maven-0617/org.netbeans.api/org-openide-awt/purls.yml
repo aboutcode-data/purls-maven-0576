@@ -3,4 +3,7 @@
 - pkg:maven/org.netbeans.api/org-openide-awt@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.api/org-openide-awt@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.api/org-openide-awt@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.api/org-openide-awt@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.api/org-openide-awt@RELEASE120-u1?classifier=sources
+- pkg:maven/org.netbeans.api/org-openide-awt@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.api/org-openide-awt@RELEASE90?classifier=sources

@@ -23,6 +23,7 @@
 - pkg:maven/org.wso2.carbon.identity.commons/identity-commons@0.1.30?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.commons/identity-commons@0.1.31?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.commons/identity-commons@0.1.32?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.commons/identity-commons@0.1.35?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.commons/identity-commons@0.1.4?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.commons/identity-commons@0.1.5?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.commons/identity-commons@0.1.6?classifier=source-release&type=zip

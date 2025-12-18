@@ -74,6 +74,16 @@
 - pkg:maven/com.google.apis/google-api-services-datacatalog@v1beta1-rev20200430-1.30.9?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-datacatalog@v1beta1-rev20200510-1.30.9
 - pkg:maven/com.google.apis/google-api-services-datacatalog@v1beta1-rev20200510-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-datacatalog@v1beta1-rev20200618-1.30.10
+- pkg:maven/com.google.apis/google-api-services-datacatalog@v1beta1-rev20200618-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-datacatalog@v1beta1-rev20200618-1.30.9
+- pkg:maven/com.google.apis/google-api-services-datacatalog@v1beta1-rev20200618-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-datacatalog@v1beta1-rev20200719-1.30.10
+- pkg:maven/com.google.apis/google-api-services-datacatalog@v1beta1-rev20200719-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-datacatalog@v1beta1-rev20200728-1.30.10
+- pkg:maven/com.google.apis/google-api-services-datacatalog@v1beta1-rev20200728-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-datacatalog@v1beta1-rev20200810-1.30.10
+- pkg:maven/com.google.apis/google-api-services-datacatalog@v1beta1-rev20200810-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-datacatalog@v1beta1-rev3-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-datacatalog@v1beta1-rev3-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-datacatalog@v1beta1-rev3-1.25.0

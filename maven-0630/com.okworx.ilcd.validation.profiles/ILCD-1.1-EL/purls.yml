@@ -1,0 +1,2 @@
+- pkg:maven/com.okworx.ilcd.validation.profiles/ILCD-1.1-EL@1.0.7
+- pkg:maven/com.okworx.ilcd.validation.profiles/ILCD-1.1-EL@1.0.7?classifier=sources

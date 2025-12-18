@@ -101,6 +101,8 @@
 - pkg:maven/io.sentry/sentry-android-gradle-plugin@1.7.33?classifier=sources
 - pkg:maven/io.sentry/sentry-android-gradle-plugin@1.7.34
 - pkg:maven/io.sentry/sentry-android-gradle-plugin@1.7.34?classifier=sources
+- pkg:maven/io.sentry/sentry-android-gradle-plugin@1.7.35
+- pkg:maven/io.sentry/sentry-android-gradle-plugin@1.7.35?classifier=sources
 - pkg:maven/io.sentry/sentry-android-gradle-plugin@1.7.3?classifier=sources
 - pkg:maven/io.sentry/sentry-android-gradle-plugin@1.7.4
 - pkg:maven/io.sentry/sentry-android-gradle-plugin@1.7.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.fleetpin/graphql-database-dynmodb-history-lambda@0.2.15
+- pkg:maven/com.fleetpin/graphql-database-dynmodb-history-lambda@0.2.15?classifier=sources

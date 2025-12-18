@@ -8,7 +8,9 @@
 - pkg:maven/org.webjars.npm/d3-chord@1.0.4?classifier=sources
 - pkg:maven/org.webjars.npm/d3-chord@1.0.6
 - pkg:maven/org.webjars.npm/d3-chord@1.0.6?classifier=sources
+- pkg:maven/org.webjars.npm/d3-chord@2.0.0
 - pkg:maven/org.webjars.npm/d3-chord@2.0.0-rc.7
 - pkg:maven/org.webjars.npm/d3-chord@2.0.0-rc.7?classifier=sources
 - pkg:maven/org.webjars.npm/d3-chord@2.0.0-rc.9
 - pkg:maven/org.webjars.npm/d3-chord@2.0.0-rc.9?classifier=sources
+- pkg:maven/org.webjars.npm/d3-chord@2.0.0?classifier=sources

@@ -8,3 +8,7 @@
 - pkg:maven/org.webjars.npm/tmp@0.0.31?classifier=sources
 - pkg:maven/org.webjars.npm/tmp@0.0.33
 - pkg:maven/org.webjars.npm/tmp@0.0.33?classifier=sources
+- pkg:maven/org.webjars.npm/tmp@0.1.0
+- pkg:maven/org.webjars.npm/tmp@0.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/tmp@0.2.1
+- pkg:maven/org.webjars.npm/tmp@0.2.1?classifier=sources

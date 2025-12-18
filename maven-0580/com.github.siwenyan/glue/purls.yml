@@ -1,0 +1,12 @@
+- pkg:maven/com.github.siwenyan/glue@1.18.a
+- pkg:maven/com.github.siwenyan/glue@1.18.a?classifier=sources
+- pkg:maven/com.github.siwenyan/glue@1.19.a
+- pkg:maven/com.github.siwenyan/glue@1.19.a?classifier=sources
+- pkg:maven/com.github.siwenyan/glue@1.20.a
+- pkg:maven/com.github.siwenyan/glue@1.20.a?classifier=sources
+- pkg:maven/com.github.siwenyan/glue@1.21.a
+- pkg:maven/com.github.siwenyan/glue@1.21.a?classifier=sources
+- pkg:maven/com.github.siwenyan/glue@1.22.a
+- pkg:maven/com.github.siwenyan/glue@1.22.a?classifier=sources
+- pkg:maven/com.github.siwenyan/glue@1.23.a
+- pkg:maven/com.github.siwenyan/glue@1.23.a?classifier=sources

@@ -26,3 +26,5 @@
 - pkg:maven/org.scala-js/scalajs-dom_sjs0.6_2.10@0.9.8?classifier=sources
 - pkg:maven/org.scala-js/scalajs-dom_sjs0.6_2.10@1.0.0
 - pkg:maven/org.scala-js/scalajs-dom_sjs0.6_2.10@1.0.0?classifier=sources
+- pkg:maven/org.scala-js/scalajs-dom_sjs0.6_2.10@1.1.0
+- pkg:maven/org.scala-js/scalajs-dom_sjs0.6_2.10@1.1.0?classifier=sources

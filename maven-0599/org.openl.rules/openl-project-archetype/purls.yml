@@ -1,0 +1,2 @@
+- pkg:maven/org.openl.rules/openl-project-archetype@5.23.4?classifier=sources
+- pkg:maven/org.openl.rules/openl-project-archetype@5.23.5?classifier=sources

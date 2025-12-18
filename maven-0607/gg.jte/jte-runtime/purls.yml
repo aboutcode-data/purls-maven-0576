@@ -1,0 +1,2 @@
+- pkg:maven/gg.jte/jte-runtime@1.0.0
+- pkg:maven/gg.jte/jte-runtime@1.0.0?classifier=sources

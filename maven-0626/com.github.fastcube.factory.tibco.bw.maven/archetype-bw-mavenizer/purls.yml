@@ -1,0 +1,2 @@
+- pkg:maven/com.github.fastcube.factory.tibco.bw.maven/archetype-bw-mavenizer@1.0.0?classifier=sources
+- pkg:maven/com.github.fastcube.factory.tibco.bw.maven/archetype-bw-mavenizer@1.0.1?classifier=sources

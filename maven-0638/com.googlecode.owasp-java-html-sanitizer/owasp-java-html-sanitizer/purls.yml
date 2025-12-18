@@ -44,6 +44,10 @@
 - pkg:maven/com.googlecode.owasp-java-html-sanitizer/owasp-java-html-sanitizer@20190610.1?classifier=sources
 - pkg:maven/com.googlecode.owasp-java-html-sanitizer/owasp-java-html-sanitizer@20191001.1
 - pkg:maven/com.googlecode.owasp-java-html-sanitizer/owasp-java-html-sanitizer@20191001.1?classifier=sources
+- pkg:maven/com.googlecode.owasp-java-html-sanitizer/owasp-java-html-sanitizer@20200615.1
+- pkg:maven/com.googlecode.owasp-java-html-sanitizer/owasp-java-html-sanitizer@20200615.1?classifier=sources
+- pkg:maven/com.googlecode.owasp-java-html-sanitizer/owasp-java-html-sanitizer@20200713.1
+- pkg:maven/com.googlecode.owasp-java-html-sanitizer/owasp-java-html-sanitizer@20200713.1?classifier=sources
 - pkg:maven/com.googlecode.owasp-java-html-sanitizer/owasp-java-html-sanitizer@r136
 - pkg:maven/com.googlecode.owasp-java-html-sanitizer/owasp-java-html-sanitizer@r136?classifier=sources
 - pkg:maven/com.googlecode.owasp-java-html-sanitizer/owasp-java-html-sanitizer@r156

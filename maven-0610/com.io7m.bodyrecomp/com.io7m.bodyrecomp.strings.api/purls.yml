@@ -1,0 +1,2 @@
+- pkg:maven/com.io7m.bodyrecomp/com.io7m.bodyrecomp.strings.api@0.0.1
+- pkg:maven/com.io7m.bodyrecomp/com.io7m.bodyrecomp.strings.api@0.0.1?classifier=sources

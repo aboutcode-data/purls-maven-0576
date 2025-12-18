@@ -1,0 +1,2 @@
+- pkg:maven/com.gojek.parquet/parquet-hive-0.12-binding@1.11.2
+- pkg:maven/com.gojek.parquet/parquet-hive-0.12-binding@1.11.2?classifier=sources

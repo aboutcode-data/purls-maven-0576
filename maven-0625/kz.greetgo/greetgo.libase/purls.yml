@@ -1,4 +1,6 @@
 - pkg:maven/kz.greetgo/greetgo.libase@1.0.10
 - pkg:maven/kz.greetgo/greetgo.libase@1.0.10?classifier=sources
+- pkg:maven/kz.greetgo/greetgo.libase@1.0.11
+- pkg:maven/kz.greetgo/greetgo.libase@1.0.11?classifier=sources
 - pkg:maven/kz.greetgo/greetgo.libase@1.0.9
 - pkg:maven/kz.greetgo/greetgo.libase@1.0.9?classifier=sources

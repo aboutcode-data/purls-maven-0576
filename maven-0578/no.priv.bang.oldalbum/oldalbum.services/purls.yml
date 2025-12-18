@@ -1,0 +1,2 @@
+- pkg:maven/no.priv.bang.oldalbum/oldalbum.services@1.0.0
+- pkg:maven/no.priv.bang.oldalbum/oldalbum.services@1.0.0?classifier=sources

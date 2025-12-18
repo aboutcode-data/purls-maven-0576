@@ -27,3 +27,9 @@
 - pkg:maven/org.jbpm.contrib/karaf-itests@7.36.1.Final
 - pkg:maven/org.jbpm.contrib/karaf-itests@7.37.0.Final
 - pkg:maven/org.jbpm.contrib/karaf-itests@7.38.0.Final
+- pkg:maven/org.jbpm.contrib/karaf-itests@7.39.0.Final
+- pkg:maven/org.jbpm.contrib/karaf-itests@7.40.0.20200703
+- pkg:maven/org.jbpm.contrib/karaf-itests@7.40.0.Final
+- pkg:maven/org.jbpm.contrib/karaf-itests@7.41.0.Final
+- pkg:maven/org.jbpm.contrib/karaf-itests@7.41.0.t20200723
+- pkg:maven/org.jbpm.contrib/karaf-itests@7.42.0.Final

@@ -1,0 +1,6 @@
+- pkg:maven/com.github.blackrose01/igdb-wrapper-java@v0.12-alpha
+- pkg:maven/com.github.blackrose01/igdb-wrapper-java@v0.12-alpha?classifier=sources
+- pkg:maven/com.github.blackrose01/igdb-wrapper-java@v1.0
+- pkg:maven/com.github.blackrose01/igdb-wrapper-java@v1.0?classifier=sources
+- pkg:maven/com.github.blackrose01/igdb-wrapper-java@v1.1
+- pkg:maven/com.github.blackrose01/igdb-wrapper-java@v1.1?classifier=sources
