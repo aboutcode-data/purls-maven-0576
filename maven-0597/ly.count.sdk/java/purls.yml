@@ -1,1 +1,2 @@
 - pkg:maven/ly.count.sdk/java@19.09-sdk2-rc?classifier=sources
+- pkg:maven/ly.count.sdk/java@20.11.0?classifier=sources

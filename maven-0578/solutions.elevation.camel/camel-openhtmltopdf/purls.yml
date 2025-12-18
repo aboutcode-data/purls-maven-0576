@@ -1,0 +1,2 @@
+- pkg:maven/solutions.elevation.camel/camel-openhtmltopdf@1.0.1
+- pkg:maven/solutions.elevation.camel/camel-openhtmltopdf@1.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/tech.ignission/redisclient_2.13@3.30.3
+- pkg:maven/tech.ignission/redisclient_2.13@3.30.3?classifier=sources

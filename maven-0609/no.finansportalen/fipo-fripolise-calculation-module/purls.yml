@@ -1,0 +1,2 @@
+- pkg:maven/no.finansportalen/fipo-fripolise-calculation-module@1.0.3
+- pkg:maven/no.finansportalen/fipo-fripolise-calculation-module@1.0.3?classifier=sources

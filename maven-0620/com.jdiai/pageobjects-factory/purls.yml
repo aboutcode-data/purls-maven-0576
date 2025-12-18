@@ -1,0 +1,2 @@
+- pkg:maven/com.jdiai/pageobjects-factory@1.0.0
+- pkg:maven/com.jdiai/pageobjects-factory@1.0.0?classifier=sources

@@ -34,3 +34,5 @@
 - pkg:maven/org.kie.kogito/kogito-quarkus-archetype@1.4.1.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-quarkus-archetype@1.5.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-quarkus-archetype@1.6.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-quarkus-archetype@1.7.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-quarkus-archetype@1.8.0.Final?classifier=sources

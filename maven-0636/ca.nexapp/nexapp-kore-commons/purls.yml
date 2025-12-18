@@ -1,0 +1,6 @@
+- pkg:maven/ca.nexapp/nexapp-kore-commons@0.0.1-R3
+- pkg:maven/ca.nexapp/nexapp-kore-commons@0.0.1-R3?classifier=sources
+- pkg:maven/ca.nexapp/nexapp-kore-commons@1.0.0
+- pkg:maven/ca.nexapp/nexapp-kore-commons@1.0.0?classifier=sources
+- pkg:maven/ca.nexapp/nexapp-kore-commons@2.0.0
+- pkg:maven/ca.nexapp/nexapp-kore-commons@2.0.0?classifier=sources

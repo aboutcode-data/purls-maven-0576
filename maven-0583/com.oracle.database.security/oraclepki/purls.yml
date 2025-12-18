@@ -6,6 +6,8 @@
 - pkg:maven/com.oracle.database.security/oraclepki@18.3.0.0?classifier=sources
 - pkg:maven/com.oracle.database.security/oraclepki@19.10.0.0
 - pkg:maven/com.oracle.database.security/oraclepki@19.10.0.0?classifier=sources
+- pkg:maven/com.oracle.database.security/oraclepki@19.11.0.0
+- pkg:maven/com.oracle.database.security/oraclepki@19.11.0.0?classifier=sources
 - pkg:maven/com.oracle.database.security/oraclepki@19.3.0.0
 - pkg:maven/com.oracle.database.security/oraclepki@19.3.0.0?classifier=sources
 - pkg:maven/com.oracle.database.security/oraclepki@19.6.0.0

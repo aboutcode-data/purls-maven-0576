@@ -30,3 +30,5 @@
 - pkg:maven/org.webjars.npm/d3-zoom@1.8.3?classifier=sources
 - pkg:maven/org.webjars.npm/d3-zoom@2.0.0
 - pkg:maven/org.webjars.npm/d3-zoom@2.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/d3-zoom@3.0.0
+- pkg:maven/org.webjars.npm/d3-zoom@3.0.0?classifier=sources

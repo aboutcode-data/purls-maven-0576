@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/markdown-it-deflist@2.1.0
+- pkg:maven/org.webjars.npm/markdown-it-deflist@2.1.0?classifier=sources

@@ -26,3 +26,5 @@
 - pkg:maven/top.dcenter/ums-core@2.2.40?classifier=sources
 - pkg:maven/top.dcenter/ums-core@2.2.41
 - pkg:maven/top.dcenter/ums-core@2.2.41?classifier=sources
+- pkg:maven/top.dcenter/ums-core@2.2.42
+- pkg:maven/top.dcenter/ums-core@2.2.42?classifier=sources

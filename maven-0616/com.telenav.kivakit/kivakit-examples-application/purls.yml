@@ -1,0 +1,2 @@
+- pkg:maven/com.telenav.kivakit/kivakit-examples-application@0.9.8-beta
+- pkg:maven/com.telenav.kivakit/kivakit-examples-application@0.9.8-beta?classifier=sources

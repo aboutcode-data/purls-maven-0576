@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.hono/hono-client-telemetry-amqp@1.9.0
+- pkg:maven/org.eclipse.hono/hono-client-telemetry-amqp@1.9.0?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/org.kie.kogito/dmn-tracing-springboot@1.5.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/dmn-tracing-springboot@1.6.0.Final
 - pkg:maven/org.kie.kogito/dmn-tracing-springboot@1.6.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/dmn-tracing-springboot@1.7.0.Final
+- pkg:maven/org.kie.kogito/dmn-tracing-springboot@1.7.0.Final?classifier=sources

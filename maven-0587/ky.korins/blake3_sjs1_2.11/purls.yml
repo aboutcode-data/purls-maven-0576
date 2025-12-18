@@ -52,3 +52,7 @@
 - pkg:maven/ky.korins/blake3_sjs1_2.11@2.6.0?classifier=sources
 - pkg:maven/ky.korins/blake3_sjs1_2.11@2.6.1
 - pkg:maven/ky.korins/blake3_sjs1_2.11@2.6.1?classifier=sources
+- pkg:maven/ky.korins/blake3_sjs1_2.11@2.7.0
+- pkg:maven/ky.korins/blake3_sjs1_2.11@2.7.0?classifier=sources
+- pkg:maven/ky.korins/blake3_sjs1_2.11@2.8.0
+- pkg:maven/ky.korins/blake3_sjs1_2.11@2.8.0?classifier=sources

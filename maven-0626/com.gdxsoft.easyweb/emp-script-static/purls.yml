@@ -6,3 +6,5 @@
 - pkg:maven/com.gdxsoft.easyweb/emp-script-static@1.0.4?classifier=sources
 - pkg:maven/com.gdxsoft.easyweb/emp-script-static@1.0.5
 - pkg:maven/com.gdxsoft.easyweb/emp-script-static@1.0.5?classifier=sources
+- pkg:maven/com.gdxsoft.easyweb/emp-script-static@1.1.0
+- pkg:maven/com.gdxsoft.easyweb/emp-script-static@1.1.0?classifier=sources

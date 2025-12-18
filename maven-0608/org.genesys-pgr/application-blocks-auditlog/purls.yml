@@ -16,3 +16,7 @@
 - pkg:maven/org.genesys-pgr/application-blocks-auditlog@2.0?classifier=sources
 - pkg:maven/org.genesys-pgr/application-blocks-auditlog@2.1
 - pkg:maven/org.genesys-pgr/application-blocks-auditlog@2.1?classifier=sources
+- pkg:maven/org.genesys-pgr/application-blocks-auditlog@3.0
+- pkg:maven/org.genesys-pgr/application-blocks-auditlog@3.0?classifier=sources
+- pkg:maven/org.genesys-pgr/application-blocks-auditlog@3.1
+- pkg:maven/org.genesys-pgr/application-blocks-auditlog@3.1?classifier=sources

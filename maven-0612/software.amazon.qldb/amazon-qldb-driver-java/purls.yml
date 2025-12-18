@@ -16,3 +16,7 @@
 - pkg:maven/software.amazon.qldb/amazon-qldb-driver-java@2.1.0?classifier=sources
 - pkg:maven/software.amazon.qldb/amazon-qldb-driver-java@2.2.0
 - pkg:maven/software.amazon.qldb/amazon-qldb-driver-java@2.2.0?classifier=sources
+- pkg:maven/software.amazon.qldb/amazon-qldb-driver-java@2.3.0
+- pkg:maven/software.amazon.qldb/amazon-qldb-driver-java@2.3.0?classifier=sources
+- pkg:maven/software.amazon.qldb/amazon-qldb-driver-java@2.3.1
+- pkg:maven/software.amazon.qldb/amazon-qldb-driver-java@2.3.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.eeeffff.hasentinel/hasentinel-common-spring-boot-starter@1.8.1
+- pkg:maven/com.eeeffff.hasentinel/hasentinel-common-spring-boot-starter@1.8.1?classifier=sources

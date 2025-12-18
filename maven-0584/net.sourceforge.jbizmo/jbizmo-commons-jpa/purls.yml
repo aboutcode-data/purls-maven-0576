@@ -2,3 +2,5 @@
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-jpa@4.0.0?classifier=sources
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-jpa@5.0.0
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-jpa@5.0.0?classifier=sources
+- pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-jpa@6.0.0
+- pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-jpa@6.0.0?classifier=sources

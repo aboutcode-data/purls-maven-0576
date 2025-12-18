@@ -1,0 +1,8 @@
+- pkg:maven/com.akkaserverless/akkaserverless-codegen-java_2.13@0.7.0-beta.12
+- pkg:maven/com.akkaserverless/akkaserverless-codegen-java_2.13@0.7.0-beta.12?classifier=sources
+- pkg:maven/com.akkaserverless/akkaserverless-codegen-java_2.13@0.7.0-beta.13
+- pkg:maven/com.akkaserverless/akkaserverless-codegen-java_2.13@0.7.0-beta.13?classifier=sources
+- pkg:maven/com.akkaserverless/akkaserverless-codegen-java_2.13@0.7.0-beta.14
+- pkg:maven/com.akkaserverless/akkaserverless-codegen-java_2.13@0.7.0-beta.14?classifier=sources
+- pkg:maven/com.akkaserverless/akkaserverless-codegen-java_2.13@0.7.0-beta.15
+- pkg:maven/com.akkaserverless/akkaserverless-codegen-java_2.13@0.7.0-beta.15?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/io.github.rain9155/baseadapter@1.0.0?classifier=sources
+- pkg:maven/io.github.rain9155/baseadapter@1.0.0?type=aar
+- pkg:maven/io.github.rain9155/baseadapter@1.0.3?classifier=sources
+- pkg:maven/io.github.rain9155/baseadapter@1.0.3?type=aar
+- pkg:maven/io.github.rain9155/baseadapter@1.0.4?classifier=sources
+- pkg:maven/io.github.rain9155/baseadapter@1.0.4?type=aar

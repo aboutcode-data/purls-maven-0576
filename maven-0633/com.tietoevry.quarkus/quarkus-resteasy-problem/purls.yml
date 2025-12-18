@@ -10,3 +10,9 @@
 - pkg:maven/com.tietoevry.quarkus/quarkus-resteasy-problem@0.9.7?classifier=sources
 - pkg:maven/com.tietoevry.quarkus/quarkus-resteasy-problem@0.9.8
 - pkg:maven/com.tietoevry.quarkus/quarkus-resteasy-problem@0.9.8?classifier=sources
+- pkg:maven/com.tietoevry.quarkus/quarkus-resteasy-problem@1.0.0
+- pkg:maven/com.tietoevry.quarkus/quarkus-resteasy-problem@1.0.0?classifier=sources
+- pkg:maven/com.tietoevry.quarkus/quarkus-resteasy-problem@2.0.0
+- pkg:maven/com.tietoevry.quarkus/quarkus-resteasy-problem@2.0.0.CR3
+- pkg:maven/com.tietoevry.quarkus/quarkus-resteasy-problem@2.0.0.CR3?classifier=sources
+- pkg:maven/com.tietoevry.quarkus/quarkus-resteasy-problem@2.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.thecommonsproject/commonhealth-client@1.1.1-alpha02?classifier=sources
+- pkg:maven/org.thecommonsproject/commonhealth-client@1.1.2?classifier=sources

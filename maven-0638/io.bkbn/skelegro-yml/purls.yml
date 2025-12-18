@@ -1,0 +1,3 @@
+- pkg:maven/io.bkbn/skelegro-yml@1.0.0-rc?classifier=sources
+- pkg:maven/io.bkbn/skelegro-yml@1.0.0?classifier=sources
+- pkg:maven/io.bkbn/skelegro-yml@1.0.2?classifier=sources

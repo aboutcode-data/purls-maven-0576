@@ -10,3 +10,5 @@
 - pkg:maven/org.panteleyev/java-api-for-mysql@1.4.0?classifier=sources
 - pkg:maven/org.panteleyev/java-api-for-mysql@1.5.0
 - pkg:maven/org.panteleyev/java-api-for-mysql@1.5.0?classifier=sources
+- pkg:maven/org.panteleyev/java-api-for-mysql@1.5.1
+- pkg:maven/org.panteleyev/java-api-for-mysql@1.5.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.skywalking/apm-okhttp-4.x-plugin@8.6.0
+- pkg:maven/org.apache.skywalking/apm-okhttp-4.x-plugin@8.6.0?classifier=sources

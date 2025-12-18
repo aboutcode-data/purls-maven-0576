@@ -8,3 +8,5 @@
 - pkg:maven/com.infomaximum/platform@0.0.4p1?classifier=sources
 - pkg:maven/com.infomaximum/platform@0.0.4p2
 - pkg:maven/com.infomaximum/platform@0.0.4p2?classifier=sources
+- pkg:maven/com.infomaximum/platform@0.0.4p3
+- pkg:maven/com.infomaximum/platform@0.0.4p3?classifier=sources

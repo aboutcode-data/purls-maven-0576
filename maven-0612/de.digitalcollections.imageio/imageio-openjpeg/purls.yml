@@ -34,3 +34,5 @@
 - pkg:maven/de.digitalcollections.imageio/imageio-openjpeg@0.5.0?classifier=sources
 - pkg:maven/de.digitalcollections.imageio/imageio-openjpeg@0.5.1
 - pkg:maven/de.digitalcollections.imageio/imageio-openjpeg@0.5.1?classifier=sources
+- pkg:maven/de.digitalcollections.imageio/imageio-openjpeg@0.6.0
+- pkg:maven/de.digitalcollections.imageio/imageio-openjpeg@0.6.0?classifier=sources

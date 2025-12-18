@@ -1,2 +1,6 @@
 - pkg:maven/org.jitsi/go-offline-maven-plugin@1.2.8-jitsi.1
 - pkg:maven/org.jitsi/go-offline-maven-plugin@1.2.8-jitsi.1?classifier=sources
+- pkg:maven/org.jitsi/go-offline-maven-plugin@1.2.8-jitsi.2
+- pkg:maven/org.jitsi/go-offline-maven-plugin@1.2.8-jitsi.2?classifier=sources
+- pkg:maven/org.jitsi/go-offline-maven-plugin@1.2.8-jitsi.3
+- pkg:maven/org.jitsi/go-offline-maven-plugin@1.2.8-jitsi.3?classifier=sources

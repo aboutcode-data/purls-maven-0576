@@ -1,0 +1,2 @@
+- pkg:maven/io.apiman/apiman-common-logging-jboss@2.1.0.Final
+- pkg:maven/io.apiman/apiman-common-logging-jboss@2.1.0.Final?classifier=sources

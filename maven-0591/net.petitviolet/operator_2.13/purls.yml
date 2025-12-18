@@ -4,3 +4,5 @@
 - pkg:maven/net.petitviolet/operator_2.13@0.6.2?classifier=sources
 - pkg:maven/net.petitviolet/operator_2.13@0.6.3
 - pkg:maven/net.petitviolet/operator_2.13@0.6.3?classifier=sources
+- pkg:maven/net.petitviolet/operator_2.13@0.7.0
+- pkg:maven/net.petitviolet/operator_2.13@0.7.0?classifier=sources

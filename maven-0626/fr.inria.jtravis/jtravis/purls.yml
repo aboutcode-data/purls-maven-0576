@@ -20,3 +20,5 @@
 - pkg:maven/fr.inria.jtravis/jtravis@2.5?classifier=sources
 - pkg:maven/fr.inria.jtravis/jtravis@2.6
 - pkg:maven/fr.inria.jtravis/jtravis@2.6?classifier=sources
+- pkg:maven/fr.inria.jtravis/jtravis@2.7
+- pkg:maven/fr.inria.jtravis/jtravis@2.7?classifier=sources

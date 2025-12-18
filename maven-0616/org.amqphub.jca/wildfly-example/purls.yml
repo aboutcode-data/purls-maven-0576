@@ -1,1 +1,2 @@
 - pkg:maven/org.amqphub.jca/wildfly-example@1.0.2?type=war
+- pkg:maven/org.amqphub.jca/wildfly-example@2.0.0?type=war

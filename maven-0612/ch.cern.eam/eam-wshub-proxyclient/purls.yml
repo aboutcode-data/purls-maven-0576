@@ -32,6 +32,8 @@
 - pkg:maven/ch.cern.eam/eam-wshub-proxyclient@11.5-11?classifier=sources
 - pkg:maven/ch.cern.eam/eam-wshub-proxyclient@11.5-12
 - pkg:maven/ch.cern.eam/eam-wshub-proxyclient@11.5-12?classifier=sources
+- pkg:maven/ch.cern.eam/eam-wshub-proxyclient@11.5-13
+- pkg:maven/ch.cern.eam/eam-wshub-proxyclient@11.5-13?classifier=sources
 - pkg:maven/ch.cern.eam/eam-wshub-proxyclient@11.5-2
 - pkg:maven/ch.cern.eam/eam-wshub-proxyclient@11.5-2?classifier=sources
 - pkg:maven/ch.cern.eam/eam-wshub-proxyclient@11.5-3
@@ -48,3 +50,5 @@
 - pkg:maven/ch.cern.eam/eam-wshub-proxyclient@11.5-8?classifier=sources
 - pkg:maven/ch.cern.eam/eam-wshub-proxyclient@11.5-9
 - pkg:maven/ch.cern.eam/eam-wshub-proxyclient@11.5-9?classifier=sources
+- pkg:maven/ch.cern.eam/eam-wshub-proxyclient@11.6-0
+- pkg:maven/ch.cern.eam/eam-wshub-proxyclient@11.6-0?classifier=sources

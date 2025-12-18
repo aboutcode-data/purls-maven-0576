@@ -1,0 +1,3 @@
+- pkg:maven/com.joom.colonist/colonist-processor@0.1.0-alpha10?classifier=sources
+- pkg:maven/com.joom.colonist/colonist-processor@0.1.0-alpha11?classifier=sources
+- pkg:maven/com.joom.colonist/colonist-processor@0.1.0-alpha12?classifier=sources

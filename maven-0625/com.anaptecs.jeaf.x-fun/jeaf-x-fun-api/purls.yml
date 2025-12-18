@@ -24,6 +24,10 @@
 - pkg:maven/com.anaptecs.jeaf.x-fun/jeaf-x-fun-api@1.5.25?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.x-fun/jeaf-x-fun-api@1.5.26
 - pkg:maven/com.anaptecs.jeaf.x-fun/jeaf-x-fun-api@1.5.26?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.x-fun/jeaf-x-fun-api@1.5.27
+- pkg:maven/com.anaptecs.jeaf.x-fun/jeaf-x-fun-api@1.5.27?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.x-fun/jeaf-x-fun-api@1.5.28
+- pkg:maven/com.anaptecs.jeaf.x-fun/jeaf-x-fun-api@1.5.28?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.x-fun/jeaf-x-fun-api@1.5.4
 - pkg:maven/com.anaptecs.jeaf.x-fun/jeaf-x-fun-api@1.5.4?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.x-fun/jeaf-x-fun-api@1.5.6
@@ -34,3 +38,7 @@
 - pkg:maven/com.anaptecs.jeaf.x-fun/jeaf-x-fun-api@1.5.8?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.x-fun/jeaf-x-fun-api@1.5.9
 - pkg:maven/com.anaptecs.jeaf.x-fun/jeaf-x-fun-api@1.5.9?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.x-fun/jeaf-x-fun-api@1.6.0
+- pkg:maven/com.anaptecs.jeaf.x-fun/jeaf-x-fun-api@1.6.0?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.x-fun/jeaf-x-fun-api@1.6.1
+- pkg:maven/com.anaptecs.jeaf.x-fun/jeaf-x-fun-api@1.6.1?classifier=sources

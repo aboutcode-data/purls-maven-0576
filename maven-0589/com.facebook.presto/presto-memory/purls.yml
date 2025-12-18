@@ -109,4 +109,10 @@
 - pkg:maven/com.facebook.presto/presto-memory@0.251.1?classifier=sources
 - pkg:maven/com.facebook.presto/presto-memory@0.251?classifier=sources
 - pkg:maven/com.facebook.presto/presto-memory@0.252?classifier=sources
+- pkg:maven/com.facebook.presto/presto-memory@0.253.1?classifier=sources
 - pkg:maven/com.facebook.presto/presto-memory@0.253?classifier=sources
+- pkg:maven/com.facebook.presto/presto-memory@0.254.1?classifier=sources
+- pkg:maven/com.facebook.presto/presto-memory@0.254?classifier=sources
+- pkg:maven/com.facebook.presto/presto-memory@0.255?classifier=sources
+- pkg:maven/com.facebook.presto/presto-memory@0.256?classifier=sources
+- pkg:maven/com.facebook.presto/presto-memory@0.257?classifier=sources

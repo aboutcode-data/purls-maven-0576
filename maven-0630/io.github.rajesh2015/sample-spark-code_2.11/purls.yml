@@ -1,0 +1,4 @@
+- pkg:maven/io.github.rajesh2015/sample-spark-code_2.11@0.3
+- pkg:maven/io.github.rajesh2015/sample-spark-code_2.11@0.3?classifier=sources
+- pkg:maven/io.github.rajesh2015/sample-spark-code_2.11@0.4
+- pkg:maven/io.github.rajesh2015/sample-spark-code_2.11@0.4?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/wtf.metio.reguloj/reguloj@2021.5.18?classifier=sources
 - pkg:maven/wtf.metio.reguloj/reguloj@2021.5.25
 - pkg:maven/wtf.metio.reguloj/reguloj@2021.5.25?classifier=sources
+- pkg:maven/wtf.metio.reguloj/reguloj@2021.6.1
+- pkg:maven/wtf.metio.reguloj/reguloj@2021.6.1?classifier=sources

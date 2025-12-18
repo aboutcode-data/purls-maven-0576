@@ -5,6 +5,8 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.core.contenttype@3.7.0
 - pkg:maven/org.eclipse.platform/org.eclipse.core.contenttype@3.7.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.core.contenttype@3.7.100
+- pkg:maven/org.eclipse.platform/org.eclipse.core.contenttype@3.7.1000
+- pkg:maven/org.eclipse.platform/org.eclipse.core.contenttype@3.7.1000?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.core.contenttype@3.7.100?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.core.contenttype@3.7.200
 - pkg:maven/org.eclipse.platform/org.eclipse.core.contenttype@3.7.200?classifier=sources

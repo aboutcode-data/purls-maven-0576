@@ -1,2 +1,6 @@
 - pkg:maven/com.amazonaws/aws-athena-federation-sdk@2021.18.1
 - pkg:maven/com.amazonaws/aws-athena-federation-sdk@2021.18.1?classifier=sources
+- pkg:maven/com.amazonaws/aws-athena-federation-sdk@2021.21.1
+- pkg:maven/com.amazonaws/aws-athena-federation-sdk@2021.21.1?classifier=sources
+- pkg:maven/com.amazonaws/aws-athena-federation-sdk@2021.27.1
+- pkg:maven/com.amazonaws/aws-athena-federation-sdk@2021.27.1?classifier=sources

@@ -8,3 +8,11 @@
 - pkg:maven/com.applovin.mediation/mintegral-adapter@15.5.11.0?type=aar
 - pkg:maven/com.applovin.mediation/mintegral-adapter@15.5.21.0?classifier=sources
 - pkg:maven/com.applovin.mediation/mintegral-adapter@15.5.21.0?type=aar
+- pkg:maven/com.applovin.mediation/mintegral-adapter@15.5.31.0?classifier=sources
+- pkg:maven/com.applovin.mediation/mintegral-adapter@15.5.31.0?type=aar
+- pkg:maven/com.applovin.mediation/mintegral-adapter@15.5.41.0?classifier=sources
+- pkg:maven/com.applovin.mediation/mintegral-adapter@15.5.41.0?type=aar
+- pkg:maven/com.applovin.mediation/mintegral-adapter@15.5.51.0?classifier=sources
+- pkg:maven/com.applovin.mediation/mintegral-adapter@15.5.51.0?type=aar
+- pkg:maven/com.applovin.mediation/mintegral-adapter@15.6.1.0?classifier=sources
+- pkg:maven/com.applovin.mediation/mintegral-adapter@15.6.1.0?type=aar

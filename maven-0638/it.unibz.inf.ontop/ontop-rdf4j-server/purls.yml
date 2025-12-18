@@ -8,3 +8,4 @@
 - pkg:maven/it.unibz.inf.ontop/ontop-rdf4j-server@4.0.2?type=war
 - pkg:maven/it.unibz.inf.ontop/ontop-rdf4j-server@4.0.3?type=war
 - pkg:maven/it.unibz.inf.ontop/ontop-rdf4j-server@4.1.0?type=war
+- pkg:maven/it.unibz.inf.ontop/ontop-rdf4j-server@4.1.1?type=war

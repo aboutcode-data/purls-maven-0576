@@ -16,6 +16,8 @@
 - pkg:maven/org.apache.drill.contrib/drill-kudu-storage@1.17.0?classifier=sources
 - pkg:maven/org.apache.drill.contrib/drill-kudu-storage@1.18.0
 - pkg:maven/org.apache.drill.contrib/drill-kudu-storage@1.18.0?classifier=sources
+- pkg:maven/org.apache.drill.contrib/drill-kudu-storage@1.19.0
+- pkg:maven/org.apache.drill.contrib/drill-kudu-storage@1.19.0?classifier=sources
 - pkg:maven/org.apache.drill.contrib/drill-kudu-storage@1.5.0
 - pkg:maven/org.apache.drill.contrib/drill-kudu-storage@1.5.0?classifier=sources
 - pkg:maven/org.apache.drill.contrib/drill-kudu-storage@1.6.0

@@ -8,6 +8,8 @@
 - pkg:maven/com.huaweicloud/servicecomb-governance@1.5.1-Greenwich?classifier=sources
 - pkg:maven/com.huaweicloud/servicecomb-governance@1.5.1-Hoxton
 - pkg:maven/com.huaweicloud/servicecomb-governance@1.5.1-Hoxton?classifier=sources
+- pkg:maven/com.huaweicloud/servicecomb-governance@1.5.2-Finchley
+- pkg:maven/com.huaweicloud/servicecomb-governance@1.5.2-Finchley?classifier=sources
 - pkg:maven/com.huaweicloud/servicecomb-governance@1.5.2-Hoxton
 - pkg:maven/com.huaweicloud/servicecomb-governance@1.5.2-Hoxton?classifier=sources
 - pkg:maven/com.huaweicloud/servicecomb-governance@1.5.3-Hoxton
@@ -20,3 +22,5 @@
 - pkg:maven/com.huaweicloud/servicecomb-governance@1.5.7-Hoxton?classifier=sources
 - pkg:maven/com.huaweicloud/servicecomb-governance@1.5.8-Hoxton
 - pkg:maven/com.huaweicloud/servicecomb-governance@1.5.8-Hoxton?classifier=sources
+- pkg:maven/com.huaweicloud/servicecomb-governance@1.5.9-Hoxton
+- pkg:maven/com.huaweicloud/servicecomb-governance@1.5.9-Hoxton?classifier=sources

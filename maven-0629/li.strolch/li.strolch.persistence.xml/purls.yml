@@ -1,3 +1,5 @@
+- pkg:maven/li.strolch/li.strolch.persistence.xml@1.6.100
+- pkg:maven/li.strolch/li.strolch.persistence.xml@1.6.100?classifier=sources
 - pkg:maven/li.strolch/li.strolch.persistence.xml@1.6.49
 - pkg:maven/li.strolch/li.strolch.persistence.xml@1.6.49?classifier=sources
 - pkg:maven/li.strolch/li.strolch.persistence.xml@1.6.50

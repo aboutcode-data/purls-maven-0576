@@ -1,0 +1,2 @@
+- pkg:maven/io.micronaut.graphql/micronaut-hello-world-java@2.3.1?classifier=sources
+- pkg:maven/io.micronaut.graphql/micronaut-hello-world-java@3.0.0-M1?classifier=sources

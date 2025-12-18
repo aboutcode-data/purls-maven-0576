@@ -1,4 +1,6 @@
 - pkg:maven/org.geckoprojects.equinox/org.gecko.bnd.equinox.executable.win32@1.1.0
 - pkg:maven/org.geckoprojects.equinox/org.gecko.bnd.equinox.executable.win32@1.1.0?classifier=sources
+- pkg:maven/org.geckoprojects.equinox/org.gecko.bnd.equinox.executable.win32@1.1.1
+- pkg:maven/org.geckoprojects.equinox/org.gecko.bnd.equinox.executable.win32@1.1.1?classifier=sources
 - pkg:maven/org.geckoprojects.equinox/org.gecko.bnd.equinox.executable.win32@3.8.301
 - pkg:maven/org.geckoprojects.equinox/org.gecko.bnd.equinox.executable.win32@3.8.301?classifier=sources

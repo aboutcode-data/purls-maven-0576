@@ -16,3 +16,5 @@
 - pkg:maven/com.salesforce.functions/sf-fx-runtime-java-runtime@0.2.3?classifier=sources
 - pkg:maven/com.salesforce.functions/sf-fx-runtime-java-runtime@0.2.4
 - pkg:maven/com.salesforce.functions/sf-fx-runtime-java-runtime@0.2.4?classifier=sources
+- pkg:maven/com.salesforce.functions/sf-fx-runtime-java-runtime@1.0.0
+- pkg:maven/com.salesforce.functions/sf-fx-runtime-java-runtime@1.0.0?classifier=sources

@@ -88,3 +88,4 @@
 - pkg:maven/org.sonarsource.javascript/javascript-frontend@7.4.1.15483?classifier=sources
 - pkg:maven/org.sonarsource.javascript/javascript-frontend@7.4.2.15501?classifier=sources
 - pkg:maven/org.sonarsource.javascript/javascript-frontend@7.4.3.15529?classifier=sources
+- pkg:maven/org.sonarsource.javascript/javascript-frontend@7.4.4.15624?classifier=sources

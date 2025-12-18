@@ -1,0 +1,4 @@
+- pkg:maven/org.opencastproject/opencast-elasticsearch-api@10.0
+- pkg:maven/org.opencastproject/opencast-elasticsearch-api@10.0?classifier=sources
+- pkg:maven/org.opencastproject/opencast-elasticsearch-api@10.1
+- pkg:maven/org.opencastproject/opencast-elasticsearch-api@10.1?classifier=sources

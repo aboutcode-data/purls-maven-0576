@@ -9,4 +9,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-api-templates@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-templates@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-templates@RELEASE123?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-api-templates@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-templates@RELEASE90?classifier=sources

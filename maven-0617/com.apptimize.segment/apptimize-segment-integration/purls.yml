@@ -90,9 +90,17 @@
 - pkg:maven/com.apptimize.segment/apptimize-segment-integration@3.7.21?type=aar
 - pkg:maven/com.apptimize.segment/apptimize-segment-integration@3.7.23?classifier=sources
 - pkg:maven/com.apptimize.segment/apptimize-segment-integration@3.7.23?type=aar
+- pkg:maven/com.apptimize.segment/apptimize-segment-integration@3.7.24?classifier=sources
+- pkg:maven/com.apptimize.segment/apptimize-segment-integration@3.7.24?type=aar
+- pkg:maven/com.apptimize.segment/apptimize-segment-integration@3.7.26?classifier=sources
+- pkg:maven/com.apptimize.segment/apptimize-segment-integration@3.7.26?type=aar
+- pkg:maven/com.apptimize.segment/apptimize-segment-integration@3.7.27?classifier=sources
+- pkg:maven/com.apptimize.segment/apptimize-segment-integration@3.7.27?type=aar
 - pkg:maven/com.apptimize.segment/apptimize-segment-integration@3.7.4?classifier=sources
 - pkg:maven/com.apptimize.segment/apptimize-segment-integration@3.7.4?type=aar
 - pkg:maven/com.apptimize.segment/apptimize-segment-integration@3.7.6?classifier=sources
 - pkg:maven/com.apptimize.segment/apptimize-segment-integration@3.7.6?type=aar
 - pkg:maven/com.apptimize.segment/apptimize-segment-integration@3.7.9?classifier=sources
 - pkg:maven/com.apptimize.segment/apptimize-segment-integration@3.7.9?type=aar
+- pkg:maven/com.apptimize.segment/apptimize-segment-integration@3.8.0?classifier=sources
+- pkg:maven/com.apptimize.segment/apptimize-segment-integration@3.8.0?type=aar

@@ -12,3 +12,7 @@
 - pkg:maven/io.trino/trino-parser@356?classifier=sources
 - pkg:maven/io.trino/trino-parser@357
 - pkg:maven/io.trino/trino-parser@357?classifier=sources
+- pkg:maven/io.trino/trino-parser@358
+- pkg:maven/io.trino/trino-parser@358?classifier=sources
+- pkg:maven/io.trino/trino-parser@359
+- pkg:maven/io.trino/trino-parser@359?classifier=sources

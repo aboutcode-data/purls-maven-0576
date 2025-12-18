@@ -31,3 +31,4 @@
 - pkg:maven/org.jboss.windup/windup-parent@5.1.3.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.windup/windup-parent@5.1.4.Alpha1?classifier=source-release&type=zip
 - pkg:maven/org.jboss.windup/windup-parent@5.1.4.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.windup/windup-parent@5.2.0.Alpha1?classifier=source-release&type=zip

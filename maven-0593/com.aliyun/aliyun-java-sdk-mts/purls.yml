@@ -72,3 +72,7 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-mts@3.3.15-inner?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-mts@3.3.16-inner
 - pkg:maven/com.aliyun/aliyun-java-sdk-mts@3.3.16-inner?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-mts@3.3.18-inner
+- pkg:maven/com.aliyun/aliyun-java-sdk-mts@3.3.18-inner?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-mts@3.3.19-inner
+- pkg:maven/com.aliyun/aliyun-java-sdk-mts@3.3.19-inner?classifier=sources

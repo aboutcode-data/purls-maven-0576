@@ -1,0 +1,2 @@
+- pkg:maven/com.itv/quartz4s-extruder_2.12@1.0.0-M4
+- pkg:maven/com.itv/quartz4s-extruder_2.12@1.0.0-M4?classifier=sources

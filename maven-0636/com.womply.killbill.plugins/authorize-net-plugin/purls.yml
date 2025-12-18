@@ -20,3 +20,5 @@
 - pkg:maven/com.womply.killbill.plugins/authorize-net-plugin@2.6.128?classifier=sources
 - pkg:maven/com.womply.killbill.plugins/authorize-net-plugin@2.7.138
 - pkg:maven/com.womply.killbill.plugins/authorize-net-plugin@2.7.138?classifier=sources
+- pkg:maven/com.womply.killbill.plugins/authorize-net-plugin@2.8.196
+- pkg:maven/com.womply.killbill.plugins/authorize-net-plugin@2.8.196?classifier=sources

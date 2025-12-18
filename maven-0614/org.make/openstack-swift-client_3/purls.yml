@@ -1,0 +1,2 @@
+- pkg:maven/org.make/openstack-swift-client_3@1.1.1
+- pkg:maven/org.make/openstack-swift-client_3@1.1.1?classifier=sources

@@ -19,3 +19,4 @@
 - pkg:maven/com.github.philippheuer.events4j/events4j-handler-spring@0.9.6
 - pkg:maven/com.github.philippheuer.events4j/events4j-handler-spring@0.9.6?classifier=sources
 - pkg:maven/com.github.philippheuer.events4j/events4j-handler-spring@0.9.7?classifier=sources
+- pkg:maven/com.github.philippheuer.events4j/events4j-handler-spring@0.9.8?classifier=sources

@@ -5,6 +5,10 @@
 - pkg:maven/de.quantummaid.quantummaid.packagings/quantummaid-test-essentials@1.0.103
 - pkg:maven/de.quantummaid.quantummaid.packagings/quantummaid-test-essentials@1.0.104
 - pkg:maven/de.quantummaid.quantummaid.packagings/quantummaid-test-essentials@1.0.105
+- pkg:maven/de.quantummaid.quantummaid.packagings/quantummaid-test-essentials@1.0.106
+- pkg:maven/de.quantummaid.quantummaid.packagings/quantummaid-test-essentials@1.0.107
+- pkg:maven/de.quantummaid.quantummaid.packagings/quantummaid-test-essentials@1.0.108
+- pkg:maven/de.quantummaid.quantummaid.packagings/quantummaid-test-essentials@1.0.109
 - pkg:maven/de.quantummaid.quantummaid.packagings/quantummaid-test-essentials@1.0.11
 - pkg:maven/de.quantummaid.quantummaid.packagings/quantummaid-test-essentials@1.0.12
 - pkg:maven/de.quantummaid.quantummaid.packagings/quantummaid-test-essentials@1.0.13
@@ -95,3 +99,4 @@
 - pkg:maven/de.quantummaid.quantummaid.packagings/quantummaid-test-essentials@1.0.97
 - pkg:maven/de.quantummaid.quantummaid.packagings/quantummaid-test-essentials@1.0.98
 - pkg:maven/de.quantummaid.quantummaid.packagings/quantummaid-test-essentials@1.0.99
+- pkg:maven/de.quantummaid.quantummaid.packagings/quantummaid-test-essentials@1.1.0

@@ -1,0 +1,2 @@
+- pkg:maven/org.paradisehell.convex/convex-compiler@0.0.j?classifier=sources
+- pkg:maven/org.paradisehell.convex/convex-compiler@1.0.0?classifier=sources

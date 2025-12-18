@@ -1,0 +1,2 @@
+- pkg:maven/org.itxtech/mirai-console-loader@1.2.0?classifier=sources
+- pkg:maven/org.itxtech/mirai-console-loader@1.2.1?classifier=sources

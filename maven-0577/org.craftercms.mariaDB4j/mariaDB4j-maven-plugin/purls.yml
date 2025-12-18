@@ -13,3 +13,5 @@
 - pkg:maven/org.craftercms.mariaDB4j/mariaDB4j-maven-plugin@2.4.7E
 - pkg:maven/org.craftercms.mariaDB4j/mariaDB4j-maven-plugin@2.4.8
 - pkg:maven/org.craftercms.mariaDB4j/mariaDB4j-maven-plugin@2.4.8E
+- pkg:maven/org.craftercms.mariaDB4j/mariaDB4j-maven-plugin@2.4.9
+- pkg:maven/org.craftercms.mariaDB4j/mariaDB4j-maven-plugin@2.4.9E

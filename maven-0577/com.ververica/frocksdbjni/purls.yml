@@ -1,0 +1,2 @@
+- pkg:maven/com.ververica/frocksdbjni@5.17.2-ververica-2.1
+- pkg:maven/com.ververica/frocksdbjni@5.17.2-ververica-2.1?classifier=sources

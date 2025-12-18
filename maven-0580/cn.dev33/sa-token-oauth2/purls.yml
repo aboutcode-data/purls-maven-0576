@@ -2,3 +2,5 @@
 - pkg:maven/cn.dev33/sa-token-oauth2@1.14.0-alpha?classifier=sources
 - pkg:maven/cn.dev33/sa-token-oauth2@1.15.0-alpha
 - pkg:maven/cn.dev33/sa-token-oauth2@1.15.0-alpha?classifier=sources
+- pkg:maven/cn.dev33/sa-token-oauth2@1.23.0
+- pkg:maven/cn.dev33/sa-token-oauth2@1.23.0?classifier=sources

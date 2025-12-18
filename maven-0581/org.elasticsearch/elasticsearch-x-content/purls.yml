@@ -51,6 +51,8 @@
 - pkg:maven/org.elasticsearch/elasticsearch-x-content@6.8.15?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-x-content@6.8.16
 - pkg:maven/org.elasticsearch/elasticsearch-x-content@6.8.16?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-x-content@6.8.17
+- pkg:maven/org.elasticsearch/elasticsearch-x-content@6.8.17?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-x-content@6.8.1?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-x-content@6.8.2
 - pkg:maven/org.elasticsearch/elasticsearch-x-content@6.8.2?classifier=sources
@@ -104,6 +106,14 @@
 - pkg:maven/org.elasticsearch/elasticsearch-x-content@7.12.1?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-x-content@7.13.0
 - pkg:maven/org.elasticsearch/elasticsearch-x-content@7.13.0?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-x-content@7.13.1
+- pkg:maven/org.elasticsearch/elasticsearch-x-content@7.13.1?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-x-content@7.13.2
+- pkg:maven/org.elasticsearch/elasticsearch-x-content@7.13.2?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-x-content@7.13.3
+- pkg:maven/org.elasticsearch/elasticsearch-x-content@7.13.3?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-x-content@7.13.4
+- pkg:maven/org.elasticsearch/elasticsearch-x-content@7.13.4?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-x-content@7.2.0
 - pkg:maven/org.elasticsearch/elasticsearch-x-content@7.2.0?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-x-content@7.2.1

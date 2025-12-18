@@ -2,3 +2,7 @@
 - pkg:maven/io.github.vfhhu/adlocusaar@4.1.13?type=aar
 - pkg:maven/io.github.vfhhu/adlocusaar@4.1.14?classifier=sources
 - pkg:maven/io.github.vfhhu/adlocusaar@4.1.14?type=aar
+- pkg:maven/io.github.vfhhu/adlocusaar@4.1.15?classifier=sources
+- pkg:maven/io.github.vfhhu/adlocusaar@4.1.15?type=aar
+- pkg:maven/io.github.vfhhu/adlocusaar@4.1.17?classifier=sources
+- pkg:maven/io.github.vfhhu/adlocusaar@4.1.17?type=aar

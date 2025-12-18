@@ -1,0 +1,2 @@
+- pkg:maven/com.plooh.adssi/dial-datamodel-java@0.0.2
+- pkg:maven/com.plooh.adssi/dial-datamodel-java@0.0.2?classifier=sources

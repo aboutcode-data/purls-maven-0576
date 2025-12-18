@@ -56,3 +56,7 @@
 - pkg:maven/io.ultreia.java4all.eugene/eugene-maven-plugin@3.0-alpha-38?classifier=sources
 - pkg:maven/io.ultreia.java4all.eugene/eugene-maven-plugin@3.0-alpha-39
 - pkg:maven/io.ultreia.java4all.eugene/eugene-maven-plugin@3.0-alpha-39?classifier=sources
+- pkg:maven/io.ultreia.java4all.eugene/eugene-maven-plugin@3.0-alpha-40
+- pkg:maven/io.ultreia.java4all.eugene/eugene-maven-plugin@3.0-alpha-40?classifier=sources
+- pkg:maven/io.ultreia.java4all.eugene/eugene-maven-plugin@3.0-alpha-41
+- pkg:maven/io.ultreia.java4all.eugene/eugene-maven-plugin@3.0-alpha-41?classifier=sources

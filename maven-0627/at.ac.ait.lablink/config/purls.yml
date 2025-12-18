@@ -1,0 +1,2 @@
+- pkg:maven/at.ac.ait.lablink/config@0.1.0
+- pkg:maven/at.ac.ait.lablink/config@0.1.0?classifier=sources

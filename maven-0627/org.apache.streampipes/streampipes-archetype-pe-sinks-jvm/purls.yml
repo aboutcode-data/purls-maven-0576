@@ -1,2 +1,3 @@
 - pkg:maven/org.apache.streampipes/streampipes-archetype-pe-sinks-jvm@0.66.0?classifier=sources
 - pkg:maven/org.apache.streampipes/streampipes-archetype-pe-sinks-jvm@0.67.0?classifier=sources
+- pkg:maven/org.apache.streampipes/streampipes-archetype-pe-sinks-jvm@0.68.0?classifier=sources

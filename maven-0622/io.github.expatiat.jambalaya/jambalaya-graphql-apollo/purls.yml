@@ -1,2 +1,4 @@
 - pkg:maven/io.github.expatiat.jambalaya/jambalaya-graphql-apollo@0.3.0?classifier=sources
 - pkg:maven/io.github.expatiat.jambalaya/jambalaya-graphql-apollo@0.4.0?classifier=sources
+- pkg:maven/io.github.expatiat.jambalaya/jambalaya-graphql-apollo@0.4.1?classifier=sources
+- pkg:maven/io.github.expatiat.jambalaya/jambalaya-graphql-apollo@0.5.0?classifier=sources

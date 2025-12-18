@@ -1,2 +1,4 @@
 - pkg:maven/com.sobot.chat/sobotsdk-mall@2.9.7.1?classifier=sources
 - pkg:maven/com.sobot.chat/sobotsdk-mall@2.9.7?classifier=sources
+- pkg:maven/com.sobot.chat/sobotsdk-mall@2.9.8?classifier=sources
+- pkg:maven/com.sobot.chat/sobotsdk-mall@2.9.9?classifier=sources

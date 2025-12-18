@@ -1,2 +1,4 @@
 - pkg:maven/com.eed3si9n.expecty/expecty_3@0.15.3
 - pkg:maven/com.eed3si9n.expecty/expecty_3@0.15.3?classifier=sources
+- pkg:maven/com.eed3si9n.expecty/expecty_3@0.15.4
+- pkg:maven/com.eed3si9n.expecty/expecty_3@0.15.4?classifier=sources

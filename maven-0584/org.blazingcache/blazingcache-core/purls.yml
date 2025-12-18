@@ -28,3 +28,5 @@
 - pkg:maven/org.blazingcache/blazingcache-core@2.2.0?classifier=sources
 - pkg:maven/org.blazingcache/blazingcache-core@2.3.0
 - pkg:maven/org.blazingcache/blazingcache-core@2.3.0?classifier=sources
+- pkg:maven/org.blazingcache/blazingcache-core@2.4.0
+- pkg:maven/org.blazingcache/blazingcache-core@2.4.0?classifier=sources

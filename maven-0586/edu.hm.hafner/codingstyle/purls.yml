@@ -60,3 +60,9 @@
 - pkg:maven/edu.hm.hafner/codingstyle@2.4.0?classifier=sources
 - pkg:maven/edu.hm.hafner/codingstyle@2.5.0
 - pkg:maven/edu.hm.hafner/codingstyle@2.5.0?classifier=sources
+- pkg:maven/edu.hm.hafner/codingstyle@2.6.0
+- pkg:maven/edu.hm.hafner/codingstyle@2.6.0?classifier=sources
+- pkg:maven/edu.hm.hafner/codingstyle@2.7.0
+- pkg:maven/edu.hm.hafner/codingstyle@2.7.0?classifier=sources
+- pkg:maven/edu.hm.hafner/codingstyle@2.8.0
+- pkg:maven/edu.hm.hafner/codingstyle@2.8.0?classifier=sources

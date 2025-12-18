@@ -1,0 +1,4 @@
+- pkg:maven/io.gitee.marslilei/artemis-client@0.0.2
+- pkg:maven/io.gitee.marslilei/artemis-client@0.0.2.BATE
+- pkg:maven/io.gitee.marslilei/artemis-client@0.0.2.BATE?classifier=sources
+- pkg:maven/io.gitee.marslilei/artemis-client@0.0.2?classifier=sources

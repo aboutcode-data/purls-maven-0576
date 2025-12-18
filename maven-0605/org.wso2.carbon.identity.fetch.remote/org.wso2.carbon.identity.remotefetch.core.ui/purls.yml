@@ -27,6 +27,12 @@
 - pkg:maven/org.wso2.carbon.identity.fetch.remote/org.wso2.carbon.identity.remotefetch.core.ui@0.7.20?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.fetch.remote/org.wso2.carbon.identity.remotefetch.core.ui@0.7.21
 - pkg:maven/org.wso2.carbon.identity.fetch.remote/org.wso2.carbon.identity.remotefetch.core.ui@0.7.21?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.fetch.remote/org.wso2.carbon.identity.remotefetch.core.ui@0.7.22
+- pkg:maven/org.wso2.carbon.identity.fetch.remote/org.wso2.carbon.identity.remotefetch.core.ui@0.7.22?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.fetch.remote/org.wso2.carbon.identity.remotefetch.core.ui@0.7.23
+- pkg:maven/org.wso2.carbon.identity.fetch.remote/org.wso2.carbon.identity.remotefetch.core.ui@0.7.23?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.fetch.remote/org.wso2.carbon.identity.remotefetch.core.ui@0.7.24
+- pkg:maven/org.wso2.carbon.identity.fetch.remote/org.wso2.carbon.identity.remotefetch.core.ui@0.7.24?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.fetch.remote/org.wso2.carbon.identity.remotefetch.core.ui@0.7.2?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.fetch.remote/org.wso2.carbon.identity.remotefetch.core.ui@0.7.3
 - pkg:maven/org.wso2.carbon.identity.fetch.remote/org.wso2.carbon.identity.remotefetch.core.ui@0.7.3?classifier=sources

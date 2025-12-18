@@ -15,6 +15,10 @@
 - pkg:maven/io.smallrye.reactive/mutiny-documentation@0.15.0
 - pkg:maven/io.smallrye.reactive/mutiny-documentation@0.16.0
 - pkg:maven/io.smallrye.reactive/mutiny-documentation@0.17.0
+- pkg:maven/io.smallrye.reactive/mutiny-documentation@0.18.0
+- pkg:maven/io.smallrye.reactive/mutiny-documentation@0.18.1
+- pkg:maven/io.smallrye.reactive/mutiny-documentation@0.19.0
+- pkg:maven/io.smallrye.reactive/mutiny-documentation@0.19.2
 - pkg:maven/io.smallrye.reactive/mutiny-documentation@0.2.0
 - pkg:maven/io.smallrye.reactive/mutiny-documentation@0.3.0
 - pkg:maven/io.smallrye.reactive/mutiny-documentation@0.3.1

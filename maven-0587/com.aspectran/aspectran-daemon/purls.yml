@@ -132,6 +132,8 @@
 - pkg:maven/com.aspectran/aspectran-daemon@6.13.1?classifier=sources
 - pkg:maven/com.aspectran/aspectran-daemon@6.13.2
 - pkg:maven/com.aspectran/aspectran-daemon@6.13.2?classifier=sources
+- pkg:maven/com.aspectran/aspectran-daemon@6.13.3
+- pkg:maven/com.aspectran/aspectran-daemon@6.13.3?classifier=sources
 - pkg:maven/com.aspectran/aspectran-daemon@6.2.0
 - pkg:maven/com.aspectran/aspectran-daemon@6.2.0-M1
 - pkg:maven/com.aspectran/aspectran-daemon@6.2.0-M1?classifier=sources
@@ -278,3 +280,5 @@
 - pkg:maven/com.aspectran/aspectran-daemon@7.0.2?classifier=sources
 - pkg:maven/com.aspectran/aspectran-daemon@7.0.3
 - pkg:maven/com.aspectran/aspectran-daemon@7.0.3?classifier=sources
+- pkg:maven/com.aspectran/aspectran-daemon@7.0.4
+- pkg:maven/com.aspectran/aspectran-daemon@7.0.4?classifier=sources

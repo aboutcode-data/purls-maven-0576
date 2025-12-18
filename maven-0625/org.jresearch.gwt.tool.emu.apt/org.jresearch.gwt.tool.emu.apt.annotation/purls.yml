@@ -1,1 +1,2 @@
 - pkg:maven/org.jresearch.gwt.tool.emu.apt/org.jresearch.gwt.tool.emu.apt.annotation@1.0.0?classifier=sources
+- pkg:maven/org.jresearch.gwt.tool.emu.apt/org.jresearch.gwt.tool.emu.apt.annotation@1.0.2?classifier=sources

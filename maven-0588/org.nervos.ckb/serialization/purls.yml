@@ -68,3 +68,17 @@
 - pkg:maven/org.nervos.ckb/serialization@0.39.1?classifier=sources
 - pkg:maven/org.nervos.ckb/serialization@0.40.0
 - pkg:maven/org.nervos.ckb/serialization@0.40.0?classifier=sources
+- pkg:maven/org.nervos.ckb/serialization@0.41.0
+- pkg:maven/org.nervos.ckb/serialization@0.41.0?classifier=sources
+- pkg:maven/org.nervos.ckb/serialization@0.41.1
+- pkg:maven/org.nervos.ckb/serialization@0.41.1-snapshot
+- pkg:maven/org.nervos.ckb/serialization@0.41.1-snapshot?classifier=sources
+- pkg:maven/org.nervos.ckb/serialization@0.41.1?classifier=sources
+- pkg:maven/org.nervos.ckb/serialization@0.42.0
+- pkg:maven/org.nervos.ckb/serialization@0.42.0-snapshot
+- pkg:maven/org.nervos.ckb/serialization@0.42.0-snapshot?classifier=sources
+- pkg:maven/org.nervos.ckb/serialization@0.42.0?classifier=sources
+- pkg:maven/org.nervos.ckb/serialization@0.42.1-snapshot
+- pkg:maven/org.nervos.ckb/serialization@0.42.1-snapshot?classifier=sources
+- pkg:maven/org.nervos.ckb/serialization@0.43.0-snapshot
+- pkg:maven/org.nervos.ckb/serialization@0.43.0-snapshot?classifier=sources

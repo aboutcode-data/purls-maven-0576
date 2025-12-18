@@ -1,0 +1,4 @@
+- pkg:maven/io.github.eselltech/yxf@1.1.9?classifier=sources
+- pkg:maven/io.github.eselltech/yxf@1.1.9?type=aar
+- pkg:maven/io.github.eselltech/yxf@1.2.0?classifier=sources
+- pkg:maven/io.github.eselltech/yxf@1.2.0?type=aar

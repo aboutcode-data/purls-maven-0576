@@ -1,0 +1,1 @@
+- pkg:maven/org.bouncycastle/bcutil-jdk15on@1.69?classifier=sources

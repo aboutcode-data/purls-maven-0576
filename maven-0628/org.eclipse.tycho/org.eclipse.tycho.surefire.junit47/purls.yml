@@ -27,3 +27,5 @@
 - pkg:maven/org.eclipse.tycho/org.eclipse.tycho.surefire.junit47@2.2.0?classifier=sources
 - pkg:maven/org.eclipse.tycho/org.eclipse.tycho.surefire.junit47@2.3.0
 - pkg:maven/org.eclipse.tycho/org.eclipse.tycho.surefire.junit47@2.3.0?classifier=sources
+- pkg:maven/org.eclipse.tycho/org.eclipse.tycho.surefire.junit47@2.4.0
+- pkg:maven/org.eclipse.tycho/org.eclipse.tycho.surefire.junit47@2.4.0?classifier=sources

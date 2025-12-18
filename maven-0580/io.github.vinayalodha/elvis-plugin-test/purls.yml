@@ -1,0 +1,4 @@
+- pkg:maven/io.github.vinayalodha/elvis-plugin-test@1.0.0
+- pkg:maven/io.github.vinayalodha/elvis-plugin-test@1.0.1
+- pkg:maven/io.github.vinayalodha/elvis-plugin-test@1.0.3
+- pkg:maven/io.github.vinayalodha/elvis-plugin-test@1.0.3?classifier=sources

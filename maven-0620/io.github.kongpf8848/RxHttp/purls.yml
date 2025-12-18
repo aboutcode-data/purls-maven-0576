@@ -1,0 +1,4 @@
+- pkg:maven/io.github.kongpf8848/RxHttp@1.0.11?classifier=sources
+- pkg:maven/io.github.kongpf8848/RxHttp@1.0.11?type=aar
+- pkg:maven/io.github.kongpf8848/RxHttp@1.0.12?classifier=sources
+- pkg:maven/io.github.kongpf8848/RxHttp@1.0.12?type=aar

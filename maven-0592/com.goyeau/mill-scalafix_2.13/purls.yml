@@ -26,6 +26,10 @@
 - pkg:maven/com.goyeau/mill-scalafix_2.13@0.2.1?classifier=sources
 - pkg:maven/com.goyeau/mill-scalafix_2.13@0.2.2
 - pkg:maven/com.goyeau/mill-scalafix_2.13@0.2.2?classifier=sources
+- pkg:maven/com.goyeau/mill-scalafix_2.13@0.2.3
+- pkg:maven/com.goyeau/mill-scalafix_2.13@0.2.3?classifier=sources
+- pkg:maven/com.goyeau/mill-scalafix_2.13@0.2.4
+- pkg:maven/com.goyeau/mill-scalafix_2.13@0.2.4?classifier=sources
 - pkg:maven/com.goyeau/mill-scalafix_2.13@1ae0cf3
 - pkg:maven/com.goyeau/mill-scalafix_2.13@1ae0cf3?classifier=sources
 - pkg:maven/com.goyeau/mill-scalafix_2.13@1e5023d

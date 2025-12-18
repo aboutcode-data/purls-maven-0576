@@ -36,3 +36,7 @@
 - pkg:maven/org.amqphub.quarkus/quarkus-qpid-jms-integration-tests@0.23.0?classifier=sources
 - pkg:maven/org.amqphub.quarkus/quarkus-qpid-jms-integration-tests@0.24.0
 - pkg:maven/org.amqphub.quarkus/quarkus-qpid-jms-integration-tests@0.24.0?classifier=sources
+- pkg:maven/org.amqphub.quarkus/quarkus-qpid-jms-integration-tests@0.25.0
+- pkg:maven/org.amqphub.quarkus/quarkus-qpid-jms-integration-tests@0.25.0?classifier=sources
+- pkg:maven/org.amqphub.quarkus/quarkus-qpid-jms-integration-tests@0.26.0
+- pkg:maven/org.amqphub.quarkus/quarkus-qpid-jms-integration-tests@0.26.0?classifier=sources

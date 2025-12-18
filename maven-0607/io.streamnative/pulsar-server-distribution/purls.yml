@@ -25,3 +25,11 @@
 - pkg:maven/io.streamnative/pulsar-server-distribution@2.7.2.2-rc-202105210936?classifier=src&type=tar.gz
 - pkg:maven/io.streamnative/pulsar-server-distribution@2.7.2.2-rc-202105211617?classifier=src&type=tar.gz
 - pkg:maven/io.streamnative/pulsar-server-distribution@2.7.2.2?classifier=src&type=tar.gz
+- pkg:maven/io.streamnative/pulsar-server-distribution@2.7.2.3?classifier=src&type=tar.gz
+- pkg:maven/io.streamnative/pulsar-server-distribution@2.7.2.4-rc-202106030805?classifier=src&type=tar.gz
+- pkg:maven/io.streamnative/pulsar-server-distribution@2.7.2.4?classifier=src&type=tar.gz
+- pkg:maven/io.streamnative/pulsar-server-distribution@2.7.2.5?classifier=src&type=tar.gz
+- pkg:maven/io.streamnative/pulsar-server-distribution@2.7.2.6?classifier=src&type=tar.gz
+- pkg:maven/io.streamnative/pulsar-server-distribution@2.7.2.7?classifier=src&type=tar.gz
+- pkg:maven/io.streamnative/pulsar-server-distribution@2.7.2.8?classifier=src&type=tar.gz
+- pkg:maven/io.streamnative/pulsar-server-distribution@2.7.3-rc-202107191425?classifier=src&type=tar.gz

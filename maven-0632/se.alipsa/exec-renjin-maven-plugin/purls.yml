@@ -1,0 +1,2 @@
+- pkg:maven/se.alipsa/exec-renjin-maven-plugin@1.0.0
+- pkg:maven/se.alipsa/exec-renjin-maven-plugin@1.0.0?classifier=sources

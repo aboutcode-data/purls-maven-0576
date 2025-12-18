@@ -7,3 +7,4 @@
 - pkg:maven/org.tentackle/tentackle-project-archetype@11.7.0.0?classifier=sources
 - pkg:maven/org.tentackle/tentackle-project-archetype@11.7.1.0?classifier=sources
 - pkg:maven/org.tentackle/tentackle-project-archetype@11.7.2.0?classifier=sources
+- pkg:maven/org.tentackle/tentackle-project-archetype@11.7.2.1?classifier=sources

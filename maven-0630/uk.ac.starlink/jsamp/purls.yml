@@ -1,0 +1,2 @@
+- pkg:maven/uk.ac.starlink/jsamp@1.3.7
+- pkg:maven/uk.ac.starlink/jsamp@1.3.7?classifier=sources

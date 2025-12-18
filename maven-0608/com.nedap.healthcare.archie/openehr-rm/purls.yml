@@ -82,3 +82,7 @@
 - pkg:maven/com.nedap.healthcare.archie/openehr-rm@0.8.2?classifier=sources
 - pkg:maven/com.nedap.healthcare.archie/openehr-rm@0.9.0
 - pkg:maven/com.nedap.healthcare.archie/openehr-rm@0.9.0?classifier=sources
+- pkg:maven/com.nedap.healthcare.archie/openehr-rm@1.0.0
+- pkg:maven/com.nedap.healthcare.archie/openehr-rm@1.0.0?classifier=sources
+- pkg:maven/com.nedap.healthcare.archie/openehr-rm@1.0.1
+- pkg:maven/com.nedap.healthcare.archie/openehr-rm@1.0.1?classifier=sources

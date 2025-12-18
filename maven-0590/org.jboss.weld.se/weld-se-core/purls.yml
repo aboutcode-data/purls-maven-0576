@@ -324,6 +324,8 @@
 - pkg:maven/org.jboss.weld.se/weld-se-core@3.1.7.Final?classifier=sources
 - pkg:maven/org.jboss.weld.se/weld-se-core@3.1.7.SP1
 - pkg:maven/org.jboss.weld.se/weld-se-core@3.1.7.SP1?classifier=sources
+- pkg:maven/org.jboss.weld.se/weld-se-core@3.1.8.Final
+- pkg:maven/org.jboss.weld.se/weld-se-core@3.1.8.Final?classifier=sources
 - pkg:maven/org.jboss.weld.se/weld-se-core@4.0.0.Alpha1
 - pkg:maven/org.jboss.weld.se/weld-se-core@4.0.0.Alpha1?classifier=sources
 - pkg:maven/org.jboss.weld.se/weld-se-core@4.0.0.Alpha2
@@ -348,3 +350,5 @@
 - pkg:maven/org.jboss.weld.se/weld-se-core@4.0.1.Final?classifier=sources
 - pkg:maven/org.jboss.weld.se/weld-se-core@4.0.1.SP1
 - pkg:maven/org.jboss.weld.se/weld-se-core@4.0.1.SP1?classifier=sources
+- pkg:maven/org.jboss.weld.se/weld-se-core@4.0.2.Final
+- pkg:maven/org.jboss.weld.se/weld-se-core@4.0.2.Final?classifier=sources
