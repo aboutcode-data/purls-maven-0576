@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/bootstrap-autocomplete@2.3.7
+- pkg:maven/org.webjars.npm/bootstrap-autocomplete@2.3.7?classifier=sources

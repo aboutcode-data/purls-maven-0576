@@ -18,3 +18,9 @@
 - pkg:maven/com.powsybl/powsybl-single-line-diagram-iidm-extensions@1.7.1?classifier=sources
 - pkg:maven/com.powsybl/powsybl-single-line-diagram-iidm-extensions@1.7.2
 - pkg:maven/com.powsybl/powsybl-single-line-diagram-iidm-extensions@1.7.2?classifier=sources
+- pkg:maven/com.powsybl/powsybl-single-line-diagram-iidm-extensions@1.8.0
+- pkg:maven/com.powsybl/powsybl-single-line-diagram-iidm-extensions@1.8.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-single-line-diagram-iidm-extensions@1.9.0
+- pkg:maven/com.powsybl/powsybl-single-line-diagram-iidm-extensions@1.9.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-single-line-diagram-iidm-extensions@2.0.0-RC1
+- pkg:maven/com.powsybl/powsybl-single-line-diagram-iidm-extensions@2.0.0-RC1?classifier=sources

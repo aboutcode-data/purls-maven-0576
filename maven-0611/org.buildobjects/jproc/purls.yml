@@ -15,4 +15,6 @@
 - pkg:maven/org.buildobjects/jproc@2.2.3?classifier=sources
 - pkg:maven/org.buildobjects/jproc@2.3.0
 - pkg:maven/org.buildobjects/jproc@2.3.0?classifier=sources
+- pkg:maven/org.buildobjects/jproc@2.4.0
+- pkg:maven/org.buildobjects/jproc@2.4.0?classifier=sources
 - pkg:maven/org.buildobjects/jproc@2?classifier=sources

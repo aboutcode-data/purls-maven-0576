@@ -1,0 +1,4 @@
+- pkg:maven/org.noear/swagger-solon-plugin@1.2
+- pkg:maven/org.noear/swagger-solon-plugin@1.2.4
+- pkg:maven/org.noear/swagger-solon-plugin@1.2.4?classifier=sources
+- pkg:maven/org.noear/swagger-solon-plugin@1.2?classifier=sources

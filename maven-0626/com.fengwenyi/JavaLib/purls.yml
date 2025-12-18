@@ -26,3 +26,5 @@
 - pkg:maven/com.fengwenyi/JavaLib@2.0.4.RELEASE?classifier=sources
 - pkg:maven/com.fengwenyi/JavaLib@2.1.0.RELEASE
 - pkg:maven/com.fengwenyi/JavaLib@2.1.0.RELEASE?classifier=sources
+- pkg:maven/com.fengwenyi/JavaLib@2.1.1
+- pkg:maven/com.fengwenyi/JavaLib@2.1.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.carne.common/java-mcd-jvmdecoder@0.2.0
+- pkg:maven/de.carne.common/java-mcd-jvmdecoder@0.2.0?classifier=sources

@@ -1,4 +1,6 @@
 - pkg:maven/de.mklinger.commons/httpclient@0.1
+- pkg:maven/de.mklinger.commons/httpclient@0.10
+- pkg:maven/de.mklinger.commons/httpclient@0.10?classifier=sources
 - pkg:maven/de.mklinger.commons/httpclient@0.1?classifier=sources
 - pkg:maven/de.mklinger.commons/httpclient@0.2
 - pkg:maven/de.mklinger.commons/httpclient@0.2?classifier=sources

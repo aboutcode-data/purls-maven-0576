@@ -1,0 +1,8 @@
+- pkg:maven/com.rapiddweller/rd-lib-common@0.0.1%2Bjdk-8
+- pkg:maven/com.rapiddweller/rd-lib-common@0.0.1%2Bjdk-8?classifier=sources
+- pkg:maven/com.rapiddweller/rd-lib-common@1.0.13%2Bjdk-8
+- pkg:maven/com.rapiddweller/rd-lib-common@1.0.13%2Bjdk-8?classifier=sources
+- pkg:maven/com.rapiddweller/rd-lib-common@1.0.14%2Bjdk-8
+- pkg:maven/com.rapiddweller/rd-lib-common@1.0.14%2Bjdk-8?classifier=sources
+- pkg:maven/com.rapiddweller/rd-lib-common@1.1.0-jdk-11
+- pkg:maven/com.rapiddweller/rd-lib-common@1.1.0-jdk-11?classifier=sources

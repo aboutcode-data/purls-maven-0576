@@ -18,3 +18,5 @@
 - pkg:maven/com.cognitect.aws/globalaccelerator@795.2.648.0?classifier=sources
 - pkg:maven/com.cognitect.aws/globalaccelerator@809.2.784.0
 - pkg:maven/com.cognitect.aws/globalaccelerator@809.2.784.0?classifier=sources
+- pkg:maven/com.cognitect.aws/globalaccelerator@810.2.817.0
+- pkg:maven/com.cognitect.aws/globalaccelerator@810.2.817.0?classifier=sources

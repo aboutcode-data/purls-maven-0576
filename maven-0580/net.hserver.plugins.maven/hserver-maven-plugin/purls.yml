@@ -1,2 +1,6 @@
 - pkg:maven/net.hserver.plugins.maven/hserver-maven-plugin@1.0
 - pkg:maven/net.hserver.plugins.maven/hserver-maven-plugin@1.0?classifier=sources
+- pkg:maven/net.hserver.plugins.maven/hserver-maven-plugin@2.0
+- pkg:maven/net.hserver.plugins.maven/hserver-maven-plugin@2.0?classifier=sources
+- pkg:maven/net.hserver.plugins.maven/hserver-maven-plugin@3.0
+- pkg:maven/net.hserver.plugins.maven/hserver-maven-plugin@3.0?classifier=sources

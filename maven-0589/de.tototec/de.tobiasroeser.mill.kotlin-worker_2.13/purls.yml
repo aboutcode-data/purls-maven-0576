@@ -15,4 +15,6 @@
 - pkg:maven/de.tototec/de.tobiasroeser.mill.kotlin-worker_2.13@0.1.0-4-b5dca4?classifier=sources
 - pkg:maven/de.tototec/de.tobiasroeser.mill.kotlin-worker_2.13@0.1.0-5-7535ea
 - pkg:maven/de.tototec/de.tobiasroeser.mill.kotlin-worker_2.13@0.1.0-5-7535ea?classifier=sources
+- pkg:maven/de.tototec/de.tobiasroeser.mill.kotlin-worker_2.13@0.1.0-6-aa8f84
+- pkg:maven/de.tototec/de.tobiasroeser.mill.kotlin-worker_2.13@0.1.0-6-aa8f84?classifier=sources
 - pkg:maven/de.tototec/de.tobiasroeser.mill.kotlin-worker_2.13@0.1.0?classifier=sources

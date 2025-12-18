@@ -29,4 +29,6 @@
 - pkg:maven/io.github.kaustubhpatange/autobindings-compiler@1.1-alpha14?classifier=sources
 - pkg:maven/io.github.kaustubhpatange/autobindings-compiler@1.1-alpha15
 - pkg:maven/io.github.kaustubhpatange/autobindings-compiler@1.1-alpha15?classifier=sources
+- pkg:maven/io.github.kaustubhpatange/autobindings-compiler@1.1-alpha16
+- pkg:maven/io.github.kaustubhpatange/autobindings-compiler@1.1-alpha16?classifier=sources
 - pkg:maven/io.github.kaustubhpatange/autobindings-compiler@1.1-alpha?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/ai.djl.pytorch/pytorch-native-auto@1.6.0?classifier=sources
 - pkg:maven/ai.djl.pytorch/pytorch-native-auto@1.7.0
 - pkg:maven/ai.djl.pytorch/pytorch-native-auto@1.7.0?classifier=sources
+- pkg:maven/ai.djl.pytorch/pytorch-native-auto@1.7.1
+- pkg:maven/ai.djl.pytorch/pytorch-native-auto@1.7.1?classifier=sources

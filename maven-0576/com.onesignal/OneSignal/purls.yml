@@ -154,6 +154,12 @@
 - pkg:maven/com.onesignal/OneSignal@3.15.3?type=aar
 - pkg:maven/com.onesignal/OneSignal@3.15.4?classifier=sources
 - pkg:maven/com.onesignal/OneSignal@3.15.4?type=aar
+- pkg:maven/com.onesignal/OneSignal@3.15.5?classifier=sources
+- pkg:maven/com.onesignal/OneSignal@3.15.5?type=aar
+- pkg:maven/com.onesignal/OneSignal@3.15.6?classifier=sources
+- pkg:maven/com.onesignal/OneSignal@3.15.6?type=aar
+- pkg:maven/com.onesignal/OneSignal@3.15.7?classifier=sources
+- pkg:maven/com.onesignal/OneSignal@3.15.7?type=aar
 - pkg:maven/com.onesignal/OneSignal@3.2.0?classifier=sources
 - pkg:maven/com.onesignal/OneSignal@3.2.0?type=aar
 - pkg:maven/com.onesignal/OneSignal@3.3.0?classifier=sources
@@ -226,5 +232,11 @@
 - pkg:maven/com.onesignal/OneSignal@4.0.0-beta1?type=aar
 - pkg:maven/com.onesignal/OneSignal@4.0.0-beta2?classifier=sources
 - pkg:maven/com.onesignal/OneSignal@4.0.0-beta2?type=aar
+- pkg:maven/com.onesignal/OneSignal@4.0.0-beta3?classifier=sources
+- pkg:maven/com.onesignal/OneSignal@4.0.0-beta3?type=aar
+- pkg:maven/com.onesignal/OneSignal@4.0.0?classifier=sources
+- pkg:maven/com.onesignal/OneSignal@4.0.0?type=aar
+- pkg:maven/com.onesignal/OneSignal@4.1.0?classifier=sources
+- pkg:maven/com.onesignal/OneSignal@4.1.0?type=aar
 - pkg:maven/com.onesignal/OneSignal@SNAPSHOT-3.6.0?classifier=sources
 - pkg:maven/com.onesignal/OneSignal@SNAPSHOT-3.6.0?type=aar

@@ -64,3 +64,5 @@
 - pkg:maven/com.harium.etyl/etyl-gdx@1.4.6?classifier=sources
 - pkg:maven/com.harium.etyl/etyl-gdx@1.5.0
 - pkg:maven/com.harium.etyl/etyl-gdx@1.5.0?classifier=sources
+- pkg:maven/com.harium.etyl/etyl-gdx@1.9.12.0
+- pkg:maven/com.harium.etyl/etyl-gdx@1.9.12.0?classifier=sources

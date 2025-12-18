@@ -1,0 +1,2 @@
+- pkg:maven/com.azure/azure-opentelemetry-exporter-azuremonitor@1.0.0-beta.2
+- pkg:maven/com.azure/azure-opentelemetry-exporter-azuremonitor@1.0.0-beta.2?classifier=sources

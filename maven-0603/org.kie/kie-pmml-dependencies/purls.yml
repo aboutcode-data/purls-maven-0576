@@ -1,0 +1,3 @@
+- pkg:maven/org.kie/kie-pmml-dependencies@7.48.0.Final
+- pkg:maven/org.kie/kie-pmml-dependencies@7.49.0.Final
+- pkg:maven/org.kie/kie-pmml-dependencies@7.49.0.t20210118

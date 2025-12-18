@@ -5,3 +5,4 @@
 - pkg:maven/com.axway.ats.framework.agent.webapp/ats-agent-webapp-jbosscontainer@4.0.4?type=war
 - pkg:maven/com.axway.ats.framework.agent.webapp/ats-agent-webapp-jbosscontainer@4.0.5?type=war
 - pkg:maven/com.axway.ats.framework.agent.webapp/ats-agent-webapp-jbosscontainer@4.0.6?type=war
+- pkg:maven/com.axway.ats.framework.agent.webapp/ats-agent-webapp-jbosscontainer@4.0.7?type=war

@@ -15,6 +15,8 @@
 - pkg:maven/org.opencastproject/opencast-admin-ui-index@8.0
 - pkg:maven/org.opencastproject/opencast-admin-ui-index@8.0?classifier=sources
 - pkg:maven/org.opencastproject/opencast-admin-ui-index@8.1
+- pkg:maven/org.opencastproject/opencast-admin-ui-index@8.10
+- pkg:maven/org.opencastproject/opencast-admin-ui-index@8.10?classifier=sources
 - pkg:maven/org.opencastproject/opencast-admin-ui-index@8.1?classifier=sources
 - pkg:maven/org.opencastproject/opencast-admin-ui-index@8.3
 - pkg:maven/org.opencastproject/opencast-admin-ui-index@8.3?classifier=sources
@@ -26,3 +28,9 @@
 - pkg:maven/org.opencastproject/opencast-admin-ui-index@8.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-admin-ui-index@8.7
 - pkg:maven/org.opencastproject/opencast-admin-ui-index@8.7?classifier=sources
+- pkg:maven/org.opencastproject/opencast-admin-ui-index@8.9
+- pkg:maven/org.opencastproject/opencast-admin-ui-index@8.9?classifier=sources
+- pkg:maven/org.opencastproject/opencast-admin-ui-index@9.0
+- pkg:maven/org.opencastproject/opencast-admin-ui-index@9.0?classifier=sources
+- pkg:maven/org.opencastproject/opencast-admin-ui-index@9.1
+- pkg:maven/org.opencastproject/opencast-admin-ui-index@9.1?classifier=sources

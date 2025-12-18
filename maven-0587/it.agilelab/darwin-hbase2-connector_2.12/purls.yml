@@ -2,3 +2,5 @@
 - pkg:maven/it.agilelab/darwin-hbase2-connector_2.12@1.0.14?classifier=sources
 - pkg:maven/it.agilelab/darwin-hbase2-connector_2.12@1.1.0
 - pkg:maven/it.agilelab/darwin-hbase2-connector_2.12@1.1.0?classifier=sources
+- pkg:maven/it.agilelab/darwin-hbase2-connector_2.12@1.1.1
+- pkg:maven/it.agilelab/darwin-hbase2-connector_2.12@1.1.1?classifier=sources

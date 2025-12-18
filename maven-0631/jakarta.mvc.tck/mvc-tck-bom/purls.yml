@@ -1,1 +1,2 @@
 - pkg:maven/jakarta.mvc.tck/mvc-tck-bom@1.1.0
+- pkg:maven/jakarta.mvc.tck/mvc-tck-bom@2.0.0

@@ -1,0 +1,8 @@
+- pkg:maven/ru.iopump.koproc/koproc@1.0.10
+- pkg:maven/ru.iopump.koproc/koproc@1.0.10?classifier=sources
+- pkg:maven/ru.iopump.koproc/koproc@1.0.11
+- pkg:maven/ru.iopump.koproc/koproc@1.0.11?classifier=sources
+- pkg:maven/ru.iopump.koproc/koproc@1.1.0
+- pkg:maven/ru.iopump.koproc/koproc@1.1.0?classifier=sources
+- pkg:maven/ru.iopump.koproc/koproc@1.1.1
+- pkg:maven/ru.iopump.koproc/koproc@1.1.1?classifier=sources

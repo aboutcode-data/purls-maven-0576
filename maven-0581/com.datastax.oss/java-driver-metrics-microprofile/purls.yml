@@ -1,3 +1,5 @@
+- pkg:maven/com.datastax.oss/java-driver-metrics-microprofile@4.10.0
+- pkg:maven/com.datastax.oss/java-driver-metrics-microprofile@4.10.0?classifier=sources
 - pkg:maven/com.datastax.oss/java-driver-metrics-microprofile@4.8.0
 - pkg:maven/com.datastax.oss/java-driver-metrics-microprofile@4.8.0?classifier=sources
 - pkg:maven/com.datastax.oss/java-driver-metrics-microprofile@4.9.0

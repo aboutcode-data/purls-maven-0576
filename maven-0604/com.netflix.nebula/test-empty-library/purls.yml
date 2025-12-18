@@ -1,0 +1,1 @@
+- pkg:maven/com.netflix.nebula/test-empty-library@0.0.1?classifier=sources

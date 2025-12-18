@@ -1,0 +1,2 @@
+- pkg:maven/io.trino/trino-main@351
+- pkg:maven/io.trino/trino-main@351?classifier=sources

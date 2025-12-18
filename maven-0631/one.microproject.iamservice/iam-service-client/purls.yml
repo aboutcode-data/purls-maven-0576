@@ -1,0 +1,6 @@
+- pkg:maven/one.microproject.iamservice/iam-service-client@2.4.0-RELEASE?classifier=sources
+- pkg:maven/one.microproject.iamservice/iam-service-client@2.4.1-RELEASE?classifier=sources
+- pkg:maven/one.microproject.iamservice/iam-service-client@2.4.2-RELEASE?classifier=sources
+- pkg:maven/one.microproject.iamservice/iam-service-client@2.4.3-RELEASE?classifier=sources
+- pkg:maven/one.microproject.iamservice/iam-service-client@2.5.0-RELEASE?classifier=sources
+- pkg:maven/one.microproject.iamservice/iam-service-client@2.5.1-RELEASE?classifier=sources

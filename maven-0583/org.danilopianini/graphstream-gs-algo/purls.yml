@@ -1,1 +1,7 @@
+- pkg:maven/org.danilopianini/graphstream-gs-algo@0.1.0-archeo%2B5625672?classifier=sources
+- pkg:maven/org.danilopianini/graphstream-gs-algo@0.1.0-archeo%2Ba90b2b6?classifier=sources
+- pkg:maven/org.danilopianini/graphstream-gs-algo@0.1.0-archeo%2Bbef1818?classifier=sources
+- pkg:maven/org.danilopianini/graphstream-gs-algo@0.1.0-archeo%2Bd89deb7?classifier=sources
+- pkg:maven/org.danilopianini/graphstream-gs-algo@0.1.0-archeo%2Bdfcbce5?classifier=sources
+- pkg:maven/org.danilopianini/graphstream-gs-algo@0.1.0-archeo%2Bf31a93c?classifier=sources
 - pkg:maven/org.danilopianini/graphstream-gs-algo@2.0.0?classifier=sources

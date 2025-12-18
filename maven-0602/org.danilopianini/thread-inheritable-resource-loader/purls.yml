@@ -7,4 +7,13 @@
 - pkg:maven/org.danilopianini/thread-inheritable-resource-loader@0.3.2
 - pkg:maven/org.danilopianini/thread-inheritable-resource-loader@0.3.2?classifier=sources
 - pkg:maven/org.danilopianini/thread-inheritable-resource-loader@0.3.3?classifier=sources
+- pkg:maven/org.danilopianini/thread-inheritable-resource-loader@0.3.5-dev1d%2B47e77d6?classifier=sources
+- pkg:maven/org.danilopianini/thread-inheritable-resource-loader@0.3.5-dev1d%2B66bc00b?classifier=sources
+- pkg:maven/org.danilopianini/thread-inheritable-resource-loader@0.3.5-dev1d%2B98f0cf0?classifier=sources
+- pkg:maven/org.danilopianini/thread-inheritable-resource-loader@0.3.5-dev1e%2B2ea82f8?classifier=sources
+- pkg:maven/org.danilopianini/thread-inheritable-resource-loader@0.3.5-dev1e%2Bd7b5f11?classifier=sources
+- pkg:maven/org.danilopianini/thread-inheritable-resource-loader@0.3.5-dev1g%2B04d0cce?classifier=sources
+- pkg:maven/org.danilopianini/thread-inheritable-resource-loader@0.3.5-dev1g%2Bf599a18?classifier=sources
+- pkg:maven/org.danilopianini/thread-inheritable-resource-loader@0.3.5-dev1h%2Bbfe093c?classifier=sources
+- pkg:maven/org.danilopianini/thread-inheritable-resource-loader@0.3.5-dev1h%2Bd2cf752?classifier=sources
 - pkg:maven/org.danilopianini/thread-inheritable-resource-loader@0.3.5?classifier=sources

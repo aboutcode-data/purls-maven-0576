@@ -8,5 +8,11 @@
 - pkg:maven/org.bonitasoft.web/ui-designer-backend-migrationReport@1.12.38?classifier=sources
 - pkg:maven/org.bonitasoft.web/ui-designer-backend-migrationReport@1.12.39
 - pkg:maven/org.bonitasoft.web/ui-designer-backend-migrationReport@1.12.39?classifier=sources
+- pkg:maven/org.bonitasoft.web/ui-designer-backend-migrationReport@1.12.40
+- pkg:maven/org.bonitasoft.web/ui-designer-backend-migrationReport@1.12.40?classifier=sources
+- pkg:maven/org.bonitasoft.web/ui-designer-backend-migrationReport@1.12.41
+- pkg:maven/org.bonitasoft.web/ui-designer-backend-migrationReport@1.12.41?classifier=sources
 - pkg:maven/org.bonitasoft.web/ui-designer-backend-migrationReport@1.13.0
 - pkg:maven/org.bonitasoft.web/ui-designer-backend-migrationReport@1.13.0?classifier=sources
+- pkg:maven/org.bonitasoft.web/ui-designer-backend-migrationReport@1.13.1
+- pkg:maven/org.bonitasoft.web/ui-designer-backend-migrationReport@1.13.1?classifier=sources

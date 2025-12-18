@@ -1,0 +1,4 @@
+- pkg:maven/ru.fatrat.jsonmarshal/json-marshal-lite@1.0
+- pkg:maven/ru.fatrat.jsonmarshal/json-marshal-lite@1.0?classifier=sources
+- pkg:maven/ru.fatrat.jsonmarshal/json-marshal-lite@1.1
+- pkg:maven/ru.fatrat.jsonmarshal/json-marshal-lite@1.1?classifier=sources

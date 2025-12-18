@@ -8,3 +8,5 @@
 - pkg:maven/com.ibm.cloud/cloudant@0.0.18?classifier=sources
 - pkg:maven/com.ibm.cloud/cloudant@0.0.19
 - pkg:maven/com.ibm.cloud/cloudant@0.0.19?classifier=sources
+- pkg:maven/com.ibm.cloud/cloudant@0.0.20
+- pkg:maven/com.ibm.cloud/cloudant@0.0.20?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/org.camunda.bpm.extension.dmn.scala/dmn-engine-rest@1.4.0?classifier=sources
 - pkg:maven/org.camunda.bpm.extension.dmn.scala/dmn-engine-rest@1.5.0
 - pkg:maven/org.camunda.bpm.extension.dmn.scala/dmn-engine-rest@1.5.0?classifier=sources
+- pkg:maven/org.camunda.bpm.extension.dmn.scala/dmn-engine-rest@1.6.0
+- pkg:maven/org.camunda.bpm.extension.dmn.scala/dmn-engine-rest@1.6.0?classifier=sources

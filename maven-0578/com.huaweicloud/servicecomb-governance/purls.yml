@@ -1,0 +1,8 @@
+- pkg:maven/com.huaweicloud/servicecomb-governance@1.5.0-Greenwich
+- pkg:maven/com.huaweicloud/servicecomb-governance@1.5.0-Greenwich?classifier=sources
+- pkg:maven/com.huaweicloud/servicecomb-governance@1.5.0-Hoxton
+- pkg:maven/com.huaweicloud/servicecomb-governance@1.5.0-Hoxton?classifier=sources
+- pkg:maven/com.huaweicloud/servicecomb-governance@1.5.1-Greenwich
+- pkg:maven/com.huaweicloud/servicecomb-governance@1.5.1-Greenwich?classifier=sources
+- pkg:maven/com.huaweicloud/servicecomb-governance@1.5.1-Hoxton
+- pkg:maven/com.huaweicloud/servicecomb-governance@1.5.1-Hoxton?classifier=sources

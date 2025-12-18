@@ -1,2 +1,4 @@
+- pkg:maven/cn.com.antcloud.api/antcloud-api-propertychain@1.0.33
+- pkg:maven/cn.com.antcloud.api/antcloud-api-propertychain@1.0.33?classifier=sources
 - pkg:maven/cn.com.antcloud.api/antcloud-api-propertychain@1.0.5
 - pkg:maven/cn.com.antcloud.api/antcloud-api-propertychain@1.0.5?classifier=sources

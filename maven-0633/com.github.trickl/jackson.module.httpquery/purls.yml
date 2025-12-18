@@ -2,6 +2,8 @@
 - pkg:maven/com.github.trickl/jackson.module.httpquery@1.0.0?classifier=sources
 - pkg:maven/com.github.trickl/jackson.module.httpquery@1.0.2
 - pkg:maven/com.github.trickl/jackson.module.httpquery@1.0.2?classifier=sources
+- pkg:maven/com.github.trickl/jackson.module.httpquery@1.0.4
+- pkg:maven/com.github.trickl/jackson.module.httpquery@1.0.4?classifier=sources
 - pkg:maven/com.github.trickl/jackson.module.httpquery@untagged-0a4ce149d120a46541bc
 - pkg:maven/com.github.trickl/jackson.module.httpquery@untagged-0a4ce149d120a46541bc?classifier=sources
 - pkg:maven/com.github.trickl/jackson.module.httpquery@untagged-133c0644dfc2f413339f

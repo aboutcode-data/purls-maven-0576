@@ -4,3 +4,5 @@
 - pkg:maven/com.brentcroft.tools/pxr@01.01.02?classifier=sources
 - pkg:maven/com.brentcroft.tools/pxr@01.01.03
 - pkg:maven/com.brentcroft.tools/pxr@01.01.03?classifier=sources
+- pkg:maven/com.brentcroft.tools/pxr@01.01.04
+- pkg:maven/com.brentcroft.tools/pxr@01.01.04?classifier=sources

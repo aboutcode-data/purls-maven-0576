@@ -45,3 +45,7 @@
 - pkg:maven/io.prestosql/presto-local-file@344?classifier=sources
 - pkg:maven/io.prestosql/presto-local-file@345?classifier=sources
 - pkg:maven/io.prestosql/presto-local-file@346?classifier=sources
+- pkg:maven/io.prestosql/presto-local-file@347?classifier=sources
+- pkg:maven/io.prestosql/presto-local-file@348?classifier=sources
+- pkg:maven/io.prestosql/presto-local-file@349?classifier=sources
+- pkg:maven/io.prestosql/presto-local-file@350?classifier=sources

@@ -1,6 +1,12 @@
 - pkg:maven/net.distilledcode.aem/aem-touch-ui-support-bundle@0.1.0
 - pkg:maven/net.distilledcode.aem/aem-touch-ui-support-bundle@0.1.0?classifier=sources
+- pkg:maven/net.distilledcode.aem/aem-touch-ui-support-bundle@0.1.10
+- pkg:maven/net.distilledcode.aem/aem-touch-ui-support-bundle@0.1.10?classifier=sources
 - pkg:maven/net.distilledcode.aem/aem-touch-ui-support-bundle@0.1.2
 - pkg:maven/net.distilledcode.aem/aem-touch-ui-support-bundle@0.1.2?classifier=sources
 - pkg:maven/net.distilledcode.aem/aem-touch-ui-support-bundle@0.1.4
 - pkg:maven/net.distilledcode.aem/aem-touch-ui-support-bundle@0.1.4?classifier=sources
+- pkg:maven/net.distilledcode.aem/aem-touch-ui-support-bundle@0.1.6
+- pkg:maven/net.distilledcode.aem/aem-touch-ui-support-bundle@0.1.6?classifier=sources
+- pkg:maven/net.distilledcode.aem/aem-touch-ui-support-bundle@0.1.8
+- pkg:maven/net.distilledcode.aem/aem-touch-ui-support-bundle@0.1.8?classifier=sources

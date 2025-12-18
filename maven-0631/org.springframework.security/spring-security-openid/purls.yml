@@ -120,6 +120,8 @@
 - pkg:maven/org.springframework.security/spring-security-openid@4.2.19.RELEASE?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-openid@4.2.2.RELEASE
 - pkg:maven/org.springframework.security/spring-security-openid@4.2.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework.security/spring-security-openid@4.2.20.RELEASE
+- pkg:maven/org.springframework.security/spring-security-openid@4.2.20.RELEASE?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-openid@4.2.3.RELEASE
 - pkg:maven/org.springframework.security/spring-security-openid@4.2.3.RELEASE?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-openid@4.2.4.RELEASE
@@ -218,6 +220,8 @@
 - pkg:maven/org.springframework.security/spring-security-openid@5.2.6.RELEASE?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-openid@5.2.7.RELEASE
 - pkg:maven/org.springframework.security/spring-security-openid@5.2.7.RELEASE?classifier=sources
+- pkg:maven/org.springframework.security/spring-security-openid@5.2.8.RELEASE
+- pkg:maven/org.springframework.security/spring-security-openid@5.2.8.RELEASE?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-openid@5.3.0.RELEASE
 - pkg:maven/org.springframework.security/spring-security-openid@5.3.0.RELEASE?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-openid@5.3.1.RELEASE
@@ -230,7 +234,11 @@
 - pkg:maven/org.springframework.security/spring-security-openid@5.3.4.RELEASE?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-openid@5.3.5.RELEASE
 - pkg:maven/org.springframework.security/spring-security-openid@5.3.5.RELEASE?classifier=sources
+- pkg:maven/org.springframework.security/spring-security-openid@5.3.6.RELEASE
+- pkg:maven/org.springframework.security/spring-security-openid@5.3.6.RELEASE?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-openid@5.4.0
 - pkg:maven/org.springframework.security/spring-security-openid@5.4.0?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-openid@5.4.1
 - pkg:maven/org.springframework.security/spring-security-openid@5.4.1?classifier=sources
+- pkg:maven/org.springframework.security/spring-security-openid@5.4.2
+- pkg:maven/org.springframework.security/spring-security-openid@5.4.2?classifier=sources

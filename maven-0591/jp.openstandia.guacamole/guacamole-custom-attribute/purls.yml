@@ -1,0 +1,2 @@
+- pkg:maven/jp.openstandia.guacamole/guacamole-custom-attribute@1.0.0?classifier=sources
+- pkg:maven/jp.openstandia.guacamole/guacamole-custom-attribute@1.1.0?classifier=sources

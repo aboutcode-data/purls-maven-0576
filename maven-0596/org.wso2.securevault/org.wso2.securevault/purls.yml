@@ -4,3 +4,6 @@
 - pkg:maven/org.wso2.securevault/org.wso2.securevault@1.1.1
 - pkg:maven/org.wso2.securevault/org.wso2.securevault@1.1.1?classifier=source-release&type=zip
 - pkg:maven/org.wso2.securevault/org.wso2.securevault@1.1.1?classifier=sources
+- pkg:maven/org.wso2.securevault/org.wso2.securevault@1.1.4
+- pkg:maven/org.wso2.securevault/org.wso2.securevault@1.1.4?classifier=source-release&type=zip
+- pkg:maven/org.wso2.securevault/org.wso2.securevault@1.1.4?classifier=sources

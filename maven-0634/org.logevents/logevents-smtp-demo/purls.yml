@@ -48,3 +48,5 @@
 - pkg:maven/org.logevents/logevents-smtp-demo@0.1.34?classifier=sources
 - pkg:maven/org.logevents/logevents-smtp-demo@0.1.35
 - pkg:maven/org.logevents/logevents-smtp-demo@0.1.35?classifier=sources
+- pkg:maven/org.logevents/logevents-smtp-demo@0.1.36
+- pkg:maven/org.logevents/logevents-smtp-demo@0.1.36?classifier=sources

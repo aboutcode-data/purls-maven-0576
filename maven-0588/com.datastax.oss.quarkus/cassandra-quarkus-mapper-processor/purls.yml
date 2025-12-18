@@ -1,0 +1,2 @@
+- pkg:maven/com.datastax.oss.quarkus/cassandra-quarkus-mapper-processor@1.0.0
+- pkg:maven/com.datastax.oss.quarkus/cassandra-quarkus-mapper-processor@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/hu.icellmobilsoft.roaster/roaster-tm4j-common@0.2.0
+- pkg:maven/hu.icellmobilsoft.roaster/roaster-tm4j-common@0.2.0?classifier=sources

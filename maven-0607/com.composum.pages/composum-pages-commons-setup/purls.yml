@@ -6,3 +6,5 @@
 - pkg:maven/com.composum.pages/composum-pages-commons-setup@1.0.2?classifier=sources
 - pkg:maven/com.composum.pages/composum-pages-commons-setup@1.1.0
 - pkg:maven/com.composum.pages/composum-pages-commons-setup@1.1.0?classifier=sources
+- pkg:maven/com.composum.pages/composum-pages-commons-setup@1.2.0
+- pkg:maven/com.composum.pages/composum-pages-commons-setup@1.2.0?classifier=sources

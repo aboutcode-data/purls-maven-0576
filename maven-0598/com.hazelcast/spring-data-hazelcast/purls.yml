@@ -20,3 +20,5 @@
 - pkg:maven/com.hazelcast/spring-data-hazelcast@2.2.5
 - pkg:maven/com.hazelcast/spring-data-hazelcast@2.2.5?classifier=sources
 - pkg:maven/com.hazelcast/spring-data-hazelcast@2.2?classifier=sources
+- pkg:maven/com.hazelcast/spring-data-hazelcast@2.4.0
+- pkg:maven/com.hazelcast/spring-data-hazelcast@2.4.0?classifier=sources

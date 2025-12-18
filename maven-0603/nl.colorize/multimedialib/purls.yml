@@ -28,3 +28,5 @@
 - pkg:maven/nl.colorize/multimedialib@2020.3.3
 - pkg:maven/nl.colorize/multimedialib@2020.3.3?classifier=sources
 - pkg:maven/nl.colorize/multimedialib@2020.3?classifier=sources
+- pkg:maven/nl.colorize/multimedialib@2021.1
+- pkg:maven/nl.colorize/multimedialib@2021.1?classifier=sources

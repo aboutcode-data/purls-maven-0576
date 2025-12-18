@@ -1,0 +1,4 @@
+- pkg:maven/com.zp4rker/bukkot@1.4.20.1-release
+- pkg:maven/com.zp4rker/bukkot@1.4.20.1-release?classifier=sources
+- pkg:maven/com.zp4rker/bukkot@1.4.20.2-release
+- pkg:maven/com.zp4rker/bukkot@1.4.20.2-release?classifier=sources

@@ -1,5 +1,11 @@
 - pkg:maven/com.graphql-java-kickstart/graphql-java-kickstart@10.0.0
 - pkg:maven/com.graphql-java-kickstart/graphql-java-kickstart@10.0.0?classifier=sources
+- pkg:maven/com.graphql-java-kickstart/graphql-java-kickstart@10.1.0
+- pkg:maven/com.graphql-java-kickstart/graphql-java-kickstart@10.1.0?classifier=sources
+- pkg:maven/com.graphql-java-kickstart/graphql-java-kickstart@11.0.0
+- pkg:maven/com.graphql-java-kickstart/graphql-java-kickstart@11.0.0?classifier=sources
+- pkg:maven/com.graphql-java-kickstart/graphql-java-kickstart@11.1.0
+- pkg:maven/com.graphql-java-kickstart/graphql-java-kickstart@11.1.0?classifier=sources
 - pkg:maven/com.graphql-java-kickstart/graphql-java-kickstart@9.0.0
 - pkg:maven/com.graphql-java-kickstart/graphql-java-kickstart@9.0.0?classifier=sources
 - pkg:maven/com.graphql-java-kickstart/graphql-java-kickstart@9.0.1

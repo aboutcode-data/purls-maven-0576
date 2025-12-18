@@ -24,3 +24,5 @@
 - pkg:maven/io.rsocket.rpc/rsocket-rpc-protobuf-idl@0.2.5?classifier=sources
 - pkg:maven/io.rsocket.rpc/rsocket-rpc-protobuf-idl@0.2.9
 - pkg:maven/io.rsocket.rpc/rsocket-rpc-protobuf-idl@0.2.9?classifier=sources
+- pkg:maven/io.rsocket.rpc/rsocket-rpc-protobuf-idl@0.3.0
+- pkg:maven/io.rsocket.rpc/rsocket-rpc-protobuf-idl@0.3.0?classifier=sources

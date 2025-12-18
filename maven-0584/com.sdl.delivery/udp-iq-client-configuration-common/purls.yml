@@ -14,6 +14,12 @@
 - pkg:maven/com.sdl.delivery/udp-iq-client-configuration-common@11.0.0-1072?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-iq-client-configuration-common@11.0.0-1075
 - pkg:maven/com.sdl.delivery/udp-iq-client-configuration-common@11.0.0-1075?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-iq-client-configuration-common@11.0.0-1097
+- pkg:maven/com.sdl.delivery/udp-iq-client-configuration-common@11.0.0-1097?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-iq-client-configuration-common@11.0.0-1112
+- pkg:maven/com.sdl.delivery/udp-iq-client-configuration-common@11.0.0-1112?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-iq-client-configuration-common@11.0.1-1021
+- pkg:maven/com.sdl.delivery/udp-iq-client-configuration-common@11.0.1-1021?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-iq-client-configuration-common@11.1.0-1054
 - pkg:maven/com.sdl.delivery/udp-iq-client-configuration-common@11.1.0-1054?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-iq-client-configuration-common@11.1.0-1103

@@ -1,2 +1,4 @@
 - pkg:maven/net.alantea/tools@0.0.2
 - pkg:maven/net.alantea/tools@0.0.2?classifier=sources
+- pkg:maven/net.alantea/tools@0.0.5
+- pkg:maven/net.alantea/tools@0.0.5?classifier=sources

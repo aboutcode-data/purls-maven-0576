@@ -1,0 +1,4 @@
+- pkg:maven/com.jtconnors/com.jtconnors.cgminerapi@4.10.0-JDK8
+- pkg:maven/com.jtconnors/com.jtconnors.cgminerapi@4.10.0-JDK8?classifier=sources
+- pkg:maven/com.jtconnors/com.jtconnors.cgminerapi@4.10.0.1-JDK8
+- pkg:maven/com.jtconnors/com.jtconnors.cgminerapi@4.10.0.1-JDK8?classifier=sources

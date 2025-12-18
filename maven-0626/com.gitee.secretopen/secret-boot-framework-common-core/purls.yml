@@ -1,0 +1,2 @@
+- pkg:maven/com.gitee.secretopen/secret-boot-framework-common-core@1.0
+- pkg:maven/com.gitee.secretopen/secret-boot-framework-common-core@1.0?classifier=sources

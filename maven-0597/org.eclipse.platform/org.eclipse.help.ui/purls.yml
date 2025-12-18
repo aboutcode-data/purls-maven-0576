@@ -22,3 +22,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.help.ui@4.1.900?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.help.ui@4.2.0
 - pkg:maven/org.eclipse.platform/org.eclipse.help.ui@4.2.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.help.ui@4.2.100
+- pkg:maven/org.eclipse.platform/org.eclipse.help.ui@4.2.100?classifier=sources

@@ -8,3 +8,9 @@
 - pkg:maven/fun.hereis.code/annotation@1.16.RLS?classifier=sources
 - pkg:maven/fun.hereis.code/annotation@1.17.RLS
 - pkg:maven/fun.hereis.code/annotation@1.17.RLS?classifier=sources
+- pkg:maven/fun.hereis.code/annotation@2.0.RLS
+- pkg:maven/fun.hereis.code/annotation@2.0.RLS?classifier=sources
+- pkg:maven/fun.hereis.code/annotation@2.1.RLS
+- pkg:maven/fun.hereis.code/annotation@2.1.RLS?classifier=sources
+- pkg:maven/fun.hereis.code/annotation@3.0.RLS
+- pkg:maven/fun.hereis.code/annotation@3.0.RLS?classifier=sources

@@ -46,6 +46,10 @@
 - pkg:maven/com.google.cloud/google-cloud-notification@0.121.1-beta?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-notification@0.121.2-beta
 - pkg:maven/com.google.cloud/google-cloud-notification@0.121.2-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-notification@0.121.3-beta
+- pkg:maven/com.google.cloud/google-cloud-notification@0.121.3-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-notification@0.121.5-beta
+- pkg:maven/com.google.cloud/google-cloud-notification@0.121.5-beta?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-notification@0.31.0-beta
 - pkg:maven/com.google.cloud/google-cloud-notification@0.31.0-beta?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-notification@0.32.0-beta

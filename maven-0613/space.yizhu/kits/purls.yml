@@ -7,3 +7,5 @@
 - pkg:maven/space.yizhu/kits@1.0.3?classifier=sources
 - pkg:maven/space.yizhu/kits@1.0.4
 - pkg:maven/space.yizhu/kits@1.0.4?classifier=sources
+- pkg:maven/space.yizhu/kits@1.2.1
+- pkg:maven/space.yizhu/kits@1.2.1?classifier=sources

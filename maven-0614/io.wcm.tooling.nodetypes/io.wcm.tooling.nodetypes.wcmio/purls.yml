@@ -1,0 +1,2 @@
+- pkg:maven/io.wcm.tooling.nodetypes/io.wcm.tooling.nodetypes.wcmio@1.0.0
+- pkg:maven/io.wcm.tooling.nodetypes/io.wcm.tooling.nodetypes.wcmio@1.0.0?classifier=sources

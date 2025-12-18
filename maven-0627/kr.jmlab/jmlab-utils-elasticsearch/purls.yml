@@ -12,3 +12,5 @@
 - pkg:maven/kr.jmlab/jmlab-utils-elasticsearch@6.8.3?classifier=sources
 - pkg:maven/kr.jmlab/jmlab-utils-elasticsearch@7.7.1
 - pkg:maven/kr.jmlab/jmlab-utils-elasticsearch@7.7.1?classifier=sources
+- pkg:maven/kr.jmlab/jmlab-utils-elasticsearch@7.9.3
+- pkg:maven/kr.jmlab/jmlab-utils-elasticsearch@7.9.3?classifier=sources

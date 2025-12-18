@@ -1,0 +1,4 @@
+- pkg:maven/com.github.weizhiwen/shixin-spring-boot-dal@0.1.10
+- pkg:maven/com.github.weizhiwen/shixin-spring-boot-dal@0.1.10?classifier=sources
+- pkg:maven/com.github.weizhiwen/shixin-spring-boot-dal@0.1.11
+- pkg:maven/com.github.weizhiwen/shixin-spring-boot-dal@0.1.11?classifier=sources

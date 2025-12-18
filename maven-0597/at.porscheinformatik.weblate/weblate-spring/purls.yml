@@ -1,0 +1,2 @@
+- pkg:maven/at.porscheinformatik.weblate/weblate-spring@0.1.0
+- pkg:maven/at.porscheinformatik.weblate/weblate-spring@0.1.0?classifier=sources

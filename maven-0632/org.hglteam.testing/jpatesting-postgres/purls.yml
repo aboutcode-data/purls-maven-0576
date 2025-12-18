@@ -1,0 +1,2 @@
+- pkg:maven/org.hglteam.testing/jpatesting-postgres@1.0.2
+- pkg:maven/org.hglteam.testing/jpatesting-postgres@1.0.2?classifier=sources

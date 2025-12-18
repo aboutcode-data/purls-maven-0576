@@ -1,3 +1,5 @@
+- pkg:maven/net.alantea/horizon@0.4.12
+- pkg:maven/net.alantea/horizon@0.4.12?classifier=sources
 - pkg:maven/net.alantea/horizon@0.4.3
 - pkg:maven/net.alantea/horizon@0.4.3?classifier=sources
 - pkg:maven/net.alantea/horizon@0.4.4

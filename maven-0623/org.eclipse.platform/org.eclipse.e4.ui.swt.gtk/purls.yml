@@ -10,3 +10,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.swt.gtk@1.0.500?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.swt.gtk@1.0.600
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.swt.gtk@1.0.600?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.swt.gtk@1.1.0
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.swt.gtk@1.1.0?classifier=sources

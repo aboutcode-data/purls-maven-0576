@@ -1,0 +1,8 @@
+- pkg:maven/com.yahoo.vespa/container-core-config@7.340.22?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-core-config@7.342.40?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-core-config@7.343.18?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-core-config@7.346.59?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-core-config@7.347.28?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-core-config@7.349.32?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-core-config@7.350.53?classifier=sources
+- pkg:maven/com.yahoo.vespa/container-core-config@7.351.32?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.aliyun/reid_cloud20201027@1.0.0
+- pkg:maven/com.aliyun/reid_cloud20201027@1.0.0?classifier=sources
+- pkg:maven/com.aliyun/reid_cloud20201027@2.0.0
+- pkg:maven/com.aliyun/reid_cloud20201027@2.0.0?classifier=sources

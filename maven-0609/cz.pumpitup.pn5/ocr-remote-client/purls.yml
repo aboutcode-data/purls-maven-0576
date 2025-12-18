@@ -1,0 +1,2 @@
+- pkg:maven/cz.pumpitup.pn5/ocr-remote-client@0.4.10
+- pkg:maven/cz.pumpitup.pn5/ocr-remote-client@0.4.10?classifier=sources

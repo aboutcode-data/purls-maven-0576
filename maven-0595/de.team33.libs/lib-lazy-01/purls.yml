@@ -1,2 +1,4 @@
 - pkg:maven/de.team33.libs/lib-lazy-01@1.0.0
 - pkg:maven/de.team33.libs/lib-lazy-01@1.0.0?classifier=sources
+- pkg:maven/de.team33.libs/lib-lazy-01@1.1.0
+- pkg:maven/de.team33.libs/lib-lazy-01@1.1.0?classifier=sources

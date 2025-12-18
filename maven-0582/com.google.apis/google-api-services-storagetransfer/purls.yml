@@ -398,6 +398,10 @@
 - pkg:maven/com.google.apis/google-api-services-storagetransfer@v1-rev20201027-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-storagetransfer@v1-rev20201105-1.30.10
 - pkg:maven/com.google.apis/google-api-services-storagetransfer@v1-rev20201105-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-storagetransfer@v1-rev20201126-1.31.0
+- pkg:maven/com.google.apis/google-api-services-storagetransfer@v1-rev20201126-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-storagetransfer@v1-rev20201210-1.31.0
+- pkg:maven/com.google.apis/google-api-services-storagetransfer@v1-rev20201210-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-storagetransfer@v1-rev22-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-storagetransfer@v1-rev22-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-storagetransfer@v1-rev22-1.20.0

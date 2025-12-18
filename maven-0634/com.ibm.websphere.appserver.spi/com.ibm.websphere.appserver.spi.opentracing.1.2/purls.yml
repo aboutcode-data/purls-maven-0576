@@ -23,3 +23,4 @@
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.opentracing.1.2@1.0.45
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.opentracing.1.2@1.0.46
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.opentracing.1.2@1.0.47
+- pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.opentracing.1.2@1.0.48

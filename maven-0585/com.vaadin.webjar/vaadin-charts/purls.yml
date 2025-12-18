@@ -8,3 +8,4 @@
 - pkg:maven/com.vaadin.webjar/vaadin-charts@6.3.0
 - pkg:maven/com.vaadin.webjar/vaadin-charts@6.3.1
 - pkg:maven/com.vaadin.webjar/vaadin-charts@7.0.0
+- pkg:maven/com.vaadin.webjar/vaadin-charts@8.0.1

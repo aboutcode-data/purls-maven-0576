@@ -1,2 +1,8 @@
 - pkg:maven/vip.mate/mate-starter-dubbo@1.6.8
 - pkg:maven/vip.mate/mate-starter-dubbo@1.6.8?classifier=sources
+- pkg:maven/vip.mate/mate-starter-dubbo@2.0.8
+- pkg:maven/vip.mate/mate-starter-dubbo@2.0.8?classifier=sources
+- pkg:maven/vip.mate/mate-starter-dubbo@2.1.8
+- pkg:maven/vip.mate/mate-starter-dubbo@2.1.8?classifier=sources
+- pkg:maven/vip.mate/mate-starter-dubbo@2.2.8
+- pkg:maven/vip.mate/mate-starter-dubbo@2.2.8?classifier=sources

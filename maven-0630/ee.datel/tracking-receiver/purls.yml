@@ -1,0 +1,2 @@
+- pkg:maven/ee.datel/tracking-receiver@1.1.0
+- pkg:maven/ee.datel/tracking-receiver@1.1.0?classifier=sources

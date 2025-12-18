@@ -1,0 +1,2 @@
+- pkg:maven/org.scala-lang/scala3doc_3.0.0-M4@3.0.0-M4-bin-20210204-406ff9d-NIGHTLY
+- pkg:maven/org.scala-lang/scala3doc_3.0.0-M4@3.0.0-M4-bin-20210204-406ff9d-NIGHTLY?classifier=sources

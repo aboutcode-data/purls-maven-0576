@@ -10,3 +10,5 @@
 - pkg:maven/no.nordicsemi.android/mesh@2.4.2?type=aar
 - pkg:maven/no.nordicsemi.android/mesh@2.4.3?classifier=sources
 - pkg:maven/no.nordicsemi.android/mesh@2.4.3?type=aar
+- pkg:maven/no.nordicsemi.android/mesh@2.4.4?classifier=sources
+- pkg:maven/no.nordicsemi.android/mesh@2.4.4?type=aar

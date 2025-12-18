@@ -36,6 +36,8 @@
 - pkg:maven/org.talend.sdk.component/component-server-image@1.1.25?classifier=sources
 - pkg:maven/org.talend.sdk.component/component-server-image@1.1.26
 - pkg:maven/org.talend.sdk.component/component-server-image@1.1.26?classifier=sources
+- pkg:maven/org.talend.sdk.component/component-server-image@1.1.27
+- pkg:maven/org.talend.sdk.component/component-server-image@1.1.27?classifier=sources
 - pkg:maven/org.talend.sdk.component/component-server-image@1.1.5
 - pkg:maven/org.talend.sdk.component/component-server-image@1.1.5?classifier=sources
 - pkg:maven/org.talend.sdk.component/component-server-image@1.1.6
@@ -46,3 +48,13 @@
 - pkg:maven/org.talend.sdk.component/component-server-image@1.1.8?classifier=sources
 - pkg:maven/org.talend.sdk.component/component-server-image@1.1.9
 - pkg:maven/org.talend.sdk.component/component-server-image@1.1.9?classifier=sources
+- pkg:maven/org.talend.sdk.component/component-server-image@1.28.0
+- pkg:maven/org.talend.sdk.component/component-server-image@1.28.0?classifier=sources
+- pkg:maven/org.talend.sdk.component/component-server-image@1.28.1
+- pkg:maven/org.talend.sdk.component/component-server-image@1.28.1?classifier=sources
+- pkg:maven/org.talend.sdk.component/component-server-image@1.28.2
+- pkg:maven/org.talend.sdk.component/component-server-image@1.28.2?classifier=sources
+- pkg:maven/org.talend.sdk.component/component-server-image@1.29.0
+- pkg:maven/org.talend.sdk.component/component-server-image@1.29.0?classifier=sources
+- pkg:maven/org.talend.sdk.component/component-server-image@1.29.1
+- pkg:maven/org.talend.sdk.component/component-server-image@1.29.1?classifier=sources

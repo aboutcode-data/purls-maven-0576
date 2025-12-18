@@ -9,6 +9,8 @@
 - pkg:maven/com.vaadin/flow-html-components-testbench@1.0.12?classifier=sources
 - pkg:maven/com.vaadin/flow-html-components-testbench@1.0.13
 - pkg:maven/com.vaadin/flow-html-components-testbench@1.0.13?classifier=sources
+- pkg:maven/com.vaadin/flow-html-components-testbench@1.0.14
+- pkg:maven/com.vaadin/flow-html-components-testbench@1.0.14?classifier=sources
 - pkg:maven/com.vaadin/flow-html-components-testbench@1.0.1?classifier=sources
 - pkg:maven/com.vaadin/flow-html-components-testbench@1.0.2
 - pkg:maven/com.vaadin/flow-html-components-testbench@1.0.2?classifier=sources
@@ -156,6 +158,14 @@
 - pkg:maven/com.vaadin/flow-html-components-testbench@2.4.1?classifier=sources
 - pkg:maven/com.vaadin/flow-html-components-testbench@2.4.2
 - pkg:maven/com.vaadin/flow-html-components-testbench@2.4.2?classifier=sources
+- pkg:maven/com.vaadin/flow-html-components-testbench@2.4.3
+- pkg:maven/com.vaadin/flow-html-components-testbench@2.4.3?classifier=sources
+- pkg:maven/com.vaadin/flow-html-components-testbench@2.4.4
+- pkg:maven/com.vaadin/flow-html-components-testbench@2.4.4?classifier=sources
+- pkg:maven/com.vaadin/flow-html-components-testbench@2.4.5
+- pkg:maven/com.vaadin/flow-html-components-testbench@2.4.5?classifier=sources
+- pkg:maven/com.vaadin/flow-html-components-testbench@2.4.6
+- pkg:maven/com.vaadin/flow-html-components-testbench@2.4.6?classifier=sources
 - pkg:maven/com.vaadin/flow-html-components-testbench@3.0.0
 - pkg:maven/com.vaadin/flow-html-components-testbench@3.0.0?classifier=sources
 - pkg:maven/com.vaadin/flow-html-components-testbench@3.0.1
@@ -202,3 +212,11 @@
 - pkg:maven/com.vaadin/flow-html-components-testbench@4.0.6?classifier=sources
 - pkg:maven/com.vaadin/flow-html-components-testbench@4.0.7
 - pkg:maven/com.vaadin/flow-html-components-testbench@4.0.7?classifier=sources
+- pkg:maven/com.vaadin/flow-html-components-testbench@4.0.8
+- pkg:maven/com.vaadin/flow-html-components-testbench@4.0.8?classifier=sources
+- pkg:maven/com.vaadin/flow-html-components-testbench@5.0.0
+- pkg:maven/com.vaadin/flow-html-components-testbench@5.0.0?classifier=sources
+- pkg:maven/com.vaadin/flow-html-components-testbench@5.0.1
+- pkg:maven/com.vaadin/flow-html-components-testbench@5.0.1?classifier=sources
+- pkg:maven/com.vaadin/flow-html-components-testbench@5.0.2
+- pkg:maven/com.vaadin/flow-html-components-testbench@5.0.2?classifier=sources

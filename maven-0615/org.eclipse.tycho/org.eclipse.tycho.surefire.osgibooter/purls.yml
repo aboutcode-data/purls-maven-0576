@@ -25,3 +25,4 @@
 - pkg:maven/org.eclipse.tycho/org.eclipse.tycho.surefire.osgibooter@1.7.0?classifier=sources
 - pkg:maven/org.eclipse.tycho/org.eclipse.tycho.surefire.osgibooter@2.0.0?classifier=sources
 - pkg:maven/org.eclipse.tycho/org.eclipse.tycho.surefire.osgibooter@2.1.0?classifier=sources
+- pkg:maven/org.eclipse.tycho/org.eclipse.tycho.surefire.osgibooter@2.2.0?classifier=sources

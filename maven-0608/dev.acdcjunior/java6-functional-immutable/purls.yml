@@ -1,0 +1,2 @@
+- pkg:maven/dev.acdcjunior/java6-functional-immutable@1.0.0
+- pkg:maven/dev.acdcjunior/java6-functional-immutable@1.0.0?classifier=sources

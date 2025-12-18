@@ -1,0 +1,2 @@
+- pkg:maven/com.metsci.ext.org.jogamp.jogl/jogl-all-main@2.4.0-rc-20200202
+- pkg:maven/com.metsci.ext.org.jogamp.jogl/jogl-all-main@2.4.0-rc-20200202?classifier=sources

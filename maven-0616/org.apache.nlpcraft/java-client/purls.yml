@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.nlpcraft/java-client@0.7.2
+- pkg:maven/org.apache.nlpcraft/java-client@0.7.2?classifier=sources

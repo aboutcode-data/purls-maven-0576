@@ -45,3 +45,7 @@
 - pkg:maven/io.prestosql/presto-hive-hadoop2@344?classifier=sources
 - pkg:maven/io.prestosql/presto-hive-hadoop2@345?classifier=sources
 - pkg:maven/io.prestosql/presto-hive-hadoop2@346?classifier=sources
+- pkg:maven/io.prestosql/presto-hive-hadoop2@347?classifier=sources
+- pkg:maven/io.prestosql/presto-hive-hadoop2@348?classifier=sources
+- pkg:maven/io.prestosql/presto-hive-hadoop2@349?classifier=sources
+- pkg:maven/io.prestosql/presto-hive-hadoop2@350?classifier=sources

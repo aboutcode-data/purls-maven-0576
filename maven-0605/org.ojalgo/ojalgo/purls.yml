@@ -70,3 +70,7 @@
 - pkg:maven/org.ojalgo/ojalgo@48.3.0?classifier=sources
 - pkg:maven/org.ojalgo/ojalgo@48.3.1
 - pkg:maven/org.ojalgo/ojalgo@48.3.1?classifier=sources
+- pkg:maven/org.ojalgo/ojalgo@48.3.2
+- pkg:maven/org.ojalgo/ojalgo@48.3.2?classifier=sources
+- pkg:maven/org.ojalgo/ojalgo@48.4.0
+- pkg:maven/org.ojalgo/ojalgo@48.4.0?classifier=sources

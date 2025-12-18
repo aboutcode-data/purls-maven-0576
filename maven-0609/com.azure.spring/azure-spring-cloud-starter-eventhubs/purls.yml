@@ -1,0 +1,5 @@
+- pkg:maven/com.azure.spring/azure-spring-cloud-starter-eventhubs@2.0.0
+- pkg:maven/com.azure.spring/azure-spring-cloud-starter-eventhubs@2.0.0-beta.1
+- pkg:maven/com.azure.spring/azure-spring-cloud-starter-eventhubs@2.0.0?classifier=sources
+- pkg:maven/com.azure.spring/azure-spring-cloud-starter-eventhubs@2.1.0
+- pkg:maven/com.azure.spring/azure-spring-cloud-starter-eventhubs@2.1.0?classifier=sources

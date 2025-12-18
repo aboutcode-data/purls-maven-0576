@@ -58,3 +58,5 @@
 - pkg:maven/com.github.vanroy/spring-data-jest@3.3.2.RELEASE?classifier=sources
 - pkg:maven/com.github.vanroy/spring-data-jest@3.3.3.RELEASE
 - pkg:maven/com.github.vanroy/spring-data-jest@3.3.3.RELEASE?classifier=sources
+- pkg:maven/com.github.vanroy/spring-data-jest@3.3.4.RELEASE
+- pkg:maven/com.github.vanroy/spring-data-jest@3.3.4.RELEASE?classifier=sources

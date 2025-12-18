@@ -1,0 +1,4 @@
+- pkg:maven/online.qiqiang/verifier-spring-boot-starter@1.1.7-RELEASE
+- pkg:maven/online.qiqiang/verifier-spring-boot-starter@1.1.7-RELEASE?classifier=sources
+- pkg:maven/online.qiqiang/verifier-spring-boot-starter@1.1.8
+- pkg:maven/online.qiqiang/verifier-spring-boot-starter@1.1.8?classifier=sources

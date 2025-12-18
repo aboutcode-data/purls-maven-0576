@@ -26,3 +26,5 @@
 - pkg:maven/com.funnelback/plugin-archetypes@16.1.2036?classifier=sources
 - pkg:maven/com.funnelback/plugin-archetypes@16.1.2039
 - pkg:maven/com.funnelback/plugin-archetypes@16.1.2039?classifier=sources
+- pkg:maven/com.funnelback/plugin-archetypes@16.1.2048
+- pkg:maven/com.funnelback/plugin-archetypes@16.1.2048?classifier=sources

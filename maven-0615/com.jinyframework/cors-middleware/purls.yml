@@ -1,1 +1,2 @@
 - pkg:maven/com.jinyframework/cors-middleware@0.3.2?classifier=sources
+- pkg:maven/com.jinyframework/cors-middleware@0.3.3?classifier=sources
