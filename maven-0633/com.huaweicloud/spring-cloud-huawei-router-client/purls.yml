@@ -50,6 +50,8 @@
 - pkg:maven/com.huaweicloud/spring-cloud-huawei-router-client@1.5.0-Greenwich?classifier=sources
 - pkg:maven/com.huaweicloud/spring-cloud-huawei-router-client@1.5.0-Hoxton
 - pkg:maven/com.huaweicloud/spring-cloud-huawei-router-client@1.5.0-Hoxton?classifier=sources
+- pkg:maven/com.huaweicloud/spring-cloud-huawei-router-client@1.5.1-Finchley
+- pkg:maven/com.huaweicloud/spring-cloud-huawei-router-client@1.5.1-Finchley?classifier=sources
 - pkg:maven/com.huaweicloud/spring-cloud-huawei-router-client@1.5.1-Greenwich
 - pkg:maven/com.huaweicloud/spring-cloud-huawei-router-client@1.5.1-Greenwich?classifier=sources
 - pkg:maven/com.huaweicloud/spring-cloud-huawei-router-client@1.5.1-Hoxton

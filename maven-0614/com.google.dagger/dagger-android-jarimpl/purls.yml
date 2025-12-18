@@ -70,3 +70,7 @@
 - pkg:maven/com.google.dagger/dagger-android-jarimpl@2.31.2
 - pkg:maven/com.google.dagger/dagger-android-jarimpl@2.31.2?classifier=sources
 - pkg:maven/com.google.dagger/dagger-android-jarimpl@2.31?classifier=sources
+- pkg:maven/com.google.dagger/dagger-android-jarimpl@2.32
+- pkg:maven/com.google.dagger/dagger-android-jarimpl@2.32?classifier=sources
+- pkg:maven/com.google.dagger/dagger-android-jarimpl@2.33
+- pkg:maven/com.google.dagger/dagger-android-jarimpl@2.33?classifier=sources

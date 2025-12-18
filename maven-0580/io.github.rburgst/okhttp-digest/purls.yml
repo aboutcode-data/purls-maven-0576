@@ -1,0 +1,4 @@
+- pkg:maven/io.github.rburgst/okhttp-digest@1.21
+- pkg:maven/io.github.rburgst/okhttp-digest@1.21?classifier=sources
+- pkg:maven/io.github.rburgst/okhttp-digest@2.5
+- pkg:maven/io.github.rburgst/okhttp-digest@2.5?classifier=sources

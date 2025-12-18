@@ -1,0 +1,4 @@
+- pkg:maven/fr.mines-stetienne.ci.sparql-generate/sparql-generate-webapis@2.0.3
+- pkg:maven/fr.mines-stetienne.ci.sparql-generate/sparql-generate-webapis@2.0.3?classifier=sources
+- pkg:maven/fr.mines-stetienne.ci.sparql-generate/sparql-generate-webapis@2.0.4
+- pkg:maven/fr.mines-stetienne.ci.sparql-generate/sparql-generate-webapis@2.0.4?classifier=sources

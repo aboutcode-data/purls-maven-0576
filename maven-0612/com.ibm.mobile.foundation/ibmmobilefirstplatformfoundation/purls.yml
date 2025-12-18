@@ -114,3 +114,5 @@
 - pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundation@8.0.2021012007?type=aar
 - pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundation@8.0.2021020106?classifier=sources
 - pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundation@8.0.2021020106?type=aar
+- pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundation@8.0.2021030806?classifier=sources
+- pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundation@8.0.2021030806?type=aar

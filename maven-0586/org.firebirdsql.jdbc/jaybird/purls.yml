@@ -18,3 +18,6 @@
 - pkg:maven/org.firebirdsql.jdbc/jaybird@4.0.2.java11?classifier=sources
 - pkg:maven/org.firebirdsql.jdbc/jaybird@4.0.2.java7?classifier=sources
 - pkg:maven/org.firebirdsql.jdbc/jaybird@4.0.2.java8?classifier=sources
+- pkg:maven/org.firebirdsql.jdbc/jaybird@4.0.3.java11?classifier=sources
+- pkg:maven/org.firebirdsql.jdbc/jaybird@4.0.3.java7?classifier=sources
+- pkg:maven/org.firebirdsql.jdbc/jaybird@4.0.3.java8?classifier=sources

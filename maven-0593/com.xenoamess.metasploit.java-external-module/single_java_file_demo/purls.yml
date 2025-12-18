@@ -1,0 +1,2 @@
+- pkg:maven/com.xenoamess.metasploit.java-external-module/single_java_file_demo@0.1.0
+- pkg:maven/com.xenoamess.metasploit.java-external-module/single_java_file_demo@0.1.0?classifier=sources

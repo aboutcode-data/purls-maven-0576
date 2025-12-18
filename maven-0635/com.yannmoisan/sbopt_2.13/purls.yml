@@ -1,2 +1,4 @@
 - pkg:maven/com.yannmoisan/sbopt_2.13@0.1-RC1-3
 - pkg:maven/com.yannmoisan/sbopt_2.13@0.1-RC1-3?classifier=sources
+- pkg:maven/com.yannmoisan/sbopt_2.13@0.1.RC3
+- pkg:maven/com.yannmoisan/sbopt_2.13@0.1.RC3?classifier=sources

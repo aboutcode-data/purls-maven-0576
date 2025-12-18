@@ -1,0 +1,4 @@
+- pkg:maven/com.feelercloud/esap-mesh@2.0.3
+- pkg:maven/com.feelercloud/esap-mesh@2.0.32
+- pkg:maven/com.feelercloud/esap-mesh@2.0.32?classifier=sources
+- pkg:maven/com.feelercloud/esap-mesh@2.0.3?classifier=sources

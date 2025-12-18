@@ -1,0 +1,2 @@
+- pkg:maven/io.github.harvies.charon/charon-spring-boot-admin-client-starter@0.0.6
+- pkg:maven/io.github.harvies.charon/charon-spring-boot-admin-client-starter@0.0.6?classifier=sources

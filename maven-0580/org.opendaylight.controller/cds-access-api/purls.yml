@@ -100,3 +100,5 @@
 - pkg:maven/org.opendaylight.controller/cds-access-api@3.0.5?classifier=sources
 - pkg:maven/org.opendaylight.controller/cds-access-api@3.0.6
 - pkg:maven/org.opendaylight.controller/cds-access-api@3.0.6?classifier=sources
+- pkg:maven/org.opendaylight.controller/cds-access-api@3.0.7
+- pkg:maven/org.opendaylight.controller/cds-access-api@3.0.7?classifier=sources

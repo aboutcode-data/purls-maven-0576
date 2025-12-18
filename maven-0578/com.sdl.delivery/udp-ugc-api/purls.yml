@@ -24,5 +24,7 @@
 - pkg:maven/com.sdl.delivery/udp-ugc-api@11.1.0-1061?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-ugc-api@11.1.0-1112
 - pkg:maven/com.sdl.delivery/udp-ugc-api@11.1.0-1112?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-ugc-api@11.1.0-1128
+- pkg:maven/com.sdl.delivery/udp-ugc-api@11.1.0-1128?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-ugc-api@11.5.0-1054
 - pkg:maven/com.sdl.delivery/udp-ugc-api@11.5.0-1054?classifier=sources

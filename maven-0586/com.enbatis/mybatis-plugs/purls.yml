@@ -40,3 +40,5 @@
 - pkg:maven/com.enbatis/mybatis-plugs@4.0.0?classifier=sources
 - pkg:maven/com.enbatis/mybatis-plugs@4.0.1
 - pkg:maven/com.enbatis/mybatis-plugs@4.0.1?classifier=sources
+- pkg:maven/com.enbatis/mybatis-plugs@4.0.3
+- pkg:maven/com.enbatis/mybatis-plugs@4.0.3?classifier=sources

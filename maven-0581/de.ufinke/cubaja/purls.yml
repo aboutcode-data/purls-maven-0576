@@ -1,0 +1,2 @@
+- pkg:maven/de.ufinke/cubaja@1.6.0
+- pkg:maven/de.ufinke/cubaja@1.6.0?classifier=sources

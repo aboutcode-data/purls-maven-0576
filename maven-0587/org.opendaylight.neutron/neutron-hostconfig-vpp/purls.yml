@@ -43,6 +43,10 @@
 - pkg:maven/org.opendaylight.neutron/neutron-hostconfig-vpp@0.15.1?classifier=sources
 - pkg:maven/org.opendaylight.neutron/neutron-hostconfig-vpp@0.15.2
 - pkg:maven/org.opendaylight.neutron/neutron-hostconfig-vpp@0.15.2?classifier=sources
+- pkg:maven/org.opendaylight.neutron/neutron-hostconfig-vpp@0.15.3
+- pkg:maven/org.opendaylight.neutron/neutron-hostconfig-vpp@0.15.3?classifier=sources
+- pkg:maven/org.opendaylight.neutron/neutron-hostconfig-vpp@0.16.0
+- pkg:maven/org.opendaylight.neutron/neutron-hostconfig-vpp@0.16.0?classifier=sources
 - pkg:maven/org.opendaylight.neutron/neutron-hostconfig-vpp@0.8.0-Carbon
 - pkg:maven/org.opendaylight.neutron/neutron-hostconfig-vpp@0.8.0-Carbon?classifier=sources
 - pkg:maven/org.opendaylight.neutron/neutron-hostconfig-vpp@0.8.1-Carbon

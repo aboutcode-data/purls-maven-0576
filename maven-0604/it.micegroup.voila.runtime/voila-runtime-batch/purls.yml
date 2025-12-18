@@ -3,3 +3,4 @@
 - pkg:maven/it.micegroup.voila.runtime/voila-runtime-batch@1.5
 - pkg:maven/it.micegroup.voila.runtime/voila-runtime-batch@1.6
 - pkg:maven/it.micegroup.voila.runtime/voila-runtime-batch@1.7
+- pkg:maven/it.micegroup.voila.runtime/voila-runtime-batch@1.8

@@ -24,3 +24,7 @@
 - pkg:maven/com.netflix.iep/iep-service@0.1.25?classifier=sources
 - pkg:maven/com.netflix.iep/iep-service@0.1.26
 - pkg:maven/com.netflix.iep/iep-service@0.1.26?classifier=sources
+- pkg:maven/com.netflix.iep/iep-service@2.6.7
+- pkg:maven/com.netflix.iep/iep-service@2.6.7?classifier=sources
+- pkg:maven/com.netflix.iep/iep-service@2.6.8
+- pkg:maven/com.netflix.iep/iep-service@2.6.8?classifier=sources

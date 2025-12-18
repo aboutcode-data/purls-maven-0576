@@ -1,0 +1,2 @@
+- pkg:maven/com.afollestad/inline-activity-result@0.1.0?classifier=sources
+- pkg:maven/com.afollestad/inline-activity-result@0.1.0?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/com.charleskorn.kaml/kaml-jvm@0.29.0?classifier=sources
+- pkg:maven/com.charleskorn.kaml/kaml-jvm@0.30.0?classifier=sources

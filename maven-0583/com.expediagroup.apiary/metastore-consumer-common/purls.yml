@@ -16,3 +16,7 @@
 - pkg:maven/com.expediagroup.apiary/metastore-consumer-common@6.0.2?classifier=sources
 - pkg:maven/com.expediagroup.apiary/metastore-consumer-common@7.0.0
 - pkg:maven/com.expediagroup.apiary/metastore-consumer-common@7.0.0?classifier=sources
+- pkg:maven/com.expediagroup.apiary/metastore-consumer-common@7.1.0
+- pkg:maven/com.expediagroup.apiary/metastore-consumer-common@7.1.0?classifier=sources
+- pkg:maven/com.expediagroup.apiary/metastore-consumer-common@7.2.0
+- pkg:maven/com.expediagroup.apiary/metastore-consumer-common@7.2.0?classifier=sources

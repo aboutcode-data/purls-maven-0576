@@ -1,0 +1,15 @@
+- pkg:maven/com.rmtheis/tess-two@5.4.0?classifier=sources
+- pkg:maven/com.rmtheis/tess-two@5.4.1?classifier=sources
+- pkg:maven/com.rmtheis/tess-two@6.0.0?classifier=sources
+- pkg:maven/com.rmtheis/tess-two@6.0.1?classifier=sources
+- pkg:maven/com.rmtheis/tess-two@6.0.2?classifier=sources
+- pkg:maven/com.rmtheis/tess-two@6.0.3?classifier=sources
+- pkg:maven/com.rmtheis/tess-two@6.0.4?classifier=sources
+- pkg:maven/com.rmtheis/tess-two@6.1.0?classifier=sources
+- pkg:maven/com.rmtheis/tess-two@6.1.1?classifier=sources
+- pkg:maven/com.rmtheis/tess-two@6.2.0?classifier=sources
+- pkg:maven/com.rmtheis/tess-two@6.3.0?classifier=sources
+- pkg:maven/com.rmtheis/tess-two@7.0.0?classifier=sources
+- pkg:maven/com.rmtheis/tess-two@8.0.0?classifier=sources
+- pkg:maven/com.rmtheis/tess-two@9.0.0?classifier=sources
+- pkg:maven/com.rmtheis/tess-two@9.1.0?classifier=sources

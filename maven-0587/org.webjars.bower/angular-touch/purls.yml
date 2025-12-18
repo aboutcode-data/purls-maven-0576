@@ -86,3 +86,5 @@
 - pkg:maven/org.webjars.bower/angular-touch@1.7.7?classifier=sources
 - pkg:maven/org.webjars.bower/angular-touch@1.7.8
 - pkg:maven/org.webjars.bower/angular-touch@1.7.8?classifier=sources
+- pkg:maven/org.webjars.bower/angular-touch@1.8.2
+- pkg:maven/org.webjars.bower/angular-touch@1.8.2?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/de.aservo/confapi-jira-plugin@0.0.3?classifier=sources
+- pkg:maven/de.aservo/confapi-jira-plugin@0.0.6?classifier=sources

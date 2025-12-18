@@ -1,0 +1,4 @@
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-model-maven-plugin@0.23.0
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-model-maven-plugin@0.23.0?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-model-maven-plugin@0.24.0
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-model-maven-plugin@0.24.0?classifier=sources

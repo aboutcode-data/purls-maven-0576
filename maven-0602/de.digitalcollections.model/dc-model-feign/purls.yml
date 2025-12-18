@@ -12,3 +12,7 @@
 - pkg:maven/de.digitalcollections.model/dc-model-feign@8.0.0?classifier=sources
 - pkg:maven/de.digitalcollections.model/dc-model-feign@8.1.0
 - pkg:maven/de.digitalcollections.model/dc-model-feign@8.1.0?classifier=sources
+- pkg:maven/de.digitalcollections.model/dc-model-feign@8.2.0
+- pkg:maven/de.digitalcollections.model/dc-model-feign@8.2.0?classifier=sources
+- pkg:maven/de.digitalcollections.model/dc-model-feign@8.2.1
+- pkg:maven/de.digitalcollections.model/dc-model-feign@8.2.1?classifier=sources

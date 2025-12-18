@@ -16,3 +16,4 @@
 - pkg:maven/org.odpi.egeria/dev-ops-client@2.4
 - pkg:maven/org.odpi.egeria/dev-ops-client@2.5
 - pkg:maven/org.odpi.egeria/dev-ops-client@2.6
+- pkg:maven/org.odpi.egeria/dev-ops-client@2.7

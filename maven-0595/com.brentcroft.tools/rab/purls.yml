@@ -16,3 +16,5 @@
 - pkg:maven/com.brentcroft.tools/rab@01.01.09?classifier=sources
 - pkg:maven/com.brentcroft.tools/rab@01.01.10
 - pkg:maven/com.brentcroft.tools/rab@01.01.10?classifier=sources
+- pkg:maven/com.brentcroft.tools/rab@01.01.11
+- pkg:maven/com.brentcroft.tools/rab@01.01.11?classifier=sources

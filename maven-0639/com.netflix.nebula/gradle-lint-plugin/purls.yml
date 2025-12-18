@@ -217,6 +217,9 @@
 - pkg:maven/com.netflix.nebula/gradle-lint-plugin@16.15.9?classifier=sources
 - pkg:maven/com.netflix.nebula/gradle-lint-plugin@16.16.0?classifier=sources
 - pkg:maven/com.netflix.nebula/gradle-lint-plugin@16.17.0?classifier=sources
+- pkg:maven/com.netflix.nebula/gradle-lint-plugin@16.17.1?classifier=sources
+- pkg:maven/com.netflix.nebula/gradle-lint-plugin@16.18.0?classifier=sources
+- pkg:maven/com.netflix.nebula/gradle-lint-plugin@16.19.0?classifier=sources
 - pkg:maven/com.netflix.nebula/gradle-lint-plugin@16.2.0?classifier=sources
 - pkg:maven/com.netflix.nebula/gradle-lint-plugin@16.2.1?classifier=sources
 - pkg:maven/com.netflix.nebula/gradle-lint-plugin@16.2.2?classifier=sources

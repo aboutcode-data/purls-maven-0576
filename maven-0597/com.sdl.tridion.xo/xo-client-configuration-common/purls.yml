@@ -20,5 +20,7 @@
 - pkg:maven/com.sdl.tridion.xo/xo-client-configuration-common@11.1.0-1064?classifier=sources
 - pkg:maven/com.sdl.tridion.xo/xo-client-configuration-common@11.1.0-1104
 - pkg:maven/com.sdl.tridion.xo/xo-client-configuration-common@11.1.0-1104?classifier=sources
+- pkg:maven/com.sdl.tridion.xo/xo-client-configuration-common@11.1.0-1120
+- pkg:maven/com.sdl.tridion.xo/xo-client-configuration-common@11.1.0-1120?classifier=sources
 - pkg:maven/com.sdl.tridion.xo/xo-client-configuration-common@11.5.0-1052
 - pkg:maven/com.sdl.tridion.xo/xo-client-configuration-common@11.5.0-1052?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.loobpack.kafka-connect-healthchecks/kafka-connect-healthcheck-extension@1.0.0
+- pkg:maven/net.loobpack.kafka-connect-healthchecks/kafka-connect-healthcheck-extension@1.0.0?classifier=sources

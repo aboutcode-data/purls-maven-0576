@@ -1,2 +1,7 @@
 - pkg:maven/com.expediagroup/graphql-kotlin-sdl-generator@4.0.0-alpha.11?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-sdl-generator@4.0.0-alpha.12?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-sdl-generator@4.0.0-alpha.13?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-sdl-generator@4.0.0-alpha.14?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-sdl-generator@4.0.0-alpha.15?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-sdl-generator@4.0.0-alpha.16?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-sdl-generator@4.0.0-alpha.17?classifier=sources

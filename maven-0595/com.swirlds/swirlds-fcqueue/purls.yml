@@ -4,3 +4,5 @@
 - pkg:maven/com.swirlds/swirlds-fcqueue@0.7.5
 - pkg:maven/com.swirlds/swirlds-fcqueue@0.8.0
 - pkg:maven/com.swirlds/swirlds-fcqueue@0.8.1
+- pkg:maven/com.swirlds/swirlds-fcqueue@0.9.0
+- pkg:maven/com.swirlds/swirlds-fcqueue@0.9.0-patch.1

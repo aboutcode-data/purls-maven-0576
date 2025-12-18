@@ -1,0 +1,2 @@
+- pkg:maven/com.kdgregory.logging/logwriters@3.0.0?classifier=sources
+- pkg:maven/com.kdgregory.logging/logwriters@3.0.1?classifier=sources

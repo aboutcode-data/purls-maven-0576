@@ -13,3 +13,8 @@
 - pkg:maven/io.opentelemetry/opentelemetry-context@0.14.1
 - pkg:maven/io.opentelemetry/opentelemetry-context@0.14.1?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-context@0.15.0?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-context@0.16.0?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-context@0.17.0?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-context@0.17.1?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-context@1.0.0?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-context@1.0.1?classifier=sources

@@ -79,9 +79,15 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.api@2.2.3
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.api@2.2.3?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.api@2.2.3?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.api@2.2.4
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.api@2.2.4?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.api@2.2.4?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.api@3.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.api@3.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.api@3.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.api@3.0.1
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.api@3.0.1?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.api@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.api@5.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.api@5.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.api@5.0.0?classifier=sources-commercial
@@ -103,3 +109,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.api@5.0.6
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.api@5.0.6?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.api@5.0.6?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.api@5.0.7
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.api@5.0.7?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.api@5.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.api@6.0.0
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.api@6.0.0?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.api@6.0.0?classifier=sources-commercial

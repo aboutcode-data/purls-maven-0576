@@ -1,0 +1,2 @@
+- pkg:maven/org.jsonschema2pojo/jsonschema2pojo-jdk-annotation@0.0.1
+- pkg:maven/org.jsonschema2pojo/jsonschema2pojo-jdk-annotation@0.0.1?classifier=sources

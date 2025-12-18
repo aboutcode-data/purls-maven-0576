@@ -1,0 +1,3 @@
+- pkg:maven/com.cesarvaliente.random_string_generator/library@0.0.4-a?classifier=sources
+- pkg:maven/com.cesarvaliente.random_string_generator/library@0.0.4-b?classifier=sources
+- pkg:maven/com.cesarvaliente.random_string_generator/library@0.0.4-d?classifier=sources

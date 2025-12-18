@@ -6,5 +6,7 @@
 - pkg:maven/org.springframework.cloud.contract/org.springframework.cloud.contract.gradle.plugin@2.2.3.RELEASE
 - pkg:maven/org.springframework.cloud.contract/org.springframework.cloud.contract.gradle.plugin@2.2.4.RELEASE
 - pkg:maven/org.springframework.cloud.contract/org.springframework.cloud.contract.gradle.plugin@2.2.5.RELEASE
+- pkg:maven/org.springframework.cloud.contract/org.springframework.cloud.contract.gradle.plugin@2.2.6.RELEASE
 - pkg:maven/org.springframework.cloud.contract/org.springframework.cloud.contract.gradle.plugin@3.0.0
 - pkg:maven/org.springframework.cloud.contract/org.springframework.cloud.contract.gradle.plugin@3.0.1
+- pkg:maven/org.springframework.cloud.contract/org.springframework.cloud.contract.gradle.plugin@3.0.2

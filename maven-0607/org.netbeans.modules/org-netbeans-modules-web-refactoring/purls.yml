@@ -7,3 +7,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-refactoring@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-refactoring@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-refactoring@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-refactoring@RELEASE123?classifier=sources

@@ -36,3 +36,5 @@
 - pkg:maven/org.clojure/tools.cli@0.4.2?classifier=sources
 - pkg:maven/org.clojure/tools.cli@1.0.194
 - pkg:maven/org.clojure/tools.cli@1.0.194?classifier=sources
+- pkg:maven/org.clojure/tools.cli@1.0.206
+- pkg:maven/org.clojure/tools.cli@1.0.206?classifier=sources

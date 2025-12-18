@@ -12,3 +12,5 @@
 - pkg:maven/com.helger.en16931/en16931-edifact-xml@2.0.2?classifier=sources
 - pkg:maven/com.helger.en16931/en16931-edifact-xml@2.0.3
 - pkg:maven/com.helger.en16931/en16931-edifact-xml@2.0.3?classifier=sources
+- pkg:maven/com.helger.en16931/en16931-edifact-xml@2.0.4
+- pkg:maven/com.helger.en16931/en16931-edifact-xml@2.0.4?classifier=sources

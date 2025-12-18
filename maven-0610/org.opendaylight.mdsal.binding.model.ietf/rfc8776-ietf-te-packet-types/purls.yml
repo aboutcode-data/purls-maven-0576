@@ -10,3 +10,5 @@
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8776-ietf-te-packet-types@7.0.4?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8776-ietf-te-packet-types@7.0.5
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8776-ietf-te-packet-types@7.0.5?classifier=sources
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8776-ietf-te-packet-types@7.0.6
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8776-ietf-te-packet-types@7.0.6?classifier=sources

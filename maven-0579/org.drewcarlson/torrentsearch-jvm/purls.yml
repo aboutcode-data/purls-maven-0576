@@ -1,0 +1,2 @@
+- pkg:maven/org.drewcarlson/torrentsearch-jvm@0.0.2?classifier=sources
+- pkg:maven/org.drewcarlson/torrentsearch-jvm@0.0.3?classifier=sources

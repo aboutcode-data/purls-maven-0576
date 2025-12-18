@@ -1,0 +1,2 @@
+- pkg:maven/com.manorrock.eagle.azure/eagle-azure-blob@21.4.1
+- pkg:maven/com.manorrock.eagle.azure/eagle-azure-blob@21.4.1?classifier=sources

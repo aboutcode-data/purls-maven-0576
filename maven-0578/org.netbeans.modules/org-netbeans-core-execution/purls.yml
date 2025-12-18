@@ -8,4 +8,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-core-execution@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-core-execution@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-core-execution@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-core-execution@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-core-execution@RELEASE90?classifier=sources

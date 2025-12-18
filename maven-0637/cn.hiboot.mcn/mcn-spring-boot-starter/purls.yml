@@ -8,5 +8,8 @@
 - pkg:maven/cn.hiboot.mcn/mcn-spring-boot-starter@2.3.6
 - pkg:maven/cn.hiboot.mcn/mcn-spring-boot-starter@2.3.7
 - pkg:maven/cn.hiboot.mcn/mcn-spring-boot-starter@2.3.8
+- pkg:maven/cn.hiboot.mcn/mcn-spring-boot-starter@2.3.9
 - pkg:maven/cn.hiboot.mcn/mcn-spring-boot-starter@2.4.1
 - pkg:maven/cn.hiboot.mcn/mcn-spring-boot-starter@2.4.2
+- pkg:maven/cn.hiboot.mcn/mcn-spring-boot-starter@2.4.3
+- pkg:maven/cn.hiboot.mcn/mcn-spring-boot-starter@2.4.4

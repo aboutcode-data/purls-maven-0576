@@ -24,3 +24,5 @@
 - pkg:maven/one.empty3/empty3-library-3d@2021.1.1?classifier=sources
 - pkg:maven/one.empty3/empty3-library-3d@2021.1.4
 - pkg:maven/one.empty3/empty3-library-3d@2021.1.4?classifier=sources
+- pkg:maven/one.empty3/empty3-library-3d@2021.4.4
+- pkg:maven/one.empty3/empty3-library-3d@2021.4.4?classifier=sources

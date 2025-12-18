@@ -1,0 +1,2 @@
+- pkg:maven/com.redmadrobot.mapmemory/mapmemory@1.1?classifier=sources
+- pkg:maven/com.redmadrobot.mapmemory/mapmemory@2.0-rc1?classifier=sources

@@ -28,6 +28,7 @@
 - pkg:maven/org.jboss.marshalling/jboss-marshalling-parent@2.0.0.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.marshalling/jboss-marshalling-parent@2.0.1.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.marshalling/jboss-marshalling-parent@2.0.10.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.marshalling/jboss-marshalling-parent@2.0.11.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.marshalling/jboss-marshalling-parent@2.0.2.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.marshalling/jboss-marshalling-parent@2.0.3.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.marshalling/jboss-marshalling-parent@2.0.4.Final?classifier=source-release&type=zip

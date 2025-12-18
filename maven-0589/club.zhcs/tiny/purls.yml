@@ -32,3 +32,5 @@
 - pkg:maven/club.zhcs/tiny@2.3.7.RELEASE?classifier=sources
 - pkg:maven/club.zhcs/tiny@2.3.8.RELEASE
 - pkg:maven/club.zhcs/tiny@2.3.8.RELEASE?classifier=sources
+- pkg:maven/club.zhcs/tiny@2.3.9.RELEASE
+- pkg:maven/club.zhcs/tiny@2.3.9.RELEASE?classifier=sources

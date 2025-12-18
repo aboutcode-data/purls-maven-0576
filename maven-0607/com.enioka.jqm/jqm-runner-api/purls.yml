@@ -14,3 +14,5 @@
 - pkg:maven/com.enioka.jqm/jqm-runner-api@2.2.6?classifier=sources
 - pkg:maven/com.enioka.jqm/jqm-runner-api@2.2.7
 - pkg:maven/com.enioka.jqm/jqm-runner-api@2.2.7?classifier=sources
+- pkg:maven/com.enioka.jqm/jqm-runner-api@2.2.8
+- pkg:maven/com.enioka.jqm/jqm-runner-api@2.2.8?classifier=sources

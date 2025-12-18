@@ -1,0 +1,4 @@
+- pkg:maven/com.free-now.sauron.plugins/protocw-checker@0.0.6
+- pkg:maven/com.free-now.sauron.plugins/protocw-checker@0.0.6?classifier=sources
+- pkg:maven/com.free-now.sauron.plugins/protocw-checker@0.0.7
+- pkg:maven/com.free-now.sauron.plugins/protocw-checker@0.0.7?classifier=sources

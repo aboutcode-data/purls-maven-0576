@@ -1,0 +1,2 @@
+- pkg:maven/com.github.ms5984.clans/banks-api@1.1.0
+- pkg:maven/com.github.ms5984.clans/banks-api@1.1.0?classifier=sources

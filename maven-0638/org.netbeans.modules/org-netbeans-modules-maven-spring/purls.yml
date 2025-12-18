@@ -8,4 +8,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-spring@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-spring@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-spring@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-spring@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-spring@RELEASE90?classifier=sources

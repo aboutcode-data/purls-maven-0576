@@ -20,3 +20,5 @@
 - pkg:maven/com.github.vlsi.gradle/crlf-plugin@1.71?classifier=sources
 - pkg:maven/com.github.vlsi.gradle/crlf-plugin@1.72
 - pkg:maven/com.github.vlsi.gradle/crlf-plugin@1.72?classifier=sources
+- pkg:maven/com.github.vlsi.gradle/crlf-plugin@1.73
+- pkg:maven/com.github.vlsi.gradle/crlf-plugin@1.73?classifier=sources

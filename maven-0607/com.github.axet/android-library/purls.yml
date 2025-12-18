@@ -1040,6 +1040,9 @@
 - pkg:maven/com.github.axet/android-library@1.33.0?classifier=sources
 - pkg:maven/com.github.axet/android-library@1.33.11?classifier=sources
 - pkg:maven/com.github.axet/android-library@1.33.13?classifier=sources
+- pkg:maven/com.github.axet/android-library@1.33.14?classifier=sources
+- pkg:maven/com.github.axet/android-library@1.33.15?classifier=sources
+- pkg:maven/com.github.axet/android-library@1.33.16?classifier=sources
 - pkg:maven/com.github.axet/android-library@1.33.1?classifier=sources
 - pkg:maven/com.github.axet/android-library@1.33.2?classifier=sources
 - pkg:maven/com.github.axet/android-library@1.33.3?classifier=sources

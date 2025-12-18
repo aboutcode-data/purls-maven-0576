@@ -1,3 +1,4 @@
 - pkg:maven/eu.xenit.transformers/Arender4Alfresco@1.0.0?classifier=sources
 - pkg:maven/eu.xenit.transformers/Arender4Alfresco@1.0.1?classifier=sources
 - pkg:maven/eu.xenit.transformers/Arender4Alfresco@1.0.2?classifier=sources
+- pkg:maven/eu.xenit.transformers/Arender4Alfresco@1.0.5?classifier=sources

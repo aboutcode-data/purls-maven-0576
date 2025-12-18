@@ -8,3 +8,4 @@
 - pkg:maven/edu.columbia.tjw/item-spark@1.4.0-spark2.4?classifier=sources
 - pkg:maven/edu.columbia.tjw/item-spark@1.4.1-spark2.4?classifier=sources
 - pkg:maven/edu.columbia.tjw/item-spark@1.4.2-spark2.4?classifier=sources
+- pkg:maven/edu.columbia.tjw/item-spark@1.5.0-spark3?classifier=sources

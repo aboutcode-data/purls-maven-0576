@@ -16,5 +16,11 @@
 - pkg:maven/design.aem/aemdesign-aem-author@2.0.664?classifier=sources
 - pkg:maven/design.aem/aemdesign-aem-author@2.0.665?classifier=sources
 - pkg:maven/design.aem/aemdesign-aem-author@2.1.0?classifier=sources
+- pkg:maven/design.aem/aemdesign-aem-author@2.1.177?classifier=sources
+- pkg:maven/design.aem/aemdesign-aem-author@2.1.181?classifier=sources
+- pkg:maven/design.aem/aemdesign-aem-author@2.1.201?classifier=sources
+- pkg:maven/design.aem/aemdesign-aem-author@2.1.202?classifier=sources
+- pkg:maven/design.aem/aemdesign-aem-author@2.1.209?classifier=sources
 - pkg:maven/design.aem/aemdesign-aem-author@2.1.4?classifier=sources
 - pkg:maven/design.aem/aemdesign-aem-author@2.1.73?classifier=sources
+- pkg:maven/design.aem/aemdesign-aem-author@2.1.87?classifier=sources

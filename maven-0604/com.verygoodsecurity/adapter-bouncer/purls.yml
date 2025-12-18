@@ -1,0 +1,2 @@
+- pkg:maven/com.verygoodsecurity/adapter-bouncer@1.0.3?classifier=sources
+- pkg:maven/com.verygoodsecurity/adapter-bouncer@1.0.4?classifier=sources

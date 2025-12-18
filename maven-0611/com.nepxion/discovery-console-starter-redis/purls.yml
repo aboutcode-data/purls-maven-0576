@@ -108,6 +108,10 @@
 - pkg:maven/com.nepxion/discovery-console-starter-redis@3.21.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-console-starter-redis@3.22.0
 - pkg:maven/com.nepxion/discovery-console-starter-redis@3.22.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-console-starter-redis@3.23.0
+- pkg:maven/com.nepxion/discovery-console-starter-redis@3.23.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-console-starter-redis@3.24.0
+- pkg:maven/com.nepxion/discovery-console-starter-redis@3.24.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-console-starter-redis@3.7.0
 - pkg:maven/com.nepxion/discovery-console-starter-redis@3.7.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-console-starter-redis@3.7.1
@@ -486,6 +490,10 @@
 - pkg:maven/com.nepxion/discovery-console-starter-redis@6.5.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-console-starter-redis@6.6.0
 - pkg:maven/com.nepxion/discovery-console-starter-redis@6.6.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-console-starter-redis@6.7.0
+- pkg:maven/com.nepxion/discovery-console-starter-redis@6.7.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-console-starter-redis@6.8.0
+- pkg:maven/com.nepxion/discovery-console-starter-redis@6.8.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-console-starter-redis@Edgware.1.0.0
 - pkg:maven/com.nepxion/discovery-console-starter-redis@Edgware.1.0.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-console-starter-redis@Finchley.1.0.0

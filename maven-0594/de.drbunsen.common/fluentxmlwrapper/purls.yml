@@ -2,3 +2,11 @@
 - pkg:maven/de.drbunsen.common/fluentxmlwrapper@0.1.0?classifier=sources
 - pkg:maven/de.drbunsen.common/fluentxmlwrapper@0.1.1
 - pkg:maven/de.drbunsen.common/fluentxmlwrapper@0.1.1?classifier=sources
+- pkg:maven/de.drbunsen.common/fluentxmlwrapper@0.2.0
+- pkg:maven/de.drbunsen.common/fluentxmlwrapper@0.2.0?classifier=sources
+- pkg:maven/de.drbunsen.common/fluentxmlwrapper@0.3.0?classifier=sources
+- pkg:maven/de.drbunsen.common/fluentxmlwrapper@0.3.1?classifier=sources
+- pkg:maven/de.drbunsen.common/fluentxmlwrapper@0.3.2?classifier=sources
+- pkg:maven/de.drbunsen.common/fluentxmlwrapper@0.3.3?classifier=sources
+- pkg:maven/de.drbunsen.common/fluentxmlwrapper@0.4.0?classifier=sources
+- pkg:maven/de.drbunsen.common/fluentxmlwrapper@0.5.0?classifier=sources

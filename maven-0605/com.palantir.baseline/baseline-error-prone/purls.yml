@@ -1,0 +1,1 @@
+- pkg:maven/com.palantir.baseline/baseline-error-prone@3.76.0?classifier=sources

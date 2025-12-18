@@ -1,0 +1,2 @@
+- pkg:maven/io.github.jfermat/thymeleaf-bootstrap-messages@1.0.0
+- pkg:maven/io.github.jfermat/thymeleaf-bootstrap-messages@1.0.0?classifier=sources

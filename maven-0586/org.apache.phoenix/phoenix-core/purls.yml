@@ -92,6 +92,8 @@
 - pkg:maven/org.apache.phoenix/phoenix-core@4.15.0-HBase-1.4?classifier=sources
 - pkg:maven/org.apache.phoenix/phoenix-core@4.15.0-HBase-1.5
 - pkg:maven/org.apache.phoenix/phoenix-core@4.15.0-HBase-1.5?classifier=sources
+- pkg:maven/org.apache.phoenix/phoenix-core@4.16.0
+- pkg:maven/org.apache.phoenix/phoenix-core@4.16.0?classifier=sources
 - pkg:maven/org.apache.phoenix/phoenix-core@4.2.0
 - pkg:maven/org.apache.phoenix/phoenix-core@4.2.0?classifier=sources
 - pkg:maven/org.apache.phoenix/phoenix-core@4.2.1
@@ -164,3 +166,7 @@
 - pkg:maven/org.apache.phoenix/phoenix-core@5.0.0-HBase-2.0?classifier=sources
 - pkg:maven/org.apache.phoenix/phoenix-core@5.0.0-alpha-HBase-2.0
 - pkg:maven/org.apache.phoenix/phoenix-core@5.0.0-alpha-HBase-2.0?classifier=sources
+- pkg:maven/org.apache.phoenix/phoenix-core@5.1.0
+- pkg:maven/org.apache.phoenix/phoenix-core@5.1.0?classifier=sources
+- pkg:maven/org.apache.phoenix/phoenix-core@5.1.1
+- pkg:maven/org.apache.phoenix/phoenix-core@5.1.1?classifier=sources

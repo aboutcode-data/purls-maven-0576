@@ -1,0 +1,2 @@
+- pkg:maven/io.github.astrapi69/silly-strings@6
+- pkg:maven/io.github.astrapi69/silly-strings@6?classifier=sources

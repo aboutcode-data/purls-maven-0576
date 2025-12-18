@@ -75,6 +75,7 @@
 - pkg:maven/com.adjust.sdk/adjust-android-sociomantic@4.26.0?classifier=sources
 - pkg:maven/com.adjust.sdk/adjust-android-sociomantic@4.26.1?classifier=sources
 - pkg:maven/com.adjust.sdk/adjust-android-sociomantic@4.26.2?classifier=sources
+- pkg:maven/com.adjust.sdk/adjust-android-sociomantic@4.27.0?classifier=sources
 - pkg:maven/com.adjust.sdk/adjust-android-sociomantic@4.6.0
 - pkg:maven/com.adjust.sdk/adjust-android-sociomantic@4.6.0?classifier=sources
 - pkg:maven/com.adjust.sdk/adjust-android-sociomantic@4.7.0

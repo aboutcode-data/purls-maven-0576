@@ -1,0 +1,2 @@
+- pkg:maven/dev.rikka.ndk.thirdparty/nativehelper@1.0.0?classifier=sources
+- pkg:maven/dev.rikka.ndk.thirdparty/nativehelper@1.0.1?classifier=sources

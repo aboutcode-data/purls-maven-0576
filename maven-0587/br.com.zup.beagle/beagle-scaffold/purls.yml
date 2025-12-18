@@ -2,3 +2,4 @@
 - pkg:maven/br.com.zup.beagle/beagle-scaffold@0.0.3?classifier=sources
 - pkg:maven/br.com.zup.beagle/beagle-scaffold@1.0.0?classifier=sources
 - pkg:maven/br.com.zup.beagle/beagle-scaffold@1.0.1?classifier=sources
+- pkg:maven/br.com.zup.beagle/beagle-scaffold@1.6.0?classifier=sources

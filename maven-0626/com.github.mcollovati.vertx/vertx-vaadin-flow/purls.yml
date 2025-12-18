@@ -48,3 +48,7 @@
 - pkg:maven/com.github.mcollovati.vertx/vertx-vaadin-flow@18.0.0?classifier=sources
 - pkg:maven/com.github.mcollovati.vertx/vertx-vaadin-flow@18.1.0
 - pkg:maven/com.github.mcollovati.vertx/vertx-vaadin-flow@18.1.0?classifier=sources
+- pkg:maven/com.github.mcollovati.vertx/vertx-vaadin-flow@18.1.2
+- pkg:maven/com.github.mcollovati.vertx/vertx-vaadin-flow@18.1.2?classifier=sources
+- pkg:maven/com.github.mcollovati.vertx/vertx-vaadin-flow@19.0.0
+- pkg:maven/com.github.mcollovati.vertx/vertx-vaadin-flow@19.0.0?classifier=sources

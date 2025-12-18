@@ -10,3 +10,7 @@
 - pkg:maven/com.github.nhenneaux.jersey.jetty.http2/jersey-http2-jetty-connector@1.0.4?classifier=sources
 - pkg:maven/com.github.nhenneaux.jersey.jetty.http2/jersey-http2-jetty-connector@1.0.5
 - pkg:maven/com.github.nhenneaux.jersey.jetty.http2/jersey-http2-jetty-connector@1.0.5?classifier=sources
+- pkg:maven/com.github.nhenneaux.jersey.jetty.http2/jersey-http2-jetty-connector@1.0.6
+- pkg:maven/com.github.nhenneaux.jersey.jetty.http2/jersey-http2-jetty-connector@1.0.6?classifier=sources
+- pkg:maven/com.github.nhenneaux.jersey.jetty.http2/jersey-http2-jetty-connector@1.0.7
+- pkg:maven/com.github.nhenneaux.jersey.jetty.http2/jersey-http2-jetty-connector@1.0.7?classifier=sources

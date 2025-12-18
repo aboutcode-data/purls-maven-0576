@@ -1,0 +1,4 @@
+- pkg:maven/com.spark-engine/spark-extensions-scripting@0.11.0
+- pkg:maven/com.spark-engine/spark-extensions-scripting@0.11.0?classifier=sources
+- pkg:maven/com.spark-engine/spark-extensions-scripting@0.11.1
+- pkg:maven/com.spark-engine/spark-extensions-scripting@0.11.1?classifier=sources

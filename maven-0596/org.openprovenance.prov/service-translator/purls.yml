@@ -12,3 +12,9 @@
 - pkg:maven/org.openprovenance.prov/service-translator@0.9.5?type=war
 - pkg:maven/org.openprovenance.prov/service-translator@0.9.6?classifier=sources
 - pkg:maven/org.openprovenance.prov/service-translator@0.9.6?type=war
+- pkg:maven/org.openprovenance.prov/service-translator@0.9.7?classifier=sources
+- pkg:maven/org.openprovenance.prov/service-translator@0.9.7?type=war
+- pkg:maven/org.openprovenance.prov/service-translator@0.9.8?classifier=sources
+- pkg:maven/org.openprovenance.prov/service-translator@0.9.8?type=war
+- pkg:maven/org.openprovenance.prov/service-translator@0.9.9?classifier=sources
+- pkg:maven/org.openprovenance.prov/service-translator@0.9.9?type=war

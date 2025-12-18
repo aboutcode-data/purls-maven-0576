@@ -1,0 +1,4 @@
+- pkg:maven/com.rubensousa/decorator@2.0.0-beta01?classifier=sources
+- pkg:maven/com.rubensousa/decorator@2.0.0-beta01?type=aar
+- pkg:maven/com.rubensousa/decorator@2.0.0?classifier=sources
+- pkg:maven/com.rubensousa/decorator@2.0.0?type=aar

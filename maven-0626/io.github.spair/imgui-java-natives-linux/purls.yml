@@ -1,1 +1,6 @@
 - pkg:maven/io.github.spair/imgui-java-natives-linux@1.80-1.5.0?classifier=sources
+- pkg:maven/io.github.spair/imgui-java-natives-linux@1.81.0?classifier=sources
+- pkg:maven/io.github.spair/imgui-java-natives-linux@1.81.1?classifier=sources
+- pkg:maven/io.github.spair/imgui-java-natives-linux@1.81.2?classifier=sources
+- pkg:maven/io.github.spair/imgui-java-natives-linux@1.82.0?classifier=sources
+- pkg:maven/io.github.spair/imgui-java-natives-linux@1.82.1?classifier=sources

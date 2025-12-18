@@ -34,3 +34,5 @@
 - pkg:maven/org.odpi.egeria/omrs-rest-repository-connector@2.5?classifier=sources
 - pkg:maven/org.odpi.egeria/omrs-rest-repository-connector@2.6
 - pkg:maven/org.odpi.egeria/omrs-rest-repository-connector@2.6?classifier=sources
+- pkg:maven/org.odpi.egeria/omrs-rest-repository-connector@2.7
+- pkg:maven/org.odpi.egeria/omrs-rest-repository-connector@2.7?classifier=sources

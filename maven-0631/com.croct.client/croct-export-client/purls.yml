@@ -1,0 +1,2 @@
+- pkg:maven/com.croct.client/croct-export-client@0.2.0
+- pkg:maven/com.croct.client/croct-export-client@0.2.0?classifier=sources

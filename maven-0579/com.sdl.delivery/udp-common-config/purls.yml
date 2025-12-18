@@ -24,5 +24,7 @@
 - pkg:maven/com.sdl.delivery/udp-common-config@11.1.0-1050?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-common-config@11.1.0-1086
 - pkg:maven/com.sdl.delivery/udp-common-config@11.1.0-1086?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-common-config@11.1.0-1100
+- pkg:maven/com.sdl.delivery/udp-common-config@11.1.0-1100?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-common-config@11.5.0-1055
 - pkg:maven/com.sdl.delivery/udp-common-config@11.5.0-1055?classifier=sources

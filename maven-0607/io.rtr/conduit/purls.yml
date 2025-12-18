@@ -25,6 +25,12 @@
 - pkg:maven/io.rtr/conduit@1.2
 - pkg:maven/io.rtr/conduit@1.20
 - pkg:maven/io.rtr/conduit@1.20?classifier=sources
+- pkg:maven/io.rtr/conduit@1.21
+- pkg:maven/io.rtr/conduit@1.21?classifier=sources
+- pkg:maven/io.rtr/conduit@1.22
+- pkg:maven/io.rtr/conduit@1.22?classifier=sources
+- pkg:maven/io.rtr/conduit@1.23
+- pkg:maven/io.rtr/conduit@1.23?classifier=sources
 - pkg:maven/io.rtr/conduit@1.2?classifier=sources
 - pkg:maven/io.rtr/conduit@1.3
 - pkg:maven/io.rtr/conduit@1.3?classifier=sources

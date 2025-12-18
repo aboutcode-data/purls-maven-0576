@@ -424,6 +424,8 @@
 - pkg:maven/com.google.apis/google-api-services-analyticsreporting@v4-rev20200902-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-analyticsreporting@v4-rev20200902-1.31.0
 - pkg:maven/com.google.apis/google-api-services-analyticsreporting@v4-rev20200902-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-analyticsreporting@v4-rev20210106-1.31.0
+- pkg:maven/com.google.apis/google-api-services-analyticsreporting@v4-rev20210106-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-analyticsreporting@v4-rev3-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-analyticsreporting@v4-rev3-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-analyticsreporting@v4-rev3-1.19.1

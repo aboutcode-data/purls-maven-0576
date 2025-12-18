@@ -1,0 +1,4 @@
+- pkg:maven/org.wso2.am.microgw/mock-backend-server@4.0.0-m8
+- pkg:maven/org.wso2.am.microgw/mock-backend-server@4.0.0-m8?classifier=sources
+- pkg:maven/org.wso2.am.microgw/mock-backend-server@4.0.0-m9
+- pkg:maven/org.wso2.am.microgw/mock-backend-server@4.0.0-m9?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.lkroll/epcompendium-core_sjs1_2.13@6.1.0
+- pkg:maven/com.lkroll/epcompendium-core_sjs1_2.13@6.1.0?classifier=sources

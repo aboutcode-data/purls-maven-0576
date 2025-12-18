@@ -14,5 +14,9 @@
 - pkg:maven/com.amazonaws/aws-dynamodb-encryption-java@1.14.1?classifier=sources
 - pkg:maven/com.amazonaws/aws-dynamodb-encryption-java@1.15.0
 - pkg:maven/com.amazonaws/aws-dynamodb-encryption-java@1.15.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-dynamodb-encryption-java@1.15.1
+- pkg:maven/com.amazonaws/aws-dynamodb-encryption-java@1.15.1?classifier=sources
 - pkg:maven/com.amazonaws/aws-dynamodb-encryption-java@2.0.0
 - pkg:maven/com.amazonaws/aws-dynamodb-encryption-java@2.0.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-dynamodb-encryption-java@2.0.1
+- pkg:maven/com.amazonaws/aws-dynamodb-encryption-java@2.0.1?classifier=sources

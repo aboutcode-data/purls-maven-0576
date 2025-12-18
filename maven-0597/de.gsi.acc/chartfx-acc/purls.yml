@@ -18,6 +18,10 @@
 - pkg:maven/de.gsi.acc/chartfx-acc@11.2.2?classifier=sources
 - pkg:maven/de.gsi.acc/chartfx-acc@11.2.3
 - pkg:maven/de.gsi.acc/chartfx-acc@11.2.3?classifier=sources
+- pkg:maven/de.gsi.acc/chartfx-acc@11.2.4
+- pkg:maven/de.gsi.acc/chartfx-acc@11.2.4?classifier=sources
+- pkg:maven/de.gsi.acc/chartfx-acc@11.2.5
+- pkg:maven/de.gsi.acc/chartfx-acc@11.2.5?classifier=sources
 - pkg:maven/de.gsi.acc/chartfx-acc@8.1.0
 - pkg:maven/de.gsi.acc/chartfx-acc@8.1.0?classifier=sources
 - pkg:maven/de.gsi.acc/chartfx-acc@8.1.1

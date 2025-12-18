@@ -24,5 +24,7 @@
 - pkg:maven/com.sdl.delivery/udp-cil-api@11.1.0-1054?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-cil-api@11.1.0-1098
 - pkg:maven/com.sdl.delivery/udp-cil-api@11.1.0-1098?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-cil-api@11.1.0-1115
+- pkg:maven/com.sdl.delivery/udp-cil-api@11.1.0-1115?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-cil-api@11.5.0-1069
 - pkg:maven/com.sdl.delivery/udp-cil-api@11.5.0-1069?classifier=sources

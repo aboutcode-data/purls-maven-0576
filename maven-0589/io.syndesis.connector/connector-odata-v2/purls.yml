@@ -1,0 +1,2 @@
+- pkg:maven/io.syndesis.connector/connector-odata-v2@1.11.0
+- pkg:maven/io.syndesis.connector/connector-odata-v2@1.11.0?classifier=sources

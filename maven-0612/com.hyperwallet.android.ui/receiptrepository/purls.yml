@@ -10,3 +10,7 @@
 - pkg:maven/com.hyperwallet.android.ui/receiptrepository@1.0.0-beta07?type=aar
 - pkg:maven/com.hyperwallet.android.ui/receiptrepository@1.0.0-beta08?classifier=sources
 - pkg:maven/com.hyperwallet.android.ui/receiptrepository@1.0.0-beta08?type=aar
+- pkg:maven/com.hyperwallet.android.ui/receiptrepository@1.0.0-beta09?classifier=sources
+- pkg:maven/com.hyperwallet.android.ui/receiptrepository@1.0.0-beta09?type=aar
+- pkg:maven/com.hyperwallet.android.ui/receiptrepository@1.0.0-beta10?classifier=sources
+- pkg:maven/com.hyperwallet.android.ui/receiptrepository@1.0.0-beta10?type=aar

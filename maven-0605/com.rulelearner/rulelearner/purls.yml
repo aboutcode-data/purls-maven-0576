@@ -12,3 +12,5 @@
 - pkg:maven/com.rulelearner/rulelearner@8.2.1.1
 - pkg:maven/com.rulelearner/rulelearner@8.2.1.1?classifier=sources
 - pkg:maven/com.rulelearner/rulelearner@8.2.1?classifier=sources
+- pkg:maven/com.rulelearner/rulelearner@8.3.0
+- pkg:maven/com.rulelearner/rulelearner@8.3.0?classifier=sources

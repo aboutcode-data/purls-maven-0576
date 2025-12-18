@@ -1,0 +1,6 @@
+- pkg:maven/com.github.hanshsieh/pixivjjfx@0.1.1-beta
+- pkg:maven/com.github.hanshsieh/pixivjjfx@0.1.1-beta?classifier=sources
+- pkg:maven/com.github.hanshsieh/pixivjjfx@0.1.2-beta
+- pkg:maven/com.github.hanshsieh/pixivjjfx@0.1.2-beta?classifier=sources
+- pkg:maven/com.github.hanshsieh/pixivjjfx@0.1.4-beta
+- pkg:maven/com.github.hanshsieh/pixivjjfx@0.1.4-beta?classifier=sources

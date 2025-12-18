@@ -1,0 +1,4 @@
+- pkg:maven/io.get-coursier.jniutils/windows-jni-utils-tests_2.13@0.1.0
+- pkg:maven/io.get-coursier.jniutils/windows-jni-utils-tests_2.13@0.1.0?classifier=sources
+- pkg:maven/io.get-coursier.jniutils/windows-jni-utils-tests_2.13@v0.1.0
+- pkg:maven/io.get-coursier.jniutils/windows-jni-utils-tests_2.13@v0.1.0?classifier=sources

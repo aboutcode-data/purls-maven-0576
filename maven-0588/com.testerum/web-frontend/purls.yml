@@ -6,3 +6,8 @@
 - pkg:maven/com.testerum/web-frontend@5.0.6
 - pkg:maven/com.testerum/web-frontend@5.0.7
 - pkg:maven/com.testerum/web-frontend@5.1.0
+- pkg:maven/com.testerum/web-frontend@5.1.1
+- pkg:maven/com.testerum/web-frontend@5.2.0
+- pkg:maven/com.testerum/web-frontend@5.2.1
+- pkg:maven/com.testerum/web-frontend@5.2.2
+- pkg:maven/com.testerum/web-frontend@5.2.3

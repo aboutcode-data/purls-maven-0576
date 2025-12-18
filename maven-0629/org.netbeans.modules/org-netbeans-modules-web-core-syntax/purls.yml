@@ -7,3 +7,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-core-syntax@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-core-syntax@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-core-syntax@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-core-syntax@RELEASE123?classifier=sources
