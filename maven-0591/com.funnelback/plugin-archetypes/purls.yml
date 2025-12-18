@@ -1,0 +1,14 @@
+- pkg:maven/com.funnelback/plugin-archetypes@0.0.1
+- pkg:maven/com.funnelback/plugin-archetypes@0.0.1?classifier=sources
+- pkg:maven/com.funnelback/plugin-archetypes@0.0.2
+- pkg:maven/com.funnelback/plugin-archetypes@0.0.2?classifier=sources
+- pkg:maven/com.funnelback/plugin-archetypes@0.0.3
+- pkg:maven/com.funnelback/plugin-archetypes@0.0.3?classifier=sources
+- pkg:maven/com.funnelback/plugin-archetypes@0.0.4
+- pkg:maven/com.funnelback/plugin-archetypes@0.0.4?classifier=sources
+- pkg:maven/com.funnelback/plugin-archetypes@15.25.2015
+- pkg:maven/com.funnelback/plugin-archetypes@15.25.2015.1
+- pkg:maven/com.funnelback/plugin-archetypes@15.25.2015.1?classifier=sources
+- pkg:maven/com.funnelback/plugin-archetypes@15.25.2015?classifier=sources
+- pkg:maven/com.funnelback/plugin-archetypes@15.25.2016.1
+- pkg:maven/com.funnelback/plugin-archetypes@15.25.2016.1?classifier=sources

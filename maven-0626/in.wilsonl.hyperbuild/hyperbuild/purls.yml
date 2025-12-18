@@ -28,3 +28,5 @@
 - pkg:maven/in.wilsonl.hyperbuild/hyperbuild@0.0.43?classifier=sources
 - pkg:maven/in.wilsonl.hyperbuild/hyperbuild@0.0.44
 - pkg:maven/in.wilsonl.hyperbuild/hyperbuild@0.0.44?classifier=sources
+- pkg:maven/in.wilsonl.hyperbuild/hyperbuild@0.0.45
+- pkg:maven/in.wilsonl.hyperbuild/hyperbuild@0.0.45?classifier=sources

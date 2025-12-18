@@ -4,3 +4,5 @@
 - pkg:maven/io.github.khda91/step-logger-cucumber4-plugin@1.0.1?classifier=sources
 - pkg:maven/io.github.khda91/step-logger-cucumber4-plugin@1.0.2
 - pkg:maven/io.github.khda91/step-logger-cucumber4-plugin@1.0.2?classifier=sources
+- pkg:maven/io.github.khda91/step-logger-cucumber4-plugin@2.0.0
+- pkg:maven/io.github.khda91/step-logger-cucumber4-plugin@2.0.0?classifier=sources

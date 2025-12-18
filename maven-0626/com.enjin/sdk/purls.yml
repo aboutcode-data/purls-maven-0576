@@ -1,0 +1,6 @@
+- pkg:maven/com.enjin/sdk@1.0.0rc1
+- pkg:maven/com.enjin/sdk@1.0.0rc1?classifier=sources
+- pkg:maven/com.enjin/sdk@1.0.0rc2
+- pkg:maven/com.enjin/sdk@1.0.0rc2?classifier=sources
+- pkg:maven/com.enjin/sdk@1.0.0rc3
+- pkg:maven/com.enjin/sdk@1.0.0rc3?classifier=sources

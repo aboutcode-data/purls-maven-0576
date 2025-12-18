@@ -1,2 +1,6 @@
 - pkg:maven/com.outr/scribe-slack_2.13@2.7.10
 - pkg:maven/com.outr/scribe-slack_2.13@2.7.10?classifier=sources
+- pkg:maven/com.outr/scribe-slack_2.13@2.7.11
+- pkg:maven/com.outr/scribe-slack_2.13@2.7.11?classifier=sources
+- pkg:maven/com.outr/scribe-slack_2.13@2.7.12
+- pkg:maven/com.outr/scribe-slack_2.13@2.7.12?classifier=sources

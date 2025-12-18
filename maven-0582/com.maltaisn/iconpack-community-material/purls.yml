@@ -1,2 +1,8 @@
 - pkg:maven/com.maltaisn/iconpack-community-material@4.8.95?classifier=sources
 - pkg:maven/com.maltaisn/iconpack-community-material@4.8.95?type=aar
+- pkg:maven/com.maltaisn/iconpack-community-material@4.9.95?classifier=sources
+- pkg:maven/com.maltaisn/iconpack-community-material@4.9.95?type=aar
+- pkg:maven/com.maltaisn/iconpack-community-material@5.0.45?classifier=sources
+- pkg:maven/com.maltaisn/iconpack-community-material@5.0.45?type=aar
+- pkg:maven/com.maltaisn/iconpack-community-material@5.1.45?classifier=sources
+- pkg:maven/com.maltaisn/iconpack-community-material@5.1.45?type=aar

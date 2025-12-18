@@ -24,3 +24,5 @@
 - pkg:maven/cn.ucloud/ucloud-sdk-java-udpn@0.8.2.8-release?classifier=sources
 - pkg:maven/cn.ucloud/ucloud-sdk-java-udpn@0.8.2.9-release
 - pkg:maven/cn.ucloud/ucloud-sdk-java-udpn@0.8.2.9-release?classifier=sources
+- pkg:maven/cn.ucloud/ucloud-sdk-java-udpn@0.8.3.0-release
+- pkg:maven/cn.ucloud/ucloud-sdk-java-udpn@0.8.3.0-release?classifier=sources

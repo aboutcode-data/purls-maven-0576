@@ -10,3 +10,5 @@
 - pkg:maven/io.appform.dropwizard.sharding/db-sharding-bundle@1.3.13-6?classifier=sources
 - pkg:maven/io.appform.dropwizard.sharding/db-sharding-bundle@1.3.13-7
 - pkg:maven/io.appform.dropwizard.sharding/db-sharding-bundle@1.3.13-7?classifier=sources
+- pkg:maven/io.appform.dropwizard.sharding/db-sharding-bundle@1.3.13-8
+- pkg:maven/io.appform.dropwizard.sharding/db-sharding-bundle@1.3.13-8?classifier=sources

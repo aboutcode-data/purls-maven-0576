@@ -1,0 +1,2 @@
+- pkg:maven/com.gengoai/mango-swing-ui@1.0
+- pkg:maven/com.gengoai/mango-swing-ui@1.0?classifier=sources

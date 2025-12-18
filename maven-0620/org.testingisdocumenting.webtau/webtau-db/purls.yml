@@ -1,0 +1,4 @@
+- pkg:maven/org.testingisdocumenting.webtau/webtau-db@1.22
+- pkg:maven/org.testingisdocumenting.webtau/webtau-db@1.22?classifier=sources
+- pkg:maven/org.testingisdocumenting.webtau/webtau-db@1.23
+- pkg:maven/org.testingisdocumenting.webtau/webtau-db@1.23?classifier=sources

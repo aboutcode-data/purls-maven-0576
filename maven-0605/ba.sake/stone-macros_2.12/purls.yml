@@ -2,3 +2,5 @@
 - pkg:maven/ba.sake/stone-macros_2.12@0.0.2?classifier=sources
 - pkg:maven/ba.sake/stone-macros_2.12@0.0.3
 - pkg:maven/ba.sake/stone-macros_2.12@0.0.3?classifier=sources
+- pkg:maven/ba.sake/stone-macros_2.12@0.1.0
+- pkg:maven/ba.sake/stone-macros_2.12@0.1.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/pl.allegro.search.solr/solr-ids-export-plugin@0.1.0
+- pkg:maven/pl.allegro.search.solr/solr-ids-export-plugin@0.1.0?classifier=sources
+- pkg:maven/pl.allegro.search.solr/solr-ids-export-plugin@0.1.1
+- pkg:maven/pl.allegro.search.solr/solr-ids-export-plugin@0.1.1?classifier=sources

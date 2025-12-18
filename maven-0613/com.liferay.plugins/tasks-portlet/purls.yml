@@ -89,6 +89,8 @@
 - pkg:maven/com.liferay.plugins/tasks-portlet@7.1.10.37?type=war
 - pkg:maven/com.liferay.plugins/tasks-portlet@7.1.10.38?type=war
 - pkg:maven/com.liferay.plugins/tasks-portlet@7.1.10.39?type=war
+- pkg:maven/com.liferay.plugins/tasks-portlet@7.1.10.40?type=war
+- pkg:maven/com.liferay.plugins/tasks-portlet@7.1.10.41?type=war
 - pkg:maven/com.liferay.plugins/tasks-portlet@7.2.0.10?type=war
 - pkg:maven/com.liferay.plugins/tasks-portlet@7.2.0.11?type=war
 - pkg:maven/com.liferay.plugins/tasks-portlet@7.2.0.12?type=war
@@ -112,5 +114,15 @@
 - pkg:maven/com.liferay.plugins/tasks-portlet@7.2.10.21?type=war
 - pkg:maven/com.liferay.plugins/tasks-portlet@7.2.10.22?type=war
 - pkg:maven/com.liferay.plugins/tasks-portlet@7.2.10.23?type=war
+- pkg:maven/com.liferay.plugins/tasks-portlet@7.2.10.24?type=war
+- pkg:maven/com.liferay.plugins/tasks-portlet@7.2.10.25?type=war
+- pkg:maven/com.liferay.plugins/tasks-portlet@7.2.10.26?type=war
+- pkg:maven/com.liferay.plugins/tasks-portlet@7.3.10.10?type=war
 - pkg:maven/com.liferay.plugins/tasks-portlet@7.3.10.2?type=war
 - pkg:maven/com.liferay.plugins/tasks-portlet@7.3.10.3?type=war
+- pkg:maven/com.liferay.plugins/tasks-portlet@7.3.10.4?type=war
+- pkg:maven/com.liferay.plugins/tasks-portlet@7.3.10.5?type=war
+- pkg:maven/com.liferay.plugins/tasks-portlet@7.3.10.6?type=war
+- pkg:maven/com.liferay.plugins/tasks-portlet@7.3.10.7?type=war
+- pkg:maven/com.liferay.plugins/tasks-portlet@7.3.10.8?type=war
+- pkg:maven/com.liferay.plugins/tasks-portlet@7.3.10.9?type=war

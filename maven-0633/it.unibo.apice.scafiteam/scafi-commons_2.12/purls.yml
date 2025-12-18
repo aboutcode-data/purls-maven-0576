@@ -8,3 +8,4 @@
 - pkg:maven/it.unibo.apice.scafiteam/scafi-commons_2.12@53ddebd1?classifier=sources
 - pkg:maven/it.unibo.apice.scafiteam/scafi-commons_2.12@94e06d43
 - pkg:maven/it.unibo.apice.scafiteam/scafi-commons_2.12@94e06d43?classifier=sources
+- pkg:maven/it.unibo.apice.scafiteam/scafi-commons_2.12@v0.3.3?classifier=sources

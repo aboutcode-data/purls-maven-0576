@@ -1,0 +1,2 @@
+- pkg:maven/com.facebook.fresco/memory-type-ashmem@2.2.0?classifier=sources
+- pkg:maven/com.facebook.fresco/memory-type-ashmem@2.2.0?type=aar

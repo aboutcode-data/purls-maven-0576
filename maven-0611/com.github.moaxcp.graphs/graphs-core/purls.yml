@@ -1,3 +1,4 @@
+- pkg:maven/com.github.moaxcp.graphs/graphs-core@0.10.0?classifier=sources
 - pkg:maven/com.github.moaxcp.graphs/graphs-core@0.4.0
 - pkg:maven/com.github.moaxcp.graphs/graphs-core@0.4.0?classifier=sources
 - pkg:maven/com.github.moaxcp.graphs/graphs-core@0.5.0
@@ -8,3 +9,4 @@
 - pkg:maven/com.github.moaxcp.graphs/graphs-core@0.7.0?classifier=sources
 - pkg:maven/com.github.moaxcp.graphs/graphs-core@0.8.0
 - pkg:maven/com.github.moaxcp.graphs/graphs-core@0.8.0?classifier=sources
+- pkg:maven/com.github.moaxcp.graphs/graphs-core@0.9.0?classifier=sources

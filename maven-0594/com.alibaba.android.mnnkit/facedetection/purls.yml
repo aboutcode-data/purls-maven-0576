@@ -1,1 +1,2 @@
 - pkg:maven/com.alibaba.android.mnnkit/facedetection@0.0.4?type=aar
+- pkg:maven/com.alibaba.android.mnnkit/facedetection@0.0.5?type=aar

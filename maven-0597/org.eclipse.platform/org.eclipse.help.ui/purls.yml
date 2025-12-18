@@ -16,3 +16,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.help.ui@4.1.600?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.help.ui@4.1.700
 - pkg:maven/org.eclipse.platform/org.eclipse.help.ui@4.1.700?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.help.ui@4.1.800
+- pkg:maven/org.eclipse.platform/org.eclipse.help.ui@4.1.800?classifier=sources

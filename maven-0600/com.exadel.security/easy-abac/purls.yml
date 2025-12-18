@@ -1,0 +1,4 @@
+- pkg:maven/com.exadel.security/easy-abac@1.0-RC2
+- pkg:maven/com.exadel.security/easy-abac@1.0-RC2?classifier=sources
+- pkg:maven/com.exadel.security/easy-abac@1.0-RC3
+- pkg:maven/com.exadel.security/easy-abac@1.0-RC3?classifier=sources

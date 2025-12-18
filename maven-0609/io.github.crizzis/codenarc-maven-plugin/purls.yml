@@ -1,0 +1,2 @@
+- pkg:maven/io.github.crizzis/codenarc-maven-plugin@0.1
+- pkg:maven/io.github.crizzis/codenarc-maven-plugin@0.1?classifier=sources

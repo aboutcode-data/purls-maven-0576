@@ -1,0 +1,4 @@
+- pkg:maven/com.github.isong0623/EasyStorer@1.0-support?type=aar
+- pkg:maven/com.github.isong0623/EasyStorer@1.1-core?type=aar
+- pkg:maven/com.github.isong0623/EasyStorer@2.0-core?type=aar
+- pkg:maven/com.github.isong0623/EasyStorer@2.1-core?type=aar

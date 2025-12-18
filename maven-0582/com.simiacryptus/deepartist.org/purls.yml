@@ -1,2 +1,4 @@
 - pkg:maven/com.simiacryptus/deepartist.org@1.8.0
 - pkg:maven/com.simiacryptus/deepartist.org@1.8.0?classifier=sources
+- pkg:maven/com.simiacryptus/deepartist.org@2.0.0
+- pkg:maven/com.simiacryptus/deepartist.org@2.0.0?classifier=sources

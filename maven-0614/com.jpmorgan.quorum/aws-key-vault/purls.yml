@@ -1,2 +1,6 @@
 - pkg:maven/com.jpmorgan.quorum/aws-key-vault@0.10.3
 - pkg:maven/com.jpmorgan.quorum/aws-key-vault@0.10.3?classifier=sources
+- pkg:maven/com.jpmorgan.quorum/aws-key-vault@0.10.4
+- pkg:maven/com.jpmorgan.quorum/aws-key-vault@0.10.4?classifier=sources
+- pkg:maven/com.jpmorgan.quorum/aws-key-vault@0.10.5
+- pkg:maven/com.jpmorgan.quorum/aws-key-vault@0.10.5?classifier=sources

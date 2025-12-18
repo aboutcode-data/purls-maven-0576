@@ -1,0 +1,2 @@
+- pkg:maven/de.borisskert/java-observable-properties@0.1.0-17
+- pkg:maven/de.borisskert/java-observable-properties@0.1.0-17?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.http4k/http4k-format-jackson-yaml@3.248.0
+- pkg:maven/org.http4k/http4k-format-jackson-yaml@3.248.0?classifier=sources

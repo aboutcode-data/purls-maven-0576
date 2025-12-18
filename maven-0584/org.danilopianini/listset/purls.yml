@@ -12,3 +12,10 @@
 - pkg:maven/org.danilopianini/listset@0.2.4?classifier=sources
 - pkg:maven/org.danilopianini/listset@0.2.5
 - pkg:maven/org.danilopianini/listset@0.2.5?classifier=sources
+- pkg:maven/org.danilopianini/listset@0.3.0-dev00%2B416289a9a2?classifier=sources
+- pkg:maven/org.danilopianini/listset@0.3.0-dev01%2B5cff3892ca?classifier=sources
+- pkg:maven/org.danilopianini/listset@0.3.0-dev01%2Bc2281475a5?classifier=sources
+- pkg:maven/org.danilopianini/listset@0.3.0?classifier=sources
+- pkg:maven/org.danilopianini/listset@0.3.1?classifier=sources
+- pkg:maven/org.danilopianini/listset@0.3.2?classifier=sources
+- pkg:maven/org.danilopianini/listset@0.3.3?classifier=sources

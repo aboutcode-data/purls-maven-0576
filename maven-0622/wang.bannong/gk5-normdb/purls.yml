@@ -1,0 +1,2 @@
+- pkg:maven/wang.bannong/gk5-normdb@1.1.1-beta
+- pkg:maven/wang.bannong/gk5-normdb@1.1.1-beta?classifier=sources

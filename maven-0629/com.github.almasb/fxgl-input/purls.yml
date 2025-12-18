@@ -14,3 +14,5 @@
 - pkg:maven/com.github.almasb/fxgl-input@11.6?classifier=sources
 - pkg:maven/com.github.almasb/fxgl-input@11.7
 - pkg:maven/com.github.almasb/fxgl-input@11.7?classifier=sources
+- pkg:maven/com.github.almasb/fxgl-input@11.8
+- pkg:maven/com.github.almasb/fxgl-input@11.8?classifier=sources

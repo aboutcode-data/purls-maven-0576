@@ -58,3 +58,5 @@
 - pkg:maven/com.github.ostrovskal/sshstd@1.1.2?type=aar
 - pkg:maven/com.github.ostrovskal/sshstd@1.1.4?classifier=sources
 - pkg:maven/com.github.ostrovskal/sshstd@1.1.4?type=aar
+- pkg:maven/com.github.ostrovskal/sshstd@1.1.5?classifier=sources
+- pkg:maven/com.github.ostrovskal/sshstd@1.1.5?type=aar

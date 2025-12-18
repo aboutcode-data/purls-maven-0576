@@ -2,3 +2,4 @@
 - pkg:maven/it.czerwinski.android/graphics-util@0.9.1?type=aar
 - pkg:maven/it.czerwinski.android/graphics-util@0.9?classifier=sources
 - pkg:maven/it.czerwinski.android/graphics-util@0.9?type=aar
+- pkg:maven/it.czerwinski.android/graphics-util@1.0.0?classifier=sources

@@ -44,3 +44,5 @@
 - pkg:maven/org.javassist/javassist@3.25.0-GA?classifier=sources
 - pkg:maven/org.javassist/javassist@3.26.0-GA
 - pkg:maven/org.javassist/javassist@3.26.0-GA?classifier=sources
+- pkg:maven/org.javassist/javassist@3.27.0-GA
+- pkg:maven/org.javassist/javassist@3.27.0-GA?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.skywalking/apm-kotlin-coroutine-plugin@7.0.0
+- pkg:maven/org.apache.skywalking/apm-kotlin-coroutine-plugin@7.0.0?classifier=sources

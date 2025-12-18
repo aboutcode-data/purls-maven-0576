@@ -39,3 +39,15 @@
 - pkg:maven/com.walmartlabs.concord.server/concord-server-impl@1.40.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.server/concord-server-impl@1.41.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.server/concord-server-impl@1.42.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.server/concord-server-impl@1.43.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.server/concord-server-impl@1.44.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.server/concord-server-impl@1.45.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.server/concord-server-impl@1.46.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.server/concord-server-impl@1.47.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.server/concord-server-impl@1.47.1?classifier=sources
+- pkg:maven/com.walmartlabs.concord.server/concord-server-impl@1.47.2?classifier=sources
+- pkg:maven/com.walmartlabs.concord.server/concord-server-impl@1.48.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.server/concord-server-impl@1.48.1?classifier=sources
+- pkg:maven/com.walmartlabs.concord.server/concord-server-impl@1.49.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.server/concord-server-impl@1.50.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.server/concord-server-impl@1.50.1?classifier=sources

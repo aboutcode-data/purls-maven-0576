@@ -2,3 +2,7 @@
 - pkg:maven/com.js-lib/wood@1.0.0-alpha?classifier=sources
 - pkg:maven/com.js-lib/wood@1.0.1-alpha
 - pkg:maven/com.js-lib/wood@1.0.1-alpha?classifier=sources
+- pkg:maven/com.js-lib/wood@1.0.2-alpha
+- pkg:maven/com.js-lib/wood@1.0.2-alpha?classifier=sources
+- pkg:maven/com.js-lib/wood@1.0.3-alpha
+- pkg:maven/com.js-lib/wood@1.0.3-alpha?classifier=sources

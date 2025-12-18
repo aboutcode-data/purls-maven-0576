@@ -1,1 +1,4 @@
 - pkg:maven/org.librarysimplified/org.librarysimplified.tests.sandbox@4.0.0?classifier=sources
+- pkg:maven/org.librarysimplified/org.librarysimplified.tests.sandbox@5.0.0?classifier=sources
+- pkg:maven/org.librarysimplified/org.librarysimplified.tests.sandbox@5.1.0?classifier=sources
+- pkg:maven/org.librarysimplified/org.librarysimplified.tests.sandbox@5.1.1?classifier=sources

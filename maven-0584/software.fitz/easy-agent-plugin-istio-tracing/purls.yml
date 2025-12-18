@@ -1,0 +1,2 @@
+- pkg:maven/software.fitz/easy-agent-plugin-istio-tracing@0.4.0-RELEASE
+- pkg:maven/software.fitz/easy-agent-plugin-istio-tracing@0.4.0-RELEASE?classifier=sources

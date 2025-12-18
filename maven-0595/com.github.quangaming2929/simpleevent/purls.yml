@@ -1,0 +1,2 @@
+- pkg:maven/com.github.quangaming2929/simpleevent@1.0
+- pkg:maven/com.github.quangaming2929/simpleevent@1.0?classifier=sources

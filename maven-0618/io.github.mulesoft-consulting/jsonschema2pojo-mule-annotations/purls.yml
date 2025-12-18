@@ -1,0 +1,2 @@
+- pkg:maven/io.github.mulesoft-consulting/jsonschema2pojo-mule-annotations@1.2.0
+- pkg:maven/io.github.mulesoft-consulting/jsonschema2pojo-mule-annotations@1.2.0?classifier=sources

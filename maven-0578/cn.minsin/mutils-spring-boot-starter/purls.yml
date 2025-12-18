@@ -70,3 +70,7 @@
 - pkg:maven/cn.minsin/mutils-spring-boot-starter@0.3.6?classifier=sources
 - pkg:maven/cn.minsin/mutils-spring-boot-starter@0.3.7
 - pkg:maven/cn.minsin/mutils-spring-boot-starter@0.3.7?classifier=sources
+- pkg:maven/cn.minsin/mutils-spring-boot-starter@0.4.0.RELEASE
+- pkg:maven/cn.minsin/mutils-spring-boot-starter@0.4.0.RELEASE?classifier=sources
+- pkg:maven/cn.minsin/mutils-spring-boot-starter@0.4.1.RELEASE
+- pkg:maven/cn.minsin/mutils-spring-boot-starter@0.4.1.RELEASE?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.bidib.net.sf.launch4j/launch4j@3.13
+- pkg:maven/org.bidib.net.sf.launch4j/launch4j@3.13.4
+- pkg:maven/org.bidib.net.sf.launch4j/launch4j@3.13.4?classifier=sources
 - pkg:maven/org.bidib.net.sf.launch4j/launch4j@3.13?classifier=sources

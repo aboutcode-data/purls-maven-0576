@@ -16,3 +16,5 @@
 - pkg:maven/de.mhus.cherry.reactive/reactive-dev@6.3.0?classifier=sources
 - pkg:maven/de.mhus.cherry.reactive/reactive-dev@7.0.0
 - pkg:maven/de.mhus.cherry.reactive/reactive-dev@7.0.0?classifier=sources
+- pkg:maven/de.mhus.cherry.reactive/reactive-dev@7.1.0
+- pkg:maven/de.mhus.cherry.reactive/reactive-dev@7.1.0?classifier=sources

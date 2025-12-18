@@ -1,0 +1,6 @@
+- pkg:maven/info.schnatterer.moby-names-generator/moby-names-generator-processor@19.03.6-r0
+- pkg:maven/info.schnatterer.moby-names-generator/moby-names-generator-processor@19.03.6-r0?classifier=sources
+- pkg:maven/info.schnatterer.moby-names-generator/moby-names-generator-processor@19.03.6-r1
+- pkg:maven/info.schnatterer.moby-names-generator/moby-names-generator-processor@19.03.6-r1?classifier=sources
+- pkg:maven/info.schnatterer.moby-names-generator/moby-names-generator-processor@19.03.8-r0
+- pkg:maven/info.schnatterer.moby-names-generator/moby-names-generator-processor@19.03.8-r0?classifier=sources

@@ -13,3 +13,8 @@
 - pkg:maven/org.wso2.carbon.multitenancy/org.wso2.carbon.tenant.usage.agent.feature@4.7.12?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.multitenancy/org.wso2.carbon.tenant.usage.agent.feature@4.7.16?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.multitenancy/org.wso2.carbon.tenant.usage.agent.feature@4.8.1?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.multitenancy/org.wso2.carbon.tenant.usage.agent.feature@4.8.2?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.multitenancy/org.wso2.carbon.tenant.usage.agent.feature@4.8.3?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.multitenancy/org.wso2.carbon.tenant.usage.agent.feature@4.8.4?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.multitenancy/org.wso2.carbon.tenant.usage.agent.feature@4.8.5?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.multitenancy/org.wso2.carbon.tenant.usage.agent.feature@4.8.6?classifier=source-release&type=zip

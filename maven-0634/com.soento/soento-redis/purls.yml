@@ -16,6 +16,12 @@
 - pkg:maven/com.soento/soento-redis@1.1.0-RELEASE?classifier=sources
 - pkg:maven/com.soento/soento-redis@1.1.1-RELEASE
 - pkg:maven/com.soento/soento-redis@1.1.1-RELEASE?classifier=sources
+- pkg:maven/com.soento/soento-redis@1.1.10-RELEASE
+- pkg:maven/com.soento/soento-redis@1.1.10-RELEASE?classifier=sources
+- pkg:maven/com.soento/soento-redis@1.1.11-RELEASE
+- pkg:maven/com.soento/soento-redis@1.1.11-RELEASE?classifier=sources
+- pkg:maven/com.soento/soento-redis@1.1.13-RELEASE
+- pkg:maven/com.soento/soento-redis@1.1.13-RELEASE?classifier=sources
 - pkg:maven/com.soento/soento-redis@1.1.2-RELEASE
 - pkg:maven/com.soento/soento-redis@1.1.2-RELEASE?classifier=sources
 - pkg:maven/com.soento/soento-redis@1.1.4-RELEASE
@@ -24,3 +30,5 @@
 - pkg:maven/com.soento/soento-redis@1.1.5-RELEASE?classifier=sources
 - pkg:maven/com.soento/soento-redis@1.1.7-RELEASE
 - pkg:maven/com.soento/soento-redis@1.1.7-RELEASE?classifier=sources
+- pkg:maven/com.soento/soento-redis@1.1.8-RELEASE
+- pkg:maven/com.soento/soento-redis@1.1.8-RELEASE?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.commonjava.honeycomb.beeline/beeline-core@1.0.9.commonjava-1
+- pkg:maven/org.commonjava.honeycomb.beeline/beeline-core@1.0.9.commonjava-1?classifier=sources

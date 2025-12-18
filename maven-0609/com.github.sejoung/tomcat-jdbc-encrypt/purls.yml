@@ -10,3 +10,5 @@
 - pkg:maven/com.github.sejoung/tomcat-jdbc-encrypt@1.4?classifier=sources
 - pkg:maven/com.github.sejoung/tomcat-jdbc-encrypt@1.5
 - pkg:maven/com.github.sejoung/tomcat-jdbc-encrypt@1.5?classifier=sources
+- pkg:maven/com.github.sejoung/tomcat-jdbc-encrypt@1.6
+- pkg:maven/com.github.sejoung/tomcat-jdbc-encrypt@1.6?classifier=sources

@@ -6,3 +6,4 @@
 - pkg:maven/com.github.satoshun.coroutine.autodispose/autodispose@0.2.0?type=aar
 - pkg:maven/com.github.satoshun.coroutine.autodispose/autodispose@0.3.0?classifier=sources
 - pkg:maven/com.github.satoshun.coroutine.autodispose/autodispose@0.3.0?type=aar
+- pkg:maven/com.github.satoshun.coroutine.autodispose/autodispose@0.3.1?classifier=sources

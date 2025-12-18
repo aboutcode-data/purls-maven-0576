@@ -1,1 +1,2 @@
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-serialization-runtime-iosarm32@0.14.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-serialization-runtime-iosarm32@0.20.0?classifier=sources

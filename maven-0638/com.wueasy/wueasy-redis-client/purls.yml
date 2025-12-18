@@ -42,6 +42,8 @@
 - pkg:maven/com.wueasy/wueasy-redis-client@2.3.6?classifier=sources
 - pkg:maven/com.wueasy/wueasy-redis-client@2.3.7
 - pkg:maven/com.wueasy/wueasy-redis-client@2.3.7?classifier=sources
+- pkg:maven/com.wueasy/wueasy-redis-client@2.3.8
+- pkg:maven/com.wueasy/wueasy-redis-client@2.3.8?classifier=sources
 - pkg:maven/com.wueasy/wueasy-redis-client@3.0.0
 - pkg:maven/com.wueasy/wueasy-redis-client@3.0.0?classifier=sources
 - pkg:maven/com.wueasy/wueasy-redis-client@3.0.1

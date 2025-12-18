@@ -88,3 +88,5 @@
 - pkg:maven/com.opitzconsulting.orcas/orcas-dbdoc@7.6.4?classifier=sources
 - pkg:maven/com.opitzconsulting.orcas/orcas-dbdoc@7.7.0
 - pkg:maven/com.opitzconsulting.orcas/orcas-dbdoc@7.7.0?classifier=sources
+- pkg:maven/com.opitzconsulting.orcas/orcas-dbdoc@7.7.1
+- pkg:maven/com.opitzconsulting.orcas/orcas-dbdoc@7.7.1?classifier=sources

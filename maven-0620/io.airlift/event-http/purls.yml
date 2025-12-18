@@ -1,0 +1,10 @@
+- pkg:maven/io.airlift/event-http@0.193
+- pkg:maven/io.airlift/event-http@0.193?classifier=sources
+- pkg:maven/io.airlift/event-http@0.194
+- pkg:maven/io.airlift/event-http@0.194?classifier=sources
+- pkg:maven/io.airlift/event-http@0.195
+- pkg:maven/io.airlift/event-http@0.195?classifier=sources
+- pkg:maven/io.airlift/event-http@0.196
+- pkg:maven/io.airlift/event-http@0.196?classifier=sources
+- pkg:maven/io.airlift/event-http@0.197
+- pkg:maven/io.airlift/event-http@0.197?classifier=sources

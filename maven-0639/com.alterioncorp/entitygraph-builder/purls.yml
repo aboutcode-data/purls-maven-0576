@@ -1,0 +1,2 @@
+- pkg:maven/com.alterioncorp/entitygraph-builder@1.2
+- pkg:maven/com.alterioncorp/entitygraph-builder@1.2?classifier=sources

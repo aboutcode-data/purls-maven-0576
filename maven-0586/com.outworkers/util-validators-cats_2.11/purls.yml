@@ -56,3 +56,5 @@
 - pkg:maven/com.outworkers/util-validators-cats_2.11@0.55.0?classifier=sources
 - pkg:maven/com.outworkers/util-validators-cats_2.11@0.56.0
 - pkg:maven/com.outworkers/util-validators-cats_2.11@0.56.0?classifier=sources
+- pkg:maven/com.outworkers/util-validators-cats_2.11@0.57.0
+- pkg:maven/com.outworkers/util-validators-cats_2.11@0.57.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.github.alexandertang/frontend-plugin-core@1.9.1-failsafe
+- pkg:maven/io.github.alexandertang/frontend-plugin-core@1.9.1-failsafe?classifier=sources
+- pkg:maven/io.github.alexandertang/frontend-plugin-core@1.9.2-failsafe
+- pkg:maven/io.github.alexandertang/frontend-plugin-core@1.9.2-failsafe?classifier=sources

@@ -4,6 +4,8 @@
 - pkg:maven/com.tetsuwan-tech.atom/atom@2.0.14.RELEASE?classifier=sources
 - pkg:maven/com.tetsuwan-tech.atom/atom@2.0.15.RELEASE
 - pkg:maven/com.tetsuwan-tech.atom/atom@2.0.15.RELEASE?classifier=sources
+- pkg:maven/com.tetsuwan-tech.atom/atom@2.1..5.RELEASE
+- pkg:maven/com.tetsuwan-tech.atom/atom@2.1..5.RELEASE?classifier=sources
 - pkg:maven/com.tetsuwan-tech.atom/atom@2.1.0.RELEASE
 - pkg:maven/com.tetsuwan-tech.atom/atom@2.1.0.RELEASE?classifier=sources
 - pkg:maven/com.tetsuwan-tech.atom/atom@2.1.1.RELEASE
@@ -14,3 +16,9 @@
 - pkg:maven/com.tetsuwan-tech.atom/atom@2.1.3.RELEASE?classifier=sources
 - pkg:maven/com.tetsuwan-tech.atom/atom@2.1.4.RELEASE
 - pkg:maven/com.tetsuwan-tech.atom/atom@2.1.4.RELEASE?classifier=sources
+- pkg:maven/com.tetsuwan-tech.atom/atom@2.1.6.RELEASE
+- pkg:maven/com.tetsuwan-tech.atom/atom@2.1.6.RELEASE?classifier=sources
+- pkg:maven/com.tetsuwan-tech.atom/atom@2.1.7.RELEASE
+- pkg:maven/com.tetsuwan-tech.atom/atom@2.1.7.RELEASE?classifier=sources
+- pkg:maven/com.tetsuwan-tech.atom/atom@2.1.8.RELEASE
+- pkg:maven/com.tetsuwan-tech.atom/atom@2.1.8.RELEASE?classifier=sources

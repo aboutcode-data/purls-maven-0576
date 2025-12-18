@@ -1,0 +1,2 @@
+- pkg:maven/com.github.emm035/openapi-immutables@1.0.0
+- pkg:maven/com.github.emm035/openapi-immutables@1.0.0?classifier=sources

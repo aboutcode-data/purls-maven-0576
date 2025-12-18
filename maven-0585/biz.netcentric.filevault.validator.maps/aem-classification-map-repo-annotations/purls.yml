@@ -1,0 +1,4 @@
+- pkg:maven/biz.netcentric.filevault.validator.maps/aem-classification-map-repo-annotations@2020.3.2483
+- pkg:maven/biz.netcentric.filevault.validator.maps/aem-classification-map-repo-annotations@2020.3.2483?classifier=sources
+- pkg:maven/biz.netcentric.filevault.validator.maps/aem-classification-map-repo-annotations@6.5.3.0
+- pkg:maven/biz.netcentric.filevault.validator.maps/aem-classification-map-repo-annotations@6.5.3.0?classifier=sources

@@ -22,3 +22,5 @@
 - pkg:maven/com.jashmore/java-dynamic-sqs-listener-spring-starter@3.0.0-M3
 - pkg:maven/com.jashmore/java-dynamic-sqs-listener-spring-starter@3.0.0-M3?classifier=sources
 - pkg:maven/com.jashmore/java-dynamic-sqs-listener-spring-starter@3.0.0?classifier=sources
+- pkg:maven/com.jashmore/java-dynamic-sqs-listener-spring-starter@3.1.0
+- pkg:maven/com.jashmore/java-dynamic-sqs-listener-spring-starter@3.1.0?classifier=sources

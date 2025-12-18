@@ -8,3 +8,7 @@
 - pkg:maven/com.github.kpavlov.jreactive8583/netty-iso8583@0.2.3?classifier=sources
 - pkg:maven/com.github.kpavlov.jreactive8583/netty-iso8583@0.2.4
 - pkg:maven/com.github.kpavlov.jreactive8583/netty-iso8583@0.2.4?classifier=sources
+- pkg:maven/com.github.kpavlov.jreactive8583/netty-iso8583@1.0.0
+- pkg:maven/com.github.kpavlov.jreactive8583/netty-iso8583@1.0.0?classifier=sources
+- pkg:maven/com.github.kpavlov.jreactive8583/netty-iso8583@1.0.1
+- pkg:maven/com.github.kpavlov.jreactive8583/netty-iso8583@1.0.1?classifier=sources

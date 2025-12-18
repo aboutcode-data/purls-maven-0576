@@ -1,0 +1,2 @@
+- pkg:maven/com.github.mercurievv/lambdahttp4s_2.12@1.0.10
+- pkg:maven/com.github.mercurievv/lambdahttp4s_2.12@1.0.10?classifier=sources

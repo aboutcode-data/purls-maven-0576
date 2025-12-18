@@ -54,3 +54,15 @@
 - pkg:maven/com.signalfx.public/signalfx-trace-api@0.36.0-sfx2?classifier=sources
 - pkg:maven/com.signalfx.public/signalfx-trace-api@0.36.0-sfx3
 - pkg:maven/com.signalfx.public/signalfx-trace-api@0.36.0-sfx3?classifier=sources
+- pkg:maven/com.signalfx.public/signalfx-trace-api@0.36.0-sfx4
+- pkg:maven/com.signalfx.public/signalfx-trace-api@0.36.0-sfx4?classifier=sources
+- pkg:maven/com.signalfx.public/signalfx-trace-api@0.36.0-sfx5
+- pkg:maven/com.signalfx.public/signalfx-trace-api@0.36.0-sfx5?classifier=sources
+- pkg:maven/com.signalfx.public/signalfx-trace-api@0.36.0-sfx6
+- pkg:maven/com.signalfx.public/signalfx-trace-api@0.36.0-sfx6?classifier=sources
+- pkg:maven/com.signalfx.public/signalfx-trace-api@0.36.0-sfx7
+- pkg:maven/com.signalfx.public/signalfx-trace-api@0.36.0-sfx7?classifier=sources
+- pkg:maven/com.signalfx.public/signalfx-trace-api@0.36.0-sfx8
+- pkg:maven/com.signalfx.public/signalfx-trace-api@0.36.0-sfx8?classifier=sources
+- pkg:maven/com.signalfx.public/signalfx-trace-api@0.36.0-sfx9
+- pkg:maven/com.signalfx.public/signalfx-trace-api@0.36.0-sfx9?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/org.bsc.util/processor-utils@1.0.0
 - pkg:maven/org.bsc.util/processor-utils@1.0.0?classifier=sources
+- pkg:maven/org.bsc.util/processor-utils@4.0-beta1
+- pkg:maven/org.bsc.util/processor-utils@4.0-beta1?classifier=sources
+- pkg:maven/org.bsc.util/processor-utils@4.0-rc1
+- pkg:maven/org.bsc.util/processor-utils@4.0-rc1?classifier=sources

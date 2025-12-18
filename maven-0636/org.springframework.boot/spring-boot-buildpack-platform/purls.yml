@@ -1,0 +1,1 @@
+- pkg:maven/org.springframework.boot/spring-boot-buildpack-platform@2.3.0.RELEASE?classifier=sources

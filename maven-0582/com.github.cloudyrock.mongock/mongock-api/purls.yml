@@ -1,0 +1,6 @@
+- pkg:maven/com.github.cloudyrock.mongock/mongock-api@4.0.0.alpha
+- pkg:maven/com.github.cloudyrock.mongock/mongock-api@4.0.0.alpha?classifier=sources
+- pkg:maven/com.github.cloudyrock.mongock/mongock-api@4.0.1.alpha
+- pkg:maven/com.github.cloudyrock.mongock/mongock-api@4.0.1.alpha?classifier=sources
+- pkg:maven/com.github.cloudyrock.mongock/mongock-api@4.0.2.alpha
+- pkg:maven/com.github.cloudyrock.mongock/mongock-api@4.0.2.alpha?classifier=sources

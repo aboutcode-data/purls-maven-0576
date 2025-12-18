@@ -1,0 +1,2 @@
+- pkg:maven/cn.charoncloud.plugin.maven/spring-cloud-maven-plugin@5.1.1
+- pkg:maven/cn.charoncloud.plugin.maven/spring-cloud-maven-plugin@5.1.1?classifier=sources

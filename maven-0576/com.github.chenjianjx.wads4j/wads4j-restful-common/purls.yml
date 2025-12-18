@@ -1,0 +1,4 @@
+- pkg:maven/com.github.chenjianjx.wads4j/wads4j-restful-common@1.0.0
+- pkg:maven/com.github.chenjianjx.wads4j/wads4j-restful-common@1.0.0?classifier=sources
+- pkg:maven/com.github.chenjianjx.wads4j/wads4j-restful-common@1.1.0
+- pkg:maven/com.github.chenjianjx.wads4j/wads4j-restful-common@1.1.0?classifier=sources

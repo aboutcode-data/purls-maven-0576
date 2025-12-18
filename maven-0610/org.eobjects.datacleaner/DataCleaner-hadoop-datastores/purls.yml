@@ -1,2 +1,3 @@
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-hadoop-datastores@5.7.0
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-hadoop-datastores@5.7.0?classifier=sources
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-hadoop-datastores@5.7.1

@@ -3,6 +3,10 @@
 - pkg:maven/net.sf.aguacate.swagger/aguacate-swagger@0.0.8?type=war
 - pkg:maven/net.sf.aguacate.swagger/aguacate-swagger@0.1.0?type=war
 - pkg:maven/net.sf.aguacate.swagger/aguacate-swagger@0.1.10?type=war
+- pkg:maven/net.sf.aguacate.swagger/aguacate-swagger@0.1.11?type=war
+- pkg:maven/net.sf.aguacate.swagger/aguacate-swagger@0.1.12?type=war
+- pkg:maven/net.sf.aguacate.swagger/aguacate-swagger@0.1.13?type=war
+- pkg:maven/net.sf.aguacate.swagger/aguacate-swagger@0.1.14?type=war
 - pkg:maven/net.sf.aguacate.swagger/aguacate-swagger@0.1.1?type=war
 - pkg:maven/net.sf.aguacate.swagger/aguacate-swagger@0.1.2?type=war
 - pkg:maven/net.sf.aguacate.swagger/aguacate-swagger@0.1.4?type=war

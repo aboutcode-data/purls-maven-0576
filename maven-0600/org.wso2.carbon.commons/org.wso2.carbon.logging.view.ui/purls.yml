@@ -265,3 +265,15 @@
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.logging.view.ui@4.6.9
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.logging.view.ui@4.6.9?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.logging.view.ui@4.6.9?classifier=sources
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.logging.view.ui@4.7.28
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.logging.view.ui@4.7.28?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.logging.view.ui@4.7.28?classifier=sources
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.logging.view.ui@4.7.29
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.logging.view.ui@4.7.29?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.logging.view.ui@4.7.29?classifier=sources
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.logging.view.ui@4.7.30
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.logging.view.ui@4.7.30?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.logging.view.ui@4.7.30?classifier=sources
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.logging.view.ui@4.7.31
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.logging.view.ui@4.7.31?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.logging.view.ui@4.7.31?classifier=sources

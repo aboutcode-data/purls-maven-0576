@@ -1,0 +1,6 @@
+- pkg:maven/com.exasol/exasol-virtual-schema@1.0.0
+- pkg:maven/com.exasol/exasol-virtual-schema@1.0.0?classifier=sources
+- pkg:maven/com.exasol/exasol-virtual-schema@2.0.0
+- pkg:maven/com.exasol/exasol-virtual-schema@2.0.0?classifier=sources
+- pkg:maven/com.exasol/exasol-virtual-schema@3.0.0
+- pkg:maven/com.exasol/exasol-virtual-schema@3.0.0?classifier=sources

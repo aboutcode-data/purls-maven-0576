@@ -30,3 +30,5 @@
 - pkg:maven/de.wicketbuch.extensions/appendablerepeater@1.4.1.wicket6?classifier=sources
 - pkg:maven/de.wicketbuch.extensions/appendablerepeater@1.4.1.wicket7
 - pkg:maven/de.wicketbuch.extensions/appendablerepeater@1.4.1.wicket7?classifier=sources
+- pkg:maven/de.wicketbuch.extensions/appendablerepeater@1.5.0.wicket7
+- pkg:maven/de.wicketbuch.extensions/appendablerepeater@1.5.0.wicket7?classifier=sources

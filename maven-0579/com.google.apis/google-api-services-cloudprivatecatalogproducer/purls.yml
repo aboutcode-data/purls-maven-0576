@@ -134,6 +134,8 @@
 - pkg:maven/com.google.apis/google-api-services-cloudprivatecatalogproducer@v1beta1-rev20200120-1.30.8?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudprivatecatalogproducer@v1beta1-rev20200210-1.30.8
 - pkg:maven/com.google.apis/google-api-services-cloudprivatecatalogproducer@v1beta1-rev20200210-1.30.8?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudprivatecatalogproducer@v1beta1-rev20200210-1.30.9
+- pkg:maven/com.google.apis/google-api-services-cloudprivatecatalogproducer@v1beta1-rev20200210-1.30.9?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudprivatecatalogproducer@v1beta1-rev3-1.22.0
 - pkg:maven/com.google.apis/google-api-services-cloudprivatecatalogproducer@v1beta1-rev3-1.22.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudprivatecatalogproducer@v1beta1-rev32-1.18.0-rc
@@ -156,6 +158,18 @@
 - pkg:maven/com.google.apis/google-api-services-cloudprivatecatalogproducer@v1beta1-rev36-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudprivatecatalogproducer@v1beta1-rev36-1.25.0
 - pkg:maven/com.google.apis/google-api-services-cloudprivatecatalogproducer@v1beta1-rev36-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudprivatecatalogproducer@v1beta1-rev37-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-cloudprivatecatalogproducer@v1beta1-rev37-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudprivatecatalogproducer@v1beta1-rev37-1.25.0
+- pkg:maven/com.google.apis/google-api-services-cloudprivatecatalogproducer@v1beta1-rev37-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudprivatecatalogproducer@v1beta1-rev38-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-cloudprivatecatalogproducer@v1beta1-rev38-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudprivatecatalogproducer@v1beta1-rev38-1.25.0
+- pkg:maven/com.google.apis/google-api-services-cloudprivatecatalogproducer@v1beta1-rev38-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudprivatecatalogproducer@v1beta1-rev39-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-cloudprivatecatalogproducer@v1beta1-rev39-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudprivatecatalogproducer@v1beta1-rev39-1.25.0
+- pkg:maven/com.google.apis/google-api-services-cloudprivatecatalogproducer@v1beta1-rev39-1.25.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudprivatecatalogproducer@v1beta1-rev4-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-cloudprivatecatalogproducer@v1beta1-rev4-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudprivatecatalogproducer@v1beta1-rev4-1.22.0

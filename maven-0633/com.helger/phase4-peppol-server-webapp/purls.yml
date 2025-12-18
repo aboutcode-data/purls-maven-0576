@@ -1,4 +1,16 @@
 - pkg:maven/com.helger/phase4-peppol-server-webapp@0.9.10?classifier=sources
 - pkg:maven/com.helger/phase4-peppol-server-webapp@0.9.10?type=war
+- pkg:maven/com.helger/phase4-peppol-server-webapp@0.9.11?classifier=sources
+- pkg:maven/com.helger/phase4-peppol-server-webapp@0.9.11?type=war
+- pkg:maven/com.helger/phase4-peppol-server-webapp@0.9.12?classifier=sources
+- pkg:maven/com.helger/phase4-peppol-server-webapp@0.9.12?type=war
+- pkg:maven/com.helger/phase4-peppol-server-webapp@0.9.13?classifier=sources
+- pkg:maven/com.helger/phase4-peppol-server-webapp@0.9.13?type=war
+- pkg:maven/com.helger/phase4-peppol-server-webapp@0.9.14?classifier=sources
+- pkg:maven/com.helger/phase4-peppol-server-webapp@0.9.14?type=war
+- pkg:maven/com.helger/phase4-peppol-server-webapp@0.9.15?classifier=sources
+- pkg:maven/com.helger/phase4-peppol-server-webapp@0.9.15?type=war
+- pkg:maven/com.helger/phase4-peppol-server-webapp@0.9.16?classifier=sources
+- pkg:maven/com.helger/phase4-peppol-server-webapp@0.9.16?type=war
 - pkg:maven/com.helger/phase4-peppol-server-webapp@0.9.9?classifier=sources
 - pkg:maven/com.helger/phase4-peppol-server-webapp@0.9.9?type=war

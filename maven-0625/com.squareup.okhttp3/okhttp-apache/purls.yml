@@ -19,6 +19,10 @@
 - pkg:maven/com.squareup.okhttp3/okhttp-apache@3.12.1
 - pkg:maven/com.squareup.okhttp3/okhttp-apache@3.12.10
 - pkg:maven/com.squareup.okhttp3/okhttp-apache@3.12.10?classifier=sources
+- pkg:maven/com.squareup.okhttp3/okhttp-apache@3.12.11
+- pkg:maven/com.squareup.okhttp3/okhttp-apache@3.12.11?classifier=sources
+- pkg:maven/com.squareup.okhttp3/okhttp-apache@3.12.12
+- pkg:maven/com.squareup.okhttp3/okhttp-apache@3.12.12?classifier=sources
 - pkg:maven/com.squareup.okhttp3/okhttp-apache@3.12.1?classifier=sources
 - pkg:maven/com.squareup.okhttp3/okhttp-apache@3.12.2
 - pkg:maven/com.squareup.okhttp3/okhttp-apache@3.12.2?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/com.github.ofmooseandmen/halo@1.0.0
+- pkg:maven/com.github.ofmooseandmen/halo@1.0.0?classifier=sources
 - pkg:maven/com.github.ofmooseandmen/halo@2018.02
 - pkg:maven/com.github.ofmooseandmen/halo@2018.02.1
 - pkg:maven/com.github.ofmooseandmen/halo@2018.02.1?classifier=sources
@@ -12,3 +14,4 @@
 - pkg:maven/com.github.ofmooseandmen/halo@2018.03.1
 - pkg:maven/com.github.ofmooseandmen/halo@2018.03.1?classifier=sources
 - pkg:maven/com.github.ofmooseandmen/halo@2018.03?classifier=sources
+- pkg:maven/com.github.ofmooseandmen/halo@2020.05?classifier=sources

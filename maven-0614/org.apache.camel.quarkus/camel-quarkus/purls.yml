@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus@1.0.0-M6?classifier=src&type=zip
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus@1.0.0-M7?classifier=src&type=zip

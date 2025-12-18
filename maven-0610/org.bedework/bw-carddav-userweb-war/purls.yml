@@ -1,5 +1,7 @@
 - pkg:maven/org.bedework/bw-carddav-userweb-war@1.0.3?type=war
 - pkg:maven/org.bedework/bw-carddav-userweb-war@1.0.4?type=war
+- pkg:maven/org.bedework/bw-carddav-userweb-war@4.0.10.1?type=war
+- pkg:maven/org.bedework/bw-carddav-userweb-war@4.0.10?type=war
 - pkg:maven/org.bedework/bw-carddav-userweb-war@4.0.1?type=war
 - pkg:maven/org.bedework/bw-carddav-userweb-war@4.0.2?type=war
 - pkg:maven/org.bedework/bw-carddav-userweb-war@4.0.3?type=war

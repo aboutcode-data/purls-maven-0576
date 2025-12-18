@@ -1,0 +1,2 @@
+- pkg:maven/com.filez.netmag/ssid@0.98
+- pkg:maven/com.filez.netmag/ssid@0.98?classifier=sources

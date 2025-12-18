@@ -107,6 +107,8 @@
 - pkg:maven/com.graphaware.neo4j/recommendation-engine@3.5.13.55.11?classifier=sources
 - pkg:maven/com.graphaware.neo4j/recommendation-engine@3.5.14.55.11
 - pkg:maven/com.graphaware.neo4j/recommendation-engine@3.5.14.55.11?classifier=sources
+- pkg:maven/com.graphaware.neo4j/recommendation-engine@3.5.14.58.11
+- pkg:maven/com.graphaware.neo4j/recommendation-engine@3.5.14.58.11?classifier=sources
 - pkg:maven/com.graphaware.neo4j/recommendation-engine@3.5.2.53.11
 - pkg:maven/com.graphaware.neo4j/recommendation-engine@3.5.2.53.11?classifier=sources
 - pkg:maven/com.graphaware.neo4j/recommendation-engine@3.5.3.53.11

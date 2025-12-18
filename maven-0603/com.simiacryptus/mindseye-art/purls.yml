@@ -12,3 +12,5 @@
 - pkg:maven/com.simiacryptus/mindseye-art@1.7.2?classifier=sources
 - pkg:maven/com.simiacryptus/mindseye-art@1.8.0
 - pkg:maven/com.simiacryptus/mindseye-art@1.8.0?classifier=sources
+- pkg:maven/com.simiacryptus/mindseye-art@2.0.0
+- pkg:maven/com.simiacryptus/mindseye-art@2.0.0?classifier=sources

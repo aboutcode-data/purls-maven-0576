@@ -20,3 +20,7 @@
 - pkg:maven/com.typesafe.akka/akka-discovery_2.11@2.5.28?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-discovery_2.11@2.5.29
 - pkg:maven/com.typesafe.akka/akka-discovery_2.11@2.5.29?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-discovery_2.11@2.5.30
+- pkg:maven/com.typesafe.akka/akka-discovery_2.11@2.5.30?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-discovery_2.11@2.5.31
+- pkg:maven/com.typesafe.akka/akka-discovery_2.11@2.5.31?classifier=sources

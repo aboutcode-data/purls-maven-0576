@@ -1,0 +1,2 @@
+- pkg:maven/com.harium/webcam-capture-driver-ffmpeg-cli@0.3.12
+- pkg:maven/com.harium/webcam-capture-driver-ffmpeg-cli@0.3.12?classifier=sources

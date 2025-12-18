@@ -50,3 +50,13 @@
 - pkg:maven/org.nightcode.yaranga/yaranga@0.8.3
 - pkg:maven/org.nightcode.yaranga/yaranga@0.8.3?classifier=sources
 - pkg:maven/org.nightcode.yaranga/yaranga@0.8?classifier=sources
+- pkg:maven/org.nightcode.yaranga/yaranga@0.9
+- pkg:maven/org.nightcode.yaranga/yaranga@0.9.1
+- pkg:maven/org.nightcode.yaranga/yaranga@0.9.1?classifier=sources
+- pkg:maven/org.nightcode.yaranga/yaranga@0.9.2
+- pkg:maven/org.nightcode.yaranga/yaranga@0.9.2?classifier=sources
+- pkg:maven/org.nightcode.yaranga/yaranga@0.9.3
+- pkg:maven/org.nightcode.yaranga/yaranga@0.9.3?classifier=sources
+- pkg:maven/org.nightcode.yaranga/yaranga@0.9.4
+- pkg:maven/org.nightcode.yaranga/yaranga@0.9.4?classifier=sources
+- pkg:maven/org.nightcode.yaranga/yaranga@0.9?classifier=sources

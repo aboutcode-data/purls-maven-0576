@@ -1,0 +1,10 @@
+- pkg:maven/net.guerlab.smart.uploader/smart-uploader-web@1.0.0
+- pkg:maven/net.guerlab.smart.uploader/smart-uploader-web@1.0.0?classifier=sources
+- pkg:maven/net.guerlab.smart.uploader/smart-uploader-web@20.0.0
+- pkg:maven/net.guerlab.smart.uploader/smart-uploader-web@20.0.0?classifier=sources
+- pkg:maven/net.guerlab.smart.uploader/smart-uploader-web@20.0.2
+- pkg:maven/net.guerlab.smart.uploader/smart-uploader-web@20.0.2?classifier=sources
+- pkg:maven/net.guerlab.smart.uploader/smart-uploader-web@20.0.3
+- pkg:maven/net.guerlab.smart.uploader/smart-uploader-web@20.0.3?classifier=sources
+- pkg:maven/net.guerlab.smart.uploader/smart-uploader-web@20.1.0
+- pkg:maven/net.guerlab.smart.uploader/smart-uploader-web@20.1.0?classifier=sources

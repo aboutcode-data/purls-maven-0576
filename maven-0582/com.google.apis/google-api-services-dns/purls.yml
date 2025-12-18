@@ -212,6 +212,8 @@
 - pkg:maven/com.google.apis/google-api-services-dns@v1-rev20191205-1.30.3?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dns@v1-rev20191205-1.30.8
 - pkg:maven/com.google.apis/google-api-services-dns@v1-rev20191205-1.30.8?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-dns@v1-rev20191205-1.30.9
+- pkg:maven/com.google.apis/google-api-services-dns@v1-rev20191205-1.30.9?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dns@v1-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-dns@v1-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dns@v1-rev21-1.20.0
@@ -1174,6 +1176,8 @@
 - pkg:maven/com.google.apis/google-api-services-dns@v1beta2-rev20191029-1.30.3?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dns@v1beta2-rev20191029-1.30.8
 - pkg:maven/com.google.apis/google-api-services-dns@v1beta2-rev20191029-1.30.8?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-dns@v1beta2-rev20191029-1.30.9
+- pkg:maven/com.google.apis/google-api-services-dns@v1beta2-rev20191029-1.30.9?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dns@v1beta2-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-dns@v1beta2-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dns@v1beta2-rev21-1.21.0
@@ -1628,6 +1632,8 @@
 - pkg:maven/com.google.apis/google-api-services-dns@v2beta1-rev20191205-1.30.3?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dns@v2beta1-rev20191205-1.30.8
 - pkg:maven/com.google.apis/google-api-services-dns@v2beta1-rev20191205-1.30.8?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-dns@v2beta1-rev20191205-1.30.9
+- pkg:maven/com.google.apis/google-api-services-dns@v2beta1-rev20191205-1.30.9?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dns@v2beta1-rev22-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-dns@v2beta1-rev22-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dns@v2beta1-rev22-1.20.0

@@ -22,3 +22,7 @@
 - pkg:maven/org.infrastructurebuilder/ibcore-files@0.15.1?classifier=sources
 - pkg:maven/org.infrastructurebuilder/ibcore-files@0.16.0
 - pkg:maven/org.infrastructurebuilder/ibcore-files@0.16.0?classifier=sources
+- pkg:maven/org.infrastructurebuilder/ibcore-files@0.17.0
+- pkg:maven/org.infrastructurebuilder/ibcore-files@0.17.0?classifier=sources
+- pkg:maven/org.infrastructurebuilder/ibcore-files@0.17.1
+- pkg:maven/org.infrastructurebuilder/ibcore-files@0.17.1?classifier=sources

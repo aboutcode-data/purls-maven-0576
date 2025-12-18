@@ -6,6 +6,8 @@
 - pkg:maven/org.webjars.npm/react-hot-loader@4.12.15?classifier=sources
 - pkg:maven/org.webjars.npm/react-hot-loader@4.12.18
 - pkg:maven/org.webjars.npm/react-hot-loader@4.12.18?classifier=sources
+- pkg:maven/org.webjars.npm/react-hot-loader@4.12.20
+- pkg:maven/org.webjars.npm/react-hot-loader@4.12.20?classifier=sources
 - pkg:maven/org.webjars.npm/react-hot-loader@4.2.0
 - pkg:maven/org.webjars.npm/react-hot-loader@4.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/react-hot-loader@4.3.6

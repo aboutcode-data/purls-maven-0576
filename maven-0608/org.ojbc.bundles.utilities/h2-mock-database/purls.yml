@@ -6,3 +6,5 @@
 - pkg:maven/org.ojbc.bundles.utilities/h2-mock-database@2.0.2?classifier=sources
 - pkg:maven/org.ojbc.bundles.utilities/h2-mock-database@2.0.3
 - pkg:maven/org.ojbc.bundles.utilities/h2-mock-database@2.0.3?classifier=sources
+- pkg:maven/org.ojbc.bundles.utilities/h2-mock-database@2.0.7
+- pkg:maven/org.ojbc.bundles.utilities/h2-mock-database@2.0.7?classifier=sources

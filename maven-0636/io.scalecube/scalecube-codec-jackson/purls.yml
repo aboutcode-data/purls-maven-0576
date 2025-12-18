@@ -14,3 +14,7 @@
 - pkg:maven/io.scalecube/scalecube-codec-jackson@2.4.10-RC9
 - pkg:maven/io.scalecube/scalecube-codec-jackson@2.4.10-RC9?classifier=sources
 - pkg:maven/io.scalecube/scalecube-codec-jackson@2.4.10?classifier=sources
+- pkg:maven/io.scalecube/scalecube-codec-jackson@2.4.11
+- pkg:maven/io.scalecube/scalecube-codec-jackson@2.4.11-RC2
+- pkg:maven/io.scalecube/scalecube-codec-jackson@2.4.11-RC2?classifier=sources
+- pkg:maven/io.scalecube/scalecube-codec-jackson@2.4.11?classifier=sources

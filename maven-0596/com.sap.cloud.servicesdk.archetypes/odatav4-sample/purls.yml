@@ -47,3 +47,6 @@
 - pkg:maven/com.sap.cloud.servicesdk.archetypes/odatav4-sample@1.37.0?classifier=sources
 - pkg:maven/com.sap.cloud.servicesdk.archetypes/odatav4-sample@1.37.1?classifier=sources
 - pkg:maven/com.sap.cloud.servicesdk.archetypes/odatav4-sample@1.38.0?classifier=sources
+- pkg:maven/com.sap.cloud.servicesdk.archetypes/odatav4-sample@1.39.0?classifier=sources
+- pkg:maven/com.sap.cloud.servicesdk.archetypes/odatav4-sample@1.39.3?classifier=sources
+- pkg:maven/com.sap.cloud.servicesdk.archetypes/odatav4-sample@1.40.0?classifier=sources

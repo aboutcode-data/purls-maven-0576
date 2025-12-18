@@ -206,3 +206,13 @@
 - pkg:maven/org.rundeck/rundeck-storage-conf@3.2.2-20200204?classifier=sources
 - pkg:maven/org.rundeck/rundeck-storage-conf@3.2.3-20200221
 - pkg:maven/org.rundeck/rundeck-storage-conf@3.2.3-20200221?classifier=sources
+- pkg:maven/org.rundeck/rundeck-storage-conf@3.2.4-20200318
+- pkg:maven/org.rundeck/rundeck-storage-conf@3.2.4-20200318?classifier=sources
+- pkg:maven/org.rundeck/rundeck-storage-conf@3.2.5-20200403
+- pkg:maven/org.rundeck/rundeck-storage-conf@3.2.5-20200403?classifier=sources
+- pkg:maven/org.rundeck/rundeck-storage-conf@3.2.6-20200427
+- pkg:maven/org.rundeck/rundeck-storage-conf@3.2.6-20200427?classifier=sources
+- pkg:maven/org.rundeck/rundeck-storage-conf@3.2.7-20200515
+- pkg:maven/org.rundeck/rundeck-storage-conf@3.2.7-20200515?classifier=sources
+- pkg:maven/org.rundeck/rundeck-storage-conf@3.2.7-rc1-20200511
+- pkg:maven/org.rundeck/rundeck-storage-conf@3.2.7-rc1-20200511?classifier=sources

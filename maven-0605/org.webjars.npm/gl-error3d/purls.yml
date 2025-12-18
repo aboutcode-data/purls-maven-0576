@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/gl-error3d@1.0.14?classifier=sources
 - pkg:maven/org.webjars.npm/gl-error3d@1.0.15
 - pkg:maven/org.webjars.npm/gl-error3d@1.0.15?classifier=sources
+- pkg:maven/org.webjars.npm/gl-error3d@1.0.16
+- pkg:maven/org.webjars.npm/gl-error3d@1.0.16?classifier=sources

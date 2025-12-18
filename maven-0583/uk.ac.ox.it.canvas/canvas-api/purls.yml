@@ -1,0 +1,2 @@
+- pkg:maven/uk.ac.ox.it.canvas/canvas-api@1.1.0
+- pkg:maven/uk.ac.ox.it.canvas/canvas-api@1.1.0?classifier=sources

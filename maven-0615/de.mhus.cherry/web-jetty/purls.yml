@@ -6,3 +6,5 @@
 - pkg:maven/de.mhus.cherry/web-jetty@1.6.2?classifier=sources
 - pkg:maven/de.mhus.cherry/web-jetty@6.3.0
 - pkg:maven/de.mhus.cherry/web-jetty@6.3.0?classifier=sources
+- pkg:maven/de.mhus.cherry/web-jetty@7.0.0
+- pkg:maven/de.mhus.cherry/web-jetty@7.0.0?classifier=sources

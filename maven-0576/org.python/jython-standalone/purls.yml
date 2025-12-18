@@ -36,7 +36,11 @@
 - pkg:maven/org.python/jython-standalone@2.7.1b2?classifier=sources
 - pkg:maven/org.python/jython-standalone@2.7.1b3
 - pkg:maven/org.python/jython-standalone@2.7.1b3?classifier=sources
+- pkg:maven/org.python/jython-standalone@2.7.2
+- pkg:maven/org.python/jython-standalone@2.7.2?classifier=sources
 - pkg:maven/org.python/jython-standalone@2.7.2b2
 - pkg:maven/org.python/jython-standalone@2.7.2b2?classifier=sources
 - pkg:maven/org.python/jython-standalone@2.7.2b3
 - pkg:maven/org.python/jython-standalone@2.7.2b3?classifier=sources
+- pkg:maven/org.python/jython-standalone@2.7.2rc1
+- pkg:maven/org.python/jython-standalone@2.7.2rc1?classifier=sources

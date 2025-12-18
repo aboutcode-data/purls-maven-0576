@@ -10,3 +10,4 @@
 - pkg:maven/org.xbib/net-url@1.3.4?classifier=sources
 - pkg:maven/org.xbib/net-url@2.0.3
 - pkg:maven/org.xbib/net-url@2.0.3?classifier=sources
+- pkg:maven/org.xbib/net-url@2.0.4?classifier=sources

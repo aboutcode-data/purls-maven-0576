@@ -13,6 +13,8 @@
 - pkg:maven/io.dinject/javalin-generator@1.14?classifier=sources
 - pkg:maven/io.dinject/javalin-generator@1.15
 - pkg:maven/io.dinject/javalin-generator@1.15?classifier=sources
+- pkg:maven/io.dinject/javalin-generator@1.16
+- pkg:maven/io.dinject/javalin-generator@1.16?classifier=sources
 - pkg:maven/io.dinject/javalin-generator@1.1?classifier=sources
 - pkg:maven/io.dinject/javalin-generator@1.2
 - pkg:maven/io.dinject/javalin-generator@1.2?classifier=sources

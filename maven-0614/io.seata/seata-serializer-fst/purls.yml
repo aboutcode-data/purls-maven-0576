@@ -1,0 +1,2 @@
+- pkg:maven/io.seata/seata-serializer-fst@1.2.0
+- pkg:maven/io.seata/seata-serializer-fst@1.2.0?classifier=sources

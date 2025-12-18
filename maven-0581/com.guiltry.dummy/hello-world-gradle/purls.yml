@@ -1,0 +1,2 @@
+- pkg:maven/com.guiltry.dummy/hello-world-gradle@1.0.0
+- pkg:maven/com.guiltry.dummy/hello-world-gradle@1.0.0?classifier=sources

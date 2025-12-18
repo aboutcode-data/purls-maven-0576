@@ -1,0 +1,2 @@
+- pkg:maven/eu.woolplatform/wool-core@2.0.0?classifier=sources
+- pkg:maven/eu.woolplatform/wool-core@2.1.0?classifier=sources

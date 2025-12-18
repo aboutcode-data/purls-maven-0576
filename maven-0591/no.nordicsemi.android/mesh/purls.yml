@@ -1,0 +1,2 @@
+- pkg:maven/no.nordicsemi.android/mesh@2.3.0?classifier=sources
+- pkg:maven/no.nordicsemi.android/mesh@2.3.0?type=aar

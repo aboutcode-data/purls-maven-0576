@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/vue2-timepicker@0.1.4
 - pkg:maven/org.webjars.npm/vue2-timepicker@0.1.4?classifier=sources
+- pkg:maven/org.webjars.npm/vue2-timepicker@1.0.8
+- pkg:maven/org.webjars.npm/vue2-timepicker@1.0.8?classifier=sources

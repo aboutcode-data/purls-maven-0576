@@ -179,3 +179,4 @@
 - pkg:maven/com.netflix.nebula/gradle-resolution-rules-plugin@7.4.1
 - pkg:maven/com.netflix.nebula/gradle-resolution-rules-plugin@7.4.1?classifier=sources
 - pkg:maven/com.netflix.nebula/gradle-resolution-rules-plugin@7.5.0?classifier=sources
+- pkg:maven/com.netflix.nebula/gradle-resolution-rules-plugin@7.6.0?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/com.intel.daal/daal@2019.5.205?classifier=sources
 - pkg:maven/com.intel.daal/daal@2020.0.004
 - pkg:maven/com.intel.daal/daal@2020.0.004?classifier=sources
+- pkg:maven/com.intel.daal/daal@2020.1.009
+- pkg:maven/com.intel.daal/daal@2020.1.009?classifier=sources

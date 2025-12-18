@@ -1,1 +1,2 @@
 - pkg:maven/io.brooklyn.jenkins/brooklyn-jenkins@1.0.3
+- pkg:maven/io.brooklyn.jenkins/brooklyn-jenkins@1.0.4

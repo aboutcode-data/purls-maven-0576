@@ -1,0 +1,2 @@
+- pkg:maven/com.samstarling/finagle-prometheus_2.13@0.0.15
+- pkg:maven/com.samstarling/finagle-prometheus_2.13@0.0.15?classifier=sources

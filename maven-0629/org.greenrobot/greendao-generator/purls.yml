@@ -12,3 +12,5 @@
 - pkg:maven/org.greenrobot/greendao-generator@3.2.0?classifier=sources
 - pkg:maven/org.greenrobot/greendao-generator@3.2.2
 - pkg:maven/org.greenrobot/greendao-generator@3.2.2?classifier=sources
+- pkg:maven/org.greenrobot/greendao-generator@3.3.0
+- pkg:maven/org.greenrobot/greendao-generator@3.3.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-spring-session-hotrod@1.0.0.Alpha1
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-spring-session-hotrod@1.0.0.Alpha1?classifier=sources

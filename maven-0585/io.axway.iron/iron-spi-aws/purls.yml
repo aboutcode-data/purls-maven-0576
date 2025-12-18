@@ -10,6 +10,8 @@
 - pkg:maven/io.axway.iron/iron-spi-aws@0.17.0?classifier=sources
 - pkg:maven/io.axway.iron/iron-spi-aws@0.18.0
 - pkg:maven/io.axway.iron/iron-spi-aws@0.18.0?classifier=sources
+- pkg:maven/io.axway.iron/iron-spi-aws@0.19.0
+- pkg:maven/io.axway.iron/iron-spi-aws@0.19.0?classifier=sources
 - pkg:maven/io.axway.iron/iron-spi-aws@0.4.0
 - pkg:maven/io.axway.iron/iron-spi-aws@0.4.0?classifier=sources
 - pkg:maven/io.axway.iron/iron-spi-aws@0.5.0

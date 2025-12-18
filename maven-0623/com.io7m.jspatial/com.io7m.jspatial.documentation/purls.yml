@@ -2,3 +2,5 @@
 - pkg:maven/com.io7m.jspatial/com.io7m.jspatial.documentation@3.0.0-beta0001?type=zip
 - pkg:maven/com.io7m.jspatial/com.io7m.jspatial.documentation@3.0.0-beta0002?classifier=sources
 - pkg:maven/com.io7m.jspatial/com.io7m.jspatial.documentation@3.0.0-beta0002?type=zip
+- pkg:maven/com.io7m.jspatial/com.io7m.jspatial.documentation@3.0.0-beta0003?classifier=sources
+- pkg:maven/com.io7m.jspatial/com.io7m.jspatial.documentation@3.0.0-beta0003?type=zip

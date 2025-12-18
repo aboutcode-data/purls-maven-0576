@@ -12,3 +12,6 @@
 - pkg:maven/design.aem/aemdesign-aem-author@2.0.618?classifier=sources
 - pkg:maven/design.aem/aemdesign-aem-author@2.0.641?classifier=sources
 - pkg:maven/design.aem/aemdesign-aem-author@2.0.649?classifier=sources
+- pkg:maven/design.aem/aemdesign-aem-author@2.0.650?classifier=sources
+- pkg:maven/design.aem/aemdesign-aem-author@2.0.664?classifier=sources
+- pkg:maven/design.aem/aemdesign-aem-author@2.0.665?classifier=sources

@@ -132,3 +132,9 @@
 - pkg:maven/info.picocli/picocli@4.1.4?classifier=sources
 - pkg:maven/info.picocli/picocli@4.2.0
 - pkg:maven/info.picocli/picocli@4.2.0?classifier=sources
+- pkg:maven/info.picocli/picocli@4.3.0
+- pkg:maven/info.picocli/picocli@4.3.0?classifier=sources
+- pkg:maven/info.picocli/picocli@4.3.1
+- pkg:maven/info.picocli/picocli@4.3.1?classifier=sources
+- pkg:maven/info.picocli/picocli@4.3.2
+- pkg:maven/info.picocli/picocli@4.3.2?classifier=sources
