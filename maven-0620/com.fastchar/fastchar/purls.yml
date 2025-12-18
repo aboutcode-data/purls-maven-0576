@@ -66,3 +66,5 @@
 - pkg:maven/com.fastchar/fastchar@1.5.7?classifier=sources
 - pkg:maven/com.fastchar/fastchar@1.6.0
 - pkg:maven/com.fastchar/fastchar@1.6.0?classifier=sources
+- pkg:maven/com.fastchar/fastchar@1.6.1
+- pkg:maven/com.fastchar/fastchar@1.6.1?classifier=sources

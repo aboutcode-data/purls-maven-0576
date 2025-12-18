@@ -1,0 +1,2 @@
+- pkg:maven/com.ibeetl/oracle@3.12.3-RELEASE
+- pkg:maven/com.ibeetl/oracle@3.12.3-RELEASE?classifier=sources

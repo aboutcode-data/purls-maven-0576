@@ -1,1 +1,2 @@
 - pkg:maven/io.gleap/gleap-okhttp-interceptor@1.0.0?classifier=sources
+- pkg:maven/io.gleap/gleap-okhttp-interceptor@6.3.0?classifier=sources

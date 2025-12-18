@@ -2,3 +2,4 @@
 - pkg:maven/dev.the-fireplace/Erroring-Entity-Remover@1.0.1%2B1.15.2?classifier=sources
 - pkg:maven/dev.the-fireplace/Erroring-Entity-Remover@1.0.1%2B1.16.5?classifier=sources
 - pkg:maven/dev.the-fireplace/Erroring-Entity-Remover@1.0.1%2B1.17.1?classifier=sources
+- pkg:maven/dev.the-fireplace/Erroring-Entity-Remover@1.0.2%2B1.18?classifier=sources

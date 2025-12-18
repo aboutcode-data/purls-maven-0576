@@ -80,3 +80,5 @@
 - pkg:maven/org.sakaiproject.courier/sakai-courier-util@20.3?classifier=sources
 - pkg:maven/org.sakaiproject.courier/sakai-courier-util@20.4
 - pkg:maven/org.sakaiproject.courier/sakai-courier-util@20.4?classifier=sources
+- pkg:maven/org.sakaiproject.courier/sakai-courier-util@20.5
+- pkg:maven/org.sakaiproject.courier/sakai-courier-util@20.5?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.gravitee.kubernetes/gravitee-kubernetes-client@0.2.0
+- pkg:maven/io.gravitee.kubernetes/gravitee-kubernetes-client@0.2.0?classifier=sources

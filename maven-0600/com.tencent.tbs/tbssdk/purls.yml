@@ -1,4 +1,6 @@
 - pkg:maven/com.tencent.tbs/tbssdk@44085
 - pkg:maven/com.tencent.tbs/tbssdk@44115
 - pkg:maven/com.tencent.tbs/tbssdk@44116
+- pkg:maven/com.tencent.tbs/tbssdk@44132
+- pkg:maven/com.tencent.tbs/tbssdk@44136
 - pkg:maven/com.tencent.tbs/tbssdk@54002-beta

@@ -23,6 +23,9 @@
 - pkg:maven/com.liferay/com.liferay.document.library.repository.authorization.api@1.0.8
 - pkg:maven/com.liferay/com.liferay.document.library.repository.authorization.api@1.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.repository.authorization.api@1.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.repository.authorization.api@1.0.9
+- pkg:maven/com.liferay/com.liferay.document.library.repository.authorization.api@1.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.repository.authorization.api@1.0.9?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.repository.authorization.api@2.0.0
 - pkg:maven/com.liferay/com.liferay.document.library.repository.authorization.api@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.repository.authorization.api@2.0.0?classifier=sources-commercial
@@ -47,10 +50,16 @@
 - pkg:maven/com.liferay/com.liferay.document.library.repository.authorization.api@2.0.7
 - pkg:maven/com.liferay/com.liferay.document.library.repository.authorization.api@2.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.repository.authorization.api@2.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.repository.authorization.api@2.0.8
+- pkg:maven/com.liferay/com.liferay.document.library.repository.authorization.api@2.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.repository.authorization.api@2.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.repository.authorization.api@3.0.0
 - pkg:maven/com.liferay/com.liferay.document.library.repository.authorization.api@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.repository.authorization.api@3.0.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.repository.authorization.api@3.0.1
+- pkg:maven/com.liferay/com.liferay.document.library.repository.authorization.api@3.0.10
+- pkg:maven/com.liferay/com.liferay.document.library.repository.authorization.api@3.0.10?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.repository.authorization.api@3.0.10?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.repository.authorization.api@3.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.repository.authorization.api@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.repository.authorization.api@3.0.2
@@ -101,6 +110,9 @@
 - pkg:maven/com.liferay/com.liferay.document.library.repository.authorization.api@4.0.7
 - pkg:maven/com.liferay/com.liferay.document.library.repository.authorization.api@4.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.repository.authorization.api@4.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.repository.authorization.api@4.0.8
+- pkg:maven/com.liferay/com.liferay.document.library.repository.authorization.api@4.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.repository.authorization.api@4.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.repository.authorization.api@5.0.0
 - pkg:maven/com.liferay/com.liferay.document.library.repository.authorization.api@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.repository.authorization.api@5.0.0?classifier=sources-commercial
@@ -119,3 +131,6 @@
 - pkg:maven/com.liferay/com.liferay.document.library.repository.authorization.api@5.1.4
 - pkg:maven/com.liferay/com.liferay.document.library.repository.authorization.api@5.1.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.repository.authorization.api@5.1.4?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.repository.authorization.api@5.1.5
+- pkg:maven/com.liferay/com.liferay.document.library.repository.authorization.api@5.1.5?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.repository.authorization.api@5.1.5?classifier=sources-commercial

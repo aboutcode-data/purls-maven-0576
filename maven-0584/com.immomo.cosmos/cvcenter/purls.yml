@@ -34,5 +34,9 @@
 - pkg:maven/com.immomo.cosmos/cvcenter@2.1.4.20211108.1137?type=aar
 - pkg:maven/com.immomo.cosmos/cvcenter@2.1.4.20211108.1141?classifier=sources
 - pkg:maven/com.immomo.cosmos/cvcenter@2.1.4.20211108.1141?type=aar
+- pkg:maven/com.immomo.cosmos/cvcenter@2.1.4.20211129.1505?classifier=sources
+- pkg:maven/com.immomo.cosmos/cvcenter@2.1.4.20211129.1505?type=aar
 - pkg:maven/com.immomo.cosmos/cvcenter@2.1.5.20211102.1037?classifier=sources
 - pkg:maven/com.immomo.cosmos/cvcenter@2.1.5.20211102.1037?type=aar
+- pkg:maven/com.immomo.cosmos/cvcenter@2.1.6.20211216.1458?classifier=sources
+- pkg:maven/com.immomo.cosmos/cvcenter@2.1.6.20211216.1458?type=aar

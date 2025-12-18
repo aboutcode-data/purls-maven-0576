@@ -1,0 +1,2 @@
+- pkg:maven/com.lightningkite.khrysalis/kotlin-compiler-plugin-common@0.7.0?classifier=sources
+- pkg:maven/com.lightningkite.khrysalis/kotlin-compiler-plugin-common@0.7.1?classifier=sources

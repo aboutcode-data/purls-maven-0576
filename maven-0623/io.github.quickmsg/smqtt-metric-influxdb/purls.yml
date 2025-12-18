@@ -1,0 +1,2 @@
+- pkg:maven/io.github.quickmsg/smqtt-metric-influxdb@1.1.0
+- pkg:maven/io.github.quickmsg/smqtt-metric-influxdb@1.1.0?classifier=sources

@@ -2,3 +2,11 @@
 - pkg:maven/com.immomo.cosmos.mediax/beautyutils@1.0.2_07151537?type=aar
 - pkg:maven/com.immomo.cosmos.mediax/beautyutils@1.0.3_10201722?classifier=sources
 - pkg:maven/com.immomo.cosmos.mediax/beautyutils@1.0.3_10201722?type=aar
+- pkg:maven/com.immomo.cosmos.mediax/beautyutils@2.0.0_12141634?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/beautyutils@2.0.0_12141634?type=aar
+- pkg:maven/com.immomo.cosmos.mediax/beautyutils@2.1.0_12171103?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/beautyutils@2.1.0_12171103?type=aar
+- pkg:maven/com.immomo.cosmos.mediax/beautyutils@2.1.0_12171217?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/beautyutils@2.1.0_12171217?type=aar
+- pkg:maven/com.immomo.cosmos.mediax/beautyutils@2.1.1_12201451?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/beautyutils@2.1.1_12201451?type=aar

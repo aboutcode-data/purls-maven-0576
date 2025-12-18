@@ -1,0 +1,2 @@
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-http4s-swagger_2.12@0.0.0-388-16474590
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-http4s-swagger_2.12@0.0.0-388-16474590?classifier=sources

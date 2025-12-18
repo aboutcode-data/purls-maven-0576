@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.cxf/cxf-rt-transports-http-hc5@3.5.0
+- pkg:maven/org.apache.cxf/cxf-rt-transports-http-hc5@3.5.0?classifier=sources

@@ -9,3 +9,5 @@
 - pkg:maven/com.charleskorn.kaml/kaml-jvm@0.35.2?classifier=sources
 - pkg:maven/com.charleskorn.kaml/kaml-jvm@0.35.3?classifier=sources
 - pkg:maven/com.charleskorn.kaml/kaml-jvm@0.36.0?classifier=sources
+- pkg:maven/com.charleskorn.kaml/kaml-jvm@0.37.0?classifier=sources
+- pkg:maven/com.charleskorn.kaml/kaml-jvm@0.38.0?classifier=sources

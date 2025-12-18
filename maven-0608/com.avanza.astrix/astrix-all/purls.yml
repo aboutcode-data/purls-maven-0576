@@ -20,3 +20,5 @@
 - pkg:maven/com.avanza.astrix/astrix-all@0.43.5
 - pkg:maven/com.avanza.astrix/astrix-all@0.43.6
 - pkg:maven/com.avanza.astrix/astrix-all@1.0.7
+- pkg:maven/com.avanza.astrix/astrix-all@1.0.8
+- pkg:maven/com.avanza.astrix/astrix-all@1.0.9

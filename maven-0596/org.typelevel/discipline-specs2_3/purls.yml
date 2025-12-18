@@ -10,7 +10,17 @@
 - pkg:maven/org.typelevel/discipline-specs2_3@1.2.3?classifier=sources
 - pkg:maven/org.typelevel/discipline-specs2_3@1.2.4
 - pkg:maven/org.typelevel/discipline-specs2_3@1.2.4?classifier=sources
+- pkg:maven/org.typelevel/discipline-specs2_3@1.2.5
+- pkg:maven/org.typelevel/discipline-specs2_3@1.2.5?classifier=sources
 - pkg:maven/org.typelevel/discipline-specs2_3@1.3.0
 - pkg:maven/org.typelevel/discipline-specs2_3@1.3.0?classifier=sources
+- pkg:maven/org.typelevel/discipline-specs2_3@1.3.1
+- pkg:maven/org.typelevel/discipline-specs2_3@1.3.1?classifier=sources
 - pkg:maven/org.typelevel/discipline-specs2_3@2.0-17-76e46a4
 - pkg:maven/org.typelevel/discipline-specs2_3@2.0-17-76e46a4?classifier=sources
+- pkg:maven/org.typelevel/discipline-specs2_3@2.0-28-0698f3a
+- pkg:maven/org.typelevel/discipline-specs2_3@2.0-28-0698f3a?classifier=sources
+- pkg:maven/org.typelevel/discipline-specs2_3@2.0-34-8c36a37
+- pkg:maven/org.typelevel/discipline-specs2_3@2.0-34-8c36a37?classifier=sources
+- pkg:maven/org.typelevel/discipline-specs2_3@2.0-44-19f6d7f
+- pkg:maven/org.typelevel/discipline-specs2_3@2.0-44-19f6d7f?classifier=sources

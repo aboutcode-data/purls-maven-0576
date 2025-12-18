@@ -1,2 +1,4 @@
 - pkg:maven/cn.xnatural/tiny@1.0.10
 - pkg:maven/cn.xnatural/tiny@1.0.10?classifier=sources
+- pkg:maven/cn.xnatural/tiny@1.1.0
+- pkg:maven/cn.xnatural/tiny@1.1.0?classifier=sources

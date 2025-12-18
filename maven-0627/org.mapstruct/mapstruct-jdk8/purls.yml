@@ -45,3 +45,4 @@
 - pkg:maven/org.mapstruct/mapstruct-jdk8@1.4.1.Final
 - pkg:maven/org.mapstruct/mapstruct-jdk8@1.4.2.Final
 - pkg:maven/org.mapstruct/mapstruct-jdk8@1.5.0.Beta1
+- pkg:maven/org.mapstruct/mapstruct-jdk8@1.5.0.Beta2

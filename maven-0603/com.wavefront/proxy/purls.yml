@@ -7,6 +7,12 @@
 - pkg:maven/com.wavefront/proxy@10.0-RC3?classifier=sources
 - pkg:maven/com.wavefront/proxy@10.0?classifier=sources
 - pkg:maven/com.wavefront/proxy@10.1
+- pkg:maven/com.wavefront/proxy@10.10
+- pkg:maven/com.wavefront/proxy@10.10?classifier=sources
+- pkg:maven/com.wavefront/proxy@10.11
+- pkg:maven/com.wavefront/proxy@10.11?classifier=sources
+- pkg:maven/com.wavefront/proxy@10.12
+- pkg:maven/com.wavefront/proxy@10.12?classifier=sources
 - pkg:maven/com.wavefront/proxy@10.1?classifier=sources
 - pkg:maven/com.wavefront/proxy@10.2
 - pkg:maven/com.wavefront/proxy@10.2?classifier=sources

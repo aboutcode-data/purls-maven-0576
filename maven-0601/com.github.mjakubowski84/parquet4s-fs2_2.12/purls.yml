@@ -34,3 +34,5 @@
 - pkg:maven/com.github.mjakubowski84/parquet4s-fs2_2.12@2.0.0-RC4
 - pkg:maven/com.github.mjakubowski84/parquet4s-fs2_2.12@2.0.0-RC4?classifier=sources
 - pkg:maven/com.github.mjakubowski84/parquet4s-fs2_2.12@2.0.0?classifier=sources
+- pkg:maven/com.github.mjakubowski84/parquet4s-fs2_2.12@2.0.1
+- pkg:maven/com.github.mjakubowski84/parquet4s-fs2_2.12@2.0.1?classifier=sources

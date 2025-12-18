@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-alert-api@2.0.1
+- pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-alert-api@2.0.1?classifier=sources

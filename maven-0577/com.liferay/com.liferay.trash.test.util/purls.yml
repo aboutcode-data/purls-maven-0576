@@ -16,6 +16,9 @@
 - pkg:maven/com.liferay/com.liferay.trash.test.util@1.0.14
 - pkg:maven/com.liferay/com.liferay.trash.test.util@1.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.trash.test.util@1.0.14?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.trash.test.util@1.0.15
+- pkg:maven/com.liferay/com.liferay.trash.test.util@1.0.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.trash.test.util@1.0.15?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.trash.test.util@1.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.trash.test.util@1.0.2
 - pkg:maven/com.liferay/com.liferay.trash.test.util@1.0.2?classifier=sources
@@ -59,6 +62,9 @@
 - pkg:maven/com.liferay/com.liferay.trash.test.util@2.0.6
 - pkg:maven/com.liferay/com.liferay.trash.test.util@2.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.trash.test.util@2.0.6?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.trash.test.util@2.0.7
+- pkg:maven/com.liferay/com.liferay.trash.test.util@2.0.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.trash.test.util@2.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.trash.test.util@3.0.0
 - pkg:maven/com.liferay/com.liferay.trash.test.util@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.trash.test.util@3.0.0?classifier=sources-commercial
@@ -83,6 +89,9 @@
 - pkg:maven/com.liferay/com.liferay.trash.test.util@3.0.7
 - pkg:maven/com.liferay/com.liferay.trash.test.util@3.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.trash.test.util@3.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.trash.test.util@3.0.8
+- pkg:maven/com.liferay/com.liferay.trash.test.util@3.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.trash.test.util@3.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.trash.test.util@4.0.0
 - pkg:maven/com.liferay/com.liferay.trash.test.util@4.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.trash.test.util@4.0.0?classifier=sources-commercial
@@ -116,6 +125,9 @@
 - pkg:maven/com.liferay/com.liferay.trash.test.util@4.2.5
 - pkg:maven/com.liferay/com.liferay.trash.test.util@4.2.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.trash.test.util@4.2.5?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.trash.test.util@4.2.6
+- pkg:maven/com.liferay/com.liferay.trash.test.util@4.2.6?classifier=sources
+- pkg:maven/com.liferay/com.liferay.trash.test.util@4.2.6?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.trash.test.util@5.0.0
 - pkg:maven/com.liferay/com.liferay.trash.test.util@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.trash.test.util@5.0.0?classifier=sources-commercial
@@ -131,3 +143,6 @@
 - pkg:maven/com.liferay/com.liferay.trash.test.util@5.0.4
 - pkg:maven/com.liferay/com.liferay.trash.test.util@5.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.trash.test.util@5.0.4?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.trash.test.util@5.0.5
+- pkg:maven/com.liferay/com.liferay.trash.test.util@5.0.5?classifier=sources
+- pkg:maven/com.liferay/com.liferay.trash.test.util@5.0.5?classifier=sources-commercial

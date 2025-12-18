@@ -22,3 +22,5 @@
 - pkg:maven/org.cicirello/chips-n-salsa-examples@2.9.0?classifier=sources
 - pkg:maven/org.cicirello/chips-n-salsa-examples@3.0.0
 - pkg:maven/org.cicirello/chips-n-salsa-examples@3.0.0?classifier=sources
+- pkg:maven/org.cicirello/chips-n-salsa-examples@3.1.0
+- pkg:maven/org.cicirello/chips-n-salsa-examples@3.1.0?classifier=sources

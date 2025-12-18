@@ -92,3 +92,5 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-mts@3.3.31?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-mts@3.3.33
 - pkg:maven/com.aliyun/aliyun-java-sdk-mts@3.3.33?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-mts@3.3.39
+- pkg:maven/com.aliyun/aliyun-java-sdk-mts@3.3.39?classifier=sources

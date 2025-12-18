@@ -1,4 +1,8 @@
 - pkg:maven/io.gatling/gatling-enterprise-plugin-commons@0.0.2
 - pkg:maven/io.gatling/gatling-enterprise-plugin-commons@0.0.2?classifier=sources
 - pkg:maven/io.gatling/gatling-enterprise-plugin-commons@0.0.3
+- pkg:maven/io.gatling/gatling-enterprise-plugin-commons@0.0.3-M20211214154739
+- pkg:maven/io.gatling/gatling-enterprise-plugin-commons@0.0.3-M20211214154739?classifier=sources
+- pkg:maven/io.gatling/gatling-enterprise-plugin-commons@0.0.3-M20211217085936
+- pkg:maven/io.gatling/gatling-enterprise-plugin-commons@0.0.3-M20211217085936?classifier=sources
 - pkg:maven/io.gatling/gatling-enterprise-plugin-commons@0.0.3?classifier=sources

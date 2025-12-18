@@ -1,0 +1,4 @@
+- pkg:maven/io.gravitee.gateway/gravitee-gateway-connector@3.13.0
+- pkg:maven/io.gravitee.gateway/gravitee-gateway-connector@3.13.0?classifier=sources
+- pkg:maven/io.gravitee.gateway/gravitee-gateway-connector@3.13.1
+- pkg:maven/io.gravitee.gateway/gravitee-gateway-connector@3.13.1?classifier=sources

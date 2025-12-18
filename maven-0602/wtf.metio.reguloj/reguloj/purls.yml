@@ -1,3 +1,9 @@
+- pkg:maven/wtf.metio.reguloj/reguloj@2021.11.16
+- pkg:maven/wtf.metio.reguloj/reguloj@2021.11.16?classifier=sources
+- pkg:maven/wtf.metio.reguloj/reguloj@2021.12.14
+- pkg:maven/wtf.metio.reguloj/reguloj@2021.12.14?classifier=sources
+- pkg:maven/wtf.metio.reguloj/reguloj@2021.12.21
+- pkg:maven/wtf.metio.reguloj/reguloj@2021.12.21?classifier=sources
 - pkg:maven/wtf.metio.reguloj/reguloj@2021.4.14
 - pkg:maven/wtf.metio.reguloj/reguloj@2021.4.14?classifier=sources
 - pkg:maven/wtf.metio.reguloj/reguloj@2021.4.20

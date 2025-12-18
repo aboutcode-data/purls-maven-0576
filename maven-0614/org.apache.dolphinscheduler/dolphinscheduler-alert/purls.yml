@@ -22,5 +22,7 @@
 - pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-alert@1.3.8?classifier=sources
 - pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-alert@1.3.9
 - pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-alert@1.3.9?classifier=sources
+- pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-alert@2.0.0
 - pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-alert@2.0.0-alpha
 - pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-alert@2.0.0-alpha?classifier=sources
+- pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-alert@2.0.0?classifier=sources

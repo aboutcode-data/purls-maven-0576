@@ -10,3 +10,5 @@
 - pkg:maven/com.capgemini.mrchecker/mrchecker-webapi-module@1.2.0?classifier=sources
 - pkg:maven/com.capgemini.mrchecker/mrchecker-webapi-module@1.2.4
 - pkg:maven/com.capgemini.mrchecker/mrchecker-webapi-module@1.2.4?classifier=sources
+- pkg:maven/com.capgemini.mrchecker/mrchecker-webapi-module@1.2.5
+- pkg:maven/com.capgemini.mrchecker/mrchecker-webapi-module@1.2.5?classifier=sources

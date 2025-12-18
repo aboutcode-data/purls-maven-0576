@@ -1,1 +1,2 @@
 - pkg:maven/io.vacco.jaad/jaad@0.8.7-MILESTONE-202109061910?classifier=sources
+- pkg:maven/io.vacco.jaad/jaad@0.8.8-MILESTONE-202111270642?classifier=sources

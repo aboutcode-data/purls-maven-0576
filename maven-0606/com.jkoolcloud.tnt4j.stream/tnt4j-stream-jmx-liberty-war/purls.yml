@@ -2,7 +2,10 @@
 - pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-liberty-war@0.11?type=war
 - pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-liberty-war@0.12.1?type=war
 - pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-liberty-war@0.12?type=war
+- pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-liberty-war@0.13.1?type=war
+- pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-liberty-war@0.13.2?type=war
 - pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-liberty-war@0.13?type=war
+- pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-liberty-war@0.14.1?type=war
 - pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-liberty-war@0.7?type=war
 - pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-liberty-war@0.8.1?type=war
 - pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-liberty-war@0.8.2?type=war

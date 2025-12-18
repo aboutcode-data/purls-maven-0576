@@ -1,3 +1,4 @@
+- pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.0.0
 - pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.0.0-alpha.10
 - pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.0.0-alpha.10?classifier=sources
 - pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.0.0-alpha.11
@@ -46,7 +47,19 @@
 - pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.0.0-rc.26?classifier=sources
 - pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.0.0-rc.27
 - pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.0.0-rc.27?classifier=sources
+- pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.0.0-rc.28
+- pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.0.0-rc.28?classifier=sources
+- pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.0.0-rc.29
+- pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.0.0-rc.29?classifier=sources
 - pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.0.0-rc.3
+- pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.0.0-rc.30
+- pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.0.0-rc.30?classifier=sources
+- pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.0.0-rc.31
+- pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.0.0-rc.31?classifier=sources
+- pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.0.0-rc.32
+- pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.0.0-rc.32?classifier=sources
+- pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.0.0-rc.33
+- pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.0.0-rc.33?classifier=sources
 - pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.0.0-rc.3?classifier=sources
 - pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.0.0-rc.4
 - pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.0.0-rc.4?classifier=sources
@@ -60,3 +73,10 @@
 - pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.0.0-rc.8?classifier=sources
 - pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.0.0-rc.9
 - pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.0.0-rc.9?classifier=sources
+- pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.0.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.1.0
+- pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.1.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.2.0
+- pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.2.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.3.0
+- pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.3.0?classifier=sources

@@ -50,3 +50,5 @@
 - pkg:maven/org.duracloud.db/mill-db-repo@6.2.0?classifier=sources
 - pkg:maven/org.duracloud.db/mill-db-repo@7.0.0
 - pkg:maven/org.duracloud.db/mill-db-repo@7.0.0?classifier=sources
+- pkg:maven/org.duracloud.db/mill-db-repo@7.1.0
+- pkg:maven/org.duracloud.db/mill-db-repo@7.1.0?classifier=sources

@@ -8,6 +8,8 @@
 - pkg:maven/io.embrace/embrace-swazzler@4.11.3?classifier=sources
 - pkg:maven/io.embrace/embrace-swazzler@4.12.0
 - pkg:maven/io.embrace/embrace-swazzler@4.12.0?classifier=sources
+- pkg:maven/io.embrace/embrace-swazzler@4.13.0
+- pkg:maven/io.embrace/embrace-swazzler@4.13.0?classifier=sources
 - pkg:maven/io.embrace/embrace-swazzler@4.8.0
 - pkg:maven/io.embrace/embrace-swazzler@4.8.0?classifier=sources
 - pkg:maven/io.embrace/embrace-swazzler@4.8.1

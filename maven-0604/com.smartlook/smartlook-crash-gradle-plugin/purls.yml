@@ -1,0 +1,2 @@
+- pkg:maven/com.smartlook/smartlook-crash-gradle-plugin@1.0.0?classifier=sources
+- pkg:maven/com.smartlook/smartlook-crash-gradle-plugin@1.0.1?classifier=sources

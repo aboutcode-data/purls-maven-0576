@@ -1,0 +1,2 @@
+- pkg:maven/net.vergien.saml2encoding/saml2-encoding-utils@0.0.2
+- pkg:maven/net.vergien.saml2encoding/saml2-encoding-utils@0.0.2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/fi.ishtech.core/ishtech-i18n@1.0.0
+- pkg:maven/fi.ishtech.core/ishtech-i18n@1.0.0?classifier=sources
+- pkg:maven/fi.ishtech.core/ishtech-i18n@2.0.0
+- pkg:maven/fi.ishtech.core/ishtech-i18n@2.0.0?classifier=sources

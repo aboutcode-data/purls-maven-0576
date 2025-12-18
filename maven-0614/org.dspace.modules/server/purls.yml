@@ -5,4 +5,5 @@
 - pkg:maven/org.dspace.modules/server@7.0-beta4.1?type=war
 - pkg:maven/org.dspace.modules/server@7.0-beta5?type=war
 - pkg:maven/org.dspace.modules/server@7.0?type=war
+- pkg:maven/org.dspace.modules/server@7.1.1?type=war
 - pkg:maven/org.dspace.modules/server@7.1?type=war

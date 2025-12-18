@@ -12,3 +12,5 @@
 - pkg:maven/com.vesoft/nebula-exchange@2.5.2?classifier=sources
 - pkg:maven/com.vesoft/nebula-exchange@2.6.0
 - pkg:maven/com.vesoft/nebula-exchange@2.6.0?classifier=sources
+- pkg:maven/com.vesoft/nebula-exchange@2.6.1
+- pkg:maven/com.vesoft/nebula-exchange@2.6.1?classifier=sources

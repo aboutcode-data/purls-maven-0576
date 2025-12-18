@@ -14,3 +14,4 @@
 - pkg:maven/com.teamscale/teamscale-jacoco-agent@21.6.1?classifier=sources
 - pkg:maven/com.teamscale/teamscale-jacoco-agent@21.8.0?classifier=sources
 - pkg:maven/com.teamscale/teamscale-jacoco-agent@21.9.0?classifier=sources
+- pkg:maven/com.teamscale/teamscale-jacoco-agent@22.0.0?classifier=sources

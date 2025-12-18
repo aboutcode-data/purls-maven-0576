@@ -1,1 +1,6 @@
 - pkg:maven/com.softicar.platform/platform-common-container@10.0.1?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common-container@11.0.0%2Bpatch1?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common-container@11.0.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common-container@12.0.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common-container@12.1.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common-container@12.1.1?classifier=sources

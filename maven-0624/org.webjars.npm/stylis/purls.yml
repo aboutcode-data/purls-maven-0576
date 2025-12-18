@@ -6,5 +6,7 @@
 - pkg:maven/org.webjars.npm/stylis@3.5.4?classifier=sources
 - pkg:maven/org.webjars.npm/stylis@4.0.10
 - pkg:maven/org.webjars.npm/stylis@4.0.10?classifier=sources
+- pkg:maven/org.webjars.npm/stylis@4.0.13
+- pkg:maven/org.webjars.npm/stylis@4.0.13?classifier=sources
 - pkg:maven/org.webjars.npm/stylis@4.0.7
 - pkg:maven/org.webjars.npm/stylis@4.0.7?classifier=sources

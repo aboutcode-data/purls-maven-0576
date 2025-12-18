@@ -9,3 +9,10 @@
 - pkg:maven/io.github.palexdev/virtualizedfx@11.1.6?classifier=sources
 - pkg:maven/io.github.palexdev/virtualizedfx@11.2.0?classifier=sources
 - pkg:maven/io.github.palexdev/virtualizedfx@11.2.1?classifier=sources
+- pkg:maven/io.github.palexdev/virtualizedfx@11.2.2?classifier=sources
+- pkg:maven/io.github.palexdev/virtualizedfx@11.2.3?classifier=sources
+- pkg:maven/io.github.palexdev/virtualizedfx@11.2.4-EARLY2?classifier=sources
+- pkg:maven/io.github.palexdev/virtualizedfx@11.2.4-EARLY3?classifier=sources
+- pkg:maven/io.github.palexdev/virtualizedfx@11.2.4-EARLY4?classifier=sources
+- pkg:maven/io.github.palexdev/virtualizedfx@11.2.4-EARLY5?classifier=sources
+- pkg:maven/io.github.palexdev/virtualizedfx@11.2.4-EARLY?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.netease.nim/camellia-redis-proxy-discovery-zk@1.0.44
+- pkg:maven/com.netease.nim/camellia-redis-proxy-discovery-zk@1.0.44?classifier=sources

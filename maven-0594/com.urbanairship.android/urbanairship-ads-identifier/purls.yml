@@ -52,3 +52,4 @@
 - pkg:maven/com.urbanairship.android/urbanairship-ads-identifier@15.0.0?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-ads-identifier@15.1.0?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-ads-identifier@16.0.0?classifier=sources
+- pkg:maven/com.urbanairship.android/urbanairship-ads-identifier@16.1.0?classifier=sources

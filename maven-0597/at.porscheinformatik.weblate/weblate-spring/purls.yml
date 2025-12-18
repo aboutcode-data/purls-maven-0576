@@ -4,3 +4,7 @@
 - pkg:maven/at.porscheinformatik.weblate/weblate-spring@0.2.0?classifier=sources
 - pkg:maven/at.porscheinformatik.weblate/weblate-spring@0.2.1
 - pkg:maven/at.porscheinformatik.weblate/weblate-spring@0.2.1?classifier=sources
+- pkg:maven/at.porscheinformatik.weblate/weblate-spring@0.3.0
+- pkg:maven/at.porscheinformatik.weblate/weblate-spring@0.3.0?classifier=sources
+- pkg:maven/at.porscheinformatik.weblate/weblate-spring@0.3.1
+- pkg:maven/at.porscheinformatik.weblate/weblate-spring@0.3.1?classifier=sources

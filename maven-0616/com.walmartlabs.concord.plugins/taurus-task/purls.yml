@@ -42,3 +42,4 @@
 - pkg:maven/com.walmartlabs.concord.plugins/taurus-task@1.38.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.plugins/taurus-task@1.39.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.plugins/taurus-task@1.40.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.plugins/taurus-task@1.41.0?classifier=sources

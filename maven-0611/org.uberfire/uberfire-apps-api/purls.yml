@@ -248,3 +248,7 @@
 - pkg:maven/org.uberfire/uberfire-apps-api@7.60.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-apps-api@7.61.0.Final
 - pkg:maven/org.uberfire/uberfire-apps-api@7.61.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-apps-api@7.62.0.Final
+- pkg:maven/org.uberfire/uberfire-apps-api@7.62.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-apps-api@7.63.0.Final
+- pkg:maven/org.uberfire/uberfire-apps-api@7.63.0.Final?classifier=sources

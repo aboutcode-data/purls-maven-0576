@@ -1,0 +1,2 @@
+- pkg:maven/ru.mail.im/bot-api@1.2.2
+- pkg:maven/ru.mail.im/bot-api@1.2.2?classifier=sources

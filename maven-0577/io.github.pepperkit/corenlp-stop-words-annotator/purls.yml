@@ -1,2 +1,4 @@
 - pkg:maven/io.github.pepperkit/corenlp-stop-words-annotator@0.9.0
 - pkg:maven/io.github.pepperkit/corenlp-stop-words-annotator@0.9.0?classifier=sources
+- pkg:maven/io.github.pepperkit/corenlp-stop-words-annotator@1.0.0
+- pkg:maven/io.github.pepperkit/corenlp-stop-words-annotator@1.0.0?classifier=sources

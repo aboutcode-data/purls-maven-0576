@@ -6,6 +6,10 @@
 - pkg:maven/com.antgroup.antchain.openapi/openapi-blockchain@1.25.18?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-blockchain@1.25.19
 - pkg:maven/com.antgroup.antchain.openapi/openapi-blockchain@1.25.19?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-blockchain@1.25.48
+- pkg:maven/com.antgroup.antchain.openapi/openapi-blockchain@1.25.48?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-blockchain@1.25.70
+- pkg:maven/com.antgroup.antchain.openapi/openapi-blockchain@1.25.70?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-blockchain@1.25.8
 - pkg:maven/com.antgroup.antchain.openapi/openapi-blockchain@1.25.8?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-blockchain@1.25.9

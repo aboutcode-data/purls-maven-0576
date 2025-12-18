@@ -55,3 +55,4 @@
 - pkg:maven/org.wso2.carbon.registry/carbon-registry@4.7.44?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.registry/carbon-registry@4.7.45?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.registry/carbon-registry@4.7.46?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.registry/carbon-registry@4.7.47?classifier=source-release&type=zip

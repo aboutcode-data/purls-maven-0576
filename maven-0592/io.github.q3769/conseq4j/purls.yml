@@ -1,0 +1,4 @@
+- pkg:maven/io.github.q3769/conseq4j@20211208.0.0
+- pkg:maven/io.github.q3769/conseq4j@20211208.0.0?classifier=sources
+- pkg:maven/io.github.q3769/conseq4j@20211208.0.1
+- pkg:maven/io.github.q3769/conseq4j@20211208.0.1?classifier=sources

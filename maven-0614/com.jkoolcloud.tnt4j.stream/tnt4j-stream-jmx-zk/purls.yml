@@ -7,6 +7,13 @@
 - pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-zk@0.12.1?classifier=sources
 - pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-zk@0.12?classifier=sources
 - pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-zk@0.13
+- pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-zk@0.13.1
+- pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-zk@0.13.1?classifier=sources
+- pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-zk@0.13.2
+- pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-zk@0.13.2?classifier=sources
 - pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-zk@0.13?classifier=sources
+- pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-zk@0.14.1
+- pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-zk@0.14.1?classifier=sources
+- pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-zk@0.14?classifier=sources
 - pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-zk@0.9
 - pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-zk@0.9?classifier=sources

@@ -6,5 +6,7 @@
 - pkg:maven/com.immomo.momomedia/txlive@momo5.1f.txlive.2021-0709-1101?type=aar
 - pkg:maven/com.immomo.momomedia/txlive@momo5.1f.txlive.2021-0713-1605?classifier=sources
 - pkg:maven/com.immomo.momomedia/txlive@momo5.1f.txlive.2021-0713-1605?type=aar
+- pkg:maven/com.immomo.momomedia/txlive@momo5.1f.txlive.2021-1112-1209?classifier=sources
+- pkg:maven/com.immomo.momomedia/txlive@momo5.1f.txlive.2021-1112-1209?type=aar
 - pkg:maven/com.immomo.momomedia/txlive@momo5.1f.txlive0.1.2021-0709-110219?classifier=sources
 - pkg:maven/com.immomo.momomedia/txlive@momo5.1f.txlive0.1.2021-0709-110219?type=aar

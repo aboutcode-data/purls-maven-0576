@@ -10,6 +10,8 @@
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-compute@2.0.0?classifier=sources
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-compute@2.1.0
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-compute@2.1.0?classifier=sources
+- pkg:maven/com.azure.resourcemanager/azure-resourcemanager-compute@2.10.0
+- pkg:maven/com.azure.resourcemanager/azure-resourcemanager-compute@2.10.0?classifier=sources
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-compute@2.2.0
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-compute@2.2.0?classifier=sources
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-compute@2.3.0

@@ -3,3 +3,7 @@
 - pkg:maven/org.jlab/jaws-libj@1.2.0?classifier=sources
 - pkg:maven/org.jlab/jaws-libj@1.3.0?classifier=sources
 - pkg:maven/org.jlab/jaws-libj@1.4.0?classifier=sources
+- pkg:maven/org.jlab/jaws-libj@1.5.0?classifier=sources
+- pkg:maven/org.jlab/jaws-libj@1.6.0?classifier=sources
+- pkg:maven/org.jlab/jaws-libj@1.7.0?classifier=sources
+- pkg:maven/org.jlab/jaws-libj@1.8.0?classifier=sources

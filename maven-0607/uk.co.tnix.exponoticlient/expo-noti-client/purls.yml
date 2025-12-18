@@ -1,0 +1,2 @@
+- pkg:maven/uk.co.tnix.exponoticlient/expo-noti-client@1.0.0
+- pkg:maven/uk.co.tnix.exponoticlient/expo-noti-client@1.0.0?classifier=sources
