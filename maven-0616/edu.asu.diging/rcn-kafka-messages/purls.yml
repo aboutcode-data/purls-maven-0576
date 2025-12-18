@@ -1,0 +1,2 @@
+- pkg:maven/edu.asu.diging/rcn-kafka-messages@0.1
+- pkg:maven/edu.asu.diging/rcn-kafka-messages@0.1?classifier=sources

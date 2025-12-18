@@ -3,6 +3,14 @@
 - pkg:maven/nz.net.osnz.composite/composite-spring-data-jpa@4.2.1
 - pkg:maven/nz.net.osnz.composite/composite-spring-data-jpa@4.3
 - pkg:maven/nz.net.osnz.composite/composite-spring-data-jpa@5.1
+- pkg:maven/nz.net.osnz.composite/composite-spring-data-jpa@5.10
+- pkg:maven/nz.net.osnz.composite/composite-spring-data-jpa@5.11
+- pkg:maven/nz.net.osnz.composite/composite-spring-data-jpa@5.14
+- pkg:maven/nz.net.osnz.composite/composite-spring-data-jpa@5.15
+- pkg:maven/nz.net.osnz.composite/composite-spring-data-jpa@5.16
+- pkg:maven/nz.net.osnz.composite/composite-spring-data-jpa@5.17
+- pkg:maven/nz.net.osnz.composite/composite-spring-data-jpa@5.18
+- pkg:maven/nz.net.osnz.composite/composite-spring-data-jpa@5.19
 - pkg:maven/nz.net.osnz.composite/composite-spring-data-jpa@5.2
 - pkg:maven/nz.net.osnz.composite/composite-spring-data-jpa@5.3
 - pkg:maven/nz.net.osnz.composite/composite-spring-data-jpa@5.4

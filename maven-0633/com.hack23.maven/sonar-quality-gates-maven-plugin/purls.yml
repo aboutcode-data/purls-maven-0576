@@ -1,0 +1,4 @@
+- pkg:maven/com.hack23.maven/sonar-quality-gates-maven-plugin@1.0.0
+- pkg:maven/com.hack23.maven/sonar-quality-gates-maven-plugin@1.0.0?classifier=sources
+- pkg:maven/com.hack23.maven/sonar-quality-gates-maven-plugin@1.0.1
+- pkg:maven/com.hack23.maven/sonar-quality-gates-maven-plugin@1.0.1?classifier=sources

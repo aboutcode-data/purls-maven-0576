@@ -15,4 +15,6 @@
 - pkg:maven/cc.protea.spreedly/spreedly@0.9.7?classifier=sources
 - pkg:maven/cc.protea.spreedly/spreedly@0.9.8
 - pkg:maven/cc.protea.spreedly/spreedly@0.9.8?classifier=sources
+- pkg:maven/cc.protea.spreedly/spreedly@0.9.9
+- pkg:maven/cc.protea.spreedly/spreedly@0.9.9?classifier=sources
 - pkg:maven/cc.protea.spreedly/spreedly@0.9?classifier=sources

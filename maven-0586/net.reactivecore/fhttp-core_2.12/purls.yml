@@ -1,0 +1,4 @@
+- pkg:maven/net.reactivecore/fhttp-core_2.12@0.1.2
+- pkg:maven/net.reactivecore/fhttp-core_2.12@0.1.2?classifier=sources
+- pkg:maven/net.reactivecore/fhttp-core_2.12@0.2.1
+- pkg:maven/net.reactivecore/fhttp-core_2.12@0.2.1?classifier=sources

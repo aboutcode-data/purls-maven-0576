@@ -10,3 +10,5 @@
 - pkg:maven/net.pwall.xml/xmlutil@1.0?classifier=sources
 - pkg:maven/net.pwall.xml/xmlutil@2.0
 - pkg:maven/net.pwall.xml/xmlutil@2.0?classifier=sources
+- pkg:maven/net.pwall.xml/xmlutil@2.1
+- pkg:maven/net.pwall.xml/xmlutil@2.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.tamaya.ext.examples/05-spring-example@0.4-incubating
+- pkg:maven/org.apache.tamaya.ext.examples/05-spring-example@0.4-incubating?classifier=sources

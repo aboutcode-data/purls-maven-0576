@@ -6,6 +6,7 @@
 - pkg:maven/org.webjars/ckeditor@4.11.3
 - pkg:maven/org.webjars/ckeditor@4.11.4
 - pkg:maven/org.webjars/ckeditor@4.12.1
+- pkg:maven/org.webjars/ckeditor@4.13.0
 - pkg:maven/org.webjars/ckeditor@4.3.4
 - pkg:maven/org.webjars/ckeditor@4.4.1
 - pkg:maven/org.webjars/ckeditor@4.4.6

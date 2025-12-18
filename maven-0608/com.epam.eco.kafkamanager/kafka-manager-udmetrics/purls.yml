@@ -1,0 +1,4 @@
+- pkg:maven/com.epam.eco.kafkamanager/kafka-manager-udmetrics@0.1.0
+- pkg:maven/com.epam.eco.kafkamanager/kafka-manager-udmetrics@0.1.0?classifier=sources
+- pkg:maven/com.epam.eco.kafkamanager/kafka-manager-udmetrics@1.0.0
+- pkg:maven/com.epam.eco.kafkamanager/kafka-manager-udmetrics@1.0.0?classifier=sources

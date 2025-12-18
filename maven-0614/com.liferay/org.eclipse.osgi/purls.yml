@@ -31,3 +31,6 @@
 - pkg:maven/com.liferay/org.eclipse.osgi@3.13.0.LIFERAY-PATCHED-7
 - pkg:maven/com.liferay/org.eclipse.osgi@3.13.0.LIFERAY-PATCHED-7?classifier=sources
 - pkg:maven/com.liferay/org.eclipse.osgi@3.13.0.LIFERAY-PATCHED-7?classifier=sources-commercial
+- pkg:maven/com.liferay/org.eclipse.osgi@3.13.0.LIFERAY-PATCHED-8
+- pkg:maven/com.liferay/org.eclipse.osgi@3.13.0.LIFERAY-PATCHED-8?classifier=sources
+- pkg:maven/com.liferay/org.eclipse.osgi@3.13.0.LIFERAY-PATCHED-8?classifier=sources-commercial

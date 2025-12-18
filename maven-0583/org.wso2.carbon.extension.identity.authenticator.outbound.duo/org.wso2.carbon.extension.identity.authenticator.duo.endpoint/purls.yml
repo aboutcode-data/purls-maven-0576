@@ -9,3 +9,9 @@
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.duo/org.wso2.carbon.extension.identity.authenticator.duo.endpoint@1.0.5?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.duo/org.wso2.carbon.extension.identity.authenticator.duo.endpoint@1.0.5?classifier=sources
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.duo/org.wso2.carbon.extension.identity.authenticator.duo.endpoint@1.0.5?type=war
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.duo/org.wso2.carbon.extension.identity.authenticator.duo.endpoint@1.0.7?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.duo/org.wso2.carbon.extension.identity.authenticator.duo.endpoint@1.0.7?classifier=sources
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.duo/org.wso2.carbon.extension.identity.authenticator.duo.endpoint@1.0.7?type=war
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.duo/org.wso2.carbon.extension.identity.authenticator.duo.endpoint@1.0.8?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.duo/org.wso2.carbon.extension.identity.authenticator.duo.endpoint@1.0.8?classifier=sources
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.duo/org.wso2.carbon.extension.identity.authenticator.duo.endpoint@1.0.8?type=war

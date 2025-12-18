@@ -1,0 +1,5 @@
+- pkg:maven/org.opendaylight.coretutorials/dsbenchmark-features@1.0.1-Lithium-SR1?classifier=sources
+- pkg:maven/org.opendaylight.coretutorials/dsbenchmark-features@1.0.2-Lithium-SR2?classifier=sources
+- pkg:maven/org.opendaylight.coretutorials/dsbenchmark-features@1.0.3-Lithium-SR3?classifier=sources
+- pkg:maven/org.opendaylight.coretutorials/dsbenchmark-features@1.0.4-Lithium-SR4?classifier=sources
+- pkg:maven/org.opendaylight.coretutorials/dsbenchmark-features@2.2.0?classifier=sources

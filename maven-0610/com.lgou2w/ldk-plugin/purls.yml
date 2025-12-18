@@ -1,0 +1,2 @@
+- pkg:maven/com.lgou2w/ldk-plugin@0.1.9
+- pkg:maven/com.lgou2w/ldk-plugin@0.1.9?classifier=sources

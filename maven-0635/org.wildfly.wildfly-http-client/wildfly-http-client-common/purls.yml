@@ -38,6 +38,10 @@
 - pkg:maven/org.wildfly.wildfly-http-client/wildfly-http-client-common@1.0.15.Final?classifier=sources
 - pkg:maven/org.wildfly.wildfly-http-client/wildfly-http-client-common@1.0.16.Final
 - pkg:maven/org.wildfly.wildfly-http-client/wildfly-http-client-common@1.0.16.Final?classifier=sources
+- pkg:maven/org.wildfly.wildfly-http-client/wildfly-http-client-common@1.0.17.Final
+- pkg:maven/org.wildfly.wildfly-http-client/wildfly-http-client-common@1.0.17.Final?classifier=sources
+- pkg:maven/org.wildfly.wildfly-http-client/wildfly-http-client-common@1.0.18.Final
+- pkg:maven/org.wildfly.wildfly-http-client/wildfly-http-client-common@1.0.18.Final?classifier=sources
 - pkg:maven/org.wildfly.wildfly-http-client/wildfly-http-client-common@1.0.2.Final
 - pkg:maven/org.wildfly.wildfly-http-client/wildfly-http-client-common@1.0.2.Final?classifier=sources
 - pkg:maven/org.wildfly.wildfly-http-client/wildfly-http-client-common@1.0.3.Final

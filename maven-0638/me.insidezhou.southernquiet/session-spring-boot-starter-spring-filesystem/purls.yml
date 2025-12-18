@@ -1,0 +1,2 @@
+- pkg:maven/me.insidezhou.southernquiet/session-spring-boot-starter-spring-filesystem@4.0.5
+- pkg:maven/me.insidezhou.southernquiet/session-spring-boot-starter-spring-filesystem@4.0.5?classifier=sources

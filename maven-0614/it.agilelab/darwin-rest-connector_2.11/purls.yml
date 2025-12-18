@@ -1,3 +1,7 @@
+- pkg:maven/it.agilelab/darwin-rest-connector_2.11@1.0.10
+- pkg:maven/it.agilelab/darwin-rest-connector_2.11@1.0.10?classifier=sources
+- pkg:maven/it.agilelab/darwin-rest-connector_2.11@1.0.11
+- pkg:maven/it.agilelab/darwin-rest-connector_2.11@1.0.11?classifier=sources
 - pkg:maven/it.agilelab/darwin-rest-connector_2.11@1.0.7
 - pkg:maven/it.agilelab/darwin-rest-connector_2.11@1.0.7?classifier=sources
 - pkg:maven/it.agilelab/darwin-rest-connector_2.11@1.0.8

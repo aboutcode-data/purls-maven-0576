@@ -1,1 +1,4 @@
 - pkg:maven/org.apache.skywalking/configuration-api@6.2.0
+- pkg:maven/org.apache.skywalking/configuration-api@6.3.0
+- pkg:maven/org.apache.skywalking/configuration-api@6.4.0
+- pkg:maven/org.apache.skywalking/configuration-api@6.5.0

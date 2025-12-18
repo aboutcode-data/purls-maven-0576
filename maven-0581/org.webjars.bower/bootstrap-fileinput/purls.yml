@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.bower/bootstrap-fileinput@4.0.0
+- pkg:maven/org.webjars.bower/bootstrap-fileinput@4.0.0?classifier=sources
 - pkg:maven/org.webjars.bower/bootstrap-fileinput@4.2.0
 - pkg:maven/org.webjars.bower/bootstrap-fileinput@4.2.0?classifier=sources
 - pkg:maven/org.webjars.bower/bootstrap-fileinput@4.2.6

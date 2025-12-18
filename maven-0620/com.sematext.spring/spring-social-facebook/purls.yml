@@ -1,2 +1,4 @@
 - pkg:maven/com.sematext.spring/spring-social-facebook@3.0.0.M1
+- pkg:maven/com.sematext.spring/spring-social-facebook@3.0.0.M1-20191002
+- pkg:maven/com.sematext.spring/spring-social-facebook@3.0.0.M1-20191002?classifier=sources
 - pkg:maven/com.sematext.spring/spring-social-facebook@3.0.0.M1?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/org.cognitor.cassandra/cassandra-migration-spring-boot-starter@2.2.1?classifier=sources
 - pkg:maven/org.cognitor.cassandra/cassandra-migration-spring-boot-starter@2.2.1_v4
 - pkg:maven/org.cognitor.cassandra/cassandra-migration-spring-boot-starter@2.2.1_v4?classifier=sources
+- pkg:maven/org.cognitor.cassandra/cassandra-migration-spring-boot-starter@2.3.0
+- pkg:maven/org.cognitor.cassandra/cassandra-migration-spring-boot-starter@2.3.0?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/org.plotly-scala/plotly-almond_2.12@0.5.4?classifier=sources
 - pkg:maven/org.plotly-scala/plotly-almond_2.12@0.7.0
 - pkg:maven/org.plotly-scala/plotly-almond_2.12@0.7.0?classifier=sources
+- pkg:maven/org.plotly-scala/plotly-almond_2.12@0.7.1
+- pkg:maven/org.plotly-scala/plotly-almond_2.12@0.7.1?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/com.df4j/df4j-cloud-dependencies@1.2.4
 - pkg:maven/com.df4j/df4j-cloud-dependencies@1.2.5
+- pkg:maven/com.df4j/df4j-cloud-dependencies@1.2.5.1
+- pkg:maven/com.df4j/df4j-cloud-dependencies@1.2.5.2
+- pkg:maven/com.df4j/df4j-cloud-dependencies@1.2.5.3
+- pkg:maven/com.df4j/df4j-cloud-dependencies@1.2.6

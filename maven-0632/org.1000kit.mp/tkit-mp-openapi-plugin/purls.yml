@@ -1,0 +1,2 @@
+- pkg:maven/org.1000kit.mp/tkit-mp-openapi-plugin@0.1.0
+- pkg:maven/org.1000kit.mp/tkit-mp-openapi-plugin@0.1.0?classifier=sources

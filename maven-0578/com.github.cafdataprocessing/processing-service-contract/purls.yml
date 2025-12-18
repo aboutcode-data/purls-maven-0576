@@ -10,3 +10,5 @@
 - pkg:maven/com.github.cafdataprocessing/processing-service-contract@1.4.0-274?classifier=sources
 - pkg:maven/com.github.cafdataprocessing/processing-service-contract@1.5.0-390
 - pkg:maven/com.github.cafdataprocessing/processing-service-contract@1.5.0-390?classifier=sources
+- pkg:maven/com.github.cafdataprocessing/processing-service-contract@1.6.0-1
+- pkg:maven/com.github.cafdataprocessing/processing-service-contract@1.6.0-1?classifier=sources

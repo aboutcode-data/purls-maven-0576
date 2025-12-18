@@ -8,6 +8,14 @@
 - pkg:maven/org.dmfs/oauth2-providers@0.13?classifier=sources
 - pkg:maven/org.dmfs/oauth2-providers@0.14
 - pkg:maven/org.dmfs/oauth2-providers@0.14?classifier=sources
+- pkg:maven/org.dmfs/oauth2-providers@0.15
+- pkg:maven/org.dmfs/oauth2-providers@0.15?classifier=sources
+- pkg:maven/org.dmfs/oauth2-providers@0.16
+- pkg:maven/org.dmfs/oauth2-providers@0.16?classifier=sources
+- pkg:maven/org.dmfs/oauth2-providers@0.17
+- pkg:maven/org.dmfs/oauth2-providers@0.17?classifier=sources
+- pkg:maven/org.dmfs/oauth2-providers@0.18
+- pkg:maven/org.dmfs/oauth2-providers@0.18?classifier=sources
 - pkg:maven/org.dmfs/oauth2-providers@0.5.1
 - pkg:maven/org.dmfs/oauth2-providers@0.5.1?classifier=sources
 - pkg:maven/org.dmfs/oauth2-providers@0.5.2

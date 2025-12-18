@@ -1,0 +1,2 @@
+- pkg:maven/com.github.unknownnpc.psw/advcash_2.12@0.0.5
+- pkg:maven/com.github.unknownnpc.psw/advcash_2.12@0.0.5?classifier=sources

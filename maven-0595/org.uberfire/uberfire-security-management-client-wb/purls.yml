@@ -80,6 +80,12 @@
 - pkg:maven/org.uberfire/uberfire-security-management-client-wb@2.20.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-security-management-client-wb@2.21.0.Final
 - pkg:maven/org.uberfire/uberfire-security-management-client-wb@2.21.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-security-management-client-wb@2.22.0.Final
+- pkg:maven/org.uberfire/uberfire-security-management-client-wb@2.22.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-security-management-client-wb@2.23.0.Final
+- pkg:maven/org.uberfire/uberfire-security-management-client-wb@2.23.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-security-management-client-wb@2.24.0.Final
+- pkg:maven/org.uberfire/uberfire-security-management-client-wb@2.24.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-security-management-client-wb@2.3.0.Final
 - pkg:maven/org.uberfire/uberfire-security-management-client-wb@2.3.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-security-management-client-wb@2.4.0.Final
@@ -94,3 +100,7 @@
 - pkg:maven/org.uberfire/uberfire-security-management-client-wb@2.8.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-security-management-client-wb@2.9.0.Final
 - pkg:maven/org.uberfire/uberfire-security-management-client-wb@2.9.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-security-management-client-wb@7.28.0.Final
+- pkg:maven/org.uberfire/uberfire-security-management-client-wb@7.28.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-security-management-client-wb@7.29.0.Final
+- pkg:maven/org.uberfire/uberfire-security-management-client-wb@7.29.0.Final?classifier=sources

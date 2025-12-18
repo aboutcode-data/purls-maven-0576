@@ -1,4 +1,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-lexer-nbbridge@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-lexer-nbbridge@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-lexer-nbbridge@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-lexer-nbbridge@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-lexer-nbbridge@RELEASE90?classifier=sources

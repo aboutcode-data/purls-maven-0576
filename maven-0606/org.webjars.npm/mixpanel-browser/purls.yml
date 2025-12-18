@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/mixpanel-browser@2.29.1
+- pkg:maven/org.webjars.npm/mixpanel-browser@2.29.1?classifier=sources

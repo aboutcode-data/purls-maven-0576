@@ -20,3 +20,11 @@
 - pkg:maven/org.logevents/logevents-smtp-demo@0.1.19?classifier=sources
 - pkg:maven/org.logevents/logevents-smtp-demo@0.1.20
 - pkg:maven/org.logevents/logevents-smtp-demo@0.1.20?classifier=sources
+- pkg:maven/org.logevents/logevents-smtp-demo@0.1.21
+- pkg:maven/org.logevents/logevents-smtp-demo@0.1.21?classifier=sources
+- pkg:maven/org.logevents/logevents-smtp-demo@0.1.22
+- pkg:maven/org.logevents/logevents-smtp-demo@0.1.22?classifier=sources
+- pkg:maven/org.logevents/logevents-smtp-demo@0.1.24
+- pkg:maven/org.logevents/logevents-smtp-demo@0.1.24?classifier=sources
+- pkg:maven/org.logevents/logevents-smtp-demo@0.1.25
+- pkg:maven/org.logevents/logevents-smtp-demo@0.1.25?classifier=sources

@@ -88,6 +88,11 @@
 - pkg:maven/org.jbpm/org.jbpm.eclipse@7.22.0.Final?classifier=sources
 - pkg:maven/org.jbpm/org.jbpm.eclipse@7.23.0.Final?classifier=sources
 - pkg:maven/org.jbpm/org.jbpm.eclipse@7.24.0.Final?classifier=sources
+- pkg:maven/org.jbpm/org.jbpm.eclipse@7.25.0.Final?classifier=sources
+- pkg:maven/org.jbpm/org.jbpm.eclipse@7.26.0.Final?classifier=sources
+- pkg:maven/org.jbpm/org.jbpm.eclipse@7.27.0.Final?classifier=sources
+- pkg:maven/org.jbpm/org.jbpm.eclipse@7.28.0.Final?classifier=sources
+- pkg:maven/org.jbpm/org.jbpm.eclipse@7.29.0.Final?classifier=sources
 - pkg:maven/org.jbpm/org.jbpm.eclipse@7.3.0.Final?classifier=sources
 - pkg:maven/org.jbpm/org.jbpm.eclipse@7.4.0.Final?classifier=sources
 - pkg:maven/org.jbpm/org.jbpm.eclipse@7.4.1.Final?classifier=sources

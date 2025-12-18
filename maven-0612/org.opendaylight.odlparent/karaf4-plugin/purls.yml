@@ -1,0 +1,12 @@
+- pkg:maven/org.opendaylight.odlparent/karaf4-plugin@1.8.0-Carbon
+- pkg:maven/org.opendaylight.odlparent/karaf4-plugin@1.8.0-Carbon?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/karaf4-plugin@1.8.1-Carbon
+- pkg:maven/org.opendaylight.odlparent/karaf4-plugin@1.8.1-Carbon?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/karaf4-plugin@1.8.2-Carbon
+- pkg:maven/org.opendaylight.odlparent/karaf4-plugin@1.8.2-Carbon?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/karaf4-plugin@1.8.3-Carbon
+- pkg:maven/org.opendaylight.odlparent/karaf4-plugin@1.8.3-Carbon?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/karaf4-plugin@1.8.4-Carbon
+- pkg:maven/org.opendaylight.odlparent/karaf4-plugin@1.8.4-Carbon?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/karaf4-plugin@1.9.0
+- pkg:maven/org.opendaylight.odlparent/karaf4-plugin@1.9.0?classifier=sources

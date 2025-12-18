@@ -1,0 +1,2 @@
+- pkg:maven/com.github.ajozwik/quill-jdbc-monix-macro_2.13@0.8.8.2
+- pkg:maven/com.github.ajozwik/quill-jdbc-monix-macro_2.13@0.8.8.2?classifier=sources

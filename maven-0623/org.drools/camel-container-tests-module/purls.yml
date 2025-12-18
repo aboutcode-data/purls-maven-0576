@@ -24,3 +24,13 @@
 - pkg:maven/org.drools/camel-container-tests-module@7.24.0.Final?type=war
 - pkg:maven/org.drools/camel-container-tests-module@7.24.0.t043?classifier=sources
 - pkg:maven/org.drools/camel-container-tests-module@7.24.0.t043?type=war
+- pkg:maven/org.drools/camel-container-tests-module@7.25.0.Final?classifier=sources
+- pkg:maven/org.drools/camel-container-tests-module@7.25.0.Final?type=war
+- pkg:maven/org.drools/camel-container-tests-module@7.26.0.Final?classifier=sources
+- pkg:maven/org.drools/camel-container-tests-module@7.26.0.Final?type=war
+- pkg:maven/org.drools/camel-container-tests-module@7.27.0.Final?classifier=sources
+- pkg:maven/org.drools/camel-container-tests-module@7.27.0.Final?type=war
+- pkg:maven/org.drools/camel-container-tests-module@7.28.0.Final?classifier=sources
+- pkg:maven/org.drools/camel-container-tests-module@7.28.0.Final?type=war
+- pkg:maven/org.drools/camel-container-tests-module@7.29.0.Final?classifier=sources
+- pkg:maven/org.drools/camel-container-tests-module@7.29.0.Final?type=war

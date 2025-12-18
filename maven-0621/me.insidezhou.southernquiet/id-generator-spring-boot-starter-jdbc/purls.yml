@@ -1,0 +1,2 @@
+- pkg:maven/me.insidezhou.southernquiet/id-generator-spring-boot-starter-jdbc@4.0.5
+- pkg:maven/me.insidezhou.southernquiet/id-generator-spring-boot-starter-jdbc@4.0.5?classifier=sources

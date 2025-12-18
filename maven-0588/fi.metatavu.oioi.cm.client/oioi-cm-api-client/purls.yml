@@ -1,0 +1,2 @@
+- pkg:maven/fi.metatavu.oioi.cm.client/oioi-cm-api-client@2.0.14
+- pkg:maven/fi.metatavu.oioi.cm.client/oioi-cm-api-client@2.0.14?classifier=sources

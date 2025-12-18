@@ -1,0 +1,2 @@
+- pkg:maven/no.ssb.saga/sagalog-pulsar@0.1
+- pkg:maven/no.ssb.saga/sagalog-pulsar@0.1?classifier=sources

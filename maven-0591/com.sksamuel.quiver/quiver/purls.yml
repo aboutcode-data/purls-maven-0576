@@ -1,0 +1,4 @@
+- pkg:maven/com.sksamuel.quiver/quiver@0.84.0
+- pkg:maven/com.sksamuel.quiver/quiver@0.84.0?classifier=sources
+- pkg:maven/com.sksamuel.quiver/quiver@0.85.0
+- pkg:maven/com.sksamuel.quiver/quiver@0.85.0?classifier=sources

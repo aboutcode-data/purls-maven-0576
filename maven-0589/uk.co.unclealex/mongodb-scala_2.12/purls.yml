@@ -24,3 +24,5 @@
 - pkg:maven/uk.co.unclealex/mongodb-scala_2.12@1.1.9?classifier=sources
 - pkg:maven/uk.co.unclealex/mongodb-scala_2.12@1.2.0
 - pkg:maven/uk.co.unclealex/mongodb-scala_2.12@1.2.0?classifier=sources
+- pkg:maven/uk.co.unclealex/mongodb-scala_2.12@1.2.1
+- pkg:maven/uk.co.unclealex/mongodb-scala_2.12@1.2.1?classifier=sources

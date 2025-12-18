@@ -1,7 +1,11 @@
+- pkg:maven/io.konig/konig-content-system-gae@1.12.0?classifier=sources
+- pkg:maven/io.konig/konig-content-system-gae@1.12.0?type=war
 - pkg:maven/io.konig/konig-content-system-gae@2.0.0?classifier=sources
 - pkg:maven/io.konig/konig-content-system-gae@2.0.0?type=war
 - pkg:maven/io.konig/konig-content-system-gae@2.1.0?classifier=sources
 - pkg:maven/io.konig/konig-content-system-gae@2.1.0?type=war
+- pkg:maven/io.konig/konig-content-system-gae@2.11.0?classifier=sources
+- pkg:maven/io.konig/konig-content-system-gae@2.11.0?type=war
 - pkg:maven/io.konig/konig-content-system-gae@2.2.0?classifier=sources
 - pkg:maven/io.konig/konig-content-system-gae@2.2.0?type=war
 - pkg:maven/io.konig/konig-content-system-gae@2.3.0?classifier=sources
@@ -12,3 +16,7 @@
 - pkg:maven/io.konig/konig-content-system-gae@2.5.0?type=war
 - pkg:maven/io.konig/konig-content-system-gae@2.6.0?classifier=sources
 - pkg:maven/io.konig/konig-content-system-gae@2.6.0?type=war
+- pkg:maven/io.konig/konig-content-system-gae@2.7.0?classifier=sources
+- pkg:maven/io.konig/konig-content-system-gae@2.7.0?type=war
+- pkg:maven/io.konig/konig-content-system-gae@2.8.0?classifier=sources
+- pkg:maven/io.konig/konig-content-system-gae@2.8.0?type=war

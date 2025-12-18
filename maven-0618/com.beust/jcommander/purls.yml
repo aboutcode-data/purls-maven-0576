@@ -63,4 +63,9 @@
 - pkg:maven/com.beust/jcommander@1.7
 - pkg:maven/com.beust/jcommander@1.72
 - pkg:maven/com.beust/jcommander@1.72?classifier=sources
+- pkg:maven/com.beust/jcommander@1.75
+- pkg:maven/com.beust/jcommander@1.75?classifier=sources
+- pkg:maven/com.beust/jcommander@1.77?classifier=sources
+- pkg:maven/com.beust/jcommander@1.78
+- pkg:maven/com.beust/jcommander@1.78?classifier=sources
 - pkg:maven/com.beust/jcommander@1.7?classifier=sources

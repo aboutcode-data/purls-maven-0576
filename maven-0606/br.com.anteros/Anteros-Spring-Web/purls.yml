@@ -30,3 +30,5 @@
 - pkg:maven/br.com.anteros/Anteros-Spring-Web@2.0.5?classifier=sources
 - pkg:maven/br.com.anteros/Anteros-Spring-Web@2.0.6
 - pkg:maven/br.com.anteros/Anteros-Spring-Web@2.0.6?classifier=sources
+- pkg:maven/br.com.anteros/Anteros-Spring-Web@2.0.7
+- pkg:maven/br.com.anteros/Anteros-Spring-Web@2.0.7?classifier=sources

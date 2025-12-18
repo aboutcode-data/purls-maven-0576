@@ -14,6 +14,8 @@
 - pkg:maven/com.expedia.www/haystack-service-graph-snapshot-store@1.0.17?classifier=sources
 - pkg:maven/com.expedia.www/haystack-service-graph-snapshot-store@1.0.18
 - pkg:maven/com.expedia.www/haystack-service-graph-snapshot-store@1.0.18?classifier=sources
+- pkg:maven/com.expedia.www/haystack-service-graph-snapshot-store@1.0.19
+- pkg:maven/com.expedia.www/haystack-service-graph-snapshot-store@1.0.19?classifier=sources
 - pkg:maven/com.expedia.www/haystack-service-graph-snapshot-store@1.0.4
 - pkg:maven/com.expedia.www/haystack-service-graph-snapshot-store@1.0.4?classifier=sources
 - pkg:maven/com.expedia.www/haystack-service-graph-snapshot-store@1.0.5

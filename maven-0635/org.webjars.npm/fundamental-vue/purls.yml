@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/fundamental-vue@0.18.1
+- pkg:maven/org.webjars.npm/fundamental-vue@0.18.1?classifier=sources

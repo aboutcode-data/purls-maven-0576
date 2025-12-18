@@ -18,3 +18,7 @@
 - pkg:maven/com.powsybl/powsybl-itools-packager-maven-plugin@2.5.2?classifier=sources
 - pkg:maven/com.powsybl/powsybl-itools-packager-maven-plugin@2.6.0
 - pkg:maven/com.powsybl/powsybl-itools-packager-maven-plugin@2.6.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-itools-packager-maven-plugin@2.6.1
+- pkg:maven/com.powsybl/powsybl-itools-packager-maven-plugin@2.6.1?classifier=sources
+- pkg:maven/com.powsybl/powsybl-itools-packager-maven-plugin@3.0.0
+- pkg:maven/com.powsybl/powsybl-itools-packager-maven-plugin@3.0.0?classifier=sources

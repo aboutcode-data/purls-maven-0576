@@ -8,3 +8,5 @@
 - pkg:maven/at.favre.lib/dali@0.3.6?type=aar
 - pkg:maven/at.favre.lib/dali@0.3.7?classifier=sources
 - pkg:maven/at.favre.lib/dali@0.3.7?type=aar
+- pkg:maven/at.favre.lib/dali@0.3.8?classifier=sources
+- pkg:maven/at.favre.lib/dali@0.3.8?type=aar

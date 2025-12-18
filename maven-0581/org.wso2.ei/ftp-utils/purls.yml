@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.ei/ftp-utils@0.100.0?type=zip
+- pkg:maven/org.wso2.ei/ftp-utils@0.3.1

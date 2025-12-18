@@ -1,3 +1,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-phpunit@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-phpunit@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-phpunit@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-phpunit@RELEASE112?classifier=sources

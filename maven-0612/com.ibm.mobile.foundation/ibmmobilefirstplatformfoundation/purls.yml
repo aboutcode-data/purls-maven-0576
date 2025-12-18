@@ -78,3 +78,9 @@
 - pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundation@8.0.2019052014?type=aar
 - pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundation@8.0.2019061806?classifier=sources
 - pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundation@8.0.2019061806?type=aar
+- pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundation@8.0.2019072508?classifier=sources
+- pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundation@8.0.2019072508?type=aar
+- pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundation@8.0.2019082915?classifier=sources
+- pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundation@8.0.2019082915?type=aar
+- pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundation@8.0.2019100905?classifier=sources
+- pkg:maven/com.ibm.mobile.foundation/ibmmobilefirstplatformfoundation@8.0.2019100905?type=aar

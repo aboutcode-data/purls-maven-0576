@@ -15,7 +15,15 @@
 - pkg:maven/com.vladsch.boxed-json/boxed-json@0.5.22?classifier=sources
 - pkg:maven/com.vladsch.boxed-json/boxed-json@0.5.24
 - pkg:maven/com.vladsch.boxed-json/boxed-json@0.5.24?classifier=sources
+- pkg:maven/com.vladsch.boxed-json/boxed-json@0.5.26
+- pkg:maven/com.vladsch.boxed-json/boxed-json@0.5.26?classifier=sources
+- pkg:maven/com.vladsch.boxed-json/boxed-json@0.5.28
+- pkg:maven/com.vladsch.boxed-json/boxed-json@0.5.28?classifier=sources
 - pkg:maven/com.vladsch.boxed-json/boxed-json@0.5.3
+- pkg:maven/com.vladsch.boxed-json/boxed-json@0.5.30
+- pkg:maven/com.vladsch.boxed-json/boxed-json@0.5.30?classifier=sources
+- pkg:maven/com.vladsch.boxed-json/boxed-json@0.5.32
+- pkg:maven/com.vladsch.boxed-json/boxed-json@0.5.32?classifier=sources
 - pkg:maven/com.vladsch.boxed-json/boxed-json@0.5.3?classifier=sources
 - pkg:maven/com.vladsch.boxed-json/boxed-json@0.5.4
 - pkg:maven/com.vladsch.boxed-json/boxed-json@0.5.4?classifier=sources

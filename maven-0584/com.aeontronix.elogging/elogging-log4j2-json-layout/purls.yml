@@ -1,0 +1,2 @@
+- pkg:maven/com.aeontronix.elogging/elogging-log4j2-json-layout@1.0.2
+- pkg:maven/com.aeontronix.elogging/elogging-log4j2-json-layout@1.0.2?classifier=sources

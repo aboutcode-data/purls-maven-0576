@@ -24,3 +24,5 @@
 - pkg:maven/com.thron.sdk/thron-core-xpackager_2.11@6.1.1?classifier=sources
 - pkg:maven/com.thron.sdk/thron-core-xpackager_2.11@6.1.2
 - pkg:maven/com.thron.sdk/thron-core-xpackager_2.11@6.1.2?classifier=sources
+- pkg:maven/com.thron.sdk/thron-core-xpackager_2.11@6.4.4
+- pkg:maven/com.thron.sdk/thron-core-xpackager_2.11@6.4.4?classifier=sources

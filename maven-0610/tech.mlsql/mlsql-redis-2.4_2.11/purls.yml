@@ -1,0 +1,2 @@
+- pkg:maven/tech.mlsql/mlsql-redis-2.4_2.11@0.1.0
+- pkg:maven/tech.mlsql/mlsql-redis-2.4_2.11@0.1.0?classifier=sources

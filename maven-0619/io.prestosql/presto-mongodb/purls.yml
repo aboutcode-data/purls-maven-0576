@@ -15,3 +15,12 @@
 - pkg:maven/io.prestosql/presto-mongodb@314?classifier=sources
 - pkg:maven/io.prestosql/presto-mongodb@315?classifier=sources
 - pkg:maven/io.prestosql/presto-mongodb@316?classifier=sources
+- pkg:maven/io.prestosql/presto-mongodb@317?classifier=sources
+- pkg:maven/io.prestosql/presto-mongodb@318?classifier=sources
+- pkg:maven/io.prestosql/presto-mongodb@319?classifier=sources
+- pkg:maven/io.prestosql/presto-mongodb@320?classifier=sources
+- pkg:maven/io.prestosql/presto-mongodb@321?classifier=sources
+- pkg:maven/io.prestosql/presto-mongodb@322?classifier=sources
+- pkg:maven/io.prestosql/presto-mongodb@323?classifier=sources
+- pkg:maven/io.prestosql/presto-mongodb@324?classifier=sources
+- pkg:maven/io.prestosql/presto-mongodb@325?classifier=sources

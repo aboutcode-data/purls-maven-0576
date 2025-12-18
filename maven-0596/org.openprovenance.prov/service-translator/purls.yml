@@ -1,0 +1,2 @@
+- pkg:maven/org.openprovenance.prov/service-translator@0.9.0?classifier=sources
+- pkg:maven/org.openprovenance.prov/service-translator@0.9.0?type=war

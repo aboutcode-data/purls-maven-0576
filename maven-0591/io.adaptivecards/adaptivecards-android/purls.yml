@@ -7,3 +7,5 @@
 - pkg:maven/io.adaptivecards/adaptivecards-android@1.1.1?type=aar
 - pkg:maven/io.adaptivecards/adaptivecards-android@1.2.0-beta1?type=aar
 - pkg:maven/io.adaptivecards/adaptivecards-android@1.2.0?type=aar
+- pkg:maven/io.adaptivecards/adaptivecards-android@1.2.1?type=aar
+- pkg:maven/io.adaptivecards/adaptivecards-android@1.2.3?type=aar

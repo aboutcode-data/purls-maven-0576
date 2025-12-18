@@ -12,3 +12,11 @@
 - pkg:maven/nl.crashdata.crashdata-parent/crashdata-version-rules@1.26?classifier=sources
 - pkg:maven/nl.crashdata.crashdata-parent/crashdata-version-rules@1.27
 - pkg:maven/nl.crashdata.crashdata-parent/crashdata-version-rules@1.27?classifier=sources
+- pkg:maven/nl.crashdata.crashdata-parent/crashdata-version-rules@1.28
+- pkg:maven/nl.crashdata.crashdata-parent/crashdata-version-rules@1.28?classifier=sources
+- pkg:maven/nl.crashdata.crashdata-parent/crashdata-version-rules@1.29
+- pkg:maven/nl.crashdata.crashdata-parent/crashdata-version-rules@1.29?classifier=sources
+- pkg:maven/nl.crashdata.crashdata-parent/crashdata-version-rules@1.30
+- pkg:maven/nl.crashdata.crashdata-parent/crashdata-version-rules@1.30?classifier=sources
+- pkg:maven/nl.crashdata.crashdata-parent/crashdata-version-rules@1.31
+- pkg:maven/nl.crashdata.crashdata-parent/crashdata-version-rules@1.31?classifier=sources

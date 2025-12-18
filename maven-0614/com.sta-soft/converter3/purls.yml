@@ -1,0 +1,12 @@
+- pkg:maven/com.sta-soft/converter3@3.109
+- pkg:maven/com.sta-soft/converter3@3.109?classifier=sources
+- pkg:maven/com.sta-soft/converter3@3.110
+- pkg:maven/com.sta-soft/converter3@3.110?classifier=sources
+- pkg:maven/com.sta-soft/converter3@3.111
+- pkg:maven/com.sta-soft/converter3@3.111?classifier=sources
+- pkg:maven/com.sta-soft/converter3@3.112
+- pkg:maven/com.sta-soft/converter3@3.112?classifier=sources
+- pkg:maven/com.sta-soft/converter3@3.113
+- pkg:maven/com.sta-soft/converter3@3.113?classifier=sources
+- pkg:maven/com.sta-soft/converter3@3.114
+- pkg:maven/com.sta-soft/converter3@3.114?classifier=sources

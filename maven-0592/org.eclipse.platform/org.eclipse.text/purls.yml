@@ -12,3 +12,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.text@3.8.100?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.text@3.8.200
 - pkg:maven/org.eclipse.platform/org.eclipse.text@3.8.200?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.text@3.9.0
+- pkg:maven/org.eclipse.platform/org.eclipse.text@3.9.0?classifier=sources

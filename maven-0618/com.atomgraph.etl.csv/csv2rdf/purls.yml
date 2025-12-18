@@ -1,0 +1,2 @@
+- pkg:maven/com.atomgraph.etl.csv/csv2rdf@2.0.1
+- pkg:maven/com.atomgraph.etl.csv/csv2rdf@2.0.1?classifier=sources

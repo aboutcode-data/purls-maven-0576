@@ -24,3 +24,5 @@
 - pkg:maven/org.webjars.npm/redux@4.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/redux@4.0.1
 - pkg:maven/org.webjars.npm/redux@4.0.1?classifier=sources
+- pkg:maven/org.webjars.npm/redux@4.0.4
+- pkg:maven/org.webjars.npm/redux@4.0.4?classifier=sources

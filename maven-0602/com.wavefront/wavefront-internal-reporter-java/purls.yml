@@ -14,3 +14,11 @@
 - pkg:maven/com.wavefront/wavefront-internal-reporter-java@0.9.6?classifier=sources
 - pkg:maven/com.wavefront/wavefront-internal-reporter-java@0.9.7
 - pkg:maven/com.wavefront/wavefront-internal-reporter-java@0.9.7?classifier=sources
+- pkg:maven/com.wavefront/wavefront-internal-reporter-java@0.9.8
+- pkg:maven/com.wavefront/wavefront-internal-reporter-java@0.9.8?classifier=sources
+- pkg:maven/com.wavefront/wavefront-internal-reporter-java@0.9.9
+- pkg:maven/com.wavefront/wavefront-internal-reporter-java@0.9.9?classifier=sources
+- pkg:maven/com.wavefront/wavefront-internal-reporter-java@1.0
+- pkg:maven/com.wavefront/wavefront-internal-reporter-java@1.0?classifier=sources
+- pkg:maven/com.wavefront/wavefront-internal-reporter-java@1.1
+- pkg:maven/com.wavefront/wavefront-internal-reporter-java@1.1?classifier=sources

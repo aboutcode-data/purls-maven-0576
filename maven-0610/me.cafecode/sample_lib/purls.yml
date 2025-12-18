@@ -1,0 +1,2 @@
+- pkg:maven/me.cafecode/sample_lib@1.0.0?classifier=sources
+- pkg:maven/me.cafecode/sample_lib@1.0.0?type=aar

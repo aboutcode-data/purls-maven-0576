@@ -1,0 +1,2 @@
+- pkg:maven/org.librarysimplified/org.librarysimplified.notifications@4.0.0?classifier=sources
+- pkg:maven/org.librarysimplified/org.librarysimplified.notifications@4.0.0?type=aar

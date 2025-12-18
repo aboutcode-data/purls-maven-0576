@@ -1,0 +1,2 @@
+- pkg:maven/io.stryker-mutator/mutation-testing-metrics-circe_0.19@1.2.0
+- pkg:maven/io.stryker-mutator/mutation-testing-metrics-circe_0.19@1.2.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.daanvdh.javaforger/JavaForger@1.0.2
+- pkg:maven/com.github.daanvdh.javaforger/JavaForger@1.0.2?classifier=sources

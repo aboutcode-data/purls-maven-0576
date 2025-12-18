@@ -29,6 +29,8 @@
 - pkg:maven/net.sourceforge.pmd/pmd-java8@6.15.0
 - pkg:maven/net.sourceforge.pmd/pmd-java8@6.16.0
 - pkg:maven/net.sourceforge.pmd/pmd-java8@6.17.0
+- pkg:maven/net.sourceforge.pmd/pmd-java8@6.18.0
+- pkg:maven/net.sourceforge.pmd/pmd-java8@6.19.0
 - pkg:maven/net.sourceforge.pmd/pmd-java8@6.2.0
 - pkg:maven/net.sourceforge.pmd/pmd-java8@6.3.0
 - pkg:maven/net.sourceforge.pmd/pmd-java8@6.4.0

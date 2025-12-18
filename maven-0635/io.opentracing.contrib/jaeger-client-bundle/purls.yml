@@ -4,3 +4,5 @@
 - pkg:maven/io.opentracing.contrib/jaeger-client-bundle@0.0.2?classifier=sources
 - pkg:maven/io.opentracing.contrib/jaeger-client-bundle@0.0.3
 - pkg:maven/io.opentracing.contrib/jaeger-client-bundle@0.0.3?classifier=sources
+- pkg:maven/io.opentracing.contrib/jaeger-client-bundle@1.0.0
+- pkg:maven/io.opentracing.contrib/jaeger-client-bundle@1.0.0?classifier=sources

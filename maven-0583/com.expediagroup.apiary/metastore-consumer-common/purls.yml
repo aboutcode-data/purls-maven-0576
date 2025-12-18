@@ -1,2 +1,4 @@
 - pkg:maven/com.expediagroup.apiary/metastore-consumer-common@4.1.0
 - pkg:maven/com.expediagroup.apiary/metastore-consumer-common@4.1.0?classifier=sources
+- pkg:maven/com.expediagroup.apiary/metastore-consumer-common@4.2.0
+- pkg:maven/com.expediagroup.apiary/metastore-consumer-common@4.2.0?classifier=sources

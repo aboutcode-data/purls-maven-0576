@@ -1,0 +1,4 @@
+- pkg:maven/org.bsc.maven/maven-confluence-processor-freemarker@6.7
+- pkg:maven/org.bsc.maven/maven-confluence-processor-freemarker@6.7.1
+- pkg:maven/org.bsc.maven/maven-confluence-processor-freemarker@6.7.1?classifier=sources
+- pkg:maven/org.bsc.maven/maven-confluence-processor-freemarker@6.7?classifier=sources

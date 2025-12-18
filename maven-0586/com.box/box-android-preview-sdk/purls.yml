@@ -22,3 +22,5 @@
 - pkg:maven/com.box/box-android-preview-sdk@3.0.2?type=aar
 - pkg:maven/com.box/box-android-preview-sdk@3.0.3?classifier=sources
 - pkg:maven/com.box/box-android-preview-sdk@3.0.3?type=aar
+- pkg:maven/com.box/box-android-preview-sdk@3.0.4?classifier=sources
+- pkg:maven/com.box/box-android-preview-sdk@3.0.4?type=aar

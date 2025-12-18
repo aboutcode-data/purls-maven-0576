@@ -1,3 +1,4 @@
 - pkg:maven/org.netbeans.external/html5-parser@RELEASE100
 - pkg:maven/org.netbeans.external/html5-parser@RELEASE110
+- pkg:maven/org.netbeans.external/html5-parser@RELEASE112
 - pkg:maven/org.netbeans.external/html5-parser@RELEASE90

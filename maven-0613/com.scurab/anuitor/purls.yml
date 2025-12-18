@@ -24,3 +24,9 @@
 - pkg:maven/com.scurab/anuitor@0.9.8?type=aar
 - pkg:maven/com.scurab/anuitor@0.9.9?classifier=sources
 - pkg:maven/com.scurab/anuitor@0.9.9?type=aar
+- pkg:maven/com.scurab/anuitor@1.0.0?classifier=sources
+- pkg:maven/com.scurab/anuitor@1.0.0?type=aar
+- pkg:maven/com.scurab/anuitor@1.0.1?classifier=sources
+- pkg:maven/com.scurab/anuitor@1.0.1?type=aar
+- pkg:maven/com.scurab/anuitor@1.0.2?classifier=sources
+- pkg:maven/com.scurab/anuitor@1.0.2?type=aar

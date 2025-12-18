@@ -12,3 +12,17 @@
 - pkg:maven/org.hoyi/hoyi-entities-java@9.0.3?classifier=sources
 - pkg:maven/org.hoyi/hoyi-entities-java@9.0.4
 - pkg:maven/org.hoyi/hoyi-entities-java@9.0.4?classifier=sources
+- pkg:maven/org.hoyi/hoyi-entities-java@9.0.5
+- pkg:maven/org.hoyi/hoyi-entities-java@9.0.51
+- pkg:maven/org.hoyi/hoyi-entities-java@9.0.51?classifier=sources
+- pkg:maven/org.hoyi/hoyi-entities-java@9.0.52
+- pkg:maven/org.hoyi/hoyi-entities-java@9.0.52?classifier=sources
+- pkg:maven/org.hoyi/hoyi-entities-java@9.0.53
+- pkg:maven/org.hoyi/hoyi-entities-java@9.0.53?classifier=sources
+- pkg:maven/org.hoyi/hoyi-entities-java@9.0.54
+- pkg:maven/org.hoyi/hoyi-entities-java@9.0.54?classifier=sources
+- pkg:maven/org.hoyi/hoyi-entities-java@9.0.55
+- pkg:maven/org.hoyi/hoyi-entities-java@9.0.55?classifier=sources
+- pkg:maven/org.hoyi/hoyi-entities-java@9.0.56
+- pkg:maven/org.hoyi/hoyi-entities-java@9.0.56?classifier=sources
+- pkg:maven/org.hoyi/hoyi-entities-java@9.0.5?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/dev.moataz/firebots@0.0.1?classifier=sources
+- pkg:maven/dev.moataz/firebots@0.0.1?type=aar
+- pkg:maven/dev.moataz/firebots@0.0.5?classifier=sources
+- pkg:maven/dev.moataz/firebots@0.0.5?type=aar

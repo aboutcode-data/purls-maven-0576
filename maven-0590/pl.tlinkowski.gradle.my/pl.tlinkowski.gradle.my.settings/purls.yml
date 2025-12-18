@@ -1,0 +1,8 @@
+- pkg:maven/pl.tlinkowski.gradle.my/pl.tlinkowski.gradle.my.settings@0.2.0
+- pkg:maven/pl.tlinkowski.gradle.my/pl.tlinkowski.gradle.my.settings@0.2.0?classifier=sources
+- pkg:maven/pl.tlinkowski.gradle.my/pl.tlinkowski.gradle.my.settings@0.3.0
+- pkg:maven/pl.tlinkowski.gradle.my/pl.tlinkowski.gradle.my.settings@0.3.0?classifier=sources
+- pkg:maven/pl.tlinkowski.gradle.my/pl.tlinkowski.gradle.my.settings@0.4.0
+- pkg:maven/pl.tlinkowski.gradle.my/pl.tlinkowski.gradle.my.settings@0.4.0?classifier=sources
+- pkg:maven/pl.tlinkowski.gradle.my/pl.tlinkowski.gradle.my.settings@0.5.0
+- pkg:maven/pl.tlinkowski.gradle.my/pl.tlinkowski.gradle.my.settings@0.5.0?classifier=sources

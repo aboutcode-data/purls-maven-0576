@@ -76,3 +76,5 @@
 - pkg:maven/com.simplaex/bedrock@2018.05.22?classifier=sources
 - pkg:maven/com.simplaex/bedrock@2018.06.01
 - pkg:maven/com.simplaex/bedrock@2018.06.01?classifier=sources
+- pkg:maven/com.simplaex/bedrock@2019.10.16
+- pkg:maven/com.simplaex/bedrock@2019.10.16?classifier=sources

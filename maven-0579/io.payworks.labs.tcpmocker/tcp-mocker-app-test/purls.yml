@@ -1,4 +1,5 @@
 - pkg:maven/io.payworks.labs.tcpmocker/tcp-mocker-app-test@1.0.144.RELEASE
+- pkg:maven/io.payworks.labs.tcpmocker/tcp-mocker-app-test@1.0.167.RELEASE
 - pkg:maven/io.payworks.labs.tcpmocker/tcp-mocker-app-test@1.0.71.RELEASE
 - pkg:maven/io.payworks.labs.tcpmocker/tcp-mocker-app-test@1.0.86.RELEASE
 - pkg:maven/io.payworks.labs.tcpmocker/tcp-mocker-app-test@1.0.91.RELEASE

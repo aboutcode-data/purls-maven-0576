@@ -6,6 +6,7 @@
 - pkg:maven/com.smartcodeltd/release-candidate-maven-plugin@1.0-201605132325.9e7d5be?classifier=sources
 - pkg:maven/com.smartcodeltd/release-candidate-maven-plugin@1.0-201609171818.3e8187b
 - pkg:maven/com.smartcodeltd/release-candidate-maven-plugin@1.0-201609171818.3e8187b?classifier=sources
+- pkg:maven/com.smartcodeltd/release-candidate-maven-plugin@1.0-201910011043.383523b
 - pkg:maven/com.smartcodeltd/release-candidate-maven-plugin@1.0.0-201508221135.9761af8
 - pkg:maven/com.smartcodeltd/release-candidate-maven-plugin@1.0.0-201508221135.9761af8?classifier=sources
 - pkg:maven/com.smartcodeltd/release-candidate-maven-plugin@1.0.0-201508221514.9761af8

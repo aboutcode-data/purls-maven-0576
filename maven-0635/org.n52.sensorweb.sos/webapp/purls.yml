@@ -1,3 +1,5 @@
+- pkg:maven/org.n52.sensorweb.sos/webapp@5.0.0-alpha.10?classifier=sources
+- pkg:maven/org.n52.sensorweb.sos/webapp@5.0.0-alpha.10?type=war
 - pkg:maven/org.n52.sensorweb.sos/webapp@5.0.0-alpha.2?classifier=sources
 - pkg:maven/org.n52.sensorweb.sos/webapp@5.0.0-alpha.2?type=war
 - pkg:maven/org.n52.sensorweb.sos/webapp@5.0.0-alpha.4?classifier=sources
@@ -6,3 +8,5 @@
 - pkg:maven/org.n52.sensorweb.sos/webapp@5.0.0-alpha.5?type=war
 - pkg:maven/org.n52.sensorweb.sos/webapp@5.0.0-alpha.7?classifier=sources
 - pkg:maven/org.n52.sensorweb.sos/webapp@5.0.0-alpha.7?type=war
+- pkg:maven/org.n52.sensorweb.sos/webapp@5.0.0-alpha.8?classifier=sources
+- pkg:maven/org.n52.sensorweb.sos/webapp@5.0.0-alpha.8?type=war

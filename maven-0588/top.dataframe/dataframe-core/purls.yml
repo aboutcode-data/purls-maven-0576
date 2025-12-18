@@ -1,0 +1,8 @@
+- pkg:maven/top.dataframe/dataframe-core@0.6.1
+- pkg:maven/top.dataframe/dataframe-core@0.6.1?classifier=sources
+- pkg:maven/top.dataframe/dataframe-core@0.6.2
+- pkg:maven/top.dataframe/dataframe-core@0.6.2?classifier=sources
+- pkg:maven/top.dataframe/dataframe-core@0.6.3
+- pkg:maven/top.dataframe/dataframe-core@0.6.3?classifier=sources
+- pkg:maven/top.dataframe/dataframe-core@0.6.4
+- pkg:maven/top.dataframe/dataframe-core@0.6.4?classifier=sources

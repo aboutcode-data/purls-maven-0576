@@ -23,4 +23,6 @@
 - pkg:maven/org.glassfish.jersey.ext.rx/jersey-rx-client-rxjava2@2.28-RC4?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext.rx/jersey-rx-client-rxjava2@2.28?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext.rx/jersey-rx-client-rxjava2@2.29
+- pkg:maven/org.glassfish.jersey.ext.rx/jersey-rx-client-rxjava2@2.29.1
+- pkg:maven/org.glassfish.jersey.ext.rx/jersey-rx-client-rxjava2@2.29.1?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext.rx/jersey-rx-client-rxjava2@2.29?classifier=sources

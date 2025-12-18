@@ -8,3 +8,7 @@
 - pkg:maven/de.halfbit/magnetx-app-stetho@3.3-rc4?type=aar
 - pkg:maven/de.halfbit/magnetx-app-stetho@3.3-rc5?classifier=sources
 - pkg:maven/de.halfbit/magnetx-app-stetho@3.3-rc5?type=aar
+- pkg:maven/de.halfbit/magnetx-app-stetho@3.3-rc6?classifier=sources
+- pkg:maven/de.halfbit/magnetx-app-stetho@3.3-rc6?type=aar
+- pkg:maven/de.halfbit/magnetx-app-stetho@3.3-rc7?classifier=sources
+- pkg:maven/de.halfbit/magnetx-app-stetho@3.3-rc7?type=aar

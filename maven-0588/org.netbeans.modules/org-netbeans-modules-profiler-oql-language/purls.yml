@@ -1,4 +1,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-oql-language@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-oql-language@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-oql-language@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-oql-language@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-oql-language@RELEASE90?classifier=sources

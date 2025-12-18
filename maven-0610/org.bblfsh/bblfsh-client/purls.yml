@@ -44,3 +44,9 @@
 - pkg:maven/org.bblfsh/bblfsh-client@1.8.2?classifier=sources
 - pkg:maven/org.bblfsh/bblfsh-client@1.9.1
 - pkg:maven/org.bblfsh/bblfsh-client@1.9.1?classifier=sources
+- pkg:maven/org.bblfsh/bblfsh-client@2.0.0
+- pkg:maven/org.bblfsh/bblfsh-client@2.0.0?classifier=sources
+- pkg:maven/org.bblfsh/bblfsh-client@2.0.2
+- pkg:maven/org.bblfsh/bblfsh-client@2.0.2?classifier=sources
+- pkg:maven/org.bblfsh/bblfsh-client@2.1.0
+- pkg:maven/org.bblfsh/bblfsh-client@2.1.0?classifier=sources

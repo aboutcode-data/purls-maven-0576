@@ -76,6 +76,8 @@
 - pkg:maven/org.http4s/blaze-core_2.11@0.14.7?classifier=sources
 - pkg:maven/org.http4s/blaze-core_2.11@0.14.8
 - pkg:maven/org.http4s/blaze-core_2.11@0.14.8?classifier=sources
+- pkg:maven/org.http4s/blaze-core_2.11@0.14.9
+- pkg:maven/org.http4s/blaze-core_2.11@0.14.9?classifier=sources
 - pkg:maven/org.http4s/blaze-core_2.11@0.2.0
 - pkg:maven/org.http4s/blaze-core_2.11@0.2.0?classifier=sources
 - pkg:maven/org.http4s/blaze-core_2.11@0.3.0

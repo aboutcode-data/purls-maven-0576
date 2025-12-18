@@ -1,0 +1,4 @@
+- pkg:maven/com.github.mendela1992/nreporter@1.0-SNAPSOT
+- pkg:maven/com.github.mendela1992/nreporter@1.0-SNAPSOT?classifier=sources
+- pkg:maven/com.github.mendela1992/nreporter@1.0.0
+- pkg:maven/com.github.mendela1992/nreporter@1.0.0?classifier=sources

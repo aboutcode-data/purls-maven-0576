@@ -58,3 +58,9 @@
 - pkg:maven/org.webjars.npm/material__top-app-bar@2.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__top-app-bar@2.1.0
 - pkg:maven/org.webjars.npm/material__top-app-bar@2.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__top-app-bar@3.2.0
+- pkg:maven/org.webjars.npm/material__top-app-bar@3.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__top-app-bar@4.0.0
+- pkg:maven/org.webjars.npm/material__top-app-bar@4.0.0-canary.1
+- pkg:maven/org.webjars.npm/material__top-app-bar@4.0.0-canary.1?classifier=sources
+- pkg:maven/org.webjars.npm/material__top-app-bar@4.0.0?classifier=sources

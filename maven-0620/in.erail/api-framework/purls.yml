@@ -28,3 +28,5 @@
 - pkg:maven/in.erail/api-framework@2.4?classifier=sources
 - pkg:maven/in.erail/api-framework@2.5.0
 - pkg:maven/in.erail/api-framework@2.5.0?classifier=sources
+- pkg:maven/in.erail/api-framework@2.5.1
+- pkg:maven/in.erail/api-framework@2.5.1?classifier=sources

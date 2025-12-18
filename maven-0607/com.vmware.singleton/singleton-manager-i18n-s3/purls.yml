@@ -1,0 +1,2 @@
+- pkg:maven/com.vmware.singleton/singleton-manager-i18n-s3@0.2.0
+- pkg:maven/com.vmware.singleton/singleton-manager-i18n-s3@0.2.0?classifier=sources

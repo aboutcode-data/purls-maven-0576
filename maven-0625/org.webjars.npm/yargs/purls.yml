@@ -58,6 +58,8 @@
 - pkg:maven/org.webjars.npm/yargs@6.6.0?classifier=sources
 - pkg:maven/org.webjars.npm/yargs@7.0.2
 - pkg:maven/org.webjars.npm/yargs@7.0.2?classifier=sources
+- pkg:maven/org.webjars.npm/yargs@7.1.0
+- pkg:maven/org.webjars.npm/yargs@7.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/yargs@8.0.0-candidate.1
 - pkg:maven/org.webjars.npm/yargs@8.0.0-candidate.1?classifier=sources
 - pkg:maven/org.webjars.npm/yargs@8.0.1

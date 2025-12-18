@@ -1,0 +1,4 @@
+- pkg:maven/team.fastflow.kusu/chat-escape-sdk@1.0.4-BETA?classifier=sources
+- pkg:maven/team.fastflow.kusu/chat-escape-sdk@1.0.4-BETA?type=aar
+- pkg:maven/team.fastflow.kusu/chat-escape-sdk@1.0.5-alpha?classifier=sources
+- pkg:maven/team.fastflow.kusu/chat-escape-sdk@1.0.5-alpha?type=aar

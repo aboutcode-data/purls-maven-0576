@@ -6,3 +6,4 @@
 - pkg:maven/org.dataconservancy.pass/pass-client-integration@0.5.2
 - pkg:maven/org.dataconservancy.pass/pass-client-integration@0.5.3
 - pkg:maven/org.dataconservancy.pass/pass-client-integration@0.6.0
+- pkg:maven/org.dataconservancy.pass/pass-client-integration@0.7.0

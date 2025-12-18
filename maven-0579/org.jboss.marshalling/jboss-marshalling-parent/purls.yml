@@ -33,3 +33,5 @@
 - pkg:maven/org.jboss.marshalling/jboss-marshalling-parent@2.0.5.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.marshalling/jboss-marshalling-parent@2.0.6.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.marshalling/jboss-marshalling-parent@2.0.7.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.marshalling/jboss-marshalling-parent@2.0.8.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.marshalling/jboss-marshalling-parent@2.0.9.Final?classifier=source-release&type=zip

@@ -1,0 +1,2 @@
+- pkg:maven/de.musterbukkit.replaysystem.main/XReplayAPI@1.1
+- pkg:maven/de.musterbukkit.replaysystem.main/XReplayAPI@1.1?classifier=sources
