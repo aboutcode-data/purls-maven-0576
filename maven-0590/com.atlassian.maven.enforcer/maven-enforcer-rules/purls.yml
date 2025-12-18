@@ -1,3 +1,4 @@
 - pkg:maven/com.atlassian.maven.enforcer/maven-enforcer-rules@1.4.0
 - pkg:maven/com.atlassian.maven.enforcer/maven-enforcer-rules@1.4.0?classifier=sources
 - pkg:maven/com.atlassian.maven.enforcer/maven-enforcer-rules@1.5.11
+- pkg:maven/com.atlassian.maven.enforcer/maven-enforcer-rules@1.5.11?classifier=sources

@@ -38,3 +38,5 @@
 - pkg:maven/com.atlassian.connect/atlassian-connect-spring-boot-jpa-starter@1.5.0?classifier=sources
 - pkg:maven/com.atlassian.connect/atlassian-connect-spring-boot-jpa-starter@1.5.1
 - pkg:maven/com.atlassian.connect/atlassian-connect-spring-boot-jpa-starter@1.5.1?classifier=sources
+- pkg:maven/com.atlassian.connect/atlassian-connect-spring-boot-jpa-starter@2.0.0-beta-1
+- pkg:maven/com.atlassian.connect/atlassian-connect-spring-boot-jpa-starter@2.0.0-beta-1?classifier=sources

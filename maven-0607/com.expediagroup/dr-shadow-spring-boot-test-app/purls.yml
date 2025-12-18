@@ -1,0 +1,2 @@
+- pkg:maven/com.expediagroup/dr-shadow-spring-boot-test-app@1.0.0
+- pkg:maven/com.expediagroup/dr-shadow-spring-boot-test-app@1.0.0?classifier=sources

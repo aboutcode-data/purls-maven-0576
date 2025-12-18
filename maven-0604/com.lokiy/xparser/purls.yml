@@ -1,2 +1,4 @@
 - pkg:maven/com.lokiy/xparser@0.1.0-beta?classifier=sources
 - pkg:maven/com.lokiy/xparser@0.1.0-beta?type=aar
+- pkg:maven/com.lokiy/xparser@0.1.5-beta?classifier=sources
+- pkg:maven/com.lokiy/xparser@0.1.5-beta?type=aar

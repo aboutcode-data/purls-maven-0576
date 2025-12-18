@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.druid.extensions.contrib/druid-moving-average-query@0.15.0-incubating
+- pkg:maven/org.apache.druid.extensions.contrib/druid-moving-average-query@0.15.0-incubating?classifier=sources

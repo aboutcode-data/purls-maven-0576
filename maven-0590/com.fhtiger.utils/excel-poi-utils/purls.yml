@@ -1,0 +1,2 @@
+- pkg:maven/com.fhtiger.utils/excel-poi-utils@0.0.1-RELEASE
+- pkg:maven/com.fhtiger.utils/excel-poi-utils@0.0.1-RELEASE?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.takezoe/blocking-slick-32_2.13@0.0.12
+- pkg:maven/com.github.takezoe/blocking-slick-32_2.13@0.0.12?classifier=sources

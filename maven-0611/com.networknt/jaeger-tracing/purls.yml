@@ -1,0 +1,2 @@
+- pkg:maven/com.networknt/jaeger-tracing@2.0.2
+- pkg:maven/com.networknt/jaeger-tracing@2.0.2?classifier=sources

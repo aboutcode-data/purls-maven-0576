@@ -1,0 +1,2 @@
+- pkg:maven/se.bjurr.wiremock/wiremock-jaxrs-example-api-mock@1.6
+- pkg:maven/se.bjurr.wiremock/wiremock-jaxrs-example-api-mock@1.6?classifier=sources

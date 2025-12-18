@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.beam/beam-sdks-java-extensions-sql-hcatalog@2.13.0
+- pkg:maven/org.apache.beam/beam-sdks-java-extensions-sql-hcatalog@2.13.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-extensions-sql-hcatalog@2.14.0
+- pkg:maven/org.apache.beam/beam-sdks-java-extensions-sql-hcatalog@2.14.0?classifier=sources

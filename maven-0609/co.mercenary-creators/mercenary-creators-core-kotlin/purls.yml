@@ -1,0 +1,2 @@
+- pkg:maven/co.mercenary-creators/mercenary-creators-core-kotlin@1.0.0-RELEASE
+- pkg:maven/co.mercenary-creators/mercenary-creators-core-kotlin@1.0.0-RELEASE?classifier=sources

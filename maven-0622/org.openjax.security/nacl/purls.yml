@@ -1,0 +1,4 @@
+- pkg:maven/org.openjax.security/nacl@0.1.0
+- pkg:maven/org.openjax.security/nacl@0.1.0?classifier=sources
+- pkg:maven/org.openjax.security/nacl@0.3.2
+- pkg:maven/org.openjax.security/nacl@0.3.2?classifier=sources

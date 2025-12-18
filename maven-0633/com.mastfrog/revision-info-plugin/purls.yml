@@ -1,0 +1,2 @@
+- pkg:maven/com.mastfrog/revision-info-plugin@0.8
+- pkg:maven/com.mastfrog/revision-info-plugin@0.8?classifier=sources

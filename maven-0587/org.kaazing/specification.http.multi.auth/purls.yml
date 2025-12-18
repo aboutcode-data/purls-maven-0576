@@ -1,5 +1,9 @@
 - pkg:maven/org.kaazing/specification.http.multi.auth@3.0.0-alpha-085
 - pkg:maven/org.kaazing/specification.http.multi.auth@3.0.0-alpha-085?classifier=sources
+- pkg:maven/org.kaazing/specification.http.multi.auth@3.0.0-alpha-100
+- pkg:maven/org.kaazing/specification.http.multi.auth@3.0.0-alpha-100?classifier=sources
+- pkg:maven/org.kaazing/specification.http.multi.auth@3.0.0-alpha-101
+- pkg:maven/org.kaazing/specification.http.multi.auth@3.0.0-alpha-101?classifier=sources
 - pkg:maven/org.kaazing/specification.http.multi.auth@3.0.0-alpha-52
 - pkg:maven/org.kaazing/specification.http.multi.auth@3.0.0-alpha-52?classifier=sources
 - pkg:maven/org.kaazing/specification.http.multi.auth@3.0.0-alpha-53
@@ -92,3 +96,5 @@
 - pkg:maven/org.kaazing/specification.http.multi.auth@3.0.0-alpha-97?classifier=sources
 - pkg:maven/org.kaazing/specification.http.multi.auth@3.0.0-alpha-98
 - pkg:maven/org.kaazing/specification.http.multi.auth@3.0.0-alpha-98?classifier=sources
+- pkg:maven/org.kaazing/specification.http.multi.auth@3.0.0-alpha-99
+- pkg:maven/org.kaazing/specification.http.multi.auth@3.0.0-alpha-99?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.ibm.wiotp/com.ibm.wiotp.sdk.swagger@0.1.0
+- pkg:maven/com.ibm.wiotp/com.ibm.wiotp.sdk.swagger@0.1.0?classifier=sources

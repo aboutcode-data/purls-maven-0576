@@ -1,0 +1,8 @@
+- pkg:maven/com.thoughtworks.enableIf/enableif_2.13@1.1.6%2B101-dbd5ac58
+- pkg:maven/com.thoughtworks.enableIf/enableif_2.13@1.1.6%2B101-dbd5ac58?classifier=sources
+- pkg:maven/com.thoughtworks.enableIf/enableif_2.13@1.1.6%2B103-9abdd555
+- pkg:maven/com.thoughtworks.enableIf/enableif_2.13@1.1.6%2B103-9abdd555?classifier=sources
+- pkg:maven/com.thoughtworks.enableIf/enableif_2.13@1.1.7
+- pkg:maven/com.thoughtworks.enableIf/enableif_2.13@1.1.7%2B1-c47453af
+- pkg:maven/com.thoughtworks.enableIf/enableif_2.13@1.1.7%2B1-c47453af?classifier=sources
+- pkg:maven/com.thoughtworks.enableIf/enableif_2.13@1.1.7?classifier=sources

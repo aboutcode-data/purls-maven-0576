@@ -16,6 +16,8 @@
 - pkg:maven/io.rsocket.rpc/rsocket-rpc-protobuf-idl@0.2.15?classifier=sources
 - pkg:maven/io.rsocket.rpc/rsocket-rpc-protobuf-idl@0.2.16
 - pkg:maven/io.rsocket.rpc/rsocket-rpc-protobuf-idl@0.2.16?classifier=sources
+- pkg:maven/io.rsocket.rpc/rsocket-rpc-protobuf-idl@0.2.17
+- pkg:maven/io.rsocket.rpc/rsocket-rpc-protobuf-idl@0.2.17?classifier=sources
 - pkg:maven/io.rsocket.rpc/rsocket-rpc-protobuf-idl@0.2.5
 - pkg:maven/io.rsocket.rpc/rsocket-rpc-protobuf-idl@0.2.5?classifier=sources
 - pkg:maven/io.rsocket.rpc/rsocket-rpc-protobuf-idl@0.2.9

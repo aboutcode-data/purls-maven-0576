@@ -28,6 +28,8 @@
 - pkg:maven/org.apidesign.bck2brwsr/launcher.http@0.23?classifier=sources
 - pkg:maven/org.apidesign.bck2brwsr/launcher.http@0.30
 - pkg:maven/org.apidesign.bck2brwsr/launcher.http@0.30?classifier=sources
+- pkg:maven/org.apidesign.bck2brwsr/launcher.http@0.31
+- pkg:maven/org.apidesign.bck2brwsr/launcher.http@0.31?classifier=sources
 - pkg:maven/org.apidesign.bck2brwsr/launcher.http@0.7
 - pkg:maven/org.apidesign.bck2brwsr/launcher.http@0.7.1
 - pkg:maven/org.apidesign.bck2brwsr/launcher.http@0.7.1?classifier=sources

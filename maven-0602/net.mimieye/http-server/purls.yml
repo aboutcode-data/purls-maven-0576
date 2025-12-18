@@ -1,0 +1,2 @@
+- pkg:maven/net.mimieye/http-server@1.0.0-alpha
+- pkg:maven/net.mimieye/http-server@1.0.0-alpha?classifier=sources

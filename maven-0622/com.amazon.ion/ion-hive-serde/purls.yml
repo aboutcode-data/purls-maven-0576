@@ -1,0 +1,2 @@
+- pkg:maven/com.amazon.ion/ion-hive-serde@0.2.0
+- pkg:maven/com.amazon.ion/ion-hive-serde@0.2.0?classifier=sources

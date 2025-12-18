@@ -30,3 +30,5 @@
 - pkg:maven/org.wso2.extension.siddhi.execution.sentiment/siddhi-execution-sentiment@4.0.9?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.execution.sentiment/siddhi-execution-sentiment@4.1.0
 - pkg:maven/org.wso2.extension.siddhi.execution.sentiment/siddhi-execution-sentiment@4.1.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.execution.sentiment/siddhi-execution-sentiment@5.0.0
+- pkg:maven/org.wso2.extension.siddhi.execution.sentiment/siddhi-execution-sentiment@5.0.0?classifier=source-release&type=zip

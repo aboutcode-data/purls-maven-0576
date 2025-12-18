@@ -6,3 +6,9 @@
 - pkg:maven/com.cognitect.aws/appstream@701.2.392.0?classifier=sources
 - pkg:maven/com.cognitect.aws/appstream@705.2.401.0
 - pkg:maven/com.cognitect.aws/appstream@705.2.401.0?classifier=sources
+- pkg:maven/com.cognitect.aws/appstream@719.2.458.0
+- pkg:maven/com.cognitect.aws/appstream@719.2.458.0?classifier=sources
+- pkg:maven/com.cognitect.aws/appstream@723.2.476.0
+- pkg:maven/com.cognitect.aws/appstream@723.2.476.0?classifier=sources
+- pkg:maven/com.cognitect.aws/appstream@726.2.487.0
+- pkg:maven/com.cognitect.aws/appstream@726.2.487.0?classifier=sources

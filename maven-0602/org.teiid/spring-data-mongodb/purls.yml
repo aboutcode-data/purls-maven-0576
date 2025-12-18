@@ -1,2 +1,4 @@
 - pkg:maven/org.teiid/spring-data-mongodb@1.0.3
 - pkg:maven/org.teiid/spring-data-mongodb@1.0.3?classifier=sources
+- pkg:maven/org.teiid/spring-data-mongodb@1.1.0
+- pkg:maven/org.teiid/spring-data-mongodb@1.1.0?classifier=sources

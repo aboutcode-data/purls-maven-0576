@@ -168,4 +168,16 @@
 - pkg:maven/se.bjurr.violations/violations-lib@1.89?classifier=sources
 - pkg:maven/se.bjurr.violations/violations-lib@1.8?classifier=sources
 - pkg:maven/se.bjurr.violations/violations-lib@1.9
+- pkg:maven/se.bjurr.violations/violations-lib@1.90
+- pkg:maven/se.bjurr.violations/violations-lib@1.90?classifier=sources
+- pkg:maven/se.bjurr.violations/violations-lib@1.92
+- pkg:maven/se.bjurr.violations/violations-lib@1.92?classifier=sources
+- pkg:maven/se.bjurr.violations/violations-lib@1.93
+- pkg:maven/se.bjurr.violations/violations-lib@1.93?classifier=sources
+- pkg:maven/se.bjurr.violations/violations-lib@1.94
+- pkg:maven/se.bjurr.violations/violations-lib@1.94?classifier=sources
+- pkg:maven/se.bjurr.violations/violations-lib@1.95
+- pkg:maven/se.bjurr.violations/violations-lib@1.95?classifier=sources
+- pkg:maven/se.bjurr.violations/violations-lib@1.96
+- pkg:maven/se.bjurr.violations/violations-lib@1.96?classifier=sources
 - pkg:maven/se.bjurr.violations/violations-lib@1.9?classifier=sources

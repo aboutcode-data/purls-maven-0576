@@ -1,0 +1,2 @@
+- pkg:maven/io.siddhi.extension.execution.string/siddhi-execution-string-parent@5.0.2?classifier=source-release&type=zip
+- pkg:maven/io.siddhi.extension.execution.string/siddhi-execution-string-parent@5.0.3?classifier=source-release&type=zip

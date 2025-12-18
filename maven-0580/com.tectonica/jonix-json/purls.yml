@@ -1,2 +1,4 @@
 - pkg:maven/com.tectonica/jonix-json@8.0.1
 - pkg:maven/com.tectonica/jonix-json@8.0.1?classifier=sources
+- pkg:maven/com.tectonica/jonix-json@9.0
+- pkg:maven/com.tectonica/jonix-json@9.0?classifier=sources

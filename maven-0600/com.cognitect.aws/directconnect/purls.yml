@@ -8,3 +8,7 @@
 - pkg:maven/com.cognitect.aws/directconnect@712.2.416.0?classifier=sources
 - pkg:maven/com.cognitect.aws/directconnect@712.2.428.0
 - pkg:maven/com.cognitect.aws/directconnect@712.2.428.0?classifier=sources
+- pkg:maven/com.cognitect.aws/directconnect@717.2.446.0
+- pkg:maven/com.cognitect.aws/directconnect@717.2.446.0?classifier=sources
+- pkg:maven/com.cognitect.aws/directconnect@726.2.484.0
+- pkg:maven/com.cognitect.aws/directconnect@726.2.484.0?classifier=sources

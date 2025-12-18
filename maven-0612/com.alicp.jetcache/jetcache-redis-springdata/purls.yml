@@ -1,0 +1,4 @@
+- pkg:maven/com.alicp.jetcache/jetcache-redis-springdata@2.6.0.M2
+- pkg:maven/com.alicp.jetcache/jetcache-redis-springdata@2.6.0.M2?classifier=sources
+- pkg:maven/com.alicp.jetcache/jetcache-redis-springdata@2.6.0.M3
+- pkg:maven/com.alicp.jetcache/jetcache-redis-springdata@2.6.0.M3?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.netbeans.api/org-openide-util-ui@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.api/org-openide-util-ui@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.api/org-openide-util-ui@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.api/org-openide-util-ui@RELEASE90?classifier=sources

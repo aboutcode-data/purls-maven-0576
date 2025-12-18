@@ -8,3 +8,5 @@
 - pkg:maven/com.fifesoft.rtext/fife.common@2.6.3?classifier=sources
 - pkg:maven/com.fifesoft.rtext/fife.common@3.0.0
 - pkg:maven/com.fifesoft.rtext/fife.common@3.0.0?classifier=sources
+- pkg:maven/com.fifesoft.rtext/fife.common@3.0.1
+- pkg:maven/com.fifesoft.rtext/fife.common@3.0.1?classifier=sources

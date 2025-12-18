@@ -1,0 +1,2 @@
+- pkg:maven/com.github.aaitmouloud/springfox-collection-example-plugin@2.9.2
+- pkg:maven/com.github.aaitmouloud/springfox-collection-example-plugin@2.9.2?classifier=sources

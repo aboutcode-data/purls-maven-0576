@@ -1,0 +1,2 @@
+- pkg:maven/com.alipay.sofa.lookout/lookout-server-common@1.6.0
+- pkg:maven/com.alipay.sofa.lookout/lookout-server-common@1.6.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.sciss/scalafreesound-core_2.13@1.18.1
+- pkg:maven/de.sciss/scalafreesound-core_2.13@1.18.1?classifier=sources

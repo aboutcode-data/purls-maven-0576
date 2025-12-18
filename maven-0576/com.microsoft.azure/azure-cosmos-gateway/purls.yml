@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure/azure-cosmos-gateway@3.0.0-a1
+- pkg:maven/com.microsoft.azure/azure-cosmos-gateway@3.0.0-a1?classifier=sources

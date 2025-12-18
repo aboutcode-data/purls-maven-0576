@@ -1,0 +1,2 @@
+- pkg:maven/io.github.rich-is-cat/thermal-printer-spring-boot-starter@0.0.1
+- pkg:maven/io.github.rich-is-cat/thermal-printer-spring-boot-starter@0.0.1?classifier=sources

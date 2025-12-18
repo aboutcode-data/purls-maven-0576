@@ -1,0 +1,2 @@
+- pkg:maven/com.newmediaworks/nmw-email-taglib-book@1.0.0
+- pkg:maven/com.newmediaworks/nmw-email-taglib-book@1.0.0?classifier=sources

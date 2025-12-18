@@ -8,3 +8,5 @@
 - pkg:maven/com.testingsyndicate/jms-responder-maven-plugin@1.2.2?classifier=sources
 - pkg:maven/com.testingsyndicate/jms-responder-maven-plugin@1.2.3
 - pkg:maven/com.testingsyndicate/jms-responder-maven-plugin@1.2.3?classifier=sources
+- pkg:maven/com.testingsyndicate/jms-responder-maven-plugin@2.0.0
+- pkg:maven/com.testingsyndicate/jms-responder-maven-plugin@2.0.0?classifier=sources

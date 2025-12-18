@@ -1,0 +1,8 @@
+- pkg:maven/me.levansmith.logdog/logging@0.2.0
+- pkg:maven/me.levansmith.logdog/logging@0.2.0?classifier=sources
+- pkg:maven/me.levansmith.logdog/logging@0.2.1
+- pkg:maven/me.levansmith.logdog/logging@0.2.1?classifier=sources
+- pkg:maven/me.levansmith.logdog/logging@0.2.2
+- pkg:maven/me.levansmith.logdog/logging@0.2.2?classifier=sources
+- pkg:maven/me.levansmith.logdog/logging@0.3.0
+- pkg:maven/me.levansmith.logdog/logging@0.3.0?classifier=sources

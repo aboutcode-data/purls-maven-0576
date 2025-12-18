@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bowergithub.immutable-js/immutable-js@3.8.2
+- pkg:maven/org.webjars.bowergithub.immutable-js/immutable-js@3.8.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.tislib.websiteparser/parser@0.1.2
+- pkg:maven/net.tislib.websiteparser/parser@0.1.2?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/it.uniroma2.art.semanticturkey/st-core-services@4.0?classifier=sources
 - pkg:maven/it.uniroma2.art.semanticturkey/st-core-services@5.0
 - pkg:maven/it.uniroma2.art.semanticturkey/st-core-services@5.0?classifier=sources
+- pkg:maven/it.uniroma2.art.semanticturkey/st-core-services@6.0
+- pkg:maven/it.uniroma2.art.semanticturkey/st-core-services@6.0?classifier=sources

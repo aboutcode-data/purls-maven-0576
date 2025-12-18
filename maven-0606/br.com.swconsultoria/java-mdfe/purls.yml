@@ -1,0 +1,4 @@
+- pkg:maven/br.com.swconsultoria/java-mdfe@3.00.3
+- pkg:maven/br.com.swconsultoria/java-mdfe@3.00.3?classifier=sources
+- pkg:maven/br.com.swconsultoria/java-mdfe@3.00.4
+- pkg:maven/br.com.swconsultoria/java-mdfe@3.00.4?classifier=sources

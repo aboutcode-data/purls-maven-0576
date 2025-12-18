@@ -1,0 +1,8 @@
+- pkg:maven/ai.tripl/arc_2.11@1.13.3
+- pkg:maven/ai.tripl/arc_2.11@1.13.3?classifier=sources
+- pkg:maven/ai.tripl/arc_2.11@1.14.0
+- pkg:maven/ai.tripl/arc_2.11@1.14.0?classifier=sources
+- pkg:maven/ai.tripl/arc_2.11@1.15.0
+- pkg:maven/ai.tripl/arc_2.11@1.15.0?classifier=sources
+- pkg:maven/ai.tripl/arc_2.11@2.0.0
+- pkg:maven/ai.tripl/arc_2.11@2.0.0?classifier=sources

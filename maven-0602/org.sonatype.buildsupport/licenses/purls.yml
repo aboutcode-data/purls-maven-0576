@@ -7,6 +7,10 @@
 - pkg:maven/org.sonatype.buildsupport/licenses@12?classifier=sources
 - pkg:maven/org.sonatype.buildsupport/licenses@13
 - pkg:maven/org.sonatype.buildsupport/licenses@13?classifier=sources
+- pkg:maven/org.sonatype.buildsupport/licenses@14
+- pkg:maven/org.sonatype.buildsupport/licenses@14?classifier=sources
+- pkg:maven/org.sonatype.buildsupport/licenses@15
+- pkg:maven/org.sonatype.buildsupport/licenses@15?classifier=sources
 - pkg:maven/org.sonatype.buildsupport/licenses@1?classifier=sources
 - pkg:maven/org.sonatype.buildsupport/licenses@3
 - pkg:maven/org.sonatype.buildsupport/licenses@3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/cn.patterncat/spring-boot-starter-rxjava2-jdbc@0.0.1
+- pkg:maven/cn.patterncat/spring-boot-starter-rxjava2-jdbc@0.0.1?classifier=sources

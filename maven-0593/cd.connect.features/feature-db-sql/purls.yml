@@ -1,0 +1,2 @@
+- pkg:maven/cd.connect.features/feature-db-sql@2.1
+- pkg:maven/cd.connect.features/feature-db-sql@2.1?classifier=sources

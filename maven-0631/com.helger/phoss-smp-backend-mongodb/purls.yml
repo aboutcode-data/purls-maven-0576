@@ -1,0 +1,2 @@
+- pkg:maven/com.helger/phoss-smp-backend-mongodb@5.2.0
+- pkg:maven/com.helger/phoss-smp-backend-mongodb@5.2.0?classifier=sources

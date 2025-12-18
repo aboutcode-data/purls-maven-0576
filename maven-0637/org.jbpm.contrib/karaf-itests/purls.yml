@@ -8,3 +8,7 @@
 - pkg:maven/org.jbpm.contrib/karaf-itests@7.18.0.Final
 - pkg:maven/org.jbpm.contrib/karaf-itests@7.19.0.Final
 - pkg:maven/org.jbpm.contrib/karaf-itests@7.20.0.Final
+- pkg:maven/org.jbpm.contrib/karaf-itests@7.21.0.Final
+- pkg:maven/org.jbpm.contrib/karaf-itests@7.22.0.Final
+- pkg:maven/org.jbpm.contrib/karaf-itests@7.23.0.Final
+- pkg:maven/org.jbpm.contrib/karaf-itests@7.24.0.Final

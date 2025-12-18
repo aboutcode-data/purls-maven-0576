@@ -1,0 +1,2 @@
+- pkg:maven/org.eu.acolyte/scalac-plugin_2.13@1.0.52
+- pkg:maven/org.eu.acolyte/scalac-plugin_2.13@1.0.52?classifier=sources

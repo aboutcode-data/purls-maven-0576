@@ -14,6 +14,10 @@
 - pkg:maven/com.apptimize.segment/apptimize-segment-integration@1.0.20?type=aar
 - pkg:maven/com.apptimize.segment/apptimize-segment-integration@1.0.21?classifier=sources
 - pkg:maven/com.apptimize.segment/apptimize-segment-integration@1.0.21?type=aar
+- pkg:maven/com.apptimize.segment/apptimize-segment-integration@1.0.22?classifier=sources
+- pkg:maven/com.apptimize.segment/apptimize-segment-integration@1.0.22?type=aar
+- pkg:maven/com.apptimize.segment/apptimize-segment-integration@1.0.23?classifier=sources
+- pkg:maven/com.apptimize.segment/apptimize-segment-integration@1.0.23?type=aar
 - pkg:maven/com.apptimize.segment/apptimize-segment-integration@1.0.2?classifier=sources
 - pkg:maven/com.apptimize.segment/apptimize-segment-integration@1.0.2?type=aar
 - pkg:maven/com.apptimize.segment/apptimize-segment-integration@1.0.3?classifier=sources

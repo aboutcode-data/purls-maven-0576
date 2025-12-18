@@ -106,3 +106,5 @@
 - pkg:maven/org.apache.maven/maven-model@3.5.4?classifier=sources
 - pkg:maven/org.apache.maven/maven-model@3.6.0
 - pkg:maven/org.apache.maven/maven-model@3.6.0?classifier=sources
+- pkg:maven/org.apache.maven/maven-model@3.6.1
+- pkg:maven/org.apache.maven/maven-model@3.6.1?classifier=sources

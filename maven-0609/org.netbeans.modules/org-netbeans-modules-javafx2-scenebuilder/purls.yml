@@ -1,0 +1,4 @@
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javafx2-scenebuilder@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javafx2-scenebuilder@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javafx2-scenebuilder@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javafx2-scenebuilder@RELEASE90?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/net.vleo.timel/timel-mapdb@0.2.0-rc12
 - pkg:maven/net.vleo.timel/timel-mapdb@0.2.0-rc12?classifier=sources
+- pkg:maven/net.vleo.timel/timel-mapdb@0.9.0
+- pkg:maven/net.vleo.timel/timel-mapdb@0.9.0?classifier=sources
+- pkg:maven/net.vleo.timel/timel-mapdb@0.9.1
+- pkg:maven/net.vleo.timel/timel-mapdb@0.9.1?classifier=sources

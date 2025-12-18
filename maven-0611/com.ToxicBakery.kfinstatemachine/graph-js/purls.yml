@@ -1,2 +1,5 @@
 - pkg:maven/com.ToxicBakery.kfinstatemachine/graph-js@3.0.14?classifier=sources
 - pkg:maven/com.ToxicBakery.kfinstatemachine/graph-js@3.0.17?classifier=sources
+- pkg:maven/com.ToxicBakery.kfinstatemachine/graph-js@4.0.29?classifier=sources
+- pkg:maven/com.ToxicBakery.kfinstatemachine/graph-js@4.1.35?classifier=sources
+- pkg:maven/com.ToxicBakery.kfinstatemachine/graph-js@4.2.47?classifier=sources

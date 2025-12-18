@@ -1,0 +1,4 @@
+- pkg:maven/com.urbanairship.android/urbanairship-ads-identifier@10.0.1?type=aar
+- pkg:maven/com.urbanairship.android/urbanairship-ads-identifier@10.0.2?type=aar
+- pkg:maven/com.urbanairship.android/urbanairship-ads-identifier@11.0.0?type=aar
+- pkg:maven/com.urbanairship.android/urbanairship-ads-identifier@11.0.1?type=aar

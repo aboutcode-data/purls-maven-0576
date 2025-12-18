@@ -1,0 +1,2 @@
+- pkg:maven/de.sciss/lucreswing_2.13@1.17.2
+- pkg:maven/de.sciss/lucreswing_2.13@1.17.2?classifier=sources

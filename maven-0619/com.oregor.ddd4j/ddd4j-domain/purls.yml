@@ -1,0 +1,2 @@
+- pkg:maven/com.oregor.ddd4j/ddd4j-domain@0.0.2
+- pkg:maven/com.oregor.ddd4j/ddd4j-domain@0.0.2?classifier=sources

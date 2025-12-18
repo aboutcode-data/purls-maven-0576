@@ -1,2 +1,11 @@
+- pkg:maven/pl.droidsonroids.foqa/chuck@0.0.10?classifier=sources
+- pkg:maven/pl.droidsonroids.foqa/chuck@0.0.10?type=aar
+- pkg:maven/pl.droidsonroids.foqa/chuck@0.0.12?classifier=sources
+- pkg:maven/pl.droidsonroids.foqa/chuck@0.0.13?classifier=sources
+- pkg:maven/pl.droidsonroids.foqa/chuck@0.0.13?type=aar
+- pkg:maven/pl.droidsonroids.foqa/chuck@0.0.14?classifier=sources
+- pkg:maven/pl.droidsonroids.foqa/chuck@0.0.14?type=aar
+- pkg:maven/pl.droidsonroids.foqa/chuck@0.0.21?classifier=sources
+- pkg:maven/pl.droidsonroids.foqa/chuck@0.0.21?type=aar
 - pkg:maven/pl.droidsonroids.foqa/chuck@0.0.9?classifier=sources
 - pkg:maven/pl.droidsonroids.foqa/chuck@0.0.9?type=aar

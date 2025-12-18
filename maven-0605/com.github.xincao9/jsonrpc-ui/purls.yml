@@ -1,0 +1,2 @@
+- pkg:maven/com.github.xincao9/jsonrpc-ui@1.2.5
+- pkg:maven/com.github.xincao9/jsonrpc-ui@1.2.5?classifier=sources

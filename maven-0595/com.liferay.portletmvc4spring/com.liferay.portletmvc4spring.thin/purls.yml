@@ -1,0 +1,4 @@
+- pkg:maven/com.liferay.portletmvc4spring/com.liferay.portletmvc4spring.thin@4.1.9
+- pkg:maven/com.liferay.portletmvc4spring/com.liferay.portletmvc4spring.thin@4.1.9?classifier=sources
+- pkg:maven/com.liferay.portletmvc4spring/com.liferay.portletmvc4spring.thin@5.1.5
+- pkg:maven/com.liferay.portletmvc4spring/com.liferay.portletmvc4spring.thin@5.1.5?classifier=sources

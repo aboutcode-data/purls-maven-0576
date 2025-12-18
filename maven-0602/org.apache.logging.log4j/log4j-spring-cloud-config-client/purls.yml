@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.logging.log4j/log4j-spring-cloud-config-client@2.12.0
+- pkg:maven/org.apache.logging.log4j/log4j-spring-cloud-config-client@2.12.0?classifier=sources

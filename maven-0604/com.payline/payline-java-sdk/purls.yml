@@ -10,3 +10,5 @@
 - pkg:maven/com.payline/payline-java-sdk@4.56?classifier=sources
 - pkg:maven/com.payline/payline-java-sdk@4.56a
 - pkg:maven/com.payline/payline-java-sdk@4.56a?classifier=sources
+- pkg:maven/com.payline/payline-java-sdk@4.58.1
+- pkg:maven/com.payline/payline-java-sdk@4.58.1?classifier=sources

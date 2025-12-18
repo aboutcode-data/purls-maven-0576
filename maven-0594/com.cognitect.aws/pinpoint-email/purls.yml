@@ -6,3 +6,7 @@
 - pkg:maven/com.cognitect.aws/pinpoint-email@697.2.391.0?classifier=sources
 - pkg:maven/com.cognitect.aws/pinpoint-email@714.2.431.0
 - pkg:maven/com.cognitect.aws/pinpoint-email@714.2.431.0?classifier=sources
+- pkg:maven/com.cognitect.aws/pinpoint-email@722.2.464.0
+- pkg:maven/com.cognitect.aws/pinpoint-email@722.2.464.0?classifier=sources
+- pkg:maven/com.cognitect.aws/pinpoint-email@722.2.466.0
+- pkg:maven/com.cognitect.aws/pinpoint-email@722.2.466.0?classifier=sources

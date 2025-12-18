@@ -59,6 +59,8 @@
 - pkg:maven/com.github.odavid.maven.plugins/maven-logging-extension@0.1-alpha-39?classifier=sources
 - pkg:maven/com.github.odavid.maven.plugins/maven-logging-extension@0.1-alpha-3?classifier=sources
 - pkg:maven/com.github.odavid.maven.plugins/maven-logging-extension@0.1-alpha-4
+- pkg:maven/com.github.odavid.maven.plugins/maven-logging-extension@0.1-alpha-40
+- pkg:maven/com.github.odavid.maven.plugins/maven-logging-extension@0.1-alpha-40?classifier=sources
 - pkg:maven/com.github.odavid.maven.plugins/maven-logging-extension@0.1-alpha-4?classifier=sources
 - pkg:maven/com.github.odavid.maven.plugins/maven-logging-extension@0.1-alpha-5
 - pkg:maven/com.github.odavid.maven.plugins/maven-logging-extension@0.1-alpha-5?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/hu.blackbelt.karaf.features/bouncycastle-features@1.61.2?classifier=sources
+- pkg:maven/hu.blackbelt.karaf.features/bouncycastle-features@1.61_1?classifier=sources

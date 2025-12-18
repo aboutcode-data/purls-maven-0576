@@ -1,0 +1,2 @@
+- pkg:maven/com.github.mpilquist/simulacrum_2.13.0-RC1@0.16.0
+- pkg:maven/com.github.mpilquist/simulacrum_2.13.0-RC1@0.16.0?classifier=sources

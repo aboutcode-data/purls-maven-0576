@@ -138,6 +138,10 @@
 - pkg:maven/fi.metatavu.edelphi/edelphi@1.1.76?type=war
 - pkg:maven/fi.metatavu.edelphi/edelphi@1.1.77?classifier=sources
 - pkg:maven/fi.metatavu.edelphi/edelphi@1.1.77?type=war
+- pkg:maven/fi.metatavu.edelphi/edelphi@1.1.78?classifier=sources
+- pkg:maven/fi.metatavu.edelphi/edelphi@1.1.78?type=war
+- pkg:maven/fi.metatavu.edelphi/edelphi@1.1.79?classifier=sources
+- pkg:maven/fi.metatavu.edelphi/edelphi@1.1.79?type=war
 - pkg:maven/fi.metatavu.edelphi/edelphi@1.1.7?classifier=sources
 - pkg:maven/fi.metatavu.edelphi/edelphi@1.1.7?type=war
 - pkg:maven/fi.metatavu.edelphi/edelphi@1.1.8?classifier=sources

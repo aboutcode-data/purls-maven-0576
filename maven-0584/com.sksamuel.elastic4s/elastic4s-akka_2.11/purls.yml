@@ -4,3 +4,11 @@
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-akka_2.11@6.5.0?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-akka_2.11@6.5.1
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-akka_2.11@6.5.1?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-akka_2.11@6.5.2
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-akka_2.11@6.5.2?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-akka_2.11@6.6.0
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-akka_2.11@6.6.0?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-akka_2.11@6.7.0
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-akka_2.11@6.7.0?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-akka_2.11@6.7.1
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-akka_2.11@6.7.1?classifier=sources

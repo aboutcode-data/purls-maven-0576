@@ -1,0 +1,2 @@
+- pkg:maven/com.oregor.ddd4j.ddd4j-api-clients/ddd4j-api-client-rest-spring@0.0.2
+- pkg:maven/com.oregor.ddd4j.ddd4j-api-clients/ddd4j-api-client-rest-spring@0.0.2?classifier=sources

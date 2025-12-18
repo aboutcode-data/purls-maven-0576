@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/tus-js-client@1.4.5?classifier=sources
 - pkg:maven/org.webjars.npm/tus-js-client@1.5.2
 - pkg:maven/org.webjars.npm/tus-js-client@1.5.2?classifier=sources
+- pkg:maven/org.webjars.npm/tus-js-client@1.8.0-1
+- pkg:maven/org.webjars.npm/tus-js-client@1.8.0-1?classifier=sources

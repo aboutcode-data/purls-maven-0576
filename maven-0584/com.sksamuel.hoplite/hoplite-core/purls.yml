@@ -1,0 +1,8 @@
+- pkg:maven/com.sksamuel.hoplite/hoplite-core@0.20.0
+- pkg:maven/com.sksamuel.hoplite/hoplite-core@0.20.0?classifier=sources
+- pkg:maven/com.sksamuel.hoplite/hoplite-core@0.21.0
+- pkg:maven/com.sksamuel.hoplite/hoplite-core@0.21.0?classifier=sources
+- pkg:maven/com.sksamuel.hoplite/hoplite-core@0.30.0
+- pkg:maven/com.sksamuel.hoplite/hoplite-core@0.30.0?classifier=sources
+- pkg:maven/com.sksamuel.hoplite/hoplite-core@1.0.0
+- pkg:maven/com.sksamuel.hoplite/hoplite-core@1.0.0?classifier=sources

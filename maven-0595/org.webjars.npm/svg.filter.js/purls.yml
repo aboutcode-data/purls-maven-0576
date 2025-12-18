@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/svg.filter.js@2.0.2
+- pkg:maven/org.webjars.npm/svg.filter.js@2.0.2?classifier=sources

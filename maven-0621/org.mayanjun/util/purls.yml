@@ -1,0 +1,4 @@
+- pkg:maven/org.mayanjun/util@0.0.1.RELEASE
+- pkg:maven/org.mayanjun/util@0.0.1.RELEASE?classifier=sources
+- pkg:maven/org.mayanjun/util@0.0.1.alpha
+- pkg:maven/org.mayanjun/util@0.0.1.alpha?classifier=sources

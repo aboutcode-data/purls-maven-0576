@@ -27,6 +27,8 @@
 - pkg:maven/com.emarsys/gcs-bigquery-scala-api_2.12@3.0.5%2B4-6cc46b96
 - pkg:maven/com.emarsys/gcs-bigquery-scala-api_2.12@3.0.5%2B4-6cc46b96?classifier=sources
 - pkg:maven/com.emarsys/gcs-bigquery-scala-api_2.12@4.0.1
+- pkg:maven/com.emarsys/gcs-bigquery-scala-api_2.12@4.0.1%2B1-2e4cb1c8
+- pkg:maven/com.emarsys/gcs-bigquery-scala-api_2.12@4.0.1%2B1-2e4cb1c8?classifier=sources
 - pkg:maven/com.emarsys/gcs-bigquery-scala-api_2.12@4.0.1?classifier=sources
 - pkg:maven/com.emarsys/gcs-bigquery-scala-api_2.12@7e853b98
 - pkg:maven/com.emarsys/gcs-bigquery-scala-api_2.12@7e853b98?classifier=sources

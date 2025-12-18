@@ -1,0 +1,2 @@
+- pkg:maven/com.softwaremill.sttp/async-http-client-backend-fs2_2.13@1.6.3
+- pkg:maven/com.softwaremill.sttp/async-http-client-backend-fs2_2.13@1.6.3?classifier=sources

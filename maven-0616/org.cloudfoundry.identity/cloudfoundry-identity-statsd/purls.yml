@@ -54,6 +54,8 @@
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-statsd@4.26.0?type=war
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-statsd@4.27.0?classifier=sources
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-statsd@4.27.0?type=war
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-statsd@4.30.0?classifier=sources
+- pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-statsd@4.30.0?type=war
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-statsd@4.7.0?classifier=sources
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-statsd@4.7.0?type=war
 - pkg:maven/org.cloudfoundry.identity/cloudfoundry-identity-statsd@4.7.1?classifier=sources

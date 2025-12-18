@@ -1,2 +1,4 @@
 - pkg:maven/net.sf.m-m-m/mmm-util-data@8.6.0
 - pkg:maven/net.sf.m-m-m/mmm-util-data@8.6.0?classifier=sources
+- pkg:maven/net.sf.m-m-m/mmm-util-data@8.7.0
+- pkg:maven/net.sf.m-m-m/mmm-util-data@8.7.0?classifier=sources

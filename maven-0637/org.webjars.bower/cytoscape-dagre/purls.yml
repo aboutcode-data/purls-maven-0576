@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.bower/cytoscape-dagre@1.6.0?classifier=sources
 - pkg:maven/org.webjars.bower/cytoscape-dagre@2.1.0
 - pkg:maven/org.webjars.bower/cytoscape-dagre@2.1.0?classifier=sources
+- pkg:maven/org.webjars.bower/cytoscape-dagre@2.2.2
+- pkg:maven/org.webjars.bower/cytoscape-dagre@2.2.2?classifier=sources

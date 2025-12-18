@@ -1,0 +1,4 @@
+- pkg:maven/com.c4-soft.springaddons.samples/e2e@0.0.11
+- pkg:maven/com.c4-soft.springaddons.samples/e2e@0.0.11?classifier=sources
+- pkg:maven/com.c4-soft.springaddons.samples/e2e@0.0.12
+- pkg:maven/com.c4-soft.springaddons.samples/e2e@0.0.12?classifier=sources

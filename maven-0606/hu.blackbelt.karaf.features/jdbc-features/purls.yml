@@ -1,0 +1,2 @@
+- pkg:maven/hu.blackbelt.karaf.features/jdbc-features@1.0.0?classifier=sources
+- pkg:maven/hu.blackbelt.karaf.features/jdbc-features@1.0.1?classifier=sources

@@ -1,0 +1,16 @@
+- pkg:maven/org.linkki-framework/linkki-application-framework-vaadin8@0.9.20190418
+- pkg:maven/org.linkki-framework/linkki-application-framework-vaadin8@0.9.20190418?classifier=sources
+- pkg:maven/org.linkki-framework/linkki-application-framework-vaadin8@0.9.20190522
+- pkg:maven/org.linkki-framework/linkki-application-framework-vaadin8@0.9.20190522?classifier=sources
+- pkg:maven/org.linkki-framework/linkki-application-framework-vaadin8@0.9.20190528
+- pkg:maven/org.linkki-framework/linkki-application-framework-vaadin8@0.9.20190528?classifier=sources
+- pkg:maven/org.linkki-framework/linkki-application-framework-vaadin8@0.9.20190611
+- pkg:maven/org.linkki-framework/linkki-application-framework-vaadin8@0.9.20190611?classifier=sources
+- pkg:maven/org.linkki-framework/linkki-application-framework-vaadin8@1.0
+- pkg:maven/org.linkki-framework/linkki-application-framework-vaadin8@1.0-rc
+- pkg:maven/org.linkki-framework/linkki-application-framework-vaadin8@1.0-rc?classifier=sources
+- pkg:maven/org.linkki-framework/linkki-application-framework-vaadin8@1.0.0-rc02
+- pkg:maven/org.linkki-framework/linkki-application-framework-vaadin8@1.0.0-rc02?classifier=sources
+- pkg:maven/org.linkki-framework/linkki-application-framework-vaadin8@1.0?classifier=sources
+- pkg:maven/org.linkki-framework/linkki-application-framework-vaadin8@linkki-0.9.20190528
+- pkg:maven/org.linkki-framework/linkki-application-framework-vaadin8@linkki-0.9.20190528?classifier=sources

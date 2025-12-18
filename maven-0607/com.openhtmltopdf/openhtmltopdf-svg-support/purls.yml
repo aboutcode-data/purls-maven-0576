@@ -18,6 +18,10 @@
 - pkg:maven/com.openhtmltopdf/openhtmltopdf-svg-support@0.0.1-RC18?classifier=sources
 - pkg:maven/com.openhtmltopdf/openhtmltopdf-svg-support@0.0.1-RC19
 - pkg:maven/com.openhtmltopdf/openhtmltopdf-svg-support@0.0.1-RC19?classifier=sources
+- pkg:maven/com.openhtmltopdf/openhtmltopdf-svg-support@0.0.1-RC20
+- pkg:maven/com.openhtmltopdf/openhtmltopdf-svg-support@0.0.1-RC20?classifier=sources
+- pkg:maven/com.openhtmltopdf/openhtmltopdf-svg-support@0.0.1-RC21
+- pkg:maven/com.openhtmltopdf/openhtmltopdf-svg-support@0.0.1-RC21?classifier=sources
 - pkg:maven/com.openhtmltopdf/openhtmltopdf-svg-support@0.0.1-RC3
 - pkg:maven/com.openhtmltopdf/openhtmltopdf-svg-support@0.0.1-RC3?classifier=sources
 - pkg:maven/com.openhtmltopdf/openhtmltopdf-svg-support@0.0.1-RC4
@@ -30,3 +34,5 @@
 - pkg:maven/com.openhtmltopdf/openhtmltopdf-svg-support@0.0.1-RC8?classifier=sources
 - pkg:maven/com.openhtmltopdf/openhtmltopdf-svg-support@0.0.1-RC9
 - pkg:maven/com.openhtmltopdf/openhtmltopdf-svg-support@0.0.1-RC9?classifier=sources
+- pkg:maven/com.openhtmltopdf/openhtmltopdf-svg-support@1.0.0
+- pkg:maven/com.openhtmltopdf/openhtmltopdf-svg-support@1.0.0?classifier=sources

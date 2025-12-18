@@ -1,5 +1,6 @@
 - pkg:maven/org.leapframework/leap-spring-boot-orm@0.7.0b
 - pkg:maven/org.leapframework/leap-spring-boot-orm@0.7.10b
+- pkg:maven/org.leapframework/leap-spring-boot-orm@0.7.11b
 - pkg:maven/org.leapframework/leap-spring-boot-orm@0.7.1b
 - pkg:maven/org.leapframework/leap-spring-boot-orm@0.7.2b
 - pkg:maven/org.leapframework/leap-spring-boot-orm@0.7.3b

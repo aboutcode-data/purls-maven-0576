@@ -14,3 +14,5 @@
 - pkg:maven/com.fengwenyi/JavaLib@1.0.3.RELEASE?classifier=sources
 - pkg:maven/com.fengwenyi/JavaLib@1.0.4.RELEASE
 - pkg:maven/com.fengwenyi/JavaLib@1.0.4.RELEASE?classifier=sources
+- pkg:maven/com.fengwenyi/JavaLib@1.1.0
+- pkg:maven/com.fengwenyi/JavaLib@1.1.0?classifier=sources

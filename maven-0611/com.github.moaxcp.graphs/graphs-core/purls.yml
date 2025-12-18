@@ -1,0 +1,2 @@
+- pkg:maven/com.github.moaxcp.graphs/graphs-core@0.4.0
+- pkg:maven/com.github.moaxcp.graphs/graphs-core@0.4.0?classifier=sources

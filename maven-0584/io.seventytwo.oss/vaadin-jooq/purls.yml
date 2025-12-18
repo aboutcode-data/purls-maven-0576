@@ -1,0 +1,4 @@
+- pkg:maven/io.seventytwo.oss/vaadin-jooq@0.2.0
+- pkg:maven/io.seventytwo.oss/vaadin-jooq@0.2.0?classifier=sources
+- pkg:maven/io.seventytwo.oss/vaadin-jooq@0.3.1
+- pkg:maven/io.seventytwo.oss/vaadin-jooq@0.3.1?classifier=sources

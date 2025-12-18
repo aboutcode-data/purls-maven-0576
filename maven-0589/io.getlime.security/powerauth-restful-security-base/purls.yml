@@ -28,3 +28,5 @@
 - pkg:maven/io.getlime.security/powerauth-restful-security-base@0.19.2?classifier=sources
 - pkg:maven/io.getlime.security/powerauth-restful-security-base@0.21.0
 - pkg:maven/io.getlime.security/powerauth-restful-security-base@0.21.0?classifier=sources
+- pkg:maven/io.getlime.security/powerauth-restful-security-base@0.22.0
+- pkg:maven/io.getlime.security/powerauth-restful-security-base@0.22.0?classifier=sources

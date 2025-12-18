@@ -1,0 +1,2 @@
+- pkg:maven/com.virgilsecurity/ratchet-android@0.1.0?classifier=sources
+- pkg:maven/com.virgilsecurity/ratchet-android@0.1.0?type=aar

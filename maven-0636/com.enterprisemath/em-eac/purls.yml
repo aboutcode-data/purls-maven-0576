@@ -14,3 +14,5 @@
 - pkg:maven/com.enterprisemath/em-eac@3.8.0?classifier=sources
 - pkg:maven/com.enterprisemath/em-eac@3.9.0
 - pkg:maven/com.enterprisemath/em-eac@3.9.0?classifier=sources
+- pkg:maven/com.enterprisemath/em-eac@3.9.1
+- pkg:maven/com.enterprisemath/em-eac@3.9.1?classifier=sources

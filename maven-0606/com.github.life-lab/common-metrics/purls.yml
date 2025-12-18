@@ -1,5 +1,7 @@
 - pkg:maven/com.github.life-lab/common-metrics@0.0.11-RELEASE
 - pkg:maven/com.github.life-lab/common-metrics@0.0.11-RELEASE?classifier=sources
+- pkg:maven/com.github.life-lab/common-metrics@0.0.12.RELEASE
+- pkg:maven/com.github.life-lab/common-metrics@0.0.12.RELEASE?classifier=sources
 - pkg:maven/com.github.life-lab/common-metrics@0.0.7-RELEASE
 - pkg:maven/com.github.life-lab/common-metrics@0.0.7-RELEASE?classifier=sources
 - pkg:maven/com.github.life-lab/common-metrics@0.0.8-RELEASE

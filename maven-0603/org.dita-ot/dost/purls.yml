@@ -32,3 +32,5 @@
 - pkg:maven/org.dita-ot/dost@3.2?classifier=sources
 - pkg:maven/org.dita-ot/dost@3.3.1
 - pkg:maven/org.dita-ot/dost@3.3.1?classifier=sources
+- pkg:maven/org.dita-ot/dost@3.3.3
+- pkg:maven/org.dita-ot/dost@3.3.3?classifier=sources

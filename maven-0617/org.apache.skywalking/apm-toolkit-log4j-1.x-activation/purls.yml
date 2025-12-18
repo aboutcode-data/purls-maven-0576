@@ -14,3 +14,7 @@
 - pkg:maven/org.apache.skywalking/apm-toolkit-log4j-1.x-activation@6.0.0-alpha?classifier=sources
 - pkg:maven/org.apache.skywalking/apm-toolkit-log4j-1.x-activation@6.0.0-beta
 - pkg:maven/org.apache.skywalking/apm-toolkit-log4j-1.x-activation@6.0.0-beta?classifier=sources
+- pkg:maven/org.apache.skywalking/apm-toolkit-log4j-1.x-activation@6.1.0
+- pkg:maven/org.apache.skywalking/apm-toolkit-log4j-1.x-activation@6.1.0?classifier=sources
+- pkg:maven/org.apache.skywalking/apm-toolkit-log4j-1.x-activation@6.2.0
+- pkg:maven/org.apache.skywalking/apm-toolkit-log4j-1.x-activation@6.2.0?classifier=sources

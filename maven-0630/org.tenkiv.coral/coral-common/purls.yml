@@ -1,3 +1,7 @@
 - pkg:maven/org.tenkiv.coral/coral-common@2.0.0.1
 - pkg:maven/org.tenkiv.coral/coral-common@2.0.1.1
 - pkg:maven/org.tenkiv.coral/coral-common@2.1.2.1
+- pkg:maven/org.tenkiv.coral/coral-common@2.3.2.3
+- pkg:maven/org.tenkiv.coral/coral-common@2.3.2.3?classifier=sources
+- pkg:maven/org.tenkiv.coral/coral-common@2.3.4
+- pkg:maven/org.tenkiv.coral/coral-common@2.3.4?classifier=sources

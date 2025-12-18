@@ -1,0 +1,2 @@
+- pkg:maven/kz.idsoftware.maven.plugins/camunda-deploy-plugin@0.2
+- pkg:maven/kz.idsoftware.maven.plugins/camunda-deploy-plugin@0.2?classifier=sources

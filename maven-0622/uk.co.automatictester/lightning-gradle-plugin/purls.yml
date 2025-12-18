@@ -1,2 +1,6 @@
 - pkg:maven/uk.co.automatictester/lightning-gradle-plugin@1.2.0
 - pkg:maven/uk.co.automatictester/lightning-gradle-plugin@1.2.0?classifier=sources
+- pkg:maven/uk.co.automatictester/lightning-gradle-plugin@2.0.0
+- pkg:maven/uk.co.automatictester/lightning-gradle-plugin@2.0.0?classifier=sources
+- pkg:maven/uk.co.automatictester/lightning-gradle-plugin@2.0.1
+- pkg:maven/uk.co.automatictester/lightning-gradle-plugin@2.0.1?classifier=sources

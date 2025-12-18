@@ -1,0 +1,2 @@
+- pkg:maven/de.javacook/coordinate-sequencer@0.3
+- pkg:maven/de.javacook/coordinate-sequencer@0.3?classifier=sources

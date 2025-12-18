@@ -1,0 +1,2 @@
+- pkg:maven/link.thingscloud/freeswitch-esl@1.0.0-BETA1
+- pkg:maven/link.thingscloud/freeswitch-esl@1.0.0-BETA1?classifier=sources

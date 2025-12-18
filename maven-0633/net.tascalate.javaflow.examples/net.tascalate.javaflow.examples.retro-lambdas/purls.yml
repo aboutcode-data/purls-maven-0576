@@ -10,3 +10,5 @@
 - pkg:maven/net.tascalate.javaflow.examples/net.tascalate.javaflow.examples.retro-lambdas@1.0.5?classifier=sources
 - pkg:maven/net.tascalate.javaflow.examples/net.tascalate.javaflow.examples.retro-lambdas@1.0.6
 - pkg:maven/net.tascalate.javaflow.examples/net.tascalate.javaflow.examples.retro-lambdas@1.0.6?classifier=sources
+- pkg:maven/net.tascalate.javaflow.examples/net.tascalate.javaflow.examples.retro-lambdas@1.0.7
+- pkg:maven/net.tascalate.javaflow.examples/net.tascalate.javaflow.examples.retro-lambdas@1.0.7?classifier=sources

@@ -12,3 +12,7 @@
 - pkg:maven/com.velocidi/apso-testkit_2.11@0.13.17?classifier=sources
 - pkg:maven/com.velocidi/apso-testkit_2.11@0.13.18
 - pkg:maven/com.velocidi/apso-testkit_2.11@0.13.18?classifier=sources
+- pkg:maven/com.velocidi/apso-testkit_2.11@0.13.19
+- pkg:maven/com.velocidi/apso-testkit_2.11@0.13.19?classifier=sources
+- pkg:maven/com.velocidi/apso-testkit_2.11@0.13.20
+- pkg:maven/com.velocidi/apso-testkit_2.11@0.13.20?classifier=sources

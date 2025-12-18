@@ -4,3 +4,5 @@
 - pkg:maven/com.tectonica/jonix-common@3.1-rc1?classifier=sources
 - pkg:maven/com.tectonica/jonix-common@8.0.1
 - pkg:maven/com.tectonica/jonix-common@8.0.1?classifier=sources
+- pkg:maven/com.tectonica/jonix-common@9.0
+- pkg:maven/com.tectonica/jonix-common@9.0?classifier=sources

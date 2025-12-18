@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/xtal-latx@0.0.88
+- pkg:maven/org.webjars.npm/xtal-latx@0.0.88?classifier=sources

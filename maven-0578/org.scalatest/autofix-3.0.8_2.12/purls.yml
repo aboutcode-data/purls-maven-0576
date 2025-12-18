@@ -1,0 +1,2 @@
+- pkg:maven/org.scalatest/autofix-3.0.8_2.12@1.0.0-SNAP1
+- pkg:maven/org.scalatest/autofix-3.0.8_2.12@1.0.0-SNAP1?classifier=sources

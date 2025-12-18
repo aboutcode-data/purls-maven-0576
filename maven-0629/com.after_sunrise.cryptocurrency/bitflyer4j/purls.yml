@@ -48,3 +48,5 @@
 - pkg:maven/com.after_sunrise.cryptocurrency/bitflyer4j@0.5.0?classifier=sources
 - pkg:maven/com.after_sunrise.cryptocurrency/bitflyer4j@0.5.1
 - pkg:maven/com.after_sunrise.cryptocurrency/bitflyer4j@0.5.1?classifier=sources
+- pkg:maven/com.after_sunrise.cryptocurrency/bitflyer4j@0.6.0
+- pkg:maven/com.after_sunrise.cryptocurrency/bitflyer4j@0.6.0?classifier=sources

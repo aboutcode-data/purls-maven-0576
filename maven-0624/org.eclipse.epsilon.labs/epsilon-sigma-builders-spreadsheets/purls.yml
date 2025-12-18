@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.epsilon.labs/epsilon-sigma-builders-spreadsheets@1.0.0-rc
+- pkg:maven/org.eclipse.epsilon.labs/epsilon-sigma-builders-spreadsheets@1.0.0-rc?classifier=sources

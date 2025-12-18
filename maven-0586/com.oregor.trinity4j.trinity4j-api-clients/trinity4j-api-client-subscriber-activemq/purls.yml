@@ -1,0 +1,3 @@
+- pkg:maven/com.oregor.trinity4j.trinity4j-api-clients/trinity4j-api-client-subscriber-activemq@0.0.2
+- pkg:maven/com.oregor.trinity4j.trinity4j-api-clients/trinity4j-api-client-subscriber-activemq@0.0.3
+- pkg:maven/com.oregor.trinity4j.trinity4j-api-clients/trinity4j-api-client-subscriber-activemq@0.0.4

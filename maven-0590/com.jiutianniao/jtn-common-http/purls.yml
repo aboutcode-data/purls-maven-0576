@@ -1,0 +1,2 @@
+- pkg:maven/com.jiutianniao/jtn-common-http@1.0.0
+- pkg:maven/com.jiutianniao/jtn-common-http@1.0.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.netbeans.api/org-netbeans-core-netigso@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-core-netigso@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-core-netigso@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-core-netigso@RELEASE90?classifier=sources

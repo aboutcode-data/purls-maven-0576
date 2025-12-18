@@ -1,0 +1,2 @@
+- pkg:maven/com.github.ok2c.hc5.android/httpclient-android@0.1.0?classifier=sources
+- pkg:maven/com.github.ok2c.hc5.android/httpclient-android@0.1.0?type=aar

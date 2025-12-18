@@ -22,3 +22,5 @@
 - pkg:maven/org.wso2.extension.siddhi.execution.json/siddhi-execution-json@1.0.9?classifier=sources
 - pkg:maven/org.wso2.extension.siddhi.execution.json/siddhi-execution-json@1.1.0
 - pkg:maven/org.wso2.extension.siddhi.execution.json/siddhi-execution-json@1.1.0?classifier=sources
+- pkg:maven/org.wso2.extension.siddhi.execution.json/siddhi-execution-json@2.0.0
+- pkg:maven/org.wso2.extension.siddhi.execution.json/siddhi-execution-json@2.0.0?classifier=sources

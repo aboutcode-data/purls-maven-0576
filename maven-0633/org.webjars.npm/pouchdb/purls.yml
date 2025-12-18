@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/pouchdb@5.3.2?classifier=sources
 - pkg:maven/org.webjars.npm/pouchdb@6.1.0
 - pkg:maven/org.webjars.npm/pouchdb@6.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/pouchdb@7.0.0
+- pkg:maven/org.webjars.npm/pouchdb@7.0.0?classifier=sources

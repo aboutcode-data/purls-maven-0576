@@ -1,0 +1,2 @@
+- pkg:maven/io.github.splotycode.mosaik/Networking@2.3-Prerelease1
+- pkg:maven/io.github.splotycode.mosaik/Networking@2.3-Prerelease1?classifier=sources

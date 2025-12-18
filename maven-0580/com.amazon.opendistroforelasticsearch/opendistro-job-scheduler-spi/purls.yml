@@ -1,0 +1,2 @@
+- pkg:maven/com.amazon.opendistroforelasticsearch/opendistro-job-scheduler-spi@1.0.0.1
+- pkg:maven/com.amazon.opendistroforelasticsearch/opendistro-job-scheduler-spi@1.0.0.1?classifier=sources

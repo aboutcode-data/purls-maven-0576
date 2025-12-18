@@ -1,3 +1,5 @@
+- pkg:maven/ai.swim/swim-cli@3.10.0?classifier=sources
 - pkg:maven/ai.swim/swim-cli@3.9.0?classifier=sources
 - pkg:maven/ai.swim/swim-cli@3.9.1?classifier=sources
 - pkg:maven/ai.swim/swim-cli@3.9.2?classifier=sources
+- pkg:maven/ai.swim/swim-cli@3.9.3?classifier=sources

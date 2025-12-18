@@ -4,3 +4,11 @@
 - pkg:maven/br.unb.erlangms/ems_java@1.0.8.1-RELEASE?classifier=sources
 - pkg:maven/br.unb.erlangms/ems_java@1.0.8.2-RELEASE
 - pkg:maven/br.unb.erlangms/ems_java@1.0.8.2-RELEASE?classifier=sources
+- pkg:maven/br.unb.erlangms/ems_java@1.0.8.8
+- pkg:maven/br.unb.erlangms/ems_java@1.0.8.8?classifier=sources
+- pkg:maven/br.unb.erlangms/ems_java@2.0.0.0
+- pkg:maven/br.unb.erlangms/ems_java@2.0.0.0-RELEASE
+- pkg:maven/br.unb.erlangms/ems_java@2.0.0.0-RELEASE?classifier=sources
+- pkg:maven/br.unb.erlangms/ems_java@2.0.0.0?classifier=sources
+- pkg:maven/br.unb.erlangms/ems_java@2.0.0.1
+- pkg:maven/br.unb.erlangms/ems_java@2.0.0.1?classifier=sources

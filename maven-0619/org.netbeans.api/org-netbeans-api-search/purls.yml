@@ -1,0 +1,4 @@
+- pkg:maven/org.netbeans.api/org-netbeans-api-search@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-api-search@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-api-search@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-api-search@RELEASE90?classifier=sources

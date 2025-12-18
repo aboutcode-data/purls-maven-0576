@@ -1,0 +1,2 @@
+- pkg:maven/com.github.bordertech.restfriends/restfriends-swagger-jersey2@1.0.4
+- pkg:maven/com.github.bordertech.restfriends/restfriends-swagger-jersey2@1.0.4?classifier=sources

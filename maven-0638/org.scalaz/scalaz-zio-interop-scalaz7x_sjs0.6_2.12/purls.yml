@@ -32,3 +32,7 @@
 - pkg:maven/org.scalaz/scalaz-zio-interop-scalaz7x_sjs0.6_2.12@1.0-RC1?classifier=sources
 - pkg:maven/org.scalaz/scalaz-zio-interop-scalaz7x_sjs0.6_2.12@1.0-RC3
 - pkg:maven/org.scalaz/scalaz-zio-interop-scalaz7x_sjs0.6_2.12@1.0-RC3?classifier=sources
+- pkg:maven/org.scalaz/scalaz-zio-interop-scalaz7x_sjs0.6_2.12@1.0-RC4
+- pkg:maven/org.scalaz/scalaz-zio-interop-scalaz7x_sjs0.6_2.12@1.0-RC4?classifier=sources
+- pkg:maven/org.scalaz/scalaz-zio-interop-scalaz7x_sjs0.6_2.12@1.0-RC5
+- pkg:maven/org.scalaz/scalaz-zio-interop-scalaz7x_sjs0.6_2.12@1.0-RC5?classifier=sources

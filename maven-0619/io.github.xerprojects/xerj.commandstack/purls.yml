@@ -1,0 +1,2 @@
+- pkg:maven/io.github.xerprojects/xerj.commandstack@0.0.1
+- pkg:maven/io.github.xerprojects/xerj.commandstack@0.0.1?classifier=sources

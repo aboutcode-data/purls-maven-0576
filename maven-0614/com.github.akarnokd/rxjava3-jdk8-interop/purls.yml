@@ -1,0 +1,2 @@
+- pkg:maven/com.github.akarnokd/rxjava3-jdk8-interop@3.0.0-RC1
+- pkg:maven/com.github.akarnokd/rxjava3-jdk8-interop@3.0.0-RC1?classifier=sources

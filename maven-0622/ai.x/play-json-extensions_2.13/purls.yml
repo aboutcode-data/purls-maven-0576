@@ -1,0 +1,4 @@
+- pkg:maven/ai.x/play-json-extensions_2.13@0.40.1
+- pkg:maven/ai.x/play-json-extensions_2.13@0.40.1?classifier=sources
+- pkg:maven/ai.x/play-json-extensions_2.13@0.40.2
+- pkg:maven/ai.x/play-json-extensions_2.13@0.40.2?classifier=sources
