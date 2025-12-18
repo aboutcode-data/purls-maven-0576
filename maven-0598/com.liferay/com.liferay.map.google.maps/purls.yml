@@ -73,6 +73,9 @@
 - pkg:maven/com.liferay/com.liferay.map.google.maps@1.0.32
 - pkg:maven/com.liferay/com.liferay.map.google.maps@1.0.32?classifier=sources
 - pkg:maven/com.liferay/com.liferay.map.google.maps@1.0.32?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.map.google.maps@1.0.33
+- pkg:maven/com.liferay/com.liferay.map.google.maps@1.0.33?classifier=sources
+- pkg:maven/com.liferay/com.liferay.map.google.maps@1.0.33?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.map.google.maps@1.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.map.google.maps@1.0.4
 - pkg:maven/com.liferay/com.liferay.map.google.maps@1.0.4?classifier=sources
@@ -144,6 +147,9 @@
 - pkg:maven/com.liferay/com.liferay.map.google.maps@2.0.26
 - pkg:maven/com.liferay/com.liferay.map.google.maps@2.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.map.google.maps@2.0.26?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.map.google.maps@2.0.27
+- pkg:maven/com.liferay/com.liferay.map.google.maps@2.0.27?classifier=sources
+- pkg:maven/com.liferay/com.liferay.map.google.maps@2.0.27?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.map.google.maps@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.map.google.maps@2.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.map.google.maps@2.0.3
@@ -228,6 +234,9 @@
 - pkg:maven/com.liferay/com.liferay.map.google.maps@3.0.27
 - pkg:maven/com.liferay/com.liferay.map.google.maps@3.0.27?classifier=sources
 - pkg:maven/com.liferay/com.liferay.map.google.maps@3.0.27?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.map.google.maps@3.0.28
+- pkg:maven/com.liferay/com.liferay.map.google.maps@3.0.28?classifier=sources
+- pkg:maven/com.liferay/com.liferay.map.google.maps@3.0.28?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.map.google.maps@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.map.google.maps@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.map.google.maps@3.0.3
@@ -282,6 +291,9 @@
 - pkg:maven/com.liferay/com.liferay.map.google.maps@4.0.18
 - pkg:maven/com.liferay/com.liferay.map.google.maps@4.0.18?classifier=sources
 - pkg:maven/com.liferay/com.liferay.map.google.maps@4.0.18?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.map.google.maps@4.0.19
+- pkg:maven/com.liferay/com.liferay.map.google.maps@4.0.19?classifier=sources
+- pkg:maven/com.liferay/com.liferay.map.google.maps@4.0.19?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.map.google.maps@4.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.map.google.maps@4.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.map.google.maps@4.0.2
@@ -314,3 +326,6 @@
 - pkg:maven/com.liferay/com.liferay.map.google.maps@5.0.1
 - pkg:maven/com.liferay/com.liferay.map.google.maps@5.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.map.google.maps@5.0.1?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.map.google.maps@5.0.2
+- pkg:maven/com.liferay/com.liferay.map.google.maps@5.0.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.map.google.maps@5.0.2?classifier=sources-commercial

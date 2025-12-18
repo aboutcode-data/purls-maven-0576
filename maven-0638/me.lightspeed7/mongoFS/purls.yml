@@ -1,5 +1,7 @@
 - pkg:maven/me.lightspeed7/mongoFS@0.10.0
 - pkg:maven/me.lightspeed7/mongoFS@0.10.0?classifier=sources
+- pkg:maven/me.lightspeed7/mongoFS@0.7.7
+- pkg:maven/me.lightspeed7/mongoFS@0.7.7?classifier=sources
 - pkg:maven/me.lightspeed7/mongoFS@0.8.1
 - pkg:maven/me.lightspeed7/mongoFS@0.8.1?classifier=sources
 - pkg:maven/me.lightspeed7/mongoFS@0.8.2

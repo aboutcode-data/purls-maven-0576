@@ -38,3 +38,5 @@
 - pkg:maven/org.glassfish.main.extras/javaee@6.0.0-RC4
 - pkg:maven/org.glassfish.main.extras/javaee@6.0.0-RC4?classifier=sources
 - pkg:maven/org.glassfish.main.extras/javaee@6.0.0?classifier=sources
+- pkg:maven/org.glassfish.main.extras/javaee@6.1.0
+- pkg:maven/org.glassfish.main.extras/javaee@6.1.0?classifier=sources

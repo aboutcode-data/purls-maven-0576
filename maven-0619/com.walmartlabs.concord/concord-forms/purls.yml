@@ -55,3 +55,5 @@
 - pkg:maven/com.walmartlabs.concord/concord-forms@1.82.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord/concord-forms@1.82.1?classifier=sources
 - pkg:maven/com.walmartlabs.concord/concord-forms@1.83.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord/concord-forms@1.84.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord/concord-forms@1.85.0?classifier=sources

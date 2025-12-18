@@ -1,0 +1,2 @@
+- pkg:maven/io.gamedock.sdk/gamedock-sdk-admob@4.2.0?classifier=sources
+- pkg:maven/io.gamedock.sdk/gamedock-sdk-admob@4.2.1?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/edu.kit.datamanager/nexus-publish-example@0.0.1?classifier=sources

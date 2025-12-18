@@ -20,6 +20,7 @@
 - pkg:maven/com.pushwoosh/pushwoosh-beacon@5.15.0?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh-beacon@5.15.1?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh-beacon@5.16.0?type=aar
+- pkg:maven/com.pushwoosh/pushwoosh-beacon@5.16.0b?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh-beacon@5.17.0?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh-beacon@5.17.1?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh-beacon@5.17.2?type=aar
@@ -50,6 +51,7 @@
 - pkg:maven/com.pushwoosh/pushwoosh-beacon@5.22.4?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh-beacon@5.22.5?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh-beacon@5.22.6?type=aar
+- pkg:maven/com.pushwoosh/pushwoosh-beacon@5.22.7?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh-beacon@5.4.0?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh-beacon@5.4.1?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh-beacon@5.4.2?type=aar

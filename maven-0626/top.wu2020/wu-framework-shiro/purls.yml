@@ -1,2 +1,4 @@
+- pkg:maven/top.wu2020/wu-framework-shiro@1.0.4
+- pkg:maven/top.wu2020/wu-framework-shiro@1.0.4?classifier=sources
 - pkg:maven/top.wu2020/wu-framework-shiro@1.0.8
 - pkg:maven/top.wu2020/wu-framework-shiro@1.0.8?classifier=sources

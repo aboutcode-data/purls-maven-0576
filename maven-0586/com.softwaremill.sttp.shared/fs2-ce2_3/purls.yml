@@ -1,0 +1,4 @@
+- pkg:maven/com.softwaremill.sttp.shared/fs2-ce2_3@1.2.4
+- pkg:maven/com.softwaremill.sttp.shared/fs2-ce2_3@1.2.4?classifier=sources
+- pkg:maven/com.softwaremill.sttp.shared/fs2-ce2_3@1.2.5
+- pkg:maven/com.softwaremill.sttp.shared/fs2-ce2_3@1.2.5?classifier=sources

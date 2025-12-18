@@ -18,3 +18,5 @@
 - pkg:maven/org.dataconservancy.pass/pass-test-data@0.7.0?classifier=sources
 - pkg:maven/org.dataconservancy.pass/pass-test-data@0.7.1
 - pkg:maven/org.dataconservancy.pass/pass-test-data@0.7.1?classifier=sources
+- pkg:maven/org.dataconservancy.pass/pass-test-data@0.8.0
+- pkg:maven/org.dataconservancy.pass/pass-test-data@0.8.0?classifier=sources

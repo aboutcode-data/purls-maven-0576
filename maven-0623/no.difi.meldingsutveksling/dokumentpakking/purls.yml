@@ -1,0 +1,2 @@
+- pkg:maven/no.difi.meldingsutveksling/dokumentpakking@2.2.1
+- pkg:maven/no.difi.meldingsutveksling/dokumentpakking@2.2.1?classifier=sources

@@ -120,3 +120,5 @@
 - pkg:maven/com.github.houbbbbb/sso-spring-boot-starter@2.3.2?classifier=sources
 - pkg:maven/com.github.houbbbbb/sso-spring-boot-starter@2.3.3
 - pkg:maven/com.github.houbbbbb/sso-spring-boot-starter@2.3.3?classifier=sources
+- pkg:maven/com.github.houbbbbb/sso-spring-boot-starter@2.3.4
+- pkg:maven/com.github.houbbbbb/sso-spring-boot-starter@2.3.4?classifier=sources

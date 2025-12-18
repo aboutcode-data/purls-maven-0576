@@ -40,3 +40,11 @@
 - pkg:maven/net.guerlab.smart.user/smart-user-core@20.2.4?classifier=sources
 - pkg:maven/net.guerlab.smart.user/smart-user-core@20.3.0
 - pkg:maven/net.guerlab.smart.user/smart-user-core@20.3.0?classifier=sources
+- pkg:maven/net.guerlab.smart.user/smart-user-core@21.0.0
+- pkg:maven/net.guerlab.smart.user/smart-user-core@21.0.0?classifier=sources
+- pkg:maven/net.guerlab.smart.user/smart-user-core@21.2.0
+- pkg:maven/net.guerlab.smart.user/smart-user-core@21.2.0?classifier=sources
+- pkg:maven/net.guerlab.smart.user/smart-user-core@21.3.2
+- pkg:maven/net.guerlab.smart.user/smart-user-core@21.3.2?classifier=sources
+- pkg:maven/net.guerlab.smart.user/smart-user-core@21.4.0
+- pkg:maven/net.guerlab.smart.user/smart-user-core@21.4.0?classifier=sources

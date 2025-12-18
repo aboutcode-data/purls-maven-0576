@@ -1,0 +1,2 @@
+- pkg:maven/org.owasp/csrfguard-extension-session@4.0.0
+- pkg:maven/org.owasp/csrfguard-extension-session@4.0.0?classifier=sources

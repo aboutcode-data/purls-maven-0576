@@ -1,0 +1,4 @@
+- pkg:maven/com.softwaremill.sttp.client3/cats_sjs1_3@3.3.3
+- pkg:maven/com.softwaremill.sttp.client3/cats_sjs1_3@3.3.3?classifier=sources
+- pkg:maven/com.softwaremill.sttp.client3/cats_sjs1_3@3.3.4
+- pkg:maven/com.softwaremill.sttp.client3/cats_sjs1_3@3.3.4?classifier=sources

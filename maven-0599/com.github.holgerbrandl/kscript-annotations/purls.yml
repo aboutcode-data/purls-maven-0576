@@ -1,0 +1,2 @@
+- pkg:maven/com.github.holgerbrandl/kscript-annotations@1.2?classifier=sources
+- pkg:maven/com.github.holgerbrandl/kscript-annotations@1.4?classifier=sources

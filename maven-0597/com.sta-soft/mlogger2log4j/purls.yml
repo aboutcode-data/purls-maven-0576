@@ -1,3 +1,5 @@
+- pkg:maven/com.sta-soft/mlogger2log4j@1.10
+- pkg:maven/com.sta-soft/mlogger2log4j@1.10?classifier=sources
 - pkg:maven/com.sta-soft/mlogger2log4j@1.2
 - pkg:maven/com.sta-soft/mlogger2log4j@1.2?classifier=sources
 - pkg:maven/com.sta-soft/mlogger2log4j@1.3

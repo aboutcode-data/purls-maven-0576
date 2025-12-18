@@ -1,0 +1,6 @@
+- pkg:maven/org.jolie-lang/jolie-js@1.10.0
+- pkg:maven/org.jolie-lang/jolie-js@1.10.0-beta3
+- pkg:maven/org.jolie-lang/jolie-js@1.10.0-beta3?classifier=sources
+- pkg:maven/org.jolie-lang/jolie-js@1.10.0?classifier=sources
+- pkg:maven/org.jolie-lang/jolie-js@1.10.2-rc1
+- pkg:maven/org.jolie-lang/jolie-js@1.10.2-rc1?classifier=sources

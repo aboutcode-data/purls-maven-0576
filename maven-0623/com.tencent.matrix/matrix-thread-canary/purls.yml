@@ -1,2 +1,4 @@
 - pkg:maven/com.tencent.matrix/matrix-thread-canary@0.4.10.3?classifier=sources
 - pkg:maven/com.tencent.matrix/matrix-thread-canary@0.8.0?classifier=sources
+- pkg:maven/com.tencent.matrix/matrix-thread-canary@0.8.1?classifier=sources
+- pkg:maven/com.tencent.matrix/matrix-thread-canary@0.9.0?classifier=sources

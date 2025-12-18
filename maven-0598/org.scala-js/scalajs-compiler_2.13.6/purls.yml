@@ -1,0 +1,2 @@
+- pkg:maven/org.scala-js/scalajs-compiler_2.13.6@1.5.1
+- pkg:maven/org.scala-js/scalajs-compiler_2.13.6@1.5.1?classifier=sources

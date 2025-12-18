@@ -1,0 +1,2 @@
+- pkg:maven/co.elastic.apm/apm-agent-attach-cli@1.23.0
+- pkg:maven/co.elastic.apm/apm-agent-attach-cli@1.23.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.github.gpor0/jooreo@0.2.3
 - pkg:maven/com.github.gpor0/jooreo@0.2.3?classifier=sources
+- pkg:maven/com.github.gpor0/jooreo@0.2.5
+- pkg:maven/com.github.gpor0/jooreo@0.2.5?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.manydesigns/portofino-s3@4.2.10
+- pkg:maven/com.manydesigns/portofino-s3@4.2.10?classifier=sources

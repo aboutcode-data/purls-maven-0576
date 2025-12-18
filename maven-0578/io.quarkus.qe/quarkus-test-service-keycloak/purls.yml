@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkus.qe/quarkus-test-service-keycloak@0.0.1
+- pkg:maven/io.quarkus.qe/quarkus-test-service-keycloak@0.0.1?classifier=sources

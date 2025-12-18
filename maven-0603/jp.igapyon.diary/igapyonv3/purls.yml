@@ -22,3 +22,5 @@
 - pkg:maven/jp.igapyon.diary/igapyonv3@1.5.2?classifier=sources
 - pkg:maven/jp.igapyon.diary/igapyonv3@1.5.4
 - pkg:maven/jp.igapyon.diary/igapyonv3@1.5.4?classifier=sources
+- pkg:maven/jp.igapyon.diary/igapyonv3@1.5.5
+- pkg:maven/jp.igapyon.diary/igapyonv3@1.5.5?classifier=sources

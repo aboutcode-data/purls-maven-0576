@@ -1,0 +1,2 @@
+- pkg:maven/com.github.database-rider/quarkus-postgres-sample@1.23.1
+- pkg:maven/com.github.database-rider/quarkus-postgres-sample@1.23.1?classifier=sources

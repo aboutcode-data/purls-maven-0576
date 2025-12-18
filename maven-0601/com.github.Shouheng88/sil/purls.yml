@@ -1,0 +1,2 @@
+- pkg:maven/com.github.Shouheng88/sil@0.1.0?classifier=sources
+- pkg:maven/com.github.Shouheng88/sil@0.1.0?type=aar

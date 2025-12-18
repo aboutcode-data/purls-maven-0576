@@ -1,0 +1,2 @@
+- pkg:maven/io.github.orgyflame/telegram-bot-api-spring-boot-starter@5.2.0
+- pkg:maven/io.github.orgyflame/telegram-bot-api-spring-boot-starter@5.2.0?classifier=sources

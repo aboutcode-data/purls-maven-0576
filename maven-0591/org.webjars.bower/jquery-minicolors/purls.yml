@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.bower/jquery-minicolors@2.3.0?classifier=sources
 - pkg:maven/org.webjars.bower/jquery-minicolors@2.3.4
 - pkg:maven/org.webjars.bower/jquery-minicolors@2.3.4?classifier=sources
+- pkg:maven/org.webjars.bower/jquery-minicolors@2.3.5
+- pkg:maven/org.webjars.bower/jquery-minicolors@2.3.5?classifier=sources

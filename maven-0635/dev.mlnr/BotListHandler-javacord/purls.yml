@@ -1,0 +1,7 @@
+- pkg:maven/dev.mlnr/BotListHandler-javacord@2.0.0_1?classifier=sources
+- pkg:maven/dev.mlnr/BotListHandler-javacord@2.0.0_2?classifier=sources
+- pkg:maven/dev.mlnr/BotListHandler-javacord@2.0.0_3?classifier=sources
+- pkg:maven/dev.mlnr/BotListHandler-javacord@2.0.0_4?classifier=sources
+- pkg:maven/dev.mlnr/BotListHandler-javacord@2.0.0_5?classifier=sources
+- pkg:maven/dev.mlnr/BotListHandler-javacord@2.0.0_DEV1?classifier=sources
+- pkg:maven/dev.mlnr/BotListHandler-javacord@2.0.0_DEV4?classifier=sources

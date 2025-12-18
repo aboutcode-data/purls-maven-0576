@@ -1,0 +1,2 @@
+- pkg:maven/club.sword13.art/art-base@1.0.0?classifier=sources
+- pkg:maven/club.sword13.art/art-base@1.0.1?classifier=sources

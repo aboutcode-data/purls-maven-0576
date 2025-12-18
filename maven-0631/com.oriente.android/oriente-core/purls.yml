@@ -3,4 +3,7 @@
 - pkg:maven/com.oriente.android/oriente-core@1.0.2?classifier=sources
 - pkg:maven/com.oriente.android/oriente-core@1.0.3?classifier=sources
 - pkg:maven/com.oriente.android/oriente-core@1.0.4?classifier=sources
+- pkg:maven/com.oriente.android/oriente-core@1.0.5?classifier=sources
+- pkg:maven/com.oriente.android/oriente-core@1.0.6?classifier=sources
+- pkg:maven/com.oriente.android/oriente-core@1.0.7?classifier=sources
 - pkg:maven/com.oriente.android/oriente-core@3.0.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/io.eventuate.messaging.rabbitmq/eventuate-messaging-rabbitmq-spring-integration-tests@0.11.0.RELEASE?classifier=sources
+- pkg:maven/io.eventuate.messaging.rabbitmq/eventuate-messaging-rabbitmq-spring-integration-tests@0.12.0.RELEASE?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/io.github.wherby/dora_2.12@1.8.0.3
 - pkg:maven/io.github.wherby/dora_2.12@1.8.0.3?classifier=sources
+- pkg:maven/io.github.wherby/dora_2.12@1.8.0.5
+- pkg:maven/io.github.wherby/dora_2.12@1.8.0.5?classifier=sources

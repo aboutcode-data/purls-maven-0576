@@ -1,5 +1,7 @@
 - pkg:maven/org.webjars.bowergithub.cytoscape/cytoscape.js@3.18.0
 - pkg:maven/org.webjars.bowergithub.cytoscape/cytoscape.js@3.18.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.cytoscape/cytoscape.js@3.19.0
+- pkg:maven/org.webjars.bowergithub.cytoscape/cytoscape.js@3.19.0?classifier=sources
 - pkg:maven/org.webjars.bowergithub.cytoscape/cytoscape.js@3.2.12
 - pkg:maven/org.webjars.bowergithub.cytoscape/cytoscape.js@3.2.12?classifier=sources
 - pkg:maven/org.webjars.bowergithub.cytoscape/cytoscape.js@3.2.20

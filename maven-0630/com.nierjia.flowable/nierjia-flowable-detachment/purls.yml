@@ -1,0 +1,2 @@
+- pkg:maven/com.nierjia.flowable/nierjia-flowable-detachment@0.0.1
+- pkg:maven/com.nierjia.flowable/nierjia-flowable-detachment@0.0.1?classifier=sources

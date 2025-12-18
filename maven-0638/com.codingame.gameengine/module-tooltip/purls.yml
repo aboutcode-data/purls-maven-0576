@@ -84,3 +84,5 @@
 - pkg:maven/com.codingame.gameengine/module-tooltip@4.0.1?classifier=sources
 - pkg:maven/com.codingame.gameengine/module-tooltip@4.0.2
 - pkg:maven/com.codingame.gameengine/module-tooltip@4.0.2?classifier=sources
+- pkg:maven/com.codingame.gameengine/module-tooltip@4.1.2
+- pkg:maven/com.codingame.gameengine/module-tooltip@4.1.2?classifier=sources

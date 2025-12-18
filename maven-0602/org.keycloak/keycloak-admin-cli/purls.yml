@@ -22,6 +22,10 @@
 - pkg:maven/org.keycloak/keycloak-admin-cli@12.0.3?classifier=sources
 - pkg:maven/org.keycloak/keycloak-admin-cli@12.0.4
 - pkg:maven/org.keycloak/keycloak-admin-cli@12.0.4?classifier=sources
+- pkg:maven/org.keycloak/keycloak-admin-cli@13.0.0
+- pkg:maven/org.keycloak/keycloak-admin-cli@13.0.0?classifier=sources
+- pkg:maven/org.keycloak/keycloak-admin-cli@13.0.1
+- pkg:maven/org.keycloak/keycloak-admin-cli@13.0.1?classifier=sources
 - pkg:maven/org.keycloak/keycloak-admin-cli@2.5.0.CR1
 - pkg:maven/org.keycloak/keycloak-admin-cli@2.5.0.CR1?classifier=sources
 - pkg:maven/org.keycloak/keycloak-admin-cli@2.5.0.Final

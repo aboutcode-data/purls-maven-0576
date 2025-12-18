@@ -112,6 +112,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-portlet@7.16.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-portlet@7.17.0
 - pkg:maven/org.wicketstuff/wicketstuff-portlet@7.17.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-portlet@7.18.0
+- pkg:maven/org.wicketstuff/wicketstuff-portlet@7.18.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-portlet@7.2.0
 - pkg:maven/org.wicketstuff/wicketstuff-portlet@7.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-portlet@7.3.0

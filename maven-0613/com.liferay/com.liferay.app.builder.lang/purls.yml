@@ -125,6 +125,15 @@
 - pkg:maven/com.liferay/com.liferay.app.builder.lang@1.0.50
 - pkg:maven/com.liferay/com.liferay.app.builder.lang@1.0.50?classifier=sources
 - pkg:maven/com.liferay/com.liferay.app.builder.lang@1.0.50?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.app.builder.lang@1.0.51
+- pkg:maven/com.liferay/com.liferay.app.builder.lang@1.0.51?classifier=sources
+- pkg:maven/com.liferay/com.liferay.app.builder.lang@1.0.51?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.app.builder.lang@1.0.52
+- pkg:maven/com.liferay/com.liferay.app.builder.lang@1.0.52?classifier=sources
+- pkg:maven/com.liferay/com.liferay.app.builder.lang@1.0.52?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.app.builder.lang@1.0.53
+- pkg:maven/com.liferay/com.liferay.app.builder.lang@1.0.53?classifier=sources
+- pkg:maven/com.liferay/com.liferay.app.builder.lang@1.0.53?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.app.builder.lang@1.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.app.builder.lang@1.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.app.builder.lang@1.0.6
@@ -142,3 +151,9 @@
 - pkg:maven/com.liferay/com.liferay.app.builder.lang@2.0.0
 - pkg:maven/com.liferay/com.liferay.app.builder.lang@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.app.builder.lang@2.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.app.builder.lang@2.0.1
+- pkg:maven/com.liferay/com.liferay.app.builder.lang@2.0.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.app.builder.lang@2.0.1?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.app.builder.lang@2.0.2
+- pkg:maven/com.liferay/com.liferay.app.builder.lang@2.0.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.app.builder.lang@2.0.2?classifier=sources-commercial

@@ -1,0 +1,2 @@
+- pkg:maven/com.immomo.cosmos.photon/baseim@2.1.3_20201217?classifier=sources
+- pkg:maven/com.immomo.cosmos.photon/baseim@2.1.3_20201217?type=aar

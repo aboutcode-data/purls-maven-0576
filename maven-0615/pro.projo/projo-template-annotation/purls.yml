@@ -2,3 +2,5 @@
 - pkg:maven/pro.projo/projo-template-annotation@1.0.0?classifier=sources
 - pkg:maven/pro.projo/projo-template-annotation@1.1.0
 - pkg:maven/pro.projo/projo-template-annotation@1.1.0?classifier=sources
+- pkg:maven/pro.projo/projo-template-annotation@1.2.0
+- pkg:maven/pro.projo/projo-template-annotation@1.2.0?classifier=sources

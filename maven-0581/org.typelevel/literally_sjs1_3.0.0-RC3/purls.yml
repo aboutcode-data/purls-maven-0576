@@ -1,0 +1,4 @@
+- pkg:maven/org.typelevel/literally_sjs1_3.0.0-RC3@1.0-1-d1f4e84
+- pkg:maven/org.typelevel/literally_sjs1_3.0.0-RC3@1.0-1-d1f4e84?classifier=sources
+- pkg:maven/org.typelevel/literally_sjs1_3.0.0-RC3@1.0.1
+- pkg:maven/org.typelevel/literally_sjs1_3.0.0-RC3@1.0.1?classifier=sources

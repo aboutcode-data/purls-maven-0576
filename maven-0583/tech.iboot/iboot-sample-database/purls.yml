@@ -1,0 +1,2 @@
+- pkg:maven/tech.iboot/iboot-sample-database@0.0.4
+- pkg:maven/tech.iboot/iboot-sample-database@0.0.4?classifier=sources

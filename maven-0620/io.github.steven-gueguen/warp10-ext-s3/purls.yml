@@ -1,1 +1,4 @@
+- pkg:maven/io.github.steven-gueguen/warp10-ext-s3@0.2.1-674039c-uberjar?classifier=sources
+- pkg:maven/io.github.steven-gueguen/warp10-ext-s3@0.2.1-674039c?classifier=sources
 - pkg:maven/io.github.steven-gueguen/warp10-ext-s3@0.2.1?classifier=sources
+- pkg:maven/io.github.steven-gueguen/warp10-ext-s3@1.0.1?classifier=sources

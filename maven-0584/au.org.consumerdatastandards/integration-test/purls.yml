@@ -4,3 +4,5 @@
 - pkg:maven/au.org.consumerdatastandards/integration-test@1.4.0
 - pkg:maven/au.org.consumerdatastandards/integration-test@1.5.1
 - pkg:maven/au.org.consumerdatastandards/integration-test@1.7.0
+- pkg:maven/au.org.consumerdatastandards/integration-test@1.8.0
+- pkg:maven/au.org.consumerdatastandards/integration-test@1.9.0

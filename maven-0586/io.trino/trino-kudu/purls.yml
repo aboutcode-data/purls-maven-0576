@@ -2,3 +2,6 @@
 - pkg:maven/io.trino/trino-kudu@352?classifier=sources
 - pkg:maven/io.trino/trino-kudu@353?classifier=sources
 - pkg:maven/io.trino/trino-kudu@354?classifier=sources
+- pkg:maven/io.trino/trino-kudu@355?classifier=sources
+- pkg:maven/io.trino/trino-kudu@356?classifier=sources
+- pkg:maven/io.trino/trino-kudu@357?classifier=sources

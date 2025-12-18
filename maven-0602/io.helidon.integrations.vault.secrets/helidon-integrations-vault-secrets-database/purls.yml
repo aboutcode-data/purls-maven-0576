@@ -1,0 +1,2 @@
+- pkg:maven/io.helidon.integrations.vault.secrets/helidon-integrations-vault-secrets-database@2.3.0
+- pkg:maven/io.helidon.integrations.vault.secrets/helidon-integrations-vault-secrets-database@2.3.0?classifier=sources

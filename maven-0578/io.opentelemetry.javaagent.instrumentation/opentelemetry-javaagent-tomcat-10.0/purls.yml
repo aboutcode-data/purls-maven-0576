@@ -1,0 +1,2 @@
+- pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-tomcat-10.0@1.1.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.javaagent.instrumentation/opentelemetry-javaagent-tomcat-10.0@1.2.0-alpha?classifier=sources

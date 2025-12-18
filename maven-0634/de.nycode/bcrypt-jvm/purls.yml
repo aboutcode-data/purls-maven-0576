@@ -1,0 +1,2 @@
+- pkg:maven/de.nycode/bcrypt-jvm@1.0.0?classifier=sources
+- pkg:maven/de.nycode/bcrypt-jvm@2.0.0?classifier=sources

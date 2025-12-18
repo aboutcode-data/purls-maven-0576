@@ -32,3 +32,5 @@
 - pkg:maven/org.testingisdocumenting.webtau/webtau-db@1.39?classifier=sources
 - pkg:maven/org.testingisdocumenting.webtau/webtau-db@1.40
 - pkg:maven/org.testingisdocumenting.webtau/webtau-db@1.40?classifier=sources
+- pkg:maven/org.testingisdocumenting.webtau/webtau-db@1.41
+- pkg:maven/org.testingisdocumenting.webtau/webtau-db@1.41?classifier=sources

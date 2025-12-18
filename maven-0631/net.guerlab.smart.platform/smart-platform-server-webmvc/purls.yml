@@ -1,0 +1,4 @@
+- pkg:maven/net.guerlab.smart.platform/smart-platform-server-webmvc@21.0.0
+- pkg:maven/net.guerlab.smart.platform/smart-platform-server-webmvc@21.0.0?classifier=sources
+- pkg:maven/net.guerlab.smart.platform/smart-platform-server-webmvc@21.1.0
+- pkg:maven/net.guerlab.smart.platform/smart-platform-server-webmvc@21.1.0?classifier=sources

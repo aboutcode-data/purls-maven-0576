@@ -1,0 +1,2 @@
+- pkg:maven/org.jitsi/go-offline-maven-plugin@1.2.8-jitsi.1
+- pkg:maven/org.jitsi/go-offline-maven-plugin@1.2.8-jitsi.1?classifier=sources

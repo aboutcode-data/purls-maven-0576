@@ -1,0 +1,4 @@
+- pkg:maven/cn.xanderye/xander-tool@1.1
+- pkg:maven/cn.xanderye/xander-tool@1.1?classifier=sources
+- pkg:maven/cn.xanderye/xander-tool@1.2
+- pkg:maven/cn.xanderye/xander-tool@1.2?classifier=sources

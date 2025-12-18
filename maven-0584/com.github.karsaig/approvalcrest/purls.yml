@@ -30,3 +30,9 @@
 - pkg:maven/com.github.karsaig/approvalcrest@0.56.3
 - pkg:maven/com.github.karsaig/approvalcrest@0.56.3?classifier=sources
 - pkg:maven/com.github.karsaig/approvalcrest@0.56?classifier=sources
+- pkg:maven/com.github.karsaig/approvalcrest@0.60.0
+- pkg:maven/com.github.karsaig/approvalcrest@0.60.0?classifier=sources
+- pkg:maven/com.github.karsaig/approvalcrest@0.60.2
+- pkg:maven/com.github.karsaig/approvalcrest@0.60.2?classifier=sources
+- pkg:maven/com.github.karsaig/approvalcrest@0.60.3
+- pkg:maven/com.github.karsaig/approvalcrest@0.60.3?classifier=sources

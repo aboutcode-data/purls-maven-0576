@@ -1,0 +1,2 @@
+- pkg:maven/org.jlab/jaws-libj@1.0.0?classifier=sources
+- pkg:maven/org.jlab/jaws-libj@1.1.0?classifier=sources

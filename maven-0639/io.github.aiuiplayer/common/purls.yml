@@ -1,0 +1,6 @@
+- pkg:maven/io.github.aiuiplayer/common@1000?classifier=sources
+- pkg:maven/io.github.aiuiplayer/common@1002?classifier=sources
+- pkg:maven/io.github.aiuiplayer/common@1003?classifier=sources
+- pkg:maven/io.github.aiuiplayer/common@1004?classifier=sources
+- pkg:maven/io.github.aiuiplayer/common@1025?classifier=sources
+- pkg:maven/io.github.aiuiplayer/common@1026?classifier=sources

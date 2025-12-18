@@ -1,3 +1,4 @@
 - pkg:maven/com.imgix/imgix-java@2.3.0
 - pkg:maven/com.imgix/imgix-java@2.3.0-RELEASE?classifier=sources
 - pkg:maven/com.imgix/imgix-java@2.3.1?classifier=sources
+- pkg:maven/com.imgix/imgix-java@2.3.2?classifier=sources

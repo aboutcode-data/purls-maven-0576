@@ -1,0 +1,2 @@
+- pkg:maven/me.hekr.iotos.softgateway/framework-network-http@3.2.4
+- pkg:maven/me.hekr.iotos.softgateway/framework-network-http@3.2.4?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/io.r2dbc/r2dbc-postgresql@0.8.6.RELEASE?classifier=sources
 - pkg:maven/io.r2dbc/r2dbc-postgresql@0.8.7.RELEASE
 - pkg:maven/io.r2dbc/r2dbc-postgresql@0.8.7.RELEASE?classifier=sources
+- pkg:maven/io.r2dbc/r2dbc-postgresql@0.8.8.RELEASE
+- pkg:maven/io.r2dbc/r2dbc-postgresql@0.8.8.RELEASE?classifier=sources

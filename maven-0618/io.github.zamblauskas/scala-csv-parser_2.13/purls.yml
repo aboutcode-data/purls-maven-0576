@@ -1,0 +1,2 @@
+- pkg:maven/io.github.zamblauskas/scala-csv-parser_2.13@0.13.1
+- pkg:maven/io.github.zamblauskas/scala-csv-parser_2.13@0.13.1?classifier=sources

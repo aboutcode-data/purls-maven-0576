@@ -1,0 +1,2 @@
+- pkg:maven/org.minijax/minijax-example-fileupload@0.5.10
+- pkg:maven/org.minijax/minijax-example-fileupload@0.5.10?classifier=sources

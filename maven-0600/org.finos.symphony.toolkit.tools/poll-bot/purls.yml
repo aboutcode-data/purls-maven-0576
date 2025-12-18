@@ -1,0 +1,2 @@
+- pkg:maven/org.finos.symphony.toolkit.tools/poll-bot@7.20.0
+- pkg:maven/org.finos.symphony.toolkit.tools/poll-bot@7.20.0?classifier=sources

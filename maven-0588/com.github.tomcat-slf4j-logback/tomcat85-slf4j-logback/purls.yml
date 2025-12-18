@@ -82,5 +82,11 @@
 - pkg:maven/com.github.tomcat-slf4j-logback/tomcat85-slf4j-logback@8.5.60?classifier=sources
 - pkg:maven/com.github.tomcat-slf4j-logback/tomcat85-slf4j-logback@8.5.61
 - pkg:maven/com.github.tomcat-slf4j-logback/tomcat85-slf4j-logback@8.5.61?classifier=sources
+- pkg:maven/com.github.tomcat-slf4j-logback/tomcat85-slf4j-logback@8.5.63
+- pkg:maven/com.github.tomcat-slf4j-logback/tomcat85-slf4j-logback@8.5.63?classifier=sources
+- pkg:maven/com.github.tomcat-slf4j-logback/tomcat85-slf4j-logback@8.5.64
+- pkg:maven/com.github.tomcat-slf4j-logback/tomcat85-slf4j-logback@8.5.64?classifier=sources
+- pkg:maven/com.github.tomcat-slf4j-logback/tomcat85-slf4j-logback@8.5.65
+- pkg:maven/com.github.tomcat-slf4j-logback/tomcat85-slf4j-logback@8.5.65?classifier=sources
 - pkg:maven/com.github.tomcat-slf4j-logback/tomcat85-slf4j-logback@8.5.9
 - pkg:maven/com.github.tomcat-slf4j-logback/tomcat85-slf4j-logback@8.5.9?classifier=sources

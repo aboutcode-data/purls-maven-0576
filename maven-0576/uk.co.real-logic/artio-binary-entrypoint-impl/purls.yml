@@ -1,1 +1,5 @@
 - pkg:maven/uk.co.real-logic/artio-binary-entrypoint-impl@0.90?classifier=sources
+- pkg:maven/uk.co.real-logic/artio-binary-entrypoint-impl@0.91?classifier=sources
+- pkg:maven/uk.co.real-logic/artio-binary-entrypoint-impl@0.92?classifier=sources
+- pkg:maven/uk.co.real-logic/artio-binary-entrypoint-impl@0.93?classifier=sources
+- pkg:maven/uk.co.real-logic/artio-binary-entrypoint-impl@0.94?classifier=sources

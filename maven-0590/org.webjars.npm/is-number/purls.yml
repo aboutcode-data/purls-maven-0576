@@ -10,5 +10,7 @@
 - pkg:maven/org.webjars.npm/is-number@4.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/is-number@5.0.0
 - pkg:maven/org.webjars.npm/is-number@5.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/is-number@6.0.0
+- pkg:maven/org.webjars.npm/is-number@6.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/is-number@7.0.0
 - pkg:maven/org.webjars.npm/is-number@7.0.0?classifier=sources

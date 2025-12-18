@@ -5,3 +5,8 @@
 - pkg:maven/com.teamscale/teamscale-jacoco-agent@20.0.0?classifier=sources
 - pkg:maven/com.teamscale/teamscale-jacoco-agent@21.0.0?classifier=sources
 - pkg:maven/com.teamscale/teamscale-jacoco-agent@21.1.0?classifier=sources
+- pkg:maven/com.teamscale/teamscale-jacoco-agent@21.2.0?classifier=sources
+- pkg:maven/com.teamscale/teamscale-jacoco-agent@21.2.1?classifier=sources
+- pkg:maven/com.teamscale/teamscale-jacoco-agent@21.3.0?classifier=sources
+- pkg:maven/com.teamscale/teamscale-jacoco-agent@21.4.0?classifier=sources
+- pkg:maven/com.teamscale/teamscale-jacoco-agent@21.5.0?classifier=sources

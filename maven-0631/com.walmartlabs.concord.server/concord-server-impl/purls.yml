@@ -95,3 +95,5 @@
 - pkg:maven/com.walmartlabs.concord.server/concord-server-impl@1.82.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.server/concord-server-impl@1.82.1?classifier=sources
 - pkg:maven/com.walmartlabs.concord.server/concord-server-impl@1.83.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.server/concord-server-impl@1.84.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.server/concord-server-impl@1.85.0?classifier=sources

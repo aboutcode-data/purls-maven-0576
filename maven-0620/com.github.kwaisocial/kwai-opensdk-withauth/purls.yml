@@ -9,3 +9,4 @@
 - pkg:maven/com.github.kwaisocial/kwai-opensdk-withauth@3.0.0?type=aar
 - pkg:maven/com.github.kwaisocial/kwai-opensdk-withauth@3.0.1?type=aar
 - pkg:maven/com.github.kwaisocial/kwai-opensdk-withauth@3.0.2?type=aar
+- pkg:maven/com.github.kwaisocial/kwai-opensdk-withauth@3.0.3?type=aar

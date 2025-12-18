@@ -1,0 +1,2 @@
+- pkg:maven/dev.zio/zio-test-intellij_3@1.0.8
+- pkg:maven/dev.zio/zio-test-intellij_3@1.0.8?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/org.archive.heritrix/heritrix-commons@3.4.0-20200304?classifier=sources
 - pkg:maven/org.archive.heritrix/heritrix-commons@3.4.0-20200518
 - pkg:maven/org.archive.heritrix/heritrix-commons@3.4.0-20200518?classifier=sources
+- pkg:maven/org.archive.heritrix/heritrix-commons@3.4.0-20210527
+- pkg:maven/org.archive.heritrix/heritrix-commons@3.4.0-20210527?classifier=sources

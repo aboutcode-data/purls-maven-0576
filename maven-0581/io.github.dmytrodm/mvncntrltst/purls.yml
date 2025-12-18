@@ -11,4 +11,6 @@
 - pkg:maven/io.github.dmytrodm/mvncntrltst@2.1?classifier=sources
 - pkg:maven/io.github.dmytrodm/mvncntrltst@2.2?classifier=sources
 - pkg:maven/io.github.dmytrodm/mvncntrltst@2.3?classifier=sources
+- pkg:maven/io.github.dmytrodm/mvncntrltst@3.0?classifier=sources
+- pkg:maven/io.github.dmytrodm/mvncntrltst@3.1?classifier=sources
 - pkg:maven/io.github.dmytrodm/mvncntrltst@unspecified?classifier=sources

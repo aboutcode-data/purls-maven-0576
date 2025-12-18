@@ -1,2 +1,8 @@
 - pkg:maven/com.kaltura.playkit/imaplugin@4.13.1?classifier=sources
 - pkg:maven/com.kaltura.playkit/imaplugin@4.13.1?type=aar
+- pkg:maven/com.kaltura.playkit/imaplugin@4.13.2?classifier=sources
+- pkg:maven/com.kaltura.playkit/imaplugin@4.13.2?type=aar
+- pkg:maven/com.kaltura.playkit/imaplugin@4.13.3?classifier=sources
+- pkg:maven/com.kaltura.playkit/imaplugin@4.13.3?type=aar
+- pkg:maven/com.kaltura.playkit/imaplugin@4.14.0?classifier=sources
+- pkg:maven/com.kaltura.playkit/imaplugin@4.14.0?type=aar

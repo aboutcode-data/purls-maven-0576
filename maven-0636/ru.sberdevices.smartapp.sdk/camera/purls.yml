@@ -1,0 +1,2 @@
+- pkg:maven/ru.sberdevices.smartapp.sdk/camera@1.0-rc2?classifier=sources
+- pkg:maven/ru.sberdevices.smartapp.sdk/camera@1.0-rc3?classifier=sources

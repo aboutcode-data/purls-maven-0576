@@ -1,0 +1,2 @@
+- pkg:maven/com.umeng.umsdk/alicloud_beacon@1.0.1?classifier=sources
+- pkg:maven/com.umeng.umsdk/alicloud_beacon@1.0.5?classifier=sources

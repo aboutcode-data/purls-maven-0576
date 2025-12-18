@@ -1,0 +1,2 @@
+- pkg:maven/org.getshaka/shaka-router_sjs1_3.0.0-RC3@0.1.2
+- pkg:maven/org.getshaka/shaka-router_sjs1_3.0.0-RC3@0.1.2?classifier=sources

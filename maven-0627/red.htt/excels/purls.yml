@@ -1,0 +1,2 @@
+- pkg:maven/red.htt/excels@0.1
+- pkg:maven/red.htt/excels@0.1?classifier=sources

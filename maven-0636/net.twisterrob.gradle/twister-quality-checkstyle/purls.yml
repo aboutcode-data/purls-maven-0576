@@ -1,0 +1,4 @@
+- pkg:maven/net.twisterrob.gradle/twister-quality-checkstyle@0.10
+- pkg:maven/net.twisterrob.gradle/twister-quality-checkstyle@0.10?classifier=sources
+- pkg:maven/net.twisterrob.gradle/twister-quality-checkstyle@0.9
+- pkg:maven/net.twisterrob.gradle/twister-quality-checkstyle@0.9?classifier=sources
