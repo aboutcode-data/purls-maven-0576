@@ -2,3 +2,5 @@
 - pkg:maven/net.ssanj/delight_2.13@0.0.4?classifier=sources
 - pkg:maven/net.ssanj/delight_2.13@0.0.5
 - pkg:maven/net.ssanj/delight_2.13@0.0.5?classifier=sources
+- pkg:maven/net.ssanj/delight_2.13@0.1.0
+- pkg:maven/net.ssanj/delight_2.13@0.1.0?classifier=sources

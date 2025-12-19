@@ -8,6 +8,7 @@
 - pkg:maven/org.apache.xmlgraphics/batik-svgrasterizer@1.13?classifier=sources
 - pkg:maven/org.apache.xmlgraphics/batik-svgrasterizer@1.14?classifier=sources
 - pkg:maven/org.apache.xmlgraphics/batik-svgrasterizer@1.15?classifier=sources
+- pkg:maven/org.apache.xmlgraphics/batik-svgrasterizer@1.16?classifier=sources
 - pkg:maven/org.apache.xmlgraphics/batik-svgrasterizer@1.9
 - pkg:maven/org.apache.xmlgraphics/batik-svgrasterizer@1.9.1
 - pkg:maven/org.apache.xmlgraphics/batik-svgrasterizer@1.9.1?classifier=sources

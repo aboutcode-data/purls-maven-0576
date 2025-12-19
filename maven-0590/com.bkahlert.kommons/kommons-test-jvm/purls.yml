@@ -15,3 +15,5 @@
 - pkg:maven/com.bkahlert.kommons/kommons-test-jvm@2.0.0?classifier=sources
 - pkg:maven/com.bkahlert.kommons/kommons-test-jvm@2.1.0?classifier=sources
 - pkg:maven/com.bkahlert.kommons/kommons-test-jvm@2.2.0?classifier=sources
+- pkg:maven/com.bkahlert.kommons/kommons-test-jvm@2.3.0?classifier=sources
+- pkg:maven/com.bkahlert.kommons/kommons-test-jvm@2.3.1?classifier=sources

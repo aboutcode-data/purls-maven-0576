@@ -1,2 +1,4 @@
 - pkg:maven/bi.deep/flink-connector-jdbc-source-1.15@0.1
+- pkg:maven/bi.deep/flink-connector-jdbc-source-1.15@0.1.1
+- pkg:maven/bi.deep/flink-connector-jdbc-source-1.15@0.1.1?classifier=sources
 - pkg:maven/bi.deep/flink-connector-jdbc-source-1.15@0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/kz.greetgo.mybpm/mybpm_api_client@4.5.813
+- pkg:maven/kz.greetgo.mybpm/mybpm_api_client@4.5.813?classifier=sources

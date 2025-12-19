@@ -1,0 +1,2 @@
+- pkg:maven/org.ufoss.kotysa/kotysa-r2dbc-coroutines@2.3.0?classifier=sources
+- pkg:maven/org.ufoss.kotysa/kotysa-r2dbc-coroutines@2.3.1?classifier=sources

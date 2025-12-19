@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/chartjs-plugin-autocolors@0.0.3
 - pkg:maven/org.webjars.npm/chartjs-plugin-autocolors@0.0.3?classifier=sources
+- pkg:maven/org.webjars.npm/chartjs-plugin-autocolors@0.0.7
+- pkg:maven/org.webjars.npm/chartjs-plugin-autocolors@0.0.7?classifier=sources

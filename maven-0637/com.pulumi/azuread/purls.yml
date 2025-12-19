@@ -11,6 +11,12 @@
 - pkg:maven/com.pulumi/azuread@5.29.0-alpha.1663280936%2B04955125?classifier=sources
 - pkg:maven/com.pulumi/azuread@5.29.0-alpha.1663341186%2Bfc9a5150?classifier=sources
 - pkg:maven/com.pulumi/azuread@5.29.1?classifier=sources
+- pkg:maven/com.pulumi/azuread@5.30.0-alpha.1666644505%2B1657e081?classifier=sources
+- pkg:maven/com.pulumi/azuread@5.30.0-alpha.1666644964%2Bcfb1d117?classifier=sources
+- pkg:maven/com.pulumi/azuread@5.30.0?classifier=sources
+- pkg:maven/com.pulumi/azuread@5.31.0-alpha.1668029558%2B71f27706?classifier=sources
+- pkg:maven/com.pulumi/azuread@5.31.0?classifier=sources
+- pkg:maven/com.pulumi/azuread@5.32.0-alpha.1669143404%2B14b7738a?classifier=sources
 - pkg:maven/com.pulumi/azuread@v5.26.0-alpha.1656622750%2Be856b013?classifier=sources
 - pkg:maven/com.pulumi/azuread@v5.26.0-alpha.1657296163%2B16c1f4cf?classifier=sources
 - pkg:maven/com.pulumi/azuread@v5.27.0-alpha.1657544736%2B3d1c0c08?classifier=sources

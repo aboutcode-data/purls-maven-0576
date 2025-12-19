@@ -90,3 +90,5 @@
 - pkg:maven/icu.easyj.maven.plugins/easyj-maven-plugin@1.0.8?classifier=sources
 - pkg:maven/icu.easyj.maven.plugins/easyj-maven-plugin@1.0.9
 - pkg:maven/icu.easyj.maven.plugins/easyj-maven-plugin@1.0.9?classifier=sources
+- pkg:maven/icu.easyj.maven.plugins/easyj-maven-plugin@1.1.0
+- pkg:maven/icu.easyj.maven.plugins/easyj-maven-plugin@1.1.0?classifier=sources

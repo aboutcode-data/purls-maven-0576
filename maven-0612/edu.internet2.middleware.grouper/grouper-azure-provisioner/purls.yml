@@ -96,6 +96,10 @@
 - pkg:maven/edu.internet2.middleware.grouper/grouper-azure-provisioner@2.5.64?classifier=sources
 - pkg:maven/edu.internet2.middleware.grouper/grouper-azure-provisioner@2.5.65
 - pkg:maven/edu.internet2.middleware.grouper/grouper-azure-provisioner@2.5.65?classifier=sources
+- pkg:maven/edu.internet2.middleware.grouper/grouper-azure-provisioner@2.5.66
+- pkg:maven/edu.internet2.middleware.grouper/grouper-azure-provisioner@2.5.66?classifier=sources
+- pkg:maven/edu.internet2.middleware.grouper/grouper-azure-provisioner@2.5.67
+- pkg:maven/edu.internet2.middleware.grouper/grouper-azure-provisioner@2.5.67?classifier=sources
 - pkg:maven/edu.internet2.middleware.grouper/grouper-azure-provisioner@2.6.0
 - pkg:maven/edu.internet2.middleware.grouper/grouper-azure-provisioner@2.6.0?classifier=sources
 - pkg:maven/edu.internet2.middleware.grouper/grouper-azure-provisioner@2.6.1
@@ -113,6 +117,10 @@
 - pkg:maven/edu.internet2.middleware.grouper/grouper-azure-provisioner@2.6.15?classifier=sources
 - pkg:maven/edu.internet2.middleware.grouper/grouper-azure-provisioner@2.6.16
 - pkg:maven/edu.internet2.middleware.grouper/grouper-azure-provisioner@2.6.16?classifier=sources
+- pkg:maven/edu.internet2.middleware.grouper/grouper-azure-provisioner@2.6.17
+- pkg:maven/edu.internet2.middleware.grouper/grouper-azure-provisioner@2.6.17?classifier=sources
+- pkg:maven/edu.internet2.middleware.grouper/grouper-azure-provisioner@2.6.18
+- pkg:maven/edu.internet2.middleware.grouper/grouper-azure-provisioner@2.6.18?classifier=sources
 - pkg:maven/edu.internet2.middleware.grouper/grouper-azure-provisioner@2.6.1?classifier=sources
 - pkg:maven/edu.internet2.middleware.grouper/grouper-azure-provisioner@2.6.2
 - pkg:maven/edu.internet2.middleware.grouper/grouper-azure-provisioner@2.6.2?classifier=sources

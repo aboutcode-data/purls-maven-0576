@@ -1,0 +1,2 @@
+- pkg:maven/ru.tinkoff/oolong-mongo_3@0.1
+- pkg:maven/ru.tinkoff/oolong-mongo_3@0.1?classifier=sources

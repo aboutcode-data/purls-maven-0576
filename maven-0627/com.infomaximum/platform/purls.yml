@@ -79,3 +79,15 @@
 - pkg:maven/com.infomaximum/platform@0.1.4f1?classifier=sources
 - pkg:maven/com.infomaximum/platform@0.1.4f2?classifier=sources
 - pkg:maven/com.infomaximum/platform@0.1.4p3?classifier=sources
+- pkg:maven/com.infomaximum/platform@0.1.4p4?classifier=sources
+- pkg:maven/com.infomaximum/platform@0.1.4p5?classifier=sources
+- pkg:maven/com.infomaximum/platform@0.1.4p6?classifier=sources
+- pkg:maven/com.infomaximum/platform@0.1.4p7?classifier=sources
+- pkg:maven/com.infomaximum/platform@0.1.4p8?classifier=sources
+- pkg:maven/com.infomaximum/platform@0.1.4p9.1?classifier=sources
+- pkg:maven/com.infomaximum/platform@0.1.4p9.2?classifier=sources
+- pkg:maven/com.infomaximum/platform@0.1.4p9?classifier=sources
+- pkg:maven/com.infomaximum/platform@0.1.5?classifier=sources
+- pkg:maven/com.infomaximum/platform@0.1.5p1?classifier=sources
+- pkg:maven/com.infomaximum/platform@0.1.5p2?classifier=sources
+- pkg:maven/com.infomaximum/platform@0.1.5p3?classifier=sources

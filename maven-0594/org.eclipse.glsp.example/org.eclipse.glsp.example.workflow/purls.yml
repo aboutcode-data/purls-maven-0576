@@ -5,3 +5,4 @@
 - pkg:maven/org.eclipse.glsp.example/org.eclipse.glsp.example.workflow@0.9.0?classifier=sources
 - pkg:maven/org.eclipse.glsp.example/org.eclipse.glsp.example.workflow@1.0.0?classifier=sources
 - pkg:maven/org.eclipse.glsp.example/org.eclipse.glsp.example.workflow@1.1.0.RC01?classifier=sources
+- pkg:maven/org.eclipse.glsp.example/org.eclipse.glsp.example.workflow@1.1.0.RC02?classifier=sources

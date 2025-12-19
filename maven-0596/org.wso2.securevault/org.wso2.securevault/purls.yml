@@ -13,3 +13,6 @@
 - pkg:maven/org.wso2.securevault/org.wso2.securevault@1.1.7
 - pkg:maven/org.wso2.securevault/org.wso2.securevault@1.1.7?classifier=source-release&type=zip
 - pkg:maven/org.wso2.securevault/org.wso2.securevault@1.1.7?classifier=sources
+- pkg:maven/org.wso2.securevault/org.wso2.securevault@1.1.8
+- pkg:maven/org.wso2.securevault/org.wso2.securevault@1.1.8?classifier=source-release&type=zip
+- pkg:maven/org.wso2.securevault/org.wso2.securevault@1.1.8?classifier=sources

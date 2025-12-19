@@ -1,4 +1,8 @@
 - pkg:maven/com.ocadotechnology/SuiteTestEngine@13.0.0
 - pkg:maven/com.ocadotechnology/SuiteTestEngine@13.0.0?classifier=sources
+- pkg:maven/com.ocadotechnology/SuiteTestEngine@13.0.114
+- pkg:maven/com.ocadotechnology/SuiteTestEngine@13.0.114?classifier=sources
 - pkg:maven/com.ocadotechnology/SuiteTestEngine@13.0.17
 - pkg:maven/com.ocadotechnology/SuiteTestEngine@13.0.17?classifier=sources
+- pkg:maven/com.ocadotechnology/SuiteTestEngine@13.0.66
+- pkg:maven/com.ocadotechnology/SuiteTestEngine@13.0.66?classifier=sources

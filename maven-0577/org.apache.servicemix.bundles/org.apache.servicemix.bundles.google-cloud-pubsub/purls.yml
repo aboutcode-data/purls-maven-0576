@@ -6,3 +6,7 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.google-cloud-pubsub@1.120.18_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.google-cloud-pubsub@1.120.18_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.google-cloud-pubsub@1.120.18_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.google-cloud-pubsub@1.120.24_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.google-cloud-pubsub@1.120.24_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.google-cloud-pubsub@1.120.24_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.google-cloud-pubsub@1.120.24_1?classifier=src&type=zip

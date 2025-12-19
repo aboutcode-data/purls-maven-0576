@@ -13,6 +13,15 @@
 - pkg:maven/com.liferay/com.liferay.dispatch.api@11.0.0
 - pkg:maven/com.liferay/com.liferay.dispatch.api@11.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dispatch.api@11.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.dispatch.api@14.1.0
+- pkg:maven/com.liferay/com.liferay.dispatch.api@14.1.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dispatch.api@14.1.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.dispatch.api@14.2.0
+- pkg:maven/com.liferay/com.liferay.dispatch.api@14.2.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dispatch.api@14.2.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.dispatch.api@15.0.0
+- pkg:maven/com.liferay/com.liferay.dispatch.api@15.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dispatch.api@15.0.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.dispatch.api@2.0.0
 - pkg:maven/com.liferay/com.liferay.dispatch.api@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dispatch.api@2.0.0?classifier=sources-commercial

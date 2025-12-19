@@ -46,3 +46,4 @@
 - pkg:maven/com.linecorp.decaton/decaton-common@4.0.0?classifier=sources
 - pkg:maven/com.linecorp.decaton/decaton-common@5.0.0?classifier=sources
 - pkg:maven/com.linecorp.decaton/decaton-common@5.0.1?classifier=sources
+- pkg:maven/com.linecorp.decaton/decaton-common@6.0.0?classifier=sources

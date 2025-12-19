@@ -5,3 +5,4 @@
 - pkg:maven/com.tencent.bk.devops.ci.buildless/api-buildless@1.8.1-RELEASE?classifier=sources
 - pkg:maven/com.tencent.bk.devops.ci.buildless/api-buildless@1.9.1-RELEASE?classifier=sources
 - pkg:maven/com.tencent.bk.devops.ci.buildless/api-buildless@1.9.2-RELEASE?classifier=sources
+- pkg:maven/com.tencent.bk.devops.ci.buildless/api-buildless@1.9.7-RC.1-RELEASE?classifier=sources

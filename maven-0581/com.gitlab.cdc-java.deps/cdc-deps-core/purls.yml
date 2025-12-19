@@ -52,6 +52,8 @@
 - pkg:maven/com.gitlab.cdc-java.deps/cdc-deps-core@0.21.2?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.deps/cdc-deps-core@0.21.3
 - pkg:maven/com.gitlab.cdc-java.deps/cdc-deps-core@0.21.3?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.deps/cdc-deps-core@0.21.4
+- pkg:maven/com.gitlab.cdc-java.deps/cdc-deps-core@0.21.4?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.deps/cdc-deps-core@0.3.0
 - pkg:maven/com.gitlab.cdc-java.deps/cdc-deps-core@0.3.0?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.deps/cdc-deps-core@0.4.0

@@ -134,6 +134,7 @@
 - pkg:maven/com.tradplusad/tradplus-adx@40.8.1.11.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-adx@40.8.1.11?type=aar
 - pkg:maven/com.tradplusad/tradplus-adx@40.8.1.12.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-adx@40.8.1.13?type=aar
 - pkg:maven/com.tradplusad/tradplus-adx@40.8.2.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-adx@40.8.2.0?type=aar
 - pkg:maven/com.tradplusad/tradplus-adx@40.8.3.0.1?type=aar
@@ -148,6 +149,12 @@
 - pkg:maven/com.tradplusad/tradplus-adx@40.8.5.0?type=aar
 - pkg:maven/com.tradplusad/tradplus-adx@40.8.6.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-adx@40.8.6.0?type=aar
+- pkg:maven/com.tradplusad/tradplus-adx@40.8.6.10.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-adx@40.8.7.0.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-adx@40.8.7.0?type=aar
+- pkg:maven/com.tradplusad/tradplus-adx@40.8.7.10.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-adx@40.8.8.0.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-adx@40.8.8.0?type=aar
 - pkg:maven/com.tradplusad/tradplus-adx@7.8.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-adx@7.8.0?type=aar
 - pkg:maven/com.tradplusad/tradplus-adx@7.8.10.1?type=aar

@@ -6,6 +6,8 @@
 - pkg:maven/org.codehaus.cargo/cargo-core-container-wildfly-swarm@1.10.2?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-core-container-wildfly-swarm@1.10.3
 - pkg:maven/org.codehaus.cargo/cargo-core-container-wildfly-swarm@1.10.3?classifier=sources
+- pkg:maven/org.codehaus.cargo/cargo-core-container-wildfly-swarm@1.10.4
+- pkg:maven/org.codehaus.cargo/cargo-core-container-wildfly-swarm@1.10.4?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-core-container-wildfly-swarm@1.6.10
 - pkg:maven/org.codehaus.cargo/cargo-core-container-wildfly-swarm@1.6.10?classifier=sources
 - pkg:maven/org.codehaus.cargo/cargo-core-container-wildfly-swarm@1.6.11

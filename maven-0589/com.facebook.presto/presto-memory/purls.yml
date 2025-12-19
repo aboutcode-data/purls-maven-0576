@@ -150,3 +150,4 @@
 - pkg:maven/com.facebook.presto/presto-memory@0.276.2?classifier=sources
 - pkg:maven/com.facebook.presto/presto-memory@0.276?classifier=sources
 - pkg:maven/com.facebook.presto/presto-memory@0.277?classifier=sources
+- pkg:maven/com.facebook.presto/presto-memory@0.278?classifier=sources

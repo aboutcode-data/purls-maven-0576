@@ -38,3 +38,4 @@
 - pkg:maven/com.pongsky.kit/captcha-input-math-utils@4.1.0-2.4.13?classifier=sources
 - pkg:maven/com.pongsky.kit/captcha-input-math-utils@4.1.1-2.4.13?classifier=sources
 - pkg:maven/com.pongsky.kit/captcha-input-math-utils@4.1.2-2.4.13?classifier=sources
+- pkg:maven/com.pongsky.kit/captcha-input-math-utils@4.1.3-2.4.13?classifier=sources

@@ -19,3 +19,4 @@
 - pkg:maven/io.github.resilience4j/resilience4j-spring-cloud2@1.7.0
 - pkg:maven/io.github.resilience4j/resilience4j-spring-cloud2@1.7.0?classifier=sources
 - pkg:maven/io.github.resilience4j/resilience4j-spring-cloud2@1.7.1?classifier=sources
+- pkg:maven/io.github.resilience4j/resilience4j-spring-cloud2@2.0.0?classifier=sources

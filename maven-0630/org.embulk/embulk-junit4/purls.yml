@@ -14,3 +14,4 @@
 - pkg:maven/org.embulk/embulk-junit4@0.10.34?classifier=sources
 - pkg:maven/org.embulk/embulk-junit4@0.10.35?classifier=sources
 - pkg:maven/org.embulk/embulk-junit4@0.10.36?classifier=sources
+- pkg:maven/org.embulk/embulk-junit4@0.10.37?classifier=sources

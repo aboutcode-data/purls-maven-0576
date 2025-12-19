@@ -138,3 +138,5 @@
 - pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-tests@8.27.0.Beta
 - pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-tests@8.28.0.Beta
 - pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-tests@8.29.0.Final
+- pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-tests@8.30.0.Final
+- pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-tests@8.31.0.Final

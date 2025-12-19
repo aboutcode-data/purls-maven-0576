@@ -1,0 +1,3 @@
+- pkg:maven/io.starburst/really-executable-jar-maven-plugin@1.5.3
+- pkg:maven/io.starburst/really-executable-jar-maven-plugin@1.5.3?classifier=source-release&type=zip
+- pkg:maven/io.starburst/really-executable-jar-maven-plugin@1.5.3?classifier=sources

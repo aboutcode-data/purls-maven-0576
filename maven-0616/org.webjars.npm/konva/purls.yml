@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/konva@4.0.16?classifier=sources
 - pkg:maven/org.webjars.npm/konva@7.1.4
 - pkg:maven/org.webjars.npm/konva@7.1.4?classifier=sources
+- pkg:maven/org.webjars.npm/konva@8.3.14
+- pkg:maven/org.webjars.npm/konva@8.3.14?classifier=sources

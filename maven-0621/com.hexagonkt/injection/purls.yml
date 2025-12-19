@@ -7,3 +7,5 @@
 - pkg:maven/com.hexagonkt/injection@2.0.23?classifier=sources
 - pkg:maven/com.hexagonkt/injection@2.0.24?classifier=sources
 - pkg:maven/com.hexagonkt/injection@2.0.25?classifier=sources
+- pkg:maven/com.hexagonkt/injection@2.0.26?classifier=sources
+- pkg:maven/com.hexagonkt/injection@2.1.2?classifier=sources

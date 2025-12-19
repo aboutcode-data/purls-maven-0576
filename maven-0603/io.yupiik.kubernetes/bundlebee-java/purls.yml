@@ -1,0 +1,2 @@
+- pkg:maven/io.yupiik.kubernetes/bundlebee-java@1.0.0
+- pkg:maven/io.yupiik.kubernetes/bundlebee-java@1.0.0?classifier=sources

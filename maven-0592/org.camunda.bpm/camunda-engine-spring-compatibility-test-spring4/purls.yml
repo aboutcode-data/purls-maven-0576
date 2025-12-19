@@ -45,3 +45,4 @@
 - pkg:maven/org.camunda.bpm/camunda-engine-spring-compatibility-test-spring4@7.18.0-alpha4
 - pkg:maven/org.camunda.bpm/camunda-engine-spring-compatibility-test-spring4@7.18.0-alpha5
 - pkg:maven/org.camunda.bpm/camunda-engine-spring-compatibility-test-spring4@7.18.0-alpha6
+- pkg:maven/org.camunda.bpm/camunda-engine-spring-compatibility-test-spring4@7.19.0-alpha1

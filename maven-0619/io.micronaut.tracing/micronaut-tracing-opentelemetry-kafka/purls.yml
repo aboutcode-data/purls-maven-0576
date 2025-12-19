@@ -1,0 +1,1 @@
+- pkg:maven/io.micronaut.tracing/micronaut-tracing-opentelemetry-kafka@4.5.0?classifier=sources

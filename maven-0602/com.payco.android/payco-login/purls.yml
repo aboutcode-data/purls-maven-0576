@@ -15,3 +15,5 @@
 - pkg:maven/com.payco.android/payco-login@1.5.7?type=aar
 - pkg:maven/com.payco.android/payco-login@1.5.8?classifier=sources
 - pkg:maven/com.payco.android/payco-login@1.5.8?type=aar
+- pkg:maven/com.payco.android/payco-login@1.5.9?classifier=sources
+- pkg:maven/com.payco.android/payco-login@1.5.9?type=aar

@@ -8,3 +8,5 @@
 - pkg:maven/dev.vality/messages-proto@1.19-cfc341d?classifier=sources
 - pkg:maven/dev.vality/messages-proto@1.20-8c5435c
 - pkg:maven/dev.vality/messages-proto@1.20-8c5435c?classifier=sources
+- pkg:maven/dev.vality/messages-proto@1.21-f2ee49b
+- pkg:maven/dev.vality/messages-proto@1.21-f2ee49b?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.rysefoxx.inventory/RyseInventory-Plugin@1.5.3?classifier=sources
+- pkg:maven/io.github.rysefoxx.inventory/RyseInventory-Plugin@1.5.4?classifier=sources

@@ -4,3 +4,13 @@
 - pkg:maven/com.ancientlightstudios/simplegen-dataformat-xml@2.1.1?classifier=sources
 - pkg:maven/com.ancientlightstudios/simplegen-dataformat-xml@3.0.0
 - pkg:maven/com.ancientlightstudios/simplegen-dataformat-xml@3.0.0?classifier=sources
+- pkg:maven/com.ancientlightstudios/simplegen-dataformat-xml@3.1.0
+- pkg:maven/com.ancientlightstudios/simplegen-dataformat-xml@3.1.0?classifier=sources
+- pkg:maven/com.ancientlightstudios/simplegen-dataformat-xml@3.1.1
+- pkg:maven/com.ancientlightstudios/simplegen-dataformat-xml@3.1.1?classifier=sources
+- pkg:maven/com.ancientlightstudios/simplegen-dataformat-xml@4.0.0
+- pkg:maven/com.ancientlightstudios/simplegen-dataformat-xml@4.0.0?classifier=sources
+- pkg:maven/com.ancientlightstudios/simplegen-dataformat-xml@4.0.1
+- pkg:maven/com.ancientlightstudios/simplegen-dataformat-xml@4.0.1?classifier=sources
+- pkg:maven/com.ancientlightstudios/simplegen-dataformat-xml@5.0.0
+- pkg:maven/com.ancientlightstudios/simplegen-dataformat-xml@5.0.0?classifier=sources

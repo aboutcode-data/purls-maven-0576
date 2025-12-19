@@ -38,6 +38,7 @@
 - pkg:maven/org.cip4.lib.jdf/JDFLibJ@2.1.7.23?classifier=sources
 - pkg:maven/org.cip4.lib.jdf/JDFLibJ@2.1.7.24?classifier=sources
 - pkg:maven/org.cip4.lib.jdf/JDFLibJ@2.1.7.25?classifier=sources
+- pkg:maven/org.cip4.lib.jdf/JDFLibJ@2.1.7.26?classifier=sources
 - pkg:maven/org.cip4.lib.jdf/JDFLibJ@2.1.7.2?classifier=sources
 - pkg:maven/org.cip4.lib.jdf/JDFLibJ@2.1.7.3?classifier=sources
 - pkg:maven/org.cip4.lib.jdf/JDFLibJ@2.1.7.4?classifier=sources

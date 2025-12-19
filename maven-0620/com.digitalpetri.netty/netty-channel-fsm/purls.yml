@@ -10,3 +10,4 @@
 - pkg:maven/com.digitalpetri.netty/netty-channel-fsm@0.6?classifier=sources
 - pkg:maven/com.digitalpetri.netty/netty-channel-fsm@0.7?classifier=sources
 - pkg:maven/com.digitalpetri.netty/netty-channel-fsm@0.8?classifier=sources
+- pkg:maven/com.digitalpetri.netty/netty-channel-fsm@0.9?classifier=sources

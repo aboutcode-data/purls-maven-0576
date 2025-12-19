@@ -46,6 +46,7 @@
 - pkg:maven/com.networknt/eventuate-client-test@1.6.40
 - pkg:maven/com.networknt/eventuate-client-test@1.6.41
 - pkg:maven/com.networknt/eventuate-client-test@1.6.42
+- pkg:maven/com.networknt/eventuate-client-test@1.6.43
 - pkg:maven/com.networknt/eventuate-client-test@1.6.5
 - pkg:maven/com.networknt/eventuate-client-test@1.6.6
 - pkg:maven/com.networknt/eventuate-client-test@1.6.7

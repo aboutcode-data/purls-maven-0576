@@ -66,5 +66,9 @@
 - pkg:maven/com.google.dagger/hilt-android@2.43.2?type=aar
 - pkg:maven/com.google.dagger/hilt-android@2.43?classifier=sources
 - pkg:maven/com.google.dagger/hilt-android@2.43?type=aar
+- pkg:maven/com.google.dagger/hilt-android@2.44.1?classifier=sources
+- pkg:maven/com.google.dagger/hilt-android@2.44.1?type=aar
+- pkg:maven/com.google.dagger/hilt-android@2.44.2?classifier=sources
+- pkg:maven/com.google.dagger/hilt-android@2.44.2?type=aar
 - pkg:maven/com.google.dagger/hilt-android@2.44?classifier=sources
 - pkg:maven/com.google.dagger/hilt-android@2.44?type=aar

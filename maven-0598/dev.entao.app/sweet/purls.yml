@@ -1,0 +1,2 @@
+- pkg:maven/dev.entao.app/sweet@0.8.3?classifier=sources
+- pkg:maven/dev.entao.app/sweet@1.0.0?classifier=sources

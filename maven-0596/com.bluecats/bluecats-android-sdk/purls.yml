@@ -1,4 +1,5 @@
 - pkg:maven/com.bluecats/bluecats-android-sdk@2.1.6-r1?type=aar
 - pkg:maven/com.bluecats/bluecats-android-sdk@2.1.7-r3?type=aar
 - pkg:maven/com.bluecats/bluecats-android-sdk@2.1.7?type=aar
+- pkg:maven/com.bluecats/bluecats-android-sdk@2.1.8-r1?type=aar
 - pkg:maven/com.bluecats/bluecats-android-sdk@2.1.8?type=aar

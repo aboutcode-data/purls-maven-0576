@@ -1,0 +1,2 @@
+- pkg:maven/de.julielab/jcore-mmax2-reader@2.6.0
+- pkg:maven/de.julielab/jcore-mmax2-reader@2.6.0?classifier=sources

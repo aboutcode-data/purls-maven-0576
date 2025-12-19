@@ -1,0 +1,2 @@
+- pkg:maven/io.github.zenwave360.zenwave-code-generator.plugins/openapi-rest-assured@0.9.4
+- pkg:maven/io.github.zenwave360.zenwave-code-generator.plugins/openapi-rest-assured@0.9.4?classifier=sources

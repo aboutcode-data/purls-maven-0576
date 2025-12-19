@@ -1,0 +1,2 @@
+- pkg:maven/sh.almond/almond-scalapy-cross-3.1.3_2.13@0.13.2
+- pkg:maven/sh.almond/almond-scalapy-cross-3.1.3_2.13@0.13.2?classifier=sources

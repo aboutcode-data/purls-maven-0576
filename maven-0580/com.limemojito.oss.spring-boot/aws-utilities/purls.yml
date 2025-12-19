@@ -1,0 +1,4 @@
+- pkg:maven/com.limemojito.oss.spring-boot/aws-utilities@10.0.0
+- pkg:maven/com.limemojito.oss.spring-boot/aws-utilities@10.0.0?classifier=sources
+- pkg:maven/com.limemojito.oss.spring-boot/aws-utilities@10.0.1
+- pkg:maven/com.limemojito.oss.spring-boot/aws-utilities@10.0.1?classifier=sources

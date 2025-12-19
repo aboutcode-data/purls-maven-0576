@@ -2,3 +2,7 @@
 - pkg:maven/dev.vality/bender-proto@1.20-be9cdeb?classifier=sources
 - pkg:maven/dev.vality/bender-proto@1.25-71c5687
 - pkg:maven/dev.vality/bender-proto@1.25-71c5687?classifier=sources
+- pkg:maven/dev.vality/bender-proto@1.26-a15d034
+- pkg:maven/dev.vality/bender-proto@1.26-a15d034?classifier=sources
+- pkg:maven/dev.vality/bender-proto@1.27-753b935
+- pkg:maven/dev.vality/bender-proto@1.27-753b935?classifier=sources

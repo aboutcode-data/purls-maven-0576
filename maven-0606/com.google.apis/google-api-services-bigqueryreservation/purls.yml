@@ -100,6 +100,10 @@
 - pkg:maven/com.google.apis/google-api-services-bigqueryreservation@v1-rev20220511-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-bigqueryreservation@v1-rev20220819-2.0.0
 - pkg:maven/com.google.apis/google-api-services-bigqueryreservation@v1-rev20220819-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-bigqueryreservation@v1-rev20221016-2.0.0
+- pkg:maven/com.google.apis/google-api-services-bigqueryreservation@v1-rev20221016-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-bigqueryreservation@v1-rev20221108-2.0.0
+- pkg:maven/com.google.apis/google-api-services-bigqueryreservation@v1-rev20221108-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-bigqueryreservation@v1-rev8-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-bigqueryreservation@v1-rev8-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-bigqueryreservation@v1-rev8-1.25.0
@@ -268,6 +272,8 @@
 - pkg:maven/com.google.apis/google-api-services-bigqueryreservation@v1beta1-rev20220415-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-bigqueryreservation@v1beta1-rev20220415-2.0.0
 - pkg:maven/com.google.apis/google-api-services-bigqueryreservation@v1beta1-rev20220415-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-bigqueryreservation@v1beta1-rev20221016-2.0.0
+- pkg:maven/com.google.apis/google-api-services-bigqueryreservation@v1beta1-rev20221016-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-bigqueryreservation@v1beta1-rev5-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-bigqueryreservation@v1beta1-rev5-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-bigqueryreservation@v1beta1-rev5-1.25.0

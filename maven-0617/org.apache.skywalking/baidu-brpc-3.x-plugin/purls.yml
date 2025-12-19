@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.skywalking/baidu-brpc-3.x-plugin@8.13.0
+- pkg:maven/org.apache.skywalking/baidu-brpc-3.x-plugin@8.13.0?classifier=sources

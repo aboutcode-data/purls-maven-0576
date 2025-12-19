@@ -4,3 +4,4 @@
 - pkg:maven/com.linked-planet/kotlin-insight-client-api@0.4.1?classifier=sources
 - pkg:maven/com.linked-planet/kotlin-insight-client-api@0.5.0?classifier=sources
 - pkg:maven/com.linked-planet/kotlin-insight-client-api@0.5.1?classifier=sources
+- pkg:maven/com.linked-planet/kotlin-insight-client-api@0.6.0?classifier=sources

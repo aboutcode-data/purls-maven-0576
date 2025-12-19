@@ -257,6 +257,9 @@
 - pkg:maven/com.liferay/com.liferay.adaptive.media.document.library.thumbnails@3.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.adaptive.media.document.library.thumbnails@3.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.adaptive.media.document.library.thumbnails@3.0.4
+- pkg:maven/com.liferay/com.liferay.adaptive.media.document.library.thumbnails@3.0.40
+- pkg:maven/com.liferay/com.liferay.adaptive.media.document.library.thumbnails@3.0.40?classifier=sources
+- pkg:maven/com.liferay/com.liferay.adaptive.media.document.library.thumbnails@3.0.40?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.adaptive.media.document.library.thumbnails@3.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.adaptive.media.document.library.thumbnails@3.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.adaptive.media.document.library.thumbnails@3.0.5
@@ -344,6 +347,9 @@
 - pkg:maven/com.liferay/com.liferay.adaptive.media.document.library.thumbnails@4.0.30
 - pkg:maven/com.liferay/com.liferay.adaptive.media.document.library.thumbnails@4.0.30?classifier=sources
 - pkg:maven/com.liferay/com.liferay.adaptive.media.document.library.thumbnails@4.0.30?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.adaptive.media.document.library.thumbnails@4.0.32
+- pkg:maven/com.liferay/com.liferay.adaptive.media.document.library.thumbnails@4.0.32?classifier=sources
+- pkg:maven/com.liferay/com.liferay.adaptive.media.document.library.thumbnails@4.0.32?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.adaptive.media.document.library.thumbnails@4.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.adaptive.media.document.library.thumbnails@4.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.adaptive.media.document.library.thumbnails@4.0.4
@@ -395,6 +401,9 @@
 - pkg:maven/com.liferay/com.liferay.adaptive.media.document.library.thumbnails@5.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.adaptive.media.document.library.thumbnails@5.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.adaptive.media.document.library.thumbnails@5.0.2
+- pkg:maven/com.liferay/com.liferay.adaptive.media.document.library.thumbnails@5.0.23
+- pkg:maven/com.liferay/com.liferay.adaptive.media.document.library.thumbnails@5.0.23?classifier=sources
+- pkg:maven/com.liferay/com.liferay.adaptive.media.document.library.thumbnails@5.0.23?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.adaptive.media.document.library.thumbnails@5.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.adaptive.media.document.library.thumbnails@5.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.adaptive.media.document.library.thumbnails@5.0.3

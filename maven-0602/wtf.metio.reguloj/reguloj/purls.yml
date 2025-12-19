@@ -22,6 +22,10 @@
 - pkg:maven/wtf.metio.reguloj/reguloj@2022.1.11?classifier=sources
 - pkg:maven/wtf.metio.reguloj/reguloj@2022.10.4
 - pkg:maven/wtf.metio.reguloj/reguloj@2022.10.4?classifier=sources
+- pkg:maven/wtf.metio.reguloj/reguloj@2022.11.1
+- pkg:maven/wtf.metio.reguloj/reguloj@2022.11.1?classifier=sources
+- pkg:maven/wtf.metio.reguloj/reguloj@2022.11.8
+- pkg:maven/wtf.metio.reguloj/reguloj@2022.11.8?classifier=sources
 - pkg:maven/wtf.metio.reguloj/reguloj@2022.2.15
 - pkg:maven/wtf.metio.reguloj/reguloj@2022.2.15?classifier=sources
 - pkg:maven/wtf.metio.reguloj/reguloj@2022.2.22

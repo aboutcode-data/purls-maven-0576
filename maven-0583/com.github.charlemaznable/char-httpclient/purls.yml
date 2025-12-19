@@ -12,3 +12,5 @@
 - pkg:maven/com.github.charlemaznable/char-httpclient@0.1.2?classifier=sources
 - pkg:maven/com.github.charlemaznable/char-httpclient@2022.0.0
 - pkg:maven/com.github.charlemaznable/char-httpclient@2022.0.0?classifier=sources
+- pkg:maven/com.github.charlemaznable/char-httpclient@2022.0.1
+- pkg:maven/com.github.charlemaznable/char-httpclient@2022.0.1?classifier=sources

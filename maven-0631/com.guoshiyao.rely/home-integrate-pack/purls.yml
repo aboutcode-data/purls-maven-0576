@@ -1,0 +1,4 @@
+- pkg:maven/com.guoshiyao.rely/home-integrate-pack@10.1.1-RELEASE
+- pkg:maven/com.guoshiyao.rely/home-integrate-pack@10.1.1-RELEASE?classifier=sources
+- pkg:maven/com.guoshiyao.rely/home-integrate-pack@10.1.2-RELEASE
+- pkg:maven/com.guoshiyao.rely/home-integrate-pack@10.1.2-RELEASE?classifier=sources

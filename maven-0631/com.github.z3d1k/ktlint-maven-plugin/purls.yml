@@ -37,3 +37,5 @@
 - pkg:maven/com.github.z3d1k/ktlint-maven-plugin@0.7.0?classifier=sources
 - pkg:maven/com.github.z3d1k/ktlint-maven-plugin@0.8.0
 - pkg:maven/com.github.z3d1k/ktlint-maven-plugin@0.8.0?classifier=sources
+- pkg:maven/com.github.z3d1k/ktlint-maven-plugin@0.9.0
+- pkg:maven/com.github.z3d1k/ktlint-maven-plugin@0.9.0?classifier=sources

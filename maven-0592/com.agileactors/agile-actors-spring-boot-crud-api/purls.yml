@@ -14,3 +14,5 @@
 - pkg:maven/com.agileactors/agile-actors-spring-boot-crud-api@1.0.3-202209280700?classifier=sources
 - pkg:maven/com.agileactors/agile-actors-spring-boot-crud-api@1.0.3-202209300547?classifier=sources
 - pkg:maven/com.agileactors/agile-actors-spring-boot-crud-api@1.0.3-202210061928?classifier=sources
+- pkg:maven/com.agileactors/agile-actors-spring-boot-crud-api@1.0.3-202211090916?classifier=sources
+- pkg:maven/com.agileactors/agile-actors-spring-boot-crud-api@1.0.3-202211170900?classifier=sources

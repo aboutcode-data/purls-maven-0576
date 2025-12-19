@@ -4,3 +4,9 @@
 - pkg:maven/com.nettoolkit/ntk-client-java@1.1.0-beta?classifier=sources
 - pkg:maven/com.nettoolkit/ntk-client-java@1.1.1-beta
 - pkg:maven/com.nettoolkit/ntk-client-java@1.1.1-beta?classifier=sources
+- pkg:maven/com.nettoolkit/ntk-client-java@1.2.1-beta
+- pkg:maven/com.nettoolkit/ntk-client-java@1.2.1-beta?classifier=sources
+- pkg:maven/com.nettoolkit/ntk-client-java@1.2.2-beta
+- pkg:maven/com.nettoolkit/ntk-client-java@1.2.2-beta?classifier=sources
+- pkg:maven/com.nettoolkit/ntk-client-java@1.2.3-beta
+- pkg:maven/com.nettoolkit/ntk-client-java@1.2.3-beta?classifier=sources

@@ -68,3 +68,5 @@
 - pkg:maven/com.alibaba.smart.framework/smart-engine-extension-retry-common@2.6.3?classifier=sources
 - pkg:maven/com.alibaba.smart.framework/smart-engine-extension-retry-common@2.6.4
 - pkg:maven/com.alibaba.smart.framework/smart-engine-extension-retry-common@2.6.4?classifier=sources
+- pkg:maven/com.alibaba.smart.framework/smart-engine-extension-retry-common@3.0.0
+- pkg:maven/com.alibaba.smart.framework/smart-engine-extension-retry-common@3.0.0?classifier=sources

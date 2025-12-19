@@ -1,0 +1,4 @@
+- pkg:maven/com.amazonaws/aws-java-sdk-oam@1.12.350
+- pkg:maven/com.amazonaws/aws-java-sdk-oam@1.12.350?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-oam@1.12.351
+- pkg:maven/com.amazonaws/aws-java-sdk-oam@1.12.351?classifier=sources

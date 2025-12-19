@@ -13,3 +13,5 @@
 - pkg:maven/org.sonarsource.analyzer-commons/sonar-performance-measure@1.27.0.1040?classifier=sources
 - pkg:maven/org.sonarsource.analyzer-commons/sonar-performance-measure@1.28.0.1058?classifier=sources
 - pkg:maven/org.sonarsource.analyzer-commons/sonar-performance-measure@2.0.0.1075?classifier=sources
+- pkg:maven/org.sonarsource.analyzer-commons/sonar-performance-measure@2.0.1.1099?classifier=sources
+- pkg:maven/org.sonarsource.analyzer-commons/sonar-performance-measure@2.1.0.1111?classifier=sources

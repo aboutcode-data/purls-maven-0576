@@ -1,0 +1,2 @@
+- pkg:maven/cn.fscode.commons/commons-ip2region-spring-boot-starter@0.0.2
+- pkg:maven/cn.fscode.commons/commons-ip2region-spring-boot-starter@0.0.2?classifier=sources

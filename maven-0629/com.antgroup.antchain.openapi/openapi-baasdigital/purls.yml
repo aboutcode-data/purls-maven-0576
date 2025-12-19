@@ -1,2 +1,4 @@
 - pkg:maven/com.antgroup.antchain.openapi/openapi-baasdigital@1.0.34
 - pkg:maven/com.antgroup.antchain.openapi/openapi-baasdigital@1.0.34?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-baasdigital@1.1.1
+- pkg:maven/com.antgroup.antchain.openapi/openapi-baasdigital@1.1.1?classifier=sources

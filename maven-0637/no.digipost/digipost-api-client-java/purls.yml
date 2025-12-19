@@ -50,6 +50,7 @@
 - pkg:maven/no.digipost/digipost-api-client-java@15.2?classifier=sources
 - pkg:maven/no.digipost/digipost-api-client-java@15.3?classifier=sources
 - pkg:maven/no.digipost/digipost-api-client-java@15.4?classifier=sources
+- pkg:maven/no.digipost/digipost-api-client-java@15.5?classifier=sources
 - pkg:maven/no.digipost/digipost-api-client-java@2.0?classifier=sources
 - pkg:maven/no.digipost/digipost-api-client-java@2.0?type=zip
 - pkg:maven/no.digipost/digipost-api-client-java@2.1?classifier=sources
