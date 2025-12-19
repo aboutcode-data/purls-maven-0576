@@ -1,0 +1,2 @@
+- pkg:maven/io.github.cyuliu/enforcer-rule-custom@1.0
+- pkg:maven/io.github.cyuliu/enforcer-rule-custom@1.0?classifier=sources

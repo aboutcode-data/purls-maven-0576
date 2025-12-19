@@ -1,3 +1,11 @@
+- pkg:maven/io.datarouter/datarouter-gcp-spanner@0.0.100
+- pkg:maven/io.datarouter/datarouter-gcp-spanner@0.0.100?classifier=sources
+- pkg:maven/io.datarouter/datarouter-gcp-spanner@0.0.101
+- pkg:maven/io.datarouter/datarouter-gcp-spanner@0.0.101?classifier=sources
+- pkg:maven/io.datarouter/datarouter-gcp-spanner@0.0.102
+- pkg:maven/io.datarouter/datarouter-gcp-spanner@0.0.102?classifier=sources
+- pkg:maven/io.datarouter/datarouter-gcp-spanner@0.0.103
+- pkg:maven/io.datarouter/datarouter-gcp-spanner@0.0.103?classifier=sources
 - pkg:maven/io.datarouter/datarouter-gcp-spanner@0.0.24
 - pkg:maven/io.datarouter/datarouter-gcp-spanner@0.0.24?classifier=sources
 - pkg:maven/io.datarouter/datarouter-gcp-spanner@0.0.25
@@ -144,3 +152,5 @@
 - pkg:maven/io.datarouter/datarouter-gcp-spanner@0.0.97?classifier=sources
 - pkg:maven/io.datarouter/datarouter-gcp-spanner@0.0.98
 - pkg:maven/io.datarouter/datarouter-gcp-spanner@0.0.98?classifier=sources
+- pkg:maven/io.datarouter/datarouter-gcp-spanner@0.0.99
+- pkg:maven/io.datarouter/datarouter-gcp-spanner@0.0.99?classifier=sources

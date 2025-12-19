@@ -4,3 +4,9 @@
 - pkg:maven/net.jlxxw/wechat-spring-boot-starter@1.0.1.20211206?classifier=sources
 - pkg:maven/net.jlxxw/wechat-spring-boot-starter@1.0.1.20211219
 - pkg:maven/net.jlxxw/wechat-spring-boot-starter@1.0.1.20211219?classifier=sources
+- pkg:maven/net.jlxxw/wechat-spring-boot-starter@1.0.1.20211221
+- pkg:maven/net.jlxxw/wechat-spring-boot-starter@1.0.1.20211221?classifier=sources
+- pkg:maven/net.jlxxw/wechat-spring-boot-starter@1.0.1.20211227
+- pkg:maven/net.jlxxw/wechat-spring-boot-starter@1.0.1.20211227?classifier=sources
+- pkg:maven/net.jlxxw/wechat-spring-boot-starter@1.0.2.20220107
+- pkg:maven/net.jlxxw/wechat-spring-boot-starter@1.0.2.20220107?classifier=sources

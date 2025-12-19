@@ -16,3 +16,4 @@
 - pkg:maven/io.github.palexdev/virtualizedfx@11.2.4-EARLY4?classifier=sources
 - pkg:maven/io.github.palexdev/virtualizedfx@11.2.4-EARLY5?classifier=sources
 - pkg:maven/io.github.palexdev/virtualizedfx@11.2.4-EARLY?classifier=sources
+- pkg:maven/io.github.palexdev/virtualizedfx@11.2.4?classifier=sources

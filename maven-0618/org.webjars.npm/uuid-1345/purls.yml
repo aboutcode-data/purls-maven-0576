@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/uuid-1345@1.0.2
+- pkg:maven/org.webjars.npm/uuid-1345@1.0.2?classifier=sources

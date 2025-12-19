@@ -6,6 +6,8 @@
 - pkg:maven/org.apache.logging.log4j/log4j-spring-cloud-config-client@2.12.2?classifier=sources
 - pkg:maven/org.apache.logging.log4j/log4j-spring-cloud-config-client@2.12.3
 - pkg:maven/org.apache.logging.log4j/log4j-spring-cloud-config-client@2.12.3?classifier=sources
+- pkg:maven/org.apache.logging.log4j/log4j-spring-cloud-config-client@2.12.4
+- pkg:maven/org.apache.logging.log4j/log4j-spring-cloud-config-client@2.12.4?classifier=sources
 - pkg:maven/org.apache.logging.log4j/log4j-spring-cloud-config-client@2.13.0
 - pkg:maven/org.apache.logging.log4j/log4j-spring-cloud-config-client@2.13.0?classifier=sources
 - pkg:maven/org.apache.logging.log4j/log4j-spring-cloud-config-client@2.13.1
@@ -24,3 +26,5 @@
 - pkg:maven/org.apache.logging.log4j/log4j-spring-cloud-config-client@2.16.0?classifier=sources
 - pkg:maven/org.apache.logging.log4j/log4j-spring-cloud-config-client@2.17.0
 - pkg:maven/org.apache.logging.log4j/log4j-spring-cloud-config-client@2.17.0?classifier=sources
+- pkg:maven/org.apache.logging.log4j/log4j-spring-cloud-config-client@2.17.1
+- pkg:maven/org.apache.logging.log4j/log4j-spring-cloud-config-client@2.17.1?classifier=sources

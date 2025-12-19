@@ -4,3 +4,5 @@
 - pkg:maven/io.github.chen-gliu/nacos-consul-adapter@0.0.2.M?classifier=sources
 - pkg:maven/io.github.chen-gliu/nacos-consul-adapter@0.0.3.M
 - pkg:maven/io.github.chen-gliu/nacos-consul-adapter@0.0.3.M?classifier=sources
+- pkg:maven/io.github.chen-gliu/nacos-consul-adapter@0.0.4.M
+- pkg:maven/io.github.chen-gliu/nacos-consul-adapter@0.0.4.M?classifier=sources

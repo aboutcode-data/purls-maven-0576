@@ -1,2 +1,7 @@
 - pkg:maven/com.cmonbaby/butterknife_plugin@1.0.0
 - pkg:maven/com.cmonbaby/butterknife_plugin@1.0.0?classifier=sources
+- pkg:maven/com.cmonbaby/butterknife_plugin@2.9.0?classifier=sources
+- pkg:maven/com.cmonbaby/butterknife_plugin@2.9.1?classifier=sources
+- pkg:maven/com.cmonbaby/butterknife_plugin@2.9.2?classifier=sources
+- pkg:maven/com.cmonbaby/butterknife_plugin@2.9.3?classifier=sources
+- pkg:maven/com.cmonbaby/butterknife_plugin@3.0.0?classifier=sources

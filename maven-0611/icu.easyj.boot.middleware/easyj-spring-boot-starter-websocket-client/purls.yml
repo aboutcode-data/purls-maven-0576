@@ -1,2 +1,3 @@
 - pkg:maven/icu.easyj.boot.middleware/easyj-spring-boot-starter-websocket-client@0.2.3
 - pkg:maven/icu.easyj.boot.middleware/easyj-spring-boot-starter-websocket-client@0.2.4
+- pkg:maven/icu.easyj.boot.middleware/easyj-spring-boot-starter-websocket-client@0.2.6

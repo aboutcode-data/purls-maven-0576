@@ -93,4 +93,7 @@
 - pkg:maven/com.ardikars.pcap/pcap-tests@1.3.4
 - pkg:maven/com.ardikars.pcap/pcap-tests@1.3.4-alpha
 - pkg:maven/com.ardikars.pcap/pcap-tests@1.3.4-beta
+- pkg:maven/com.ardikars.pcap/pcap-tests@1.4.0
 - pkg:maven/com.ardikars.pcap/pcap-tests@1.4.0-alpha.1
+- pkg:maven/com.ardikars.pcap/pcap-tests@1.4.0-beta.1
+- pkg:maven/com.ardikars.pcap/pcap-tests@1.4.1

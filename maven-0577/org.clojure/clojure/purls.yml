@@ -84,6 +84,10 @@
 - pkg:maven/org.clojure/clojure@1.11.0-alpha2?classifier=sources
 - pkg:maven/org.clojure/clojure@1.11.0-alpha3
 - pkg:maven/org.clojure/clojure@1.11.0-alpha3?classifier=sources
+- pkg:maven/org.clojure/clojure@1.11.0-alpha4
+- pkg:maven/org.clojure/clojure@1.11.0-alpha4?classifier=sources
+- pkg:maven/org.clojure/clojure@1.11.0-beta1
+- pkg:maven/org.clojure/clojure@1.11.0-beta1?classifier=sources
 - pkg:maven/org.clojure/clojure@1.2.0
 - pkg:maven/org.clojure/clojure@1.2.0?classifier=sources
 - pkg:maven/org.clojure/clojure@1.2.1

@@ -1,1 +1,2 @@
 - pkg:maven/com.github.kittinunf.result/result-js@5.2.0?classifier=sources
+- pkg:maven/com.github.kittinunf.result/result-js@5.2.1?classifier=sources

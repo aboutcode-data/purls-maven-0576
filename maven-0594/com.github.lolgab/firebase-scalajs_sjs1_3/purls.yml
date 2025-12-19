@@ -1,2 +1,6 @@
 - pkg:maven/com.github.lolgab/firebase-scalajs_sjs1_3@firebase_8.8.0_firebaseui_4.8.1
 - pkg:maven/com.github.lolgab/firebase-scalajs_sjs1_3@firebase_8.8.0_firebaseui_4.8.1?classifier=sources
+- pkg:maven/com.github.lolgab/firebase-scalajs_sjs1_3@firebase_9.6.3_firebaseui_6.0.0
+- pkg:maven/com.github.lolgab/firebase-scalajs_sjs1_3@firebase_9.6.3_firebaseui_6.0.0?classifier=sources
+- pkg:maven/com.github.lolgab/firebase-scalajs_sjs1_3@firebase_9.6.3_firebaseui_6.0.0_1
+- pkg:maven/com.github.lolgab/firebase-scalajs_sjs1_3@firebase_9.6.3_firebaseui_6.0.0_1?classifier=sources

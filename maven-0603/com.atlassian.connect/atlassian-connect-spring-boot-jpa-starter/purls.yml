@@ -69,3 +69,4 @@
 - pkg:maven/com.atlassian.connect/atlassian-connect-spring-boot-jpa-starter@2.2.2?classifier=sources
 - pkg:maven/com.atlassian.connect/atlassian-connect-spring-boot-jpa-starter@2.2.3?classifier=sources
 - pkg:maven/com.atlassian.connect/atlassian-connect-spring-boot-jpa-starter@2.2.4?classifier=sources
+- pkg:maven/com.atlassian.connect/atlassian-connect-spring-boot-jpa-starter@2.2.6?classifier=sources

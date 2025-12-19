@@ -1,0 +1,8 @@
+- pkg:maven/dev.vality/notification-proto@1.14-4052c8a
+- pkg:maven/dev.vality/notification-proto@1.14-4052c8a?classifier=sources
+- pkg:maven/dev.vality/notification-proto@1.15-b70c861
+- pkg:maven/dev.vality/notification-proto@1.15-b70c861?classifier=sources
+- pkg:maven/dev.vality/notification-proto@1.16-4291bc6
+- pkg:maven/dev.vality/notification-proto@1.16-4291bc6?classifier=sources
+- pkg:maven/dev.vality/notification-proto@1.18-9f6fa9c
+- pkg:maven/dev.vality/notification-proto@1.18-9f6fa9c?classifier=sources

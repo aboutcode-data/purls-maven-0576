@@ -1,3 +1,8 @@
+- pkg:maven/com.liferay.plugins/dialect-theme@5.0.10?type=war
+- pkg:maven/com.liferay.plugins/dialect-theme@5.0.11?type=war
+- pkg:maven/com.liferay.plugins/dialect-theme@5.0.12?type=war
+- pkg:maven/com.liferay.plugins/dialect-theme@5.0.13?type=war
+- pkg:maven/com.liferay.plugins/dialect-theme@5.0.14?type=war
 - pkg:maven/com.liferay.plugins/dialect-theme@5.0.2?type=war
 - pkg:maven/com.liferay.plugins/dialect-theme@5.0.3?type=war
 - pkg:maven/com.liferay.plugins/dialect-theme@5.0.4?type=war

@@ -1,2 +1,4 @@
 - pkg:maven/com.github.pjfanning/akka-rabbitmq_2.12@5.1.0
 - pkg:maven/com.github.pjfanning/akka-rabbitmq_2.12@5.1.0?classifier=sources
+- pkg:maven/com.github.pjfanning/akka-rabbitmq_2.12@6.1.0
+- pkg:maven/com.github.pjfanning/akka-rabbitmq_2.12@6.1.0?classifier=sources

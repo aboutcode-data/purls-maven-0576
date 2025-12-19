@@ -24,3 +24,5 @@
 - pkg:maven/com.exasol/exasol-virtual-schema@5.0.4?classifier=sources
 - pkg:maven/com.exasol/exasol-virtual-schema@5.0.5
 - pkg:maven/com.exasol/exasol-virtual-schema@5.0.5?classifier=sources
+- pkg:maven/com.exasol/exasol-virtual-schema@6.0.0
+- pkg:maven/com.exasol/exasol-virtual-schema@6.0.0?classifier=sources

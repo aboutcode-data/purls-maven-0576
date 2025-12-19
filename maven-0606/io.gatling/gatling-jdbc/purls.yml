@@ -124,3 +124,5 @@
 - pkg:maven/io.gatling/gatling-jdbc@3.7.2?classifier=sources
 - pkg:maven/io.gatling/gatling-jdbc@3.7.3
 - pkg:maven/io.gatling/gatling-jdbc@3.7.3?classifier=sources
+- pkg:maven/io.gatling/gatling-jdbc@3.7.4
+- pkg:maven/io.gatling/gatling-jdbc@3.7.4?classifier=sources

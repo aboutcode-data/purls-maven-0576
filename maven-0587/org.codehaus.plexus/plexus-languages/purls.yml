@@ -1,3 +1,4 @@
 - pkg:maven/org.codehaus.plexus/plexus-languages@1.0.6?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.plexus/plexus-languages@1.0.7?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.plexus/plexus-languages@1.1.0?classifier=source-release&type=zip
+- pkg:maven/org.codehaus.plexus/plexus-languages@1.1.1?classifier=source-release&type=zip

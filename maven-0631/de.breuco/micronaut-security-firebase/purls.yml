@@ -1,0 +1,3 @@
+- pkg:maven/de.breuco/micronaut-security-firebase@0.0.0?classifier=sources
+- pkg:maven/de.breuco/micronaut-security-firebase@0.1.0?classifier=sources
+- pkg:maven/de.breuco/micronaut-security-firebase@0.2.0?classifier=sources

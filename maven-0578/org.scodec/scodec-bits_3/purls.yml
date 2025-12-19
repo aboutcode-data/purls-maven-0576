@@ -26,10 +26,14 @@
 - pkg:maven/org.scodec/scodec-bits_3@1.1-20-c12b4e2?classifier=sources
 - pkg:maven/org.scodec/scodec-bits_3@1.1-21-320cb79
 - pkg:maven/org.scodec/scodec-bits_3@1.1-21-320cb79?classifier=sources
+- pkg:maven/org.scodec/scodec-bits_3@1.1-23-e1fd764
+- pkg:maven/org.scodec/scodec-bits_3@1.1-23-e1fd764?classifier=sources
 - pkg:maven/org.scodec/scodec-bits_3@1.1-23-e7186c2
 - pkg:maven/org.scodec/scodec-bits_3@1.1-23-e7186c2?classifier=sources
 - pkg:maven/org.scodec/scodec-bits_3@1.1-25-65ab64b
 - pkg:maven/org.scodec/scodec-bits_3@1.1-25-65ab64b?classifier=sources
+- pkg:maven/org.scodec/scodec-bits_3@1.1-25-e6a7c04
+- pkg:maven/org.scodec/scodec-bits_3@1.1-25-e6a7c04?classifier=sources
 - pkg:maven/org.scodec/scodec-bits_3@1.1-26-62b07c7
 - pkg:maven/org.scodec/scodec-bits_3@1.1-26-62b07c7?classifier=sources
 - pkg:maven/org.scodec/scodec-bits_3@1.1-28-0a14d1b

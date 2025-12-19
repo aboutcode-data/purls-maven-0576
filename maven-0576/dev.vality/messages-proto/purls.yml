@@ -1,0 +1,4 @@
+- pkg:maven/dev.vality/messages-proto@1.16-cfbb535
+- pkg:maven/dev.vality/messages-proto@1.16-cfbb535?classifier=sources
+- pkg:maven/dev.vality/messages-proto@1.17-bd8cdfd
+- pkg:maven/dev.vality/messages-proto@1.17-bd8cdfd?classifier=sources

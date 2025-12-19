@@ -2,3 +2,7 @@
 - pkg:maven/org.liquibase.ext/liquibase-bigquery@4.5.0?classifier=sources
 - pkg:maven/org.liquibase.ext/liquibase-bigquery@4.6.2
 - pkg:maven/org.liquibase.ext/liquibase-bigquery@4.6.2?classifier=sources
+- pkg:maven/org.liquibase.ext/liquibase-bigquery@4.7.0
+- pkg:maven/org.liquibase.ext/liquibase-bigquery@4.7.0?classifier=sources
+- pkg:maven/org.liquibase.ext/liquibase-bigquery@4.7.1
+- pkg:maven/org.liquibase.ext/liquibase-bigquery@4.7.1?classifier=sources

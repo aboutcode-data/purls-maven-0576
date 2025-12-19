@@ -10,3 +10,5 @@
 - pkg:maven/hu.icellmobilsoft.roaster/roaster-tm4j-common@0.4.1?classifier=sources
 - pkg:maven/hu.icellmobilsoft.roaster/roaster-tm4j-common@0.5.0
 - pkg:maven/hu.icellmobilsoft.roaster/roaster-tm4j-common@0.5.0?classifier=sources
+- pkg:maven/hu.icellmobilsoft.roaster/roaster-tm4j-common@0.6.0
+- pkg:maven/hu.icellmobilsoft.roaster/roaster-tm4j-common@0.6.0?classifier=sources

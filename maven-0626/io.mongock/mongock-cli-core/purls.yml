@@ -8,3 +8,7 @@
 - pkg:maven/io.mongock/mongock-cli-core@5.0.17.BETA?classifier=sources
 - pkg:maven/io.mongock/mongock-cli-core@5.0.20.BETA
 - pkg:maven/io.mongock/mongock-cli-core@5.0.20.BETA?classifier=sources
+- pkg:maven/io.mongock/mongock-cli-core@5.0.21.BETA
+- pkg:maven/io.mongock/mongock-cli-core@5.0.21.BETA?classifier=sources
+- pkg:maven/io.mongock/mongock-cli-core@5.0.22.BETA
+- pkg:maven/io.mongock/mongock-cli-core@5.0.22.BETA?classifier=sources

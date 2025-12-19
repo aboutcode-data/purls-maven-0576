@@ -36,3 +36,5 @@
 - pkg:maven/io.github.thebesteric.framework.mocker/mocker-core@1.0.3?classifier=sources
 - pkg:maven/io.github.thebesteric.framework.mocker/mocker-core@1.0.4
 - pkg:maven/io.github.thebesteric.framework.mocker/mocker-core@1.0.4?classifier=sources
+- pkg:maven/io.github.thebesteric.framework.mocker/mocker-core@1.0.5
+- pkg:maven/io.github.thebesteric.framework.mocker/mocker-core@1.0.5?classifier=sources

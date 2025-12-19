@@ -10,3 +10,5 @@
 - pkg:maven/com.immomo.cosmos.mediax/beautyutils@2.1.0_12171217?type=aar
 - pkg:maven/com.immomo.cosmos.mediax/beautyutils@2.1.1_12201451?classifier=sources
 - pkg:maven/com.immomo.cosmos.mediax/beautyutils@2.1.1_12201451?type=aar
+- pkg:maven/com.immomo.cosmos.mediax/beautyutils@2.2.1_01071700?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/beautyutils@2.2.1_01071700?type=aar

@@ -61,6 +61,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.data.integration.web@2.0.36
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.data.integration.web@2.0.36?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.data.integration.web@2.0.36?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.data.integration.web@2.0.37
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.data.integration.web@2.0.37?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.data.integration.web@2.0.37?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.data.integration.web@3.0.1
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.data.integration.web@3.0.10
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.data.integration.web@3.0.10?classifier=sources

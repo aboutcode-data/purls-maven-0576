@@ -2,3 +2,5 @@
 - pkg:maven/de.ipb-halle/molecularfaces@0.2.0?classifier=sources
 - pkg:maven/de.ipb-halle/molecularfaces@0.3.0
 - pkg:maven/de.ipb-halle/molecularfaces@0.3.0?classifier=sources
+- pkg:maven/de.ipb-halle/molecularfaces@0.4.0
+- pkg:maven/de.ipb-halle/molecularfaces@0.4.0?classifier=sources

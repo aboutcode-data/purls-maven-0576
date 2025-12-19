@@ -1,0 +1,2 @@
+- pkg:maven/de.skuzzle.test/snapshot-tests-jaxb@0.0.5
+- pkg:maven/de.skuzzle.test/snapshot-tests-jaxb@0.0.5?classifier=sources

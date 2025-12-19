@@ -4,3 +4,6 @@
 - pkg:maven/org.kie.kogito/kogito-spring-boot-starter@1.13.0.Final
 - pkg:maven/org.kie.kogito/kogito-spring-boot-starter@1.14.0.Final
 - pkg:maven/org.kie.kogito/kogito-spring-boot-starter@1.14.1.Final
+- pkg:maven/org.kie.kogito/kogito-spring-boot-starter@1.15.0.Final
+- pkg:maven/org.kie.kogito/kogito-spring-boot-starter@1.16.0.Final
+- pkg:maven/org.kie.kogito/kogito-spring-boot-starter@1.16.1.Final

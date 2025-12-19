@@ -1,8 +1,10 @@
 - pkg:maven/io.servicetalk/servicetalk-grpc-utils@0.41.10?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-grpc-utils@0.41.11?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-grpc-utils@0.41.12?classifier=sources
+- pkg:maven/io.servicetalk/servicetalk-grpc-utils@0.41.13?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-grpc-utils@0.41.6?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-grpc-utils@0.41.7?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-grpc-utils@0.41.8?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-grpc-utils@0.41.9?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-grpc-utils@0.42.0?classifier=sources
+- pkg:maven/io.servicetalk/servicetalk-grpc-utils@0.42.1?classifier=sources

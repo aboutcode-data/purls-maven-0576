@@ -12,3 +12,5 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-network-management-v1beta1@0.3.3?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-network-management-v1beta1@0.3.4
 - pkg:maven/com.google.api.grpc/proto-google-cloud-network-management-v1beta1@0.3.4?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-network-management-v1beta1@0.3.5
+- pkg:maven/com.google.api.grpc/proto-google-cloud-network-management-v1beta1@0.3.5?classifier=sources

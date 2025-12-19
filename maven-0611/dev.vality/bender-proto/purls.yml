@@ -1,0 +1,2 @@
+- pkg:maven/dev.vality/bender-proto@1.20-be9cdeb
+- pkg:maven/dev.vality/bender-proto@1.20-be9cdeb?classifier=sources

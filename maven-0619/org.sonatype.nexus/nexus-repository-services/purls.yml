@@ -77,3 +77,7 @@
 - pkg:maven/org.sonatype.nexus/nexus-repository-services@3.37.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-repository-services@3.37.1-01
 - pkg:maven/org.sonatype.nexus/nexus-repository-services@3.37.1-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-repository-services@3.37.2-02
+- pkg:maven/org.sonatype.nexus/nexus-repository-services@3.37.2-02?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-repository-services@3.37.3-02
+- pkg:maven/org.sonatype.nexus/nexus-repository-services@3.37.3-02?classifier=sources

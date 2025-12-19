@@ -104,9 +104,13 @@
 - pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-tests@7.62.0.Final
 - pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-tests@7.63.0.Final
 - pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-tests@7.63.0.t20211129
+- pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-tests@7.64.0.Final
 - pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-tests@7.7.0.Final
 - pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-tests@7.8.0.Final
 - pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-tests@7.9.0.Final
 - pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-tests@8.13.0.Beta
 - pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-tests@8.14.0.Beta
 - pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-tests@8.14.1.Beta
+- pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-tests@8.15.0.Beta
+- pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-tests@8.16.0.Beta
+- pkg:maven/org.drools.testcoverage/drools-kie-ci-without-domain-tests@8.16.1.Beta

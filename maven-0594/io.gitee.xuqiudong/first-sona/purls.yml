@@ -1,0 +1,2 @@
+- pkg:maven/io.gitee.xuqiudong/first-sona@1.0.0
+- pkg:maven/io.gitee.xuqiudong/first-sona@1.0.0?classifier=sources

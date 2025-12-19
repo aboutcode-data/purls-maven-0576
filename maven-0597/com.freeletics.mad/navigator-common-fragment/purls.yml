@@ -1,0 +1,4 @@
+- pkg:maven/com.freeletics.mad/navigator-common-fragment@0.3.0-alpha12?classifier=sources
+- pkg:maven/com.freeletics.mad/navigator-common-fragment@0.3.0-alpha13?classifier=sources
+- pkg:maven/com.freeletics.mad/navigator-common-fragment@0.3.0-alpha14?classifier=sources
+- pkg:maven/com.freeletics.mad/navigator-common-fragment@0.3.0-alpha15?classifier=sources

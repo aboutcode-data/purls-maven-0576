@@ -1,0 +1,2 @@
+- pkg:maven/fr.inria.corese/shex@4.3.0
+- pkg:maven/fr.inria.corese/shex@4.3.0?classifier=sources

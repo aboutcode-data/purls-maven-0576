@@ -64,3 +64,5 @@
 - pkg:maven/org.neo4j/neo4j-cypher-dsl@2021.4.2?classifier=sources
 - pkg:maven/org.neo4j/neo4j-cypher-dsl@2022.0.0
 - pkg:maven/org.neo4j/neo4j-cypher-dsl@2022.0.0?classifier=sources
+- pkg:maven/org.neo4j/neo4j-cypher-dsl@2022.1.0
+- pkg:maven/org.neo4j/neo4j-cypher-dsl@2022.1.0?classifier=sources

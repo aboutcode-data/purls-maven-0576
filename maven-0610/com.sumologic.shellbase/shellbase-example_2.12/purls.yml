@@ -6,3 +6,4 @@
 - pkg:maven/com.sumologic.shellbase/shellbase-example_2.12@1.5.4?classifier=sources
 - pkg:maven/com.sumologic.shellbase/shellbase-example_2.12@2.0.0?classifier=sources
 - pkg:maven/com.sumologic.shellbase/shellbase-example_2.12@2.1.0?classifier=sources
+- pkg:maven/com.sumologic.shellbase/shellbase-example_2.12@2.1.1?classifier=sources

@@ -9,3 +9,4 @@
 - pkg:maven/org.openrewrite.recipe/rewrite-migrate-java@0.7.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-migrate-java@0.8.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-migrate-java@0.9.0?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-migrate-java@1.0.0?classifier=sources

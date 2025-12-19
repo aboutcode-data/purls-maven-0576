@@ -46,3 +46,11 @@
 - pkg:maven/no.sparebank1.troxy/troxy-server@3.1.95?classifier=sources
 - pkg:maven/no.sparebank1.troxy/troxy-server@3.1.98
 - pkg:maven/no.sparebank1.troxy/troxy-server@3.1.98?classifier=sources
+- pkg:maven/no.sparebank1.troxy/troxy-server@3.2.14
+- pkg:maven/no.sparebank1.troxy/troxy-server@3.2.14?classifier=sources
+- pkg:maven/no.sparebank1.troxy/troxy-server@3.2.15
+- pkg:maven/no.sparebank1.troxy/troxy-server@3.2.15?classifier=sources
+- pkg:maven/no.sparebank1.troxy/troxy-server@3.2.25
+- pkg:maven/no.sparebank1.troxy/troxy-server@3.2.25?classifier=sources
+- pkg:maven/no.sparebank1.troxy/troxy-server@3.2.9
+- pkg:maven/no.sparebank1.troxy/troxy-server@3.2.9?classifier=sources

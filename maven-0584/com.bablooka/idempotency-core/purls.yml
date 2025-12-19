@@ -1,0 +1,2 @@
+- pkg:maven/com.bablooka/idempotency-core@0.0.1
+- pkg:maven/com.bablooka/idempotency-core@0.0.1?classifier=sources

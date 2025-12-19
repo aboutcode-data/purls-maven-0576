@@ -54,3 +54,5 @@
 - pkg:maven/org.eclipse.tycho.extras/target-platform-validation-plugin@2.4.0?classifier=sources
 - pkg:maven/org.eclipse.tycho.extras/target-platform-validation-plugin@2.5.0
 - pkg:maven/org.eclipse.tycho.extras/target-platform-validation-plugin@2.5.0?classifier=sources
+- pkg:maven/org.eclipse.tycho.extras/target-platform-validation-plugin@2.6.0
+- pkg:maven/org.eclipse.tycho.extras/target-platform-validation-plugin@2.6.0?classifier=sources

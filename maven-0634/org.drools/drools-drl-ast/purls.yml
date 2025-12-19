@@ -1,0 +1,4 @@
+- pkg:maven/org.drools/drools-drl-ast@8.16.0.Beta
+- pkg:maven/org.drools/drools-drl-ast@8.16.0.Beta?classifier=sources
+- pkg:maven/org.drools/drools-drl-ast@8.16.1.Beta
+- pkg:maven/org.drools/drools-drl-ast@8.16.1.Beta?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/net.projecttl/project-economy-api@1.0.0-REMAKE?classifier=sources
+- pkg:maven/net.projecttl/project-economy-api@2.0.0?classifier=sources

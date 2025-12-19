@@ -1,0 +1,2 @@
+- pkg:maven/io.apicurio/apicurio-registry-schema-validation-jsonschema@0.0.1.Final
+- pkg:maven/io.apicurio/apicurio-registry-schema-validation-jsonschema@0.0.1.Final?classifier=sources

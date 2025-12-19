@@ -1,4 +1,8 @@
 - pkg:maven/io.datarouter/datarouter-checkstyle@0.0.10
+- pkg:maven/io.datarouter/datarouter-checkstyle@0.0.100
+- pkg:maven/io.datarouter/datarouter-checkstyle@0.0.101
+- pkg:maven/io.datarouter/datarouter-checkstyle@0.0.102
+- pkg:maven/io.datarouter/datarouter-checkstyle@0.0.103
 - pkg:maven/io.datarouter/datarouter-checkstyle@0.0.11
 - pkg:maven/io.datarouter/datarouter-checkstyle@0.0.12
 - pkg:maven/io.datarouter/datarouter-checkstyle@0.0.13
@@ -85,3 +89,4 @@
 - pkg:maven/io.datarouter/datarouter-checkstyle@0.0.96
 - pkg:maven/io.datarouter/datarouter-checkstyle@0.0.97
 - pkg:maven/io.datarouter/datarouter-checkstyle@0.0.98
+- pkg:maven/io.datarouter/datarouter-checkstyle@0.0.99

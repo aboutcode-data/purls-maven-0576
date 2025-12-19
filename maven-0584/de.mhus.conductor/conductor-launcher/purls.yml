@@ -1,2 +1,3 @@
 - pkg:maven/de.mhus.conductor/conductor-launcher@1.0.0
 - pkg:maven/de.mhus.conductor/conductor-launcher@1.1.0
+- pkg:maven/de.mhus.conductor/conductor-launcher@1.1.1

@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.portals.pluto.archetype/mvcbean-thymeleaf-portlet-archetype@3.1.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.portals.pluto.archetype/mvcbean-thymeleaf-portlet-archetype@3.1.0?classifier=sources
+- pkg:maven/org.apache.portals.pluto.archetype/mvcbean-thymeleaf-portlet-archetype@3.1.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.portals.pluto.archetype/mvcbean-thymeleaf-portlet-archetype@3.1.1?classifier=sources

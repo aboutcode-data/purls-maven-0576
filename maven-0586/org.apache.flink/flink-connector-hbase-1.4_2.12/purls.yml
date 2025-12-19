@@ -32,3 +32,5 @@
 - pkg:maven/org.apache.flink/flink-connector-hbase-1.4_2.12@1.14.1?classifier=sources
 - pkg:maven/org.apache.flink/flink-connector-hbase-1.4_2.12@1.14.2
 - pkg:maven/org.apache.flink/flink-connector-hbase-1.4_2.12@1.14.2?classifier=sources
+- pkg:maven/org.apache.flink/flink-connector-hbase-1.4_2.12@1.14.3
+- pkg:maven/org.apache.flink/flink-connector-hbase-1.4_2.12@1.14.3?classifier=sources

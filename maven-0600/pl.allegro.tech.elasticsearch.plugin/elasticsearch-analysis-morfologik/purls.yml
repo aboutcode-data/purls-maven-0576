@@ -80,6 +80,7 @@
 - pkg:maven/pl.allegro.tech.elasticsearch.plugin/elasticsearch-analysis-morfologik@6.8.11?classifier=sources
 - pkg:maven/pl.allegro.tech.elasticsearch.plugin/elasticsearch-analysis-morfologik@6.8.12?classifier=sources
 - pkg:maven/pl.allegro.tech.elasticsearch.plugin/elasticsearch-analysis-morfologik@6.8.1?classifier=sources
+- pkg:maven/pl.allegro.tech.elasticsearch.plugin/elasticsearch-analysis-morfologik@6.8.23?classifier=sources
 - pkg:maven/pl.allegro.tech.elasticsearch.plugin/elasticsearch-analysis-morfologik@6.8.2?classifier=sources
 - pkg:maven/pl.allegro.tech.elasticsearch.plugin/elasticsearch-analysis-morfologik@6.8.3?classifier=sources
 - pkg:maven/pl.allegro.tech.elasticsearch.plugin/elasticsearch-analysis-morfologik@6.8.4?classifier=sources
@@ -88,6 +89,11 @@
 - pkg:maven/pl.allegro.tech.elasticsearch.plugin/elasticsearch-analysis-morfologik@6.8.9?classifier=sources
 - pkg:maven/pl.allegro.tech.elasticsearch.plugin/elasticsearch-analysis-morfologik@7.10.0?classifier=sources
 - pkg:maven/pl.allegro.tech.elasticsearch.plugin/elasticsearch-analysis-morfologik@7.10.1?classifier=sources
+- pkg:maven/pl.allegro.tech.elasticsearch.plugin/elasticsearch-analysis-morfologik@7.10.2?classifier=sources
+- pkg:maven/pl.allegro.tech.elasticsearch.plugin/elasticsearch-analysis-morfologik@7.16.1?classifier=sources
+- pkg:maven/pl.allegro.tech.elasticsearch.plugin/elasticsearch-analysis-morfologik@7.16.2.1?classifier=sources
+- pkg:maven/pl.allegro.tech.elasticsearch.plugin/elasticsearch-analysis-morfologik@7.16.2?classifier=sources
+- pkg:maven/pl.allegro.tech.elasticsearch.plugin/elasticsearch-analysis-morfologik@7.16.3?classifier=sources
 - pkg:maven/pl.allegro.tech.elasticsearch.plugin/elasticsearch-analysis-morfologik@7.3.2?classifier=sources
 - pkg:maven/pl.allegro.tech.elasticsearch.plugin/elasticsearch-analysis-morfologik@7.4.0?classifier=sources
 - pkg:maven/pl.allegro.tech.elasticsearch.plugin/elasticsearch-analysis-morfologik@7.4.1?classifier=sources

@@ -104,6 +104,8 @@
 - pkg:maven/org.mockito/mockito-scala-scalaz_2.12@1.16.42?classifier=sources
 - pkg:maven/org.mockito/mockito-scala-scalaz_2.12@1.16.46?classifier=sources
 - pkg:maven/org.mockito/mockito-scala-scalaz_2.12@1.16.49?classifier=sources
+- pkg:maven/org.mockito/mockito-scala-scalaz_2.12@1.16.55?classifier=sources
+- pkg:maven/org.mockito/mockito-scala-scalaz_2.12@1.17.0?classifier=sources
 - pkg:maven/org.mockito/mockito-scala-scalaz_2.12@1.5.0
 - pkg:maven/org.mockito/mockito-scala-scalaz_2.12@1.5.0?classifier=sources
 - pkg:maven/org.mockito/mockito-scala-scalaz_2.12@1.5.1

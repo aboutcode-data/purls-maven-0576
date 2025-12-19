@@ -33,6 +33,10 @@
 - pkg:maven/com.chatwork/scala-jwk_3@1.2.21?classifier=sources
 - pkg:maven/com.chatwork/scala-jwk_3@1.2.22
 - pkg:maven/com.chatwork/scala-jwk_3@1.2.22?classifier=sources
+- pkg:maven/com.chatwork/scala-jwk_3@1.2.23
+- pkg:maven/com.chatwork/scala-jwk_3@1.2.23?classifier=sources
+- pkg:maven/com.chatwork/scala-jwk_3@1.2.24
+- pkg:maven/com.chatwork/scala-jwk_3@1.2.24?classifier=sources
 - pkg:maven/com.chatwork/scala-jwk_3@1.2.2?classifier=sources
 - pkg:maven/com.chatwork/scala-jwk_3@1.2.3
 - pkg:maven/com.chatwork/scala-jwk_3@1.2.3?classifier=sources

@@ -46,5 +46,9 @@
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-elasticsearch-listener@0.42?classifier=sources
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-elasticsearch-listener@0.43
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-elasticsearch-listener@0.43?classifier=sources
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-elasticsearch-listener@0.44
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-elasticsearch-listener@0.44?classifier=sources
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-elasticsearch-listener@0.45
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-elasticsearch-listener@0.45?classifier=sources
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-elasticsearch-listener@028
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-elasticsearch-listener@028?classifier=sources

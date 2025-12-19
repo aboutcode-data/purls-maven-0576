@@ -97,6 +97,12 @@
 - pkg:maven/com.liferay/com.liferay.saml.api@2.2.25
 - pkg:maven/com.liferay/com.liferay.saml.api@2.2.25?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.api@2.2.25?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.saml.api@2.2.26
+- pkg:maven/com.liferay/com.liferay.saml.api@2.2.26?classifier=sources
+- pkg:maven/com.liferay/com.liferay.saml.api@2.2.26?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.saml.api@2.2.27
+- pkg:maven/com.liferay/com.liferay.saml.api@2.2.27?classifier=sources
+- pkg:maven/com.liferay/com.liferay.saml.api@2.2.27?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.saml.api@2.2.8
 - pkg:maven/com.liferay/com.liferay.saml.api@2.2.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.api@2.2.8?classifier=sources-commercial

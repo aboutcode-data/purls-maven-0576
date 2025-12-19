@@ -1,0 +1,2 @@
+- pkg:maven/io.strimzi/test@0.27.1
+- pkg:maven/io.strimzi/test@0.27.1?classifier=sources

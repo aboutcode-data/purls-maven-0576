@@ -212,6 +212,8 @@
 - pkg:maven/com.facebook.presto/presto-docs@0.266.1?classifier=sources
 - pkg:maven/com.facebook.presto/presto-docs@0.266?classifier=sources
 - pkg:maven/com.facebook.presto/presto-docs@0.267?classifier=sources
+- pkg:maven/com.facebook.presto/presto-docs@0.268?classifier=sources
+- pkg:maven/com.facebook.presto/presto-docs@0.269?classifier=sources
 - pkg:maven/com.facebook.presto/presto-docs@0.52?classifier=sources
 - pkg:maven/com.facebook.presto/presto-docs@0.53?classifier=sources
 - pkg:maven/com.facebook.presto/presto-docs@0.54?classifier=sources

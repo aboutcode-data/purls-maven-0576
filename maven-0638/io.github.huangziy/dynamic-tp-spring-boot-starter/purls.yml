@@ -1,0 +1,2 @@
+- pkg:maven/io.github.huangziy/dynamic-tp-spring-boot-starter@1.0.1-RELEASE
+- pkg:maven/io.github.huangziy/dynamic-tp-spring-boot-starter@1.0.1-RELEASE?classifier=sources

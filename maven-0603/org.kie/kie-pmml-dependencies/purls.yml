@@ -26,6 +26,10 @@
 - pkg:maven/org.kie/kie-pmml-dependencies@7.62.0.Final
 - pkg:maven/org.kie/kie-pmml-dependencies@7.63.0.Final
 - pkg:maven/org.kie/kie-pmml-dependencies@7.63.0.t20211129
+- pkg:maven/org.kie/kie-pmml-dependencies@7.64.0.Final
 - pkg:maven/org.kie/kie-pmml-dependencies@8.13.0.Beta
 - pkg:maven/org.kie/kie-pmml-dependencies@8.14.0.Beta
 - pkg:maven/org.kie/kie-pmml-dependencies@8.14.1.Beta
+- pkg:maven/org.kie/kie-pmml-dependencies@8.15.0.Beta
+- pkg:maven/org.kie/kie-pmml-dependencies@8.16.0.Beta
+- pkg:maven/org.kie/kie-pmml-dependencies@8.16.1.Beta

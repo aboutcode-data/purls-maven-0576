@@ -1,0 +1,2 @@
+- pkg:maven/com.valaphee/jackson-dataformat-nbt@1.0.0.0?classifier=sources
+- pkg:maven/com.valaphee/jackson-dataformat-nbt@1.1.0?classifier=sources

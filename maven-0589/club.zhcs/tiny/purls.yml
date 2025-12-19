@@ -64,3 +64,7 @@
 - pkg:maven/club.zhcs/tiny@2.5.7?classifier=sources
 - pkg:maven/club.zhcs/tiny@2.6.0
 - pkg:maven/club.zhcs/tiny@2.6.0?classifier=sources
+- pkg:maven/club.zhcs/tiny@2.6.2
+- pkg:maven/club.zhcs/tiny@2.6.2?classifier=sources
+- pkg:maven/club.zhcs/tiny@2.6.3
+- pkg:maven/club.zhcs/tiny@2.6.3?classifier=sources

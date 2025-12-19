@@ -36,3 +36,5 @@
 - pkg:maven/org.apache.flink/flink-ml-lib_2.12@1.12.6?classifier=sources
 - pkg:maven/org.apache.flink/flink-ml-lib_2.12@1.12.7
 - pkg:maven/org.apache.flink/flink-ml-lib_2.12@1.12.7?classifier=sources
+- pkg:maven/org.apache.flink/flink-ml-lib_2.12@2.0.0
+- pkg:maven/org.apache.flink/flink-ml-lib_2.12@2.0.0?classifier=sources

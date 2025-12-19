@@ -2,6 +2,8 @@
 - pkg:maven/io.kubernetes/client-java-extended@10.0.0?classifier=sources
 - pkg:maven/io.kubernetes/client-java-extended@10.0.1
 - pkg:maven/io.kubernetes/client-java-extended@10.0.1?classifier=sources
+- pkg:maven/io.kubernetes/client-java-extended@10.0.2
+- pkg:maven/io.kubernetes/client-java-extended@10.0.2?classifier=sources
 - pkg:maven/io.kubernetes/client-java-extended@11.0.0
 - pkg:maven/io.kubernetes/client-java-extended@11.0.0?classifier=sources
 - pkg:maven/io.kubernetes/client-java-extended@11.0.1
@@ -10,6 +12,8 @@
 - pkg:maven/io.kubernetes/client-java-extended@11.0.2?classifier=sources
 - pkg:maven/io.kubernetes/client-java-extended@11.0.3
 - pkg:maven/io.kubernetes/client-java-extended@11.0.3?classifier=sources
+- pkg:maven/io.kubernetes/client-java-extended@11.0.4
+- pkg:maven/io.kubernetes/client-java-extended@11.0.4?classifier=sources
 - pkg:maven/io.kubernetes/client-java-extended@12.0.0
 - pkg:maven/io.kubernetes/client-java-extended@12.0.0?classifier=sources
 - pkg:maven/io.kubernetes/client-java-extended@12.0.1
@@ -20,6 +24,8 @@
 - pkg:maven/io.kubernetes/client-java-extended@13.0.0?classifier=sources
 - pkg:maven/io.kubernetes/client-java-extended@13.0.1
 - pkg:maven/io.kubernetes/client-java-extended@13.0.1?classifier=sources
+- pkg:maven/io.kubernetes/client-java-extended@13.0.2
+- pkg:maven/io.kubernetes/client-java-extended@13.0.2?classifier=sources
 - pkg:maven/io.kubernetes/client-java-extended@14.0.0
 - pkg:maven/io.kubernetes/client-java-extended@14.0.0?classifier=sources
 - pkg:maven/io.kubernetes/client-java-extended@5.0.0

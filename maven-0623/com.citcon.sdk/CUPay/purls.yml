@@ -1,1 +1,2 @@
 - pkg:maven/com.citcon.sdk/CUPay@1.0.1?classifier=sources
+- pkg:maven/com.citcon.sdk/CUPay@3.0.1-alpha?classifier=sources

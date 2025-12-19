@@ -18,3 +18,7 @@
 - pkg:maven/com.applovin.mediation/fyber-adapter@8.0.0.0?type=aar
 - pkg:maven/com.applovin.mediation/fyber-adapter@8.1.0.0?classifier=sources
 - pkg:maven/com.applovin.mediation/fyber-adapter@8.1.0.0?type=aar
+- pkg:maven/com.applovin.mediation/fyber-adapter@8.1.1.0?classifier=sources
+- pkg:maven/com.applovin.mediation/fyber-adapter@8.1.1.0?type=aar
+- pkg:maven/com.applovin.mediation/fyber-adapter@8.1.2.0?classifier=sources
+- pkg:maven/com.applovin.mediation/fyber-adapter@8.1.2.0?type=aar

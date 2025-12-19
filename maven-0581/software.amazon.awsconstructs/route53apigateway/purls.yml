@@ -1,0 +1,6 @@
+- pkg:maven/software.amazon.awsconstructs/route53apigateway@1.138.0
+- pkg:maven/software.amazon.awsconstructs/route53apigateway@1.138.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/route53apigateway@1.138.1
+- pkg:maven/software.amazon.awsconstructs/route53apigateway@1.138.1?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/route53apigateway@2.2.0
+- pkg:maven/software.amazon.awsconstructs/route53apigateway@2.2.0?classifier=sources

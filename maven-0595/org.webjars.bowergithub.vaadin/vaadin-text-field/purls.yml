@@ -186,3 +186,5 @@
 - pkg:maven/org.webjars.bowergithub.vaadin/vaadin-text-field@2.8.6?classifier=sources
 - pkg:maven/org.webjars.bowergithub.vaadin/vaadin-text-field@2.9.0
 - pkg:maven/org.webjars.bowergithub.vaadin/vaadin-text-field@2.9.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.vaadin/vaadin-text-field@2.9.1
+- pkg:maven/org.webjars.bowergithub.vaadin/vaadin-text-field@2.9.1?classifier=sources

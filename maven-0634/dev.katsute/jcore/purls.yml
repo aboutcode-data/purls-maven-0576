@@ -6,3 +6,5 @@
 - pkg:maven/dev.katsute/jcore@1.2.0?classifier=sources
 - pkg:maven/dev.katsute/jcore@1.3.0
 - pkg:maven/dev.katsute/jcore@1.3.0?classifier=sources
+- pkg:maven/dev.katsute/jcore@2.0.0
+- pkg:maven/dev.katsute/jcore@2.0.0?classifier=sources

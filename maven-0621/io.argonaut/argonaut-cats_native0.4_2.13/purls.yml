@@ -1,0 +1,4 @@
+- pkg:maven/io.argonaut/argonaut-cats_native0.4_2.13@6.2.6
+- pkg:maven/io.argonaut/argonaut-cats_native0.4_2.13@6.2.6?classifier=sources
+- pkg:maven/io.argonaut/argonaut-cats_native0.4_2.13@6.3.8
+- pkg:maven/io.argonaut/argonaut-cats_native0.4_2.13@6.3.8?classifier=sources

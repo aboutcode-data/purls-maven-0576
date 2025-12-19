@@ -1,0 +1,2 @@
+- pkg:maven/com.github.shuaidd/aspi-spring-boot-model@1.0.0
+- pkg:maven/com.github.shuaidd/aspi-spring-boot-model@1.0.0?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/com.microsoft.azure.cognitiveservices/azure-cognitiveservices-computervision@1.0.6-beta?classifier=sources
 - pkg:maven/com.microsoft.azure.cognitiveservices/azure-cognitiveservices-computervision@1.0.8-beta
 - pkg:maven/com.microsoft.azure.cognitiveservices/azure-cognitiveservices-computervision@1.0.8-beta?classifier=sources
+- pkg:maven/com.microsoft.azure.cognitiveservices/azure-cognitiveservices-computervision@1.0.9-beta
+- pkg:maven/com.microsoft.azure.cognitiveservices/azure-cognitiveservices-computervision@1.0.9-beta?classifier=sources

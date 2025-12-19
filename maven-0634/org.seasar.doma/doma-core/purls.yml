@@ -28,3 +28,4 @@
 - pkg:maven/org.seasar.doma/doma-core@2.48.0?classifier=sources
 - pkg:maven/org.seasar.doma/doma-core@2.49.0?classifier=sources
 - pkg:maven/org.seasar.doma/doma-core@2.50.0?classifier=sources
+- pkg:maven/org.seasar.doma/doma-core@2.51.0?classifier=sources

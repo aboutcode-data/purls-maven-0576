@@ -9,4 +9,6 @@
 - pkg:maven/us.hebi.glue/glue@1.1
 - pkg:maven/us.hebi.glue/glue@1.1?classifier=sources
 - pkg:maven/us.hebi.glue/glue@1.2
+- pkg:maven/us.hebi.glue/glue@1.2.1
+- pkg:maven/us.hebi.glue/glue@1.2.1?classifier=sources
 - pkg:maven/us.hebi.glue/glue@1.2?classifier=sources

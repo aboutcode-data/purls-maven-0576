@@ -1,1 +1,2 @@
 - pkg:maven/io.github.mysto/ff3@0.9?classifier=sources
+- pkg:maven/io.github.mysto/ff3@1.0?classifier=sources

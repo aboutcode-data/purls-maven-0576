@@ -1,0 +1,2 @@
+- pkg:maven/io.github.wqbill/axie-gene-decoder@1.0.0
+- pkg:maven/io.github.wqbill/axie-gene-decoder@1.0.0?classifier=sources

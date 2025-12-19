@@ -1,0 +1,2 @@
+- pkg:maven/com.slack.api/bolt-jakarta-jetty@1.18.0
+- pkg:maven/com.slack.api/bolt-jakarta-jetty@1.18.0?classifier=sources

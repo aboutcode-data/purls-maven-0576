@@ -44,6 +44,8 @@
 - pkg:maven/io.vertx/vertx-auth-webauthn@4.1.7.1
 - pkg:maven/io.vertx/vertx-auth-webauthn@4.1.7.1?classifier=sources
 - pkg:maven/io.vertx/vertx-auth-webauthn@4.1.7?classifier=sources
+- pkg:maven/io.vertx/vertx-auth-webauthn@4.1.8
+- pkg:maven/io.vertx/vertx-auth-webauthn@4.1.8?classifier=sources
 - pkg:maven/io.vertx/vertx-auth-webauthn@4.2.0
 - pkg:maven/io.vertx/vertx-auth-webauthn@4.2.0.Beta1
 - pkg:maven/io.vertx/vertx-auth-webauthn@4.2.0.Beta1?classifier=sources
@@ -56,3 +58,7 @@
 - pkg:maven/io.vertx/vertx-auth-webauthn@4.2.2.1
 - pkg:maven/io.vertx/vertx-auth-webauthn@4.2.2.1?classifier=sources
 - pkg:maven/io.vertx/vertx-auth-webauthn@4.2.2?classifier=sources
+- pkg:maven/io.vertx/vertx-auth-webauthn@4.2.3
+- pkg:maven/io.vertx/vertx-auth-webauthn@4.2.3?classifier=sources
+- pkg:maven/io.vertx/vertx-auth-webauthn@4.2.4
+- pkg:maven/io.vertx/vertx-auth-webauthn@4.2.4?classifier=sources

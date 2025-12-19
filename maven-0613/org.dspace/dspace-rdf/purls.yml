@@ -66,3 +66,5 @@
 - pkg:maven/org.dspace/dspace-rdf@7.1.1
 - pkg:maven/org.dspace/dspace-rdf@7.1.1?classifier=sources
 - pkg:maven/org.dspace/dspace-rdf@7.1?classifier=sources
+- pkg:maven/org.dspace/dspace-rdf@7.2
+- pkg:maven/org.dspace/dspace-rdf@7.2?classifier=sources

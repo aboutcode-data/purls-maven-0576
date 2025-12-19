@@ -2,3 +2,4 @@
 - pkg:maven/io.objectbox/objectbox-sync-macos@3.0.0?classifier=sources
 - pkg:maven/io.objectbox/objectbox-sync-macos@3.0.1?classifier=sources
 - pkg:maven/io.objectbox/objectbox-sync-macos@3.1.0?classifier=sources
+- pkg:maven/io.objectbox/objectbox-sync-macos@3.1.1?classifier=sources

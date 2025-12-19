@@ -271,6 +271,8 @@
 - pkg:maven/com.vaadin/vaadin-client-compiler@7.7.29?classifier=sources
 - pkg:maven/com.vaadin/vaadin-client-compiler@7.7.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-client-compiler@7.7.3
+- pkg:maven/com.vaadin/vaadin-client-compiler@7.7.30
+- pkg:maven/com.vaadin/vaadin-client-compiler@7.7.30?classifier=sources
 - pkg:maven/com.vaadin/vaadin-client-compiler@7.7.3?classifier=sources
 - pkg:maven/com.vaadin/vaadin-client-compiler@7.7.4
 - pkg:maven/com.vaadin/vaadin-client-compiler@7.7.4?classifier=sources

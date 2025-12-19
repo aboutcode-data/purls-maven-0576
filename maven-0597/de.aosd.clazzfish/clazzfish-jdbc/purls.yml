@@ -2,3 +2,5 @@
 - pkg:maven/de.aosd.clazzfish/clazzfish-jdbc@0.9?classifier=sources
 - pkg:maven/de.aosd.clazzfish/clazzfish-jdbc@1.0
 - pkg:maven/de.aosd.clazzfish/clazzfish-jdbc@1.0?classifier=sources
+- pkg:maven/de.aosd.clazzfish/clazzfish-jdbc@1.1
+- pkg:maven/de.aosd.clazzfish/clazzfish-jdbc@1.1?classifier=sources
