@@ -2,3 +2,7 @@
 - pkg:maven/net.scalax.djx314/sbt-depts-djx314_2.12_1.0@0.0.1-M719?classifier=sources
 - pkg:maven/net.scalax.djx314/sbt-depts-djx314_2.12_1.0@0.0.1-M724
 - pkg:maven/net.scalax.djx314/sbt-depts-djx314_2.12_1.0@0.0.1-M724?classifier=sources
+- pkg:maven/net.scalax.djx314/sbt-depts-djx314_2.12_1.0@0.0.1-M726
+- pkg:maven/net.scalax.djx314/sbt-depts-djx314_2.12_1.0@0.0.1-M726?classifier=sources
+- pkg:maven/net.scalax.djx314/sbt-depts-djx314_2.12_1.0@0.0.1-M728
+- pkg:maven/net.scalax.djx314/sbt-depts-djx314_2.12_1.0@0.0.1-M728?classifier=sources

@@ -6,3 +6,4 @@
 - pkg:maven/io.github.rburgst/okhttp-digest@2.7?classifier=sources
 - pkg:maven/io.github.rburgst/okhttp-digest@3.0.1?classifier=sources
 - pkg:maven/io.github.rburgst/okhttp-digest@3.0?classifier=sources
+- pkg:maven/io.github.rburgst/okhttp-digest@3.1.0?classifier=sources

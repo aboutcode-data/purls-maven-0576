@@ -1,0 +1,2 @@
+- pkg:maven/com.netease.nim/camellia-hot-key-config-etcd@1.2.13
+- pkg:maven/com.netease.nim/camellia-hot-key-config-etcd@1.2.13?classifier=sources

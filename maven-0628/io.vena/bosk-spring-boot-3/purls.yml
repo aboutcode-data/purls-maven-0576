@@ -1,0 +1,5 @@
+- pkg:maven/io.vena/bosk-spring-boot-3@0.0.92?classifier=sources
+- pkg:maven/io.vena/bosk-spring-boot-3@0.0.93?classifier=sources
+- pkg:maven/io.vena/bosk-spring-boot-3@0.0.94?classifier=sources
+- pkg:maven/io.vena/bosk-spring-boot-3@0.0.95?classifier=sources
+- pkg:maven/io.vena/bosk-spring-boot-3@0.0.96?classifier=sources

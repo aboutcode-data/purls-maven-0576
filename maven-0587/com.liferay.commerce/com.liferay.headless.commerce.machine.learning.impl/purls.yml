@@ -61,6 +61,11 @@
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.impl@2.0.47
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.impl@2.0.47?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.impl@2.0.47?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.impl@2.0.48
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.impl@2.0.48?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.impl@2.0.48?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.impl@2.0.49
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.impl@2.0.49?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.impl@3.0.10
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.impl@3.0.10?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.impl@3.0.10?classifier=sources-commercial
@@ -107,6 +112,11 @@
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.impl@3.0.24
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.impl@3.0.24?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.impl@3.0.24?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.impl@3.0.25
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.impl@3.0.25?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.impl@3.0.25?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.impl@3.0.26
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.impl@3.0.26?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.impl@3.0.2?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.impl@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.impl@3.0.3
@@ -220,6 +230,11 @@
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.impl@4.0.39
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.impl@4.0.39?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.impl@4.0.39?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.impl@4.0.40
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.impl@4.0.40?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.impl@4.0.40?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.impl@4.0.41
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.impl@4.0.41?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.impl@4.0.8
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.impl@4.0.8?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.impl@4.0.8?classifier=sources-commercial
@@ -386,6 +401,11 @@
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.impl@5.0.57
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.impl@5.0.57?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.impl@5.0.57?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.impl@5.0.58
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.impl@5.0.58?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.impl@5.0.58?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.impl@5.0.59
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.impl@5.0.59?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.impl@5.0.5?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.impl@5.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.machine.learning.impl@5.0.6

@@ -1,0 +1,4 @@
+- pkg:maven/us.ihmc/jfoenix-demo@17-0.0.0?classifier=sources
+- pkg:maven/us.ihmc/jfoenix-demo@17-0.0.1?classifier=sources
+- pkg:maven/us.ihmc/jfoenix-demo@17-0.1.0?classifier=sources
+- pkg:maven/us.ihmc/jfoenix-demo@17-0.1.1?classifier=sources

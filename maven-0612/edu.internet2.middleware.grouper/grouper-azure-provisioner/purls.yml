@@ -180,3 +180,7 @@
 - pkg:maven/edu.internet2.middleware.grouper/grouper-azure-provisioner@4.3.2?classifier=sources
 - pkg:maven/edu.internet2.middleware.grouper/grouper-azure-provisioner@4.4.0
 - pkg:maven/edu.internet2.middleware.grouper/grouper-azure-provisioner@4.4.0?classifier=sources
+- pkg:maven/edu.internet2.middleware.grouper/grouper-azure-provisioner@4.5.0
+- pkg:maven/edu.internet2.middleware.grouper/grouper-azure-provisioner@4.5.0?classifier=sources
+- pkg:maven/edu.internet2.middleware.grouper/grouper-azure-provisioner@4.5.2
+- pkg:maven/edu.internet2.middleware.grouper/grouper-azure-provisioner@4.5.2?classifier=sources

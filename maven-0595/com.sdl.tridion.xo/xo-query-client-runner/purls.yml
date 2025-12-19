@@ -28,3 +28,5 @@
 - pkg:maven/com.sdl.tridion.xo/xo-query-client-runner@11.5.0-1173?classifier=sources
 - pkg:maven/com.sdl.tridion.xo/xo-query-client-runner@11.6.0-1110
 - pkg:maven/com.sdl.tridion.xo/xo-query-client-runner@11.6.0-1110?classifier=sources
+- pkg:maven/com.sdl.tridion.xo/xo-query-client-runner@12.0.0-1216
+- pkg:maven/com.sdl.tridion.xo/xo-query-client-runner@12.0.0-1216?classifier=sources

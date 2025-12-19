@@ -19,3 +19,4 @@
 - pkg:maven/org.apache.nifi/nifi-kafka-2-6-nar@1.20.0?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-kafka-2-6-nar@1.21.0?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-kafka-2-6-nar@1.22.0?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-kafka-2-6-nar@1.23.0?classifier=sources

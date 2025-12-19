@@ -54,3 +54,7 @@
 - pkg:maven/me.legrange.services/service-mapdb@3.9.0?classifier=sources
 - pkg:maven/me.legrange.services/service-mapdb@4.0.0
 - pkg:maven/me.legrange.services/service-mapdb@4.0.0?classifier=sources
+- pkg:maven/me.legrange.services/service-mapdb@4.1.0
+- pkg:maven/me.legrange.services/service-mapdb@4.1.0?classifier=sources
+- pkg:maven/me.legrange.services/service-mapdb@4.2.0
+- pkg:maven/me.legrange.services/service-mapdb@4.2.0?classifier=sources

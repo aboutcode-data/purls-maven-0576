@@ -2,6 +2,7 @@
 - pkg:maven/me.proton.core/report-test@10.2.0?classifier=sources
 - pkg:maven/me.proton.core/report-test@10.2.1?classifier=sources
 - pkg:maven/me.proton.core/report-test@10.3.0?classifier=sources
+- pkg:maven/me.proton.core/report-test@10.3.1?classifier=sources
 - pkg:maven/me.proton.core/report-test@10.4.0?classifier=sources
 - pkg:maven/me.proton.core/report-test@10.5.0?classifier=sources
 - pkg:maven/me.proton.core/report-test@10.6.0?classifier=sources
@@ -9,3 +10,7 @@
 - pkg:maven/me.proton.core/report-test@10.7.1?classifier=sources
 - pkg:maven/me.proton.core/report-test@11.0.0?classifier=sources
 - pkg:maven/me.proton.core/report-test@12.0.0?classifier=sources
+- pkg:maven/me.proton.core/report-test@13.0.0?classifier=sources
+- pkg:maven/me.proton.core/report-test@13.0.1?classifier=sources
+- pkg:maven/me.proton.core/report-test@14.0.0?classifier=sources
+- pkg:maven/me.proton.core/report-test@14.0.1?classifier=sources

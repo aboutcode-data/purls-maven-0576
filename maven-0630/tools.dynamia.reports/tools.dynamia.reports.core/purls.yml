@@ -6,3 +6,5 @@
 - pkg:maven/tools.dynamia.reports/tools.dynamia.reports.core@1.4.0?classifier=sources
 - pkg:maven/tools.dynamia.reports/tools.dynamia.reports.core@2.0.0
 - pkg:maven/tools.dynamia.reports/tools.dynamia.reports.core@2.0.0?classifier=sources
+- pkg:maven/tools.dynamia.reports/tools.dynamia.reports.core@2.1.0
+- pkg:maven/tools.dynamia.reports/tools.dynamia.reports.core@2.1.0?classifier=sources

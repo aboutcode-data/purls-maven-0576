@@ -20,3 +20,5 @@
 - pkg:maven/de.idealo.spring/spring-cloud-stream-binder-sns@1.5.0?classifier=sources
 - pkg:maven/de.idealo.spring/spring-cloud-stream-binder-sns@2.0.0
 - pkg:maven/de.idealo.spring/spring-cloud-stream-binder-sns@2.0.0?classifier=sources
+- pkg:maven/de.idealo.spring/spring-cloud-stream-binder-sns@2.1.0
+- pkg:maven/de.idealo.spring/spring-cloud-stream-binder-sns@2.1.0?classifier=sources

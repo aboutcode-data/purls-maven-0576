@@ -1,0 +1,2 @@
+- pkg:maven/io.github.julwas797.esaapi/ESA-API-Java@20230731
+- pkg:maven/io.github.julwas797.esaapi/ESA-API-Java@20230731?classifier=sources

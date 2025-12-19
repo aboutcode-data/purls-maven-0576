@@ -111,6 +111,8 @@
 - pkg:maven/org.springframework.data/spring-data-r2dbc@1.5.12?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-r2dbc@1.5.13
 - pkg:maven/org.springframework.data/spring-data-r2dbc@1.5.13?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-r2dbc@1.5.14
+- pkg:maven/org.springframework.data/spring-data-r2dbc@1.5.14?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-r2dbc@1.5.1?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-r2dbc@1.5.2
 - pkg:maven/org.springframework.data/spring-data-r2dbc@1.5.2?classifier=sources
@@ -144,7 +146,11 @@
 - pkg:maven/org.springframework.data/spring-data-r2dbc@3.0.6?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-r2dbc@3.0.7
 - pkg:maven/org.springframework.data/spring-data-r2dbc@3.0.7?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-r2dbc@3.0.8
+- pkg:maven/org.springframework.data/spring-data-r2dbc@3.0.8?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-r2dbc@3.1.0
 - pkg:maven/org.springframework.data/spring-data-r2dbc@3.1.0?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-r2dbc@3.1.1
 - pkg:maven/org.springframework.data/spring-data-r2dbc@3.1.1?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-r2dbc@3.1.2
+- pkg:maven/org.springframework.data/spring-data-r2dbc@3.1.2?classifier=sources

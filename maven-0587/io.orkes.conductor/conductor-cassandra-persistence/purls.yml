@@ -11,6 +11,10 @@
 - pkg:maven/io.orkes.conductor/conductor-cassandra-persistence@3.9.10-orkes?classifier=sources
 - pkg:maven/io.orkes.conductor/conductor-cassandra-persistence@3.9.11-orkes?classifier=sources
 - pkg:maven/io.orkes.conductor/conductor-cassandra-persistence@3.9.12-orkes?classifier=sources
+- pkg:maven/io.orkes.conductor/conductor-cassandra-persistence@3.9.13-orkes?classifier=sources
+- pkg:maven/io.orkes.conductor/conductor-cassandra-persistence@3.9.15-orkes?classifier=sources
+- pkg:maven/io.orkes.conductor/conductor-cassandra-persistence@3.9.16-orkes?classifier=sources
+- pkg:maven/io.orkes.conductor/conductor-cassandra-persistence@3.9.17-orkes?classifier=sources
 - pkg:maven/io.orkes.conductor/conductor-cassandra-persistence@3.9.2-orkes?classifier=sources
 - pkg:maven/io.orkes.conductor/conductor-cassandra-persistence@3.9.3-orkes?classifier=sources
 - pkg:maven/io.orkes.conductor/conductor-cassandra-persistence@3.9.4-orkes?classifier=sources

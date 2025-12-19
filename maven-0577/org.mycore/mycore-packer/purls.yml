@@ -1,0 +1,2 @@
+- pkg:maven/org.mycore/mycore-packer@2023.05
+- pkg:maven/org.mycore/mycore-packer@2023.05?classifier=sources

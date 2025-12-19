@@ -1,1 +1,2 @@
 - pkg:maven/de.spraener.nxtgen/cgv19-oom@23.0.0?classifier=sources
+- pkg:maven/de.spraener.nxtgen/cgv19-oom@23.1.0?classifier=sources

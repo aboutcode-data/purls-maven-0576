@@ -1,0 +1,2 @@
+- pkg:maven/com.autonomousapps/gradle-script-grammar@0.1?classifier=sources
+- pkg:maven/com.autonomousapps/gradle-script-grammar@0.2?classifier=sources

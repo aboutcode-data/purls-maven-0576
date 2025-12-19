@@ -8,3 +8,6 @@
 - pkg:maven/org.jetbrains.kotlinx/kandy-echarts@0.4.2-dev-21?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kandy-echarts@0.4.2?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kandy-echarts@0.4.3?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kandy-echarts@0.4.4-dev-22?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kandy-echarts@0.4.4?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kandy-echarts@0.4.5-dev-23?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/openapi-explorer@0.10.434
 - pkg:maven/org.webjars.npm/openapi-explorer@0.10.434?classifier=sources
+- pkg:maven/org.webjars.npm/openapi-explorer@1.0.571
+- pkg:maven/org.webjars.npm/openapi-explorer@1.0.571?classifier=sources

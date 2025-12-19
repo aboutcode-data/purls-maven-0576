@@ -4,3 +4,5 @@
 - pkg:maven/io.newm/com.google.iot.cbor@0.01.03-NEWM?classifier=sources
 - pkg:maven/io.newm/com.google.iot.cbor@0.01.04-NEWM
 - pkg:maven/io.newm/com.google.iot.cbor@0.01.04-NEWM?classifier=sources
+- pkg:maven/io.newm/com.google.iot.cbor@0.01.05-NEWM
+- pkg:maven/io.newm/com.google.iot.cbor@0.01.05-NEWM?classifier=sources

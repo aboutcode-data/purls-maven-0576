@@ -6,3 +6,5 @@
 - pkg:maven/so.dang.cool/singleton@3?classifier=sources
 - pkg:maven/so.dang.cool/singleton@4
 - pkg:maven/so.dang.cool/singleton@4?classifier=sources
+- pkg:maven/so.dang.cool/singleton@5
+- pkg:maven/so.dang.cool/singleton@5?classifier=sources

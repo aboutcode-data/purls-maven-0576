@@ -1,0 +1,2 @@
+- pkg:maven/net.runeduniverse.tools.maven.r4m/r4m-maven-extension@1.0.0
+- pkg:maven/net.runeduniverse.tools.maven.r4m/r4m-maven-extension@1.0.0?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/io.hyte.stompjms/stompjms-client@1.20
+- pkg:maven/io.hyte.stompjms/stompjms-client@1.20?classifier=sources
+- pkg:maven/io.hyte.stompjms/stompjms-client@1.26
+- pkg:maven/io.hyte.stompjms/stompjms-client@1.26?classifier=sources
+- pkg:maven/io.hyte.stompjms/stompjms-client@1.27
+- pkg:maven/io.hyte.stompjms/stompjms-client@1.27?classifier=sources
+- pkg:maven/io.hyte.stompjms/stompjms-client@2.0.0
+- pkg:maven/io.hyte.stompjms/stompjms-client@2.0.0?classifier=sources
+- pkg:maven/io.hyte.stompjms/stompjms-client@3.1.0
+- pkg:maven/io.hyte.stompjms/stompjms-client@3.1.0?classifier=sources

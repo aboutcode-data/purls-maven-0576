@@ -1,2 +1,4 @@
 - pkg:maven/com.itenebris/kinedb-jdbc@3.20.0
 - pkg:maven/com.itenebris/kinedb-jdbc@3.20.0?classifier=sources
+- pkg:maven/com.itenebris/kinedb-jdbc@3.30.0
+- pkg:maven/com.itenebris/kinedb-jdbc@3.30.0?classifier=sources

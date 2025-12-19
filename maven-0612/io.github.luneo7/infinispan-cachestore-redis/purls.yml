@@ -2,3 +2,7 @@
 - pkg:maven/io.github.luneo7/infinispan-cachestore-redis@13.0.8.Final?classifier=sources
 - pkg:maven/io.github.luneo7/infinispan-cachestore-redis@13.0.9.Final
 - pkg:maven/io.github.luneo7/infinispan-cachestore-redis@13.0.9.Final?classifier=sources
+- pkg:maven/io.github.luneo7/infinispan-cachestore-redis@14.0.10.Final
+- pkg:maven/io.github.luneo7/infinispan-cachestore-redis@14.0.10.Final?classifier=sources
+- pkg:maven/io.github.luneo7/infinispan-cachestore-redis@14.0.9.Final
+- pkg:maven/io.github.luneo7/infinispan-cachestore-redis@14.0.9.Final?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/cn.ucloud/ucloud-sdk-java-usnap@1.2.15-release
+- pkg:maven/cn.ucloud/ucloud-sdk-java-usnap@1.2.15-release?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.bdluck/dustpan-dynamic-example@1.4.2
+- pkg:maven/io.github.bdluck/dustpan-dynamic-example@1.4.2?classifier=sources

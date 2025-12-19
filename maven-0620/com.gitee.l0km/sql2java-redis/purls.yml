@@ -98,6 +98,8 @@
 - pkg:maven/com.gitee.l0km/sql2java-redis@3.25.0?classifier=sources
 - pkg:maven/com.gitee.l0km/sql2java-redis@3.25.2
 - pkg:maven/com.gitee.l0km/sql2java-redis@3.25.2?classifier=sources
+- pkg:maven/com.gitee.l0km/sql2java-redis@3.25.3
+- pkg:maven/com.gitee.l0km/sql2java-redis@3.25.3?classifier=sources
 - pkg:maven/com.gitee.l0km/sql2java-redis@4.0.0
 - pkg:maven/com.gitee.l0km/sql2java-redis@4.0.0?classifier=sources
 - pkg:maven/com.gitee.l0km/sql2java-redis@4.1.0

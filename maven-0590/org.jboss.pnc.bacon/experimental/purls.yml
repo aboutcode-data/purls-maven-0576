@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.pnc.bacon/experimental@2.5.0
+- pkg:maven/org.jboss.pnc.bacon/experimental@2.5.0?classifier=sources

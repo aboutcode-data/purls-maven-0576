@@ -42,3 +42,7 @@
 - pkg:maven/org.alluxio/alluxio-underfs-obs@295?classifier=sources
 - pkg:maven/org.alluxio/alluxio-underfs-obs@300
 - pkg:maven/org.alluxio/alluxio-underfs-obs@300?classifier=sources
+- pkg:maven/org.alluxio/alluxio-underfs-obs@301
+- pkg:maven/org.alluxio/alluxio-underfs-obs@301?classifier=sources
+- pkg:maven/org.alluxio/alluxio-underfs-obs@302
+- pkg:maven/org.alluxio/alluxio-underfs-obs@302?classifier=sources

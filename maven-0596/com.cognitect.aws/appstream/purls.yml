@@ -40,3 +40,5 @@
 - pkg:maven/com.cognitect.aws/appstream@825.2.1250.0?classifier=sources
 - pkg:maven/com.cognitect.aws/appstream@847.2.1365.0
 - pkg:maven/com.cognitect.aws/appstream@847.2.1365.0?classifier=sources
+- pkg:maven/com.cognitect.aws/appstream@848.2.1413.0
+- pkg:maven/com.cognitect.aws/appstream@848.2.1413.0?classifier=sources

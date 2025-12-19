@@ -6,3 +6,7 @@
 - pkg:maven/com.alibaba.ververica/ververica-connector-kafka@1.13-vvr-4.0.7?classifier=sources
 - pkg:maven/com.alibaba.ververica/ververica-connector-kafka@1.15-vvr-6.0.2-3
 - pkg:maven/com.alibaba.ververica/ververica-connector-kafka@1.15-vvr-6.0.2-3?classifier=sources
+- pkg:maven/com.alibaba.ververica/ververica-connector-kafka@1.15-vvr-6.0.7
+- pkg:maven/com.alibaba.ververica/ververica-connector-kafka@1.15-vvr-6.0.7-1
+- pkg:maven/com.alibaba.ververica/ververica-connector-kafka@1.15-vvr-6.0.7-1?classifier=sources
+- pkg:maven/com.alibaba.ververica/ververica-connector-kafka@1.15-vvr-6.0.7?classifier=sources

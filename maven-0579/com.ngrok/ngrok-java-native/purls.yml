@@ -24,3 +24,5 @@
 - pkg:maven/com.ngrok/ngrok-java-native@0.0.65?classifier=sources
 - pkg:maven/com.ngrok/ngrok-java-native@0.1.0
 - pkg:maven/com.ngrok/ngrok-java-native@0.1.0?classifier=sources
+- pkg:maven/com.ngrok/ngrok-java-native@0.2.1
+- pkg:maven/com.ngrok/ngrok-java-native@0.2.1?classifier=sources

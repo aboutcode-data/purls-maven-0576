@@ -159,6 +159,9 @@
 - pkg:maven/com.liferay/com.liferay.password.policies.admin.web@1.0.61
 - pkg:maven/com.liferay/com.liferay.password.policies.admin.web@1.0.61?classifier=sources
 - pkg:maven/com.liferay/com.liferay.password.policies.admin.web@1.0.61?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.password.policies.admin.web@1.0.62
+- pkg:maven/com.liferay/com.liferay.password.policies.admin.web@1.0.62?classifier=sources
+- pkg:maven/com.liferay/com.liferay.password.policies.admin.web@1.0.62?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.password.policies.admin.web@1.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.password.policies.admin.web@1.0.7
 - pkg:maven/com.liferay/com.liferay.password.policies.admin.web@1.0.7?classifier=sources
@@ -281,6 +284,11 @@
 - pkg:maven/com.liferay/com.liferay.password.policies.admin.web@2.0.43
 - pkg:maven/com.liferay/com.liferay.password.policies.admin.web@2.0.43?classifier=sources
 - pkg:maven/com.liferay/com.liferay.password.policies.admin.web@2.0.43?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.password.policies.admin.web@2.0.44
+- pkg:maven/com.liferay/com.liferay.password.policies.admin.web@2.0.44?classifier=sources
+- pkg:maven/com.liferay/com.liferay.password.policies.admin.web@2.0.44?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.password.policies.admin.web@2.0.45
+- pkg:maven/com.liferay/com.liferay.password.policies.admin.web@2.0.45?classifier=sources
 - pkg:maven/com.liferay/com.liferay.password.policies.admin.web@2.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.password.policies.admin.web@2.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.password.policies.admin.web@2.0.5
@@ -419,6 +427,11 @@
 - pkg:maven/com.liferay/com.liferay.password.policies.admin.web@3.0.45
 - pkg:maven/com.liferay/com.liferay.password.policies.admin.web@3.0.45?classifier=sources
 - pkg:maven/com.liferay/com.liferay.password.policies.admin.web@3.0.45?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.password.policies.admin.web@3.0.46
+- pkg:maven/com.liferay/com.liferay.password.policies.admin.web@3.0.46?classifier=sources
+- pkg:maven/com.liferay/com.liferay.password.policies.admin.web@3.0.46?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.password.policies.admin.web@3.0.47
+- pkg:maven/com.liferay/com.liferay.password.policies.admin.web@3.0.47?classifier=sources
 - pkg:maven/com.liferay/com.liferay.password.policies.admin.web@3.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.password.policies.admin.web@3.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.password.policies.admin.web@3.0.5
@@ -533,6 +546,8 @@
 - pkg:maven/com.liferay/com.liferay.password.policies.admin.web@4.0.38
 - pkg:maven/com.liferay/com.liferay.password.policies.admin.web@4.0.38?classifier=sources
 - pkg:maven/com.liferay/com.liferay.password.policies.admin.web@4.0.38?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.password.policies.admin.web@4.0.39
+- pkg:maven/com.liferay/com.liferay.password.policies.admin.web@4.0.39?classifier=sources
 - pkg:maven/com.liferay/com.liferay.password.policies.admin.web@4.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.password.policies.admin.web@4.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.password.policies.admin.web@4.0.4
@@ -683,6 +698,8 @@
 - pkg:maven/com.liferay/com.liferay.password.policies.admin.web@5.0.48
 - pkg:maven/com.liferay/com.liferay.password.policies.admin.web@5.0.48?classifier=sources
 - pkg:maven/com.liferay/com.liferay.password.policies.admin.web@5.0.48?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.password.policies.admin.web@5.0.49
+- pkg:maven/com.liferay/com.liferay.password.policies.admin.web@5.0.49?classifier=sources
 - pkg:maven/com.liferay/com.liferay.password.policies.admin.web@5.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.password.policies.admin.web@5.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.password.policies.admin.web@5.0.5

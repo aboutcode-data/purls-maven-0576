@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.struts/struts2-xslt-plugin@6.2.0
+- pkg:maven/org.apache.struts/struts2-xslt-plugin@6.2.0?classifier=sources

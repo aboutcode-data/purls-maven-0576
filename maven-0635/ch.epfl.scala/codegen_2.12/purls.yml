@@ -1,0 +1,4 @@
+- pkg:maven/ch.epfl.scala/codegen_2.12@2.1.0-M6-alpha
+- pkg:maven/ch.epfl.scala/codegen_2.12@2.1.0-M6-alpha?classifier=sources
+- pkg:maven/ch.epfl.scala/codegen_2.12@2.1.0-M6.alpha
+- pkg:maven/ch.epfl.scala/codegen_2.12@2.1.0-M6.alpha?classifier=sources

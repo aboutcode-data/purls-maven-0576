@@ -1,0 +1,6 @@
+- pkg:maven/io.github.isa-group/pricingplans-4j@1.0.0
+- pkg:maven/io.github.isa-group/pricingplans-4j@1.0.0?classifier=sources
+- pkg:maven/io.github.isa-group/pricingplans-4j@1.1.0
+- pkg:maven/io.github.isa-group/pricingplans-4j@1.1.0?classifier=sources
+- pkg:maven/io.github.isa-group/pricingplans-4j@2.0.0
+- pkg:maven/io.github.isa-group/pricingplans-4j@2.0.0?classifier=sources

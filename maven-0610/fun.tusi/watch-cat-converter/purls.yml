@@ -1,0 +1,4 @@
+- pkg:maven/fun.tusi/watch-cat-converter@1.0.0-sb2
+- pkg:maven/fun.tusi/watch-cat-converter@1.0.0-sb2?classifier=sources
+- pkg:maven/fun.tusi/watch-cat-converter@1.0.0-sb3
+- pkg:maven/fun.tusi/watch-cat-converter@1.0.0-sb3?classifier=sources

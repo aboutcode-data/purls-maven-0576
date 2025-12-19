@@ -1,0 +1,2 @@
+- pkg:maven/io.github.openfeign/feign-soap-jakarta@12.4
+- pkg:maven/io.github.openfeign/feign-soap-jakarta@12.4?classifier=sources

@@ -22,3 +22,5 @@
 - pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.2?classifier=sources
 - pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.3
 - pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.3?classifier=sources
+- pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.8
+- pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.8?classifier=sources

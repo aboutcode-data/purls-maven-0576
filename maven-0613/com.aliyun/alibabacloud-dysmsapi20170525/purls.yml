@@ -6,3 +6,5 @@
 - pkg:maven/com.aliyun/alibabacloud-dysmsapi20170525@2.0.22?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-dysmsapi20170525@2.0.23
 - pkg:maven/com.aliyun/alibabacloud-dysmsapi20170525@2.0.23?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-dysmsapi20170525@2.0.24
+- pkg:maven/com.aliyun/alibabacloud-dysmsapi20170525@2.0.24?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/de.elomagic/xmltools@1.0.3
+- pkg:maven/de.elomagic/xmltools@1.0.3?classifier=sources
+- pkg:maven/de.elomagic/xmltools@1.1.0
+- pkg:maven/de.elomagic/xmltools@1.1.0?classifier=sources
+- pkg:maven/de.elomagic/xmltools@1.2.0
+- pkg:maven/de.elomagic/xmltools@1.2.0?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/io.github.jam01/sjsonnet_2.13@0.4.3-02?classifier=sources
 - pkg:maven/io.github.jam01/sjsonnet_2.13@0.4.3-03
 - pkg:maven/io.github.jam01/sjsonnet_2.13@0.4.3-03?classifier=sources
+- pkg:maven/io.github.jam01/sjsonnet_2.13@0.4.5-03
+- pkg:maven/io.github.jam01/sjsonnet_2.13@0.4.5-03?classifier=sources

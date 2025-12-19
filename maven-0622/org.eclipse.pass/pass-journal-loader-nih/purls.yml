@@ -4,3 +4,5 @@
 - pkg:maven/org.eclipse.pass/pass-journal-loader-nih@0.6.0?classifier=sources
 - pkg:maven/org.eclipse.pass/pass-journal-loader-nih@0.7.0
 - pkg:maven/org.eclipse.pass/pass-journal-loader-nih@0.7.0?classifier=sources
+- pkg:maven/org.eclipse.pass/pass-journal-loader-nih@0.8.0
+- pkg:maven/org.eclipse.pass/pass-journal-loader-nih@0.8.0?classifier=sources

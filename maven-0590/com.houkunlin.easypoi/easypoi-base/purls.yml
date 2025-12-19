@@ -1,0 +1,2 @@
+- pkg:maven/com.houkunlin.easypoi/easypoi-base@5.0.1
+- pkg:maven/com.houkunlin.easypoi/easypoi-base@5.0.1?classifier=sources

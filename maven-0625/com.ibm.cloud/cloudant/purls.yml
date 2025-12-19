@@ -70,3 +70,5 @@
 - pkg:maven/com.ibm.cloud/cloudant@0.5.2?classifier=sources
 - pkg:maven/com.ibm.cloud/cloudant@0.5.3
 - pkg:maven/com.ibm.cloud/cloudant@0.5.3?classifier=sources
+- pkg:maven/com.ibm.cloud/cloudant@0.5.4
+- pkg:maven/com.ibm.cloud/cloudant@0.5.4?classifier=sources

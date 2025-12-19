@@ -1,0 +1,8 @@
+- pkg:maven/systems.manifold/manifold-sql@2023.1.11
+- pkg:maven/systems.manifold/manifold-sql@2023.1.11?classifier=sources
+- pkg:maven/systems.manifold/manifold-sql@2023.1.12
+- pkg:maven/systems.manifold/manifold-sql@2023.1.12?classifier=sources
+- pkg:maven/systems.manifold/manifold-sql@2023.1.13
+- pkg:maven/systems.manifold/manifold-sql@2023.1.13?classifier=sources
+- pkg:maven/systems.manifold/manifold-sql@2023.1.14
+- pkg:maven/systems.manifold/manifold-sql@2023.1.14?classifier=sources

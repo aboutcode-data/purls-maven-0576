@@ -135,6 +135,11 @@
 - pkg:maven/com.liferay/com.liferay.flags.taglib@3.2.15
 - pkg:maven/com.liferay/com.liferay.flags.taglib@3.2.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.flags.taglib@3.2.15?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.flags.taglib@3.2.16
+- pkg:maven/com.liferay/com.liferay.flags.taglib@3.2.16?classifier=sources
+- pkg:maven/com.liferay/com.liferay.flags.taglib@3.2.16?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.flags.taglib@3.2.17
+- pkg:maven/com.liferay/com.liferay.flags.taglib@3.2.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.flags.taglib@3.2.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.flags.taglib@3.2.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.flags.taglib@3.2.2
@@ -330,6 +335,11 @@
 - pkg:maven/com.liferay/com.liferay.flags.taglib@4.2.36
 - pkg:maven/com.liferay/com.liferay.flags.taglib@4.2.36?classifier=sources
 - pkg:maven/com.liferay/com.liferay.flags.taglib@4.2.36?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.flags.taglib@4.2.37
+- pkg:maven/com.liferay/com.liferay.flags.taglib@4.2.37?classifier=sources
+- pkg:maven/com.liferay/com.liferay.flags.taglib@4.2.37?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.flags.taglib@4.2.38
+- pkg:maven/com.liferay/com.liferay.flags.taglib@4.2.38?classifier=sources
 - pkg:maven/com.liferay/com.liferay.flags.taglib@4.2.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.flags.taglib@4.2.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.flags.taglib@4.2.4
@@ -474,6 +484,8 @@
 - pkg:maven/com.liferay/com.liferay.flags.taglib@5.0.46
 - pkg:maven/com.liferay/com.liferay.flags.taglib@5.0.46?classifier=sources
 - pkg:maven/com.liferay/com.liferay.flags.taglib@5.0.46?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.flags.taglib@5.0.47
+- pkg:maven/com.liferay/com.liferay.flags.taglib@5.0.47?classifier=sources
 - pkg:maven/com.liferay/com.liferay.flags.taglib@5.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.flags.taglib@5.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.flags.taglib@5.0.5
@@ -586,3 +598,5 @@
 - pkg:maven/com.liferay/com.liferay.flags.taglib@6.1.7
 - pkg:maven/com.liferay/com.liferay.flags.taglib@6.1.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.flags.taglib@6.1.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.flags.taglib@6.1.8
+- pkg:maven/com.liferay/com.liferay.flags.taglib@6.1.8?classifier=sources

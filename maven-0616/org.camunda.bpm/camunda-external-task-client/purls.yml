@@ -106,3 +106,7 @@
 - pkg:maven/org.camunda.bpm/camunda-external-task-client@7.20.0-alpha1?classifier=sources
 - pkg:maven/org.camunda.bpm/camunda-external-task-client@7.20.0-alpha2
 - pkg:maven/org.camunda.bpm/camunda-external-task-client@7.20.0-alpha2?classifier=sources
+- pkg:maven/org.camunda.bpm/camunda-external-task-client@7.20.0-alpha3
+- pkg:maven/org.camunda.bpm/camunda-external-task-client@7.20.0-alpha3?classifier=sources
+- pkg:maven/org.camunda.bpm/camunda-external-task-client@7.20.0-alpha4
+- pkg:maven/org.camunda.bpm/camunda-external-task-client@7.20.0-alpha4?classifier=sources

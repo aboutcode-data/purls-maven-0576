@@ -1,0 +1,2 @@
+- pkg:maven/com.github.tharwaninitin/etlflow-ftp_3@1.7.3
+- pkg:maven/com.github.tharwaninitin/etlflow-ftp_3@1.7.3?classifier=sources

@@ -46,3 +46,4 @@
 - pkg:maven/com.applovin.mediation/mytarget-adapter@5.16.4.0?classifier=sources
 - pkg:maven/com.applovin.mediation/mytarget-adapter@5.16.5.0?classifier=sources
 - pkg:maven/com.applovin.mediation/mytarget-adapter@5.17.0.0?classifier=sources
+- pkg:maven/com.applovin.mediation/mytarget-adapter@5.18.0.0?classifier=sources

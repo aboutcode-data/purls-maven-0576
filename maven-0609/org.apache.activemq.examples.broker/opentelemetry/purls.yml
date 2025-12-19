@@ -10,3 +10,5 @@
 - pkg:maven/org.apache.activemq.examples.broker/opentelemetry@2.28.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.broker/opentelemetry@2.29.0
 - pkg:maven/org.apache.activemq.examples.broker/opentelemetry@2.29.0?classifier=sources
+- pkg:maven/org.apache.activemq.examples.broker/opentelemetry@2.30.0
+- pkg:maven/org.apache.activemq.examples.broker/opentelemetry@2.30.0?classifier=sources

@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/antlr4ts@0.5.0-alpha.4
+- pkg:maven/org.webjars.npm/antlr4ts@0.5.0-alpha.4?classifier=sources
 - pkg:maven/org.webjars.npm/antlr4ts@0.5.0-dev
 - pkg:maven/org.webjars.npm/antlr4ts@0.5.0-dev?classifier=sources

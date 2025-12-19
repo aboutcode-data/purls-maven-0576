@@ -10,6 +10,8 @@
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.web@1.0.29
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.web@1.0.29?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.web@1.0.29?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.web@1.0.30
+- pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.web@1.0.30?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.web@2.0.39
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.web@2.0.39?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.web@2.0.39?classifier=sources-commercial
@@ -73,6 +75,11 @@
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.web@2.0.59
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.web@2.0.59?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.web@2.0.59?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.web@2.0.60
+- pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.web@2.0.60?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.web@2.0.60?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.web@2.0.61
+- pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.web@2.0.61?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.web@3.0.0
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.web@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.web@3.0.0?classifier=sources-commercial
@@ -247,6 +254,14 @@
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.web@3.0.61
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.web@3.0.61?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.web@3.0.61?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.web@3.0.62
+- pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.web@3.0.62?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.web@3.0.62?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.web@3.0.63
+- pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.web@3.0.63?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.web@3.0.63?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.web@3.0.64
+- pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.web@3.0.64?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.web@3.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.web@3.0.6?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.web@3.0.7

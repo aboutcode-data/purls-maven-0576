@@ -10,6 +10,10 @@
 - pkg:maven/com.tectonica/jonix-json@2023-05-onix308
 - pkg:maven/com.tectonica/jonix-json@2023-05-onix308?classifier=sources
 - pkg:maven/com.tectonica/jonix-json@2023-05?classifier=sources
+- pkg:maven/com.tectonica/jonix-json@2023-07
+- pkg:maven/com.tectonica/jonix-json@2023-07-onix308
+- pkg:maven/com.tectonica/jonix-json@2023-07-onix308?classifier=sources
+- pkg:maven/com.tectonica/jonix-json@2023-07?classifier=sources
 - pkg:maven/com.tectonica/jonix-json@8.0.1
 - pkg:maven/com.tectonica/jonix-json@8.0.1?classifier=sources
 - pkg:maven/com.tectonica/jonix-json@9.0

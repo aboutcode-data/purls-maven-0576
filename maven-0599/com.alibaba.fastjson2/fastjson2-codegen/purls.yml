@@ -1,0 +1,2 @@
+- pkg:maven/com.alibaba.fastjson2/fastjson2-codegen@2.0.34?classifier=sources
+- pkg:maven/com.alibaba.fastjson2/fastjson2-codegen@2.0.35?classifier=sources

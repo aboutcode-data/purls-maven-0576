@@ -1,2 +1,4 @@
 - pkg:maven/org.dnal-lang/fieldcopy@0.2.0
 - pkg:maven/org.dnal-lang/fieldcopy@0.2.0?classifier=sources
+- pkg:maven/org.dnal-lang/fieldcopy@0.5.0
+- pkg:maven/org.dnal-lang/fieldcopy@0.5.0?classifier=sources

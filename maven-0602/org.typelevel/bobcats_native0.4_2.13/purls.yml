@@ -1,0 +1,10 @@
+- pkg:maven/org.typelevel/bobcats_native0.4_2.13@0.1-37e2beb
+- pkg:maven/org.typelevel/bobcats_native0.4_2.13@0.1-37e2beb?classifier=sources
+- pkg:maven/org.typelevel/bobcats_native0.4_2.13@0.1-46b80a0
+- pkg:maven/org.typelevel/bobcats_native0.4_2.13@0.1-46b80a0?classifier=sources
+- pkg:maven/org.typelevel/bobcats_native0.4_2.13@0.1-590fee8
+- pkg:maven/org.typelevel/bobcats_native0.4_2.13@0.1-590fee8?classifier=sources
+- pkg:maven/org.typelevel/bobcats_native0.4_2.13@0.1-5990647
+- pkg:maven/org.typelevel/bobcats_native0.4_2.13@0.1-5990647?classifier=sources
+- pkg:maven/org.typelevel/bobcats_native0.4_2.13@0.1-fb6e4ae
+- pkg:maven/org.typelevel/bobcats_native0.4_2.13@0.1-fb6e4ae?classifier=sources

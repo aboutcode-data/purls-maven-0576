@@ -1,0 +1,2 @@
+- pkg:maven/org.key-project/docking-frames-common@1.1.3p1
+- pkg:maven/org.key-project/docking-frames-common@1.1.3p1?classifier=sources

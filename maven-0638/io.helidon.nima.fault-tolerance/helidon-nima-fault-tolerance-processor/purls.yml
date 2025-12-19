@@ -1,0 +1,2 @@
+- pkg:maven/io.helidon.nima.fault-tolerance/helidon-nima-fault-tolerance-processor@4.0.0-M1
+- pkg:maven/io.helidon.nima.fault-tolerance/helidon-nima-fault-tolerance-processor@4.0.0-M1?classifier=sources

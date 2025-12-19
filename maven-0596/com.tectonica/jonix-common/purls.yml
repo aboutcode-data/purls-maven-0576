@@ -10,6 +10,10 @@
 - pkg:maven/com.tectonica/jonix-common@2023-05-onix308
 - pkg:maven/com.tectonica/jonix-common@2023-05-onix308?classifier=sources
 - pkg:maven/com.tectonica/jonix-common@2023-05?classifier=sources
+- pkg:maven/com.tectonica/jonix-common@2023-07
+- pkg:maven/com.tectonica/jonix-common@2023-07-onix308
+- pkg:maven/com.tectonica/jonix-common@2023-07-onix308?classifier=sources
+- pkg:maven/com.tectonica/jonix-common@2023-07?classifier=sources
 - pkg:maven/com.tectonica/jonix-common@3.0
 - pkg:maven/com.tectonica/jonix-common@3.0?classifier=sources
 - pkg:maven/com.tectonica/jonix-common@3.1-rc1

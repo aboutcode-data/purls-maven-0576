@@ -21,3 +21,4 @@
 - pkg:maven/com.anaptecs.jeaf.core/jeaf-core-service-channel-web@1.6.20
 - pkg:maven/com.anaptecs.jeaf.core/jeaf-core-service-channel-web@1.6.20?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.core/jeaf-core-service-channel-web@1.8.0
+- pkg:maven/com.anaptecs.jeaf.core/jeaf-core-service-channel-web@1.8.0?classifier=sources

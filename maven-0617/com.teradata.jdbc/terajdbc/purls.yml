@@ -17,3 +17,5 @@
 - pkg:maven/com.teradata.jdbc/terajdbc@20.00.00.06?classifier=sources
 - pkg:maven/com.teradata.jdbc/terajdbc@20.00.00.10
 - pkg:maven/com.teradata.jdbc/terajdbc@20.00.00.10?classifier=sources
+- pkg:maven/com.teradata.jdbc/terajdbc@20.00.00.11
+- pkg:maven/com.teradata.jdbc/terajdbc@20.00.00.11?classifier=sources

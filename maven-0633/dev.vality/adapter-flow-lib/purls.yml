@@ -72,3 +72,5 @@
 - pkg:maven/dev.vality/adapter-flow-lib@0.1.8?classifier=sources
 - pkg:maven/dev.vality/adapter-flow-lib@0.1.9
 - pkg:maven/dev.vality/adapter-flow-lib@0.1.9?classifier=sources
+- pkg:maven/dev.vality/adapter-flow-lib@0.2.1
+- pkg:maven/dev.vality/adapter-flow-lib@0.2.1?classifier=sources

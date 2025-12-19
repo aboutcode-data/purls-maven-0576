@@ -1,0 +1,8 @@
+- pkg:maven/br.com.competeaqui/pagseguro-api@0.0.1-snapshot
+- pkg:maven/br.com.competeaqui/pagseguro-api@0.0.1-snapshot?classifier=sources
+- pkg:maven/br.com.competeaqui/pagseguro-api@0.0.2-snapshot
+- pkg:maven/br.com.competeaqui/pagseguro-api@0.0.2-snapshot?classifier=sources
+- pkg:maven/br.com.competeaqui/pagseguro-api@0.0.3-snapshot
+- pkg:maven/br.com.competeaqui/pagseguro-api@0.0.3-snapshot?classifier=sources
+- pkg:maven/br.com.competeaqui/pagseguro-api@0.0.4-snapshot
+- pkg:maven/br.com.competeaqui/pagseguro-api@0.0.4-snapshot?classifier=sources

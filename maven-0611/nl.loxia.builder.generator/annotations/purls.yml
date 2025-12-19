@@ -1,0 +1,2 @@
+- pkg:maven/nl.loxia.builder.generator/annotations@0.1.0
+- pkg:maven/nl.loxia.builder.generator/annotations@0.1.0?classifier=sources

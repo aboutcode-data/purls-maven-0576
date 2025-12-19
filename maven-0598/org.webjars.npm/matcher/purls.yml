@@ -2,5 +2,7 @@
 - pkg:maven/org.webjars.npm/matcher@0.1.2?classifier=sources
 - pkg:maven/org.webjars.npm/matcher@1.1.1
 - pkg:maven/org.webjars.npm/matcher@1.1.1?classifier=sources
+- pkg:maven/org.webjars.npm/matcher@2.1.0
+- pkg:maven/org.webjars.npm/matcher@2.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/matcher@3.0.0
 - pkg:maven/org.webjars.npm/matcher@3.0.0?classifier=sources

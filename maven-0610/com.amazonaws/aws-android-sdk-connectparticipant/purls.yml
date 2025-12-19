@@ -168,3 +168,9 @@
 - pkg:maven/com.amazonaws/aws-android-sdk-connectparticipant@2.69.0?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-connectparticipant@2.70.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-connectparticipant@2.70.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-connectparticipant@2.71.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-connectparticipant@2.71.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-connectparticipant@2.72.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-connectparticipant@2.72.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-connectparticipant@2.73.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-connectparticipant@2.73.0?type=aar

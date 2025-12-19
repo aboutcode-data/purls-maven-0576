@@ -2,3 +2,4 @@
 - pkg:maven/com.xebialabs.gradle.plugins/gradle-xl-derby-plugin@10.3.0-819.1113?classifier=sources
 - pkg:maven/com.xebialabs.gradle.plugins/gradle-xl-derby-plugin@10.3.0-820.927?classifier=sources
 - pkg:maven/com.xebialabs.gradle.plugins/gradle-xl-derby-plugin@2.0.0-dev.0%2B54c3541?classifier=sources
+- pkg:maven/com.xebialabs.gradle.plugins/gradle-xl-derby-plugin@2.0.0-dev.2%2B7e46dae?classifier=sources
