@@ -1,3 +1,4 @@
 - pkg:maven/org.apache.streampipes/streampipes-archetype-pe-sources@0.66.0?classifier=sources
 - pkg:maven/org.apache.streampipes/streampipes-archetype-pe-sources@0.67.0?classifier=sources
 - pkg:maven/org.apache.streampipes/streampipes-archetype-pe-sources@0.68.0?classifier=sources
+- pkg:maven/org.apache.streampipes/streampipes-archetype-pe-sources@0.69.0?classifier=sources

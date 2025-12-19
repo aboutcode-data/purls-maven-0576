@@ -1,0 +1,2 @@
+- pkg:maven/de.mobiuscode.nameof/nameof@1.0
+- pkg:maven/de.mobiuscode.nameof/nameof@1.0?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/se.bjurr.gradle/violations-command-line@1.21.1?classifier=sources

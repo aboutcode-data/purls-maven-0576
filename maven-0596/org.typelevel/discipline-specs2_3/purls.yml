@@ -24,3 +24,5 @@
 - pkg:maven/org.typelevel/discipline-specs2_3@2.0-34-8c36a37?classifier=sources
 - pkg:maven/org.typelevel/discipline-specs2_3@2.0-44-19f6d7f
 - pkg:maven/org.typelevel/discipline-specs2_3@2.0-44-19f6d7f?classifier=sources
+- pkg:maven/org.typelevel/discipline-specs2_3@2.0.0
+- pkg:maven/org.typelevel/discipline-specs2_3@2.0.0?classifier=sources

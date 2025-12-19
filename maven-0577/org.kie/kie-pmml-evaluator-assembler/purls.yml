@@ -88,6 +88,12 @@
 - pkg:maven/org.kie/kie-pmml-evaluator-assembler@7.63.0.t20211129?classifier=sources
 - pkg:maven/org.kie/kie-pmml-evaluator-assembler@7.64.0.Final
 - pkg:maven/org.kie/kie-pmml-evaluator-assembler@7.64.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-pmml-evaluator-assembler@7.65.0.Final
+- pkg:maven/org.kie/kie-pmml-evaluator-assembler@7.65.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-pmml-evaluator-assembler@7.66.0.Final
+- pkg:maven/org.kie/kie-pmml-evaluator-assembler@7.66.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-pmml-evaluator-assembler@7.67.0.Final
+- pkg:maven/org.kie/kie-pmml-evaluator-assembler@7.67.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-pmml-evaluator-assembler@8.13.0.Beta
 - pkg:maven/org.kie/kie-pmml-evaluator-assembler@8.13.0.Beta?classifier=sources
 - pkg:maven/org.kie/kie-pmml-evaluator-assembler@8.14.0.Beta
@@ -100,3 +106,9 @@
 - pkg:maven/org.kie/kie-pmml-evaluator-assembler@8.16.0.Beta?classifier=sources
 - pkg:maven/org.kie/kie-pmml-evaluator-assembler@8.16.1.Beta
 - pkg:maven/org.kie/kie-pmml-evaluator-assembler@8.16.1.Beta?classifier=sources
+- pkg:maven/org.kie/kie-pmml-evaluator-assembler@8.17.0.Beta
+- pkg:maven/org.kie/kie-pmml-evaluator-assembler@8.17.0.Beta?classifier=sources
+- pkg:maven/org.kie/kie-pmml-evaluator-assembler@8.18.0.Beta
+- pkg:maven/org.kie/kie-pmml-evaluator-assembler@8.18.0.Beta?classifier=sources
+- pkg:maven/org.kie/kie-pmml-evaluator-assembler@8.19.0.Beta
+- pkg:maven/org.kie/kie-pmml-evaluator-assembler@8.19.0.Beta?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun/dt_oc_info20200401@1.8.0
+- pkg:maven/com.aliyun/dt_oc_info20200401@1.8.0?classifier=sources

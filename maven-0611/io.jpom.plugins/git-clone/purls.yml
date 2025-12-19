@@ -1,0 +1,2 @@
+- pkg:maven/io.jpom.plugins/git-clone@2.8.14
+- pkg:maven/io.jpom.plugins/git-clone@2.8.14?classifier=sources

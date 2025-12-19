@@ -10,3 +10,7 @@
 - pkg:maven/dev.vality/pathfinder-proto@1.17-4b54e48?classifier=sources
 - pkg:maven/dev.vality/pathfinder-proto@1.18-f234e4d
 - pkg:maven/dev.vality/pathfinder-proto@1.18-f234e4d?classifier=sources
+- pkg:maven/dev.vality/pathfinder-proto@1.19-d6717da
+- pkg:maven/dev.vality/pathfinder-proto@1.19-d6717da?classifier=sources
+- pkg:maven/dev.vality/pathfinder-proto@1.20-e6d9e7b
+- pkg:maven/dev.vality/pathfinder-proto@1.20-e6d9e7b?classifier=sources

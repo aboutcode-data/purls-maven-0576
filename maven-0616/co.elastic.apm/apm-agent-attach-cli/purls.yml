@@ -24,3 +24,5 @@
 - pkg:maven/co.elastic.apm/apm-agent-attach-cli@1.28.3?classifier=sources
 - pkg:maven/co.elastic.apm/apm-agent-attach-cli@1.28.4
 - pkg:maven/co.elastic.apm/apm-agent-attach-cli@1.28.4?classifier=sources
+- pkg:maven/co.elastic.apm/apm-agent-attach-cli@1.29.0
+- pkg:maven/co.elastic.apm/apm-agent-attach-cli@1.29.0?classifier=sources

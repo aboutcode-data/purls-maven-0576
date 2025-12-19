@@ -1,2 +1,6 @@
 - pkg:maven/de.fraunhofer.iosb.ilt/ConfigurableExample@0.31
 - pkg:maven/de.fraunhofer.iosb.ilt/ConfigurableExample@0.31?classifier=sources
+- pkg:maven/de.fraunhofer.iosb.ilt/ConfigurableExample@0.32
+- pkg:maven/de.fraunhofer.iosb.ilt/ConfigurableExample@0.32?classifier=sources
+- pkg:maven/de.fraunhofer.iosb.ilt/ConfigurableExample@0.33
+- pkg:maven/de.fraunhofer.iosb.ilt/ConfigurableExample@0.33?classifier=sources

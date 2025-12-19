@@ -4,3 +4,4 @@
 - pkg:maven/com.tappx.sdk.android/omsdk@1.3.23?type=aar
 - pkg:maven/com.tappx.sdk.android/omsdk@1.3.27?type=aar
 - pkg:maven/com.tappx.sdk.android/omsdk@1.3.28?type=aar
+- pkg:maven/com.tappx.sdk.android/omsdk@1.3.30?type=aar

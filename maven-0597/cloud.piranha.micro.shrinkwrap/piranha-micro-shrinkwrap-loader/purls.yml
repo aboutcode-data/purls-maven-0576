@@ -2,3 +2,5 @@
 - pkg:maven/cloud.piranha.micro.shrinkwrap/piranha-micro-shrinkwrap-loader@21.12.0?classifier=sources
 - pkg:maven/cloud.piranha.micro.shrinkwrap/piranha-micro-shrinkwrap-loader@22.1.0
 - pkg:maven/cloud.piranha.micro.shrinkwrap/piranha-micro-shrinkwrap-loader@22.1.0?classifier=sources
+- pkg:maven/cloud.piranha.micro.shrinkwrap/piranha-micro-shrinkwrap-loader@22.2.0
+- pkg:maven/cloud.piranha.micro.shrinkwrap/piranha-micro-shrinkwrap-loader@22.2.0?classifier=sources

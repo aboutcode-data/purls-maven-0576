@@ -156,3 +156,6 @@
 - pkg:maven/com.liferay/com.liferay.layout.set.prototype.impl@6.0.7
 - pkg:maven/com.liferay/com.liferay.layout.set.prototype.impl@6.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.set.prototype.impl@6.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.layout.set.prototype.impl@6.0.8
+- pkg:maven/com.liferay/com.liferay.layout.set.prototype.impl@6.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.set.prototype.impl@6.0.8?classifier=sources-commercial

@@ -6,3 +6,5 @@
 - pkg:maven/com.ibm.cloud/firewall-rules@0.25.0?classifier=sources
 - pkg:maven/com.ibm.cloud/firewall-rules@0.26.0
 - pkg:maven/com.ibm.cloud/firewall-rules@0.26.0?classifier=sources
+- pkg:maven/com.ibm.cloud/firewall-rules@0.27.0
+- pkg:maven/com.ibm.cloud/firewall-rules@0.27.0?classifier=sources

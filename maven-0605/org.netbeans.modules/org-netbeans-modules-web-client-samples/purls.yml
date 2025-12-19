@@ -12,3 +12,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-client-samples@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-client-samples@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-client-samples@RELEASE126?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-client-samples@RELEASE130?classifier=sources

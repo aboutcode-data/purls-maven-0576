@@ -1,2 +1,4 @@
 - pkg:maven/org.grails.plugins/scaffolding@4.0.0
 - pkg:maven/org.grails.plugins/scaffolding@4.0.0?classifier=sources
+- pkg:maven/org.grails.plugins/scaffolding@4.1.0
+- pkg:maven/org.grails.plugins/scaffolding@4.1.0?classifier=sources

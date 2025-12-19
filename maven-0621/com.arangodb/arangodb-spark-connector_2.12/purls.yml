@@ -10,3 +10,5 @@
 - pkg:maven/com.arangodb/arangodb-spark-connector_2.12@1.0.9?classifier=sources
 - pkg:maven/com.arangodb/arangodb-spark-connector_2.12@1.1.0
 - pkg:maven/com.arangodb/arangodb-spark-connector_2.12@1.1.0?classifier=sources
+- pkg:maven/com.arangodb/arangodb-spark-connector_2.12@2.0.0
+- pkg:maven/com.arangodb/arangodb-spark-connector_2.12@2.0.0?classifier=sources

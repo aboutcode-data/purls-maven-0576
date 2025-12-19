@@ -1,3 +1,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-disco@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-disco@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-disco@RELEASE126?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-java-disco@RELEASE130?classifier=sources

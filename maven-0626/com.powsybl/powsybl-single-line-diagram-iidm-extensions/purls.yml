@@ -46,3 +46,5 @@
 - pkg:maven/com.powsybl/powsybl-single-line-diagram-iidm-extensions@2.6.0?classifier=sources
 - pkg:maven/com.powsybl/powsybl-single-line-diagram-iidm-extensions@2.7.0
 - pkg:maven/com.powsybl/powsybl-single-line-diagram-iidm-extensions@2.7.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-single-line-diagram-iidm-extensions@2.8.0
+- pkg:maven/com.powsybl/powsybl-single-line-diagram-iidm-extensions@2.8.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.fvarrui/launch4j@2.5.2
+- pkg:maven/io.github.fvarrui/launch4j@2.5.2?classifier=sources

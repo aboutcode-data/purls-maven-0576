@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bowergithub.highlightjs/cdn-release@11.4.0
+- pkg:maven/org.webjars.bowergithub.highlightjs/cdn-release@11.4.0?classifier=sources

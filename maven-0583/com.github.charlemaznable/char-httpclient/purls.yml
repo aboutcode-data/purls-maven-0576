@@ -1,0 +1,2 @@
+- pkg:maven/com.github.charlemaznable/char-httpclient@0.0.6
+- pkg:maven/com.github.charlemaznable/char-httpclient@0.0.6?classifier=sources

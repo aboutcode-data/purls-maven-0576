@@ -10,3 +10,4 @@
 - pkg:maven/com.javiersc.gradle-plugins/code-coverage@0.1.0-rc.38?classifier=sources
 - pkg:maven/com.javiersc.gradle-plugins/code-coverage@0.1.0-rc.39?classifier=sources
 - pkg:maven/com.javiersc.gradle-plugins/code-coverage@0.1.0-rc.40?classifier=sources
+- pkg:maven/com.javiersc.gradle-plugins/code-coverage@0.1.0-rc.41?classifier=sources

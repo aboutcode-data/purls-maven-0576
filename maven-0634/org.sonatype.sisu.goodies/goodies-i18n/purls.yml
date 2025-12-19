@@ -11,6 +11,8 @@
 - pkg:maven/org.sonatype.sisu.goodies/goodies-i18n@1.13?classifier=sources
 - pkg:maven/org.sonatype.sisu.goodies/goodies-i18n@1.14
 - pkg:maven/org.sonatype.sisu.goodies/goodies-i18n@1.14?classifier=sources
+- pkg:maven/org.sonatype.sisu.goodies/goodies-i18n@1.15
+- pkg:maven/org.sonatype.sisu.goodies/goodies-i18n@1.15?classifier=sources
 - pkg:maven/org.sonatype.sisu.goodies/goodies-i18n@1.1?classifier=sources
 - pkg:maven/org.sonatype.sisu.goodies/goodies-i18n@1.2
 - pkg:maven/org.sonatype.sisu.goodies/goodies-i18n@1.2?classifier=sources

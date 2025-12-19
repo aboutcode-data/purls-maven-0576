@@ -1,1 +1,2 @@
 - pkg:maven/org.netbeans.api/org-netbeans-libs-snakeyaml_engine@RELEASE126?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-snakeyaml_engine@RELEASE130?classifier=sources

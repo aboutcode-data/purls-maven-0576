@@ -1,0 +1,2 @@
+- pkg:maven/ai.konduit.serving/konduit-serving-deeplearning4j-config@0.0.2
+- pkg:maven/ai.konduit.serving/konduit-serving-deeplearning4j-config@0.0.2?classifier=sources

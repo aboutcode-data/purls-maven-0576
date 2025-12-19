@@ -1,0 +1,2 @@
+- pkg:maven/io.github.kierendavies/mill-explicit-deps_mill0.10_2.13@0.1.0
+- pkg:maven/io.github.kierendavies/mill-explicit-deps_mill0.10_2.13@0.1.0?classifier=sources

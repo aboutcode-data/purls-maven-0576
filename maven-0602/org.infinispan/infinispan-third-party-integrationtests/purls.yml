@@ -37,3 +37,7 @@
 - pkg:maven/org.infinispan/infinispan-third-party-integrationtests@13.0.4.Final
 - pkg:maven/org.infinispan/infinispan-third-party-integrationtests@13.0.5.Final
 - pkg:maven/org.infinispan/infinispan-third-party-integrationtests@13.0.6.Final
+- pkg:maven/org.infinispan/infinispan-third-party-integrationtests@13.0.7.Final
+- pkg:maven/org.infinispan/infinispan-third-party-integrationtests@13.0.8.Final
+- pkg:maven/org.infinispan/infinispan-third-party-integrationtests@14.0.0.Dev01
+- pkg:maven/org.infinispan/infinispan-third-party-integrationtests@14.0.0.Dev02

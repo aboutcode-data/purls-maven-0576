@@ -9,6 +9,7 @@
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.doc.user@3.15.1000
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.doc.user@3.15.1100
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.doc.user@3.15.1200
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.doc.user@3.15.1300
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.doc.user@3.15.200
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.doc.user@3.15.300
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.doc.user@3.15.400

@@ -6,3 +6,7 @@
 - pkg:maven/dev.vality/notification-proto@1.16-4291bc6?classifier=sources
 - pkg:maven/dev.vality/notification-proto@1.18-9f6fa9c
 - pkg:maven/dev.vality/notification-proto@1.18-9f6fa9c?classifier=sources
+- pkg:maven/dev.vality/notification-proto@1.19-ce2a61f
+- pkg:maven/dev.vality/notification-proto@1.19-ce2a61f?classifier=sources
+- pkg:maven/dev.vality/notification-proto@1.23-4a90270
+- pkg:maven/dev.vality/notification-proto@1.23-4a90270?classifier=sources

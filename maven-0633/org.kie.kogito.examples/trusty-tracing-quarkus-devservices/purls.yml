@@ -1,0 +1,4 @@
+- pkg:maven/org.kie.kogito.examples/trusty-tracing-quarkus-devservices@1.18.0.Final
+- pkg:maven/org.kie.kogito.examples/trusty-tracing-quarkus-devservices@1.18.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito.examples/trusty-tracing-quarkus-devservices@1.19.0.Final
+- pkg:maven/org.kie.kogito.examples/trusty-tracing-quarkus-devservices@1.19.0.Final?classifier=sources

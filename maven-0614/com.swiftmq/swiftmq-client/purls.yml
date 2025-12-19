@@ -42,3 +42,7 @@
 - pkg:maven/com.swiftmq/swiftmq-client@12.3.6?classifier=sources
 - pkg:maven/com.swiftmq/swiftmq-client@12.3.7
 - pkg:maven/com.swiftmq/swiftmq-client@12.3.7?classifier=sources
+- pkg:maven/com.swiftmq/swiftmq-client@12.3.8
+- pkg:maven/com.swiftmq/swiftmq-client@12.3.8?classifier=sources
+- pkg:maven/com.swiftmq/swiftmq-client@12.3.9
+- pkg:maven/com.swiftmq/swiftmq-client@12.3.9?classifier=sources

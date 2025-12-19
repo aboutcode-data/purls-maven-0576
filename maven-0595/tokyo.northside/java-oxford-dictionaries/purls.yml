@@ -1,3 +1,4 @@
 - pkg:maven/tokyo.northside/java-oxford-dictionaries@0.2.0?classifier=sources
 - pkg:maven/tokyo.northside/java-oxford-dictionaries@0.3.0?classifier=sources
 - pkg:maven/tokyo.northside/java-oxford-dictionaries@0.3.1?classifier=sources
+- pkg:maven/tokyo.northside/java-oxford-dictionaries@0.4.0?classifier=sources

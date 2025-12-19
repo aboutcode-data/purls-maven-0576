@@ -6,3 +6,5 @@
 - pkg:maven/io.github.cdklabs.cdk_cloudformation/mongodb-atlas-databaseuser@1.3.0-alpha.3?classifier=sources
 - pkg:maven/io.github.cdklabs.cdk_cloudformation/mongodb-atlas-databaseuser@1.3.0-alpha.4
 - pkg:maven/io.github.cdklabs.cdk_cloudformation/mongodb-atlas-databaseuser@1.3.0-alpha.4?classifier=sources
+- pkg:maven/io.github.cdklabs.cdk_cloudformation/mongodb-atlas-databaseuser@1.3.0-alpha.5
+- pkg:maven/io.github.cdklabs.cdk_cloudformation/mongodb-atlas-databaseuser@1.3.0-alpha.5?classifier=sources

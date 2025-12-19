@@ -109,6 +109,8 @@
 - pkg:maven/se.bjurr.violations/violations-lib@1.147.2?classifier=sources
 - pkg:maven/se.bjurr.violations/violations-lib@1.147.3?classifier=sources
 - pkg:maven/se.bjurr.violations/violations-lib@1.148.0?classifier=sources
+- pkg:maven/se.bjurr.violations/violations-lib@1.148.2?classifier=sources
+- pkg:maven/se.bjurr.violations/violations-lib@1.148.3?classifier=sources
 - pkg:maven/se.bjurr.violations/violations-lib@1.14?classifier=sources
 - pkg:maven/se.bjurr.violations/violations-lib@1.15
 - pkg:maven/se.bjurr.violations/violations-lib@1.15?classifier=sources

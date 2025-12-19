@@ -1,0 +1,2 @@
+- pkg:maven/com.github.mvv.sager/sager_3@0.2-M1
+- pkg:maven/com.github.mvv.sager/sager_3@0.2-M1?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/com.github.cormoran-io.pepper/pepper-spark_2.12@2.1
+- pkg:maven/com.github.cormoran-io.pepper/pepper-spark_2.12@2.2

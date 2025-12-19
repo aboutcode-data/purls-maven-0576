@@ -1,0 +1,6 @@
+- pkg:maven/org.projectnessie/nessie-quarkus-common@0.22.0
+- pkg:maven/org.projectnessie/nessie-quarkus-common@0.22.0?classifier=sources
+- pkg:maven/org.projectnessie/nessie-quarkus-common@0.23.0
+- pkg:maven/org.projectnessie/nessie-quarkus-common@0.23.0?classifier=sources
+- pkg:maven/org.projectnessie/nessie-quarkus-common@0.23.1
+- pkg:maven/org.projectnessie/nessie-quarkus-common@0.23.1?classifier=sources

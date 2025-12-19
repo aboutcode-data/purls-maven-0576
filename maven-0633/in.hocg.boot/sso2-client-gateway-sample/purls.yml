@@ -36,5 +36,7 @@
 - pkg:maven/in.hocg.boot/sso2-client-gateway-sample@1.0.29?classifier=sources
 - pkg:maven/in.hocg.boot/sso2-client-gateway-sample@1.0.30
 - pkg:maven/in.hocg.boot/sso2-client-gateway-sample@1.0.30?classifier=sources
+- pkg:maven/in.hocg.boot/sso2-client-gateway-sample@1.0.31
+- pkg:maven/in.hocg.boot/sso2-client-gateway-sample@1.0.31?classifier=sources
 - pkg:maven/in.hocg.boot/sso2-client-gateway-sample@1.0.9
 - pkg:maven/in.hocg.boot/sso2-client-gateway-sample@1.0.9?classifier=sources

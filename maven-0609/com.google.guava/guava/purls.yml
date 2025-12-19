@@ -198,6 +198,10 @@
 - pkg:maven/com.google.guava/guava@31.0.1-android?classifier=sources
 - pkg:maven/com.google.guava/guava@31.0.1-jre
 - pkg:maven/com.google.guava/guava@31.0.1-jre?classifier=sources
+- pkg:maven/com.google.guava/guava@31.1-android
+- pkg:maven/com.google.guava/guava@31.1-android?classifier=sources
+- pkg:maven/com.google.guava/guava@31.1-jre
+- pkg:maven/com.google.guava/guava@31.1-jre?classifier=sources
 - pkg:maven/com.google.guava/guava@r03
 - pkg:maven/com.google.guava/guava@r03?classifier=sources
 - pkg:maven/com.google.guava/guava@r05

@@ -12,3 +12,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-annotation@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-annotation@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-annotation@RELEASE126?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-annotation@RELEASE130?classifier=sources

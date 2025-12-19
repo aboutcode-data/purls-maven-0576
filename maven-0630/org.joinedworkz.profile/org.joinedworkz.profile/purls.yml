@@ -1,3 +1,6 @@
 - pkg:maven/org.joinedworkz.profile/org.joinedworkz.profile@1.0.0?classifier=sources
 - pkg:maven/org.joinedworkz.profile/org.joinedworkz.profile@1.2.0?classifier=sources
 - pkg:maven/org.joinedworkz.profile/org.joinedworkz.profile@1.2.2?classifier=sources
+- pkg:maven/org.joinedworkz.profile/org.joinedworkz.profile@1.2.3?classifier=sources
+- pkg:maven/org.joinedworkz.profile/org.joinedworkz.profile@1.2.4?classifier=sources
+- pkg:maven/org.joinedworkz.profile/org.joinedworkz.profile@1.2.5?classifier=sources

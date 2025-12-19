@@ -48,3 +48,13 @@
 - pkg:maven/com.blazebit/blaze-domain-declarative-api@2.0.3?classifier=sources
 - pkg:maven/com.blazebit/blaze-domain-declarative-api@2.0.4
 - pkg:maven/com.blazebit/blaze-domain-declarative-api@2.0.4?classifier=sources
+- pkg:maven/com.blazebit/blaze-domain-declarative-api@2.0.5
+- pkg:maven/com.blazebit/blaze-domain-declarative-api@2.0.5?classifier=sources
+- pkg:maven/com.blazebit/blaze-domain-declarative-api@3.0.0-Alpha1
+- pkg:maven/com.blazebit/blaze-domain-declarative-api@3.0.0-Alpha1?classifier=sources
+- pkg:maven/com.blazebit/blaze-domain-declarative-api@3.0.0-Alpha2
+- pkg:maven/com.blazebit/blaze-domain-declarative-api@3.0.0-Alpha2?classifier=sources
+- pkg:maven/com.blazebit/blaze-domain-declarative-api@3.0.0-Alpha3
+- pkg:maven/com.blazebit/blaze-domain-declarative-api@3.0.0-Alpha3?classifier=sources
+- pkg:maven/com.blazebit/blaze-domain-declarative-api@3.0.0-Alpha4
+- pkg:maven/com.blazebit/blaze-domain-declarative-api@3.0.0-Alpha4?classifier=sources

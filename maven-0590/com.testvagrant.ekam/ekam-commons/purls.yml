@@ -12,3 +12,4 @@
 - pkg:maven/com.testvagrant.ekam/ekam-commons@0.1.1-beta?classifier=sources
 - pkg:maven/com.testvagrant.ekam/ekam-commons@1.0.0?classifier=sources
 - pkg:maven/com.testvagrant.ekam/ekam-commons@1.0.1-beta?classifier=sources
+- pkg:maven/com.testvagrant.ekam/ekam-commons@1.0.2?classifier=sources

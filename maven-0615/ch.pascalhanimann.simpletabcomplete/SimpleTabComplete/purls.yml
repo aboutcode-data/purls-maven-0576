@@ -1,0 +1,2 @@
+- pkg:maven/ch.pascalhanimann.simpletabcomplete/SimpleTabComplete@1.0
+- pkg:maven/ch.pascalhanimann.simpletabcomplete/SimpleTabComplete@1.0?classifier=sources

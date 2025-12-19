@@ -1,3 +1,6 @@
 - pkg:maven/com.codenameone/googlemaps-tests-javase@1.0.1
 - pkg:maven/com.codenameone/googlemaps-tests-javase@1.0.2
 - pkg:maven/com.codenameone/googlemaps-tests-javase@1.0.3
+- pkg:maven/com.codenameone/googlemaps-tests-javase@1.1.0
+- pkg:maven/com.codenameone/googlemaps-tests-javase@1.1.1
+- pkg:maven/com.codenameone/googlemaps-tests-javase@1.1.2

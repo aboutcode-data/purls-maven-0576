@@ -38,3 +38,7 @@
 - pkg:maven/gg.jte/jte-runtime@1.8.0?classifier=sources
 - pkg:maven/gg.jte/jte-runtime@1.9.0
 - pkg:maven/gg.jte/jte-runtime@1.9.0?classifier=sources
+- pkg:maven/gg.jte/jte-runtime@2.0.0
+- pkg:maven/gg.jte/jte-runtime@2.0.0?classifier=sources
+- pkg:maven/gg.jte/jte-runtime@2.0.1
+- pkg:maven/gg.jte/jte-runtime@2.0.1?classifier=sources

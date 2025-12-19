@@ -3,3 +3,4 @@
 - pkg:maven/me.paulschwarz/spring-dotenv@2.3.0?classifier=sources
 - pkg:maven/me.paulschwarz/spring-dotenv@2.4.0?classifier=sources
 - pkg:maven/me.paulschwarz/spring-dotenv@2.4.1?classifier=sources
+- pkg:maven/me.paulschwarz/spring-dotenv@2.5.1?classifier=sources

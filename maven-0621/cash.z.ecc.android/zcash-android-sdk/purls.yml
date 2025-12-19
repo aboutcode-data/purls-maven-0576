@@ -13,3 +13,4 @@
 - pkg:maven/cash.z.ecc.android/zcash-android-sdk@1.3.0-beta17?classifier=sources
 - pkg:maven/cash.z.ecc.android/zcash-android-sdk@1.3.0-beta18?classifier=sources
 - pkg:maven/cash.z.ecc.android/zcash-android-sdk@1.3.0-beta19?classifier=sources
+- pkg:maven/cash.z.ecc.android/zcash-android-sdk@1.3.0-beta20?classifier=sources

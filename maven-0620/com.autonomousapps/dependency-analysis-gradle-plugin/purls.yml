@@ -50,3 +50,6 @@
 - pkg:maven/com.autonomousapps/dependency-analysis-gradle-plugin@0.78.0?classifier=sources
 - pkg:maven/com.autonomousapps/dependency-analysis-gradle-plugin@0.79.0?classifier=sources
 - pkg:maven/com.autonomousapps/dependency-analysis-gradle-plugin@0.80.0?classifier=sources
+- pkg:maven/com.autonomousapps/dependency-analysis-gradle-plugin@1.0.0-rc01?classifier=sources
+- pkg:maven/com.autonomousapps/dependency-analysis-gradle-plugin@1.0.0-rc02?classifier=sources
+- pkg:maven/com.autonomousapps/dependency-analysis-gradle-plugin@1.0.0-rc03?classifier=sources

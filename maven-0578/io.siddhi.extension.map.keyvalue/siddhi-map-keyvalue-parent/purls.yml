@@ -7,3 +7,4 @@
 - pkg:maven/io.siddhi.extension.map.keyvalue/siddhi-map-keyvalue-parent@2.0.7?classifier=source-release&type=zip
 - pkg:maven/io.siddhi.extension.map.keyvalue/siddhi-map-keyvalue-parent@2.1.0?classifier=source-release&type=zip
 - pkg:maven/io.siddhi.extension.map.keyvalue/siddhi-map-keyvalue-parent@2.1.1?classifier=source-release&type=zip
+- pkg:maven/io.siddhi.extension.map.keyvalue/siddhi-map-keyvalue-parent@2.1.2?classifier=source-release&type=zip

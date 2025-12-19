@@ -4,3 +4,5 @@
 - pkg:maven/no.capraconsulting/siren-util@0.3.1?classifier=sources
 - pkg:maven/no.capraconsulting/siren-util@0.3.2
 - pkg:maven/no.capraconsulting/siren-util@0.3.2?classifier=sources
+- pkg:maven/no.capraconsulting/siren-util@2.0.0
+- pkg:maven/no.capraconsulting/siren-util@2.0.0?classifier=sources

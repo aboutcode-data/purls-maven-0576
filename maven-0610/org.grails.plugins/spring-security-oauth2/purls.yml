@@ -1,0 +1,1 @@
+- pkg:maven/org.grails.plugins/spring-security-oauth2@2.0.0-RC1?classifier=sources

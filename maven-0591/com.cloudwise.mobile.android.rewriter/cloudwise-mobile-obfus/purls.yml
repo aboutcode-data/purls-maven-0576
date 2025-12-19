@@ -16,6 +16,8 @@
 - pkg:maven/com.cloudwise.mobile.android.rewriter/cloudwise-mobile-obfus@1.6.6.5?classifier=sources
 - pkg:maven/com.cloudwise.mobile.android.rewriter/cloudwise-mobile-obfus@1.6.6.6
 - pkg:maven/com.cloudwise.mobile.android.rewriter/cloudwise-mobile-obfus@1.6.6.6?classifier=sources
+- pkg:maven/com.cloudwise.mobile.android.rewriter/cloudwise-mobile-obfus@1.6.6.7
+- pkg:maven/com.cloudwise.mobile.android.rewriter/cloudwise-mobile-obfus@1.6.6.7?classifier=sources
 - pkg:maven/com.cloudwise.mobile.android.rewriter/cloudwise-mobile-obfus@2.0.0
 - pkg:maven/com.cloudwise.mobile.android.rewriter/cloudwise-mobile-obfus@2.0.0?classifier=sources
 - pkg:maven/com.cloudwise.mobile.android.rewriter/cloudwise-mobile-obfus@2.1.0

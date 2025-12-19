@@ -34,3 +34,7 @@
 - pkg:maven/org.jetbrains.intellij.plugins/structure-ktor@3.200?classifier=sources
 - pkg:maven/org.jetbrains.intellij.plugins/structure-ktor@3.201?classifier=sources
 - pkg:maven/org.jetbrains.intellij.plugins/structure-ktor@3.202?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-ktor@3.203?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-ktor@3.204?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-ktor@3.206?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/structure-ktor@3.207?classifier=sources

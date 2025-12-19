@@ -34,7 +34,15 @@
 - pkg:maven/com.github.jchanghong/jch-min@2022.23.1?classifier=sources
 - pkg:maven/com.github.jchanghong/jch-min@2022.23.2
 - pkg:maven/com.github.jchanghong/jch-min@2022.23.2?classifier=sources
+- pkg:maven/com.github.jchanghong/jch-min@2022.23.4
+- pkg:maven/com.github.jchanghong/jch-min@2022.23.4?classifier=sources
+- pkg:maven/com.github.jchanghong/jch-min@2022.23.5
+- pkg:maven/com.github.jchanghong/jch-min@2022.23.5?classifier=sources
 - pkg:maven/com.github.jchanghong/jch-min@2022.25.0
 - pkg:maven/com.github.jchanghong/jch-min@2022.25.0?classifier=sources
 - pkg:maven/com.github.jchanghong/jch-min@2022.25.1
 - pkg:maven/com.github.jchanghong/jch-min@2022.25.1?classifier=sources
+- pkg:maven/com.github.jchanghong/jch-min@2022.25.4
+- pkg:maven/com.github.jchanghong/jch-min@2022.25.4?classifier=sources
+- pkg:maven/com.github.jchanghong/jch-min@2022.25.5
+- pkg:maven/com.github.jchanghong/jch-min@2022.25.5?classifier=sources

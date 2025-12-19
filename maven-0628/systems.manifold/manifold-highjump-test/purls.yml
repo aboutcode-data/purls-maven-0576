@@ -86,3 +86,5 @@
 - pkg:maven/systems.manifold/manifold-highjump-test@2022.1.2
 - pkg:maven/systems.manifold/manifold-highjump-test@2022.1.3
 - pkg:maven/systems.manifold/manifold-highjump-test@2022.1.4
+- pkg:maven/systems.manifold/manifold-highjump-test@2022.1.5
+- pkg:maven/systems.manifold/manifold-highjump-test@2022.1.7

@@ -86,6 +86,10 @@
 - pkg:maven/com.google.apis/google-api-services-bigqueryreservation@v1-rev20210910-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-bigqueryreservation@v1-rev20211015-1.32.1
 - pkg:maven/com.google.apis/google-api-services-bigqueryreservation@v1-rev20211015-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-bigqueryreservation@v1-rev20220212-1.32.1
+- pkg:maven/com.google.apis/google-api-services-bigqueryreservation@v1-rev20220212-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-bigqueryreservation@v1-rev20220226-1.32.1
+- pkg:maven/com.google.apis/google-api-services-bigqueryreservation@v1-rev20220226-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-bigqueryreservation@v1-rev8-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-bigqueryreservation@v1-rev8-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-bigqueryreservation@v1-rev8-1.25.0
@@ -244,6 +248,10 @@
 - pkg:maven/com.google.apis/google-api-services-bigqueryreservation@v1beta1-rev20210910-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-bigqueryreservation@v1beta1-rev20211015-1.32.1
 - pkg:maven/com.google.apis/google-api-services-bigqueryreservation@v1beta1-rev20211015-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-bigqueryreservation@v1beta1-rev20220212-1.32.1
+- pkg:maven/com.google.apis/google-api-services-bigqueryreservation@v1beta1-rev20220212-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-bigqueryreservation@v1beta1-rev20220226-1.32.1
+- pkg:maven/com.google.apis/google-api-services-bigqueryreservation@v1beta1-rev20220226-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-bigqueryreservation@v1beta1-rev5-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-bigqueryreservation@v1beta1-rev5-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-bigqueryreservation@v1beta1-rev5-1.25.0

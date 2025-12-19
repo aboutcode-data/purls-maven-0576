@@ -52,3 +52,7 @@
 - pkg:maven/uk.co.callhandling/freeswitch-scala-esl_2.12@2.0.7?classifier=sources
 - pkg:maven/uk.co.callhandling/freeswitch-scala-esl_2.12@2.0.8
 - pkg:maven/uk.co.callhandling/freeswitch-scala-esl_2.12@2.0.8?classifier=sources
+- pkg:maven/uk.co.callhandling/freeswitch-scala-esl_2.12@2.0.9
+- pkg:maven/uk.co.callhandling/freeswitch-scala-esl_2.12@2.0.9?classifier=sources
+- pkg:maven/uk.co.callhandling/freeswitch-scala-esl_2.12@2.1.0
+- pkg:maven/uk.co.callhandling/freeswitch-scala-esl_2.12@2.1.0?classifier=sources

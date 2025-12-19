@@ -163,3 +163,6 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.api@6.2.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.api@6.2.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.api@6.2.0?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.api@7.0.0
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.api@7.0.0?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.tax.api@7.0.0?classifier=sources-commercial

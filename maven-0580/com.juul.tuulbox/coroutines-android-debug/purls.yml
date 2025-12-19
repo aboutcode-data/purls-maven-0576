@@ -15,3 +15,4 @@
 - pkg:maven/com.juul.tuulbox/coroutines-android-debug@4.8.0?classifier=sources
 - pkg:maven/com.juul.tuulbox/coroutines-android-debug@5.0.0?classifier=sources
 - pkg:maven/com.juul.tuulbox/coroutines-android-debug@5.1.0?classifier=sources
+- pkg:maven/com.juul.tuulbox/coroutines-android-debug@6.0.0?classifier=sources

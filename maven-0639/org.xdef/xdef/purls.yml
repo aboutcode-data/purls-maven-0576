@@ -55,3 +55,6 @@
 - pkg:maven/org.xdef/xdef@41.0.4
 - pkg:maven/org.xdef/xdef@41.0.4?classifier=sources
 - pkg:maven/org.xdef/xdef@41.0.4?classifier=src&type=zip
+- pkg:maven/org.xdef/xdef@41.0.5
+- pkg:maven/org.xdef/xdef@41.0.5?classifier=sources
+- pkg:maven/org.xdef/xdef@41.0.5?classifier=src&type=zip

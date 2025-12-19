@@ -3,3 +3,4 @@
 - pkg:maven/io.github.derrickchanjl/IMCore@1.0.2?classifier=sources
 - pkg:maven/io.github.derrickchanjl/IMCore@1.0.3?classifier=sources
 - pkg:maven/io.github.derrickchanjl/IMCore@1.0.4?classifier=sources
+- pkg:maven/io.github.derrickchanjl/IMCore@1.0.8?classifier=sources

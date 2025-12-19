@@ -42,3 +42,5 @@
 - pkg:maven/com.immomo.cosmos/cvcenter@2.1.5.20220121.1426?type=aar
 - pkg:maven/com.immomo.cosmos/cvcenter@2.1.6.20211216.1458?classifier=sources
 - pkg:maven/com.immomo.cosmos/cvcenter@2.1.6.20211216.1458?type=aar
+- pkg:maven/com.immomo.cosmos/cvcenter@2.1.7.20220223.1214?classifier=sources
+- pkg:maven/com.immomo.cosmos/cvcenter@2.1.7.20220223.1214?type=aar

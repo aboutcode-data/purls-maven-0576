@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/miniprogram-api-typings@2.12.1-beta.0
+- pkg:maven/org.webjars.npm/miniprogram-api-typings@2.12.1-beta.0?classifier=sources

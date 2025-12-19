@@ -4,3 +4,5 @@
 - pkg:maven/com.github.venkatramanm/reflection@1.12?classifier=sources
 - pkg:maven/com.github.venkatramanm/reflection@1.13
 - pkg:maven/com.github.venkatramanm/reflection@1.13?classifier=sources
+- pkg:maven/com.github.venkatramanm/reflection@1.15
+- pkg:maven/com.github.venkatramanm/reflection@1.15?classifier=sources

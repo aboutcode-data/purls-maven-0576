@@ -1,0 +1,2 @@
+- pkg:maven/io.awspring.cloud/spring-cloud-aws-test@2.4.0
+- pkg:maven/io.awspring.cloud/spring-cloud-aws-test@2.4.0?classifier=sources

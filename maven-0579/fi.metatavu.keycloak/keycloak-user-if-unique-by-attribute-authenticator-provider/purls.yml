@@ -1,0 +1,2 @@
+- pkg:maven/fi.metatavu.keycloak/keycloak-user-if-unique-by-attribute-authenticator-provider@15.0.2-1
+- pkg:maven/fi.metatavu.keycloak/keycloak-user-if-unique-by-attribute-authenticator-provider@15.0.2-1?classifier=sources

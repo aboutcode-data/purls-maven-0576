@@ -1,0 +1,2 @@
+- pkg:maven/io.adtrace/android-sdk@2.0.1?classifier=sources
+- pkg:maven/io.adtrace/android-sdk@2.0.2?classifier=sources

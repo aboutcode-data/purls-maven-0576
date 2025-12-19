@@ -1,0 +1,2 @@
+- pkg:maven/ru.sber.platformv.faas/faas-maven-plugin@1.0.0-rc.1
+- pkg:maven/ru.sber.platformv.faas/faas-maven-plugin@1.0.0-rc.1?classifier=sources

@@ -322,3 +322,9 @@
 - pkg:maven/com.mailslurp/mailslurp-client-kotlin@15.5.5?classifier=sources
 - pkg:maven/com.mailslurp/mailslurp-client-kotlin@15.5.6
 - pkg:maven/com.mailslurp/mailslurp-client-kotlin@15.5.6?classifier=sources
+- pkg:maven/com.mailslurp/mailslurp-client-kotlin@15.6.0
+- pkg:maven/com.mailslurp/mailslurp-client-kotlin@15.6.0?classifier=sources
+- pkg:maven/com.mailslurp/mailslurp-client-kotlin@15.7.0
+- pkg:maven/com.mailslurp/mailslurp-client-kotlin@15.7.0?classifier=sources
+- pkg:maven/com.mailslurp/mailslurp-client-kotlin@15.7.1
+- pkg:maven/com.mailslurp/mailslurp-client-kotlin@15.7.1?classifier=sources

@@ -36,3 +36,5 @@
 - pkg:maven/com.ibm.cloud/cloudant@0.0.32?classifier=sources
 - pkg:maven/com.ibm.cloud/cloudant@0.0.34
 - pkg:maven/com.ibm.cloud/cloudant@0.0.34?classifier=sources
+- pkg:maven/com.ibm.cloud/cloudant@0.0.36
+- pkg:maven/com.ibm.cloud/cloudant@0.0.36?classifier=sources

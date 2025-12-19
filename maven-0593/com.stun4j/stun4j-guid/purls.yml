@@ -24,3 +24,5 @@
 - pkg:maven/com.stun4j/stun4j-guid@1.1.4?classifier=sources
 - pkg:maven/com.stun4j/stun4j-guid@1.1.5
 - pkg:maven/com.stun4j/stun4j-guid@1.1.5?classifier=sources
+- pkg:maven/com.stun4j/stun4j-guid@1.1.6
+- pkg:maven/com.stun4j/stun4j-guid@1.1.6?classifier=sources

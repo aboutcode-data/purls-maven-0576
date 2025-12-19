@@ -1,0 +1,2 @@
+- pkg:maven/io.dialob/dialob-db-mongo@2.1.2
+- pkg:maven/io.dialob/dialob-db-mongo@2.1.2?classifier=sources
