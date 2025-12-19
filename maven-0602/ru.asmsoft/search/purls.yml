@@ -4,3 +4,7 @@
 - pkg:maven/ru.asmsoft/search@1.1.0?classifier=sources
 - pkg:maven/ru.asmsoft/search@1.1.2
 - pkg:maven/ru.asmsoft/search@1.1.2?classifier=sources
+- pkg:maven/ru.asmsoft/search@1.1.3
+- pkg:maven/ru.asmsoft/search@1.1.3?classifier=sources
+- pkg:maven/ru.asmsoft/search@1.1.4
+- pkg:maven/ru.asmsoft/search@1.1.4?classifier=sources

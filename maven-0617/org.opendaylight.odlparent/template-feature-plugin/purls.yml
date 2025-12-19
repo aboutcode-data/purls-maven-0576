@@ -1,0 +1,2 @@
+- pkg:maven/org.opendaylight.odlparent/template-feature-plugin@11.0.1
+- pkg:maven/org.opendaylight.odlparent/template-feature-plugin@11.0.1?classifier=sources

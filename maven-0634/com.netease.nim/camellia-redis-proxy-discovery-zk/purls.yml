@@ -28,3 +28,5 @@
 - pkg:maven/com.netease.nim/camellia-redis-proxy-discovery-zk@1.0.57?classifier=sources
 - pkg:maven/com.netease.nim/camellia-redis-proxy-discovery-zk@1.0.58
 - pkg:maven/com.netease.nim/camellia-redis-proxy-discovery-zk@1.0.58?classifier=sources
+- pkg:maven/com.netease.nim/camellia-redis-proxy-discovery-zk@1.0.59
+- pkg:maven/com.netease.nim/camellia-redis-proxy-discovery-zk@1.0.59?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/pl.wrzasq.cform/cform-data-cognito-client@1.1.12
+- pkg:maven/pl.wrzasq.cform/cform-data-cognito-client@1.1.12?classifier=sources

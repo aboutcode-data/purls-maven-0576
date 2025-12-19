@@ -1,0 +1,6 @@
+- pkg:maven/io.helidon.webserver/helidon-webserver-websocket@3.0.0
+- pkg:maven/io.helidon.webserver/helidon-webserver-websocket@3.0.0-RC1
+- pkg:maven/io.helidon.webserver/helidon-webserver-websocket@3.0.0-RC1?classifier=sources
+- pkg:maven/io.helidon.webserver/helidon-webserver-websocket@3.0.0-RC2
+- pkg:maven/io.helidon.webserver/helidon-webserver-websocket@3.0.0-RC2?classifier=sources
+- pkg:maven/io.helidon.webserver/helidon-webserver-websocket@3.0.0?classifier=sources

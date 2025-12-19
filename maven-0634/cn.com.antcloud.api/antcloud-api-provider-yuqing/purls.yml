@@ -4,6 +4,8 @@
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-yuqing@1.1.11?classifier=sources
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-yuqing@1.1.12
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-yuqing@1.1.12?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-yuqing@1.1.14
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-yuqing@1.1.14?classifier=sources
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-yuqing@1.1.8
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-yuqing@1.1.8?classifier=sources
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-yuqing@1.1.9

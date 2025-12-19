@@ -24,3 +24,7 @@
 - pkg:maven/com.jdcloud.sdk/redis@2.5.0?classifier=sources
 - pkg:maven/com.jdcloud.sdk/redis@2.6.16
 - pkg:maven/com.jdcloud.sdk/redis@2.6.16?classifier=sources
+- pkg:maven/com.jdcloud.sdk/redis@2.6.17
+- pkg:maven/com.jdcloud.sdk/redis@2.6.17?classifier=sources
+- pkg:maven/com.jdcloud.sdk/redis@2.6.18
+- pkg:maven/com.jdcloud.sdk/redis@2.6.18?classifier=sources

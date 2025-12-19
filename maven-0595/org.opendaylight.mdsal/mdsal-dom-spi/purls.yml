@@ -1,3 +1,4 @@
+- pkg:maven/org.opendaylight.mdsal/mdsal-dom-spi@10.0.0?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-dom-spi@2.0.0-Beryllium
 - pkg:maven/org.opendaylight.mdsal/mdsal-dom-spi@2.0.0-Beryllium?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-dom-spi@2.0.1-Beryllium-SR1

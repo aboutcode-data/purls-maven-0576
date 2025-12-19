@@ -1,0 +1,10 @@
+- pkg:maven/info.joshbassett/axon_2.13@1.0.0
+- pkg:maven/info.joshbassett/axon_2.13@1.0.0?classifier=sources
+- pkg:maven/info.joshbassett/axon_2.13@1.0.1
+- pkg:maven/info.joshbassett/axon_2.13@1.0.1?classifier=sources
+- pkg:maven/info.joshbassett/axon_2.13@1.0.2
+- pkg:maven/info.joshbassett/axon_2.13@1.0.2?classifier=sources
+- pkg:maven/info.joshbassett/axon_2.13@1.0.3
+- pkg:maven/info.joshbassett/axon_2.13@1.0.3?classifier=sources
+- pkg:maven/info.joshbassett/axon_2.13@v1.0.1
+- pkg:maven/info.joshbassett/axon_2.13@v1.0.1?classifier=sources

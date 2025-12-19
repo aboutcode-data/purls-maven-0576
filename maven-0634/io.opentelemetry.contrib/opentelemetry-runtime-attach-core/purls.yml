@@ -1,0 +1,1 @@
+- pkg:maven/io.opentelemetry.contrib/opentelemetry-runtime-attach-core@1.16.0-alpha?classifier=sources

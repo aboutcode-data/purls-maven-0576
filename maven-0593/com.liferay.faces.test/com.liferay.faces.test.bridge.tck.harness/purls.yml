@@ -1,2 +1,4 @@
 - pkg:maven/com.liferay.faces.test/com.liferay.faces.test.bridge.tck.harness@5.0.0
 - pkg:maven/com.liferay.faces.test/com.liferay.faces.test.bridge.tck.harness@5.0.0?classifier=sources
+- pkg:maven/com.liferay.faces.test/com.liferay.faces.test.bridge.tck.harness@6.0.0
+- pkg:maven/com.liferay.faces.test/com.liferay.faces.test.bridge.tck.harness@6.0.0?classifier=sources

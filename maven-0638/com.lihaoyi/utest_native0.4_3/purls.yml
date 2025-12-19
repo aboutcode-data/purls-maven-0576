@@ -1,2 +1,4 @@
 - pkg:maven/com.lihaoyi/utest_native0.4_3@0.7.11
 - pkg:maven/com.lihaoyi/utest_native0.4_3@0.7.11?classifier=sources
+- pkg:maven/com.lihaoyi/utest_native0.4_3@0.8.0
+- pkg:maven/com.lihaoyi/utest_native0.4_3@0.8.0?classifier=sources

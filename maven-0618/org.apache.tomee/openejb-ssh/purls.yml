@@ -32,3 +32,4 @@
 - pkg:maven/org.apache.tomee/openejb-ssh@8.0.7?classifier=sources
 - pkg:maven/org.apache.tomee/openejb-ssh@8.0.8?classifier=sources
 - pkg:maven/org.apache.tomee/openejb-ssh@8.0.9?classifier=sources
+- pkg:maven/org.apache.tomee/openejb-ssh@9.0.0-M8?classifier=sources

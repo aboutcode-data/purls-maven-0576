@@ -46,3 +46,11 @@
 - pkg:maven/com.immomo.cosmos/cvcenter@2.1.7.20220223.1214?type=aar
 - pkg:maven/com.immomo.cosmos/cvcenter@2.1.7.20220413.1501?classifier=sources
 - pkg:maven/com.immomo.cosmos/cvcenter@2.1.7.20220413.1501?type=aar
+- pkg:maven/com.immomo.cosmos/cvcenter@2.1.7.20220622.1842?classifier=sources
+- pkg:maven/com.immomo.cosmos/cvcenter@2.1.7.20220622.1842?type=aar
+- pkg:maven/com.immomo.cosmos/cvcenter@2.1.8.20220623.1841?classifier=sources
+- pkg:maven/com.immomo.cosmos/cvcenter@2.1.8.20220623.1841?type=aar
+- pkg:maven/com.immomo.cosmos/cvcenter@2.2.0.20220718.1813?classifier=sources
+- pkg:maven/com.immomo.cosmos/cvcenter@2.2.0.20220718.1813?type=aar
+- pkg:maven/com.immomo.cosmos/cvcenter@2.2.0.20220718.1832?classifier=sources
+- pkg:maven/com.immomo.cosmos/cvcenter@2.2.0.20220718.1832?type=aar

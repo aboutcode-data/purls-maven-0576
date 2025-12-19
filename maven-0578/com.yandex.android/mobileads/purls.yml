@@ -104,3 +104,4 @@
 - pkg:maven/com.yandex.android/mobileads@5.0.0?classifier=sources
 - pkg:maven/com.yandex.android/mobileads@5.1.0?classifier=sources
 - pkg:maven/com.yandex.android/mobileads@5.1.1?classifier=sources
+- pkg:maven/com.yandex.android/mobileads@5.2.0?classifier=sources

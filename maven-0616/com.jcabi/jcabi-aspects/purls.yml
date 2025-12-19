@@ -70,6 +70,10 @@
 - pkg:maven/com.jcabi/jcabi-aspects@0.23.2
 - pkg:maven/com.jcabi/jcabi-aspects@0.23.2?classifier=sources
 - pkg:maven/com.jcabi/jcabi-aspects@0.23?classifier=sources
+- pkg:maven/com.jcabi/jcabi-aspects@0.24.0
+- pkg:maven/com.jcabi/jcabi-aspects@0.24.0?classifier=sources
+- pkg:maven/com.jcabi/jcabi-aspects@0.24.1
+- pkg:maven/com.jcabi/jcabi-aspects@0.24.1?classifier=sources
 - pkg:maven/com.jcabi/jcabi-aspects@0.3
 - pkg:maven/com.jcabi/jcabi-aspects@0.3?classifier=sources
 - pkg:maven/com.jcabi/jcabi-aspects@0.4

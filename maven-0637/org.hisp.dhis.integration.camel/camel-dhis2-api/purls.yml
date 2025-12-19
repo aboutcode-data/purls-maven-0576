@@ -1,0 +1,2 @@
+- pkg:maven/org.hisp.dhis.integration.camel/camel-dhis2-api@1.0.0
+- pkg:maven/org.hisp.dhis.integration.camel/camel-dhis2-api@1.0.0?classifier=sources

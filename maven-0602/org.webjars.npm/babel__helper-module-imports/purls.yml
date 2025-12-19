@@ -16,6 +16,8 @@
 - pkg:maven/org.webjars.npm/babel__helper-module-imports@7.14.5?classifier=sources
 - pkg:maven/org.webjars.npm/babel__helper-module-imports@7.16.7
 - pkg:maven/org.webjars.npm/babel__helper-module-imports@7.16.7?classifier=sources
+- pkg:maven/org.webjars.npm/babel__helper-module-imports@7.18.6
+- pkg:maven/org.webjars.npm/babel__helper-module-imports@7.18.6?classifier=sources
 - pkg:maven/org.webjars.npm/babel__helper-module-imports@7.7.4
 - pkg:maven/org.webjars.npm/babel__helper-module-imports@7.7.4?classifier=sources
 - pkg:maven/org.webjars.npm/babel__helper-module-imports@7.8.3

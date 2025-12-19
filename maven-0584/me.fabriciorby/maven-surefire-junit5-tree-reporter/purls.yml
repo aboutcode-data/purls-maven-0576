@@ -2,3 +2,9 @@
 - pkg:maven/me.fabriciorby/maven-surefire-junit5-tree-reporter@0.1.0?classifier=sources
 - pkg:maven/me.fabriciorby/maven-surefire-junit5-tree-reporter@0.2.0
 - pkg:maven/me.fabriciorby/maven-surefire-junit5-tree-reporter@0.2.0?classifier=sources
+- pkg:maven/me.fabriciorby/maven-surefire-junit5-tree-reporter@1.0.0
+- pkg:maven/me.fabriciorby/maven-surefire-junit5-tree-reporter@1.0.0?classifier=sources
+- pkg:maven/me.fabriciorby/maven-surefire-junit5-tree-reporter@1.0.1
+- pkg:maven/me.fabriciorby/maven-surefire-junit5-tree-reporter@1.0.1?classifier=sources
+- pkg:maven/me.fabriciorby/maven-surefire-junit5-tree-reporter@1.1.0
+- pkg:maven/me.fabriciorby/maven-surefire-junit5-tree-reporter@1.1.0?classifier=sources

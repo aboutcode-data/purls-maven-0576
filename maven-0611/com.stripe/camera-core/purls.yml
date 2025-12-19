@@ -12,3 +12,6 @@
 - pkg:maven/com.stripe/camera-core@20.3.0?classifier=sources
 - pkg:maven/com.stripe/camera-core@20.4.0?classifier=sources
 - pkg:maven/com.stripe/camera-core@20.5.0?classifier=sources
+- pkg:maven/com.stripe/camera-core@20.6.1?classifier=sources
+- pkg:maven/com.stripe/camera-core@20.6.2?classifier=sources
+- pkg:maven/com.stripe/camera-core@20.7.0?classifier=sources

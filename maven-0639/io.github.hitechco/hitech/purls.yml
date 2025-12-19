@@ -1,0 +1,4 @@
+- pkg:maven/io.github.hitechco/hitech@1.0.2.14?classifier=sources
+- pkg:maven/io.github.hitechco/hitech@1.0.2.15?classifier=sources
+- pkg:maven/io.github.hitechco/hitech@1.0.2.16?classifier=sources
+- pkg:maven/io.github.hitechco/hitech@1.0.2.17?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/com.aliyun/mpaas20201028@2.1.8?classifier=sources
 - pkg:maven/com.aliyun/mpaas20201028@3.0.7
 - pkg:maven/com.aliyun/mpaas20201028@3.0.7?classifier=sources
+- pkg:maven/com.aliyun/mpaas20201028@3.0.8
+- pkg:maven/com.aliyun/mpaas20201028@3.0.8?classifier=sources

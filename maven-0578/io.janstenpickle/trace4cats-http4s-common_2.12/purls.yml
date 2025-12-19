@@ -221,6 +221,10 @@
 - pkg:maven/io.janstenpickle/trace4cats-http4s-common_2.12@0.13.0
 - pkg:maven/io.janstenpickle/trace4cats-http4s-common_2.12@0.13.0?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-http4s-common_2.12@0.13.1
+- pkg:maven/io.janstenpickle/trace4cats-http4s-common_2.12@0.13.1%2B14-a89a7987
+- pkg:maven/io.janstenpickle/trace4cats-http4s-common_2.12@0.13.1%2B14-a89a7987?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-http4s-common_2.12@0.13.1%2B22-facc147c
+- pkg:maven/io.janstenpickle/trace4cats-http4s-common_2.12@0.13.1%2B22-facc147c?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-http4s-common_2.12@0.13.1?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-http4s-common_2.12@0.2.0%2B16-191bf756
 - pkg:maven/io.janstenpickle/trace4cats-http4s-common_2.12@0.2.0%2B16-191bf756?classifier=sources

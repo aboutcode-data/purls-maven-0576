@@ -1,0 +1,2 @@
+- pkg:maven/com.clickpaas.arch/spring-context-velocity@1.0.0-RELEASE
+- pkg:maven/com.clickpaas.arch/spring-context-velocity@1.0.0-RELEASE?classifier=sources

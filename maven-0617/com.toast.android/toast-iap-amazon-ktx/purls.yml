@@ -7,3 +7,4 @@
 - pkg:maven/com.toast.android/toast-iap-amazon-ktx@0.30.1?type=aar
 - pkg:maven/com.toast.android/toast-iap-amazon-ktx@0.31.0?type=aar
 - pkg:maven/com.toast.android/toast-iap-amazon-ktx@0.31.1?type=aar
+- pkg:maven/com.toast.android/toast-iap-amazon-ktx@1.0.0?type=aar

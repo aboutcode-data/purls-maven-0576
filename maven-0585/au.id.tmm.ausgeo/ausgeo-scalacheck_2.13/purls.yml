@@ -1,0 +1,2 @@
+- pkg:maven/au.id.tmm.ausgeo/ausgeo-scalacheck_2.13@0.4.0
+- pkg:maven/au.id.tmm.ausgeo/ausgeo-scalacheck_2.13@0.4.0?classifier=sources

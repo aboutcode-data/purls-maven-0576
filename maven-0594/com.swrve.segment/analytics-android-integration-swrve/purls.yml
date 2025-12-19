@@ -1,1 +1,2 @@
 - pkg:maven/com.swrve.segment/analytics-android-integration-swrve@2.0.0?type=aar
+- pkg:maven/com.swrve.segment/analytics-android-integration-swrve@3.0.0?classifier=sources

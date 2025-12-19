@@ -1,2 +1,4 @@
 - pkg:maven/org.sakaiproject.conversations/sakai-conversations-api@22.0
 - pkg:maven/org.sakaiproject.conversations/sakai-conversations-api@22.0?classifier=sources
+- pkg:maven/org.sakaiproject.conversations/sakai-conversations-api@22.1
+- pkg:maven/org.sakaiproject.conversations/sakai-conversations-api@22.1?classifier=sources

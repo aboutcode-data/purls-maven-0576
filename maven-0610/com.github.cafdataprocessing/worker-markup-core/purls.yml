@@ -16,3 +16,5 @@
 - pkg:maven/com.github.cafdataprocessing/worker-markup-core@3.2.0-891?classifier=sources
 - pkg:maven/com.github.cafdataprocessing/worker-markup-core@3.2.1-1066
 - pkg:maven/com.github.cafdataprocessing/worker-markup-core@3.2.1-1066?classifier=sources
+- pkg:maven/com.github.cafdataprocessing/worker-markup-core@3.2.2-1171
+- pkg:maven/com.github.cafdataprocessing/worker-markup-core@3.2.2-1171?classifier=sources

@@ -1,0 +1,16 @@
+- pkg:maven/com.jeremiahzucker.test.bazel/library-jvm@6.3.100
+- pkg:maven/com.jeremiahzucker.test.bazel/library-jvm@6.3.100?classifier=sources
+- pkg:maven/com.jeremiahzucker.test.bazel/library-jvm@6.3.101
+- pkg:maven/com.jeremiahzucker.test.bazel/library-jvm@6.3.101?classifier=sources
+- pkg:maven/com.jeremiahzucker.test.bazel/library-jvm@6.3.102
+- pkg:maven/com.jeremiahzucker.test.bazel/library-jvm@6.3.102?classifier=sources
+- pkg:maven/com.jeremiahzucker.test.bazel/library-jvm@6.3.103
+- pkg:maven/com.jeremiahzucker.test.bazel/library-jvm@6.3.103?classifier=sources
+- pkg:maven/com.jeremiahzucker.test.bazel/library-jvm@6.3.2
+- pkg:maven/com.jeremiahzucker.test.bazel/library-jvm@6.3.2000
+- pkg:maven/com.jeremiahzucker.test.bazel/library-jvm@6.3.2000?classifier=sources
+- pkg:maven/com.jeremiahzucker.test.bazel/library-jvm@6.3.2?classifier=sources
+- pkg:maven/com.jeremiahzucker.test.bazel/library-jvm@6.3.3
+- pkg:maven/com.jeremiahzucker.test.bazel/library-jvm@6.3.3?classifier=sources
+- pkg:maven/com.jeremiahzucker.test.bazel/library-jvm@6.5.1
+- pkg:maven/com.jeremiahzucker.test.bazel/library-jvm@6.5.1?classifier=sources

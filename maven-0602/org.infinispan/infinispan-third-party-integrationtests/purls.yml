@@ -45,3 +45,4 @@
 - pkg:maven/org.infinispan/infinispan-third-party-integrationtests@14.0.0.Dev01
 - pkg:maven/org.infinispan/infinispan-third-party-integrationtests@14.0.0.Dev02
 - pkg:maven/org.infinispan/infinispan-third-party-integrationtests@14.0.0.Dev03
+- pkg:maven/org.infinispan/infinispan-third-party-integrationtests@14.0.0.Dev04

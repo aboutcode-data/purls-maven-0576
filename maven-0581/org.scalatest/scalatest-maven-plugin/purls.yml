@@ -8,3 +8,6 @@
 - pkg:maven/org.scalatest/scalatest-maven-plugin@2.0.0
 - pkg:maven/org.scalatest/scalatest-maven-plugin@2.0.0?classifier=sources
 - pkg:maven/org.scalatest/scalatest-maven-plugin@2.0.2
+- pkg:maven/org.scalatest/scalatest-maven-plugin@2.1.0
+- pkg:maven/org.scalatest/scalatest-maven-plugin@2.1.0-SNAP1
+- pkg:maven/org.scalatest/scalatest-maven-plugin@2.1.0-SNAP2

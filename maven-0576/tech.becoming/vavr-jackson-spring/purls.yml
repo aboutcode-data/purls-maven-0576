@@ -1,0 +1,2 @@
+- pkg:maven/tech.becoming/vavr-jackson-spring@270.1
+- pkg:maven/tech.becoming/vavr-jackson-spring@270.1?classifier=sources

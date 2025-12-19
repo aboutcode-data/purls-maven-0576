@@ -1,0 +1,4 @@
+- pkg:maven/pub.doric.extension/mobx@0.1.0?classifier=sources
+- pkg:maven/pub.doric.extension/mobx@0.1.0?type=aar
+- pkg:maven/pub.doric.extension/mobx@0.1.4?classifier=sources
+- pkg:maven/pub.doric.extension/mobx@0.1.4?type=aar

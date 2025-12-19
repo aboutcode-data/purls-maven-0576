@@ -60,3 +60,4 @@
 - pkg:maven/me.insidezhou.southernquiet/id-generator-spring-boot-starter-jdbc@4.6.7?classifier=sources
 - pkg:maven/me.insidezhou.southernquiet/id-generator-spring-boot-starter-jdbc@4.7.0?classifier=sources
 - pkg:maven/me.insidezhou.southernquiet/id-generator-spring-boot-starter-jdbc@4.7.1?classifier=sources
+- pkg:maven/me.insidezhou.southernquiet/id-generator-spring-boot-starter-jdbc@4.7.2?classifier=sources

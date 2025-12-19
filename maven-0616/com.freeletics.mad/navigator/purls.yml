@@ -8,3 +8,4 @@
 - pkg:maven/com.freeletics.mad/navigator@0.3.0-alpha08?classifier=sources
 - pkg:maven/com.freeletics.mad/navigator@0.3.0-alpha09?classifier=sources
 - pkg:maven/com.freeletics.mad/navigator@0.3.0-alpha10?classifier=sources
+- pkg:maven/com.freeletics.mad/navigator@0.7.1?classifier=sources

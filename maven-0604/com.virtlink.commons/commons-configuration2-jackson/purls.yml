@@ -2,6 +2,7 @@
 - pkg:maven/com.virtlink.commons/commons-configuration2-jackson@0.1.4?classifier=sources
 - pkg:maven/com.virtlink.commons/commons-configuration2-jackson@0.10.0
 - pkg:maven/com.virtlink.commons/commons-configuration2-jackson@0.10.0?classifier=sources
+- pkg:maven/com.virtlink.commons/commons-configuration2-jackson@0.11.0?classifier=sources
 - pkg:maven/com.virtlink.commons/commons-configuration2-jackson@0.2.0
 - pkg:maven/com.virtlink.commons/commons-configuration2-jackson@0.2.0?classifier=sources
 - pkg:maven/com.virtlink.commons/commons-configuration2-jackson@0.3.0

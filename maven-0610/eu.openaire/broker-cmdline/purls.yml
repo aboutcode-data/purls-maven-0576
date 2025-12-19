@@ -1,2 +1,4 @@
 - pkg:maven/eu.openaire/broker-cmdline@1.1.1
 - pkg:maven/eu.openaire/broker-cmdline@1.1.1?classifier=sources
+- pkg:maven/eu.openaire/broker-cmdline@1.1.2
+- pkg:maven/eu.openaire/broker-cmdline@1.1.2?classifier=sources

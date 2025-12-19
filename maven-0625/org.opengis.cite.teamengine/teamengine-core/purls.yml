@@ -18,3 +18,5 @@
 - pkg:maven/org.opengis.cite.teamengine/teamengine-core@5.4.1
 - pkg:maven/org.opengis.cite.teamengine/teamengine-core@5.4.1?classifier=sources
 - pkg:maven/org.opengis.cite.teamengine/teamengine-core@5.4?classifier=sources
+- pkg:maven/org.opengis.cite.teamengine/teamengine-core@5.5
+- pkg:maven/org.opengis.cite.teamengine/teamengine-core@5.5?classifier=sources

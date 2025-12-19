@@ -1,3 +1,5 @@
+- pkg:maven/com.powsybl/powsybl-powerfactory-dgs@4.10.0-alpha-1
+- pkg:maven/com.powsybl/powsybl-powerfactory-dgs@4.10.0-alpha-1?classifier=sources
 - pkg:maven/com.powsybl/powsybl-powerfactory-dgs@4.7.0
 - pkg:maven/com.powsybl/powsybl-powerfactory-dgs@4.7.0-RC1
 - pkg:maven/com.powsybl/powsybl-powerfactory-dgs@4.7.0-RC1?classifier=sources
@@ -14,3 +16,7 @@
 - pkg:maven/com.powsybl/powsybl-powerfactory-dgs@4.9.0-RC1
 - pkg:maven/com.powsybl/powsybl-powerfactory-dgs@4.9.0-RC1?classifier=sources
 - pkg:maven/com.powsybl/powsybl-powerfactory-dgs@4.9.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-powerfactory-dgs@4.9.1
+- pkg:maven/com.powsybl/powsybl-powerfactory-dgs@4.9.1?classifier=sources
+- pkg:maven/com.powsybl/powsybl-powerfactory-dgs@4.9.2
+- pkg:maven/com.powsybl/powsybl-powerfactory-dgs@4.9.2?classifier=sources

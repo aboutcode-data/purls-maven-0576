@@ -1,0 +1,2 @@
+- pkg:maven/io.github.qudtlib/qudtlib-model@1.0
+- pkg:maven/io.github.qudtlib/qudtlib-model@1.0?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/com.obsidiandynamics.yconf/yconf-gson@0.21.0?classifier=sources
+- pkg:maven/com.obsidiandynamics.yconf/yconf-gson@0.22.0?classifier=sources
+- pkg:maven/com.obsidiandynamics.yconf/yconf-gson@0.23.0?classifier=sources

@@ -94,6 +94,10 @@
 - pkg:maven/org.optaplanner/optaplanner-spring-boot-autoconfigure@7.70.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-spring-boot-autoconfigure@7.71.0.Final
 - pkg:maven/org.optaplanner/optaplanner-spring-boot-autoconfigure@7.71.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-spring-boot-autoconfigure@7.72.0.Final
+- pkg:maven/org.optaplanner/optaplanner-spring-boot-autoconfigure@7.72.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-spring-boot-autoconfigure@7.73.0.Final
+- pkg:maven/org.optaplanner/optaplanner-spring-boot-autoconfigure@7.73.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-spring-boot-autoconfigure@8.0.0.Beta1
 - pkg:maven/org.optaplanner/optaplanner-spring-boot-autoconfigure@8.0.0.Beta1?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-spring-boot-autoconfigure@8.0.0.Final
@@ -136,6 +140,14 @@
 - pkg:maven/org.optaplanner/optaplanner-spring-boot-autoconfigure@8.22.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-spring-boot-autoconfigure@8.22.1.Final
 - pkg:maven/org.optaplanner/optaplanner-spring-boot-autoconfigure@8.22.1.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-spring-boot-autoconfigure@8.23.0.Final
+- pkg:maven/org.optaplanner/optaplanner-spring-boot-autoconfigure@8.23.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-spring-boot-autoconfigure@8.24.0.Final
+- pkg:maven/org.optaplanner/optaplanner-spring-boot-autoconfigure@8.24.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-spring-boot-autoconfigure@8.24.1.Final
+- pkg:maven/org.optaplanner/optaplanner-spring-boot-autoconfigure@8.24.1.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-spring-boot-autoconfigure@8.25.0.Final
+- pkg:maven/org.optaplanner/optaplanner-spring-boot-autoconfigure@8.25.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-spring-boot-autoconfigure@8.3.0.Final
 - pkg:maven/org.optaplanner/optaplanner-spring-boot-autoconfigure@8.3.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-spring-boot-autoconfigure@8.4.0.Final

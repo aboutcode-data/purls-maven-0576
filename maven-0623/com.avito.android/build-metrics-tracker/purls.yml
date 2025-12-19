@@ -26,4 +26,5 @@
 - pkg:maven/com.avito.android/build-metrics-tracker@2021.40?classifier=sources
 - pkg:maven/com.avito.android/build-metrics-tracker@2021.41?classifier=sources
 - pkg:maven/com.avito.android/build-metrics-tracker@2021.42?classifier=sources
+- pkg:maven/com.avito.android/build-metrics-tracker@2022.12?classifier=sources
 - pkg:maven/com.avito.android/build-metrics-tracker@2022.1?classifier=sources

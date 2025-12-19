@@ -1,0 +1,2 @@
+- pkg:maven/io.newm/com.google.iot.cbor@0.01.02-NEWM
+- pkg:maven/io.newm/com.google.iot.cbor@0.01.02-NEWM?classifier=sources

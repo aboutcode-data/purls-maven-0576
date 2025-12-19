@@ -28,3 +28,5 @@
 - pkg:maven/de.digitalcollections.commons/dc-commons-springdata@4.1.2?classifier=sources
 - pkg:maven/de.digitalcollections.commons/dc-commons-springdata@5.0.0
 - pkg:maven/de.digitalcollections.commons/dc-commons-springdata@5.0.0?classifier=sources
+- pkg:maven/de.digitalcollections.commons/dc-commons-springdata@6.0.0
+- pkg:maven/de.digitalcollections.commons/dc-commons-springdata@6.0.0?classifier=sources

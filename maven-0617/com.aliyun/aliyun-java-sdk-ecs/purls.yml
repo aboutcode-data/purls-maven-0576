@@ -175,6 +175,10 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-ecs@4.24.2
 - pkg:maven/com.aliyun/aliyun-java-sdk-ecs@4.24.20
 - pkg:maven/com.aliyun/aliyun-java-sdk-ecs@4.24.20?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-ecs@4.24.21
+- pkg:maven/com.aliyun/aliyun-java-sdk-ecs@4.24.21?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-ecs@4.24.22
+- pkg:maven/com.aliyun/aliyun-java-sdk-ecs@4.24.22?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-ecs@4.24.2?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-ecs@4.24.3
 - pkg:maven/com.aliyun/aliyun-java-sdk-ecs@4.24.3?classifier=sources

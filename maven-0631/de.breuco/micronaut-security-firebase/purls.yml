@@ -4,3 +4,4 @@
 - pkg:maven/de.breuco/micronaut-security-firebase@0.2.1?classifier=sources
 - pkg:maven/de.breuco/micronaut-security-firebase@0.2.2?classifier=sources
 - pkg:maven/de.breuco/micronaut-security-firebase@0.2.3?classifier=sources
+- pkg:maven/de.breuco/micronaut-security-firebase@0.2.4?classifier=sources

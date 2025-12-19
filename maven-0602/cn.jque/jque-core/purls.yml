@@ -1,0 +1,6 @@
+- pkg:maven/cn.jque/jque-core@2022.06.28
+- pkg:maven/cn.jque/jque-core@2022.06.28?classifier=sources
+- pkg:maven/cn.jque/jque-core@2022.06.29
+- pkg:maven/cn.jque/jque-core@2022.06.29?classifier=sources
+- pkg:maven/cn.jque/jque-core@2022.07.04
+- pkg:maven/cn.jque/jque-core@2022.07.04?classifier=sources

@@ -370,6 +370,10 @@
 - pkg:maven/com.mparticle/android-kit-plugin@5.40.4?classifier=sources
 - pkg:maven/com.mparticle/android-kit-plugin@5.41.0?classifier=sources
 - pkg:maven/com.mparticle/android-kit-plugin@5.41.1?classifier=sources
+- pkg:maven/com.mparticle/android-kit-plugin@5.41.2?classifier=sources
+- pkg:maven/com.mparticle/android-kit-plugin@5.41.3?classifier=sources
+- pkg:maven/com.mparticle/android-kit-plugin@5.42.0?classifier=sources
+- pkg:maven/com.mparticle/android-kit-plugin@5.43.0?classifier=sources
 - pkg:maven/com.mparticle/android-kit-plugin@5.5.0
 - pkg:maven/com.mparticle/android-kit-plugin@5.5.0?classifier=sources
 - pkg:maven/com.mparticle/android-kit-plugin@5.5.1

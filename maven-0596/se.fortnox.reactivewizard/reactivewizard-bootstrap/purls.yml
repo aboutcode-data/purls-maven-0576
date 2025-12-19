@@ -68,6 +68,16 @@
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-bootstrap@13.1.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-bootstrap@13.2.0
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-bootstrap@13.2.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-bootstrap@13.3.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-bootstrap@13.3.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-bootstrap@14.0.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-bootstrap@14.0.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-bootstrap@14.1.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-bootstrap@14.1.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-bootstrap@14.2.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-bootstrap@14.2.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-bootstrap@14.3.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-bootstrap@14.3.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-bootstrap@2.0.0
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-bootstrap@2.0.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-bootstrap@2.0.1

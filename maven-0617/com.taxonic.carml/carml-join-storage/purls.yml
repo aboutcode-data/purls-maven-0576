@@ -1,3 +1,4 @@
+- pkg:maven/com.taxonic.carml/carml-join-storage@0.4.0
 - pkg:maven/com.taxonic.carml/carml-join-storage@0.4.0-beta-1
 - pkg:maven/com.taxonic.carml/carml-join-storage@0.4.0-beta-1?classifier=sources
 - pkg:maven/com.taxonic.carml/carml-join-storage@0.4.0-beta-2
@@ -6,3 +7,4 @@
 - pkg:maven/com.taxonic.carml/carml-join-storage@0.4.0-beta-4?classifier=sources
 - pkg:maven/com.taxonic.carml/carml-join-storage@0.4.0-beta-5
 - pkg:maven/com.taxonic.carml/carml-join-storage@0.4.0-beta-5?classifier=sources
+- pkg:maven/com.taxonic.carml/carml-join-storage@0.4.0?classifier=sources

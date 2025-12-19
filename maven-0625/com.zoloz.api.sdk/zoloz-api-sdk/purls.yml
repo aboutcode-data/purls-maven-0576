@@ -3,3 +3,5 @@
 - pkg:maven/com.zoloz.api.sdk/zoloz-api-sdk@0.1.0?classifier=sources
 - pkg:maven/com.zoloz.api.sdk/zoloz-api-sdk@0.1.1
 - pkg:maven/com.zoloz.api.sdk/zoloz-api-sdk@0.1.1?classifier=sources
+- pkg:maven/com.zoloz.api.sdk/zoloz-api-sdk@1.0.1
+- pkg:maven/com.zoloz.api.sdk/zoloz-api-sdk@1.0.1?classifier=sources

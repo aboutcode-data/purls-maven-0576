@@ -8,3 +8,7 @@
 - pkg:maven/org.webjars.bowergithub.firebase/firebaseui-web@3.5.2?classifier=sources
 - pkg:maven/org.webjars.bowergithub.firebase/firebaseui-web@4.6.1
 - pkg:maven/org.webjars.bowergithub.firebase/firebaseui-web@4.6.1?classifier=sources
+- pkg:maven/org.webjars.bowergithub.firebase/firebaseui-web@6.0.0
+- pkg:maven/org.webjars.bowergithub.firebase/firebaseui-web@6.0.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.firebase/firebaseui-web@6.0.1
+- pkg:maven/org.webjars.bowergithub.firebase/firebaseui-web@6.0.1?classifier=sources

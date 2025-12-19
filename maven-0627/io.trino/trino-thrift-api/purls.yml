@@ -68,3 +68,15 @@
 - pkg:maven/io.trino/trino-thrift-api@384?classifier=sources
 - pkg:maven/io.trino/trino-thrift-api@385
 - pkg:maven/io.trino/trino-thrift-api@385?classifier=sources
+- pkg:maven/io.trino/trino-thrift-api@386
+- pkg:maven/io.trino/trino-thrift-api@386?classifier=sources
+- pkg:maven/io.trino/trino-thrift-api@387
+- pkg:maven/io.trino/trino-thrift-api@387?classifier=sources
+- pkg:maven/io.trino/trino-thrift-api@388
+- pkg:maven/io.trino/trino-thrift-api@388?classifier=sources
+- pkg:maven/io.trino/trino-thrift-api@389
+- pkg:maven/io.trino/trino-thrift-api@389?classifier=sources
+- pkg:maven/io.trino/trino-thrift-api@390
+- pkg:maven/io.trino/trino-thrift-api@390?classifier=sources
+- pkg:maven/io.trino/trino-thrift-api@391
+- pkg:maven/io.trino/trino-thrift-api@391?classifier=sources

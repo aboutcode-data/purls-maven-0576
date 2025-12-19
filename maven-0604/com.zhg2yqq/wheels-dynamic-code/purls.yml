@@ -1,0 +1,10 @@
+- pkg:maven/com.zhg2yqq/wheels-dynamic-code@1.8.0
+- pkg:maven/com.zhg2yqq/wheels-dynamic-code@1.8.0-RELEASE
+- pkg:maven/com.zhg2yqq/wheels-dynamic-code@1.8.0-RELEASE?classifier=sources
+- pkg:maven/com.zhg2yqq/wheels-dynamic-code@1.8.0?classifier=sources
+- pkg:maven/com.zhg2yqq/wheels-dynamic-code@1.8.1
+- pkg:maven/com.zhg2yqq/wheels-dynamic-code@1.8.1?classifier=sources
+- pkg:maven/com.zhg2yqq/wheels-dynamic-code@1.8.2
+- pkg:maven/com.zhg2yqq/wheels-dynamic-code@1.8.2-LITE
+- pkg:maven/com.zhg2yqq/wheels-dynamic-code@1.8.2-LITE?classifier=sources
+- pkg:maven/com.zhg2yqq/wheels-dynamic-code@1.8.2?classifier=sources

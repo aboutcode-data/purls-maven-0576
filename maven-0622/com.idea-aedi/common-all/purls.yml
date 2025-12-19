@@ -82,5 +82,15 @@
 - pkg:maven/com.idea-aedi/common-all@2100.3.7?classifier=sources
 - pkg:maven/com.idea-aedi/common-all@2100.3.8
 - pkg:maven/com.idea-aedi/common-all@2100.3.8?classifier=sources
+- pkg:maven/com.idea-aedi/common-all@2100.3.9
+- pkg:maven/com.idea-aedi/common-all@2100.3.9?classifier=sources
+- pkg:maven/com.idea-aedi/common-all@2100.4.0
+- pkg:maven/com.idea-aedi/common-all@2100.4.0?classifier=sources
+- pkg:maven/com.idea-aedi/common-all@2100.4.1
+- pkg:maven/com.idea-aedi/common-all@2100.4.1?classifier=sources
+- pkg:maven/com.idea-aedi/common-all@2100.4.2
+- pkg:maven/com.idea-aedi/common-all@2100.4.2?classifier=sources
+- pkg:maven/com.idea-aedi/common-all@2100.4.3
+- pkg:maven/com.idea-aedi/common-all@2100.4.3?classifier=sources
 - pkg:maven/com.idea-aedi/common-all@21GA.3.3
 - pkg:maven/com.idea-aedi/common-all@21GA.3.3?classifier=sources

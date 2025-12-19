@@ -1,0 +1,2 @@
+- pkg:maven/com.parsely/parsely@3.0.2?classifier=sources
+- pkg:maven/com.parsely/parsely@3.0.3?classifier=sources

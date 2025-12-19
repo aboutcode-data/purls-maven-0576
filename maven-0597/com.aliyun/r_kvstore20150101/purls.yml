@@ -8,3 +8,5 @@
 - pkg:maven/com.aliyun/r_kvstore20150101@2.20.3?classifier=sources
 - pkg:maven/com.aliyun/r_kvstore20150101@2.20.4
 - pkg:maven/com.aliyun/r_kvstore20150101@2.20.4?classifier=sources
+- pkg:maven/com.aliyun/r_kvstore20150101@2.20.5
+- pkg:maven/com.aliyun/r_kvstore20150101@2.20.5?classifier=sources

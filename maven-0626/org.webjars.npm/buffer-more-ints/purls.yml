@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/buffer-more-ints@0.0.2
+- pkg:maven/org.webjars.npm/buffer-more-ints@0.0.2?classifier=sources

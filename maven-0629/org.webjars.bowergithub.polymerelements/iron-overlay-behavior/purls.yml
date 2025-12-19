@@ -1,5 +1,7 @@
 - pkg:maven/org.webjars.bowergithub.polymerelements/iron-overlay-behavior@1.10.4
 - pkg:maven/org.webjars.bowergithub.polymerelements/iron-overlay-behavior@1.10.4?classifier=sources
+- pkg:maven/org.webjars.bowergithub.polymerelements/iron-overlay-behavior@1.8.6
+- pkg:maven/org.webjars.bowergithub.polymerelements/iron-overlay-behavior@1.8.6?classifier=sources
 - pkg:maven/org.webjars.bowergithub.polymerelements/iron-overlay-behavior@2.3.1
 - pkg:maven/org.webjars.bowergithub.polymerelements/iron-overlay-behavior@2.3.1?classifier=sources
 - pkg:maven/org.webjars.bowergithub.polymerelements/iron-overlay-behavior@2.3.2

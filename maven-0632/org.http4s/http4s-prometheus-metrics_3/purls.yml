@@ -13,6 +13,8 @@
 - pkg:maven/org.http4s/http4s-prometheus-metrics_3@0.22.12?classifier=sources
 - pkg:maven/org.http4s/http4s-prometheus-metrics_3@0.22.13
 - pkg:maven/org.http4s/http4s-prometheus-metrics_3@0.22.13?classifier=sources
+- pkg:maven/org.http4s/http4s-prometheus-metrics_3@0.22.14
+- pkg:maven/org.http4s/http4s-prometheus-metrics_3@0.22.14?classifier=sources
 - pkg:maven/org.http4s/http4s-prometheus-metrics_3@0.22.1?classifier=sources
 - pkg:maven/org.http4s/http4s-prometheus-metrics_3@0.22.2
 - pkg:maven/org.http4s/http4s-prometheus-metrics_3@0.22.2?classifier=sources
@@ -60,6 +62,10 @@
 - pkg:maven/org.http4s/http4s-prometheus-metrics_3@0.23.8?classifier=sources
 - pkg:maven/org.http4s/http4s-prometheus-metrics_3@0.23.9
 - pkg:maven/org.http4s/http4s-prometheus-metrics_3@0.23.9?classifier=sources
+- pkg:maven/org.http4s/http4s-prometheus-metrics_3@0.24.0
+- pkg:maven/org.http4s/http4s-prometheus-metrics_3@0.24.0?classifier=sources
+- pkg:maven/org.http4s/http4s-prometheus-metrics_3@0.24.1
+- pkg:maven/org.http4s/http4s-prometheus-metrics_3@0.24.1?classifier=sources
 - pkg:maven/org.http4s/http4s-prometheus-metrics_3@1.0.0-M22
 - pkg:maven/org.http4s/http4s-prometheus-metrics_3@1.0.0-M22?classifier=sources
 - pkg:maven/org.http4s/http4s-prometheus-metrics_3@1.0.0-M23
@@ -80,3 +86,7 @@
 - pkg:maven/org.http4s/http4s-prometheus-metrics_3@1.0.0-M31?classifier=sources
 - pkg:maven/org.http4s/http4s-prometheus-metrics_3@1.0.0-M32
 - pkg:maven/org.http4s/http4s-prometheus-metrics_3@1.0.0-M32?classifier=sources
+- pkg:maven/org.http4s/http4s-prometheus-metrics_3@1.0.0-M34
+- pkg:maven/org.http4s/http4s-prometheus-metrics_3@1.0.0-M34?classifier=sources
+- pkg:maven/org.http4s/http4s-prometheus-metrics_3@1.0.0-M35
+- pkg:maven/org.http4s/http4s-prometheus-metrics_3@1.0.0-M35?classifier=sources
