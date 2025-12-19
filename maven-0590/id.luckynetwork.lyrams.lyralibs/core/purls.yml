@@ -1,0 +1,6 @@
+- pkg:maven/id.luckynetwork.lyrams.lyralibs/core@b293?classifier=sources
+- pkg:maven/id.luckynetwork.lyrams.lyralibs/core@b295?classifier=sources
+- pkg:maven/id.luckynetwork.lyrams.lyralibs/core@b297?classifier=sources
+- pkg:maven/id.luckynetwork.lyrams.lyralibs/core@b298?classifier=sources
+- pkg:maven/id.luckynetwork.lyrams.lyralibs/core@b299?classifier=sources
+- pkg:maven/id.luckynetwork.lyrams.lyralibs/core@b312?classifier=sources

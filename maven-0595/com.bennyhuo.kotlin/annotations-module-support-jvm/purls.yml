@@ -1,0 +1,2 @@
+- pkg:maven/com.bennyhuo.kotlin/annotations-module-support-jvm@1.6.10.0?classifier=sources
+- pkg:maven/com.bennyhuo.kotlin/annotations-module-support-jvm@1.7.10.0?classifier=sources

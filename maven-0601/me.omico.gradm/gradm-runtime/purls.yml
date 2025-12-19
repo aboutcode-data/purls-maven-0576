@@ -9,3 +9,6 @@
 - pkg:maven/me.omico.gradm/gradm-runtime@2.0.0?classifier=sources
 - pkg:maven/me.omico.gradm/gradm-runtime@2.1.0?classifier=sources
 - pkg:maven/me.omico.gradm/gradm-runtime@2.2.0?classifier=sources
+- pkg:maven/me.omico.gradm/gradm-runtime@2.3.0?classifier=sources
+- pkg:maven/me.omico.gradm/gradm-runtime@2.4.0?classifier=sources
+- pkg:maven/me.omico.gradm/gradm-runtime@2.5.0?classifier=sources

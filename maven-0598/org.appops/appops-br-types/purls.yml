@@ -1,2 +1,6 @@
 - pkg:maven/org.appops/appops-br-types@0.7.0
 - pkg:maven/org.appops/appops-br-types@0.7.0?classifier=sources
+- pkg:maven/org.appops/appops-br-types@0.9.0
+- pkg:maven/org.appops/appops-br-types@0.9.0?classifier=sources
+- pkg:maven/org.appops/appops-br-types@1.0-RC-1
+- pkg:maven/org.appops/appops-br-types@1.0-RC-1?classifier=sources

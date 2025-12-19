@@ -48,3 +48,7 @@
 - pkg:maven/com.sudoplatform/sudoprofiles@7.0.1?type=aar
 - pkg:maven/com.sudoplatform/sudoprofiles@8.0.0?classifier=sources
 - pkg:maven/com.sudoplatform/sudoprofiles@8.0.0?type=aar
+- pkg:maven/com.sudoplatform/sudoprofiles@8.1.0?classifier=sources
+- pkg:maven/com.sudoplatform/sudoprofiles@8.1.0?type=aar
+- pkg:maven/com.sudoplatform/sudoprofiles@9.0.0?classifier=sources
+- pkg:maven/com.sudoplatform/sudoprofiles@9.0.0?type=aar

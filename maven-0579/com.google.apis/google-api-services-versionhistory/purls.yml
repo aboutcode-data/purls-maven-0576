@@ -4,3 +4,7 @@
 - pkg:maven/com.google.apis/google-api-services-versionhistory@v1-rev20211028-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-versionhistory@v1-rev20220314-1.32.1
 - pkg:maven/com.google.apis/google-api-services-versionhistory@v1-rev20220314-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-versionhistory@v1-rev20220314-2.0.0
+- pkg:maven/com.google.apis/google-api-services-versionhistory@v1-rev20220314-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-versionhistory@v1-rev20220814-2.0.0
+- pkg:maven/com.google.apis/google-api-services-versionhistory@v1-rev20220814-2.0.0?classifier=sources

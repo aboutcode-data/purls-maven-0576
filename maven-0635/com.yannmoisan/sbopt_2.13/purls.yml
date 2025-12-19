@@ -2,5 +2,9 @@
 - pkg:maven/com.yannmoisan/sbopt_2.13@0.1-RC1-3?classifier=sources
 - pkg:maven/com.yannmoisan/sbopt_2.13@0.1-RC4
 - pkg:maven/com.yannmoisan/sbopt_2.13@0.1-RC4?classifier=sources
+- pkg:maven/com.yannmoisan/sbopt_2.13@0.1-RC6
+- pkg:maven/com.yannmoisan/sbopt_2.13@0.1-RC6?classifier=sources
+- pkg:maven/com.yannmoisan/sbopt_2.13@0.1-RC8
+- pkg:maven/com.yannmoisan/sbopt_2.13@0.1-RC8?classifier=sources
 - pkg:maven/com.yannmoisan/sbopt_2.13@0.1.RC3
 - pkg:maven/com.yannmoisan/sbopt_2.13@0.1.RC3?classifier=sources

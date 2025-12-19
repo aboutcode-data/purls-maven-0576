@@ -1,2 +1,4 @@
 - pkg:maven/org.appng/appng-template@1.14.3?classifier=sources
 - pkg:maven/org.appng/appng-template@1.14.3?type=zip
+- pkg:maven/org.appng/appng-template@1.14.4?classifier=sources
+- pkg:maven/org.appng/appng-template@1.14.4?type=zip

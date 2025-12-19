@@ -1,0 +1,6 @@
+- pkg:maven/com.ing.baker/baker-http-dashboard_2.12@3.6.0?classifier=sources
+- pkg:maven/com.ing.baker/baker-http-dashboard_2.12@3.6.0?type=zip
+- pkg:maven/com.ing.baker/baker-http-dashboard_2.12@3.6.2?classifier=sources
+- pkg:maven/com.ing.baker/baker-http-dashboard_2.12@3.6.2?type=zip
+- pkg:maven/com.ing.baker/baker-http-dashboard_2.12@3.6.3?classifier=sources
+- pkg:maven/com.ing.baker/baker-http-dashboard_2.12@3.6.3?type=zip

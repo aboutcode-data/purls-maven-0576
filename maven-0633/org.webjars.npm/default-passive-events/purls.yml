@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/default-passive-events@1.0.10
 - pkg:maven/org.webjars.npm/default-passive-events@1.0.10?classifier=sources
+- pkg:maven/org.webjars.npm/default-passive-events@2.0.0
+- pkg:maven/org.webjars.npm/default-passive-events@2.0.0?classifier=sources

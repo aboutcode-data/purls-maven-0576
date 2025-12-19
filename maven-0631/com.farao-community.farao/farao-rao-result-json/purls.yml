@@ -38,3 +38,5 @@
 - pkg:maven/com.farao-community.farao/farao-rao-result-json@3.9.4?classifier=sources
 - pkg:maven/com.farao-community.farao/farao-rao-result-json@4.0.0
 - pkg:maven/com.farao-community.farao/farao-rao-result-json@4.0.0?classifier=sources
+- pkg:maven/com.farao-community.farao/farao-rao-result-json@4.0.1
+- pkg:maven/com.farao-community.farao/farao-rao-result-json@4.0.1?classifier=sources

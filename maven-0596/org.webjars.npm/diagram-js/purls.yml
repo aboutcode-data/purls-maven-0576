@@ -14,3 +14,5 @@
 - pkg:maven/org.webjars.npm/diagram-js@7.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/diagram-js@8.5.0
 - pkg:maven/org.webjars.npm/diagram-js@8.5.0?classifier=sources
+- pkg:maven/org.webjars.npm/diagram-js@9.0.0-alpha.2
+- pkg:maven/org.webjars.npm/diagram-js@9.0.0-alpha.2?classifier=sources

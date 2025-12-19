@@ -8,3 +8,5 @@
 - pkg:maven/com.zhg2yqq/wheels-dynamic-code@1.8.2-LITE
 - pkg:maven/com.zhg2yqq/wheels-dynamic-code@1.8.2-LITE?classifier=sources
 - pkg:maven/com.zhg2yqq/wheels-dynamic-code@1.8.2?classifier=sources
+- pkg:maven/com.zhg2yqq/wheels-dynamic-code@1.8.3
+- pkg:maven/com.zhg2yqq/wheels-dynamic-code@1.8.3?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/io.helidon.webserver/helidon-webserver-websocket@3.0.0-RC2
 - pkg:maven/io.helidon.webserver/helidon-webserver-websocket@3.0.0-RC2?classifier=sources
 - pkg:maven/io.helidon.webserver/helidon-webserver-websocket@3.0.0?classifier=sources
+- pkg:maven/io.helidon.webserver/helidon-webserver-websocket@3.0.1
+- pkg:maven/io.helidon.webserver/helidon-webserver-websocket@3.0.1?classifier=sources

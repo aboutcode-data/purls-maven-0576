@@ -1,2 +1,3 @@
 - pkg:maven/com.citcon.sdk/cpay@4.22.06-alpha?classifier=sources
 - pkg:maven/com.citcon.sdk/cpay@4.22.06-beta?classifier=sources
+- pkg:maven/com.citcon.sdk/cpay@4.22.07?classifier=sources

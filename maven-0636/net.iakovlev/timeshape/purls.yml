@@ -22,3 +22,5 @@
 - pkg:maven/net.iakovlev/timeshape@2020d.11?classifier=sources
 - pkg:maven/net.iakovlev/timeshape@2020d.12
 - pkg:maven/net.iakovlev/timeshape@2020d.12?classifier=sources
+- pkg:maven/net.iakovlev/timeshape@2021c.13
+- pkg:maven/net.iakovlev/timeshape@2021c.13?classifier=sources

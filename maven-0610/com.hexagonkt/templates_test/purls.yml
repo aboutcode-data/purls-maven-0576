@@ -6,6 +6,12 @@
 - pkg:maven/com.hexagonkt/templates_test@2.0.15?classifier=sources
 - pkg:maven/com.hexagonkt/templates_test@2.0.16?classifier=sources
 - pkg:maven/com.hexagonkt/templates_test@2.0.17?classifier=sources
+- pkg:maven/com.hexagonkt/templates_test@2.0.18?classifier=sources
+- pkg:maven/com.hexagonkt/templates_test@2.0.19?classifier=sources
+- pkg:maven/com.hexagonkt/templates_test@2.0.20?classifier=sources
+- pkg:maven/com.hexagonkt/templates_test@2.0.21?classifier=sources
+- pkg:maven/com.hexagonkt/templates_test@2.0.22?classifier=sources
+- pkg:maven/com.hexagonkt/templates_test@2.0.23?classifier=sources
 - pkg:maven/com.hexagonkt/templates_test@2.0.3?classifier=sources
 - pkg:maven/com.hexagonkt/templates_test@2.0.4?classifier=sources
 - pkg:maven/com.hexagonkt/templates_test@2.0.5?classifier=sources

@@ -24,3 +24,7 @@
 - pkg:maven/com.github.database-rider/quarkus-postgres-sample@1.32.2?classifier=sources
 - pkg:maven/com.github.database-rider/quarkus-postgres-sample@1.32.3
 - pkg:maven/com.github.database-rider/quarkus-postgres-sample@1.32.3?classifier=sources
+- pkg:maven/com.github.database-rider/quarkus-postgres-sample@1.33.0
+- pkg:maven/com.github.database-rider/quarkus-postgres-sample@1.33.0?classifier=sources
+- pkg:maven/com.github.database-rider/quarkus-postgres-sample@1.34.0
+- pkg:maven/com.github.database-rider/quarkus-postgres-sample@1.34.0?classifier=sources

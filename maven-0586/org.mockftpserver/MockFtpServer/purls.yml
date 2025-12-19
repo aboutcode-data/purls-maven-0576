@@ -31,3 +31,4 @@
 - pkg:maven/org.mockftpserver/MockFtpServer@2.7?classifier=sources
 - pkg:maven/org.mockftpserver/MockFtpServer@2.8.0?classifier=sources
 - pkg:maven/org.mockftpserver/MockFtpServer@3.0.0?classifier=sources
+- pkg:maven/org.mockftpserver/MockFtpServer@3.1.0?classifier=sources

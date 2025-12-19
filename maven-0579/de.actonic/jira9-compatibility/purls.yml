@@ -1,0 +1,2 @@
+- pkg:maven/de.actonic/jira9-compatibility@1.0.0
+- pkg:maven/de.actonic/jira9-compatibility@1.0.0?classifier=sources

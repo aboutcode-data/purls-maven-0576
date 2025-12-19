@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.bowergithub.apexcharts/apexcharts.js@3.27.3?classifier=sources
 - pkg:maven/org.webjars.bowergithub.apexcharts/apexcharts.js@3.28.2
 - pkg:maven/org.webjars.bowergithub.apexcharts/apexcharts.js@3.28.2?classifier=sources
+- pkg:maven/org.webjars.bowergithub.apexcharts/apexcharts.js@3.35.0
+- pkg:maven/org.webjars.bowergithub.apexcharts/apexcharts.js@3.35.0?classifier=sources

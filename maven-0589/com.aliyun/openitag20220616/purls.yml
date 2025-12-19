@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun/openitag20220616@1.0.0
+- pkg:maven/com.aliyun/openitag20220616@1.0.0?classifier=sources

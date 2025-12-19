@@ -235,7 +235,13 @@
 - pkg:maven/io.janstenpickle/trace4cats-exporter-http_2.13@0.13.1%2B24-0ce6e048?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-exporter-http_2.13@0.13.1%2B26-3c5516ed
 - pkg:maven/io.janstenpickle/trace4cats-exporter-http_2.13@0.13.1%2B26-3c5516ed?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-exporter-http_2.13@0.13.1%2B29-db4c4de8
+- pkg:maven/io.janstenpickle/trace4cats-exporter-http_2.13@0.13.1%2B29-db4c4de8?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-exporter-http_2.13@0.13.1%2B33-dafd2381
+- pkg:maven/io.janstenpickle/trace4cats-exporter-http_2.13@0.13.1%2B33-dafd2381?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-exporter-http_2.13@0.13.1?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-exporter-http_2.13@0.14.0
+- pkg:maven/io.janstenpickle/trace4cats-exporter-http_2.13@0.14.0?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-exporter-http_2.13@0.2.0
 - pkg:maven/io.janstenpickle/trace4cats-exporter-http_2.13@0.2.0%2B1-b13cdc37
 - pkg:maven/io.janstenpickle/trace4cats-exporter-http_2.13@0.2.0%2B1-b13cdc37?classifier=sources

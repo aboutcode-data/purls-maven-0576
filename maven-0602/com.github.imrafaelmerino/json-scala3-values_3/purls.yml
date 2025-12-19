@@ -1,0 +1,2 @@
+- pkg:maven/com.github.imrafaelmerino/json-scala3-values_3@5.0.0
+- pkg:maven/com.github.imrafaelmerino/json-scala3-values_3@5.0.0?classifier=sources

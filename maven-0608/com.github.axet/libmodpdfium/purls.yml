@@ -1,5 +1,7 @@
 - pkg:maven/com.github.axet/libmodpdfium@25bc9a9-1?type=aar
 - pkg:maven/com.github.axet/libmodpdfium@25bc9a9-3?type=aar
 - pkg:maven/com.github.axet/libmodpdfium@25bc9a9?type=aar
+- pkg:maven/com.github.axet/libmodpdfium@57e40e8?classifier=sources
+- pkg:maven/com.github.axet/libmodpdfium@57e40e8?type=aar
 - pkg:maven/com.github.axet/libmodpdfium@dc397e0?classifier=sources
 - pkg:maven/com.github.axet/libmodpdfium@dc397e0?type=aar

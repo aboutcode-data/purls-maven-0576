@@ -2,3 +2,4 @@
 - pkg:maven/com.himanshoe/kalendar-endlos@1.0.0-RC5?classifier=sources
 - pkg:maven/com.himanshoe/kalendar-endlos@1.0.0-RC6?classifier=sources
 - pkg:maven/com.himanshoe/kalendar-endlos@1.0.0-alpha1?classifier=sources
+- pkg:maven/com.himanshoe/kalendar-endlos@1.0.0?classifier=sources

@@ -50,3 +50,9 @@
 - pkg:maven/com.swiftmq/swiftmq-client@12.4.0?classifier=sources
 - pkg:maven/com.swiftmq/swiftmq-client@12.4.1
 - pkg:maven/com.swiftmq/swiftmq-client@12.4.1?classifier=sources
+- pkg:maven/com.swiftmq/swiftmq-client@12.5.0
+- pkg:maven/com.swiftmq/swiftmq-client@12.5.0?classifier=sources
+- pkg:maven/com.swiftmq/swiftmq-client@12.5.1
+- pkg:maven/com.swiftmq/swiftmq-client@12.5.1?classifier=sources
+- pkg:maven/com.swiftmq/swiftmq-client@12.5.2
+- pkg:maven/com.swiftmq/swiftmq-client@12.5.2?classifier=sources

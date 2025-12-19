@@ -38,3 +38,5 @@
 - pkg:maven/wtf.metio.reguloj/reguloj@2022.7.12?classifier=sources
 - pkg:maven/wtf.metio.reguloj/reguloj@2022.8.16
 - pkg:maven/wtf.metio.reguloj/reguloj@2022.8.16?classifier=sources
+- pkg:maven/wtf.metio.reguloj/reguloj@2022.9.13
+- pkg:maven/wtf.metio.reguloj/reguloj@2022.9.13?classifier=sources

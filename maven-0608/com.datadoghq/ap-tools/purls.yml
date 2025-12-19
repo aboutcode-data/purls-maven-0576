@@ -30,3 +30,17 @@
 - pkg:maven/com.datadoghq/ap-tools@2.8-DD-20220530?classifier=sources
 - pkg:maven/com.datadoghq/ap-tools@2.8.3-DD-20220720
 - pkg:maven/com.datadoghq/ap-tools@2.8.3-DD-20220720?classifier=sources
+- pkg:maven/com.datadoghq/ap-tools@2.8.3-DD-20220809
+- pkg:maven/com.datadoghq/ap-tools@2.8.3-DD-20220809?classifier=sources
+- pkg:maven/com.datadoghq/ap-tools@2.8.3-DD-20220810
+- pkg:maven/com.datadoghq/ap-tools@2.8.3-DD-20220810?classifier=sources
+- pkg:maven/com.datadoghq/ap-tools@2.8.3-DD-20220812
+- pkg:maven/com.datadoghq/ap-tools@2.8.3-DD-20220812?classifier=sources
+- pkg:maven/com.datadoghq/ap-tools@2.8.3-DD-20220822
+- pkg:maven/com.datadoghq/ap-tools@2.8.3-DD-20220822?classifier=sources
+- pkg:maven/com.datadoghq/ap-tools@2.8.3-DD-20220822_1
+- pkg:maven/com.datadoghq/ap-tools@2.8.3-DD-20220822_1?classifier=sources
+- pkg:maven/com.datadoghq/ap-tools@2.8.3-DD-20220829
+- pkg:maven/com.datadoghq/ap-tools@2.8.3-DD-20220829?classifier=sources
+- pkg:maven/com.datadoghq/ap-tools@2.8.3-DD-20220830
+- pkg:maven/com.datadoghq/ap-tools@2.8.3-DD-20220830?classifier=sources

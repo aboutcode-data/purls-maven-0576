@@ -1,1 +1,2 @@
 - pkg:maven/com.linecorp.lich/component-compose@2.8.0?classifier=sources
+- pkg:maven/com.linecorp.lich/component-compose@2.9.0?classifier=sources

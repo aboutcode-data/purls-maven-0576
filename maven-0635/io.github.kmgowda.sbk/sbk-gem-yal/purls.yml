@@ -9,4 +9,7 @@
 - pkg:maven/io.github.kmgowda.sbk/sbk-gem-yal@0.97?classifier=sources
 - pkg:maven/io.github.kmgowda.sbk/sbk-gem-yal@0.98?classifier=sources
 - pkg:maven/io.github.kmgowda.sbk/sbk-gem-yal@0.991?classifier=sources
+- pkg:maven/io.github.kmgowda.sbk/sbk-gem-yal@0.992?classifier=sources
 - pkg:maven/io.github.kmgowda.sbk/sbk-gem-yal@0.99?classifier=sources
+- pkg:maven/io.github.kmgowda.sbk/sbk-gem-yal@1.0?classifier=sources
+- pkg:maven/io.github.kmgowda.sbk/sbk-gem-yal@1.1?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/com.jeremiahzucker.test.bazel/library-jvm@6.3.3?classifier=sources
 - pkg:maven/com.jeremiahzucker.test.bazel/library-jvm@6.5.1
 - pkg:maven/com.jeremiahzucker.test.bazel/library-jvm@6.5.1?classifier=sources
+- pkg:maven/com.jeremiahzucker.test.bazel/library-jvm@6.5.6
+- pkg:maven/com.jeremiahzucker.test.bazel/library-jvm@6.5.6?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/io.avaje.metrics/metrics-api@8.3?classifier=sources
 - pkg:maven/io.avaje.metrics/metrics-api@8.4
 - pkg:maven/io.avaje.metrics/metrics-api@8.4?classifier=sources
+- pkg:maven/io.avaje.metrics/metrics-api@9.0.0
+- pkg:maven/io.avaje.metrics/metrics-api@9.0.0?classifier=sources

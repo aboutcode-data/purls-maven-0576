@@ -1,0 +1,2 @@
+- pkg:maven/ee.omnifish/transact-jts@1.0.0
+- pkg:maven/ee.omnifish/transact-jts@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.risingauto.gateway/tob-gateway-client@1.0.0
+- pkg:maven/com.risingauto.gateway/tob-gateway-client@1.0.0?classifier=sources

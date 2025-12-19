@@ -27,6 +27,8 @@
 - pkg:maven/com.github.imrafaelmerino/json-values@11.5.0?classifier=sources
 - pkg:maven/com.github.imrafaelmerino/json-values@11.6.0
 - pkg:maven/com.github.imrafaelmerino/json-values@11.6.0?classifier=sources
+- pkg:maven/com.github.imrafaelmerino/json-values@11.7.0
+- pkg:maven/com.github.imrafaelmerino/json-values@11.7.0?classifier=sources
 - pkg:maven/com.github.imrafaelmerino/json-values@2.0.0?classifier=sources
 - pkg:maven/com.github.imrafaelmerino/json-values@2.0.1?classifier=sources
 - pkg:maven/com.github.imrafaelmerino/json-values@2.0.2?classifier=sources

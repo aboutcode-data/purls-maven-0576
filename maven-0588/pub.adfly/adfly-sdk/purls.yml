@@ -24,6 +24,8 @@
 - pkg:maven/pub.adfly/adfly-sdk@0.11.7?type=aar
 - pkg:maven/pub.adfly/adfly-sdk@0.11.8?classifier=sources
 - pkg:maven/pub.adfly/adfly-sdk@0.11.8?type=aar
+- pkg:maven/pub.adfly/adfly-sdk@0.11.9?classifier=sources
+- pkg:maven/pub.adfly/adfly-sdk@0.11.9?type=aar
 - pkg:maven/pub.adfly/adfly-sdk@0.12.0?classifier=sources
 - pkg:maven/pub.adfly/adfly-sdk@0.12.0?type=aar
 - pkg:maven/pub.adfly/adfly-sdk@0.13.0?classifier=sources
@@ -50,6 +52,10 @@
 - pkg:maven/pub.adfly/adfly-sdk@0.18.0-beta01?type=aar
 - pkg:maven/pub.adfly/adfly-sdk@0.18.0-beta02?classifier=sources
 - pkg:maven/pub.adfly/adfly-sdk@0.18.0-beta02?type=aar
+- pkg:maven/pub.adfly/adfly-sdk@0.19.0-beta01?classifier=sources
+- pkg:maven/pub.adfly/adfly-sdk@0.19.0-beta01?type=aar
+- pkg:maven/pub.adfly/adfly-sdk@0.20.0-beta01?classifier=sources
+- pkg:maven/pub.adfly/adfly-sdk@0.20.0-beta01?type=aar
 - pkg:maven/pub.adfly/adfly-sdk@0.4.1?classifier=sources
 - pkg:maven/pub.adfly/adfly-sdk@0.4.1?type=aar
 - pkg:maven/pub.adfly/adfly-sdk@0.4.2?classifier=sources

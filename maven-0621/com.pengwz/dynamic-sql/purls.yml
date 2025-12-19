@@ -43,4 +43,6 @@
 - pkg:maven/com.pengwz/dynamic-sql@2.1.4
 - pkg:maven/com.pengwz/dynamic-sql@2.1.4?classifier=sources
 - pkg:maven/com.pengwz/dynamic-sql@2.1.5
+- pkg:maven/com.pengwz/dynamic-sql@2.1.5.hotfix
+- pkg:maven/com.pengwz/dynamic-sql@2.1.5.hotfix?classifier=sources
 - pkg:maven/com.pengwz/dynamic-sql@2.1.5?classifier=sources

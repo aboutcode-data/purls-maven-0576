@@ -37,4 +37,8 @@
 - pkg:maven/com.antgroup.antchain.openapi/openapi-baasdt@1.3.69
 - pkg:maven/com.antgroup.antchain.openapi/openapi-baasdt@1.3.69?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-baasdt@1.3.7
+- pkg:maven/com.antgroup.antchain.openapi/openapi-baasdt@1.3.73
+- pkg:maven/com.antgroup.antchain.openapi/openapi-baasdt@1.3.73?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-baasdt@1.3.74
+- pkg:maven/com.antgroup.antchain.openapi/openapi-baasdt@1.3.74?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-baasdt@1.3.7?classifier=sources

@@ -4,3 +4,4 @@
 - pkg:maven/com.kuaishou.koom/xhook@2.0.0?classifier=sources
 - pkg:maven/com.kuaishou.koom/xhook@2.1.0?classifier=sources
 - pkg:maven/com.kuaishou.koom/xhook@2.2.0?classifier=sources
+- pkg:maven/com.kuaishou.koom/xhook@2.2.1?classifier=sources

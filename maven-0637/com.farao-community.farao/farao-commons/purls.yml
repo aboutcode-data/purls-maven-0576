@@ -66,3 +66,5 @@
 - pkg:maven/com.farao-community.farao/farao-commons@3.9.4?classifier=sources
 - pkg:maven/com.farao-community.farao/farao-commons@4.0.0
 - pkg:maven/com.farao-community.farao/farao-commons@4.0.0?classifier=sources
+- pkg:maven/com.farao-community.farao/farao-commons@4.0.1
+- pkg:maven/com.farao-community.farao/farao-commons@4.0.1?classifier=sources

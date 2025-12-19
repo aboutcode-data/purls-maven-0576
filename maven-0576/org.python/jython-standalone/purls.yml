@@ -44,4 +44,6 @@
 - pkg:maven/org.python/jython-standalone@2.7.2b3?classifier=sources
 - pkg:maven/org.python/jython-standalone@2.7.2rc1
 - pkg:maven/org.python/jython-standalone@2.7.2rc1?classifier=sources
+- pkg:maven/org.python/jython-standalone@2.7.3?classifier=sources
 - pkg:maven/org.python/jython-standalone@2.7.3b1?classifier=sources
+- pkg:maven/org.python/jython-standalone@2.7.3rc1?classifier=sources

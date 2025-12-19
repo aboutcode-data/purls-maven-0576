@@ -1,0 +1,2 @@
+- pkg:maven/com.pulumi/opsgenie@1.1.9?classifier=sources
+- pkg:maven/com.pulumi/opsgenie@1.2.0-alpha.1660649511%2B9621bb7d?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/net.orandja.tt/TT@0.2.0?classifier=sources
 - pkg:maven/net.orandja.tt/TT@0.3.0?classifier=sources
 - pkg:maven/net.orandja.tt/TT@0.5.0?classifier=sources
+- pkg:maven/net.orandja.tt/TT@0.6.0?classifier=sources
+- pkg:maven/net.orandja.tt/TT@0.6.1?classifier=sources

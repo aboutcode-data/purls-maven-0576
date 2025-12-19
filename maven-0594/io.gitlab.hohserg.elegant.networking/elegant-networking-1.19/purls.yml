@@ -1,1 +1,2 @@
 - pkg:maven/io.gitlab.hohserg.elegant.networking/elegant-networking-1.19@3.16?classifier=sources
+- pkg:maven/io.gitlab.hohserg.elegant.networking/elegant-networking-1.19@3.17?classifier=sources

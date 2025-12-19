@@ -37,3 +37,5 @@
 - pkg:maven/com.tencent.imsdk/imsdk-plus@6.5.2810?type=aar
 - pkg:maven/com.tencent.imsdk/imsdk-plus@6.5.2816?classifier=sources
 - pkg:maven/com.tencent.imsdk/imsdk-plus@6.5.2816?type=aar
+- pkg:maven/com.tencent.imsdk/imsdk-plus@6.6.3002?classifier=sources
+- pkg:maven/com.tencent.imsdk/imsdk-plus@6.6.3002?type=aar

@@ -1,2 +1,4 @@
 - pkg:maven/com.yahoo.sherlock/sherlock@1.11
 - pkg:maven/com.yahoo.sherlock/sherlock@1.11?classifier=sources
+- pkg:maven/com.yahoo.sherlock/sherlock@1.12
+- pkg:maven/com.yahoo.sherlock/sherlock@1.12?classifier=sources

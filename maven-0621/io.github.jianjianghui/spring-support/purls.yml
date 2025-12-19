@@ -1,0 +1,2 @@
+- pkg:maven/io.github.jianjianghui/spring-support@1.2.0
+- pkg:maven/io.github.jianjianghui/spring-support@1.2.0?classifier=sources

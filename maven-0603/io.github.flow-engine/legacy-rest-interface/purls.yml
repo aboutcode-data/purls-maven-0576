@@ -1,0 +1,2 @@
+- pkg:maven/io.github.flow-engine/legacy-rest-interface@0.0.2
+- pkg:maven/io.github.flow-engine/legacy-rest-interface@0.0.2?classifier=sources

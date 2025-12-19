@@ -16,6 +16,10 @@
 - pkg:maven/com.google.apis/google-api-services-datastream@v1-rev20220629-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-datastream@v1-rev20220711-1.32.1
 - pkg:maven/com.google.apis/google-api-services-datastream@v1-rev20220711-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-datastream@v1-rev20220711-2.0.0
+- pkg:maven/com.google.apis/google-api-services-datastream@v1-rev20220711-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-datastream@v1-rev20220817-2.0.0
+- pkg:maven/com.google.apis/google-api-services-datastream@v1-rev20220817-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-datastream@v1alpha1-rev20211018-1.32.1
 - pkg:maven/com.google.apis/google-api-services-datastream@v1alpha1-rev20211018-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-datastream@v1alpha1-rev20211026-1.32.1
@@ -34,3 +38,5 @@
 - pkg:maven/com.google.apis/google-api-services-datastream@v1alpha1-rev20220405-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-datastream@v1alpha1-rev20220629-1.32.1
 - pkg:maven/com.google.apis/google-api-services-datastream@v1alpha1-rev20220629-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-datastream@v1alpha1-rev20220629-2.0.0
+- pkg:maven/com.google.apis/google-api-services-datastream@v1alpha1-rev20220629-2.0.0?classifier=sources

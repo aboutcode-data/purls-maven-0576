@@ -1,0 +1,2 @@
+- pkg:maven/io.github.zhinushannan/hbase-tools@0.0.3-RELEASE
+- pkg:maven/io.github.zhinushannan/hbase-tools@0.0.3-RELEASE?classifier=sources

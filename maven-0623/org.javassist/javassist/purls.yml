@@ -50,3 +50,7 @@
 - pkg:maven/org.javassist/javassist@3.28.0-GA?classifier=sources
 - pkg:maven/org.javassist/javassist@3.29.0-GA
 - pkg:maven/org.javassist/javassist@3.29.0-GA?classifier=sources
+- pkg:maven/org.javassist/javassist@3.29.1-GA
+- pkg:maven/org.javassist/javassist@3.29.1-GA?classifier=sources
+- pkg:maven/org.javassist/javassist@3.29.2-GA
+- pkg:maven/org.javassist/javassist@3.29.2-GA?classifier=sources

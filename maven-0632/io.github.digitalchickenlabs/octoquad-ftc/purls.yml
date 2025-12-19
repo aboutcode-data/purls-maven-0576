@@ -1,3 +1,4 @@
 - pkg:maven/io.github.digitalchickenlabs/octoquad-ftc@1.0-A?classifier=sources
 - pkg:maven/io.github.digitalchickenlabs/octoquad-ftc@1.0-B?classifier=sources
 - pkg:maven/io.github.digitalchickenlabs/octoquad-ftc@1.0-C?classifier=sources
+- pkg:maven/io.github.digitalchickenlabs/octoquad-ftc@2.0-A?classifier=sources

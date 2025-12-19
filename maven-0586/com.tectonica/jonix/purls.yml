@@ -1,3 +1,5 @@
+- pkg:maven/com.tectonica/jonix@2022-08
+- pkg:maven/com.tectonica/jonix@2022-08?classifier=sources
 - pkg:maven/com.tectonica/jonix@3.0
 - pkg:maven/com.tectonica/jonix@3.0?classifier=sources
 - pkg:maven/com.tectonica/jonix@3.1-rc1

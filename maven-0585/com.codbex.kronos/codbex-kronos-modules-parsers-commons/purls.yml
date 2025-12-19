@@ -1,0 +1,2 @@
+- pkg:maven/com.codbex.kronos/codbex-kronos-modules-parsers-commons@0.2.0
+- pkg:maven/com.codbex.kronos/codbex-kronos-modules-parsers-commons@0.2.0?classifier=sources

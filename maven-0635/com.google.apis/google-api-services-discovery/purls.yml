@@ -92,6 +92,8 @@
 - pkg:maven/com.google.apis/google-api-services-discovery@v1-rev20200806-1.31.5?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-discovery@v1-rev20200806-1.32.1
 - pkg:maven/com.google.apis/google-api-services-discovery@v1-rev20200806-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-discovery@v1-rev20200806-2.0.0
+- pkg:maven/com.google.apis/google-api-services-discovery@v1-rev20200806-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-discovery@v1-rev21-1.13.2-beta
 - pkg:maven/com.google.apis/google-api-services-discovery@v1-rev21-1.13.2-beta?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-discovery@v1-rev21-1.14.1-beta

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.lowcode-tools/javapoet-ext@1.0.1
+- pkg:maven/io.github.lowcode-tools/javapoet-ext@1.0.1?classifier=sources

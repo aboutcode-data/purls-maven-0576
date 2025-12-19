@@ -24,3 +24,5 @@
 - pkg:maven/org.daisy.pipeline.modules/fileset-utils@3.1.0?classifier=sources
 - pkg:maven/org.daisy.pipeline.modules/fileset-utils@4.0.0
 - pkg:maven/org.daisy.pipeline.modules/fileset-utils@4.0.0?classifier=sources
+- pkg:maven/org.daisy.pipeline.modules/fileset-utils@5.0.0
+- pkg:maven/org.daisy.pipeline.modules/fileset-utils@5.0.0?classifier=sources

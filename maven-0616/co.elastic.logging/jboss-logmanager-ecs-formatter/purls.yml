@@ -20,3 +20,5 @@
 - pkg:maven/co.elastic.logging/jboss-logmanager-ecs-formatter@1.3.2?classifier=sources
 - pkg:maven/co.elastic.logging/jboss-logmanager-ecs-formatter@1.4.0
 - pkg:maven/co.elastic.logging/jboss-logmanager-ecs-formatter@1.4.0?classifier=sources
+- pkg:maven/co.elastic.logging/jboss-logmanager-ecs-formatter@1.5.0
+- pkg:maven/co.elastic.logging/jboss-logmanager-ecs-formatter@1.5.0?classifier=sources

@@ -38,3 +38,4 @@
 - pkg:maven/com.sourcepoint.cmplibrary/cmplibrary@6.6.0?classifier=sources
 - pkg:maven/com.sourcepoint.cmplibrary/cmplibrary@6.6.1?classifier=sources
 - pkg:maven/com.sourcepoint.cmplibrary/cmplibrary@6.7.0?classifier=sources
+- pkg:maven/com.sourcepoint.cmplibrary/cmplibrary@6.7.1?classifier=sources

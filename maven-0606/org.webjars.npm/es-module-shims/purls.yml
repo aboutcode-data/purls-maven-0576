@@ -12,6 +12,8 @@
 - pkg:maven/org.webjars.npm/es-module-shims@1.4.1?classifier=sources
 - pkg:maven/org.webjars.npm/es-module-shims@1.4.7
 - pkg:maven/org.webjars.npm/es-module-shims@1.4.7?classifier=sources
+- pkg:maven/org.webjars.npm/es-module-shims@1.5.10
+- pkg:maven/org.webjars.npm/es-module-shims@1.5.10?classifier=sources
 - pkg:maven/org.webjars.npm/es-module-shims@1.5.2
 - pkg:maven/org.webjars.npm/es-module-shims@1.5.2?classifier=sources
 - pkg:maven/org.webjars.npm/es-module-shims@1.5.8

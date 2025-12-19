@@ -16,3 +16,5 @@
 - pkg:maven/cloud.piranha.server/piranha-server-isolated@22.6.0?type=zip
 - pkg:maven/cloud.piranha.server/piranha-server-isolated@22.7.0?classifier=sources
 - pkg:maven/cloud.piranha.server/piranha-server-isolated@22.7.0?type=zip
+- pkg:maven/cloud.piranha.server/piranha-server-isolated@22.8.0?classifier=sources
+- pkg:maven/cloud.piranha.server/piranha-server-isolated@22.8.0?type=zip

@@ -60,3 +60,8 @@
 - pkg:maven/com.tradplusad/tradplus-vungle@7.8.0.20?type=aar
 - pkg:maven/com.tradplusad/tradplus-vungle@7.8.0.30?type=aar
 - pkg:maven/com.tradplusad/tradplus-vungle@7.8.1.0?type=aar
+- pkg:maven/com.tradplusad/tradplus-vungle@7.8.1.11?type=aar
+- pkg:maven/com.tradplusad/tradplus-vungle@7.8.2.0?type=aar
+- pkg:maven/com.tradplusad/tradplus-vungle@7.8.3.0?type=aar
+- pkg:maven/com.tradplusad/tradplus-vungle@7.8.3.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-vungle@7.8.4.0?type=aar

@@ -20,5 +20,7 @@
 - pkg:maven/com.bihe0832.android/lib-refresh@4.20.0?type=aar
 - pkg:maven/com.bihe0832.android/lib-refresh@4.20.22?type=aar
 - pkg:maven/com.bihe0832.android/lib-refresh@4.20.8?type=aar
+- pkg:maven/com.bihe0832.android/lib-refresh@4.21.11?type=aar
+- pkg:maven/com.bihe0832.android/lib-refresh@4.23.1?type=aar
 - pkg:maven/com.bihe0832.android/lib-refresh@4.5.6?type=aar
 - pkg:maven/com.bihe0832.android/lib-refresh@4.8.2?type=aar
