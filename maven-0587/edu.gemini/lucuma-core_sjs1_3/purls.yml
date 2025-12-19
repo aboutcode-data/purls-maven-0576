@@ -88,3 +88,7 @@
 - pkg:maven/edu.gemini/lucuma-core_sjs1_3@0.82.0?classifier=sources
 - pkg:maven/edu.gemini/lucuma-core_sjs1_3@0.83.0
 - pkg:maven/edu.gemini/lucuma-core_sjs1_3@0.83.0?classifier=sources
+- pkg:maven/edu.gemini/lucuma-core_sjs1_3@0.84.0
+- pkg:maven/edu.gemini/lucuma-core_sjs1_3@0.84.0?classifier=sources
+- pkg:maven/edu.gemini/lucuma-core_sjs1_3@0.84.1
+- pkg:maven/edu.gemini/lucuma-core_sjs1_3@0.84.1?classifier=sources

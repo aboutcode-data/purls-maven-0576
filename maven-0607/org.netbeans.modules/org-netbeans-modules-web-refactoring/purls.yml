@@ -17,3 +17,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-refactoring@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-refactoring@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-refactoring@RELEASE180?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-refactoring@RELEASE190?classifier=sources

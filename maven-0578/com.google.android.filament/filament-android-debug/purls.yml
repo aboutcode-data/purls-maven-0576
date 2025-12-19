@@ -1,2 +1,5 @@
 - pkg:maven/com.google.android.filament/filament-android-debug@1.40.3?classifier=sources
 - pkg:maven/com.google.android.filament/filament-android-debug@1.40.4?classifier=sources
+- pkg:maven/com.google.android.filament/filament-android-debug@1.40.5?classifier=sources
+- pkg:maven/com.google.android.filament/filament-android-debug@1.41.0?classifier=sources
+- pkg:maven/com.google.android.filament/filament-android-debug@1.42.0?classifier=sources

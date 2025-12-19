@@ -121,3 +121,5 @@
 - pkg:maven/org.alluxio/alluxio-tests@301?classifier=sources
 - pkg:maven/org.alluxio/alluxio-tests@302
 - pkg:maven/org.alluxio/alluxio-tests@302?classifier=sources
+- pkg:maven/org.alluxio/alluxio-tests@303
+- pkg:maven/org.alluxio/alluxio-tests@303?classifier=sources

@@ -182,3 +182,5 @@
 - pkg:maven/io.smallrye/smallrye-graphql-client-generator-test@2.2.1?classifier=sources
 - pkg:maven/io.smallrye/smallrye-graphql-client-generator-test@2.3.0
 - pkg:maven/io.smallrye/smallrye-graphql-client-generator-test@2.3.0?classifier=sources
+- pkg:maven/io.smallrye/smallrye-graphql-client-generator-test@2.4.0
+- pkg:maven/io.smallrye/smallrye-graphql-client-generator-test@2.4.0?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/za.co.absa.spline/producer-model-v1.1@0.7.7?classifier=sources
 - pkg:maven/za.co.absa.spline/producer-model-v1.1@0.7.8
 - pkg:maven/za.co.absa.spline/producer-model-v1.1@0.7.8?classifier=sources
+- pkg:maven/za.co.absa.spline/producer-model-v1.1@0.7.9
+- pkg:maven/za.co.absa.spline/producer-model-v1.1@0.7.9?classifier=sources

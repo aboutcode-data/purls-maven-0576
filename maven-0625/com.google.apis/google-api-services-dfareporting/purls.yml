@@ -2558,6 +2558,8 @@
 - pkg:maven/com.google.apis/google-api-services-dfareporting@v3.5-rev20230118-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dfareporting@v3.5-rev20230321-2.0.0
 - pkg:maven/com.google.apis/google-api-services-dfareporting@v3.5-rev20230321-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-dfareporting@v3.5-rev20230523-2.0.0
+- pkg:maven/com.google.apis/google-api-services-dfareporting@v3.5-rev20230523-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dfareporting@v4-rev20220607-1.32.1
 - pkg:maven/com.google.apis/google-api-services-dfareporting@v4-rev20220607-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dfareporting@v4-rev20220611-1.32.1
@@ -2572,3 +2574,5 @@
 - pkg:maven/com.google.apis/google-api-services-dfareporting@v4-rev20230321-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dfareporting@v4-rev20230425-2.0.0
 - pkg:maven/com.google.apis/google-api-services-dfareporting@v4-rev20230425-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-dfareporting@v4-rev20230726-2.0.0
+- pkg:maven/com.google.apis/google-api-services-dfareporting@v4-rev20230726-2.0.0?classifier=sources

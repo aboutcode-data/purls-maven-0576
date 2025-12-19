@@ -76,6 +76,7 @@
 - pkg:maven/com.facebook.android/audience-network-sdk@6.13.7?type=aar
 - pkg:maven/com.facebook.android/audience-network-sdk@6.14.0?type=aar
 - pkg:maven/com.facebook.android/audience-network-sdk@6.15.0?type=aar
+- pkg:maven/com.facebook.android/audience-network-sdk@6.16.0?type=aar
 - pkg:maven/com.facebook.android/audience-network-sdk@6.2.0?type=aar
 - pkg:maven/com.facebook.android/audience-network-sdk@6.2.1?type=aar
 - pkg:maven/com.facebook.android/audience-network-sdk@6.3.0?type=aar

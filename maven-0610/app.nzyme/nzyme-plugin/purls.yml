@@ -1,0 +1,4 @@
+- pkg:maven/app.nzyme/nzyme-plugin@2.0.1
+- pkg:maven/app.nzyme/nzyme-plugin@2.0.1?classifier=sources
+- pkg:maven/app.nzyme/nzyme-plugin@2.0.2
+- pkg:maven/app.nzyme/nzyme-plugin@2.0.2?classifier=sources

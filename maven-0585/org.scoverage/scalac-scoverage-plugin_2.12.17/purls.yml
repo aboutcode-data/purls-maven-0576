@@ -1,5 +1,7 @@
 - pkg:maven/org.scoverage/scalac-scoverage-plugin_2.12.17@2.0.10
 - pkg:maven/org.scoverage/scalac-scoverage-plugin_2.12.17@2.0.10?classifier=sources
+- pkg:maven/org.scoverage/scalac-scoverage-plugin_2.12.17@2.0.11
+- pkg:maven/org.scoverage/scalac-scoverage-plugin_2.12.17@2.0.11?classifier=sources
 - pkg:maven/org.scoverage/scalac-scoverage-plugin_2.12.17@2.0.3
 - pkg:maven/org.scoverage/scalac-scoverage-plugin_2.12.17@2.0.3?classifier=sources
 - pkg:maven/org.scoverage/scalac-scoverage-plugin_2.12.17@2.0.5

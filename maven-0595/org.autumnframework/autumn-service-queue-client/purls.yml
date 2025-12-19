@@ -1,0 +1,2 @@
+- pkg:maven/org.autumnframework/autumn-service-queue-client@4.6.0
+- pkg:maven/org.autumnframework/autumn-service-queue-client@4.6.0?classifier=sources

@@ -26,3 +26,5 @@
 - pkg:maven/io.seata/seata-serializer-fst@1.7.0-native-rc2
 - pkg:maven/io.seata/seata-serializer-fst@1.7.0-native-rc2?classifier=sources
 - pkg:maven/io.seata/seata-serializer-fst@1.7.0?classifier=sources
+- pkg:maven/io.seata/seata-serializer-fst@1.7.1
+- pkg:maven/io.seata/seata-serializer-fst@1.7.1?classifier=sources

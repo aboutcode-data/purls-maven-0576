@@ -2,3 +2,5 @@
 - pkg:maven/org.ogc-schemas/sld-v_1_0_0-geoserver@3.0.0?classifier=sources
 - pkg:maven/org.ogc-schemas/sld-v_1_0_0-geoserver@4.0.0
 - pkg:maven/org.ogc-schemas/sld-v_1_0_0-geoserver@4.0.0?classifier=sources
+- pkg:maven/org.ogc-schemas/sld-v_1_0_0-geoserver@5.0.0
+- pkg:maven/org.ogc-schemas/sld-v_1_0_0-geoserver@5.0.0?classifier=sources

@@ -7,3 +7,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-disco@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-disco@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-disco@RELEASE180?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-java-disco@RELEASE190?classifier=sources

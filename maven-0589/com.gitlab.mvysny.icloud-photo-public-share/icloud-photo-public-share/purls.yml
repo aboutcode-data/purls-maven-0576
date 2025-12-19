@@ -1,1 +1,2 @@
 - pkg:maven/com.gitlab.mvysny.icloud-photo-public-share/icloud-photo-public-share@0.2?classifier=sources
+- pkg:maven/com.gitlab.mvysny.icloud-photo-public-share/icloud-photo-public-share@0.3?classifier=sources

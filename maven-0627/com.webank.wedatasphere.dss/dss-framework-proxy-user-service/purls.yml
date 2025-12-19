@@ -1,0 +1,2 @@
+- pkg:maven/com.webank.wedatasphere.dss/dss-framework-proxy-user-service@1.1.2
+- pkg:maven/com.webank.wedatasphere.dss/dss-framework-proxy-user-service@1.1.2?classifier=sources

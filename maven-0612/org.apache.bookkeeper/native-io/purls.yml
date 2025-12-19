@@ -6,3 +6,4 @@
 - pkg:maven/org.apache.bookkeeper/native-io@4.16.0?classifier=sources
 - pkg:maven/org.apache.bookkeeper/native-io@4.16.1?classifier=sources
 - pkg:maven/org.apache.bookkeeper/native-io@4.16.2?classifier=sources
+- pkg:maven/org.apache.bookkeeper/native-io@4.16.3?classifier=sources

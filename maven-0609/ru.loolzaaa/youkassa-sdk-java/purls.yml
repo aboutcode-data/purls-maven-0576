@@ -1,0 +1,2 @@
+- pkg:maven/ru.loolzaaa/youkassa-sdk-java@0.0.1
+- pkg:maven/ru.loolzaaa/youkassa-sdk-java@0.0.1?classifier=sources

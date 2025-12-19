@@ -1,0 +1,2 @@
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-result-to-sw360-command@1.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-result-to-sw360-command@1.0.1?classifier=sources

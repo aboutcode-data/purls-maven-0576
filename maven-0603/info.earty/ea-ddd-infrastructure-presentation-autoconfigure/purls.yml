@@ -1,0 +1,2 @@
+- pkg:maven/info.earty/ea-ddd-infrastructure-presentation-autoconfigure@1.0.0
+- pkg:maven/info.earty/ea-ddd-infrastructure-presentation-autoconfigure@1.0.0?classifier=sources

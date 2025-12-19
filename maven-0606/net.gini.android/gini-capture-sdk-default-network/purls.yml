@@ -6,6 +6,7 @@
 - pkg:maven/net.gini.android/gini-capture-sdk-default-network@1.11.3?classifier=sources
 - pkg:maven/net.gini.android/gini-capture-sdk-default-network@1.12.0?classifier=sources
 - pkg:maven/net.gini.android/gini-capture-sdk-default-network@1.12.1?classifier=sources
+- pkg:maven/net.gini.android/gini-capture-sdk-default-network@1.13.0?classifier=sources
 - pkg:maven/net.gini.android/gini-capture-sdk-default-network@1.5.0?classifier=sources
 - pkg:maven/net.gini.android/gini-capture-sdk-default-network@1.5.1?classifier=sources
 - pkg:maven/net.gini.android/gini-capture-sdk-default-network@1.5.2?classifier=sources
@@ -23,6 +24,7 @@
 - pkg:maven/net.gini.android/gini-capture-sdk-default-network@2.1.0?classifier=sources
 - pkg:maven/net.gini.android/gini-capture-sdk-default-network@2.1.1?classifier=sources
 - pkg:maven/net.gini.android/gini-capture-sdk-default-network@2.1.2?classifier=sources
+- pkg:maven/net.gini.android/gini-capture-sdk-default-network@2.2.0?classifier=sources
 - pkg:maven/net.gini.android/gini-capture-sdk-default-network@3.0.0-beta02?classifier=sources
 - pkg:maven/net.gini.android/gini-capture-sdk-default-network@3.0.0-beta03?classifier=sources
 - pkg:maven/net.gini.android/gini-capture-sdk-default-network@3.0.0-beta04?classifier=sources
@@ -35,3 +37,4 @@
 - pkg:maven/net.gini.android/gini-capture-sdk-default-network@3.2.1?classifier=sources
 - pkg:maven/net.gini.android/gini-capture-sdk-default-network@3.2.2?classifier=sources
 - pkg:maven/net.gini.android/gini-capture-sdk-default-network@3.3.0?classifier=sources
+- pkg:maven/net.gini.android/gini-capture-sdk-default-network@3.4.0?classifier=sources

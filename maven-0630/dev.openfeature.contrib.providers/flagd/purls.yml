@@ -40,3 +40,5 @@
 - pkg:maven/dev.openfeature.contrib.providers/flagd@0.5.9?classifier=sources
 - pkg:maven/dev.openfeature.contrib.providers/flagd@0.6.0
 - pkg:maven/dev.openfeature.contrib.providers/flagd@0.6.0?classifier=sources
+- pkg:maven/dev.openfeature.contrib.providers/flagd@0.6.1
+- pkg:maven/dev.openfeature.contrib.providers/flagd@0.6.1?classifier=sources

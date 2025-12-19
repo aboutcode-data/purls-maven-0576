@@ -361,6 +361,7 @@
 - pkg:maven/com.liferay/com.liferay.roles.selector.web@4.0.30?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.roles.selector.web@4.0.31
 - pkg:maven/com.liferay/com.liferay.roles.selector.web@4.0.31?classifier=sources
+- pkg:maven/com.liferay/com.liferay.roles.selector.web@4.0.32?classifier=sources
 - pkg:maven/com.liferay/com.liferay.roles.selector.web@4.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.roles.selector.web@4.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.roles.selector.web@4.0.4
@@ -435,6 +436,7 @@
 - pkg:maven/com.liferay/com.liferay.roles.selector.web@5.0.24?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.roles.selector.web@5.0.25
 - pkg:maven/com.liferay/com.liferay.roles.selector.web@5.0.25?classifier=sources
+- pkg:maven/com.liferay/com.liferay.roles.selector.web@5.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.roles.selector.web@5.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.roles.selector.web@5.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.roles.selector.web@5.0.3

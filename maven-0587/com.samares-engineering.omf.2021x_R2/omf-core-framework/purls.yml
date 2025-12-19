@@ -2,3 +2,4 @@
 - pkg:maven/com.samares-engineering.omf.2021x_R2/omf-core-framework@0.0.83?classifier=sources
 - pkg:maven/com.samares-engineering.omf.2021x_R2/omf-core-framework@0.0.92?classifier=sources
 - pkg:maven/com.samares-engineering.omf.2021x_R2/omf-core-framework@1.0.0?classifier=sources
+- pkg:maven/com.samares-engineering.omf.2021x_R2/omf-core-framework@1.0.25?classifier=sources

@@ -15,6 +15,10 @@
 - pkg:maven/me.proton.core/metrics@13.0.1?classifier=sources
 - pkg:maven/me.proton.core/metrics@14.0.0?classifier=sources
 - pkg:maven/me.proton.core/metrics@14.0.1?classifier=sources
+- pkg:maven/me.proton.core/metrics@14.1.0?classifier=sources
+- pkg:maven/me.proton.core/metrics@15.0.0?classifier=sources
+- pkg:maven/me.proton.core/metrics@15.1.0?classifier=sources
+- pkg:maven/me.proton.core/metrics@16.0.0?classifier=sources
 - pkg:maven/me.proton.core/metrics@7.1.10?classifier=sources
 - pkg:maven/me.proton.core/metrics@7.1.11?classifier=sources
 - pkg:maven/me.proton.core/metrics@7.1.1?classifier=sources

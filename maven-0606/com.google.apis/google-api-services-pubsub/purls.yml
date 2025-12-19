@@ -350,6 +350,10 @@
 - pkg:maven/com.google.apis/google-api-services-pubsub@v1-rev20230509-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-pubsub@v1-rev20230529-2.0.0
 - pkg:maven/com.google.apis/google-api-services-pubsub@v1-rev20230529-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-pubsub@v1-rev20230801-2.0.0
+- pkg:maven/com.google.apis/google-api-services-pubsub@v1-rev20230801-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-pubsub@v1-rev20230830-2.0.0
+- pkg:maven/com.google.apis/google-api-services-pubsub@v1-rev20230830-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-pubsub@v1-rev3-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-pubsub@v1-rev3-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-pubsub@v1-rev3-1.19.0
@@ -1278,6 +1282,10 @@
 - pkg:maven/com.google.apis/google-api-services-pubsub@v1beta1a-rev20210809-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-pubsub@v1beta1a-rev20210809-2.0.0
 - pkg:maven/com.google.apis/google-api-services-pubsub@v1beta1a-rev20210809-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-pubsub@v1beta1a-rev20230711-2.0.0
+- pkg:maven/com.google.apis/google-api-services-pubsub@v1beta1a-rev20230711-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-pubsub@v1beta1a-rev20230830-2.0.0
+- pkg:maven/com.google.apis/google-api-services-pubsub@v1beta1a-rev20230830-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-pubsub@v1beta1a-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-pubsub@v1beta1a-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-pubsub@v1beta1a-rev21-1.20.0
@@ -2150,6 +2158,10 @@
 - pkg:maven/com.google.apis/google-api-services-pubsub@v1beta2-rev20220829-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-pubsub@v1beta2-rev20230124-2.0.0
 - pkg:maven/com.google.apis/google-api-services-pubsub@v1beta2-rev20230124-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-pubsub@v1beta2-rev20230801-2.0.0
+- pkg:maven/com.google.apis/google-api-services-pubsub@v1beta2-rev20230801-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-pubsub@v1beta2-rev20230830-2.0.0
+- pkg:maven/com.google.apis/google-api-services-pubsub@v1beta2-rev20230830-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-pubsub@v1beta2-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-pubsub@v1beta2-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-pubsub@v1beta2-rev21-1.20.0

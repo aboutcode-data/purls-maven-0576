@@ -11,3 +11,4 @@
 - pkg:maven/io.github.shichuanenhui/tbssdk@44181?classifier=sources
 - pkg:maven/io.github.shichuanenhui/tbssdk@44199?classifier=sources
 - pkg:maven/io.github.shichuanenhui/tbssdk@44216?classifier=sources
+- pkg:maven/io.github.shichuanenhui/tbssdk@44286?classifier=sources

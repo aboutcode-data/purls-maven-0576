@@ -1,3 +1,4 @@
 - pkg:maven/com.suddenh4x.ratingdialog/awesome-app-rating@2.4.0?classifier=sources
 - pkg:maven/com.suddenh4x.ratingdialog/awesome-app-rating@2.5.0?classifier=sources
 - pkg:maven/com.suddenh4x.ratingdialog/awesome-app-rating@2.6.0?classifier=sources
+- pkg:maven/com.suddenh4x.ratingdialog/awesome-app-rating@2.7.0?classifier=sources

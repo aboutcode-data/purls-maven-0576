@@ -8,3 +8,4 @@
 - pkg:maven/it.unibo.jakta/jakta-state-machine@0.4.9?classifier=sources
 - pkg:maven/it.unibo.jakta/jakta-state-machine@0.5.0?classifier=sources
 - pkg:maven/it.unibo.jakta/jakta-state-machine@0.6.0?classifier=sources
+- pkg:maven/it.unibo.jakta/jakta-state-machine@0.7.0?classifier=sources

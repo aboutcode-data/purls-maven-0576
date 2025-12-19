@@ -2,3 +2,5 @@
 - pkg:maven/com.byteslounge/slick-repo_2.13@1.5.3?classifier=sources
 - pkg:maven/com.byteslounge/slick-repo_2.13@1.6.1
 - pkg:maven/com.byteslounge/slick-repo_2.13@1.6.1?classifier=sources
+- pkg:maven/com.byteslounge/slick-repo_2.13@1.7.1
+- pkg:maven/com.byteslounge/slick-repo_2.13@1.7.1?classifier=sources

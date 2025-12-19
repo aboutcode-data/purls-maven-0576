@@ -1,0 +1,1 @@
+- pkg:maven/io.micronaut.tracing/micronaut-tracing-opentelemetry-zipkin-exporter@5.0.2?classifier=sources

@@ -7,3 +7,4 @@
 - pkg:maven/org.firstinspires.ftc/FtcCommon@8.1.0?classifier=sources
 - pkg:maven/org.firstinspires.ftc/FtcCommon@8.1.1?classifier=sources
 - pkg:maven/org.firstinspires.ftc/FtcCommon@8.2.0?classifier=sources
+- pkg:maven/org.firstinspires.ftc/FtcCommon@9.0.0?classifier=sources

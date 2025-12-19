@@ -1,0 +1,2 @@
+- pkg:maven/com.basicex/basicex-java@1.0.2
+- pkg:maven/com.basicex/basicex-java@1.0.2?classifier=sources

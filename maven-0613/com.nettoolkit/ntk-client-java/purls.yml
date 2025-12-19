@@ -32,3 +32,5 @@
 - pkg:maven/com.nettoolkit/ntk-client-java@2.0.6-beta?classifier=sources
 - pkg:maven/com.nettoolkit/ntk-client-java@2.0.8-beta
 - pkg:maven/com.nettoolkit/ntk-client-java@2.0.8-beta?classifier=sources
+- pkg:maven/com.nettoolkit/ntk-client-java@2.0.9-beta
+- pkg:maven/com.nettoolkit/ntk-client-java@2.0.9-beta?classifier=sources

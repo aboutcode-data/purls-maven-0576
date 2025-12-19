@@ -1,3 +1,4 @@
+- pkg:maven/dev.gitlive/firebase-installations-iosx64@1.10.0?classifier=sources
 - pkg:maven/dev.gitlive/firebase-installations-iosx64@1.6.0?classifier=sources
 - pkg:maven/dev.gitlive/firebase-installations-iosx64@1.6.1?classifier=sources
 - pkg:maven/dev.gitlive/firebase-installations-iosx64@1.6.2?classifier=sources
@@ -6,3 +7,4 @@
 - pkg:maven/dev.gitlive/firebase-installations-iosx64@1.7.2?classifier=sources
 - pkg:maven/dev.gitlive/firebase-installations-iosx64@1.8.0?classifier=sources
 - pkg:maven/dev.gitlive/firebase-installations-iosx64@1.8.1?classifier=sources
+- pkg:maven/dev.gitlive/firebase-installations-iosx64@1.9.0?classifier=sources

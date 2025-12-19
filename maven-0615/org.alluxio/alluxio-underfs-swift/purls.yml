@@ -136,3 +136,5 @@
 - pkg:maven/org.alluxio/alluxio-underfs-swift@301?classifier=sources
 - pkg:maven/org.alluxio/alluxio-underfs-swift@302
 - pkg:maven/org.alluxio/alluxio-underfs-swift@302?classifier=sources
+- pkg:maven/org.alluxio/alluxio-underfs-swift@303
+- pkg:maven/org.alluxio/alluxio-underfs-swift@303?classifier=sources

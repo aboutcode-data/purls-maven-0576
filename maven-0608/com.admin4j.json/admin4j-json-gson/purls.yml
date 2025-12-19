@@ -10,3 +10,5 @@
 - pkg:maven/com.admin4j.json/admin4j-json-gson@0.6.1?classifier=sources
 - pkg:maven/com.admin4j.json/admin4j-json-gson@0.7.0
 - pkg:maven/com.admin4j.json/admin4j-json-gson@0.7.0?classifier=sources
+- pkg:maven/com.admin4j.json/admin4j-json-gson@0.7.1
+- pkg:maven/com.admin4j.json/admin4j-json-gson@0.7.1?classifier=sources

@@ -8,3 +8,6 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-caching-testing@6.6.0
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-caching-testing@6.6.1
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-caching-testing@6.6.2
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-caching-testing@6.8.0
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-caching-testing@6.8.1
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-caching-testing@6.8.2

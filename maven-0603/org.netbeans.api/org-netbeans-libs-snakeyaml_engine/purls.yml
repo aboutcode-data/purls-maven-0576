@@ -5,3 +5,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-libs-snakeyaml_engine@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-snakeyaml_engine@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-snakeyaml_engine@RELEASE180?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-snakeyaml_engine@RELEASE190?classifier=sources

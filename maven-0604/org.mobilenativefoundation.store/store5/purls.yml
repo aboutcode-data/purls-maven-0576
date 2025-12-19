@@ -6,3 +6,5 @@
 - pkg:maven/org.mobilenativefoundation.store/store5@5.0.0-alpha1?classifier=sources
 - pkg:maven/org.mobilenativefoundation.store/store5@5.0.0-beta01?classifier=sources
 - pkg:maven/org.mobilenativefoundation.store/store5@5.0.0-beta02?classifier=sources
+- pkg:maven/org.mobilenativefoundation.store/store5@5.0.0-beta03?classifier=sources
+- pkg:maven/org.mobilenativefoundation.store/store5@5.0.0?classifier=sources

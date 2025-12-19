@@ -36,3 +36,5 @@
 - pkg:maven/org.apache.camel.k/camel-k-catalog@1.9.1?classifier=sources
 - pkg:maven/org.apache.camel.k/camel-k-catalog@2.16.0
 - pkg:maven/org.apache.camel.k/camel-k-catalog@2.16.0?classifier=sources
+- pkg:maven/org.apache.camel.k/camel-k-catalog@3.2.0
+- pkg:maven/org.apache.camel.k/camel-k-catalog@3.2.0?classifier=sources

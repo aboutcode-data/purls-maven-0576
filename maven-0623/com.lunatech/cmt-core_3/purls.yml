@@ -2,3 +2,9 @@
 - pkg:maven/com.lunatech/cmt-core_3@2.0.0-RC13
 - pkg:maven/com.lunatech/cmt-core_3@2.0.0-RC13?classifier=sources
 - pkg:maven/com.lunatech/cmt-core_3@2.0.0?classifier=sources
+- pkg:maven/com.lunatech/cmt-core_3@2.0.16
+- pkg:maven/com.lunatech/cmt-core_3@2.0.16?classifier=sources
+- pkg:maven/com.lunatech/cmt-core_3@2.0.18
+- pkg:maven/com.lunatech/cmt-core_3@2.0.18?classifier=sources
+- pkg:maven/com.lunatech/cmt-core_3@2.0.19
+- pkg:maven/com.lunatech/cmt-core_3@2.0.19?classifier=sources

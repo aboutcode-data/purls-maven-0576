@@ -28,9 +28,16 @@
 - pkg:maven/io.github.turansky.seskar/seskar-core-jvm@1.13.0?classifier=sources
 - pkg:maven/io.github.turansky.seskar/seskar-core-jvm@1.15.0?classifier=sources
 - pkg:maven/io.github.turansky.seskar/seskar-core-jvm@1.16.0?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-core-jvm@1.17.0?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-core-jvm@1.18.0?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-core-jvm@1.18.1?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-core-jvm@1.19.0?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-core-jvm@1.19.1?classifier=sources
 - pkg:maven/io.github.turansky.seskar/seskar-core-jvm@1.2.0?classifier=sources
 - pkg:maven/io.github.turansky.seskar/seskar-core-jvm@1.2.1?classifier=sources
 - pkg:maven/io.github.turansky.seskar/seskar-core-jvm@1.2.2?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-core-jvm@1.20.0?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-core-jvm@1.20.1?classifier=sources
 - pkg:maven/io.github.turansky.seskar/seskar-core-jvm@1.3.0?classifier=sources
 - pkg:maven/io.github.turansky.seskar/seskar-core-jvm@1.4.0?classifier=sources
 - pkg:maven/io.github.turansky.seskar/seskar-core-jvm@1.5.0?classifier=sources
@@ -38,3 +45,4 @@
 - pkg:maven/io.github.turansky.seskar/seskar-core-jvm@1.7.0?classifier=sources
 - pkg:maven/io.github.turansky.seskar/seskar-core-jvm@1.8.0?classifier=sources
 - pkg:maven/io.github.turansky.seskar/seskar-core-jvm@1.9.0?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-core-jvm@2.0.0?classifier=sources

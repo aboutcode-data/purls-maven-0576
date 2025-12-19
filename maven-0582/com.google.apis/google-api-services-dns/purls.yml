@@ -293,6 +293,10 @@
 - pkg:maven/com.google.apis/google-api-services-dns@v1-rev20230126-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dns@v1-rev20230330-2.0.0
 - pkg:maven/com.google.apis/google-api-services-dns@v1-rev20230330-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-dns@v1-rev20230801-2.0.0
+- pkg:maven/com.google.apis/google-api-services-dns@v1-rev20230801-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-dns@v1-rev20230807-2.0.0
+- pkg:maven/com.google.apis/google-api-services-dns@v1-rev20230807-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dns@v1-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-dns@v1-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dns@v1-rev21-1.20.0
@@ -1341,6 +1345,10 @@
 - pkg:maven/com.google.apis/google-api-services-dns@v1beta2-rev20230126-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dns@v1beta2-rev20230330-2.0.0
 - pkg:maven/com.google.apis/google-api-services-dns@v1beta2-rev20230330-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-dns@v1beta2-rev20230801-2.0.0
+- pkg:maven/com.google.apis/google-api-services-dns@v1beta2-rev20230801-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-dns@v1beta2-rev20230807-2.0.0
+- pkg:maven/com.google.apis/google-api-services-dns@v1beta2-rev20230807-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dns@v1beta2-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-dns@v1beta2-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dns@v1beta2-rev21-1.21.0

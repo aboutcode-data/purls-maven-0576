@@ -32,3 +32,5 @@
 - pkg:maven/org.openrewrite.recipe/rewrite-kubernetes@1.9.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-kubernetes@2.0.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-kubernetes@2.0.1?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-kubernetes@2.0.3?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-kubernetes@2.0.4?classifier=sources

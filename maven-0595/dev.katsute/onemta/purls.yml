@@ -32,3 +32,5 @@
 - pkg:maven/dev.katsute/onemta@2.0.2?classifier=sources
 - pkg:maven/dev.katsute/onemta@2.0.3
 - pkg:maven/dev.katsute/onemta@2.0.3?classifier=sources
+- pkg:maven/dev.katsute/onemta@2.0.4
+- pkg:maven/dev.katsute/onemta@2.0.4?classifier=sources

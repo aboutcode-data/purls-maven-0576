@@ -11,3 +11,4 @@
 - pkg:maven/com.lightningkite.khrysalis/kotlin-compiler-plugin-kotlin@1.0.1?classifier=sources
 - pkg:maven/com.lightningkite.khrysalis/kotlin-compiler-plugin-kotlin@1.0.2?classifier=sources
 - pkg:maven/com.lightningkite.khrysalis/kotlin-compiler-plugin-kotlin@1.0.4?classifier=sources
+- pkg:maven/com.lightningkite.khrysalis/kotlin-compiler-plugin-kotlin@1.0.5?classifier=sources

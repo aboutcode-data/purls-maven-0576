@@ -70,3 +70,11 @@
 - pkg:maven/io.trino/trino-faulttolerant-tests@421?classifier=sources
 - pkg:maven/io.trino/trino-faulttolerant-tests@422
 - pkg:maven/io.trino/trino-faulttolerant-tests@422?classifier=sources
+- pkg:maven/io.trino/trino-faulttolerant-tests@423
+- pkg:maven/io.trino/trino-faulttolerant-tests@423?classifier=sources
+- pkg:maven/io.trino/trino-faulttolerant-tests@424
+- pkg:maven/io.trino/trino-faulttolerant-tests@424?classifier=sources
+- pkg:maven/io.trino/trino-faulttolerant-tests@425
+- pkg:maven/io.trino/trino-faulttolerant-tests@425?classifier=sources
+- pkg:maven/io.trino/trino-faulttolerant-tests@426
+- pkg:maven/io.trino/trino-faulttolerant-tests@426?classifier=sources

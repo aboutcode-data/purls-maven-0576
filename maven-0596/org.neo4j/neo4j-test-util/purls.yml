@@ -33,6 +33,8 @@
 - pkg:maven/org.neo4j/neo4j-test-util@4.4.23?classifier=sources
 - pkg:maven/org.neo4j/neo4j-test-util@4.4.24
 - pkg:maven/org.neo4j/neo4j-test-util@4.4.24?classifier=sources
+- pkg:maven/org.neo4j/neo4j-test-util@4.4.25
+- pkg:maven/org.neo4j/neo4j-test-util@4.4.25?classifier=sources
 - pkg:maven/org.neo4j/neo4j-test-util@4.4.2?classifier=sources
 - pkg:maven/org.neo4j/neo4j-test-util@4.4.3
 - pkg:maven/org.neo4j/neo4j-test-util@4.4.3?classifier=sources
@@ -52,6 +54,10 @@
 - pkg:maven/org.neo4j/neo4j-test-util@5.1.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-test-util@5.10.0
 - pkg:maven/org.neo4j/neo4j-test-util@5.10.0?classifier=sources
+- pkg:maven/org.neo4j/neo4j-test-util@5.11.0
+- pkg:maven/org.neo4j/neo4j-test-util@5.11.0?classifier=sources
+- pkg:maven/org.neo4j/neo4j-test-util@5.12.0
+- pkg:maven/org.neo4j/neo4j-test-util@5.12.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-test-util@5.2.0
 - pkg:maven/org.neo4j/neo4j-test-util@5.2.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-test-util@5.3.0

@@ -32,3 +32,7 @@
 - pkg:maven/com.alibaba.fastjson2/fastjson2-extension-spring6@2.0.37?classifier=sources
 - pkg:maven/com.alibaba.fastjson2/fastjson2-extension-spring6@2.0.38
 - pkg:maven/com.alibaba.fastjson2/fastjson2-extension-spring6@2.0.38?classifier=sources
+- pkg:maven/com.alibaba.fastjson2/fastjson2-extension-spring6@2.0.39
+- pkg:maven/com.alibaba.fastjson2/fastjson2-extension-spring6@2.0.39?classifier=sources
+- pkg:maven/com.alibaba.fastjson2/fastjson2-extension-spring6@2.0.40
+- pkg:maven/com.alibaba.fastjson2/fastjson2-extension-spring6@2.0.40?classifier=sources

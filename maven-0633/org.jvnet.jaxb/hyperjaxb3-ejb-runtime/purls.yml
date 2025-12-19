@@ -1,0 +1,4 @@
+- pkg:maven/org.jvnet.jaxb/hyperjaxb3-ejb-runtime@2.0.8
+- pkg:maven/org.jvnet.jaxb/hyperjaxb3-ejb-runtime@2.0.8?classifier=sources
+- pkg:maven/org.jvnet.jaxb/hyperjaxb3-ejb-runtime@2.0.9
+- pkg:maven/org.jvnet.jaxb/hyperjaxb3-ejb-runtime@2.0.9?classifier=sources

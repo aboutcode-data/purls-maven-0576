@@ -1864,7 +1864,11 @@
 - pkg:maven/org.wso2.carbon.identity.framework/identity-framework@5.25.30?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.framework/identity-framework@5.25.31?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.framework/identity-framework@5.25.32?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.framework/identity-framework@5.25.337?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.framework/identity-framework@5.25.338?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.framework/identity-framework@5.25.339?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.framework/identity-framework@5.25.33?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.framework/identity-framework@5.25.340?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.framework/identity-framework@5.25.34?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.framework/identity-framework@5.25.35?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.framework/identity-framework@5.25.36?classifier=source-release&type=zip

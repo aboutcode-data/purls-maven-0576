@@ -2,3 +2,5 @@
 - pkg:maven/co.topl/quivr4s_2.13@2.0.0-alpha1?classifier=sources
 - pkg:maven/co.topl/quivr4s_2.13@2.0.0-alpha2
 - pkg:maven/co.topl/quivr4s_2.13@2.0.0-alpha2?classifier=sources
+- pkg:maven/co.topl/quivr4s_2.13@2.0.0-alpha4
+- pkg:maven/co.topl/quivr4s_2.13@2.0.0-alpha4?classifier=sources

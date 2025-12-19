@@ -6,3 +6,4 @@
 - pkg:maven/jp.kukv.ktor-extension-plugins/environment@0.0.7?classifier=sources
 - pkg:maven/jp.kukv.ktor-extension-plugins/environment@0.1.0?classifier=sources
 - pkg:maven/jp.kukv.ktor-extension-plugins/environment@0.1.1?classifier=sources
+- pkg:maven/jp.kukv.ktor-extension-plugins/environment@0.1.2?classifier=sources

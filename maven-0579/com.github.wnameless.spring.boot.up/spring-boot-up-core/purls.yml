@@ -1,0 +1,2 @@
+- pkg:maven/com.github.wnameless.spring.boot.up/spring-boot-up-core@3.0.0
+- pkg:maven/com.github.wnameless.spring.boot.up/spring-boot-up-core@3.0.0?classifier=sources

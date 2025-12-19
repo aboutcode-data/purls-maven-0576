@@ -9,3 +9,5 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.site.initializer@1.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.site.initializer@1.0.3
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.site.initializer@1.0.3?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.site.initializer@1.0.4?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.site.initializer@1.0.5?classifier=sources

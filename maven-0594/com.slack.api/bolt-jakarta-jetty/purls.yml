@@ -56,3 +56,5 @@
 - pkg:maven/com.slack.api/bolt-jakarta-jetty@1.29.2?classifier=sources
 - pkg:maven/com.slack.api/bolt-jakarta-jetty@1.30.0
 - pkg:maven/com.slack.api/bolt-jakarta-jetty@1.30.0?classifier=sources
+- pkg:maven/com.slack.api/bolt-jakarta-jetty@1.31.0
+- pkg:maven/com.slack.api/bolt-jakarta-jetty@1.31.0?classifier=sources

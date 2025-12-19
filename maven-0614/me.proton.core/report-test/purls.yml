@@ -14,3 +14,7 @@
 - pkg:maven/me.proton.core/report-test@13.0.1?classifier=sources
 - pkg:maven/me.proton.core/report-test@14.0.0?classifier=sources
 - pkg:maven/me.proton.core/report-test@14.0.1?classifier=sources
+- pkg:maven/me.proton.core/report-test@14.1.0?classifier=sources
+- pkg:maven/me.proton.core/report-test@15.0.0?classifier=sources
+- pkg:maven/me.proton.core/report-test@15.1.0?classifier=sources
+- pkg:maven/me.proton.core/report-test@16.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.lucklike/lucky-httpclient@1.0.1
+- pkg:maven/io.github.lucklike/lucky-httpclient@1.0.1?classifier=sources

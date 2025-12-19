@@ -1,0 +1,2 @@
+- pkg:maven/com.github.romualdrousseau/any2json-csv@2.33
+- pkg:maven/com.github.romualdrousseau/any2json-csv@2.33?classifier=sources

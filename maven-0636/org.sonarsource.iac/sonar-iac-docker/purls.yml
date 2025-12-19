@@ -7,3 +7,5 @@
 - pkg:maven/org.sonarsource.iac/sonar-iac-docker@1.16.0.3845?classifier=sources
 - pkg:maven/org.sonarsource.iac/sonar-iac-docker@1.17.0.3976?classifier=sources
 - pkg:maven/org.sonarsource.iac/sonar-iac-docker@1.18.0.4757?classifier=sources
+- pkg:maven/org.sonarsource.iac/sonar-iac-docker@1.19.0.5623?classifier=sources
+- pkg:maven/org.sonarsource.iac/sonar-iac-docker@1.20.0.5654?classifier=sources

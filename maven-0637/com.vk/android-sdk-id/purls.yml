@@ -13,3 +13,4 @@
 - pkg:maven/com.vk/android-sdk-id@3.5.2?classifier=sources
 - pkg:maven/com.vk/android-sdk-id@4.0.0?classifier=sources
 - pkg:maven/com.vk/android-sdk-id@4.0.1?classifier=sources
+- pkg:maven/com.vk/android-sdk-id@version?classifier=sources
