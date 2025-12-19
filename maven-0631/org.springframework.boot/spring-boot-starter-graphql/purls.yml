@@ -1,0 +1,1 @@
+- pkg:maven/org.springframework.boot/spring-boot-starter-graphql@2.7.0?classifier=sources

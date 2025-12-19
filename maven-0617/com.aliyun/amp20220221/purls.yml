@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun/amp20220221@1.1.1
+- pkg:maven/com.aliyun/amp20220221@1.1.1?classifier=sources

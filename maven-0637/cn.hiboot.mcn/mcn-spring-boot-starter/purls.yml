@@ -27,6 +27,7 @@
 - pkg:maven/cn.hiboot.mcn/mcn-spring-boot-starter@2.5.14
 - pkg:maven/cn.hiboot.mcn/mcn-spring-boot-starter@2.5.15
 - pkg:maven/cn.hiboot.mcn/mcn-spring-boot-starter@2.5.16
+- pkg:maven/cn.hiboot.mcn/mcn-spring-boot-starter@2.5.17
 - pkg:maven/cn.hiboot.mcn/mcn-spring-boot-starter@2.5.2
 - pkg:maven/cn.hiboot.mcn/mcn-spring-boot-starter@2.5.3
 - pkg:maven/cn.hiboot.mcn/mcn-spring-boot-starter@2.5.4
@@ -35,3 +36,6 @@
 - pkg:maven/cn.hiboot.mcn/mcn-spring-boot-starter@2.5.7
 - pkg:maven/cn.hiboot.mcn/mcn-spring-boot-starter@2.5.8
 - pkg:maven/cn.hiboot.mcn/mcn-spring-boot-starter@2.5.9
+- pkg:maven/cn.hiboot.mcn/mcn-spring-boot-starter@2.7.0
+- pkg:maven/cn.hiboot.mcn/mcn-spring-boot-starter@2.7.0.1
+- pkg:maven/cn.hiboot.mcn/mcn-spring-boot-starter@2.7.0.2

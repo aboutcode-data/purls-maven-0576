@@ -5,4 +5,8 @@
 - pkg:maven/io.github.rocketmadev/AssignMark@1.1.8.1?classifier=sources
 - pkg:maven/io.github.rocketmadev/AssignMark@1.1.8.2
 - pkg:maven/io.github.rocketmadev/AssignMark@1.1.8.2?classifier=sources
+- pkg:maven/io.github.rocketmadev/AssignMark@1.1.8.3
+- pkg:maven/io.github.rocketmadev/AssignMark@1.1.8.3-core
+- pkg:maven/io.github.rocketmadev/AssignMark@1.1.8.3-core?classifier=sources
+- pkg:maven/io.github.rocketmadev/AssignMark@1.1.8.3?classifier=sources
 - pkg:maven/io.github.rocketmadev/AssignMark@1.1.8?classifier=sources

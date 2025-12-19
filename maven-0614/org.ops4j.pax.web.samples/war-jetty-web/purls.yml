@@ -275,3 +275,4 @@
 - pkg:maven/org.ops4j.pax.web.samples/war-jetty-web@8.0.1?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-jetty-web@8.0.2?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-jetty-web@8.0.3?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-jetty-web@8.0.4?type=war

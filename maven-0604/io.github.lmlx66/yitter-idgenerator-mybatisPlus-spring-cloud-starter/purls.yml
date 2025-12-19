@@ -1,0 +1,4 @@
+- pkg:maven/io.github.lmlx66/yitter-idgenerator-mybatisPlus-spring-cloud-starter@1.0.10-RELEASE
+- pkg:maven/io.github.lmlx66/yitter-idgenerator-mybatisPlus-spring-cloud-starter@1.0.10-RELEASE?classifier=sources
+- pkg:maven/io.github.lmlx66/yitter-idgenerator-mybatisPlus-spring-cloud-starter@1.0.11
+- pkg:maven/io.github.lmlx66/yitter-idgenerator-mybatisPlus-spring-cloud-starter@1.0.11?classifier=sources

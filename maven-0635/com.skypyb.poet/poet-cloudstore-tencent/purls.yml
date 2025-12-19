@@ -1,0 +1,2 @@
+- pkg:maven/com.skypyb.poet/poet-cloudstore-tencent@v3.1.1.RELEASE
+- pkg:maven/com.skypyb.poet/poet-cloudstore-tencent@v3.1.1.RELEASE?classifier=sources

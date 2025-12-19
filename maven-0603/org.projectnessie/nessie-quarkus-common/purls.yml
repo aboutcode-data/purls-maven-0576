@@ -14,3 +14,7 @@
 - pkg:maven/org.projectnessie/nessie-quarkus-common@0.27.0?classifier=sources
 - pkg:maven/org.projectnessie/nessie-quarkus-common@0.28.0
 - pkg:maven/org.projectnessie/nessie-quarkus-common@0.28.0?classifier=sources
+- pkg:maven/org.projectnessie/nessie-quarkus-common@0.29.0
+- pkg:maven/org.projectnessie/nessie-quarkus-common@0.29.0?classifier=sources
+- pkg:maven/org.projectnessie/nessie-quarkus-common@0.30.0
+- pkg:maven/org.projectnessie/nessie-quarkus-common@0.30.0?classifier=sources

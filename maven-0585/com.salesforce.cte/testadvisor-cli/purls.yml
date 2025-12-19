@@ -4,3 +4,7 @@
 - pkg:maven/com.salesforce.cte/testadvisor-cli@0.3.0?classifier=sources
 - pkg:maven/com.salesforce.cte/testadvisor-cli@0.3.1
 - pkg:maven/com.salesforce.cte/testadvisor-cli@0.3.1?classifier=sources
+- pkg:maven/com.salesforce.cte/testadvisor-cli@0.3.2
+- pkg:maven/com.salesforce.cte/testadvisor-cli@0.3.2?classifier=sources
+- pkg:maven/com.salesforce.cte/testadvisor-cli@0.3.3
+- pkg:maven/com.salesforce.cte/testadvisor-cli@0.3.3?classifier=sources

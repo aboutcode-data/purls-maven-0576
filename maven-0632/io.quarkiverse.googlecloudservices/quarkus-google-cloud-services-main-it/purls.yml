@@ -10,3 +10,7 @@
 - pkg:maven/io.quarkiverse.googlecloudservices/quarkus-google-cloud-services-main-it@0.9.0?classifier=sources
 - pkg:maven/io.quarkiverse.googlecloudservices/quarkus-google-cloud-services-main-it@1.0.0
 - pkg:maven/io.quarkiverse.googlecloudservices/quarkus-google-cloud-services-main-it@1.0.0?classifier=sources
+- pkg:maven/io.quarkiverse.googlecloudservices/quarkus-google-cloud-services-main-it@1.1.0
+- pkg:maven/io.quarkiverse.googlecloudservices/quarkus-google-cloud-services-main-it@1.1.0?classifier=sources
+- pkg:maven/io.quarkiverse.googlecloudservices/quarkus-google-cloud-services-main-it@1.1.1
+- pkg:maven/io.quarkiverse.googlecloudservices/quarkus-google-cloud-services-main-it@1.1.1?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.languageweaver.sdk/auth@1.5
+- pkg:maven/com.languageweaver.sdk/auth@1.5?classifier=sources
+- pkg:maven/com.languageweaver.sdk/auth@1.7
+- pkg:maven/com.languageweaver.sdk/auth@1.7?classifier=sources
+- pkg:maven/com.languageweaver.sdk/auth@2.0
+- pkg:maven/com.languageweaver.sdk/auth@2.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/io.johnsonlee.codegen/velocity@0.1.0?classifier=sources
+- pkg:maven/io.johnsonlee.codegen/velocity@1.0.0?classifier=sources

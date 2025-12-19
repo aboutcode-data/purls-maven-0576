@@ -1,2 +1,4 @@
 - pkg:maven/vip.ylove/st-encrypt-sdk-spring-boot-starter@1.0
+- pkg:maven/vip.ylove/st-encrypt-sdk-spring-boot-starter@1.0.1
+- pkg:maven/vip.ylove/st-encrypt-sdk-spring-boot-starter@1.0.1?classifier=sources
 - pkg:maven/vip.ylove/st-encrypt-sdk-spring-boot-starter@1.0?classifier=sources

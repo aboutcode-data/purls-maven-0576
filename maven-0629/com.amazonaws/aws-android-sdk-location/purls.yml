@@ -68,3 +68,11 @@
 - pkg:maven/com.amazonaws/aws-android-sdk-location@2.43.0?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-location@2.44.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-location@2.44.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-location@2.45.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-location@2.45.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-location@2.46.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-location@2.46.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-location@2.47.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-location@2.47.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-location@2.48.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-location@2.48.0?type=aar

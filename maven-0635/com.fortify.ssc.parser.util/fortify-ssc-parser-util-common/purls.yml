@@ -1,2 +1,3 @@
 - pkg:maven/com.fortify.ssc.parser.util/fortify-ssc-parser-util-common@1.5.0.RELEASE?classifier=sources
 - pkg:maven/com.fortify.ssc.parser.util/fortify-ssc-parser-util-common@1.6.0.RELEASE?classifier=sources
+- pkg:maven/com.fortify.ssc.parser.util/fortify-ssc-parser-util-common@1.6.1.RELEASE?classifier=sources

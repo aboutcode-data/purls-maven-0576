@@ -20,3 +20,5 @@
 - pkg:maven/org.ikasan/ikasan-rest-dashboard@3.2.3?classifier=sources
 - pkg:maven/org.ikasan/ikasan-rest-dashboard@3.2.4
 - pkg:maven/org.ikasan/ikasan-rest-dashboard@3.2.4?classifier=sources
+- pkg:maven/org.ikasan/ikasan-rest-dashboard@3.2.5
+- pkg:maven/org.ikasan/ikasan-rest-dashboard@3.2.5?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.scottweaver/zio-2-0-cassandra-migration-aspect_3@0.6.0
+- pkg:maven/io.github.scottweaver/zio-2-0-cassandra-migration-aspect_3@0.6.0?classifier=sources

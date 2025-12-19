@@ -16,7 +16,14 @@
 - pkg:maven/com.liferay.plugins/dialect-theme@5.0.25?type=war
 - pkg:maven/com.liferay.plugins/dialect-theme@5.0.26?type=war
 - pkg:maven/com.liferay.plugins/dialect-theme@5.0.27?type=war
+- pkg:maven/com.liferay.plugins/dialect-theme@5.0.28?type=war
+- pkg:maven/com.liferay.plugins/dialect-theme@5.0.29?type=war
 - pkg:maven/com.liferay.plugins/dialect-theme@5.0.2?type=war
+- pkg:maven/com.liferay.plugins/dialect-theme@5.0.30?type=war
+- pkg:maven/com.liferay.plugins/dialect-theme@5.0.31?type=war
+- pkg:maven/com.liferay.plugins/dialect-theme@5.0.32?type=war
+- pkg:maven/com.liferay.plugins/dialect-theme@5.0.33?type=war
+- pkg:maven/com.liferay.plugins/dialect-theme@5.0.34?type=war
 - pkg:maven/com.liferay.plugins/dialect-theme@5.0.3?type=war
 - pkg:maven/com.liferay.plugins/dialect-theme@5.0.4?type=war
 - pkg:maven/com.liferay.plugins/dialect-theme@5.0.5?type=war

@@ -62,3 +62,5 @@
 - pkg:maven/com.armanbilge/calico-widget_sjs1_3@0.0-f9cc6ed?classifier=sources
 - pkg:maven/com.armanbilge/calico-widget_sjs1_3@0.1.0
 - pkg:maven/com.armanbilge/calico-widget_sjs1_3@0.1.0?classifier=sources
+- pkg:maven/com.armanbilge/calico-widget_sjs1_3@0.1.1
+- pkg:maven/com.armanbilge/calico-widget_sjs1_3@0.1.1?classifier=sources

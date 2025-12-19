@@ -5,4 +5,12 @@
 - pkg:maven/com.iussoft/iussoft-common-plugins@3.3.2
 - pkg:maven/com.iussoft/iussoft-common-plugins@3.3.22031801
 - pkg:maven/com.iussoft/iussoft-common-plugins@3.3.22031801?classifier=sources
+- pkg:maven/com.iussoft/iussoft-common-plugins@3.3.22050518
+- pkg:maven/com.iussoft/iussoft-common-plugins@3.3.22050518?classifier=sources
+- pkg:maven/com.iussoft/iussoft-common-plugins@3.3.22050601
+- pkg:maven/com.iussoft/iussoft-common-plugins@3.3.22050601?classifier=sources
+- pkg:maven/com.iussoft/iussoft-common-plugins@3.3.22050602
+- pkg:maven/com.iussoft/iussoft-common-plugins@3.3.22050602?classifier=sources
+- pkg:maven/com.iussoft/iussoft-common-plugins@3.3.22050615
+- pkg:maven/com.iussoft/iussoft-common-plugins@3.3.22050615?classifier=sources
 - pkg:maven/com.iussoft/iussoft-common-plugins@3.3.2?classifier=sources

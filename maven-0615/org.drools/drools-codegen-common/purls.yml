@@ -1,0 +1,6 @@
+- pkg:maven/org.drools/drools-codegen-common@8.21.0.Beta
+- pkg:maven/org.drools/drools-codegen-common@8.21.0.Beta?classifier=sources
+- pkg:maven/org.drools/drools-codegen-common@8.22.0.Beta
+- pkg:maven/org.drools/drools-codegen-common@8.22.0.Beta?classifier=sources
+- pkg:maven/org.drools/drools-codegen-common@8.22.1.Beta
+- pkg:maven/org.drools/drools-codegen-common@8.22.1.Beta?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.gwtproject/gwt-dev@2.10.0
+- pkg:maven/org.gwtproject/gwt-dev@2.10.0?classifier=sources

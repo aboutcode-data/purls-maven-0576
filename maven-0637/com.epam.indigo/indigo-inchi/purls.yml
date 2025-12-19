@@ -26,3 +26,7 @@
 - pkg:maven/com.epam.indigo/indigo-inchi@1.5.0?classifier=sources
 - pkg:maven/com.epam.indigo/indigo-inchi@1.6.1
 - pkg:maven/com.epam.indigo/indigo-inchi@1.6.1?classifier=sources
+- pkg:maven/com.epam.indigo/indigo-inchi@1.7.0
+- pkg:maven/com.epam.indigo/indigo-inchi@1.7.0-beta
+- pkg:maven/com.epam.indigo/indigo-inchi@1.7.0-beta?classifier=sources
+- pkg:maven/com.epam.indigo/indigo-inchi@1.7.0?classifier=sources

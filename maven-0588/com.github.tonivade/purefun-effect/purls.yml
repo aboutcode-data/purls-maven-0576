@@ -15,3 +15,4 @@
 - pkg:maven/com.github.tonivade/purefun-effect@2.2
 - pkg:maven/com.github.tonivade/purefun-effect@2.2?classifier=sources
 - pkg:maven/com.github.tonivade/purefun-effect@3.0?classifier=sources
+- pkg:maven/com.github.tonivade/purefun-effect@4.0?classifier=sources

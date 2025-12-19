@@ -27,3 +27,9 @@
 - pkg:maven/io.trino/trino-kudu@377?classifier=sources
 - pkg:maven/io.trino/trino-kudu@378?classifier=sources
 - pkg:maven/io.trino/trino-kudu@379?classifier=sources
+- pkg:maven/io.trino/trino-kudu@380?classifier=sources
+- pkg:maven/io.trino/trino-kudu@381?classifier=sources
+- pkg:maven/io.trino/trino-kudu@382?classifier=sources
+- pkg:maven/io.trino/trino-kudu@383?classifier=sources
+- pkg:maven/io.trino/trino-kudu@384?classifier=sources
+- pkg:maven/io.trino/trino-kudu@385?classifier=sources

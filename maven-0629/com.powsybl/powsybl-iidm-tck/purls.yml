@@ -39,3 +39,5 @@
 - pkg:maven/com.powsybl/powsybl-iidm-tck@4.8.0
 - pkg:maven/com.powsybl/powsybl-iidm-tck@4.8.0-RC1
 - pkg:maven/com.powsybl/powsybl-iidm-tck@4.8.0-RC2
+- pkg:maven/com.powsybl/powsybl-iidm-tck@4.9.0
+- pkg:maven/com.powsybl/powsybl-iidm-tck@4.9.0-RC1

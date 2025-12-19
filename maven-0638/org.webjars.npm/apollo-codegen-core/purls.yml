@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/apollo-codegen-core@0.40.8
+- pkg:maven/org.webjars.npm/apollo-codegen-core@0.40.8?classifier=sources

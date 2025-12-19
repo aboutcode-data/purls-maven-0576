@@ -40,3 +40,4 @@
 - pkg:maven/org.jdrupes.httpcodec/httpcodec@2.2.0?classifier=sources
 - pkg:maven/org.jdrupes.httpcodec/httpcodec@2.2.1?classifier=sources
 - pkg:maven/org.jdrupes.httpcodec/httpcodec@2.3.0?classifier=sources
+- pkg:maven/org.jdrupes.httpcodec/httpcodec@2.4.0?classifier=sources

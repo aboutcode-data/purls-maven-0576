@@ -5,4 +5,8 @@
 - pkg:maven/com.iussoft/iussoft-client@3.3.2
 - pkg:maven/com.iussoft/iussoft-client@3.3.22031801
 - pkg:maven/com.iussoft/iussoft-client@3.3.22031801?classifier=sources
+- pkg:maven/com.iussoft/iussoft-client@3.3.22050518
+- pkg:maven/com.iussoft/iussoft-client@3.3.22050518?classifier=sources
+- pkg:maven/com.iussoft/iussoft-client@3.3.22050719
+- pkg:maven/com.iussoft/iussoft-client@3.3.22050719?classifier=sources
 - pkg:maven/com.iussoft/iussoft-client@3.3.2?classifier=sources

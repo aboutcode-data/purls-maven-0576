@@ -56,4 +56,5 @@
 - pkg:maven/org.robolectric/pluginapi@4.7.3?classifier=sources
 - pkg:maven/org.robolectric/pluginapi@4.7?classifier=sources
 - pkg:maven/org.robolectric/pluginapi@4.8-alpha-1?classifier=sources
+- pkg:maven/org.robolectric/pluginapi@4.8.1?classifier=sources
 - pkg:maven/org.robolectric/pluginapi@4.8?classifier=sources

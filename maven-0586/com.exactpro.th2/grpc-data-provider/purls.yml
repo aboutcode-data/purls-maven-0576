@@ -15,6 +15,7 @@
 - pkg:maven/com.exactpro.th2/grpc-data-provider@0.1.4rc2?classifier=sources
 - pkg:maven/com.exactpro.th2/grpc-data-provider@0.1.5?classifier=sources
 - pkg:maven/com.exactpro.th2/grpc-data-provider@0.1.5rc2?classifier=sources
+- pkg:maven/com.exactpro.th2/grpc-data-provider@0.1.6?classifier=sources
 - pkg:maven/com.exactpro.th2/grpc-data-provider@1.0.0?classifier=sources
 - pkg:maven/com.exactpro.th2/grpc-data-provider@1.0.0rc2?classifier=sources
 - pkg:maven/com.exactpro.th2/grpc-data-provider@1.0.1?classifier=sources

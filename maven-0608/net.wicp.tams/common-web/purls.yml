@@ -36,3 +36,7 @@
 - pkg:maven/net.wicp.tams/common-web@3.6.16?classifier=sources
 - pkg:maven/net.wicp.tams/common-web@3.6.18
 - pkg:maven/net.wicp.tams/common-web@3.6.18?classifier=sources
+- pkg:maven/net.wicp.tams/common-web@3.6.20
+- pkg:maven/net.wicp.tams/common-web@3.6.20?classifier=sources
+- pkg:maven/net.wicp.tams/common-web@3.6.21
+- pkg:maven/net.wicp.tams/common-web@3.6.21?classifier=sources

@@ -6,3 +6,4 @@
 - pkg:maven/gov.nist.secauto/oss-build-support@18
 - pkg:maven/gov.nist.secauto/oss-build-support@19
 - pkg:maven/gov.nist.secauto/oss-build-support@20
+- pkg:maven/gov.nist.secauto/oss-build-support@21

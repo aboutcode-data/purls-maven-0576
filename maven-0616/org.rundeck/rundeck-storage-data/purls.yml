@@ -435,3 +435,14 @@
 - pkg:maven/org.rundeck/rundeck-storage-data@4.1.0-rc1-20220405?classifier=sources
 - pkg:maven/org.rundeck/rundeck-storage-data@4.1.0-rc2-20220412?classifier=sources
 - pkg:maven/org.rundeck/rundeck-storage-data@4.1.0-rc3-20220418?classifier=sources
+- pkg:maven/org.rundeck/rundeck-storage-data@4.2.0-20220509?classifier=sources
+- pkg:maven/org.rundeck/rundeck-storage-data@4.2.0-rc1-20220502?classifier=sources
+- pkg:maven/org.rundeck/rundeck-storage-data@4.2.0-rc2-20220505?classifier=sources
+- pkg:maven/org.rundeck/rundeck-storage-data@4.2.1-20220511?classifier=sources
+- pkg:maven/org.rundeck/rundeck-storage-data@4.2.2-20220615?classifier=sources
+- pkg:maven/org.rundeck/rundeck-storage-data@4.2.2-rc1-20220606?classifier=sources
+- pkg:maven/org.rundeck/rundeck-storage-data@4.3.0-20220602?classifier=sources
+- pkg:maven/org.rundeck/rundeck-storage-data@4.3.0-rc1-20220523?classifier=sources
+- pkg:maven/org.rundeck/rundeck-storage-data@4.3.0-rc2-20220531?classifier=sources
+- pkg:maven/org.rundeck/rundeck-storage-data@4.3.1-20220615?classifier=sources
+- pkg:maven/org.rundeck/rundeck-storage-data@4.3.1-rc1-20220606?classifier=sources

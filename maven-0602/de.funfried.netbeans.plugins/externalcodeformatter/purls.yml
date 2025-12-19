@@ -5,3 +5,5 @@
 - pkg:maven/de.funfried.netbeans.plugins/externalcodeformatter@1.14.3?classifier=sources
 - pkg:maven/de.funfried.netbeans.plugins/externalcodeformatter@1.14.4?classifier=sources
 - pkg:maven/de.funfried.netbeans.plugins/externalcodeformatter@1.14.5?classifier=sources
+- pkg:maven/de.funfried.netbeans.plugins/externalcodeformatter@1.15.0?classifier=sources
+- pkg:maven/de.funfried.netbeans.plugins/externalcodeformatter@1.15.1?classifier=sources

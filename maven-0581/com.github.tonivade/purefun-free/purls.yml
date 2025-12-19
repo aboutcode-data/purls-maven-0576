@@ -25,3 +25,4 @@
 - pkg:maven/com.github.tonivade/purefun-free@2.2
 - pkg:maven/com.github.tonivade/purefun-free@2.2?classifier=sources
 - pkg:maven/com.github.tonivade/purefun-free@3.0?classifier=sources
+- pkg:maven/com.github.tonivade/purefun-free@4.0?classifier=sources

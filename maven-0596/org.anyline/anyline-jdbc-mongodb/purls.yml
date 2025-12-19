@@ -45,6 +45,12 @@
 - pkg:maven/org.anyline/anyline-jdbc-mongodb@8.5.2-20220325
 - pkg:maven/org.anyline/anyline-jdbc-mongodb@8.5.2-20220501
 - pkg:maven/org.anyline/anyline-jdbc-mongodb@8.5.2-8.5.2-20220315
+- pkg:maven/org.anyline/anyline-jdbc-mongodb@8.5.3-20220518
+- pkg:maven/org.anyline/anyline-jdbc-mongodb@8.5.3-20220520
+- pkg:maven/org.anyline/anyline-jdbc-mongodb@8.5.3-20220525
+- pkg:maven/org.anyline/anyline-jdbc-mongodb@8.5.3-20220526
+- pkg:maven/org.anyline/anyline-jdbc-mongodb@8.5.3-20220601
+- pkg:maven/org.anyline/anyline-jdbc-mongodb@8.5.3-20220609
 - pkg:maven/org.anyline/anyline-jdbc-mongodb@8.5.3-beta1
 - pkg:maven/org.anyline/anyline-jdbc-mongodb@8.5.3-beta2
 - pkg:maven/org.anyline/anyline-jdbc-mongodb@8.5.3-beta3

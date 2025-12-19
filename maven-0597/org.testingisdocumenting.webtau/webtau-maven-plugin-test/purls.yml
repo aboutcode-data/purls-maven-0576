@@ -26,3 +26,4 @@
 - pkg:maven/org.testingisdocumenting.webtau/webtau-maven-plugin-test@1.45.1
 - pkg:maven/org.testingisdocumenting.webtau/webtau-maven-plugin-test@1.46
 - pkg:maven/org.testingisdocumenting.webtau/webtau-maven-plugin-test@1.47
+- pkg:maven/org.testingisdocumenting.webtau/webtau-maven-plugin-test@1.48

@@ -1,0 +1,2 @@
+- pkg:maven/cn.net.vidyo/jsmth-msg@3.3.120.RELEASE
+- pkg:maven/cn.net.vidyo/jsmth-msg@3.3.120.RELEASE?classifier=sources

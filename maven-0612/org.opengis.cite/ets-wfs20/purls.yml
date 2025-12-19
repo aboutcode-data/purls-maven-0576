@@ -30,6 +30,8 @@
 - pkg:maven/org.opengis.cite/ets-wfs20@1.36?classifier=sources
 - pkg:maven/org.opengis.cite/ets-wfs20@1.37
 - pkg:maven/org.opengis.cite/ets-wfs20@1.37?classifier=sources
+- pkg:maven/org.opengis.cite/ets-wfs20@1.38
+- pkg:maven/org.opengis.cite/ets-wfs20@1.38?classifier=sources
 - pkg:maven/org.opengis.cite/ets-wfs20@2.0-r16
 - pkg:maven/org.opengis.cite/ets-wfs20@2.0-r16?classifier=sources
 - pkg:maven/org.opengis.cite/ets-wfs20@2.0-r17

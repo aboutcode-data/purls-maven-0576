@@ -1,0 +1,2 @@
+- pkg:maven/io.bitcoinsv.bitcoinjsv/bitcoinj-wallet-and-tests@1.0.4
+- pkg:maven/io.bitcoinsv.bitcoinjsv/bitcoinj-wallet-and-tests@1.0.4?classifier=sources

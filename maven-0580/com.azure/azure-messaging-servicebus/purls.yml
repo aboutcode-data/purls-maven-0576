@@ -54,3 +54,5 @@
 - pkg:maven/com.azure/azure-messaging-servicebus@7.7.0?classifier=sources
 - pkg:maven/com.azure/azure-messaging-servicebus@7.8.0
 - pkg:maven/com.azure/azure-messaging-servicebus@7.8.0?classifier=sources
+- pkg:maven/com.azure/azure-messaging-servicebus@7.9.0
+- pkg:maven/com.azure/azure-messaging-servicebus@7.9.0?classifier=sources

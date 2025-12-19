@@ -2,3 +2,4 @@
 - pkg:maven/com.kuaishou.koom/koom-monitor-base@2.0.0-beta1?classifier=sources
 - pkg:maven/com.kuaishou.koom/koom-monitor-base@2.0.0?classifier=sources
 - pkg:maven/com.kuaishou.koom/koom-monitor-base@2.1.0?classifier=sources
+- pkg:maven/com.kuaishou.koom/koom-monitor-base@2.2.0?classifier=sources

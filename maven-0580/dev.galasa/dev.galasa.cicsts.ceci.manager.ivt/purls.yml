@@ -2,3 +2,4 @@
 - pkg:maven/dev.galasa/dev.galasa.cicsts.ceci.manager.ivt@0.20.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.cicsts.ceci.manager.ivt@0.21.0?classifier=sources
 - pkg:maven/dev.galasa/dev.galasa.cicsts.ceci.manager.ivt@0.22.0?classifier=sources
+- pkg:maven/dev.galasa/dev.galasa.cicsts.ceci.manager.ivt@0.23.0?classifier=sources

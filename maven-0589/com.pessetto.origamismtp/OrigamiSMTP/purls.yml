@@ -14,3 +14,5 @@
 - pkg:maven/com.pessetto.origamismtp/OrigamiSMTP@2.0.4?classifier=sources
 - pkg:maven/com.pessetto.origamismtp/OrigamiSMTP@3.0.0
 - pkg:maven/com.pessetto.origamismtp/OrigamiSMTP@3.0.0?classifier=sources
+- pkg:maven/com.pessetto.origamismtp/OrigamiSMTP@3.0.1
+- pkg:maven/com.pessetto.origamismtp/OrigamiSMTP@3.0.1?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/jakarta.servlet/jakarta.servlet-api@5.0.0-M2
 - pkg:maven/jakarta.servlet/jakarta.servlet-api@5.0.0-M2?classifier=sources
 - pkg:maven/jakarta.servlet/jakarta.servlet-api@5.0.0?classifier=sources
+- pkg:maven/jakarta.servlet/jakarta.servlet-api@6.0.0
+- pkg:maven/jakarta.servlet/jakarta.servlet-api@6.0.0?classifier=sources

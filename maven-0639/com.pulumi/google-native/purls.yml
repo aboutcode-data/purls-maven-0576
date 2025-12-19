@@ -1,1 +1,2 @@
+- pkg:maven/com.pulumi/google-native@0.18.2?classifier=sources
 - pkg:maven/com.pulumi/google-native@6.21.0?classifier=sources

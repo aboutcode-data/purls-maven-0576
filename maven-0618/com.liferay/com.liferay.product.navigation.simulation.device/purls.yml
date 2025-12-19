@@ -91,6 +91,9 @@
 - pkg:maven/com.liferay/com.liferay.product.navigation.simulation.device@2.0.38
 - pkg:maven/com.liferay/com.liferay.product.navigation.simulation.device@2.0.38?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.simulation.device@2.0.38?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.product.navigation.simulation.device@2.0.39
+- pkg:maven/com.liferay/com.liferay.product.navigation.simulation.device@2.0.39?classifier=sources
+- pkg:maven/com.liferay/com.liferay.product.navigation.simulation.device@2.0.39?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.product.navigation.simulation.device@2.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.simulation.device@2.0.4
 - pkg:maven/com.liferay/com.liferay.product.navigation.simulation.device@2.0.4?classifier=sources
@@ -155,6 +158,9 @@
 - pkg:maven/com.liferay/com.liferay.product.navigation.simulation.device@3.0.23
 - pkg:maven/com.liferay/com.liferay.product.navigation.simulation.device@3.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.simulation.device@3.0.23?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.product.navigation.simulation.device@3.0.24
+- pkg:maven/com.liferay/com.liferay.product.navigation.simulation.device@3.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.product.navigation.simulation.device@3.0.24?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.product.navigation.simulation.device@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.simulation.device@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.product.navigation.simulation.device@3.0.3
@@ -248,6 +254,12 @@
 - pkg:maven/com.liferay/com.liferay.product.navigation.simulation.device@4.0.30
 - pkg:maven/com.liferay/com.liferay.product.navigation.simulation.device@4.0.30?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.simulation.device@4.0.30?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.product.navigation.simulation.device@4.0.31
+- pkg:maven/com.liferay/com.liferay.product.navigation.simulation.device@4.0.31?classifier=sources
+- pkg:maven/com.liferay/com.liferay.product.navigation.simulation.device@4.0.31?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.product.navigation.simulation.device@4.0.32
+- pkg:maven/com.liferay/com.liferay.product.navigation.simulation.device@4.0.32?classifier=sources
+- pkg:maven/com.liferay/com.liferay.product.navigation.simulation.device@4.0.32?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.product.navigation.simulation.device@4.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.simulation.device@4.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.product.navigation.simulation.device@4.0.4
@@ -323,6 +335,9 @@
 - pkg:maven/com.liferay/com.liferay.product.navigation.simulation.device@5.0.26
 - pkg:maven/com.liferay/com.liferay.product.navigation.simulation.device@5.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.simulation.device@5.0.26?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.product.navigation.simulation.device@5.0.27
+- pkg:maven/com.liferay/com.liferay.product.navigation.simulation.device@5.0.27?classifier=sources
+- pkg:maven/com.liferay/com.liferay.product.navigation.simulation.device@5.0.27?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.product.navigation.simulation.device@5.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.simulation.device@5.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.product.navigation.simulation.device@5.0.3

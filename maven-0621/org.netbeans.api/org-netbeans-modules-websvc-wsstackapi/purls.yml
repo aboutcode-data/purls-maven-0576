@@ -12,3 +12,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-websvc-wsstackapi@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-websvc-wsstackapi@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-websvc-wsstackapi@RELEASE130?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-websvc-wsstackapi@RELEASE140?classifier=sources

@@ -10,3 +10,7 @@
 - pkg:maven/org.apache.activemq/artemis-jakarta-server@2.20.0?classifier=sources
 - pkg:maven/org.apache.activemq/artemis-jakarta-server@2.21.0
 - pkg:maven/org.apache.activemq/artemis-jakarta-server@2.21.0?classifier=sources
+- pkg:maven/org.apache.activemq/artemis-jakarta-server@2.22.0
+- pkg:maven/org.apache.activemq/artemis-jakarta-server@2.22.0?classifier=sources
+- pkg:maven/org.apache.activemq/artemis-jakarta-server@2.23.0
+- pkg:maven/org.apache.activemq/artemis-jakarta-server@2.23.0?classifier=sources

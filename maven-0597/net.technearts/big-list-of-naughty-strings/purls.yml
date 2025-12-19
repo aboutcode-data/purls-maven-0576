@@ -1,0 +1,2 @@
+- pkg:maven/net.technearts/big-list-of-naughty-strings@1.0.0
+- pkg:maven/net.technearts/big-list-of-naughty-strings@1.0.0?classifier=sources

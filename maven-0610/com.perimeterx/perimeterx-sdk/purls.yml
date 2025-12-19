@@ -98,3 +98,5 @@
 - pkg:maven/com.perimeterx/perimeterx-sdk@6.4.0?classifier=sources
 - pkg:maven/com.perimeterx/perimeterx-sdk@6.4.1
 - pkg:maven/com.perimeterx/perimeterx-sdk@6.4.1?classifier=sources
+- pkg:maven/com.perimeterx/perimeterx-sdk@6.4.2
+- pkg:maven/com.perimeterx/perimeterx-sdk@6.4.2?classifier=sources

@@ -3,4 +3,6 @@
 - pkg:maven/com.baidu.xuper/xasset-sdk-java@1.0.1?classifier=sources
 - pkg:maven/com.baidu.xuper/xasset-sdk-java@1.0.2
 - pkg:maven/com.baidu.xuper/xasset-sdk-java@1.0.2?classifier=sources
+- pkg:maven/com.baidu.xuper/xasset-sdk-java@1.0.4
+- pkg:maven/com.baidu.xuper/xasset-sdk-java@1.0.4?classifier=sources
 - pkg:maven/com.baidu.xuper/xasset-sdk-java@1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.dellroad/dellroad-stuff-vaadin22@2.5.0
+- pkg:maven/org.dellroad/dellroad-stuff-vaadin22@2.5.0?classifier=sources

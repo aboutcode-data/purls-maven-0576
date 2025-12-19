@@ -1,0 +1,4 @@
+- pkg:maven/com.pig4cloud.plugin/magic-editor@2.0.1
+- pkg:maven/com.pig4cloud.plugin/magic-editor@2.0.1.1
+- pkg:maven/com.pig4cloud.plugin/magic-editor@2.0.1.1?classifier=sources
+- pkg:maven/com.pig4cloud.plugin/magic-editor@2.0.1?classifier=sources

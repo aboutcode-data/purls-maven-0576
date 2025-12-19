@@ -22,3 +22,9 @@
 - pkg:maven/com.datadoghq/ap-tools@2.7-DD-20220325?classifier=sources
 - pkg:maven/com.datadoghq/ap-tools@2.7-DD-20220411
 - pkg:maven/com.datadoghq/ap-tools@2.7-DD-20220411?classifier=sources
+- pkg:maven/com.datadoghq/ap-tools@2.8-DD-20220519
+- pkg:maven/com.datadoghq/ap-tools@2.8-DD-20220519?classifier=sources
+- pkg:maven/com.datadoghq/ap-tools@2.8-DD-20220527
+- pkg:maven/com.datadoghq/ap-tools@2.8-DD-20220527?classifier=sources
+- pkg:maven/com.datadoghq/ap-tools@2.8-DD-20220530
+- pkg:maven/com.datadoghq/ap-tools@2.8-DD-20220530?classifier=sources

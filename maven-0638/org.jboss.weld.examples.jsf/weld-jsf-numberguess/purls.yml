@@ -374,3 +374,7 @@
 - pkg:maven/org.jboss.weld.examples.jsf/weld-jsf-numberguess@5.0.0.CR2?type=war
 - pkg:maven/org.jboss.weld.examples.jsf/weld-jsf-numberguess@5.0.0.Final?classifier=sources
 - pkg:maven/org.jboss.weld.examples.jsf/weld-jsf-numberguess@5.0.0.Final?type=war
+- pkg:maven/org.jboss.weld.examples.jsf/weld-jsf-numberguess@5.0.0.SP1?classifier=sources
+- pkg:maven/org.jboss.weld.examples.jsf/weld-jsf-numberguess@5.0.0.SP1?type=war
+- pkg:maven/org.jboss.weld.examples.jsf/weld-jsf-numberguess@5.0.0.SP2?classifier=sources
+- pkg:maven/org.jboss.weld.examples.jsf/weld-jsf-numberguess@5.0.0.SP2?type=war

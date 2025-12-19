@@ -5,3 +5,12 @@
 - pkg:maven/com.agorapulse/gru-micronaut@0.9.3?classifier=sources
 - pkg:maven/com.agorapulse/gru-micronaut@0.9.4?classifier=sources
 - pkg:maven/com.agorapulse/gru-micronaut@0.9.5?classifier=sources
+- pkg:maven/com.agorapulse/gru-micronaut@1.0.1?classifier=sources
+- pkg:maven/com.agorapulse/gru-micronaut@1.0.2?classifier=sources
+- pkg:maven/com.agorapulse/gru-micronaut@1.0.3?classifier=sources
+- pkg:maven/com.agorapulse/gru-micronaut@1.0.4?classifier=sources
+- pkg:maven/com.agorapulse/gru-micronaut@1.1.0?classifier=sources
+- pkg:maven/com.agorapulse/gru-micronaut@1.1.1?classifier=sources
+- pkg:maven/com.agorapulse/gru-micronaut@1.1.2?classifier=sources
+- pkg:maven/com.agorapulse/gru-micronaut@1.2.0?classifier=sources
+- pkg:maven/com.agorapulse/gru-micronaut@1.2.1?classifier=sources

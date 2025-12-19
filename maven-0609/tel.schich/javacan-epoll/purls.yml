@@ -4,3 +4,5 @@
 - pkg:maven/tel.schich/javacan-epoll@3.1.0?classifier=sources
 - pkg:maven/tel.schich/javacan-epoll@3.2.0
 - pkg:maven/tel.schich/javacan-epoll@3.2.0?classifier=sources
+- pkg:maven/tel.schich/javacan-epoll@3.2.2
+- pkg:maven/tel.schich/javacan-epoll@3.2.2?classifier=sources

@@ -8,3 +8,4 @@
 - pkg:maven/jakarta.validation/jakarta.validation-api@3.0.0?classifier=sources
 - pkg:maven/jakarta.validation/jakarta.validation-api@3.0.1
 - pkg:maven/jakarta.validation/jakarta.validation-api@3.0.1?classifier=sources
+- pkg:maven/jakarta.validation/jakarta.validation-api@3.0.2?classifier=sources

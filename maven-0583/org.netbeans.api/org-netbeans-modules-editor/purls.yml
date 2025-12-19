@@ -13,4 +13,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor@RELEASE130?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-editor@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-editor@RELEASE90?classifier=sources

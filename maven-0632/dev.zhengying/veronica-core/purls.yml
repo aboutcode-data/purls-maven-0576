@@ -31,3 +31,6 @@
 - pkg:maven/dev.zhengying/veronica-core@0.0.1-alpha.210823.01?classifier=sources
 - pkg:maven/dev.zhengying/veronica-core@0.0.1-alpha.210825.02
 - pkg:maven/dev.zhengying/veronica-core@0.0.1-alpha.210825.02?classifier=sources
+- pkg:maven/dev.zhengying/veronica-core@0.0.1-alpha.220516.01
+- pkg:maven/dev.zhengying/veronica-core@0.0.1-alpha.220517.02
+- pkg:maven/dev.zhengying/veronica-core@0.0.1-alpha.220519.03

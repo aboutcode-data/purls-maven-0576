@@ -332,5 +332,9 @@
 - pkg:maven/org.webjars.npm/vuetify@2.6.3?classifier=sources
 - pkg:maven/org.webjars.npm/vuetify@2.6.4
 - pkg:maven/org.webjars.npm/vuetify@2.6.4?classifier=sources
+- pkg:maven/org.webjars.npm/vuetify@2.6.6
+- pkg:maven/org.webjars.npm/vuetify@2.6.6?classifier=sources
 - pkg:maven/org.webjars.npm/vuetify@3.0.0-alpha.11
 - pkg:maven/org.webjars.npm/vuetify@3.0.0-alpha.11?classifier=sources
+- pkg:maven/org.webjars.npm/vuetify@3.0.0-beta.3
+- pkg:maven/org.webjars.npm/vuetify@3.0.0-beta.3?classifier=sources

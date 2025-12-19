@@ -312,6 +312,9 @@
 - pkg:maven/com.liferay/com.liferay.flags.taglib@4.2.32
 - pkg:maven/com.liferay/com.liferay.flags.taglib@4.2.32?classifier=sources
 - pkg:maven/com.liferay/com.liferay.flags.taglib@4.2.32?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.flags.taglib@4.2.33
+- pkg:maven/com.liferay/com.liferay.flags.taglib@4.2.33?classifier=sources
+- pkg:maven/com.liferay/com.liferay.flags.taglib@4.2.33?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.flags.taglib@4.2.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.flags.taglib@4.2.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.flags.taglib@4.2.4

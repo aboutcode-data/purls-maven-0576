@@ -26,3 +26,7 @@
 - pkg:maven/com.thesamet.scalapb.zio-grpc/zio-grpc-core_2.12@0.5.1?classifier=sources
 - pkg:maven/com.thesamet.scalapb.zio-grpc/zio-grpc-core_2.12@0.6.0-test1
 - pkg:maven/com.thesamet.scalapb.zio-grpc/zio-grpc-core_2.12@0.6.0-test1?classifier=sources
+- pkg:maven/com.thesamet.scalapb.zio-grpc/zio-grpc-core_2.12@0.6.0-test2
+- pkg:maven/com.thesamet.scalapb.zio-grpc/zio-grpc-core_2.12@0.6.0-test2?classifier=sources
+- pkg:maven/com.thesamet.scalapb.zio-grpc/zio-grpc-core_2.12@0.6.0-test3
+- pkg:maven/com.thesamet.scalapb.zio-grpc/zio-grpc-core_2.12@0.6.0-test3?classifier=sources

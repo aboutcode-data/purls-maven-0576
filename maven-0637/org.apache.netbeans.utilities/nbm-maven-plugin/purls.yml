@@ -16,3 +16,6 @@
 - pkg:maven/org.apache.netbeans.utilities/nbm-maven-plugin@4.7
 - pkg:maven/org.apache.netbeans.utilities/nbm-maven-plugin@4.7?classifier=source-release&type=zip
 - pkg:maven/org.apache.netbeans.utilities/nbm-maven-plugin@4.7?classifier=sources
+- pkg:maven/org.apache.netbeans.utilities/nbm-maven-plugin@4.8
+- pkg:maven/org.apache.netbeans.utilities/nbm-maven-plugin@4.8?classifier=source-release&type=zip
+- pkg:maven/org.apache.netbeans.utilities/nbm-maven-plugin@4.8?classifier=sources

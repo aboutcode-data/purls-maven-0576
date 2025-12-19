@@ -7,3 +7,7 @@
 - pkg:maven/cn.xfyun.aiui.aiuiplayer/common@1035?classifier=sources
 - pkg:maven/cn.xfyun.aiui.aiuiplayer/common@1040?classifier=sources
 - pkg:maven/cn.xfyun.aiui.aiuiplayer/common@1041?classifier=sources
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/common@1042?classifier=sources
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/common@1043?classifier=sources
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/common@1044?classifier=sources
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/common@1045?classifier=sources

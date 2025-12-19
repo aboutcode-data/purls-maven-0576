@@ -1,0 +1,6 @@
+- pkg:maven/io.github.ventsea/information@302?classifier=sources
+- pkg:maven/io.github.ventsea/information@302?type=aar
+- pkg:maven/io.github.ventsea/information@303?classifier=sources
+- pkg:maven/io.github.ventsea/information@303?type=aar
+- pkg:maven/io.github.ventsea/information@304?classifier=sources
+- pkg:maven/io.github.ventsea/information@304?type=aar

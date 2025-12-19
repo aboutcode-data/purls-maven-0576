@@ -6,6 +6,8 @@
 - pkg:maven/org.webjars.npm/types__d3@3.5.38?classifier=sources
 - pkg:maven/org.webjars.npm/types__d3@3.5.41
 - pkg:maven/org.webjars.npm/types__d3@3.5.41?classifier=sources
+- pkg:maven/org.webjars.npm/types__d3@3.5.47
+- pkg:maven/org.webjars.npm/types__d3@3.5.47?classifier=sources
 - pkg:maven/org.webjars.npm/types__d3@4.13.0
 - pkg:maven/org.webjars.npm/types__d3@4.13.0?classifier=sources
 - pkg:maven/org.webjars.npm/types__d3@4.8.0
@@ -24,3 +26,5 @@
 - pkg:maven/org.webjars.npm/types__d3@7.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/types__d3@7.1.0
 - pkg:maven/org.webjars.npm/types__d3@7.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/types__d3@7.4.0
+- pkg:maven/org.webjars.npm/types__d3@7.4.0?classifier=sources

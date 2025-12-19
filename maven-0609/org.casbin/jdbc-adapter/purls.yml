@@ -27,3 +27,7 @@
 - pkg:maven/org.casbin/jdbc-adapter@2.2.1?classifier=sources
 - pkg:maven/org.casbin/jdbc-adapter@2.2.2
 - pkg:maven/org.casbin/jdbc-adapter@2.2.2?classifier=sources
+- pkg:maven/org.casbin/jdbc-adapter@2.3.0
+- pkg:maven/org.casbin/jdbc-adapter@2.3.0?classifier=sources
+- pkg:maven/org.casbin/jdbc-adapter@2.3.1
+- pkg:maven/org.casbin/jdbc-adapter@2.3.1?classifier=sources

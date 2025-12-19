@@ -2,6 +2,7 @@
 - pkg:maven/dev.kord/kord-voice@0.8.0-M11?classifier=sources
 - pkg:maven/dev.kord/kord-voice@0.8.0-M12?classifier=sources
 - pkg:maven/dev.kord/kord-voice@0.8.0-M13?classifier=sources
+- pkg:maven/dev.kord/kord-voice@0.8.0-M14?classifier=sources
 - pkg:maven/dev.kord/kord-voice@0.8.0-M5?classifier=sources
 - pkg:maven/dev.kord/kord-voice@0.8.0-M6?classifier=sources
 - pkg:maven/dev.kord/kord-voice@0.8.0-M7?classifier=sources

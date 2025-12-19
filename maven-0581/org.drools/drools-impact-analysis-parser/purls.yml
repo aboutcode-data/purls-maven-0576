@@ -40,6 +40,12 @@
 - pkg:maven/org.drools/drools-impact-analysis-parser@7.67.0.Final?classifier=sources
 - pkg:maven/org.drools/drools-impact-analysis-parser@7.68.0.Final
 - pkg:maven/org.drools/drools-impact-analysis-parser@7.68.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-impact-analysis-parser@7.69.0.Final
+- pkg:maven/org.drools/drools-impact-analysis-parser@7.69.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-impact-analysis-parser@7.70.0.Final
+- pkg:maven/org.drools/drools-impact-analysis-parser@7.70.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-impact-analysis-parser@7.71.0.Final
+- pkg:maven/org.drools/drools-impact-analysis-parser@7.71.0.Final?classifier=sources
 - pkg:maven/org.drools/drools-impact-analysis-parser@8.13.0.Beta
 - pkg:maven/org.drools/drools-impact-analysis-parser@8.13.0.Beta?classifier=sources
 - pkg:maven/org.drools/drools-impact-analysis-parser@8.14.0.Beta
@@ -60,3 +66,9 @@
 - pkg:maven/org.drools/drools-impact-analysis-parser@8.19.0.Beta?classifier=sources
 - pkg:maven/org.drools/drools-impact-analysis-parser@8.20.0.Beta
 - pkg:maven/org.drools/drools-impact-analysis-parser@8.20.0.Beta?classifier=sources
+- pkg:maven/org.drools/drools-impact-analysis-parser@8.21.0.Beta
+- pkg:maven/org.drools/drools-impact-analysis-parser@8.21.0.Beta?classifier=sources
+- pkg:maven/org.drools/drools-impact-analysis-parser@8.22.0.Beta
+- pkg:maven/org.drools/drools-impact-analysis-parser@8.22.0.Beta?classifier=sources
+- pkg:maven/org.drools/drools-impact-analysis-parser@8.22.1.Beta
+- pkg:maven/org.drools/drools-impact-analysis-parser@8.22.1.Beta?classifier=sources
