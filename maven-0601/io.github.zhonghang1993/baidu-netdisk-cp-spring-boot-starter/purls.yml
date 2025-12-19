@@ -2,3 +2,7 @@
 - pkg:maven/io.github.zhonghang1993/baidu-netdisk-cp-spring-boot-starter@1.6.7?classifier=sources
 - pkg:maven/io.github.zhonghang1993/baidu-netdisk-cp-spring-boot-starter@1.6.8
 - pkg:maven/io.github.zhonghang1993/baidu-netdisk-cp-spring-boot-starter@1.6.8?classifier=sources
+- pkg:maven/io.github.zhonghang1993/baidu-netdisk-cp-spring-boot-starter@1.7.0
+- pkg:maven/io.github.zhonghang1993/baidu-netdisk-cp-spring-boot-starter@1.7.0?classifier=sources
+- pkg:maven/io.github.zhonghang1993/baidu-netdisk-cp-spring-boot-starter@1.7.1
+- pkg:maven/io.github.zhonghang1993/baidu-netdisk-cp-spring-boot-starter@1.7.1?classifier=sources

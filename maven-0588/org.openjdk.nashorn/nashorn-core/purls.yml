@@ -3,3 +3,4 @@
 - pkg:maven/org.openjdk.nashorn/nashorn-core@15.1?classifier=sources
 - pkg:maven/org.openjdk.nashorn/nashorn-core@15.2?classifier=sources
 - pkg:maven/org.openjdk.nashorn/nashorn-core@15.3?classifier=sources
+- pkg:maven/org.openjdk.nashorn/nashorn-core@15.4?classifier=sources

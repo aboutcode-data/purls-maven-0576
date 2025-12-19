@@ -1,0 +1,1 @@
+- pkg:maven/com.pulumi/azuread@5.21.0?classifier=sources

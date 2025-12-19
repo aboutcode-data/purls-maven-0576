@@ -54,3 +54,5 @@
 - pkg:maven/org.n52.sensorweb-server.db-model/db-model-mappings@4.0.0-PR.6?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.db-model/db-model-mappings@4.0.0-PR.7
 - pkg:maven/org.n52.sensorweb-server.db-model/db-model-mappings@4.0.0-PR.7?classifier=sources
+- pkg:maven/org.n52.sensorweb-server.db-model/db-model-mappings@4.0.0-PR.8
+- pkg:maven/org.n52.sensorweb-server.db-model/db-model-mappings@4.0.0-PR.8?classifier=sources

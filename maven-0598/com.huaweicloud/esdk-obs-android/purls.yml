@@ -6,3 +6,5 @@
 - pkg:maven/com.huaweicloud/esdk-obs-android@3.21.4?classifier=sources
 - pkg:maven/com.huaweicloud/esdk-obs-android@3.21.8
 - pkg:maven/com.huaweicloud/esdk-obs-android@3.21.8?classifier=sources
+- pkg:maven/com.huaweicloud/esdk-obs-android@3.22.3
+- pkg:maven/com.huaweicloud/esdk-obs-android@3.22.3?classifier=sources

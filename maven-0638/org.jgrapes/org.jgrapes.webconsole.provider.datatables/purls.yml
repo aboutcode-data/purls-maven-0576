@@ -1,2 +1,3 @@
 - pkg:maven/org.jgrapes/org.jgrapes.webconsole.provider.datatables@0.26.0
 - pkg:maven/org.jgrapes/org.jgrapes.webconsole.provider.datatables@0.26.0?classifier=sources
+- pkg:maven/org.jgrapes/org.jgrapes.webconsole.provider.datatables@0.27.0?classifier=sources

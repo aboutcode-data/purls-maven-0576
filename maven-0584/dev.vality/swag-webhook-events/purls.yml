@@ -10,3 +10,7 @@
 - pkg:maven/dev.vality/swag-webhook-events@1.1-b58fe32-client?classifier=sources
 - pkg:maven/dev.vality/swag-webhook-events@1.1-b58fe32-server
 - pkg:maven/dev.vality/swag-webhook-events@1.1-b58fe32-server?classifier=sources
+- pkg:maven/dev.vality/swag-webhook-events@1.98-2556814-client
+- pkg:maven/dev.vality/swag-webhook-events@1.98-2556814-client?classifier=sources
+- pkg:maven/dev.vality/swag-webhook-events@1.98-2556814-server
+- pkg:maven/dev.vality/swag-webhook-events@1.98-2556814-server?classifier=sources

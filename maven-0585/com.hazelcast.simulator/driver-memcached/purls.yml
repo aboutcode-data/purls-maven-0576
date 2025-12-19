@@ -2,3 +2,5 @@
 - pkg:maven/com.hazelcast.simulator/driver-memcached@0.12?classifier=sources
 - pkg:maven/com.hazelcast.simulator/driver-memcached@0.13
 - pkg:maven/com.hazelcast.simulator/driver-memcached@0.13?classifier=sources
+- pkg:maven/com.hazelcast.simulator/driver-memcached@1.0
+- pkg:maven/com.hazelcast.simulator/driver-memcached@1.0?classifier=sources

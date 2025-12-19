@@ -7,3 +7,4 @@
 - pkg:maven/io.dataease/dataease-plugin-filter@1.6
 - pkg:maven/io.dataease/dataease-plugin-filter@1.7
 - pkg:maven/io.dataease/dataease-plugin-filter@1.8.0
+- pkg:maven/io.dataease/dataease-plugin-filter@1.9.0

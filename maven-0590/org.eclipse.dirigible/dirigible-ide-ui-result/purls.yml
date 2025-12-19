@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-result@6.2.18
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-result@6.2.18?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-result@6.2.19
+- pkg:maven/org.eclipse.dirigible/dirigible-ide-ui-result@6.2.19?classifier=sources

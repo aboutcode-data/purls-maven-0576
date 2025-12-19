@@ -28,3 +28,5 @@
 - pkg:maven/it.cnr.iit.jscontact/jscontact-tools@0.8.0?classifier=sources
 - pkg:maven/it.cnr.iit.jscontact/jscontact-tools@0.8.1
 - pkg:maven/it.cnr.iit.jscontact/jscontact-tools@0.8.1?classifier=sources
+- pkg:maven/it.cnr.iit.jscontact/jscontact-tools@0.9.0
+- pkg:maven/it.cnr.iit.jscontact/jscontact-tools@0.9.0?classifier=sources

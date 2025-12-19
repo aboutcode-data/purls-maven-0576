@@ -52,6 +52,10 @@
 - pkg:maven/com.palantir.conjure/conjure-api-objects@4.22.0?classifier=sources
 - pkg:maven/com.palantir.conjure/conjure-api-objects@4.23.0?classifier=sources
 - pkg:maven/com.palantir.conjure/conjure-api-objects@4.24.0?classifier=sources
+- pkg:maven/com.palantir.conjure/conjure-api-objects@4.25.0?classifier=sources
+- pkg:maven/com.palantir.conjure/conjure-api-objects@4.26.0?classifier=sources
+- pkg:maven/com.palantir.conjure/conjure-api-objects@4.27.0?classifier=sources
+- pkg:maven/com.palantir.conjure/conjure-api-objects@4.28.0?classifier=sources
 - pkg:maven/com.palantir.conjure/conjure-api-objects@4.3.0
 - pkg:maven/com.palantir.conjure/conjure-api-objects@4.3.0?classifier=sources
 - pkg:maven/com.palantir.conjure/conjure-api-objects@4.4.0

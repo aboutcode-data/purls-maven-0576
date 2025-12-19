@@ -1,0 +1,1 @@
+- pkg:maven/com.dropbox.dependency-guard/dependency-guard@0.1.0?classifier=sources

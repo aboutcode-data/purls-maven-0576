@@ -3,3 +3,4 @@
 - pkg:maven/io.fabric8/istio-tests@5.11.2
 - pkg:maven/io.fabric8/istio-tests@5.12.0
 - pkg:maven/io.fabric8/istio-tests@5.12.1
+- pkg:maven/io.fabric8/istio-tests@5.12.2

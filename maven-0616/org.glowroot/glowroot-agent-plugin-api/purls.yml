@@ -53,6 +53,8 @@
 - pkg:maven/org.glowroot/glowroot-agent-plugin-api@0.14.0-beta
 - pkg:maven/org.glowroot/glowroot-agent-plugin-api@0.14.0-beta.2
 - pkg:maven/org.glowroot/glowroot-agent-plugin-api@0.14.0-beta.2?classifier=sources
+- pkg:maven/org.glowroot/glowroot-agent-plugin-api@0.14.0-beta.3
+- pkg:maven/org.glowroot/glowroot-agent-plugin-api@0.14.0-beta.3?classifier=sources
 - pkg:maven/org.glowroot/glowroot-agent-plugin-api@0.14.0-beta?classifier=sources
 - pkg:maven/org.glowroot/glowroot-agent-plugin-api@0.8.5
 - pkg:maven/org.glowroot/glowroot-agent-plugin-api@0.8.5?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/cz.o2.proxima/proxima-direct-io-elasticsearch@0.9.0
+- pkg:maven/cz.o2.proxima/proxima-direct-io-elasticsearch@0.9.0-jdk11
+- pkg:maven/cz.o2.proxima/proxima-direct-io-elasticsearch@0.9.0-jdk11?classifier=sources
+- pkg:maven/cz.o2.proxima/proxima-direct-io-elasticsearch@0.9.0?classifier=sources

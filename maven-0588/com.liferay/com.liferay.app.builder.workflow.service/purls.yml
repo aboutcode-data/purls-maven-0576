@@ -28,6 +28,12 @@
 - pkg:maven/com.liferay/com.liferay.app.builder.workflow.service@1.0.19
 - pkg:maven/com.liferay/com.liferay.app.builder.workflow.service@1.0.19?classifier=sources
 - pkg:maven/com.liferay/com.liferay.app.builder.workflow.service@1.0.19?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.app.builder.workflow.service@1.0.20
+- pkg:maven/com.liferay/com.liferay.app.builder.workflow.service@1.0.20?classifier=sources
+- pkg:maven/com.liferay/com.liferay.app.builder.workflow.service@1.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.app.builder.workflow.service@1.0.21
+- pkg:maven/com.liferay/com.liferay.app.builder.workflow.service@1.0.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.app.builder.workflow.service@1.0.21?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.app.builder.workflow.service@2.0.0
 - pkg:maven/com.liferay/com.liferay.app.builder.workflow.service@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.app.builder.workflow.service@2.0.0?classifier=sources-commercial

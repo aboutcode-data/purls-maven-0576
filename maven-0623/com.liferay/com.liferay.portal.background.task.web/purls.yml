@@ -96,6 +96,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.background.task.web@5.0.8
 - pkg:maven/com.liferay/com.liferay.portal.background.task.web@5.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.background.task.web@5.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.background.task.web@5.0.9
+- pkg:maven/com.liferay/com.liferay.portal.background.task.web@5.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.background.task.web@5.0.9?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.background.task.web@6.0.0
 - pkg:maven/com.liferay/com.liferay.portal.background.task.web@6.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.background.task.web@6.0.0?classifier=sources-commercial

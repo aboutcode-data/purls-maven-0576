@@ -34,6 +34,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.mobile.device.detection.fiftyonedegrees.enterprise@1.0.59
 - pkg:maven/com.liferay/com.liferay.portal.mobile.device.detection.fiftyonedegrees.enterprise@1.0.59?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.mobile.device.detection.fiftyonedegrees.enterprise@1.0.59?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.mobile.device.detection.fiftyonedegrees.enterprise@1.0.60
+- pkg:maven/com.liferay/com.liferay.portal.mobile.device.detection.fiftyonedegrees.enterprise@1.0.60?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.mobile.device.detection.fiftyonedegrees.enterprise@1.0.60?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.mobile.device.detection.fiftyonedegrees.enterprise@2.0.32
 - pkg:maven/com.liferay/com.liferay.portal.mobile.device.detection.fiftyonedegrees.enterprise@2.0.32?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.mobile.device.detection.fiftyonedegrees.enterprise@2.0.32?classifier=sources-commercial
@@ -70,6 +73,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.mobile.device.detection.fiftyonedegrees.enterprise@2.0.43
 - pkg:maven/com.liferay/com.liferay.portal.mobile.device.detection.fiftyonedegrees.enterprise@2.0.43?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.mobile.device.detection.fiftyonedegrees.enterprise@2.0.43?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.mobile.device.detection.fiftyonedegrees.enterprise@2.0.44
+- pkg:maven/com.liferay/com.liferay.portal.mobile.device.detection.fiftyonedegrees.enterprise@2.0.44?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.mobile.device.detection.fiftyonedegrees.enterprise@2.0.44?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.mobile.device.detection.fiftyonedegrees.enterprise@3.0.19
 - pkg:maven/com.liferay/com.liferay.portal.mobile.device.detection.fiftyonedegrees.enterprise@3.0.19?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.mobile.device.detection.fiftyonedegrees.enterprise@3.0.19?classifier=sources-commercial

@@ -1,0 +1,4 @@
+- pkg:maven/com.amido.stacks.modules/stacks-core-messaging@1.0.0
+- pkg:maven/com.amido.stacks.modules/stacks-core-messaging@1.0.0?classifier=sources
+- pkg:maven/com.amido.stacks.modules/stacks-core-messaging@1.0.2
+- pkg:maven/com.amido.stacks.modules/stacks-core-messaging@1.0.2?classifier=sources

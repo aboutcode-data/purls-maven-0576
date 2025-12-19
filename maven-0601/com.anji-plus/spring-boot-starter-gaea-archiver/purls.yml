@@ -4,3 +4,5 @@
 - pkg:maven/com.anji-plus/spring-boot-starter-gaea-archiver@2.0.0.RELEASE?classifier=sources
 - pkg:maven/com.anji-plus/spring-boot-starter-gaea-archiver@2.1.0.RELEASE
 - pkg:maven/com.anji-plus/spring-boot-starter-gaea-archiver@2.1.0.RELEASE?classifier=sources
+- pkg:maven/com.anji-plus/spring-boot-starter-gaea-archiver@2.1.1.RELEASE
+- pkg:maven/com.anji-plus/spring-boot-starter-gaea-archiver@2.1.1.RELEASE?classifier=sources

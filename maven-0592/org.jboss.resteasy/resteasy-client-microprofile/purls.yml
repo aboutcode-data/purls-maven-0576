@@ -190,3 +190,5 @@
 - pkg:maven/org.jboss.resteasy/resteasy-client-microprofile@4.7.4.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-client-microprofile@4.7.5.Final
 - pkg:maven/org.jboss.resteasy/resteasy-client-microprofile@4.7.5.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-client-microprofile@4.7.6.Final
+- pkg:maven/org.jboss.resteasy/resteasy-client-microprofile@4.7.6.Final?classifier=sources

@@ -88,6 +88,10 @@
 - pkg:maven/com.fnproject.fn/fn-spring-cloud-function@1.0.145?classifier=sources
 - pkg:maven/com.fnproject.fn/fn-spring-cloud-function@1.0.146
 - pkg:maven/com.fnproject.fn/fn-spring-cloud-function@1.0.146?classifier=sources
+- pkg:maven/com.fnproject.fn/fn-spring-cloud-function@1.0.147
+- pkg:maven/com.fnproject.fn/fn-spring-cloud-function@1.0.147?classifier=sources
+- pkg:maven/com.fnproject.fn/fn-spring-cloud-function@1.0.148
+- pkg:maven/com.fnproject.fn/fn-spring-cloud-function@1.0.148?classifier=sources
 - pkg:maven/com.fnproject.fn/fn-spring-cloud-function@1.0.52
 - pkg:maven/com.fnproject.fn/fn-spring-cloud-function@1.0.52?classifier=sources
 - pkg:maven/com.fnproject.fn/fn-spring-cloud-function@1.0.53

@@ -24,3 +24,5 @@
 - pkg:maven/io.h8.borscht/borscht-template-apache-commons-text_3@1.2.7?classifier=sources
 - pkg:maven/io.h8.borscht/borscht-template-apache-commons-text_3@1.2.8
 - pkg:maven/io.h8.borscht/borscht-template-apache-commons-text_3@1.2.8?classifier=sources
+- pkg:maven/io.h8.borscht/borscht-template-apache-commons-text_3@1.2.9
+- pkg:maven/io.h8.borscht/borscht-template-apache-commons-text_3@1.2.9?classifier=sources

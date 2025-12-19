@@ -220,5 +220,7 @@
 - pkg:maven/org.scala-sbt/compiler-interface@1.6.0?classifier=sources
 - pkg:maven/org.scala-sbt/compiler-interface@1.6.1
 - pkg:maven/org.scala-sbt/compiler-interface@1.6.1?classifier=sources
+- pkg:maven/org.scala-sbt/compiler-interface@1.7.0-M2
+- pkg:maven/org.scala-sbt/compiler-interface@1.7.0-M2?classifier=sources
 - pkg:maven/org.scala-sbt/compiler-interface@2.0.0-alpha1
 - pkg:maven/org.scala-sbt/compiler-interface@2.0.0-alpha1?classifier=sources

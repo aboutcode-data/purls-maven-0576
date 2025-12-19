@@ -1,0 +1,1 @@
+- pkg:maven/org.fisco-bcos/evm-static-analysis@1.0.0-rc1?classifier=sources

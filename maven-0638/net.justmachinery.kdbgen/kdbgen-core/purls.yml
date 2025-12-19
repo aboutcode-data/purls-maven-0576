@@ -1,3 +1,5 @@
+- pkg:maven/net.justmachinery.kdbgen/kdbgen-core@0.9.11?classifier=sources
+- pkg:maven/net.justmachinery.kdbgen/kdbgen-core@0.9.12?classifier=sources
 - pkg:maven/net.justmachinery.kdbgen/kdbgen-core@0.9.7?classifier=sources
 - pkg:maven/net.justmachinery.kdbgen/kdbgen-core@0.9.8?classifier=sources
 - pkg:maven/net.justmachinery.kdbgen/kdbgen-core@0.9.9?classifier=sources

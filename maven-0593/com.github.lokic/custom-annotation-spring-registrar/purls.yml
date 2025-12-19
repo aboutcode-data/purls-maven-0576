@@ -1,0 +1,2 @@
+- pkg:maven/com.github.lokic/custom-annotation-spring-registrar@0.0.1
+- pkg:maven/com.github.lokic/custom-annotation-spring-registrar@0.0.1?classifier=sources

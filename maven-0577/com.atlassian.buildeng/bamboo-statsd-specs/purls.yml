@@ -3,3 +3,4 @@
 - pkg:maven/com.atlassian.buildeng/bamboo-statsd-specs@1.4.6?classifier=sources
 - pkg:maven/com.atlassian.buildeng/bamboo-statsd-specs@1.4.7?classifier=sources
 - pkg:maven/com.atlassian.buildeng/bamboo-statsd-specs@2.0.0?classifier=sources
+- pkg:maven/com.atlassian.buildeng/bamboo-statsd-specs@2.0.1?classifier=sources

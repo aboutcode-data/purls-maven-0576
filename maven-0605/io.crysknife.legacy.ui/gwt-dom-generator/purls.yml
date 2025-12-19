@@ -1,0 +1,2 @@
+- pkg:maven/io.crysknife.legacy.ui/gwt-dom-generator@0.3
+- pkg:maven/io.crysknife.legacy.ui/gwt-dom-generator@0.3?classifier=sources

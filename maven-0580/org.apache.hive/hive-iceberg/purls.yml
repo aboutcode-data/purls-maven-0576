@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.hive/hive-iceberg@4.0.0-alpha-1?classifier=source-release&type=zip

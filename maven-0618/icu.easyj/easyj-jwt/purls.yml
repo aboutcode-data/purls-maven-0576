@@ -1,0 +1,2 @@
+- pkg:maven/icu.easyj/easyj-jwt@0.3.8
+- pkg:maven/icu.easyj/easyj-jwt@0.3.8?classifier=sources

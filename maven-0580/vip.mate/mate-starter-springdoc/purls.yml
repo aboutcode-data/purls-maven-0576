@@ -1,0 +1,2 @@
+- pkg:maven/vip.mate/mate-starter-springdoc@4.4.8
+- pkg:maven/vip.mate/mate-starter-springdoc@4.4.8?classifier=sources

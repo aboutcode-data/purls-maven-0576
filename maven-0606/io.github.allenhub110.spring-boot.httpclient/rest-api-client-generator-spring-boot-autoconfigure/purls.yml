@@ -1,0 +1,2 @@
+- pkg:maven/io.github.allenhub110.spring-boot.httpclient/rest-api-client-generator-spring-boot-autoconfigure@4.0.3
+- pkg:maven/io.github.allenhub110.spring-boot.httpclient/rest-api-client-generator-spring-boot-autoconfigure@4.0.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-protocolTests_2.13@0.12.16
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-protocolTests_2.13@0.12.16?classifier=sources

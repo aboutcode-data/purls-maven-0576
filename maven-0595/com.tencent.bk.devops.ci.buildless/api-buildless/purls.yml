@@ -1,1 +1,4 @@
+- pkg:maven/com.tencent.bk.devops.ci.buildless/api-buildless@1.8.0-RC.2-RELEASE?classifier=sources
+- pkg:maven/com.tencent.bk.devops.ci.buildless/api-buildless@1.8.0-RC.3-RELEASE?classifier=sources
+- pkg:maven/com.tencent.bk.devops.ci.buildless/api-buildless@1.8.0-RELEASE?classifier=sources
 - pkg:maven/com.tencent.bk.devops.ci.buildless/api-buildless@1.8.0-alpha.26-RELEASE?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.treblereel.gwt.gwtbootstrap3/gwtbootstrap3@1.2
+- pkg:maven/org.treblereel.gwt.gwtbootstrap3/gwtbootstrap3@1.2?classifier=sources

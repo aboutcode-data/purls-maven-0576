@@ -1,1 +1,2 @@
 - pkg:maven/de.stuermer-benjamin/cameraremote-free@1.1.2?classifier=sources
+- pkg:maven/de.stuermer-benjamin/cameraremote-free@1.1.3?classifier=sources

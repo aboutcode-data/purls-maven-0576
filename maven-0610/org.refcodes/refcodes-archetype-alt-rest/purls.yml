@@ -7,3 +7,4 @@
 - pkg:maven/org.refcodes/refcodes-archetype-alt-rest@2.2.0?classifier=sources
 - pkg:maven/org.refcodes/refcodes-archetype-alt-rest@2.2.1?classifier=sources
 - pkg:maven/org.refcodes/refcodes-archetype-alt-rest@2.2.2?classifier=sources
+- pkg:maven/org.refcodes/refcodes-archetype-alt-rest@3.0.0?classifier=sources

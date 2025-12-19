@@ -5,3 +5,6 @@
 - pkg:maven/dev.felnull/felnull-java-library-natives@1.43?classifier=sources
 - pkg:maven/dev.felnull/felnull-java-library-natives@1.44?classifier=sources
 - pkg:maven/dev.felnull/felnull-java-library-natives@1.45?classifier=sources
+- pkg:maven/dev.felnull/felnull-java-library-natives@1.46?classifier=sources
+- pkg:maven/dev.felnull/felnull-java-library-natives@1.47?classifier=sources
+- pkg:maven/dev.felnull/felnull-java-library-natives@1.48?classifier=sources

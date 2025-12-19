@@ -10,3 +10,7 @@
 - pkg:maven/com.github.loren-wang/KotlinCustomToolsFromLorenWang@2.0.0-alpha01?classifier=sources
 - pkg:maven/com.github.loren-wang/KotlinCustomToolsFromLorenWang@2.0.0-alpha02
 - pkg:maven/com.github.loren-wang/KotlinCustomToolsFromLorenWang@2.0.0-alpha02?classifier=sources
+- pkg:maven/com.github.loren-wang/KotlinCustomToolsFromLorenWang@2.0.0-alpha03
+- pkg:maven/com.github.loren-wang/KotlinCustomToolsFromLorenWang@2.0.0-alpha03?classifier=sources
+- pkg:maven/com.github.loren-wang/KotlinCustomToolsFromLorenWang@2.0.0-alpha04
+- pkg:maven/com.github.loren-wang/KotlinCustomToolsFromLorenWang@2.0.0-alpha04?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.yandex.ydb/url-shortener-demo@1.10.8
+- pkg:maven/com.yandex.ydb/url-shortener-demo@1.10.8?classifier=sources

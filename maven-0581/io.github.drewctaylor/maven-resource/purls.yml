@@ -1,0 +1,2 @@
+- pkg:maven/io.github.drewctaylor/maven-resource@0.0.2
+- pkg:maven/io.github.drewctaylor/maven-resource@0.0.2?classifier=sources

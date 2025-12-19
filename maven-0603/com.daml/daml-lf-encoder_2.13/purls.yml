@@ -1,0 +1,4 @@
+- pkg:maven/com.daml/daml-lf-encoder_2.13@2.2.0-snapshot.20220429.9826.0.2e6dbefa
+- pkg:maven/com.daml/daml-lf-encoder_2.13@2.2.0-snapshot.20220429.9826.0.2e6dbefa?classifier=sources
+- pkg:maven/com.daml/daml-lf-encoder_2.13@2.2.0-snapshot.20220501.9828.0.7297fe9d
+- pkg:maven/com.daml/daml-lf-encoder_2.13@2.2.0-snapshot.20220501.9828.0.7297fe9d?classifier=sources

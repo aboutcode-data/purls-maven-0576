@@ -16,3 +16,4 @@
 - pkg:maven/com.charleskorn.kaml/kaml-jvm@0.40.0?classifier=sources
 - pkg:maven/com.charleskorn.kaml/kaml-jvm@0.41.0?classifier=sources
 - pkg:maven/com.charleskorn.kaml/kaml-jvm@0.42.0?classifier=sources
+- pkg:maven/com.charleskorn.kaml/kaml-jvm@0.43.0?classifier=sources

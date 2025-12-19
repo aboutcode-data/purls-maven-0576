@@ -6,3 +6,5 @@
 - pkg:maven/io.github.javiercanillas/jackson-masker@0.9.6?classifier=sources
 - pkg:maven/io.github.javiercanillas/jackson-masker@0.9.8
 - pkg:maven/io.github.javiercanillas/jackson-masker@0.9.8?classifier=sources
+- pkg:maven/io.github.javiercanillas/jackson-masker@0.9.9
+- pkg:maven/io.github.javiercanillas/jackson-masker@0.9.9?classifier=sources

@@ -30,6 +30,8 @@
 - pkg:maven/com.powsybl/powsybl-single-line-diagram-iidm-extensions@2.0.0?classifier=sources
 - pkg:maven/com.powsybl/powsybl-single-line-diagram-iidm-extensions@2.1.0
 - pkg:maven/com.powsybl/powsybl-single-line-diagram-iidm-extensions@2.1.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-single-line-diagram-iidm-extensions@2.10.0
+- pkg:maven/com.powsybl/powsybl-single-line-diagram-iidm-extensions@2.10.0?classifier=sources
 - pkg:maven/com.powsybl/powsybl-single-line-diagram-iidm-extensions@2.2.0
 - pkg:maven/com.powsybl/powsybl-single-line-diagram-iidm-extensions@2.2.0?classifier=sources
 - pkg:maven/com.powsybl/powsybl-single-line-diagram-iidm-extensions@2.3.0
@@ -48,3 +50,7 @@
 - pkg:maven/com.powsybl/powsybl-single-line-diagram-iidm-extensions@2.7.0?classifier=sources
 - pkg:maven/com.powsybl/powsybl-single-line-diagram-iidm-extensions@2.8.0
 - pkg:maven/com.powsybl/powsybl-single-line-diagram-iidm-extensions@2.8.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-single-line-diagram-iidm-extensions@2.9.0
+- pkg:maven/com.powsybl/powsybl-single-line-diagram-iidm-extensions@2.9.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-single-line-diagram-iidm-extensions@2.9.1
+- pkg:maven/com.powsybl/powsybl-single-line-diagram-iidm-extensions@2.9.1?classifier=sources

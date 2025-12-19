@@ -4,3 +4,9 @@
 - pkg:maven/dk.cloudcreate.essentials/types-springdata-jpa@0.5.1?classifier=sources
 - pkg:maven/dk.cloudcreate.essentials/types-springdata-jpa@0.6.0
 - pkg:maven/dk.cloudcreate.essentials/types-springdata-jpa@0.6.0?classifier=sources
+- pkg:maven/dk.cloudcreate.essentials/types-springdata-jpa@0.6.1
+- pkg:maven/dk.cloudcreate.essentials/types-springdata-jpa@0.6.1?classifier=sources
+- pkg:maven/dk.cloudcreate.essentials/types-springdata-jpa@0.6.2
+- pkg:maven/dk.cloudcreate.essentials/types-springdata-jpa@0.6.2?classifier=sources
+- pkg:maven/dk.cloudcreate.essentials/types-springdata-jpa@0.6.5
+- pkg:maven/dk.cloudcreate.essentials/types-springdata-jpa@0.6.5?classifier=sources

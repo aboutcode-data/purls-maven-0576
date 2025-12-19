@@ -13,3 +13,10 @@
 - pkg:maven/io.github.alexgladkov/odyssey-compose@0.4.1?classifier=sources
 - pkg:maven/io.github.alexgladkov/odyssey-compose@0.4.2?classifier=sources
 - pkg:maven/io.github.alexgladkov/odyssey-compose@0.5.0?classifier=sources
+- pkg:maven/io.github.alexgladkov/odyssey-compose@1.0.0-beta02?classifier=sources
+- pkg:maven/io.github.alexgladkov/odyssey-compose@1.0.0-beta03?classifier=sources
+- pkg:maven/io.github.alexgladkov/odyssey-compose@1.0.0-beta04?classifier=sources
+- pkg:maven/io.github.alexgladkov/odyssey-compose@1.0.0-beta05?classifier=sources
+- pkg:maven/io.github.alexgladkov/odyssey-compose@1.0.0-beta06?classifier=sources
+- pkg:maven/io.github.alexgladkov/odyssey-compose@1.0.0-beta07?classifier=sources
+- pkg:maven/io.github.alexgladkov/odyssey-compose@1.0.0-beta?classifier=sources

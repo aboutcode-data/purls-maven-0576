@@ -1,2 +1,4 @@
 - pkg:maven/com.alibaba.alink/shaded_flink_ai_extended_tf2@0.3.0-SNAPSHOT-0.3
 - pkg:maven/com.alibaba.alink/shaded_flink_ai_extended_tf2@0.3.0-SNAPSHOT-0.3?classifier=sources
+- pkg:maven/com.alibaba.alink/shaded_flink_ai_extended_tf2@0.3.0-SNAPSHOT-0.4
+- pkg:maven/com.alibaba.alink/shaded_flink_ai_extended_tf2@0.3.0-SNAPSHOT-0.4?classifier=sources

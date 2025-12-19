@@ -2,3 +2,4 @@
 - pkg:maven/io.americanexpress.synapse/synapse-data-postgres@0.2.0
 - pkg:maven/io.americanexpress.synapse/synapse-data-postgres@0.2.1
 - pkg:maven/io.americanexpress.synapse/synapse-data-postgres@0.2.2
+- pkg:maven/io.americanexpress.synapse/synapse-data-postgres@0.2.3

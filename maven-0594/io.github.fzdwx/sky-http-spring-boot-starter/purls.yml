@@ -1,0 +1,4 @@
+- pkg:maven/io.github.fzdwx/sky-http-spring-boot-starter@0.09
+- pkg:maven/io.github.fzdwx/sky-http-spring-boot-starter@0.091
+- pkg:maven/io.github.fzdwx/sky-http-spring-boot-starter@0.091?classifier=sources
+- pkg:maven/io.github.fzdwx/sky-http-spring-boot-starter@0.09?classifier=sources

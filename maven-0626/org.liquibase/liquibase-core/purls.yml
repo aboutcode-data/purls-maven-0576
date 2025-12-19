@@ -156,3 +156,5 @@
 - pkg:maven/org.liquibase/liquibase-core@4.8.0?classifier=sources
 - pkg:maven/org.liquibase/liquibase-core@4.9.0
 - pkg:maven/org.liquibase/liquibase-core@4.9.0?classifier=sources
+- pkg:maven/org.liquibase/liquibase-core@4.9.1
+- pkg:maven/org.liquibase/liquibase-core@4.9.1?classifier=sources

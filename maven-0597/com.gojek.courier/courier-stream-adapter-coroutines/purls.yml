@@ -1,0 +1,1 @@
+- pkg:maven/com.gojek.courier/courier-stream-adapter-coroutines@0.0.1?classifier=sources

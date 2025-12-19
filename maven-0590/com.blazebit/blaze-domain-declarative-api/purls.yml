@@ -58,3 +58,5 @@
 - pkg:maven/com.blazebit/blaze-domain-declarative-api@3.0.0-Alpha3?classifier=sources
 - pkg:maven/com.blazebit/blaze-domain-declarative-api@3.0.0-Alpha4
 - pkg:maven/com.blazebit/blaze-domain-declarative-api@3.0.0-Alpha4?classifier=sources
+- pkg:maven/com.blazebit/blaze-domain-declarative-api@3.0.0-Alpha5
+- pkg:maven/com.blazebit/blaze-domain-declarative-api@3.0.0-Alpha5?classifier=sources

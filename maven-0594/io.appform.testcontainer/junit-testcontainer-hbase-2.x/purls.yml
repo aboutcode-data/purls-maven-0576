@@ -1,0 +1,2 @@
+- pkg:maven/io.appform.testcontainer/junit-testcontainer-hbase-2.x@1.0.8
+- pkg:maven/io.appform.testcontainer/junit-testcontainer-hbase-2.x@1.0.8?classifier=sources
