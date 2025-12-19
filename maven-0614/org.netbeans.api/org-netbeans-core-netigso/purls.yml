@@ -17,4 +17,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-core-netigso@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-core-netigso@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-core-netigso@RELEASE170?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-core-netigso@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-core-netigso@RELEASE90?classifier=sources

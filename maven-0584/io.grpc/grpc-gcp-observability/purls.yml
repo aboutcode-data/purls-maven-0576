@@ -20,3 +20,4 @@
 - pkg:maven/io.grpc/grpc-gcp-observability@1.53.0?classifier=sources
 - pkg:maven/io.grpc/grpc-gcp-observability@1.54.0?classifier=sources
 - pkg:maven/io.grpc/grpc-gcp-observability@1.54.1?classifier=sources
+- pkg:maven/io.grpc/grpc-gcp-observability@1.55.1?classifier=sources

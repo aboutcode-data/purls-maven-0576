@@ -38,3 +38,5 @@
 - pkg:maven/io.lighty.applications.rcgnmi/lighty-rcgnmi-app-module@17.2.0?classifier=sources
 - pkg:maven/io.lighty.applications.rcgnmi/lighty-rcgnmi-app-module@18.0.0
 - pkg:maven/io.lighty.applications.rcgnmi/lighty-rcgnmi-app-module@18.0.0?classifier=sources
+- pkg:maven/io.lighty.applications.rcgnmi/lighty-rcgnmi-app-module@18.1.0
+- pkg:maven/io.lighty.applications.rcgnmi/lighty-rcgnmi-app-module@18.1.0?classifier=sources

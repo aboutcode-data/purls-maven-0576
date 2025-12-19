@@ -1,0 +1,4 @@
+- pkg:maven/pt.tecnico.dsi/scala-cinder-client_3@0.8.0
+- pkg:maven/pt.tecnico.dsi/scala-cinder-client_3@0.8.0?classifier=sources
+- pkg:maven/pt.tecnico.dsi/scala-cinder-client_3@0.8.1
+- pkg:maven/pt.tecnico.dsi/scala-cinder-client_3@0.8.1?classifier=sources

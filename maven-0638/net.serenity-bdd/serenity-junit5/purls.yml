@@ -118,3 +118,5 @@
 - pkg:maven/net.serenity-bdd/serenity-junit5@3.6.9?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-junit5@3.7.0
 - pkg:maven/net.serenity-bdd/serenity-junit5@3.7.0?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-junit5@3.7.1
+- pkg:maven/net.serenity-bdd/serenity-junit5@3.7.1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/dk.dma.ais.lib/ais-lib-communication@2.4
 - pkg:maven/dk.dma.ais.lib/ais-lib-communication@2.4?classifier=sources
+- pkg:maven/dk.dma.ais.lib/ais-lib-communication@2.8
+- pkg:maven/dk.dma.ais.lib/ais-lib-communication@2.8?classifier=sources

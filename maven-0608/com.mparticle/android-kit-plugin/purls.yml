@@ -402,6 +402,7 @@
 - pkg:maven/com.mparticle/android-kit-plugin@5.50.1?classifier=sources
 - pkg:maven/com.mparticle/android-kit-plugin@5.50.2?classifier=sources
 - pkg:maven/com.mparticle/android-kit-plugin@5.50.3?classifier=sources
+- pkg:maven/com.mparticle/android-kit-plugin@5.50.4?classifier=sources
 - pkg:maven/com.mparticle/android-kit-plugin@5.6.0
 - pkg:maven/com.mparticle/android-kit-plugin@5.6.0?classifier=sources
 - pkg:maven/com.mparticle/android-kit-plugin@5.6.1

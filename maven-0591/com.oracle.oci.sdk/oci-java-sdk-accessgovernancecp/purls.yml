@@ -1,0 +1,2 @@
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-accessgovernancecp@2.61.1
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-accessgovernancecp@2.61.1?classifier=sources

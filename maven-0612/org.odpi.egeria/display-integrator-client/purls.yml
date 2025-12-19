@@ -33,3 +33,4 @@
 - pkg:maven/org.odpi.egeria/display-integrator-client@3.9
 - pkg:maven/org.odpi.egeria/display-integrator-client@3.9?classifier=sources
 - pkg:maven/org.odpi.egeria/display-integrator-client@4.0?classifier=sources
+- pkg:maven/org.odpi.egeria/display-integrator-client@4.1?classifier=sources

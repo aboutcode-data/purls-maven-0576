@@ -4,6 +4,12 @@
 - pkg:maven/com.tectonica/jonix@2022-11?classifier=sources
 - pkg:maven/com.tectonica/jonix@2023-01
 - pkg:maven/com.tectonica/jonix@2023-01?classifier=sources
+- pkg:maven/com.tectonica/jonix@2023-04
+- pkg:maven/com.tectonica/jonix@2023-04?classifier=sources
+- pkg:maven/com.tectonica/jonix@2023-05
+- pkg:maven/com.tectonica/jonix@2023-05-onix308
+- pkg:maven/com.tectonica/jonix@2023-05-onix308?classifier=sources
+- pkg:maven/com.tectonica/jonix@2023-05?classifier=sources
 - pkg:maven/com.tectonica/jonix@3.0
 - pkg:maven/com.tectonica/jonix@3.0?classifier=sources
 - pkg:maven/com.tectonica/jonix@3.1-rc1

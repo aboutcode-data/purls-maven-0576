@@ -59,3 +59,4 @@
 - pkg:maven/org.odpi.egeria/asset-create-csv-sample@3.9
 - pkg:maven/org.odpi.egeria/asset-create-csv-sample@3.9?classifier=sources
 - pkg:maven/org.odpi.egeria/asset-create-csv-sample@4.0?classifier=sources
+- pkg:maven/org.odpi.egeria/asset-create-csv-sample@4.1?classifier=sources

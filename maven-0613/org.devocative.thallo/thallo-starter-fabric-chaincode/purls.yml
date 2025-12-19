@@ -1,0 +1,2 @@
+- pkg:maven/org.devocative.thallo/thallo-starter-fabric-chaincode@1.0
+- pkg:maven/org.devocative.thallo/thallo-starter-fabric-chaincode@1.0?classifier=sources

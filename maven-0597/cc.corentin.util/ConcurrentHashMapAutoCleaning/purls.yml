@@ -1,0 +1,2 @@
+- pkg:maven/cc.corentin.util/ConcurrentHashMapAutoCleaning@0.1
+- pkg:maven/cc.corentin.util/ConcurrentHashMapAutoCleaning@0.1?classifier=sources

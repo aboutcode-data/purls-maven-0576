@@ -680,6 +680,10 @@
 - pkg:maven/com.liferay/com.liferay.source.formatter@1.0.1305?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.source.formatter@1.0.1306?classifier=sources
 - pkg:maven/com.liferay/com.liferay.source.formatter@1.0.1306?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.source.formatter@1.0.1307?classifier=sources
+- pkg:maven/com.liferay/com.liferay.source.formatter@1.0.1307?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.source.formatter@1.0.1308?classifier=sources
+- pkg:maven/com.liferay/com.liferay.source.formatter@1.0.1308?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.source.formatter@1.0.130?classifier=sources
 - pkg:maven/com.liferay/com.liferay.source.formatter@1.0.131
 - pkg:maven/com.liferay/com.liferay.source.formatter@1.0.131?classifier=sources

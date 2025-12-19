@@ -1,0 +1,1 @@
+- pkg:maven/org.jetbrains.kotlinx/multik-core-wasm@0.2.2?classifier=sources

@@ -64,3 +64,5 @@
 - pkg:maven/wtf.metio.reguloj/reguloj@2023.3.9?classifier=sources
 - pkg:maven/wtf.metio.reguloj/reguloj@2023.4.13
 - pkg:maven/wtf.metio.reguloj/reguloj@2023.4.13?classifier=sources
+- pkg:maven/wtf.metio.reguloj/reguloj@2023.5.11
+- pkg:maven/wtf.metio.reguloj/reguloj@2023.5.11?classifier=sources

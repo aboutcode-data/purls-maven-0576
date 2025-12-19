@@ -134,3 +134,5 @@
 - pkg:maven/com.sap.cloud.security/java-security-test@2.9.0?classifier=sources
 - pkg:maven/com.sap.cloud.security/java-security-test@3.0.0
 - pkg:maven/com.sap.cloud.security/java-security-test@3.0.0?classifier=sources
+- pkg:maven/com.sap.cloud.security/java-security-test@3.0.1
+- pkg:maven/com.sap.cloud.security/java-security-test@3.0.1?classifier=sources

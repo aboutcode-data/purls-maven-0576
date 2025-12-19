@@ -113,8 +113,16 @@
 - pkg:maven/com.yahoo.athenz/athenz-msd-core@1.11.26?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-msd-core@1.11.27
 - pkg:maven/com.yahoo.athenz/athenz-msd-core@1.11.27?classifier=sources
+- pkg:maven/com.yahoo.athenz/athenz-msd-core@1.11.28
+- pkg:maven/com.yahoo.athenz/athenz-msd-core@1.11.28?classifier=sources
+- pkg:maven/com.yahoo.athenz/athenz-msd-core@1.11.29
+- pkg:maven/com.yahoo.athenz/athenz-msd-core@1.11.29?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-msd-core@1.11.2?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-msd-core@1.11.3
+- pkg:maven/com.yahoo.athenz/athenz-msd-core@1.11.30
+- pkg:maven/com.yahoo.athenz/athenz-msd-core@1.11.30?classifier=sources
+- pkg:maven/com.yahoo.athenz/athenz-msd-core@1.11.31
+- pkg:maven/com.yahoo.athenz/athenz-msd-core@1.11.31?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-msd-core@1.11.3?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-msd-core@1.11.4
 - pkg:maven/com.yahoo.athenz/athenz-msd-core@1.11.4?classifier=sources

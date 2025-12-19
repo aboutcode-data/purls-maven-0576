@@ -43,3 +43,4 @@
 - pkg:maven/com.google.devtools.ksp/symbol-processing-api@1.8.20-Beta-1.0.9?classifier=sources
 - pkg:maven/com.google.devtools.ksp/symbol-processing-api@1.8.20-RC-1.0.9?classifier=sources
 - pkg:maven/com.google.devtools.ksp/symbol-processing-api@1.8.20-RC2-1.0.9?classifier=sources
+- pkg:maven/com.google.devtools.ksp/symbol-processing-api@1.8.21-1.0.11?classifier=sources

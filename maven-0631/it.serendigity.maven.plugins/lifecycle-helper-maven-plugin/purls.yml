@@ -8,3 +8,5 @@
 - pkg:maven/it.serendigity.maven.plugins/lifecycle-helper-maven-plugin@0.4.0?classifier=sources
 - pkg:maven/it.serendigity.maven.plugins/lifecycle-helper-maven-plugin@1.0.1
 - pkg:maven/it.serendigity.maven.plugins/lifecycle-helper-maven-plugin@1.0.1?classifier=sources
+- pkg:maven/it.serendigity.maven.plugins/lifecycle-helper-maven-plugin@1.1.1
+- pkg:maven/it.serendigity.maven.plugins/lifecycle-helper-maven-plugin@1.1.1?classifier=sources

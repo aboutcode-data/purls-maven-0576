@@ -1,0 +1,2 @@
+- pkg:maven/io.holunda.connector/camunda-8-connector-gpt@0.1.0
+- pkg:maven/io.holunda.connector/camunda-8-connector-gpt@0.1.0?classifier=sources

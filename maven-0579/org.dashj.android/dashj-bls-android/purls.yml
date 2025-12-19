@@ -6,3 +6,4 @@
 - pkg:maven/org.dashj.android/dashj-bls-android@0.18.1?type=aar
 - pkg:maven/org.dashj.android/dashj-bls-android@0.18?classifier=sources
 - pkg:maven/org.dashj.android/dashj-bls-android@0.18?type=aar
+- pkg:maven/org.dashj.android/dashj-bls-android@1.0.0?classifier=sources

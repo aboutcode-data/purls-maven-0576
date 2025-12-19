@@ -84,6 +84,10 @@
 - pkg:maven/co.macrometa/c84j@1.1.25.12?classifier=sources
 - pkg:maven/co.macrometa/c84j@1.1.25.13
 - pkg:maven/co.macrometa/c84j@1.1.25.13?classifier=sources
+- pkg:maven/co.macrometa/c84j@1.1.25.14
+- pkg:maven/co.macrometa/c84j@1.1.25.14?classifier=sources
+- pkg:maven/co.macrometa/c84j@1.1.25.15
+- pkg:maven/co.macrometa/c84j@1.1.25.15?classifier=sources
 - pkg:maven/co.macrometa/c84j@1.1.25.1?classifier=sources
 - pkg:maven/co.macrometa/c84j@1.1.25.2
 - pkg:maven/co.macrometa/c84j@1.1.25.2?classifier=sources
@@ -98,6 +102,8 @@
 - pkg:maven/co.macrometa/c84j@1.1.25.7
 - pkg:maven/co.macrometa/c84j@1.1.25.7?classifier=sources
 - pkg:maven/co.macrometa/c84j@1.1.25.8
+- pkg:maven/co.macrometa/c84j@1.1.25.8.1
+- pkg:maven/co.macrometa/c84j@1.1.25.8.1?classifier=sources
 - pkg:maven/co.macrometa/c84j@1.1.25.8?classifier=sources
 - pkg:maven/co.macrometa/c84j@1.1.25.9
 - pkg:maven/co.macrometa/c84j@1.1.25.9?classifier=sources

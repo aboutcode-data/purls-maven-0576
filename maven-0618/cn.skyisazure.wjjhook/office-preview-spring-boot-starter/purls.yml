@@ -1,0 +1,2 @@
+- pkg:maven/cn.skyisazure.wjjhook/office-preview-spring-boot-starter@0.0.1
+- pkg:maven/cn.skyisazure.wjjhook/office-preview-spring-boot-starter@0.0.1?classifier=sources

@@ -6,6 +6,10 @@
 - pkg:maven/com.vaadin/vaadin-accordion-testbench@1.0.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-accordion-testbench@1.0.3
 - pkg:maven/com.vaadin/vaadin-accordion-testbench@1.0.3?classifier=sources
+- pkg:maven/com.vaadin/vaadin-accordion-testbench@14.10.0
+- pkg:maven/com.vaadin/vaadin-accordion-testbench@14.10.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-accordion-testbench@14.10.1
+- pkg:maven/com.vaadin/vaadin-accordion-testbench@14.10.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-accordion-testbench@14.5.0
 - pkg:maven/com.vaadin/vaadin-accordion-testbench@14.5.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-accordion-testbench@14.5.1
@@ -371,6 +375,8 @@
 - pkg:maven/com.vaadin/vaadin-accordion-testbench@23.3.10?classifier=sources
 - pkg:maven/com.vaadin/vaadin-accordion-testbench@23.3.11
 - pkg:maven/com.vaadin/vaadin-accordion-testbench@23.3.11?classifier=sources
+- pkg:maven/com.vaadin/vaadin-accordion-testbench@23.3.12
+- pkg:maven/com.vaadin/vaadin-accordion-testbench@23.3.12?classifier=sources
 - pkg:maven/com.vaadin/vaadin-accordion-testbench@23.3.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-accordion-testbench@23.3.2
 - pkg:maven/com.vaadin/vaadin-accordion-testbench@23.3.2?classifier=sources

@@ -8,3 +8,4 @@
 - pkg:maven/me.paulschwarz/spring-dotenv@2.5.3?classifier=sources
 - pkg:maven/me.paulschwarz/spring-dotenv@2.5.4?classifier=sources
 - pkg:maven/me.paulschwarz/spring-dotenv@3.0.0?classifier=sources
+- pkg:maven/me.paulschwarz/spring-dotenv@4.0.0?classifier=sources

@@ -226,6 +226,14 @@
 - pkg:maven/software.amazon.awscdk/monocdk@1.198.1.DEVPREVIEW?classifier=sources
 - pkg:maven/software.amazon.awscdk/monocdk@1.199.0.DEVPREVIEW
 - pkg:maven/software.amazon.awscdk/monocdk@1.199.0.DEVPREVIEW?classifier=sources
+- pkg:maven/software.amazon.awscdk/monocdk@1.200.0.DEVPREVIEW
+- pkg:maven/software.amazon.awscdk/monocdk@1.200.0.DEVPREVIEW?classifier=sources
+- pkg:maven/software.amazon.awscdk/monocdk@1.201.0.DEVPREVIEW
+- pkg:maven/software.amazon.awscdk/monocdk@1.201.0.DEVPREVIEW?classifier=sources
+- pkg:maven/software.amazon.awscdk/monocdk@1.202.0.DEVPREVIEW
+- pkg:maven/software.amazon.awscdk/monocdk@1.202.0.DEVPREVIEW?classifier=sources
+- pkg:maven/software.amazon.awscdk/monocdk@1.203.0.DEVPREVIEW
+- pkg:maven/software.amazon.awscdk/monocdk@1.203.0.DEVPREVIEW?classifier=sources
 - pkg:maven/software.amazon.awscdk/monocdk@1.67.0.DEVPREVIEW
 - pkg:maven/software.amazon.awscdk/monocdk@1.67.0.DEVPREVIEW?classifier=sources
 - pkg:maven/software.amazon.awscdk/monocdk@1.68.0.DEVPREVIEW

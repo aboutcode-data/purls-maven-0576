@@ -4,3 +4,4 @@
 - pkg:maven/io.github.greycode/shardingsphere-src-distribution@5.3.2.1?classifier=src&type=zip
 - pkg:maven/io.github.greycode/shardingsphere-src-distribution@5.3.2.2?classifier=src&type=zip
 - pkg:maven/io.github.greycode/shardingsphere-src-distribution@5.3.2.4?classifier=src&type=zip
+- pkg:maven/io.github.greycode/shardingsphere-src-distribution@5.3.3.1?classifier=src&type=zip

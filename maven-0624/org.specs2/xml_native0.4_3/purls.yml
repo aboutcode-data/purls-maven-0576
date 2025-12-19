@@ -4,3 +4,5 @@
 - pkg:maven/org.specs2/xml_native0.4_3@4.19.0?classifier=sources
 - pkg:maven/org.specs2/xml_native0.4_3@4.19.2
 - pkg:maven/org.specs2/xml_native0.4_3@4.19.2?classifier=sources
+- pkg:maven/org.specs2/xml_native0.4_3@4.20.0
+- pkg:maven/org.specs2/xml_native0.4_3@4.20.0?classifier=sources

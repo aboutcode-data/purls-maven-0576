@@ -39,4 +39,6 @@
 - pkg:maven/org.mybatis.spring.boot/mybatis-spring-boot-starter@2.2.1
 - pkg:maven/org.mybatis.spring.boot/mybatis-spring-boot-starter@2.2.2
 - pkg:maven/org.mybatis.spring.boot/mybatis-spring-boot-starter@2.3.0
+- pkg:maven/org.mybatis.spring.boot/mybatis-spring-boot-starter@2.3.1
 - pkg:maven/org.mybatis.spring.boot/mybatis-spring-boot-starter@3.0.0
+- pkg:maven/org.mybatis.spring.boot/mybatis-spring-boot-starter@3.0.2

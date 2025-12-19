@@ -40,3 +40,5 @@
 - pkg:maven/net.wicp.tams/common-web@3.6.20?classifier=sources
 - pkg:maven/net.wicp.tams/common-web@3.6.21
 - pkg:maven/net.wicp.tams/common-web@3.6.21?classifier=sources
+- pkg:maven/net.wicp.tams/common-web@6.0.0
+- pkg:maven/net.wicp.tams/common-web@6.0.0?classifier=sources

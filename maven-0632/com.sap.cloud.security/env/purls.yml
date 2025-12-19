@@ -60,3 +60,5 @@
 - pkg:maven/com.sap.cloud.security/env@2.13.9?classifier=sources
 - pkg:maven/com.sap.cloud.security/env@3.0.0
 - pkg:maven/com.sap.cloud.security/env@3.0.0?classifier=sources
+- pkg:maven/com.sap.cloud.security/env@3.0.1
+- pkg:maven/com.sap.cloud.security/env@3.0.1?classifier=sources

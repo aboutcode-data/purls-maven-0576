@@ -24,3 +24,14 @@
 - pkg:maven/com.pulumi/akamai@4.4.0-alpha.1681843117%2B5ae2d9b5?classifier=sources
 - pkg:maven/com.pulumi/akamai@4.4.0?classifier=sources
 - pkg:maven/com.pulumi/akamai@4.5.0-alpha.1681926751%2B3deebdf2?classifier=sources
+- pkg:maven/com.pulumi/akamai@4.5.0-alpha.1683051806%2Ba42225cb?classifier=sources
+- pkg:maven/com.pulumi/akamai@4.5.0-alpha.1683263893%2Bf52fa1b5?classifier=sources
+- pkg:maven/com.pulumi/akamai@4.5.0-alpha.1683350191%2B103ecc01?classifier=sources
+- pkg:maven/com.pulumi/akamai@4.5.0-alpha.1683609394%2B932ce31d?classifier=sources
+- pkg:maven/com.pulumi/akamai@4.5.0-alpha.1683661246%2B8e2cbd6f?classifier=sources
+- pkg:maven/com.pulumi/akamai@4.6.0-alpha.1683782330%2B857b5b05?classifier=sources
+- pkg:maven/com.pulumi/akamai@4.6.0-alpha.1683955130%2Be3f34ade?classifier=sources
+- pkg:maven/com.pulumi/akamai@4.6.0-alpha.1684214209%2Bb59809fd?classifier=sources
+- pkg:maven/com.pulumi/akamai@4.6.0-alpha.1684387003%2B2bacebcf?classifier=sources
+- pkg:maven/com.pulumi/akamai@4.6.0-alpha.1685078259%2B95446fae?classifier=sources
+- pkg:maven/com.pulumi/akamai@4.6.0-alpha.1685164730%2B4c51ce9c?classifier=sources

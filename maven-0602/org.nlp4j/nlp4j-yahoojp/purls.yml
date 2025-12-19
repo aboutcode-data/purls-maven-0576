@@ -2,3 +2,5 @@
 - pkg:maven/org.nlp4j/nlp4j-yahoojp@1.3.0.0?classifier=sources
 - pkg:maven/org.nlp4j/nlp4j-yahoojp@1.3.5.0
 - pkg:maven/org.nlp4j/nlp4j-yahoojp@1.3.5.0?classifier=sources
+- pkg:maven/org.nlp4j/nlp4j-yahoojp@1.3.7.8
+- pkg:maven/org.nlp4j/nlp4j-yahoojp@1.3.7.8?classifier=sources

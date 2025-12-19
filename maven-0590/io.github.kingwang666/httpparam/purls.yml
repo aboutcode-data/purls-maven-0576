@@ -1,1 +1,2 @@
 - pkg:maven/io.github.kingwang666/httpparam@3.0.0?classifier=sources
+- pkg:maven/io.github.kingwang666/httpparam@3.0.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.debezium/debezium-storage-jdbc@2.3.0.Alpha1
+- pkg:maven/io.debezium/debezium-storage-jdbc@2.3.0.Alpha1?classifier=sources
+- pkg:maven/io.debezium/debezium-storage-jdbc@2.3.0.Beta1
+- pkg:maven/io.debezium/debezium-storage-jdbc@2.3.0.Beta1?classifier=sources

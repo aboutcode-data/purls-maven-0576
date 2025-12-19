@@ -182,6 +182,8 @@
 - pkg:maven/org.infinispan/infinispan-cachestore-jpa@13.0.14.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cachestore-jpa@13.0.15.Final
 - pkg:maven/org.infinispan/infinispan-cachestore-jpa@13.0.15.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-cachestore-jpa@13.0.16.Final
+- pkg:maven/org.infinispan/infinispan-cachestore-jpa@13.0.16.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cachestore-jpa@13.0.2.Final
 - pkg:maven/org.infinispan/infinispan-cachestore-jpa@13.0.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-cachestore-jpa@13.0.3.Final

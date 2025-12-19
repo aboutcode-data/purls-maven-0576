@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.camel.kafkaconnector/camel-fhir-sink-kafka-connector@3.20.0?classifier=sources
+- pkg:maven/org.apache.camel.kafkaconnector/camel-fhir-sink-kafka-connector@3.20.3?classifier=sources

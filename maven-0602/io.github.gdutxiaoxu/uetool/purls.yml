@@ -1,4 +1,6 @@
 - pkg:maven/io.github.gdutxiaoxu/uetool@0.11?classifier=sources
 - pkg:maven/io.github.gdutxiaoxu/uetool@0.11?type=aar
+- pkg:maven/io.github.gdutxiaoxu/uetool@0.12?classifier=sources
 - pkg:maven/io.github.gdutxiaoxu/uetool@0.19-hangmu?classifier=sources
 - pkg:maven/io.github.gdutxiaoxu/uetool@0.19-hangmu?type=aar
+- pkg:maven/io.github.gdutxiaoxu/uetool@0.21?classifier=sources

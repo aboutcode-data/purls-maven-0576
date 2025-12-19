@@ -4,7 +4,14 @@
 - pkg:maven/io.github.spotim/spotim-common@1.17.3.11?classifier=sources
 - pkg:maven/io.github.spotim/spotim-common@1.17.3.12?classifier=sources
 - pkg:maven/io.github.spotim/spotim-common@1.17.3.1?classifier=sources
+- pkg:maven/io.github.spotim/spotim-common@1.17.3.24m?classifier=sources
+- pkg:maven/io.github.spotim/spotim-common@1.17.3.25m?classifier=sources
+- pkg:maven/io.github.spotim/spotim-common@1.17.3.26m?classifier=sources
+- pkg:maven/io.github.spotim/spotim-common@1.17.3.27m?classifier=sources
 - pkg:maven/io.github.spotim/spotim-common@1.17.3.2?classifier=sources
+- pkg:maven/io.github.spotim/spotim-common@1.17.3.30R?classifier=sources
+- pkg:maven/io.github.spotim/spotim-common@1.17.3.31?classifier=sources
+- pkg:maven/io.github.spotim/spotim-common@1.17.3.32m?classifier=sources
 - pkg:maven/io.github.spotim/spotim-common@1.17.3.3?classifier=sources
 - pkg:maven/io.github.spotim/spotim-common@1.17.3.4?classifier=sources
 - pkg:maven/io.github.spotim/spotim-common@1.17.3.5?classifier=sources

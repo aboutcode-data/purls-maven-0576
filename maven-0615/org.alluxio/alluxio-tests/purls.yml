@@ -111,3 +111,9 @@
 - pkg:maven/org.alluxio/alluxio-tests@291-beta?classifier=sources
 - pkg:maven/org.alluxio/alluxio-tests@291-gamma
 - pkg:maven/org.alluxio/alluxio-tests@291-gamma?classifier=sources
+- pkg:maven/org.alluxio/alluxio-tests@294
+- pkg:maven/org.alluxio/alluxio-tests@294?classifier=sources
+- pkg:maven/org.alluxio/alluxio-tests@295
+- pkg:maven/org.alluxio/alluxio-tests@295?classifier=sources
+- pkg:maven/org.alluxio/alluxio-tests@300
+- pkg:maven/org.alluxio/alluxio-tests@300?classifier=sources

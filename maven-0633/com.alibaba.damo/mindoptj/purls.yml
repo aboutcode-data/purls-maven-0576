@@ -12,3 +12,5 @@
 - pkg:maven/com.alibaba.damo/mindoptj@0.20.2?classifier=sources
 - pkg:maven/com.alibaba.damo/mindoptj@0.23.0
 - pkg:maven/com.alibaba.damo/mindoptj@0.23.0?classifier=sources
+- pkg:maven/com.alibaba.damo/mindoptj@0.24.1
+- pkg:maven/com.alibaba.damo/mindoptj@0.24.1?classifier=sources

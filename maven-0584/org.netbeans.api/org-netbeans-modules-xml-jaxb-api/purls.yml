@@ -17,4 +17,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-xml-jaxb-api@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-xml-jaxb-api@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-xml-jaxb-api@RELEASE170?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-xml-jaxb-api@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-xml-jaxb-api@RELEASE90?classifier=sources

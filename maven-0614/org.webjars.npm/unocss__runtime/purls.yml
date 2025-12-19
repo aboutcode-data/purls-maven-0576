@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/unocss__runtime@0.52.3
+- pkg:maven/org.webjars.npm/unocss__runtime@0.52.3?classifier=sources

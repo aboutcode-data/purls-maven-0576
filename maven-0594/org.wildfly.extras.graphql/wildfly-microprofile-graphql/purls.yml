@@ -28,3 +28,5 @@
 - pkg:maven/org.wildfly.extras.graphql/wildfly-microprofile-graphql@1.8.0.Final?classifier=sources
 - pkg:maven/org.wildfly.extras.graphql/wildfly-microprofile-graphql@2.0.0.Final
 - pkg:maven/org.wildfly.extras.graphql/wildfly-microprofile-graphql@2.0.0.Final?classifier=sources
+- pkg:maven/org.wildfly.extras.graphql/wildfly-microprofile-graphql@2.1.0.Final
+- pkg:maven/org.wildfly.extras.graphql/wildfly-microprofile-graphql@2.1.0.Final?classifier=sources

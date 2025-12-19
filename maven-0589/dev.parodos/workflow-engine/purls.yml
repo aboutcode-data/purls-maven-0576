@@ -1,6 +1,16 @@
 - pkg:maven/dev.parodos/workflow-engine@1.0.0
 - pkg:maven/dev.parodos/workflow-engine@1.0.0?classifier=sources
 - pkg:maven/dev.parodos/workflow-engine@1.0.1
+- pkg:maven/dev.parodos/workflow-engine@1.0.10
+- pkg:maven/dev.parodos/workflow-engine@1.0.10?classifier=sources
+- pkg:maven/dev.parodos/workflow-engine@1.0.11
+- pkg:maven/dev.parodos/workflow-engine@1.0.11?classifier=sources
+- pkg:maven/dev.parodos/workflow-engine@1.0.12
+- pkg:maven/dev.parodos/workflow-engine@1.0.12?classifier=sources
+- pkg:maven/dev.parodos/workflow-engine@1.0.13
+- pkg:maven/dev.parodos/workflow-engine@1.0.13?classifier=sources
+- pkg:maven/dev.parodos/workflow-engine@1.0.14
+- pkg:maven/dev.parodos/workflow-engine@1.0.14?classifier=sources
 - pkg:maven/dev.parodos/workflow-engine@1.0.1?classifier=sources
 - pkg:maven/dev.parodos/workflow-engine@1.0.2
 - pkg:maven/dev.parodos/workflow-engine@1.0.2?classifier=sources
@@ -22,3 +32,5 @@
 - pkg:maven/dev.parodos/workflow-engine@1.0.8-3
 - pkg:maven/dev.parodos/workflow-engine@1.0.8-3?classifier=sources
 - pkg:maven/dev.parodos/workflow-engine@1.0.8?classifier=sources
+- pkg:maven/dev.parodos/workflow-engine@1.0.9
+- pkg:maven/dev.parodos/workflow-engine@1.0.9?classifier=sources

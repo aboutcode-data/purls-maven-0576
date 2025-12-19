@@ -96,3 +96,4 @@
 - pkg:maven/com.azure/azure-security-keyvault-secrets@4.5.3?classifier=sources
 - pkg:maven/com.azure/azure-security-keyvault-secrets@4.5.4?classifier=sources
 - pkg:maven/com.azure/azure-security-keyvault-secrets@4.6.0?classifier=sources
+- pkg:maven/com.azure/azure-security-keyvault-secrets@4.6.1?classifier=sources

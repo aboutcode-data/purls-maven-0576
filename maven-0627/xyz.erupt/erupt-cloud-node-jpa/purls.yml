@@ -5,3 +5,5 @@
 - pkg:maven/xyz.erupt/erupt-cloud-node-jpa@1.11.2
 - pkg:maven/xyz.erupt/erupt-cloud-node-jpa@1.11.3
 - pkg:maven/xyz.erupt/erupt-cloud-node-jpa@1.11.5
+- pkg:maven/xyz.erupt/erupt-cloud-node-jpa@1.11.6
+- pkg:maven/xyz.erupt/erupt-cloud-node-jpa@1.11.7

@@ -1,0 +1,2 @@
+- pkg:maven/cafe.adriel.lyricist/lyricist-core-macosarm64@1.4.0?classifier=sources
+- pkg:maven/cafe.adriel.lyricist/lyricist-core-macosarm64@1.4.1?classifier=sources

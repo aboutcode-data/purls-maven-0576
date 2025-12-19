@@ -30,3 +30,5 @@
 - pkg:maven/org.rapla/restinject@2.0-RC3?classifier=sources
 - pkg:maven/org.rapla/restinject@2.0-RC7
 - pkg:maven/org.rapla/restinject@2.0-RC7?classifier=sources
+- pkg:maven/org.rapla/restinject@2.0-RC9
+- pkg:maven/org.rapla/restinject@2.0-RC9?classifier=sources

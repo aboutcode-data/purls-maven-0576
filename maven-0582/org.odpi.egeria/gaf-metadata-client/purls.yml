@@ -29,3 +29,4 @@
 - pkg:maven/org.odpi.egeria/gaf-metadata-client@3.15
 - pkg:maven/org.odpi.egeria/gaf-metadata-client@3.15?classifier=sources
 - pkg:maven/org.odpi.egeria/gaf-metadata-client@4.0?classifier=sources
+- pkg:maven/org.odpi.egeria/gaf-metadata-client@4.1?classifier=sources

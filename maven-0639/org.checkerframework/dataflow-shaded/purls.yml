@@ -37,6 +37,8 @@
 - pkg:maven/org.checkerframework/dataflow-shaded@3.31.0?classifier=sources
 - pkg:maven/org.checkerframework/dataflow-shaded@3.32.0?classifier=sources
 - pkg:maven/org.checkerframework/dataflow-shaded@3.33.0?classifier=sources
+- pkg:maven/org.checkerframework/dataflow-shaded@3.34.0?classifier=sources
+- pkg:maven/org.checkerframework/dataflow-shaded@3.35.0?classifier=sources
 - pkg:maven/org.checkerframework/dataflow-shaded@3.4.0
 - pkg:maven/org.checkerframework/dataflow-shaded@3.4.0?classifier=sources
 - pkg:maven/org.checkerframework/dataflow-shaded@3.4.1

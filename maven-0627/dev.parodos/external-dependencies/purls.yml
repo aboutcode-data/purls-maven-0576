@@ -1,3 +1,8 @@
+- pkg:maven/dev.parodos/external-dependencies@1.0.10
+- pkg:maven/dev.parodos/external-dependencies@1.0.11
+- pkg:maven/dev.parodos/external-dependencies@1.0.12
+- pkg:maven/dev.parodos/external-dependencies@1.0.13
+- pkg:maven/dev.parodos/external-dependencies@1.0.14
 - pkg:maven/dev.parodos/external-dependencies@1.0.4
 - pkg:maven/dev.parodos/external-dependencies@1.0.5
 - pkg:maven/dev.parodos/external-dependencies@1.0.6
@@ -6,3 +11,4 @@
 - pkg:maven/dev.parodos/external-dependencies@1.0.8-1
 - pkg:maven/dev.parodos/external-dependencies@1.0.8-2
 - pkg:maven/dev.parodos/external-dependencies@1.0.8-3
+- pkg:maven/dev.parodos/external-dependencies@1.0.9

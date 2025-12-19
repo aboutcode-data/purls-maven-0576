@@ -3,3 +3,5 @@
 - pkg:maven/org.saynotobugs/confidence-incubator@0.14.1?classifier=sources
 - pkg:maven/org.saynotobugs/confidence-incubator@0.15.0?classifier=sources
 - pkg:maven/org.saynotobugs/confidence-incubator@0.15.1?classifier=sources
+- pkg:maven/org.saynotobugs/confidence-incubator@0.17.0?classifier=sources
+- pkg:maven/org.saynotobugs/confidence-incubator@0.18.0?classifier=sources

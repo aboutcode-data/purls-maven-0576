@@ -1,0 +1,2 @@
+- pkg:maven/io.github.maritims/velocity-sass-maven-plugin@1.1
+- pkg:maven/io.github.maritims/velocity-sass-maven-plugin@1.1?classifier=sources

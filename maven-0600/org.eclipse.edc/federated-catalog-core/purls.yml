@@ -1,3 +1,5 @@
 - pkg:maven/org.eclipse.edc/federated-catalog-core@%24%7BVERSION%7D?classifier=sources
 - pkg:maven/org.eclipse.edc/federated-catalog-core@0.0.1-milestone-7?classifier=sources
 - pkg:maven/org.eclipse.edc/federated-catalog-core@0.0.1-milestone-8?classifier=sources
+- pkg:maven/org.eclipse.edc/federated-catalog-core@0.0.1-milestone-9?classifier=sources
+- pkg:maven/org.eclipse.edc/federated-catalog-core@0.1.0?classifier=sources

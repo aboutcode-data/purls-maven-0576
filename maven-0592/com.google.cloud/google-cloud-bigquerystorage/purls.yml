@@ -394,6 +394,10 @@
 - pkg:maven/com.google.cloud/google-cloud-bigquerystorage@2.34.2?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-bigquerystorage@2.35.0
 - pkg:maven/com.google.cloud/google-cloud-bigquerystorage@2.35.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-bigquerystorage@2.36.0
+- pkg:maven/com.google.cloud/google-cloud-bigquerystorage@2.36.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-bigquerystorage@2.36.1
+- pkg:maven/com.google.cloud/google-cloud-bigquerystorage@2.36.1?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-bigquerystorage@2.4.0
 - pkg:maven/com.google.cloud/google-cloud-bigquerystorage@2.4.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-bigquerystorage@2.4.1

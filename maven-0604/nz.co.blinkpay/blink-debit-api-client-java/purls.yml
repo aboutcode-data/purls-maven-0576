@@ -2,3 +2,7 @@
 - pkg:maven/nz.co.blinkpay/blink-debit-api-client-java@1.0.7?classifier=sources
 - pkg:maven/nz.co.blinkpay/blink-debit-api-client-java@1.0.8
 - pkg:maven/nz.co.blinkpay/blink-debit-api-client-java@1.0.8?classifier=sources
+- pkg:maven/nz.co.blinkpay/blink-debit-api-client-java@1.1.0
+- pkg:maven/nz.co.blinkpay/blink-debit-api-client-java@1.1.0?classifier=sources
+- pkg:maven/nz.co.blinkpay/blink-debit-api-client-java@1.1.1
+- pkg:maven/nz.co.blinkpay/blink-debit-api-client-java@1.1.1?classifier=sources

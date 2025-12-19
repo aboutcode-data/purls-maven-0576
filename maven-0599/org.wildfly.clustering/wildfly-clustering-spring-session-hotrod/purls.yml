@@ -32,3 +32,5 @@
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-spring-session-hotrod@7.0.0.Final?classifier=sources
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-spring-session-hotrod@7.0.1.Final
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-spring-session-hotrod@7.0.1.Final?classifier=sources
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-spring-session-hotrod@8.0.0.Final
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-spring-session-hotrod@8.0.0.Final?classifier=sources

@@ -22,3 +22,5 @@
 - pkg:maven/com.speedment.jpastreamer/jpastreamer-core@1.1.4?classifier=sources
 - pkg:maven/com.speedment.jpastreamer/jpastreamer-core@3.0.0
 - pkg:maven/com.speedment.jpastreamer/jpastreamer-core@3.0.0?classifier=sources
+- pkg:maven/com.speedment.jpastreamer/jpastreamer-core@3.0.1
+- pkg:maven/com.speedment.jpastreamer/jpastreamer-core@3.0.1?classifier=sources

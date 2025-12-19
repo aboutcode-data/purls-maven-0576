@@ -72,3 +72,7 @@
 - pkg:maven/io.airlift/event-http@228?classifier=sources
 - pkg:maven/io.airlift/event-http@229
 - pkg:maven/io.airlift/event-http@229?classifier=sources
+- pkg:maven/io.airlift/event-http@230
+- pkg:maven/io.airlift/event-http@230?classifier=sources
+- pkg:maven/io.airlift/event-http@231
+- pkg:maven/io.airlift/event-http@231?classifier=sources

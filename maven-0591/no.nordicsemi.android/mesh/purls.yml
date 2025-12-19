@@ -41,3 +41,4 @@
 - pkg:maven/no.nordicsemi.android/mesh@3.2.2?classifier=sources
 - pkg:maven/no.nordicsemi.android/mesh@3.2.3?classifier=sources
 - pkg:maven/no.nordicsemi.android/mesh@3.2.4?classifier=sources
+- pkg:maven/no.nordicsemi.android/mesh@3.3.0?classifier=sources

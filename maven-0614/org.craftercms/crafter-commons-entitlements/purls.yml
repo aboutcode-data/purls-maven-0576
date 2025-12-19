@@ -125,6 +125,10 @@
 - pkg:maven/org.craftercms/crafter-commons-entitlements@3.1.29E?classifier=sources
 - pkg:maven/org.craftercms/crafter-commons-entitlements@3.1.2?classifier=sources
 - pkg:maven/org.craftercms/crafter-commons-entitlements@3.1.3
+- pkg:maven/org.craftercms/crafter-commons-entitlements@3.1.30
+- pkg:maven/org.craftercms/crafter-commons-entitlements@3.1.30?classifier=sources
+- pkg:maven/org.craftercms/crafter-commons-entitlements@3.1.30E
+- pkg:maven/org.craftercms/crafter-commons-entitlements@3.1.30E?classifier=sources
 - pkg:maven/org.craftercms/crafter-commons-entitlements@3.1.3?classifier=sources
 - pkg:maven/org.craftercms/crafter-commons-entitlements@3.1.4
 - pkg:maven/org.craftercms/crafter-commons-entitlements@3.1.4?classifier=sources
@@ -160,3 +164,4 @@
 - pkg:maven/org.craftercms/crafter-commons-entitlements@4.0.0-rc2E?classifier=sources
 - pkg:maven/org.craftercms/crafter-commons-entitlements@4.0.1
 - pkg:maven/org.craftercms/crafter-commons-entitlements@4.0.2
+- pkg:maven/org.craftercms/crafter-commons-entitlements@4.0.4

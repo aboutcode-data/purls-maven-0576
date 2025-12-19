@@ -1,2 +1,4 @@
 - pkg:maven/org.bridgedb/org.bridgedb.tools.voidtool@3.0.21
 - pkg:maven/org.bridgedb/org.bridgedb.tools.voidtool@3.0.21?classifier=sources
+- pkg:maven/org.bridgedb/org.bridgedb.tools.voidtool@3.0.22
+- pkg:maven/org.bridgedb/org.bridgedb.tools.voidtool@3.0.22?classifier=sources

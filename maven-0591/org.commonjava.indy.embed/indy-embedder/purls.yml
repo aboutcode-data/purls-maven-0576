@@ -122,3 +122,5 @@
 - pkg:maven/org.commonjava.indy.embed/indy-embedder@3.0.2?classifier=sources
 - pkg:maven/org.commonjava.indy.embed/indy-embedder@3.1.0
 - pkg:maven/org.commonjava.indy.embed/indy-embedder@3.1.0?classifier=sources
+- pkg:maven/org.commonjava.indy.embed/indy-embedder@3.1.1
+- pkg:maven/org.commonjava.indy.embed/indy-embedder@3.1.1?classifier=sources

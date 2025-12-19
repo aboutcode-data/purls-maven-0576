@@ -328,3 +328,7 @@
 - pkg:maven/io.airlift/testing@228?classifier=sources
 - pkg:maven/io.airlift/testing@229
 - pkg:maven/io.airlift/testing@229?classifier=sources
+- pkg:maven/io.airlift/testing@230
+- pkg:maven/io.airlift/testing@230?classifier=sources
+- pkg:maven/io.airlift/testing@231
+- pkg:maven/io.airlift/testing@231?classifier=sources
