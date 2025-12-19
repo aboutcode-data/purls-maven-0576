@@ -50,6 +50,10 @@
 - pkg:maven/com.github.nagyesta.lowkey-vault/lowkey-vault-app@1.14.0?classifier=sources
 - pkg:maven/com.github.nagyesta.lowkey-vault/lowkey-vault-app@1.14.12?classifier=sources
 - pkg:maven/com.github.nagyesta.lowkey-vault/lowkey-vault-app@1.14.38?classifier=sources
+- pkg:maven/com.github.nagyesta.lowkey-vault/lowkey-vault-app@1.15.0?classifier=sources
+- pkg:maven/com.github.nagyesta.lowkey-vault/lowkey-vault-app@1.16.0?classifier=sources
+- pkg:maven/com.github.nagyesta.lowkey-vault/lowkey-vault-app@1.16.2?classifier=sources
+- pkg:maven/com.github.nagyesta.lowkey-vault/lowkey-vault-app@1.16.7?classifier=sources
 - pkg:maven/com.github.nagyesta.lowkey-vault/lowkey-vault-app@1.2.0?classifier=sources
 - pkg:maven/com.github.nagyesta.lowkey-vault/lowkey-vault-app@1.2.11?classifier=sources
 - pkg:maven/com.github.nagyesta.lowkey-vault/lowkey-vault-app@1.2.2?classifier=sources

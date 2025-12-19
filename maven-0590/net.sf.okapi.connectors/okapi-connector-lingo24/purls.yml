@@ -18,3 +18,5 @@
 - pkg:maven/net.sf.okapi.connectors/okapi-connector-lingo24@1.43.0?classifier=sources
 - pkg:maven/net.sf.okapi.connectors/okapi-connector-lingo24@1.44.0
 - pkg:maven/net.sf.okapi.connectors/okapi-connector-lingo24@1.44.0?classifier=sources
+- pkg:maven/net.sf.okapi.connectors/okapi-connector-lingo24@1.45.0
+- pkg:maven/net.sf.okapi.connectors/okapi-connector-lingo24@1.45.0?classifier=sources

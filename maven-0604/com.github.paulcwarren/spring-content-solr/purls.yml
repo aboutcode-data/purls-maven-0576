@@ -104,6 +104,8 @@
 - pkg:maven/com.github.paulcwarren/spring-content-solr@2.6.0?classifier=sources
 - pkg:maven/com.github.paulcwarren/spring-content-solr@2.7.0
 - pkg:maven/com.github.paulcwarren/spring-content-solr@2.7.0?classifier=sources
+- pkg:maven/com.github.paulcwarren/spring-content-solr@2.8.0
+- pkg:maven/com.github.paulcwarren/spring-content-solr@2.8.0?classifier=sources
 - pkg:maven/com.github.paulcwarren/spring-content-solr@v1.2.0
 - pkg:maven/com.github.paulcwarren/spring-content-solr@v1.2.0?classifier=sources
 - pkg:maven/com.github.paulcwarren/spring-content-solr@v1.2.3

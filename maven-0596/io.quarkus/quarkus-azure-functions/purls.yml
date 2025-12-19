@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkus/quarkus-azure-functions@3.0.0.Alpha4
+- pkg:maven/io.quarkus/quarkus-azure-functions@3.0.0.Alpha4?classifier=sources

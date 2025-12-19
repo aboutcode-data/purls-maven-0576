@@ -1,3 +1,5 @@
+- pkg:maven/org.meeuw.math/mihxil-physics@0.10.0
+- pkg:maven/org.meeuw.math/mihxil-physics@0.10.0?classifier=sources
 - pkg:maven/org.meeuw.math/mihxil-physics@0.5.0
 - pkg:maven/org.meeuw.math/mihxil-physics@0.5.0?classifier=sources
 - pkg:maven/org.meeuw.math/mihxil-physics@0.6.0

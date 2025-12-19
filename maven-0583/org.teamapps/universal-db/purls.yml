@@ -101,6 +101,8 @@
 - pkg:maven/org.teamapps/universal-db@0.5.27?classifier=sources
 - pkg:maven/org.teamapps/universal-db@0.5.28
 - pkg:maven/org.teamapps/universal-db@0.5.28?classifier=sources
+- pkg:maven/org.teamapps/universal-db@0.5.29
+- pkg:maven/org.teamapps/universal-db@0.5.29?classifier=sources
 - pkg:maven/org.teamapps/universal-db@0.5.2?classifier=sources
 - pkg:maven/org.teamapps/universal-db@0.5.3
 - pkg:maven/org.teamapps/universal-db@0.5.3?classifier=sources

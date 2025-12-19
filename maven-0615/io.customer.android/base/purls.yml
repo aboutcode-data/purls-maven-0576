@@ -43,3 +43,9 @@
 - pkg:maven/io.customer.android/base@3.1.1?classifier=sources
 - pkg:maven/io.customer.android/base@3.2.0-alpha.1?classifier=sources
 - pkg:maven/io.customer.android/base@3.2.0-alpha.2?classifier=sources
+- pkg:maven/io.customer.android/base@3.2.0-beta.1?classifier=sources
+- pkg:maven/io.customer.android/base@3.2.0?classifier=sources
+- pkg:maven/io.customer.android/base@3.3.0-alpha.1?classifier=sources
+- pkg:maven/io.customer.android/base@3.3.0-beta.1?classifier=sources
+- pkg:maven/io.customer.android/base@3.3.0-beta.3?classifier=sources
+- pkg:maven/io.customer.android/base@3.3.0-beta.4?classifier=sources

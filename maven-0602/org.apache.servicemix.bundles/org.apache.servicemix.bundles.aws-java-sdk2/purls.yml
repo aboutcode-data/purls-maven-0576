@@ -66,6 +66,10 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.aws-java-sdk2@2.18.7_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.aws-java-sdk2@2.18.7_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.aws-java-sdk2@2.18.7_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.aws-java-sdk2@2.19.25_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.aws-java-sdk2@2.19.25_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.aws-java-sdk2@2.19.25_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.aws-java-sdk2@2.19.25_1?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.aws-java-sdk2@2.19.8_1
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.aws-java-sdk2@2.19.8_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.aws-java-sdk2@2.19.8_1?classifier=src&type=tar.gz

@@ -28,3 +28,5 @@
 - pkg:maven/com.github.oboehm/gdv-xport-service@6.2.2?type=war
 - pkg:maven/com.github.oboehm/gdv-xport-service@6.3.10-YEARS?type=war
 - pkg:maven/com.github.oboehm/gdv-xport-service@6.4.0?type=war
+- pkg:maven/com.github.oboehm/gdv-xport-service@6.4.1?type=war
+- pkg:maven/com.github.oboehm/gdv-xport-service@6.4.2?type=war

@@ -5,3 +5,4 @@
 - pkg:maven/dev.marcellogalhardo/retained-navigation@0.15.3?classifier=sources
 - pkg:maven/dev.marcellogalhardo/retained-navigation@0.16.0?classifier=sources
 - pkg:maven/dev.marcellogalhardo/retained-navigation@0.17.0?classifier=sources
+- pkg:maven/dev.marcellogalhardo/retained-navigation@1.0.0?classifier=sources

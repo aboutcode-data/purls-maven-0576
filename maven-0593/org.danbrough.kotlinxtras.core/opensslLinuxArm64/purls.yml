@@ -1,0 +1,2 @@
+- pkg:maven/org.danbrough.kotlinxtras.core/opensslLinuxArm64@1_1_1s?classifier=sources
+- pkg:maven/org.danbrough.kotlinxtras.core/opensslLinuxArm64@1_1_1sa?classifier=sources

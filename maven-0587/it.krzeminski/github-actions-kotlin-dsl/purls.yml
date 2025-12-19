@@ -27,6 +27,10 @@
 - pkg:maven/it.krzeminski/github-actions-kotlin-dsl@0.33.0?classifier=sources
 - pkg:maven/it.krzeminski/github-actions-kotlin-dsl@0.34.0?classifier=sources
 - pkg:maven/it.krzeminski/github-actions-kotlin-dsl@0.34.1?classifier=sources
+- pkg:maven/it.krzeminski/github-actions-kotlin-dsl@0.34.2?classifier=sources
+- pkg:maven/it.krzeminski/github-actions-kotlin-dsl@0.35.0?classifier=sources
+- pkg:maven/it.krzeminski/github-actions-kotlin-dsl@0.36.0?classifier=sources
+- pkg:maven/it.krzeminski/github-actions-kotlin-dsl@0.37.0?classifier=sources
 - pkg:maven/it.krzeminski/github-actions-kotlin-dsl@0.4.0?classifier=sources
 - pkg:maven/it.krzeminski/github-actions-kotlin-dsl@0.4.1?classifier=sources
 - pkg:maven/it.krzeminski/github-actions-kotlin-dsl@0.5.0?classifier=sources

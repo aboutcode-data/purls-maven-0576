@@ -11,7 +11,11 @@
 - pkg:maven/com.raxdenstudios/commons-retrofit@4.29.0?classifier=sources
 - pkg:maven/com.raxdenstudios/commons-retrofit@4.30.0?classifier=sources
 - pkg:maven/com.raxdenstudios/commons-retrofit@4.32.0?classifier=sources
+- pkg:maven/com.raxdenstudios/commons-retrofit@4.33.0?classifier=sources
+- pkg:maven/com.raxdenstudios/commons-retrofit@4.34.0?classifier=sources
+- pkg:maven/com.raxdenstudios/commons-retrofit@4.37.0?classifier=sources
 - pkg:maven/com.raxdenstudios/commons-retrofit@4.4.0?classifier=sources
+- pkg:maven/com.raxdenstudios/commons-retrofit@4.41.0?classifier=sources
 - pkg:maven/com.raxdenstudios/commons-retrofit@4.5.0?classifier=sources
 - pkg:maven/com.raxdenstudios/commons-retrofit@4.6.0?classifier=sources
 - pkg:maven/com.raxdenstudios/commons-retrofit@4.9.1?classifier=sources

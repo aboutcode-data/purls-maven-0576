@@ -28,3 +28,5 @@
 - pkg:maven/org.hibernate.tool/hibernate-tools-utils@6.1.6.Final?classifier=sources
 - pkg:maven/org.hibernate.tool/hibernate-tools-utils@6.2.0.CR1
 - pkg:maven/org.hibernate.tool/hibernate-tools-utils@6.2.0.CR1?classifier=sources
+- pkg:maven/org.hibernate.tool/hibernate-tools-utils@6.2.0.CR2
+- pkg:maven/org.hibernate.tool/hibernate-tools-utils@6.2.0.CR2?classifier=sources

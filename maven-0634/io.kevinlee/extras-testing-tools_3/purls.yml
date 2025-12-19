@@ -1,0 +1,6 @@
+- pkg:maven/io.kevinlee/extras-testing-tools_3@0.29.0
+- pkg:maven/io.kevinlee/extras-testing-tools_3@0.29.0?classifier=sources
+- pkg:maven/io.kevinlee/extras-testing-tools_3@0.30.0
+- pkg:maven/io.kevinlee/extras-testing-tools_3@0.30.0?classifier=sources
+- pkg:maven/io.kevinlee/extras-testing-tools_3@0.31.0
+- pkg:maven/io.kevinlee/extras-testing-tools_3@0.31.0?classifier=sources

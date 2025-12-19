@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.beam/beam-runners-google-cloud-dataflow-java-legacy-worker@2.42.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-runners-google-cloud-dataflow-java-legacy-worker@2.43.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-runners-google-cloud-dataflow-java-legacy-worker@2.44.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-runners-google-cloud-dataflow-java-legacy-worker@2.45.0?classifier=sources

@@ -41,6 +41,9 @@
 - pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@2.0.21
 - pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@2.0.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@2.0.21?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@2.0.22
+- pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@2.0.22?classifier=sources
+- pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@2.0.22?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@2.0.23
 - pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@2.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@2.0.23?classifier=sources-commercial
@@ -142,6 +145,9 @@
 - pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@4.0.16
 - pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@4.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@4.0.16?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@4.0.17
+- pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@4.0.17?classifier=sources
+- pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@4.0.17?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@4.0.18
 - pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@4.0.18?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@4.0.18?classifier=sources-commercial
@@ -196,6 +202,9 @@
 - pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@5.0.13
 - pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@5.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@5.0.13?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@5.0.14
+- pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@5.0.14?classifier=sources
+- pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@5.0.14?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@5.0.15
 - pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@5.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@5.0.15?classifier=sources-commercial
@@ -217,6 +226,9 @@
 - pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@5.0.20
 - pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@5.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@5.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@5.0.21
+- pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@5.0.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@5.0.21?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@5.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@5.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@5.0.3
@@ -247,6 +259,12 @@
 - pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@6.0.10
 - pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@6.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@6.0.10?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@6.0.11
+- pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@6.0.11?classifier=sources
+- pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@6.0.11?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@6.0.12
+- pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@6.0.12?classifier=sources
+- pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@6.0.12?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@6.0.13
 - pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@6.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.user.personal.bar.web@6.0.13?classifier=sources-commercial

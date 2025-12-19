@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.instagram/org.wso2.carbon.extension.identity.authenticator.instagram.feature@1.0.2?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.instagram/org.wso2.carbon.extension.identity.authenticator.instagram.feature@1.0.3?classifier=source-release&type=zip

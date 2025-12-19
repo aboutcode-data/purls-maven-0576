@@ -54,6 +54,9 @@
 - pkg:maven/io.embrace/embrace-swazzler@5.1.0-beta3?classifier=sources
 - pkg:maven/io.embrace/embrace-swazzler@5.1.0?classifier=sources
 - pkg:maven/io.embrace/embrace-swazzler@5.10.0?classifier=sources
+- pkg:maven/io.embrace/embrace-swazzler@5.11.0?classifier=sources
+- pkg:maven/io.embrace/embrace-swazzler@5.12.0?classifier=sources
+- pkg:maven/io.embrace/embrace-swazzler@5.13.0?classifier=sources
 - pkg:maven/io.embrace/embrace-swazzler@5.2.0-beta01?classifier=sources
 - pkg:maven/io.embrace/embrace-swazzler@5.2.0-beta02?classifier=sources
 - pkg:maven/io.embrace/embrace-swazzler@5.2.0?classifier=sources

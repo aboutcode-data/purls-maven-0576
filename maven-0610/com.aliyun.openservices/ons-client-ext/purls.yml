@@ -36,5 +36,7 @@
 - pkg:maven/com.aliyun.openservices/ons-client-ext@1.8.8.6.Final?classifier=sources
 - pkg:maven/com.aliyun.openservices/ons-client-ext@1.8.8.7.Final
 - pkg:maven/com.aliyun.openservices/ons-client-ext@1.8.8.7.Final?classifier=sources
+- pkg:maven/com.aliyun.openservices/ons-client-ext@1.8.8.8.Final
+- pkg:maven/com.aliyun.openservices/ons-client-ext@1.8.8.8.Final?classifier=sources
 - pkg:maven/com.aliyun.openservices/ons-client-ext@1.8.8.Final
 - pkg:maven/com.aliyun.openservices/ons-client-ext@1.8.8.Final?classifier=sources

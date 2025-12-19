@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.okapi.linguistic/linguistic-tools@1.45.0
+- pkg:maven/net.sf.okapi.linguistic/linguistic-tools@1.45.0?classifier=sources

@@ -32,3 +32,5 @@
 - pkg:maven/dev.guardrail/guardrail-scala-http4s_2.13@0.74.0?classifier=sources
 - pkg:maven/dev.guardrail/guardrail-scala-http4s_2.13@0.75.0
 - pkg:maven/dev.guardrail/guardrail-scala-http4s_2.13@0.75.0?classifier=sources
+- pkg:maven/dev.guardrail/guardrail-scala-http4s_2.13@0.76.0
+- pkg:maven/dev.guardrail/guardrail-scala-http4s_2.13@0.76.0?classifier=sources

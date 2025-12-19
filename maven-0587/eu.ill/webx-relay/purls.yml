@@ -1,0 +1,2 @@
+- pkg:maven/eu.ill/webx-relay@0.1.0
+- pkg:maven/eu.ill/webx-relay@0.1.0?classifier=sources

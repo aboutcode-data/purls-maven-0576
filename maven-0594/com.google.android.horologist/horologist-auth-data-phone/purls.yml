@@ -1,0 +1,3 @@
+- pkg:maven/com.google.android.horologist/horologist-auth-data-phone@0.2.8?classifier=sources
+- pkg:maven/com.google.android.horologist/horologist-auth-data-phone@0.3.0?classifier=sources
+- pkg:maven/com.google.android.horologist/horologist-auth-data-phone@0.3.1?classifier=sources

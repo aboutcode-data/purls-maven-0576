@@ -37,3 +37,4 @@
 - pkg:maven/org.nativescript/canvas@1.1.0-alpha.7?classifier=sources
 - pkg:maven/org.nativescript/canvas@1.1.0-alpha.8?classifier=sources
 - pkg:maven/org.nativescript/canvas@1.1.0-alpha.9?classifier=sources
+- pkg:maven/org.nativescript/canvas@1.1.0?classifier=sources

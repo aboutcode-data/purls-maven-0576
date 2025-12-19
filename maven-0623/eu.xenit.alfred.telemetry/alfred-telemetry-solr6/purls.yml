@@ -9,3 +9,4 @@
 - pkg:maven/eu.xenit.alfred.telemetry/alfred-telemetry-solr6@0.8.0?classifier=sources
 - pkg:maven/eu.xenit.alfred.telemetry/alfred-telemetry-solr6@0.9.1?classifier=sources
 - pkg:maven/eu.xenit.alfred.telemetry/alfred-telemetry-solr6@0.9.2?classifier=sources
+- pkg:maven/eu.xenit.alfred.telemetry/alfred-telemetry-solr6@0.9.3?classifier=sources

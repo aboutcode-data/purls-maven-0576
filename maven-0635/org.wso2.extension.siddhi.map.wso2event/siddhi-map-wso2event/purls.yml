@@ -31,3 +31,5 @@
 - pkg:maven/org.wso2.extension.siddhi.map.wso2event/siddhi-map-wso2event@4.1.1
 - pkg:maven/org.wso2.extension.siddhi.map.wso2event/siddhi-map-wso2event@5.0.2
 - pkg:maven/org.wso2.extension.siddhi.map.wso2event/siddhi-map-wso2event@5.0.2?classifier=sources
+- pkg:maven/org.wso2.extension.siddhi.map.wso2event/siddhi-map-wso2event@5.0.3
+- pkg:maven/org.wso2.extension.siddhi.map.wso2event/siddhi-map-wso2event@5.0.3?classifier=sources

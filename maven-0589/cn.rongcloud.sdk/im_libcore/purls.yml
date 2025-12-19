@@ -34,3 +34,4 @@
 - pkg:maven/cn.rongcloud.sdk/im_libcore@5.2.0?type=aar
 - pkg:maven/cn.rongcloud.sdk/im_libcore@5.3.3?type=aar
 - pkg:maven/cn.rongcloud.sdk/im_libcore@5.3.4?type=aar
+- pkg:maven/cn.rongcloud.sdk/im_libcore@5.3.5?type=aar

@@ -38,3 +38,5 @@
 - pkg:maven/org.webjars.npm/swiper@9.0.0-beta.2?classifier=sources
 - pkg:maven/org.webjars.npm/swiper@9.0.0-beta.6
 - pkg:maven/org.webjars.npm/swiper@9.0.0-beta.6?classifier=sources
+- pkg:maven/org.webjars.npm/swiper@9.0.0-beta.9
+- pkg:maven/org.webjars.npm/swiper@9.0.0-beta.9?classifier=sources

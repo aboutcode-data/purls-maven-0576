@@ -4,3 +4,4 @@
 - pkg:maven/org.opennms.alec.wrap/org.opennms.alec.wrap.tensorflow@2.0.0
 - pkg:maven/org.opennms.alec.wrap/org.opennms.alec.wrap.tensorflow@2.1.1-ALPHA
 - pkg:maven/org.opennms.alec.wrap/org.opennms.alec.wrap.tensorflow@2.1.2-ALPHA
+- pkg:maven/org.opennms.alec.wrap/org.opennms.alec.wrap.tensorflow@3.0.1

@@ -44,3 +44,7 @@
 - pkg:maven/net.anotheria/distributeme-generator@2.3.9?classifier=sources
 - pkg:maven/net.anotheria/distributeme-generator@2.4.0
 - pkg:maven/net.anotheria/distributeme-generator@2.4.0?classifier=sources
+- pkg:maven/net.anotheria/distributeme-generator@2.5.0
+- pkg:maven/net.anotheria/distributeme-generator@2.5.0?classifier=sources
+- pkg:maven/net.anotheria/distributeme-generator@2.5.1
+- pkg:maven/net.anotheria/distributeme-generator@2.5.1?classifier=sources

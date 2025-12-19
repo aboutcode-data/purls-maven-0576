@@ -1,0 +1,6 @@
+- pkg:maven/io.github.oshai/kotlin-logging-android@4.0.0-beta-15?classifier=sources
+- pkg:maven/io.github.oshai/kotlin-logging-android@4.0.0-beta-16?classifier=sources
+- pkg:maven/io.github.oshai/kotlin-logging-android@4.0.0-beta-17?classifier=sources
+- pkg:maven/io.github.oshai/kotlin-logging-android@4.0.0-beta-18?classifier=sources
+- pkg:maven/io.github.oshai/kotlin-logging-android@4.0.0-beta-19?classifier=sources
+- pkg:maven/io.github.oshai/kotlin-logging-android@4.0.0-beta-20?classifier=sources

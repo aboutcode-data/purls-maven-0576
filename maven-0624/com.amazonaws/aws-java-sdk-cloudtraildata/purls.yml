@@ -1,0 +1,16 @@
+- pkg:maven/com.amazonaws/aws-java-sdk-cloudtraildata@1.12.397
+- pkg:maven/com.amazonaws/aws-java-sdk-cloudtraildata@1.12.397?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-cloudtraildata@1.12.398
+- pkg:maven/com.amazonaws/aws-java-sdk-cloudtraildata@1.12.398?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-cloudtraildata@1.12.399
+- pkg:maven/com.amazonaws/aws-java-sdk-cloudtraildata@1.12.399?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-cloudtraildata@1.12.400
+- pkg:maven/com.amazonaws/aws-java-sdk-cloudtraildata@1.12.400?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-cloudtraildata@1.12.401
+- pkg:maven/com.amazonaws/aws-java-sdk-cloudtraildata@1.12.401?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-cloudtraildata@1.12.402
+- pkg:maven/com.amazonaws/aws-java-sdk-cloudtraildata@1.12.402?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-cloudtraildata@1.12.403
+- pkg:maven/com.amazonaws/aws-java-sdk-cloudtraildata@1.12.403?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-cloudtraildata@1.12.404
+- pkg:maven/com.amazonaws/aws-java-sdk-cloudtraildata@1.12.404?classifier=sources

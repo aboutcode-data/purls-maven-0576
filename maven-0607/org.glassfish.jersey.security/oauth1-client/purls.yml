@@ -109,6 +109,8 @@
 - pkg:maven/org.glassfish.jersey.security/oauth1-client@2.37?classifier=sources
 - pkg:maven/org.glassfish.jersey.security/oauth1-client@2.38
 - pkg:maven/org.glassfish.jersey.security/oauth1-client@2.38?classifier=sources
+- pkg:maven/org.glassfish.jersey.security/oauth1-client@2.39
+- pkg:maven/org.glassfish.jersey.security/oauth1-client@2.39?classifier=sources
 - pkg:maven/org.glassfish.jersey.security/oauth1-client@2.3?classifier=sources
 - pkg:maven/org.glassfish.jersey.security/oauth1-client@2.4
 - pkg:maven/org.glassfish.jersey.security/oauth1-client@2.4.1
@@ -168,3 +170,5 @@
 - pkg:maven/org.glassfish.jersey.security/oauth1-client@3.1.0-M8
 - pkg:maven/org.glassfish.jersey.security/oauth1-client@3.1.0-M8?classifier=sources
 - pkg:maven/org.glassfish.jersey.security/oauth1-client@3.1.0?classifier=sources
+- pkg:maven/org.glassfish.jersey.security/oauth1-client@3.1.1
+- pkg:maven/org.glassfish.jersey.security/oauth1-client@3.1.1?classifier=sources

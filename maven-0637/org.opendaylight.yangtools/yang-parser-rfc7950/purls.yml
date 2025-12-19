@@ -2,6 +2,8 @@
 - pkg:maven/org.opendaylight.yangtools/yang-parser-rfc7950@10.0.1?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-parser-rfc7950@10.0.2
 - pkg:maven/org.opendaylight.yangtools/yang-parser-rfc7950@10.0.2?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-parser-rfc7950@10.0.3?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-parser-rfc7950@10.0.4?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-parser-rfc7950@2.0.0
 - pkg:maven/org.opendaylight.yangtools/yang-parser-rfc7950@2.0.0?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-parser-rfc7950@2.0.1

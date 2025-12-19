@@ -1,0 +1,2 @@
+- pkg:maven/cn.dynamictp/dynamic-tp-adapter-brpc@1.1.0
+- pkg:maven/cn.dynamictp/dynamic-tp-adapter-brpc@1.1.0?classifier=sources

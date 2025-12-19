@@ -4,3 +4,7 @@
 - pkg:maven/org.webjars.npm/material-ui__types@5.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/material-ui__types@5.1.6
 - pkg:maven/org.webjars.npm/material-ui__types@5.1.6?classifier=sources
+- pkg:maven/org.webjars.npm/material-ui__types@5.1.8
+- pkg:maven/org.webjars.npm/material-ui__types@5.1.8?classifier=sources
+- pkg:maven/org.webjars.npm/material-ui__types@6.0.2
+- pkg:maven/org.webjars.npm/material-ui__types@6.0.2?classifier=sources

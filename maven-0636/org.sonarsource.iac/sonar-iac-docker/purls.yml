@@ -1,0 +1,2 @@
+- pkg:maven/org.sonarsource.iac/sonar-iac-docker@1.10.0.2836?classifier=sources
+- pkg:maven/org.sonarsource.iac/sonar-iac-docker@1.11.0.2847?classifier=sources

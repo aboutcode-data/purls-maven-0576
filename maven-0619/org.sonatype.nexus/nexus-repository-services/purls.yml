@@ -103,3 +103,11 @@
 - pkg:maven/org.sonatype.nexus/nexus-repository-services@3.44.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-repository-services@3.45.0-01
 - pkg:maven/org.sonatype.nexus/nexus-repository-services@3.45.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-repository-services@3.45.1-01
+- pkg:maven/org.sonatype.nexus/nexus-repository-services@3.45.1-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-repository-services@3.46.0-01
+- pkg:maven/org.sonatype.nexus/nexus-repository-services@3.46.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-repository-services@3.47.0-01
+- pkg:maven/org.sonatype.nexus/nexus-repository-services@3.47.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-repository-services@3.47.1-01
+- pkg:maven/org.sonatype.nexus/nexus-repository-services@3.47.1-01?classifier=sources

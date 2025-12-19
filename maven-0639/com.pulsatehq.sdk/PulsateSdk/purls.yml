@@ -7,3 +7,4 @@
 - pkg:maven/com.pulsatehq.sdk/PulsateSdk@4.0.0?classifier=sources
 - pkg:maven/com.pulsatehq.sdk/PulsateSdk@4.0.3?classifier=sources
 - pkg:maven/com.pulsatehq.sdk/PulsateSdk@4.1.0?classifier=sources
+- pkg:maven/com.pulsatehq.sdk/PulsateSdk@4.1.6?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/com.raelity.logman/logman-netbeans@2.2?classifier=sources
+- pkg:maven/com.raelity.logman/logman-netbeans@2.3.1?classifier=sources

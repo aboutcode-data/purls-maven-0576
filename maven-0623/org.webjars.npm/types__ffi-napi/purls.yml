@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/types__ffi-napi@4.0.7
+- pkg:maven/org.webjars.npm/types__ffi-napi@4.0.7?classifier=sources

@@ -14,3 +14,6 @@
 - pkg:maven/org.komapper/komapper-dialect-sqlserver@1.4.0?classifier=sources
 - pkg:maven/org.komapper/komapper-dialect-sqlserver@1.5.0?classifier=sources
 - pkg:maven/org.komapper/komapper-dialect-sqlserver@1.6.0?classifier=sources
+- pkg:maven/org.komapper/komapper-dialect-sqlserver@1.6.1?classifier=sources
+- pkg:maven/org.komapper/komapper-dialect-sqlserver@1.7.0?classifier=sources
+- pkg:maven/org.komapper/komapper-dialect-sqlserver@1.7.1?classifier=sources

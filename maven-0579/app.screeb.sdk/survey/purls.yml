@@ -1,4 +1,5 @@
 - pkg:maven/app.screeb.sdk/survey@1.10.0?classifier=sources
+- pkg:maven/app.screeb.sdk/survey@1.10.10?classifier=sources
 - pkg:maven/app.screeb.sdk/survey@1.10.1?classifier=sources
 - pkg:maven/app.screeb.sdk/survey@1.10.2?classifier=sources
 - pkg:maven/app.screeb.sdk/survey@1.10.3?classifier=sources
@@ -8,6 +9,9 @@
 - pkg:maven/app.screeb.sdk/survey@1.10.7?classifier=sources
 - pkg:maven/app.screeb.sdk/survey@1.10.8?classifier=sources
 - pkg:maven/app.screeb.sdk/survey@1.10.9?classifier=sources
+- pkg:maven/app.screeb.sdk/survey@1.11.0?classifier=sources
+- pkg:maven/app.screeb.sdk/survey@1.11.1?classifier=sources
+- pkg:maven/app.screeb.sdk/survey@1.12.0?classifier=sources
 - pkg:maven/app.screeb.sdk/survey@1.4.0?classifier=sources
 - pkg:maven/app.screeb.sdk/survey@1.5.0?classifier=sources
 - pkg:maven/app.screeb.sdk/survey@1.6.0?classifier=sources

@@ -13,3 +13,5 @@
 - pkg:maven/io.github.dokar3/sheets@0.2.8?classifier=sources
 - pkg:maven/io.github.dokar3/sheets@0.2.9?classifier=sources
 - pkg:maven/io.github.dokar3/sheets@0.3.0?classifier=sources
+- pkg:maven/io.github.dokar3/sheets@0.4.0?classifier=sources
+- pkg:maven/io.github.dokar3/sheets@0.4.1?classifier=sources

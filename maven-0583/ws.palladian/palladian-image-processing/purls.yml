@@ -1,2 +1,4 @@
 - pkg:maven/ws.palladian/palladian-image-processing@1.0.0
 - pkg:maven/ws.palladian/palladian-image-processing@1.0.0?classifier=sources
+- pkg:maven/ws.palladian/palladian-image-processing@2.0.0
+- pkg:maven/ws.palladian/palladian-image-processing@2.0.0?classifier=sources

@@ -2,6 +2,16 @@
 - pkg:maven/io.sentry/sentry-spring-jakarta@6.10.0?classifier=sources
 - pkg:maven/io.sentry/sentry-spring-jakarta@6.11.0
 - pkg:maven/io.sentry/sentry-spring-jakarta@6.11.0?classifier=sources
+- pkg:maven/io.sentry/sentry-spring-jakarta@6.12.0
+- pkg:maven/io.sentry/sentry-spring-jakarta@6.12.0?classifier=sources
+- pkg:maven/io.sentry/sentry-spring-jakarta@6.12.1
+- pkg:maven/io.sentry/sentry-spring-jakarta@6.12.1?classifier=sources
+- pkg:maven/io.sentry/sentry-spring-jakarta@6.13.0
+- pkg:maven/io.sentry/sentry-spring-jakarta@6.13.0?classifier=sources
+- pkg:maven/io.sentry/sentry-spring-jakarta@6.13.1
+- pkg:maven/io.sentry/sentry-spring-jakarta@6.13.1?classifier=sources
+- pkg:maven/io.sentry/sentry-spring-jakarta@6.14.0
+- pkg:maven/io.sentry/sentry-spring-jakarta@6.14.0?classifier=sources
 - pkg:maven/io.sentry/sentry-spring-jakarta@6.7.0
 - pkg:maven/io.sentry/sentry-spring-jakarta@6.7.0-alpha.1
 - pkg:maven/io.sentry/sentry-spring-jakarta@6.7.0-alpha.1?classifier=sources

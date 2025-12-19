@@ -176,6 +176,8 @@
 - pkg:maven/ru.sbtqa.tag.pagefactory/mobile-plugin@17.0.1?classifier=sources
 - pkg:maven/ru.sbtqa.tag.pagefactory/mobile-plugin@17.0.3
 - pkg:maven/ru.sbtqa.tag.pagefactory/mobile-plugin@17.0.3?classifier=sources
+- pkg:maven/ru.sbtqa.tag.pagefactory/mobile-plugin@17.1.0
+- pkg:maven/ru.sbtqa.tag.pagefactory/mobile-plugin@17.1.0?classifier=sources
 - pkg:maven/ru.sbtqa.tag.pagefactory/mobile-plugin@2.0.0
 - pkg:maven/ru.sbtqa.tag.pagefactory/mobile-plugin@2.0.0?classifier=sources
 - pkg:maven/ru.sbtqa.tag.pagefactory/mobile-plugin@2.0.1

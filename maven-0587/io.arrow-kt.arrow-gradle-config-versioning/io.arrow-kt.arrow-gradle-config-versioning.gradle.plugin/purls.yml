@@ -7,6 +7,7 @@
 - pkg:maven/io.arrow-kt.arrow-gradle-config-versioning/io.arrow-kt.arrow-gradle-config-versioning.gradle.plugin@0.10.3-alpha.3?classifier=sources
 - pkg:maven/io.arrow-kt.arrow-gradle-config-versioning/io.arrow-kt.arrow-gradle-config-versioning.gradle.plugin@0.11.0-alpha.1?classifier=sources
 - pkg:maven/io.arrow-kt.arrow-gradle-config-versioning/io.arrow-kt.arrow-gradle-config-versioning.gradle.plugin@0.11.0?classifier=sources
+- pkg:maven/io.arrow-kt.arrow-gradle-config-versioning/io.arrow-kt.arrow-gradle-config-versioning.gradle.plugin@0.12.0-rc.1?classifier=sources
 - pkg:maven/io.arrow-kt.arrow-gradle-config-versioning/io.arrow-kt.arrow-gradle-config-versioning.gradle.plugin@0.4.0?classifier=sources
 - pkg:maven/io.arrow-kt.arrow-gradle-config-versioning/io.arrow-kt.arrow-gradle-config-versioning.gradle.plugin@0.4.1?classifier=sources
 - pkg:maven/io.arrow-kt.arrow-gradle-config-versioning/io.arrow-kt.arrow-gradle-config-versioning.gradle.plugin@0.5.0?classifier=sources

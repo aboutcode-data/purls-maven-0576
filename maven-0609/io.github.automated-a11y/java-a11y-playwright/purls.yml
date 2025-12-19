@@ -1,0 +1,2 @@
+- pkg:maven/io.github.automated-a11y/java-a11y-playwright@1.0.1
+- pkg:maven/io.github.automated-a11y/java-a11y-playwright@1.0.1?classifier=sources

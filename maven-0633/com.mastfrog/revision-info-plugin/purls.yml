@@ -24,6 +24,8 @@
 - pkg:maven/com.mastfrog/revision-info-plugin@0.21?classifier=sources
 - pkg:maven/com.mastfrog/revision-info-plugin@0.22
 - pkg:maven/com.mastfrog/revision-info-plugin@0.22?classifier=sources
+- pkg:maven/com.mastfrog/revision-info-plugin@0.23
+- pkg:maven/com.mastfrog/revision-info-plugin@0.23?classifier=sources
 - pkg:maven/com.mastfrog/revision-info-plugin@0.8
 - pkg:maven/com.mastfrog/revision-info-plugin@0.8?classifier=sources
 - pkg:maven/com.mastfrog/revision-info-plugin@0.9

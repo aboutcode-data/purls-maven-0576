@@ -1,1 +1,2 @@
 - pkg:maven/de.dfki.mary/marytts-voicebuilding@0.2.0?classifier=sources
+- pkg:maven/de.dfki.mary/marytts-voicebuilding@0.2.1?classifier=sources

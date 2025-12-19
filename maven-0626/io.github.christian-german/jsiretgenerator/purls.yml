@@ -1,0 +1,2 @@
+- pkg:maven/io.github.christian-german/jsiretgenerator@0.0.1?classifier=sources
+- pkg:maven/io.github.christian-german/jsiretgenerator@0.0.5?classifier=sources

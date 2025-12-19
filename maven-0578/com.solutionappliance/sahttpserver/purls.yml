@@ -31,6 +31,7 @@
 - pkg:maven/com.solutionappliance/sahttpserver@2.0.22?classifier=sources
 - pkg:maven/com.solutionappliance/sahttpserver@2.0.24
 - pkg:maven/com.solutionappliance/sahttpserver@2.0.24?classifier=sources
+- pkg:maven/com.solutionappliance/sahttpserver@2.0.25?classifier=sources
 - pkg:maven/com.solutionappliance/sahttpserver@2.0.2?classifier=sources
 - pkg:maven/com.solutionappliance/sahttpserver@2.0.3
 - pkg:maven/com.solutionappliance/sahttpserver@2.0.3?classifier=sources
@@ -46,3 +47,4 @@
 - pkg:maven/com.solutionappliance/sahttpserver@2.0.8?classifier=sources
 - pkg:maven/com.solutionappliance/sahttpserver@2.0.9
 - pkg:maven/com.solutionappliance/sahttpserver@2.0.9?classifier=sources
+- pkg:maven/com.solutionappliance/sahttpserver@2.1.0?classifier=sources

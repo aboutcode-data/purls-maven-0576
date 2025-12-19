@@ -1,0 +1,2 @@
+- pkg:maven/org.kill-bill.billing.plugin.java.catalog/catalog-test-plugin@0.5.0
+- pkg:maven/org.kill-bill.billing.plugin.java.catalog/catalog-test-plugin@0.5.0?classifier=sources

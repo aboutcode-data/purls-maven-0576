@@ -1,1 +1,2 @@
 - pkg:maven/io.gravitee.apim.plugin.entrypoint/gravitee-apim-plugin-entrypoint-websocket@3.20.0?classifier=sources
+- pkg:maven/io.gravitee.apim.plugin.entrypoint/gravitee-apim-plugin-entrypoint-websocket@3.20.1?classifier=sources

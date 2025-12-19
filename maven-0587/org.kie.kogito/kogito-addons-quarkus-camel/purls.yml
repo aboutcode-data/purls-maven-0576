@@ -1,0 +1,4 @@
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-camel@1.33.0.Final
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-camel@1.33.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-camel@1.34.0.Final
+- pkg:maven/org.kie.kogito/kogito-addons-quarkus-camel@1.34.0.Final?classifier=sources

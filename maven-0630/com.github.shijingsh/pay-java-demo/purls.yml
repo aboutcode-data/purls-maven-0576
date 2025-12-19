@@ -1,2 +1,4 @@
 - pkg:maven/com.github.shijingsh/pay-java-demo@2.14.3?classifier=sources
 - pkg:maven/com.github.shijingsh/pay-java-demo@2.14.3?type=war
+- pkg:maven/com.github.shijingsh/pay-java-demo@2.14.4?classifier=sources
+- pkg:maven/com.github.shijingsh/pay-java-demo@2.14.4?type=war

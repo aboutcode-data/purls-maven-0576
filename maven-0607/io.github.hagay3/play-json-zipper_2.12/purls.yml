@@ -1,0 +1,2 @@
+- pkg:maven/io.github.hagay3/play-json-zipper_2.12@2.0.1
+- pkg:maven/io.github.hagay3/play-json-zipper_2.12@2.0.1?classifier=sources

@@ -219,6 +219,7 @@
 - pkg:maven/org.rundeck/rundeck-authz-core@4.1.0-rc1-20220405?classifier=sources
 - pkg:maven/org.rundeck/rundeck-authz-core@4.1.0-rc2-20220412?classifier=sources
 - pkg:maven/org.rundeck/rundeck-authz-core@4.1.0-rc3-20220418?classifier=sources
+- pkg:maven/org.rundeck/rundeck-authz-core@4.10.0-20230213?classifier=sources
 - pkg:maven/org.rundeck/rundeck-authz-core@4.2.0-20220509?classifier=sources
 - pkg:maven/org.rundeck/rundeck-authz-core@4.2.0-rc1-20220502?classifier=sources
 - pkg:maven/org.rundeck/rundeck-authz-core@4.2.0-rc2-20220505?classifier=sources
@@ -249,6 +250,7 @@
 - pkg:maven/org.rundeck/rundeck-authz-core@4.6.1-rc1-20220908?classifier=sources
 - pkg:maven/org.rundeck/rundeck-authz-core@4.7.0-20221006?classifier=sources
 - pkg:maven/org.rundeck/rundeck-authz-core@4.8.0-20221110?classifier=sources
+- pkg:maven/org.rundeck/rundeck-authz-core@4.9.0-20230111?classifier=sources
 - pkg:maven/org.rundeck/rundeck-authz-core@4.9.0-rc1-20221215?classifier=sources
 - pkg:maven/org.rundeck/rundeck-authz-core@4.9.0-rc2-20221215?classifier=sources
 - pkg:maven/org.rundeck/rundeck-authz-core@4.9.0-rc3-20230103?classifier=sources

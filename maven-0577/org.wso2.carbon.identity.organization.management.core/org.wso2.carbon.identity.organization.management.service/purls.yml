@@ -51,6 +51,8 @@
 - pkg:maven/org.wso2.carbon.identity.organization.management.core/org.wso2.carbon.identity.organization.management.service@1.0.31?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.organization.management.core/org.wso2.carbon.identity.organization.management.service@1.0.32
 - pkg:maven/org.wso2.carbon.identity.organization.management.core/org.wso2.carbon.identity.organization.management.service@1.0.32?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.organization.management.core/org.wso2.carbon.identity.organization.management.service@1.0.35
+- pkg:maven/org.wso2.carbon.identity.organization.management.core/org.wso2.carbon.identity.organization.management.service@1.0.35?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.organization.management.core/org.wso2.carbon.identity.organization.management.service@1.0.3?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.organization.management.core/org.wso2.carbon.identity.organization.management.service@1.0.4
 - pkg:maven/org.wso2.carbon.identity.organization.management.core/org.wso2.carbon.identity.organization.management.service@1.0.4?classifier=sources

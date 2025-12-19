@@ -1,1 +1,2 @@
 - pkg:maven/org.taack/taack-ui-commands@0.3?classifier=sources
+- pkg:maven/org.taack/taack-ui-commands@0.4?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/org.jasig.portlet/basiclti-portlet@1.4.1?type=war
 - pkg:maven/org.jasig.portlet/basiclti-portlet@1.4.2?classifier=sources
 - pkg:maven/org.jasig.portlet/basiclti-portlet@1.4.2?type=war
+- pkg:maven/org.jasig.portlet/basiclti-portlet@1.5.0?classifier=sources
+- pkg:maven/org.jasig.portlet/basiclti-portlet@1.5.0?type=war

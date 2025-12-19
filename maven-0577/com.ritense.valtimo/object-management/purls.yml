@@ -1,0 +1,2 @@
+- pkg:maven/com.ritense.valtimo/object-management@10.1.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/object-management@10.2.0.RELEASE?classifier=sources

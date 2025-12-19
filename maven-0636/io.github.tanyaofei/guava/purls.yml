@@ -1,0 +1,2 @@
+- pkg:maven/io.github.tanyaofei/guava@31.1-jre
+- pkg:maven/io.github.tanyaofei/guava@31.1-jre?classifier=sources

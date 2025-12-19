@@ -41,3 +41,7 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.freemarker@2.3.31_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.freemarker@2.3.31_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.freemarker@2.3.31_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.freemarker@2.3.32_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.freemarker@2.3.32_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.freemarker@2.3.32_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.freemarker@2.3.32_1?classifier=src&type=zip

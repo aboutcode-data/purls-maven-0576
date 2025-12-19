@@ -50,3 +50,6 @@
 - pkg:maven/com.powsybl/powsybl-iidm-tck@4.9.2
 - pkg:maven/com.powsybl/powsybl-iidm-tck@5.0.0
 - pkg:maven/com.powsybl/powsybl-iidm-tck@5.0.0-RC1
+- pkg:maven/com.powsybl/powsybl-iidm-tck@5.1.0
+- pkg:maven/com.powsybl/powsybl-iidm-tck@5.1.0-RC1
+- pkg:maven/com.powsybl/powsybl-iidm-tck@5.1.1
