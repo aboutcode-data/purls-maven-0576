@@ -10,3 +10,5 @@
 - pkg:maven/com.mxpio/mxpio-boot-base-filestorage@1.0.12-beta.6?classifier=sources
 - pkg:maven/com.mxpio/mxpio-boot-base-filestorage@1.0.12-beta.7
 - pkg:maven/com.mxpio/mxpio-boot-base-filestorage@1.0.12-beta.7?classifier=sources
+- pkg:maven/com.mxpio/mxpio-boot-base-filestorage@1.0.12-beta.8
+- pkg:maven/com.mxpio/mxpio-boot-base-filestorage@1.0.12-beta.8?classifier=sources

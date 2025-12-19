@@ -6,5 +6,7 @@
 - pkg:maven/org.webjars.npm/graphql-ws@4.4.1?classifier=sources
 - pkg:maven/org.webjars.npm/graphql-ws@4.9.0
 - pkg:maven/org.webjars.npm/graphql-ws@4.9.0?classifier=sources
+- pkg:maven/org.webjars.npm/graphql-ws@5.11.2
+- pkg:maven/org.webjars.npm/graphql-ws@5.11.2?classifier=sources
 - pkg:maven/org.webjars.npm/graphql-ws@5.5.5
 - pkg:maven/org.webjars.npm/graphql-ws@5.5.5?classifier=sources

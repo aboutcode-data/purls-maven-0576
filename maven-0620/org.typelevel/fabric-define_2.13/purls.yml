@@ -4,3 +4,5 @@
 - pkg:maven/org.typelevel/fabric-define_2.13@1.7.2?classifier=sources
 - pkg:maven/org.typelevel/fabric-define_2.13@1.7.3
 - pkg:maven/org.typelevel/fabric-define_2.13@1.7.3?classifier=sources
+- pkg:maven/org.typelevel/fabric-define_2.13@1.7.4
+- pkg:maven/org.typelevel/fabric-define_2.13@1.7.4?classifier=sources

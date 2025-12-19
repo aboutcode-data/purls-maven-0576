@@ -1,0 +1,2 @@
+- pkg:maven/com.daodecode/scalax-collection_3@0.3.4
+- pkg:maven/com.daodecode/scalax-collection_3@0.3.4?classifier=sources

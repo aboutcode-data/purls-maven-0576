@@ -1,4 +1,5 @@
 - pkg:maven/com.consoliads/adcolony-mediation@13.1.0?classifier=sources
+- pkg:maven/com.consoliads/adcolony-mediation@4.8.0_v13_1.0?classifier=sources
 - pkg:maven/com.consoliads/adcolony-mediation@v4.6.5-1.0?classifier=sources
 - pkg:maven/com.consoliads/adcolony-mediation@v4.6.5-1.2?classifier=sources
 - pkg:maven/com.consoliads/adcolony-mediation@v4.6.5?classifier=sources

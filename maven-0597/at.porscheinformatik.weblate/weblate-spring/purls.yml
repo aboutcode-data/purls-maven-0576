@@ -20,3 +20,5 @@
 - pkg:maven/at.porscheinformatik.weblate/weblate-spring@0.6.0?classifier=sources
 - pkg:maven/at.porscheinformatik.weblate/weblate-spring@0.7.0
 - pkg:maven/at.porscheinformatik.weblate/weblate-spring@0.7.0?classifier=sources
+- pkg:maven/at.porscheinformatik.weblate/weblate-spring@0.7.1
+- pkg:maven/at.porscheinformatik.weblate/weblate-spring@0.7.1?classifier=sources

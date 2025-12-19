@@ -70,3 +70,4 @@
 - pkg:maven/ai.tock/tock-bot-connector-rest@22.9.1?classifier=sources
 - pkg:maven/ai.tock/tock-bot-connector-rest@22.9.2
 - pkg:maven/ai.tock/tock-bot-connector-rest@22.9.2?classifier=sources
+- pkg:maven/ai.tock/tock-bot-connector-rest@22.9.3

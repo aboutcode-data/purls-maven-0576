@@ -16,3 +16,5 @@
 - pkg:maven/com.github.cafdataprocessing/staging-service-container@1.5.0-864?classifier=sources
 - pkg:maven/com.github.cafdataprocessing/staging-service-container@1.6.0-873
 - pkg:maven/com.github.cafdataprocessing/staging-service-container@1.6.0-873?classifier=sources
+- pkg:maven/com.github.cafdataprocessing/staging-service-container@2.0.0-894
+- pkg:maven/com.github.cafdataprocessing/staging-service-container@2.0.0-894?classifier=sources

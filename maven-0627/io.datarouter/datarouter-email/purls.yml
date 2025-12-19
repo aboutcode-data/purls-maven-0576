@@ -32,6 +32,8 @@
 - pkg:maven/io.datarouter/datarouter-email@0.0.116?classifier=sources
 - pkg:maven/io.datarouter/datarouter-email@0.0.117
 - pkg:maven/io.datarouter/datarouter-email@0.0.117?classifier=sources
+- pkg:maven/io.datarouter/datarouter-email@0.0.118
+- pkg:maven/io.datarouter/datarouter-email@0.0.118?classifier=sources
 - pkg:maven/io.datarouter/datarouter-email@0.0.72
 - pkg:maven/io.datarouter/datarouter-email@0.0.72?classifier=sources
 - pkg:maven/io.datarouter/datarouter-email@0.0.73

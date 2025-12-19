@@ -26,6 +26,8 @@
 - pkg:maven/com.thesamet.scalapb.zio-grpc/zio-grpc-codegen_2.12@0.5.1?classifier=sources
 - pkg:maven/com.thesamet.scalapb.zio-grpc/zio-grpc-codegen_2.12@0.5.2
 - pkg:maven/com.thesamet.scalapb.zio-grpc/zio-grpc-codegen_2.12@0.5.2?classifier=sources
+- pkg:maven/com.thesamet.scalapb.zio-grpc/zio-grpc-codegen_2.12@0.5.3
+- pkg:maven/com.thesamet.scalapb.zio-grpc/zio-grpc-codegen_2.12@0.5.3?classifier=sources
 - pkg:maven/com.thesamet.scalapb.zio-grpc/zio-grpc-codegen_2.12@0.6.0-test1
 - pkg:maven/com.thesamet.scalapb.zio-grpc/zio-grpc-codegen_2.12@0.6.0-test1?classifier=sources
 - pkg:maven/com.thesamet.scalapb.zio-grpc/zio-grpc-codegen_2.12@0.6.0-test2
@@ -36,3 +38,7 @@
 - pkg:maven/com.thesamet.scalapb.zio-grpc/zio-grpc-codegen_2.12@0.6.0-test4?classifier=sources
 - pkg:maven/com.thesamet.scalapb.zio-grpc/zio-grpc-codegen_2.12@0.6.0-test5
 - pkg:maven/com.thesamet.scalapb.zio-grpc/zio-grpc-codegen_2.12@0.6.0-test5?classifier=sources
+- pkg:maven/com.thesamet.scalapb.zio-grpc/zio-grpc-codegen_2.12@0.6.0-test6
+- pkg:maven/com.thesamet.scalapb.zio-grpc/zio-grpc-codegen_2.12@0.6.0-test6?classifier=sources
+- pkg:maven/com.thesamet.scalapb.zio-grpc/zio-grpc-codegen_2.12@0.6.0-test7
+- pkg:maven/com.thesamet.scalapb.zio-grpc/zio-grpc-codegen_2.12@0.6.0-test7?classifier=sources

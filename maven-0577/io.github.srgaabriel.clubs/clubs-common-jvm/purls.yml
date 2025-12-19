@@ -1,0 +1,2 @@
+- pkg:maven/io.github.srgaabriel.clubs/clubs-common-jvm@1.3.12?classifier=sources
+- pkg:maven/io.github.srgaabriel.clubs/clubs-common-jvm@1.4?classifier=sources

@@ -13,6 +13,7 @@
 - pkg:maven/org.nineml/coffeepot@1.1.0?classifier=sources
 - pkg:maven/org.nineml/coffeepot@1.99.0?classifier=sources
 - pkg:maven/org.nineml/coffeepot@1.99.11?classifier=sources
+- pkg:maven/org.nineml/coffeepot@1.99.12?classifier=sources
 - pkg:maven/org.nineml/coffeepot@1.99.4?classifier=sources
 - pkg:maven/org.nineml/coffeepot@1.99.5?classifier=sources
 - pkg:maven/org.nineml/coffeepot@1.99.7?classifier=sources

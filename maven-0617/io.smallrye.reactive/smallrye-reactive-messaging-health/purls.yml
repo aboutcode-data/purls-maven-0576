@@ -72,6 +72,10 @@
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-health@3.22.0.RC1
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-health@3.22.0.RC1?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-health@3.22.0?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-health@3.22.1
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-health@3.22.1.RC1
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-health@3.22.1.RC1?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-health@3.22.1?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-health@3.3.0
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-health@3.3.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-health@3.3.1
@@ -109,4 +113,10 @@
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-health@4.0.0.RC5?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-health@4.0.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-health@4.1.0
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-health@4.1.0.RC1
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-health@4.1.0.RC1?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-health@4.1.0?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-health@4.1.1
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-health@4.1.1.RC1
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-health@4.1.1.RC1?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-health@4.1.1?classifier=sources

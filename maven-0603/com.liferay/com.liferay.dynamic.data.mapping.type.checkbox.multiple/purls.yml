@@ -66,6 +66,9 @@
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.type.checkbox.multiple@1.0.30
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.type.checkbox.multiple@1.0.30?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.type.checkbox.multiple@1.0.30?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.type.checkbox.multiple@1.0.31
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.type.checkbox.multiple@1.0.31?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.type.checkbox.multiple@1.0.31?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.type.checkbox.multiple@1.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.type.checkbox.multiple@1.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.type.checkbox.multiple@1.0.4

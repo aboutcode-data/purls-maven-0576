@@ -1,4 +1,8 @@
+- pkg:maven/org.nebula-contrib/ngbatis@1.1.0
 - pkg:maven/org.nebula-contrib/ngbatis@1.1.0-beta
 - pkg:maven/org.nebula-contrib/ngbatis@1.1.0-beta?classifier=sources
 - pkg:maven/org.nebula-contrib/ngbatis@1.1.0-rc
 - pkg:maven/org.nebula-contrib/ngbatis@1.1.0-rc?classifier=sources
+- pkg:maven/org.nebula-contrib/ngbatis@1.1.0?classifier=sources
+- pkg:maven/org.nebula-contrib/ngbatis@1.1.1
+- pkg:maven/org.nebula-contrib/ngbatis@1.1.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.dromara/hmily-xa-rpc-dubbo@2.1.2
+- pkg:maven/org.dromara/hmily-xa-rpc-dubbo@2.1.2?classifier=sources

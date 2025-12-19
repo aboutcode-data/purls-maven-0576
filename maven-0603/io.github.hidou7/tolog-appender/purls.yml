@@ -1,0 +1,14 @@
+- pkg:maven/io.github.hidou7/tolog-appender@0.0.9
+- pkg:maven/io.github.hidou7/tolog-appender@0.0.9?classifier=sources
+- pkg:maven/io.github.hidou7/tolog-appender@1.0.0
+- pkg:maven/io.github.hidou7/tolog-appender@1.0.0?classifier=sources
+- pkg:maven/io.github.hidou7/tolog-appender@1.0.1
+- pkg:maven/io.github.hidou7/tolog-appender@1.0.1?classifier=sources
+- pkg:maven/io.github.hidou7/tolog-appender@1.0.2
+- pkg:maven/io.github.hidou7/tolog-appender@1.0.2?classifier=sources
+- pkg:maven/io.github.hidou7/tolog-appender@1.0.3
+- pkg:maven/io.github.hidou7/tolog-appender@1.0.3?classifier=sources
+- pkg:maven/io.github.hidou7/tolog-appender@1.0.4
+- pkg:maven/io.github.hidou7/tolog-appender@1.0.4?classifier=sources
+- pkg:maven/io.github.hidou7/tolog-appender@1.0.5
+- pkg:maven/io.github.hidou7/tolog-appender@1.0.5?classifier=sources

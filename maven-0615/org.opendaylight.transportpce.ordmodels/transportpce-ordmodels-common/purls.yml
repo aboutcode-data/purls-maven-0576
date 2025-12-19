@@ -61,3 +61,5 @@
 - pkg:maven/org.opendaylight.transportpce.ordmodels/transportpce-ordmodels-common@4.3.0?classifier=sources
 - pkg:maven/org.opendaylight.transportpce.ordmodels/transportpce-ordmodels-common@5.0.0?classifier=sources
 - pkg:maven/org.opendaylight.transportpce.ordmodels/transportpce-ordmodels-common@5.1.0?classifier=sources
+- pkg:maven/org.opendaylight.transportpce.ordmodels/transportpce-ordmodels-common@5.2.0
+- pkg:maven/org.opendaylight.transportpce.ordmodels/transportpce-ordmodels-common@5.2.0?classifier=sources

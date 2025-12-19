@@ -1,0 +1,2 @@
+- pkg:maven/de.julielab/jcore-gnormplus-pubmed-db-reader@2.6.1
+- pkg:maven/de.julielab/jcore-gnormplus-pubmed-db-reader@2.6.1?classifier=sources

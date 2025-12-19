@@ -1,0 +1,2 @@
+- pkg:maven/org.docshare/yangmvc-boot-demo@2022.12.18
+- pkg:maven/org.docshare/yangmvc-boot-demo@2022.12.18?classifier=sources

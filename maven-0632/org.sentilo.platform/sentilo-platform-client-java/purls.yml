@@ -4,3 +4,5 @@
 - pkg:maven/org.sentilo.platform/sentilo-platform-client-java@1.8.0?classifier=sources
 - pkg:maven/org.sentilo.platform/sentilo-platform-client-java@1.9.0
 - pkg:maven/org.sentilo.platform/sentilo-platform-client-java@1.9.0?classifier=sources
+- pkg:maven/org.sentilo.platform/sentilo-platform-client-java@2.0.0
+- pkg:maven/org.sentilo.platform/sentilo-platform-client-java@2.0.0?classifier=sources

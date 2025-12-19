@@ -1,0 +1,4 @@
+- pkg:maven/at.matteovalentini/configdeserializer@1.0.0
+- pkg:maven/at.matteovalentini/configdeserializer@1.0.0?classifier=sources
+- pkg:maven/at.matteovalentini/configdeserializer@1.0.1
+- pkg:maven/at.matteovalentini/configdeserializer@1.0.1?classifier=sources

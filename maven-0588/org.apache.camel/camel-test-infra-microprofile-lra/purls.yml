@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.camel/camel-test-infra-microprofile-lra@3.20.0
+- pkg:maven/org.apache.camel/camel-test-infra-microprofile-lra@3.20.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-test-infra-microprofile-lra@3.20.1
+- pkg:maven/org.apache.camel/camel-test-infra-microprofile-lra@3.20.1?classifier=sources

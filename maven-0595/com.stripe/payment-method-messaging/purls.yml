@@ -1,0 +1,2 @@
+- pkg:maven/com.stripe/payment-method-messaging@20.16.2?classifier=sources
+- pkg:maven/com.stripe/payment-method-messaging@20.17.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.kill-bill.billing/killbill-platform-osgi-bundles-influxdb@0.41.0
+- pkg:maven/org.kill-bill.billing/killbill-platform-osgi-bundles-influxdb@0.41.0?classifier=sources

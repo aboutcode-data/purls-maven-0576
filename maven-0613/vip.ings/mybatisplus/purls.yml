@@ -1,0 +1,2 @@
+- pkg:maven/vip.ings/mybatisplus@1.0.0
+- pkg:maven/vip.ings/mybatisplus@1.0.0?classifier=sources

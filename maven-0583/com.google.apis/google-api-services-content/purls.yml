@@ -1970,6 +1970,12 @@
 - pkg:maven/com.google.apis/google-api-services-content@v2.1-rev20221107-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-content@v2.1-rev20221110-2.0.0
 - pkg:maven/com.google.apis/google-api-services-content@v2.1-rev20221110-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-content@v2.1-rev20221128-2.0.0
+- pkg:maven/com.google.apis/google-api-services-content@v2.1-rev20221128-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-content@v2.1-rev20221228-2.0.0
+- pkg:maven/com.google.apis/google-api-services-content@v2.1-rev20221228-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-content@v2.1-rev20230104-2.0.0
+- pkg:maven/com.google.apis/google-api-services-content@v2.1-rev20230104-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-content@v2.1-rev37-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-content@v2.1-rev37-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-content@v2.1-rev37-1.25.0

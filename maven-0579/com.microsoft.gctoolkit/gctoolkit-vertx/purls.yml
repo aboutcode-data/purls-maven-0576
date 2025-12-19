@@ -2,6 +2,8 @@
 - pkg:maven/com.microsoft.gctoolkit/gctoolkit-vertx@2.0.10?classifier=sources
 - pkg:maven/com.microsoft.gctoolkit/gctoolkit-vertx@2.0.11
 - pkg:maven/com.microsoft.gctoolkit/gctoolkit-vertx@2.0.11?classifier=sources
+- pkg:maven/com.microsoft.gctoolkit/gctoolkit-vertx@2.0.12
+- pkg:maven/com.microsoft.gctoolkit/gctoolkit-vertx@2.0.12?classifier=sources
 - pkg:maven/com.microsoft.gctoolkit/gctoolkit-vertx@2.0.3
 - pkg:maven/com.microsoft.gctoolkit/gctoolkit-vertx@2.0.3?classifier=sources
 - pkg:maven/com.microsoft.gctoolkit/gctoolkit-vertx@2.0.4

@@ -120,3 +120,5 @@
 - pkg:maven/com.github.cryptomorin/XSeries@9.0.0?classifier=sources
 - pkg:maven/com.github.cryptomorin/XSeries@9.1.0
 - pkg:maven/com.github.cryptomorin/XSeries@9.1.0?classifier=sources
+- pkg:maven/com.github.cryptomorin/XSeries@9.2.0
+- pkg:maven/com.github.cryptomorin/XSeries@9.2.0?classifier=sources

@@ -2,6 +2,10 @@
 - pkg:maven/work.bottle.plugin/btresponse-spring-boot-starter@1.0.1-RELEASE?classifier=sources
 - pkg:maven/work.bottle.plugin/btresponse-spring-boot-starter@1.0.10
 - pkg:maven/work.bottle.plugin/btresponse-spring-boot-starter@1.0.10?classifier=sources
+- pkg:maven/work.bottle.plugin/btresponse-spring-boot-starter@1.0.11
+- pkg:maven/work.bottle.plugin/btresponse-spring-boot-starter@1.0.11?classifier=sources
+- pkg:maven/work.bottle.plugin/btresponse-spring-boot-starter@1.0.12
+- pkg:maven/work.bottle.plugin/btresponse-spring-boot-starter@1.0.12?classifier=sources
 - pkg:maven/work.bottle.plugin/btresponse-spring-boot-starter@1.0.2-RELEASE
 - pkg:maven/work.bottle.plugin/btresponse-spring-boot-starter@1.0.2-RELEASE?classifier=sources
 - pkg:maven/work.bottle.plugin/btresponse-spring-boot-starter@1.0.3-RELEASE

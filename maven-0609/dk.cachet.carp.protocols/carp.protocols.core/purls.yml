@@ -12,3 +12,4 @@
 - pkg:maven/dk.cachet.carp.protocols/carp.protocols.core@1.0.0-alpha.39?classifier=sources
 - pkg:maven/dk.cachet.carp.protocols/carp.protocols.core@1.0.0?classifier=sources
 - pkg:maven/dk.cachet.carp.protocols/carp.protocols.core@1.1.0?classifier=sources
+- pkg:maven/dk.cachet.carp.protocols/carp.protocols.core@1.1.1?classifier=sources

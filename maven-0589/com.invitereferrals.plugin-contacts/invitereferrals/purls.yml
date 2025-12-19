@@ -1,0 +1,2 @@
+- pkg:maven/com.invitereferrals.plugin-contacts/invitereferrals@v1.0.0?classifier=sources
+- pkg:maven/com.invitereferrals.plugin-contacts/invitereferrals@v1.0.0?type=aar

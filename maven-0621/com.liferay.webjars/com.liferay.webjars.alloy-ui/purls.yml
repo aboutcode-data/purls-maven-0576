@@ -90,6 +90,8 @@
 - pkg:maven/com.liferay.webjars/com.liferay.webjars.alloy-ui@3.0.3-deprecated.99
 - pkg:maven/com.liferay.webjars/com.liferay.webjars.alloy-ui@3.1.0-deprecated.1
 - pkg:maven/com.liferay.webjars/com.liferay.webjars.alloy-ui@3.1.0-deprecated.10
+- pkg:maven/com.liferay.webjars/com.liferay.webjars.alloy-ui@3.1.0-deprecated.107
+- pkg:maven/com.liferay.webjars/com.liferay.webjars.alloy-ui@3.1.0-deprecated.108
 - pkg:maven/com.liferay.webjars/com.liferay.webjars.alloy-ui@3.1.0-deprecated.11
 - pkg:maven/com.liferay.webjars/com.liferay.webjars.alloy-ui@3.1.0-deprecated.12
 - pkg:maven/com.liferay.webjars/com.liferay.webjars.alloy-ui@3.1.0-deprecated.13

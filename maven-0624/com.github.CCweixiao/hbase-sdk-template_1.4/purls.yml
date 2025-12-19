@@ -1,0 +1,2 @@
+- pkg:maven/com.github.CCweixiao/hbase-sdk-template_1.4@3.0.0
+- pkg:maven/com.github.CCweixiao/hbase-sdk-template_1.4@3.0.0?classifier=sources

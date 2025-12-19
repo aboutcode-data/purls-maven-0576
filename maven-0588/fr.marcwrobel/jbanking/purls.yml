@@ -18,3 +18,5 @@
 - pkg:maven/fr.marcwrobel/jbanking@3.4.0?classifier=sources
 - pkg:maven/fr.marcwrobel/jbanking@4.0.0
 - pkg:maven/fr.marcwrobel/jbanking@4.0.0?classifier=sources
+- pkg:maven/fr.marcwrobel/jbanking@4.1.0
+- pkg:maven/fr.marcwrobel/jbanking@4.1.0?classifier=sources

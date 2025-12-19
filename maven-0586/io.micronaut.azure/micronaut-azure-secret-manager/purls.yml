@@ -2,3 +2,5 @@
 - pkg:maven/io.micronaut.azure/micronaut-azure-secret-manager@3.4.0?classifier=sources
 - pkg:maven/io.micronaut.azure/micronaut-azure-secret-manager@3.5.0?classifier=sources
 - pkg:maven/io.micronaut.azure/micronaut-azure-secret-manager@3.6.0?classifier=sources
+- pkg:maven/io.micronaut.azure/micronaut-azure-secret-manager@3.7.0?classifier=sources
+- pkg:maven/io.micronaut.azure/micronaut-azure-secret-manager@4.0.0?classifier=sources

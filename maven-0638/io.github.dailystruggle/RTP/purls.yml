@@ -32,3 +32,13 @@
 - pkg:maven/io.github.dailystruggle/RTP@1.3.6?classifier=sources
 - pkg:maven/io.github.dailystruggle/RTP@1.3.8
 - pkg:maven/io.github.dailystruggle/RTP@1.3.8?classifier=sources
+- pkg:maven/io.github.dailystruggle/RTP@2.0.0
+- pkg:maven/io.github.dailystruggle/RTP@2.0.0-BETA01
+- pkg:maven/io.github.dailystruggle/RTP@2.0.0-BETA01?classifier=sources
+- pkg:maven/io.github.dailystruggle/RTP@2.0.0-BETA03
+- pkg:maven/io.github.dailystruggle/RTP@2.0.0-BETA03?classifier=sources
+- pkg:maven/io.github.dailystruggle/RTP@2.0.0-BETA04
+- pkg:maven/io.github.dailystruggle/RTP@2.0.0-BETA04?classifier=sources
+- pkg:maven/io.github.dailystruggle/RTP@2.0.0?classifier=sources
+- pkg:maven/io.github.dailystruggle/RTP@2.0.1
+- pkg:maven/io.github.dailystruggle/RTP@2.0.1?classifier=sources

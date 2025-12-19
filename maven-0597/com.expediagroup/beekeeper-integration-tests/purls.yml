@@ -21,8 +21,12 @@
 - pkg:maven/com.expediagroup/beekeeper-integration-tests@3.4.12
 - pkg:maven/com.expediagroup/beekeeper-integration-tests@3.4.13
 - pkg:maven/com.expediagroup/beekeeper-integration-tests@3.4.14
+- pkg:maven/com.expediagroup/beekeeper-integration-tests@3.4.15
 - pkg:maven/com.expediagroup/beekeeper-integration-tests@3.4.2
 - pkg:maven/com.expediagroup/beekeeper-integration-tests@3.4.3
 - pkg:maven/com.expediagroup/beekeeper-integration-tests@3.4.4
 - pkg:maven/com.expediagroup/beekeeper-integration-tests@3.4.5
 - pkg:maven/com.expediagroup/beekeeper-integration-tests@3.4.9
+- pkg:maven/com.expediagroup/beekeeper-integration-tests@3.5.0
+- pkg:maven/com.expediagroup/beekeeper-integration-tests@3.5.1
+- pkg:maven/com.expediagroup/beekeeper-integration-tests@3.5.2

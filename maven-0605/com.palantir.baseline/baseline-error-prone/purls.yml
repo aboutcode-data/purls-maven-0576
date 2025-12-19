@@ -376,6 +376,8 @@
 - pkg:maven/com.palantir.baseline/baseline-error-prone@4.181.0?classifier=sources
 - pkg:maven/com.palantir.baseline/baseline-error-prone@4.182.0?classifier=sources
 - pkg:maven/com.palantir.baseline/baseline-error-prone@4.183.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-error-prone@4.184.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-error-prone@4.185.0?classifier=sources
 - pkg:maven/com.palantir.baseline/baseline-error-prone@4.19.0?classifier=sources
 - pkg:maven/com.palantir.baseline/baseline-error-prone@4.2.0?classifier=sources
 - pkg:maven/com.palantir.baseline/baseline-error-prone@4.20.0?classifier=sources

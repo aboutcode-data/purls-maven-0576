@@ -32,4 +32,7 @@
 - pkg:maven/com.google.devtools.ksp/symbol-processing-gradle-plugin@1.7.20-RC-1.0.6?classifier=sources
 - pkg:maven/com.google.devtools.ksp/symbol-processing-gradle-plugin@1.7.21-1.0.8?classifier=sources
 - pkg:maven/com.google.devtools.ksp/symbol-processing-gradle-plugin@1.7.22-1.0.8?classifier=sources
+- pkg:maven/com.google.devtools.ksp/symbol-processing-gradle-plugin@1.8.0-1.0.8?classifier=sources
 - pkg:maven/com.google.devtools.ksp/symbol-processing-gradle-plugin@1.8.0-Beta-1.0.8?classifier=sources
+- pkg:maven/com.google.devtools.ksp/symbol-processing-gradle-plugin@1.8.0-RC-1.0.8?classifier=sources
+- pkg:maven/com.google.devtools.ksp/symbol-processing-gradle-plugin@1.8.0-RC2-1.0.8?classifier=sources

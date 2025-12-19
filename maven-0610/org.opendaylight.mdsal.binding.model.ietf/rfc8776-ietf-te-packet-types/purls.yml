@@ -3,7 +3,16 @@
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8776-ietf-te-packet-types@10.0.1?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8776-ietf-te-packet-types@10.0.2?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8776-ietf-te-packet-types@10.0.3?classifier=sources
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8776-ietf-te-packet-types@10.0.4?classifier=sources
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8776-ietf-te-packet-types@10.0.5?classifier=sources
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8776-ietf-te-packet-types@10.0.6
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8776-ietf-te-packet-types@10.0.6?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8776-ietf-te-packet-types@11.0.0?classifier=sources
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8776-ietf-te-packet-types@11.0.1?classifier=sources
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8776-ietf-te-packet-types@11.0.2
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8776-ietf-te-packet-types@11.0.2?classifier=sources
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8776-ietf-te-packet-types@11.0.3
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8776-ietf-te-packet-types@11.0.3?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8776-ietf-te-packet-types@7.0.0
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8776-ietf-te-packet-types@7.0.0?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8776-ietf-te-packet-types@7.0.1
@@ -63,3 +72,4 @@
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8776-ietf-te-packet-types@9.0.4?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8776-ietf-te-packet-types@9.0.5?classifier=sources
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8776-ietf-te-packet-types@9.0.6?classifier=sources
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc8776-ietf-te-packet-types@9.0.7?classifier=sources

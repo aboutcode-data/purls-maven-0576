@@ -1,0 +1,2 @@
+- pkg:maven/top.xystudio.apishield/apishield-spring-boot-starter@0.0.1-beta.1
+- pkg:maven/top.xystudio.apishield/apishield-spring-boot-starter@0.0.1-beta.1?classifier=sources

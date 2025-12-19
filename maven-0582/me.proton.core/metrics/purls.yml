@@ -37,3 +37,6 @@
 - pkg:maven/me.proton.core/metrics@9.4.1?classifier=sources
 - pkg:maven/me.proton.core/metrics@9.5.0?classifier=sources
 - pkg:maven/me.proton.core/metrics@9.6.0?classifier=sources
+- pkg:maven/me.proton.core/metrics@9.7.0?classifier=sources
+- pkg:maven/me.proton.core/metrics@9.7.1?classifier=sources
+- pkg:maven/me.proton.core/metrics@9.8.0?classifier=sources

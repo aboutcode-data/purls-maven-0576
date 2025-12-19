@@ -64,3 +64,5 @@
 - pkg:maven/org.pac4j/spring-security-pac4j@7.0.4?classifier=sources
 - pkg:maven/org.pac4j/spring-security-pac4j@8.0.0
 - pkg:maven/org.pac4j/spring-security-pac4j@8.0.0?classifier=sources
+- pkg:maven/org.pac4j/spring-security-pac4j@9.0.0
+- pkg:maven/org.pac4j/spring-security-pac4j@9.0.0?classifier=sources

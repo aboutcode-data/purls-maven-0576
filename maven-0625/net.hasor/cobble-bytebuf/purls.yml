@@ -1,0 +1,4 @@
+- pkg:maven/net.hasor/cobble-bytebuf@4.5.0
+- pkg:maven/net.hasor/cobble-bytebuf@4.5.0?classifier=sources
+- pkg:maven/net.hasor/cobble-bytebuf@4.5.1
+- pkg:maven/net.hasor/cobble-bytebuf@4.5.1?classifier=sources

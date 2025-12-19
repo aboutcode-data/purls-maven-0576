@@ -8,3 +8,7 @@
 - pkg:maven/com.thesamet.scalapb.zio-grpc/zio-grpc-core_3@0.6.0-test4?classifier=sources
 - pkg:maven/com.thesamet.scalapb.zio-grpc/zio-grpc-core_3@0.6.0-test5
 - pkg:maven/com.thesamet.scalapb.zio-grpc/zio-grpc-core_3@0.6.0-test5?classifier=sources
+- pkg:maven/com.thesamet.scalapb.zio-grpc/zio-grpc-core_3@0.6.0-test6
+- pkg:maven/com.thesamet.scalapb.zio-grpc/zio-grpc-core_3@0.6.0-test6?classifier=sources
+- pkg:maven/com.thesamet.scalapb.zio-grpc/zio-grpc-core_3@0.6.0-test7
+- pkg:maven/com.thesamet.scalapb.zio-grpc/zio-grpc-core_3@0.6.0-test7?classifier=sources

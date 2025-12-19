@@ -57,6 +57,12 @@
 - pkg:maven/io.rtr/conduit@1.35?classifier=sources
 - pkg:maven/io.rtr/conduit@1.36
 - pkg:maven/io.rtr/conduit@1.36?classifier=sources
+- pkg:maven/io.rtr/conduit@1.37
+- pkg:maven/io.rtr/conduit@1.37?classifier=sources
+- pkg:maven/io.rtr/conduit@1.38
+- pkg:maven/io.rtr/conduit@1.38?classifier=sources
+- pkg:maven/io.rtr/conduit@1.39
+- pkg:maven/io.rtr/conduit@1.39?classifier=sources
 - pkg:maven/io.rtr/conduit@1.3?classifier=sources
 - pkg:maven/io.rtr/conduit@1.4
 - pkg:maven/io.rtr/conduit@1.4?classifier=sources

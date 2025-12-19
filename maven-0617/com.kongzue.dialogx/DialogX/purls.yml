@@ -1,0 +1,6 @@
+- pkg:maven/com.kongzue.dialogx/DialogX@0.0.47.beta13?classifier=sources
+- pkg:maven/com.kongzue.dialogx/DialogX@0.0.47.beta14.r1?classifier=sources
+- pkg:maven/com.kongzue.dialogx/DialogX@0.0.47.beta14.r2?classifier=sources
+- pkg:maven/com.kongzue.dialogx/DialogX@0.0.47.beta14?classifier=sources
+- pkg:maven/com.kongzue.dialogx/DialogX@0.0.47.beta15?classifier=sources
+- pkg:maven/com.kongzue.dialogx/DialogX@0.0.47?classifier=sources
