@@ -1,0 +1,6 @@
+- pkg:maven/net.xdob.rrd4j/rrd4j@3.8.2
+- pkg:maven/net.xdob.rrd4j/rrd4j@3.8.2?classifier=sources
+- pkg:maven/net.xdob.rrd4j/rrd4j@3.8.3
+- pkg:maven/net.xdob.rrd4j/rrd4j@3.8.3?classifier=sources
+- pkg:maven/net.xdob.rrd4j/rrd4j@3.8.4
+- pkg:maven/net.xdob.rrd4j/rrd4j@3.8.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/ch.ubique.android/djinni-support-lib@0.1.0?classifier=sources
+- pkg:maven/ch.ubique.android/djinni-support-lib@1.0.0?classifier=sources

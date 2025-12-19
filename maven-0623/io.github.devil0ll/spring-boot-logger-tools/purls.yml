@@ -1,0 +1,4 @@
+- pkg:maven/io.github.devil0ll/spring-boot-logger-tools@1.0.0
+- pkg:maven/io.github.devil0ll/spring-boot-logger-tools@1.0.0?classifier=sources
+- pkg:maven/io.github.devil0ll/spring-boot-logger-tools@1.0.1
+- pkg:maven/io.github.devil0ll/spring-boot-logger-tools@1.0.1?classifier=sources

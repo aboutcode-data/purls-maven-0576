@@ -1,0 +1,2 @@
+- pkg:maven/io.github.Spatio-Temporal-Lab/cupid-shaded-avatica-core@1.17.0
+- pkg:maven/io.github.Spatio-Temporal-Lab/cupid-shaded-avatica-core@1.17.0?classifier=sources

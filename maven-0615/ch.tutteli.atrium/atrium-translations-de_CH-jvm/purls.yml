@@ -1,0 +1,2 @@
+- pkg:maven/ch.tutteli.atrium/atrium-translations-de_CH-jvm@1.0.0-RC2?classifier=sources
+- pkg:maven/ch.tutteli.atrium/atrium-translations-de_CH-jvm@1.0.0?classifier=sources

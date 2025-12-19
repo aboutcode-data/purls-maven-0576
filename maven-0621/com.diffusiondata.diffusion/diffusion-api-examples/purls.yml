@@ -1,0 +1,4 @@
+- pkg:maven/com.diffusiondata.diffusion/diffusion-api-examples@6.8.0
+- pkg:maven/com.diffusiondata.diffusion/diffusion-api-examples@6.8.0?classifier=sources
+- pkg:maven/com.diffusiondata.diffusion/diffusion-api-examples@6.9.0
+- pkg:maven/com.diffusiondata.diffusion/diffusion-api-examples@6.9.0?classifier=sources

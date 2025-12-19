@@ -1,0 +1,6 @@
+- pkg:maven/de.tototec/de.tobiasroeser.mill.aspectj-api_mill0.11_2.13@0.4.0-40-6570ab
+- pkg:maven/de.tototec/de.tobiasroeser.mill.aspectj-api_mill0.11_2.13@0.4.0-40-6570ab?classifier=sources
+- pkg:maven/de.tototec/de.tobiasroeser.mill.aspectj-api_mill0.11_2.13@0.4.0-41-4672c8
+- pkg:maven/de.tototec/de.tobiasroeser.mill.aspectj-api_mill0.11_2.13@0.4.0-41-4672c8?classifier=sources
+- pkg:maven/de.tototec/de.tobiasroeser.mill.aspectj-api_mill0.11_2.13@0.5.0
+- pkg:maven/de.tototec/de.tobiasroeser.mill.aspectj-api_mill0.11_2.13@0.5.0?classifier=sources

@@ -72,6 +72,8 @@
 - pkg:maven/org.http4s/http4s-prometheus-metrics_3@0.24.2?classifier=sources
 - pkg:maven/org.http4s/http4s-prometheus-metrics_3@0.24.3
 - pkg:maven/org.http4s/http4s-prometheus-metrics_3@0.24.3?classifier=sources
+- pkg:maven/org.http4s/http4s-prometheus-metrics_3@0.24.4
+- pkg:maven/org.http4s/http4s-prometheus-metrics_3@0.24.4?classifier=sources
 - pkg:maven/org.http4s/http4s-prometheus-metrics_3@1.0.0-M22
 - pkg:maven/org.http4s/http4s-prometheus-metrics_3@1.0.0-M22?classifier=sources
 - pkg:maven/org.http4s/http4s-prometheus-metrics_3@1.0.0-M23

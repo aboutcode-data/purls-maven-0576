@@ -1,0 +1,4 @@
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osmanagementhub@2.66.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osmanagementhub@2.66.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osmanagementhub@3.18.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-osmanagementhub@3.18.0?classifier=sources

@@ -6,3 +6,4 @@
 - pkg:maven/me.archinamon/file-io@1.3.4?classifier=sources
 - pkg:maven/me.archinamon/file-io@1.3.5?classifier=sources
 - pkg:maven/me.archinamon/file-io@1.3.6?classifier=sources
+- pkg:maven/me.archinamon/file-io@1.3.7?classifier=sources

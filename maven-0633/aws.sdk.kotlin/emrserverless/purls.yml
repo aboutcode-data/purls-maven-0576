@@ -38,3 +38,7 @@
 - pkg:maven/aws.sdk.kotlin/emrserverless@0.22.0-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/emrserverless@0.22.1-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/emrserverless@0.23.0-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/emrserverless@0.24.0-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/emrserverless@0.25.0-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/emrserverless@0.26.0-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/emrserverless@0.26.1-beta?classifier=sources

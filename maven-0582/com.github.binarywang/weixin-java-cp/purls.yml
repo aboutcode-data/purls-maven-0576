@@ -482,3 +482,5 @@
 - pkg:maven/com.github.binarywang/weixin-java-cp@4.4.9.B?classifier=sources
 - pkg:maven/com.github.binarywang/weixin-java-cp@4.5.0
 - pkg:maven/com.github.binarywang/weixin-java-cp@4.5.0?classifier=sources
+- pkg:maven/com.github.binarywang/weixin-java-cp@4.5.1.B
+- pkg:maven/com.github.binarywang/weixin-java-cp@4.5.1.B?classifier=sources

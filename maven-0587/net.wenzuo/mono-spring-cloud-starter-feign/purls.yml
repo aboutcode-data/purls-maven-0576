@@ -1,0 +1,2 @@
+- pkg:maven/net.wenzuo/mono-spring-cloud-starter-feign@1.0.0
+- pkg:maven/net.wenzuo/mono-spring-cloud-starter-feign@1.0.0?classifier=sources

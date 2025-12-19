@@ -17,3 +17,4 @@
 - pkg:maven/com.newrelic.logging/dropwizard@2.4.0?classifier=sources
 - pkg:maven/com.newrelic.logging/dropwizard@2.5.0?classifier=sources
 - pkg:maven/com.newrelic.logging/dropwizard@2.6.0?classifier=sources
+- pkg:maven/com.newrelic.logging/dropwizard@3.0.0?classifier=sources

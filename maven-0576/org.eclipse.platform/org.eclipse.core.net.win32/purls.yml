@@ -2,3 +2,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.core.net.win32@1.0.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.core.net.win32@1.0.100
 - pkg:maven/org.eclipse.platform/org.eclipse.core.net.win32@1.0.100?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.core.net.win32@1.1.0
+- pkg:maven/org.eclipse.platform/org.eclipse.core.net.win32@1.1.0?classifier=sources

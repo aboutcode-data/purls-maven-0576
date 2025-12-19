@@ -34,3 +34,5 @@
 - pkg:maven/com.google.apis/google-api-services-verifiedaccess@v2-rev20221004-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-verifiedaccess@v2-rev20230425-2.0.0
 - pkg:maven/com.google.apis/google-api-services-verifiedaccess@v2-rev20230425-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-verifiedaccess@v2-rev20230530-2.0.0
+- pkg:maven/com.google.apis/google-api-services-verifiedaccess@v2-rev20230530-2.0.0?classifier=sources

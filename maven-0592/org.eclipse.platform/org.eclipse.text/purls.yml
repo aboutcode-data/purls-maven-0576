@@ -18,6 +18,8 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.text@3.12.200?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.text@3.12.300
 - pkg:maven/org.eclipse.platform/org.eclipse.text@3.12.300?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.text@3.13.0
+- pkg:maven/org.eclipse.platform/org.eclipse.text@3.13.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.text@3.6.0
 - pkg:maven/org.eclipse.platform/org.eclipse.text@3.6.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.text@3.6.100

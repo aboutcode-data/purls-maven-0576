@@ -2,3 +2,4 @@
 - pkg:maven/io.github.bkoehm/reliable-tx-spring@0.10?classifier=sources
 - pkg:maven/io.github.bkoehm/reliable-tx-spring@0.11?classifier=sources
 - pkg:maven/io.github.bkoehm/reliable-tx-spring@1.0?classifier=sources
+- pkg:maven/io.github.bkoehm/reliable-tx-spring@1.1?classifier=sources

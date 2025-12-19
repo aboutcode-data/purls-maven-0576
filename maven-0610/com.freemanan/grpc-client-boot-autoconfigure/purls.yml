@@ -1,2 +1,7 @@
 - pkg:maven/com.freemanan/grpc-client-boot-autoconfigure@2.0?classifier=sources
+- pkg:maven/com.freemanan/grpc-client-boot-autoconfigure@2.1.0-RC1?classifier=sources
+- pkg:maven/com.freemanan/grpc-client-boot-autoconfigure@2.1.0-RC2?classifier=sources
 - pkg:maven/com.freemanan/grpc-client-boot-autoconfigure@3.0.0?classifier=sources
+- pkg:maven/com.freemanan/grpc-client-boot-autoconfigure@3.1.0-RC1?classifier=sources
+- pkg:maven/com.freemanan/grpc-client-boot-autoconfigure@3.1.0-RC2?classifier=sources
+- pkg:maven/com.freemanan/grpc-client-boot-autoconfigure@3.1.0-RC3?classifier=sources

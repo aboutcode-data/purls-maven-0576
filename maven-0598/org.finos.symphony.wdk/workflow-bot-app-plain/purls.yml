@@ -2,3 +2,16 @@
 - pkg:maven/org.finos.symphony.wdk/workflow-bot-app-plain@1.5.0-TEST?classifier=sources
 - pkg:maven/org.finos.symphony.wdk/workflow-bot-app-plain@1.5.0?classifier=sources
 - pkg:maven/org.finos.symphony.wdk/workflow-bot-app-plain@1.5.1?classifier=sources
+- pkg:maven/org.finos.symphony.wdk/workflow-bot-app-plain@1.6.0-pre1?classifier=sources
+- pkg:maven/org.finos.symphony.wdk/workflow-bot-app-plain@1.6.0-pre2?classifier=sources
+- pkg:maven/org.finos.symphony.wdk/workflow-bot-app-plain@1.6.0-pre3?classifier=sources
+- pkg:maven/org.finos.symphony.wdk/workflow-bot-app-plain@1.6.0-pre4?classifier=sources
+- pkg:maven/org.finos.symphony.wdk/workflow-bot-app-plain@1.6.0-pre5?classifier=sources
+- pkg:maven/org.finos.symphony.wdk/workflow-bot-app-plain@1.6.0-pre6?classifier=sources
+- pkg:maven/org.finos.symphony.wdk/workflow-bot-app-plain@1.6.0-pre7?classifier=sources
+- pkg:maven/org.finos.symphony.wdk/workflow-bot-app-plain@1.6.0-pre?classifier=sources
+- pkg:maven/org.finos.symphony.wdk/workflow-bot-app-plain@1.6.0?classifier=sources
+- pkg:maven/org.finos.symphony.wdk/workflow-bot-app-plain@1.6.1?classifier=sources
+- pkg:maven/org.finos.symphony.wdk/workflow-bot-app-plain@1.6.2?classifier=sources
+- pkg:maven/org.finos.symphony.wdk/workflow-bot-app-plain@1.6.3-pre?classifier=sources
+- pkg:maven/org.finos.symphony.wdk/workflow-bot-app-plain@1.6.3?classifier=sources

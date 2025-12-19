@@ -1,0 +1,6 @@
+- pkg:maven/io.github.devil-ycl/ycl-spring-boot-common@2.3.20230618
+- pkg:maven/io.github.devil-ycl/ycl-spring-boot-common@2.3.20230618?classifier=sources
+- pkg:maven/io.github.devil-ycl/ycl-spring-boot-common@SB.2.3-23.04.01
+- pkg:maven/io.github.devil-ycl/ycl-spring-boot-common@SB.2.3-23.04.01?classifier=sources
+- pkg:maven/io.github.devil-ycl/ycl-spring-boot-common@SB.3.0-23.06.15
+- pkg:maven/io.github.devil-ycl/ycl-spring-boot-common@SB.3.0-23.06.15?classifier=sources

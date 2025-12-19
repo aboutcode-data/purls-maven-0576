@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/material-ui__unstyled@5.0.0-alpha.24
 - pkg:maven/org.webjars.npm/material-ui__unstyled@5.0.0-alpha.24?classifier=sources
+- pkg:maven/org.webjars.npm/material-ui__unstyled@5.0.0-alpha.44
+- pkg:maven/org.webjars.npm/material-ui__unstyled@5.0.0-alpha.44?classifier=sources

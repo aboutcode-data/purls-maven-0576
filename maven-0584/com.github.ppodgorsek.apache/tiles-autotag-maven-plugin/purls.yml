@@ -1,0 +1,2 @@
+- pkg:maven/com.github.ppodgorsek.apache/tiles-autotag-maven-plugin@2.0
+- pkg:maven/com.github.ppodgorsek.apache/tiles-autotag-maven-plugin@2.0?classifier=sources

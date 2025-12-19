@@ -216,3 +216,13 @@
 - pkg:maven/io.github.q3769/conseq4j@20230510.20230513.0?classifier=sources
 - pkg:maven/io.github.q3769/conseq4j@20230510.20230513.20230518
 - pkg:maven/io.github.q3769/conseq4j@20230510.20230513.20230518?classifier=sources
+- pkg:maven/io.github.q3769/conseq4j@20230520.0.0
+- pkg:maven/io.github.q3769/conseq4j@20230520.0.0?classifier=sources
+- pkg:maven/io.github.q3769/conseq4j@20230520.0.20230608
+- pkg:maven/io.github.q3769/conseq4j@20230520.0.20230608?classifier=sources
+- pkg:maven/io.github.q3769/conseq4j@20230520.0.20230617
+- pkg:maven/io.github.q3769/conseq4j@20230520.0.20230617?classifier=sources
+- pkg:maven/io.github.q3769/conseq4j@20230618.0.0
+- pkg:maven/io.github.q3769/conseq4j@20230618.0.0?classifier=sources
+- pkg:maven/io.github.q3769/conseq4j@20230619.0.0
+- pkg:maven/io.github.q3769/conseq4j@20230619.0.0?classifier=sources

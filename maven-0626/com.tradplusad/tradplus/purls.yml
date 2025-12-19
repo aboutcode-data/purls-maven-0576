@@ -233,6 +233,7 @@
 - pkg:maven/com.tradplusad/tradplus@9.3.30.1?type=aar
 - pkg:maven/com.tradplusad/tradplus@9.4.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus@9.4.0?type=aar
+- pkg:maven/com.tradplusad/tradplus@9.4.10.1?type=aar
 - pkg:maven/com.tradplusad/tradplus@9.5.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus@9.5.0?type=aar
 - pkg:maven/com.tradplusad/tradplus@9.6.0.1?type=aar
@@ -244,3 +245,5 @@
 - pkg:maven/com.tradplusad/tradplus@9.7.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus@9.7.10.1?type=aar
 - pkg:maven/com.tradplusad/tradplus@9.7.10?type=aar
+- pkg:maven/com.tradplusad/tradplus@9.8.0.1?type=aar
+- pkg:maven/com.tradplusad/tradplus@9.8.0?type=aar

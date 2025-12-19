@@ -326,6 +326,8 @@
 - pkg:maven/org.kie/kie-internal@7.72.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-internal@7.73.0.Final
 - pkg:maven/org.kie/kie-internal@7.73.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-internal@7.74.0.Final
+- pkg:maven/org.kie/kie-internal@7.74.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-internal@7.8.0.Final
 - pkg:maven/org.kie/kie-internal@7.8.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-internal@7.9.0.Final
@@ -394,3 +396,5 @@
 - pkg:maven/org.kie/kie-internal@8.38.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-internal@8.39.0.Final
 - pkg:maven/org.kie/kie-internal@8.39.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-internal@8.40.0.Final
+- pkg:maven/org.kie/kie-internal@8.40.0.Final?classifier=sources

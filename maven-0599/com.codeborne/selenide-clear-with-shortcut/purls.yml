@@ -13,6 +13,9 @@
 - pkg:maven/com.codeborne/selenide-clear-with-shortcut@6.13.0?classifier=sources
 - pkg:maven/com.codeborne/selenide-clear-with-shortcut@6.13.1?classifier=sources
 - pkg:maven/com.codeborne/selenide-clear-with-shortcut@6.14.0?classifier=sources
+- pkg:maven/com.codeborne/selenide-clear-with-shortcut@6.14.1?classifier=sources
+- pkg:maven/com.codeborne/selenide-clear-with-shortcut@6.15.0?classifier=sources
+- pkg:maven/com.codeborne/selenide-clear-with-shortcut@6.16.0?classifier=sources
 - pkg:maven/com.codeborne/selenide-clear-with-shortcut@6.6.0?classifier=sources
 - pkg:maven/com.codeborne/selenide-clear-with-shortcut@6.6.1?classifier=sources
 - pkg:maven/com.codeborne/selenide-clear-with-shortcut@6.6.2?classifier=sources

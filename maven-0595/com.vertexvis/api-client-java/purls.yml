@@ -29,3 +29,4 @@
 - pkg:maven/com.vertexvis/api-client-java@0.6.2?classifier=sources
 - pkg:maven/com.vertexvis/api-client-java@0.6.3?classifier=sources
 - pkg:maven/com.vertexvis/api-client-java@0.6.4?classifier=sources
+- pkg:maven/com.vertexvis/api-client-java@0.6.5?classifier=sources

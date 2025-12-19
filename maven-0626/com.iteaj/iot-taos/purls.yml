@@ -40,3 +40,5 @@
 - pkg:maven/com.iteaj/iot-taos@2.5.8?classifier=sources
 - pkg:maven/com.iteaj/iot-taos@2.6.0
 - pkg:maven/com.iteaj/iot-taos@2.6.0?classifier=sources
+- pkg:maven/com.iteaj/iot-taos@3.0.0
+- pkg:maven/com.iteaj/iot-taos@3.0.0?classifier=sources

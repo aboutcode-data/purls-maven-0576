@@ -24,6 +24,12 @@
 - pkg:maven/com.yandex.div/div-pinch-to-zoom@25.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-pinch-to-zoom@25.1.0?classifier=sources
 - pkg:maven/com.yandex.div/div-pinch-to-zoom@25.2.0?classifier=sources
+- pkg:maven/com.yandex.div/div-pinch-to-zoom@25.3.0?classifier=sources
+- pkg:maven/com.yandex.div/div-pinch-to-zoom@25.4.0?classifier=sources
+- pkg:maven/com.yandex.div/div-pinch-to-zoom@25.4.1?classifier=sources
+- pkg:maven/com.yandex.div/div-pinch-to-zoom@25.5.0?classifier=sources
+- pkg:maven/com.yandex.div/div-pinch-to-zoom@25.6.0?classifier=sources
+- pkg:maven/com.yandex.div/div-pinch-to-zoom@25.7.0?classifier=sources
 - pkg:maven/com.yandex.div/div-pinch-to-zoom@5.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-pinch-to-zoom@6.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-pinch-to-zoom@7.0.0?classifier=sources

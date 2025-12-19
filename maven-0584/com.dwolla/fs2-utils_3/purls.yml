@@ -1,0 +1,2 @@
+- pkg:maven/com.dwolla/fs2-utils_3@3.0.0-RC2
+- pkg:maven/com.dwolla/fs2-utils_3@3.0.0-RC2?classifier=sources

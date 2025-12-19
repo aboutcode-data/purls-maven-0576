@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/micromark-util-sanitize-uri@1.2.0
+- pkg:maven/org.webjars.npm/micromark-util-sanitize-uri@1.2.0?classifier=sources

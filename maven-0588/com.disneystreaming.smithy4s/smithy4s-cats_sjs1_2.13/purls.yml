@@ -1,0 +1,4 @@
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_sjs1_2.13@0.18.0-528-d32916a
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_sjs1_2.13@0.18.0-528-d32916a?classifier=sources
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_sjs1_2.13@0.18.0-595-e8a6dc6
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-cats_sjs1_2.13@0.18.0-595-e8a6dc6?classifier=sources

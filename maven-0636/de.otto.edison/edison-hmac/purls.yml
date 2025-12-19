@@ -6,3 +6,4 @@
 - pkg:maven/de.otto.edison/edison-hmac@0.2.3?classifier=sources
 - pkg:maven/de.otto.edison/edison-hmac@0.2.4
 - pkg:maven/de.otto.edison/edison-hmac@0.2.4?classifier=sources
+- pkg:maven/de.otto.edison/edison-hmac@3.0.0?classifier=sources

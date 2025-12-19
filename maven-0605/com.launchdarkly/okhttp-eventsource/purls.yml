@@ -75,3 +75,4 @@
 - pkg:maven/com.launchdarkly/okhttp-eventsource@4.0.0?classifier=sources
 - pkg:maven/com.launchdarkly/okhttp-eventsource@4.0.1?classifier=sources
 - pkg:maven/com.launchdarkly/okhttp-eventsource@4.1.0?classifier=sources
+- pkg:maven/com.launchdarkly/okhttp-eventsource@4.1.1?classifier=sources

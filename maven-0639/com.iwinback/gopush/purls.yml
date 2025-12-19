@@ -1,1 +1,3 @@
 - pkg:maven/com.iwinback/gopush@1.0.0?classifier=sources
+- pkg:maven/com.iwinback/gopush@1.1.0?classifier=sources
+- pkg:maven/com.iwinback/gopush@1.2.0?classifier=sources

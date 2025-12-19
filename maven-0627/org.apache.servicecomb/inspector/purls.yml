@@ -124,3 +124,5 @@
 - pkg:maven/org.apache.servicecomb/inspector@2.8.7?classifier=sources
 - pkg:maven/org.apache.servicecomb/inspector@2.8.8
 - pkg:maven/org.apache.servicecomb/inspector@2.8.8?classifier=sources
+- pkg:maven/org.apache.servicecomb/inspector@2.8.9
+- pkg:maven/org.apache.servicecomb/inspector@2.8.9?classifier=sources

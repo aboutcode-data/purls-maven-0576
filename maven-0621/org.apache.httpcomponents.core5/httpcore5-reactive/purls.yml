@@ -53,4 +53,6 @@
 - pkg:maven/org.apache.httpcomponents.core5/httpcore5-reactive@5.2-beta2?classifier=sources
 - pkg:maven/org.apache.httpcomponents.core5/httpcore5-reactive@5.2.1
 - pkg:maven/org.apache.httpcomponents.core5/httpcore5-reactive@5.2.1?classifier=sources
+- pkg:maven/org.apache.httpcomponents.core5/httpcore5-reactive@5.2.2
+- pkg:maven/org.apache.httpcomponents.core5/httpcore5-reactive@5.2.2?classifier=sources
 - pkg:maven/org.apache.httpcomponents.core5/httpcore5-reactive@5.2?classifier=sources

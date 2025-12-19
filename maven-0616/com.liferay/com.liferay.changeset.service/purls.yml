@@ -275,6 +275,9 @@
 - pkg:maven/com.liferay/com.liferay.changeset.service@3.0.28
 - pkg:maven/com.liferay/com.liferay.changeset.service@3.0.28?classifier=sources
 - pkg:maven/com.liferay/com.liferay.changeset.service@3.0.28?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.changeset.service@3.0.29
+- pkg:maven/com.liferay/com.liferay.changeset.service@3.0.29?classifier=sources
+- pkg:maven/com.liferay/com.liferay.changeset.service@3.0.29?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.changeset.service@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.changeset.service@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.changeset.service@3.0.3
@@ -353,6 +356,9 @@
 - pkg:maven/com.liferay/com.liferay.changeset.service@4.0.25
 - pkg:maven/com.liferay/com.liferay.changeset.service@4.0.25?classifier=sources
 - pkg:maven/com.liferay/com.liferay.changeset.service@4.0.25?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.changeset.service@4.0.26
+- pkg:maven/com.liferay/com.liferay.changeset.service@4.0.26?classifier=sources
+- pkg:maven/com.liferay/com.liferay.changeset.service@4.0.26?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.changeset.service@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.changeset.service@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.changeset.service@4.0.3

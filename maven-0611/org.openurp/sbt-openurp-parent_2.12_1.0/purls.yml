@@ -1,0 +1,2 @@
+- pkg:maven/org.openurp/sbt-openurp-parent_2.12_1.0@0.7.4
+- pkg:maven/org.openurp/sbt-openurp-parent_2.12_1.0@0.7.4?classifier=sources

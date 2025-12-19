@@ -16,3 +16,5 @@
 - pkg:maven/me.aifaq/commons-spring-core@0.8?classifier=sources
 - pkg:maven/me.aifaq/commons-spring-core@0.9
 - pkg:maven/me.aifaq/commons-spring-core@0.9?classifier=sources
+- pkg:maven/me.aifaq/commons-spring-core@2.0.0
+- pkg:maven/me.aifaq/commons-spring-core@2.0.0?classifier=sources

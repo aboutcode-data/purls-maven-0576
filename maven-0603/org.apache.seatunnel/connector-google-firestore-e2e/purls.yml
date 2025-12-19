@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.seatunnel/connector-google-firestore-e2e@2.3.2
+- pkg:maven/org.apache.seatunnel/connector-google-firestore-e2e@2.3.2?classifier=sources

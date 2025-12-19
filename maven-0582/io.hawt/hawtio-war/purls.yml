@@ -78,6 +78,8 @@
 - pkg:maven/io.hawt/hawtio-war@2.17.2?type=war
 - pkg:maven/io.hawt/hawtio-war@2.17.3?classifier=sources
 - pkg:maven/io.hawt/hawtio-war@2.17.3?type=war
+- pkg:maven/io.hawt/hawtio-war@2.17.4?classifier=sources
+- pkg:maven/io.hawt/hawtio-war@2.17.4?type=war
 - pkg:maven/io.hawt/hawtio-war@2.2.0?classifier=sources
 - pkg:maven/io.hawt/hawtio-war@2.2.0?type=war
 - pkg:maven/io.hawt/hawtio-war@2.3.0?classifier=sources
@@ -110,3 +112,7 @@
 - pkg:maven/io.hawt/hawtio-war@3.0-M5?type=war
 - pkg:maven/io.hawt/hawtio-war@3.0-M6?classifier=sources
 - pkg:maven/io.hawt/hawtio-war@3.0-M6?type=war
+- pkg:maven/io.hawt/hawtio-war@3.0-M7?classifier=sources
+- pkg:maven/io.hawt/hawtio-war@3.0-M7?type=war
+- pkg:maven/io.hawt/hawtio-war@3.0-M8?classifier=sources
+- pkg:maven/io.hawt/hawtio-war@3.0-M8?type=war

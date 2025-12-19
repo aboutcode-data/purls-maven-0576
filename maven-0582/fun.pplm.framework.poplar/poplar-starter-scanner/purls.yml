@@ -1,0 +1,6 @@
+- pkg:maven/fun.pplm.framework.poplar/poplar-starter-scanner@1.5.7
+- pkg:maven/fun.pplm.framework.poplar/poplar-starter-scanner@1.5.7?classifier=sources
+- pkg:maven/fun.pplm.framework.poplar/poplar-starter-scanner@1.5.8
+- pkg:maven/fun.pplm.framework.poplar/poplar-starter-scanner@1.5.8?classifier=sources
+- pkg:maven/fun.pplm.framework.poplar/poplar-starter-scanner@1.5.9
+- pkg:maven/fun.pplm.framework.poplar/poplar-starter-scanner@1.5.9?classifier=sources

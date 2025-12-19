@@ -34,3 +34,11 @@
 - pkg:maven/tv.hd3g.commons/env-version@15.2.0?classifier=sources
 - pkg:maven/tv.hd3g.commons/env-version@15.2.1
 - pkg:maven/tv.hd3g.commons/env-version@15.2.1?classifier=sources
+- pkg:maven/tv.hd3g.commons/env-version@16.0.0
+- pkg:maven/tv.hd3g.commons/env-version@16.0.0?classifier=sources
+- pkg:maven/tv.hd3g.commons/env-version@17.0.0
+- pkg:maven/tv.hd3g.commons/env-version@17.0.0?classifier=sources
+- pkg:maven/tv.hd3g.commons/env-version@17.0.1
+- pkg:maven/tv.hd3g.commons/env-version@17.0.1?classifier=sources
+- pkg:maven/tv.hd3g.commons/env-version@17.1.0
+- pkg:maven/tv.hd3g.commons/env-version@17.1.0?classifier=sources
