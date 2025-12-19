@@ -18,3 +18,7 @@
 - pkg:maven/io.gitee.chemors/secure-ext-spring-boot-starter@1.0.3-RELEASE?classifier=sources
 - pkg:maven/io.gitee.chemors/secure-ext-spring-boot-starter@1.0.4-RELEASE
 - pkg:maven/io.gitee.chemors/secure-ext-spring-boot-starter@1.0.4-RELEASE?classifier=sources
+- pkg:maven/io.gitee.chemors/secure-ext-spring-boot-starter@2.0.0-RELEASE
+- pkg:maven/io.gitee.chemors/secure-ext-spring-boot-starter@2.0.0-RELEASE?classifier=sources
+- pkg:maven/io.gitee.chemors/secure-ext-spring-boot-starter@2.0.1-RELEASE
+- pkg:maven/io.gitee.chemors/secure-ext-spring-boot-starter@2.0.1-RELEASE?classifier=sources

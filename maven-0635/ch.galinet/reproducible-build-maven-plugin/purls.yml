@@ -1,0 +1,4 @@
+- pkg:maven/ch.galinet/reproducible-build-maven-plugin@0.15.1
+- pkg:maven/ch.galinet/reproducible-build-maven-plugin@0.15.1?classifier=sources
+- pkg:maven/ch.galinet/reproducible-build-maven-plugin@0.15.2
+- pkg:maven/ch.galinet/reproducible-build-maven-plugin@0.15.2?classifier=sources

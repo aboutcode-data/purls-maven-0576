@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.nifi/nifi-web-client-provider-service-nar@1.18.0?classifier=sources

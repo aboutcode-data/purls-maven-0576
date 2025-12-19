@@ -1,0 +1,1 @@
+- pkg:maven/com.amazonaws/aws-xray-recorder-sdk-lambda@2.12.0?classifier=sources

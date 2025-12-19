@@ -1,0 +1,2 @@
+- pkg:maven/org.lealone/lealone-sql@5.0.0
+- pkg:maven/org.lealone/lealone-sql@5.0.0?classifier=sources

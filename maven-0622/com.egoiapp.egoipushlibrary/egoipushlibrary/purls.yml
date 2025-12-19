@@ -17,3 +17,4 @@
 - pkg:maven/com.egoiapp.egoipushlibrary/egoipushlibrary@3.1.5?classifier=sources
 - pkg:maven/com.egoiapp.egoipushlibrary/egoipushlibrary@4.0.0?classifier=sources
 - pkg:maven/com.egoiapp.egoipushlibrary/egoipushlibrary@4.0.1?classifier=sources
+- pkg:maven/com.egoiapp.egoipushlibrary/egoipushlibrary@4.0.2?classifier=sources

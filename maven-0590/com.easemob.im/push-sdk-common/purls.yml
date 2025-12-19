@@ -1,0 +1,2 @@
+- pkg:maven/com.easemob.im/push-sdk-common@0.1.2.RC0
+- pkg:maven/com.easemob.im/push-sdk-common@0.1.2.RC0?classifier=sources

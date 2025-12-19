@@ -2,3 +2,5 @@
 - pkg:maven/io.github.aliothliu/gabbro-spring-boot-starter@0.0.1-SNAPSHOTS?classifier=sources
 - pkg:maven/io.github.aliothliu/gabbro-spring-boot-starter@0.0.2-SNAPSHOTS
 - pkg:maven/io.github.aliothliu/gabbro-spring-boot-starter@0.0.2-SNAPSHOTS?classifier=sources
+- pkg:maven/io.github.aliothliu/gabbro-spring-boot-starter@0.0.3-SNAPSHOTS
+- pkg:maven/io.github.aliothliu/gabbro-spring-boot-starter@0.0.3-SNAPSHOTS?classifier=sources

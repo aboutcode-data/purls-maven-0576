@@ -2,3 +2,5 @@
 - pkg:maven/org.wso2.samples.is/org.wso2.custom.auth.functions@4.5.0?classifier=sources
 - pkg:maven/org.wso2.samples.is/org.wso2.custom.auth.functions@4.5.1
 - pkg:maven/org.wso2.samples.is/org.wso2.custom.auth.functions@4.5.1?classifier=sources
+- pkg:maven/org.wso2.samples.is/org.wso2.custom.auth.functions@4.5.2
+- pkg:maven/org.wso2.samples.is/org.wso2.custom.auth.functions@4.5.2?classifier=sources

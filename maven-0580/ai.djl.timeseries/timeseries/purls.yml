@@ -1,0 +1,2 @@
+- pkg:maven/ai.djl.timeseries/timeseries@0.19.0
+- pkg:maven/ai.djl.timeseries/timeseries@0.19.0?classifier=sources

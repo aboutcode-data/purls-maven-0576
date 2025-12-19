@@ -19,4 +19,8 @@
 - pkg:maven/com.iussoft/iussoft-client@3.3.22082909?classifier=sources
 - pkg:maven/com.iussoft/iussoft-client@3.3.22090209
 - pkg:maven/com.iussoft/iussoft-client@3.3.22090209?classifier=sources
+- pkg:maven/com.iussoft/iussoft-client@3.3.22091410
+- pkg:maven/com.iussoft/iussoft-client@3.3.22091410?classifier=sources
+- pkg:maven/com.iussoft/iussoft-client@3.3.22092310
+- pkg:maven/com.iussoft/iussoft-client@3.3.22092310?classifier=sources
 - pkg:maven/com.iussoft/iussoft-client@3.3.2?classifier=sources

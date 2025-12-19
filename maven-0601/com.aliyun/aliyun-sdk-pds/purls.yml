@@ -52,3 +52,7 @@
 - pkg:maven/com.aliyun/aliyun-sdk-pds@0.3.5?classifier=sources
 - pkg:maven/com.aliyun/aliyun-sdk-pds@0.3.6
 - pkg:maven/com.aliyun/aliyun-sdk-pds@0.3.6?classifier=sources
+- pkg:maven/com.aliyun/aliyun-sdk-pds@0.3.9
+- pkg:maven/com.aliyun/aliyun-sdk-pds@0.3.9?classifier=sources
+- pkg:maven/com.aliyun/aliyun-sdk-pds@0.4.0
+- pkg:maven/com.aliyun/aliyun-sdk-pds@0.4.0?classifier=sources

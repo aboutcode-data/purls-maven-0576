@@ -2,3 +2,5 @@
 - pkg:maven/tech.neander/langoustine-app_sjs1_3@0.0.15?classifier=sources
 - pkg:maven/tech.neander/langoustine-app_sjs1_3@0.0.16
 - pkg:maven/tech.neander/langoustine-app_sjs1_3@0.0.16?classifier=sources
+- pkg:maven/tech.neander/langoustine-app_sjs1_3@0.0.17
+- pkg:maven/tech.neander/langoustine-app_sjs1_3@0.0.17?classifier=sources

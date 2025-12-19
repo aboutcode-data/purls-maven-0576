@@ -6,3 +6,4 @@
 - pkg:maven/com.scality/vaultclient@0.0.1?classifier=sources
 - pkg:maven/com.scality/vaultclient@0.5.0
 - pkg:maven/com.scality/vaultclient@0.5.0?classifier=sources
+- pkg:maven/com.scality/vaultclient@0.7.0?classifier=sources

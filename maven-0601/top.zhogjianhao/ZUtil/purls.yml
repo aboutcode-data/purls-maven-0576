@@ -58,3 +58,5 @@
 - pkg:maven/top.zhogjianhao/ZUtil@1.8.2?classifier=sources
 - pkg:maven/top.zhogjianhao/ZUtil@1.8.3
 - pkg:maven/top.zhogjianhao/ZUtil@1.8.3?classifier=sources
+- pkg:maven/top.zhogjianhao/ZUtil@1.8.4
+- pkg:maven/top.zhogjianhao/ZUtil@1.8.4?classifier=sources

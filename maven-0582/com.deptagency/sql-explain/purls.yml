@@ -1,0 +1,2 @@
+- pkg:maven/com.deptagency/sql-explain@0.0.2
+- pkg:maven/com.deptagency/sql-explain@0.0.2?classifier=sources

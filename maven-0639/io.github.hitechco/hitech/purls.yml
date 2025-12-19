@@ -5,3 +5,7 @@
 - pkg:maven/io.github.hitechco/hitech@1.0.2.18?classifier=sources
 - pkg:maven/io.github.hitechco/hitech@1.0.2.20?classifier=sources
 - pkg:maven/io.github.hitechco/hitech@1.0.2.21?classifier=sources
+- pkg:maven/io.github.hitechco/hitech@1.0.2.25?classifier=sources
+- pkg:maven/io.github.hitechco/hitech@1.0.2.26?classifier=sources
+- pkg:maven/io.github.hitechco/hitech@1.0.2.28?classifier=sources
+- pkg:maven/io.github.hitechco/hitech@1.0.2.30?classifier=sources

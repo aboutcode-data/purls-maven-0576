@@ -1,1 +1,2 @@
 - pkg:maven/com.intershop.gradle.buildinfo/buildinfo-gradle-plugin@2.4.2?classifier=sources
+- pkg:maven/com.intershop.gradle.buildinfo/buildinfo-gradle-plugin@6.2.0?classifier=sources

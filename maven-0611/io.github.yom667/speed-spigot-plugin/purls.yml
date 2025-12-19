@@ -1,0 +1,2 @@
+- pkg:maven/io.github.yom667/speed-spigot-plugin@0.1?classifier=sources
+- pkg:maven/io.github.yom667/speed-spigot-plugin@0.2?classifier=sources

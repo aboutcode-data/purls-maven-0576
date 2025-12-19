@@ -1,0 +1,2 @@
+- pkg:maven/com.spotify/scio-grpc_2.13@0.12.0-RC2
+- pkg:maven/com.spotify/scio-grpc_2.13@0.12.0-RC2?classifier=sources

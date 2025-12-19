@@ -1,0 +1,4 @@
+- pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-xdocreport@1.6.7
+- pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-xdocreport@1.6.7?classifier=sources
+- pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-xdocreport@1.7.0
+- pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-xdocreport@1.7.0?classifier=sources

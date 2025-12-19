@@ -25,3 +25,4 @@
 - pkg:maven/org.projectnessie/nessie-quarkus-common@0.41.0?classifier=sources
 - pkg:maven/org.projectnessie/nessie-quarkus-common@0.42.0?classifier=sources
 - pkg:maven/org.projectnessie/nessie-quarkus-common@0.43.0?classifier=sources
+- pkg:maven/org.projectnessie/nessie-quarkus-common@0.44.0?classifier=sources

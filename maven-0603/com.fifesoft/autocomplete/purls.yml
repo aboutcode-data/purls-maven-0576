@@ -45,5 +45,6 @@
 - pkg:maven/com.fifesoft/autocomplete@3.1.4?classifier=sources
 - pkg:maven/com.fifesoft/autocomplete@3.1.5?classifier=sources
 - pkg:maven/com.fifesoft/autocomplete@3.2.0?classifier=sources
+- pkg:maven/com.fifesoft/autocomplete@3.3.0?classifier=sources
 - pkg:maven/com.fifesoft/autocomplete@r239
 - pkg:maven/com.fifesoft/autocomplete@r239?classifier=sources

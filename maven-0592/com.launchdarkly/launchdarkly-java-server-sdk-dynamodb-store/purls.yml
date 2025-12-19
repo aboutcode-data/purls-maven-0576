@@ -10,3 +10,4 @@
 - pkg:maven/com.launchdarkly/launchdarkly-java-server-sdk-dynamodb-store@3.0.0?classifier=sources
 - pkg:maven/com.launchdarkly/launchdarkly-java-server-sdk-dynamodb-store@3.1.0?classifier=sources
 - pkg:maven/com.launchdarkly/launchdarkly-java-server-sdk-dynamodb-store@3.1.1?classifier=sources
+- pkg:maven/com.launchdarkly/launchdarkly-java-server-sdk-dynamodb-store@4.0.0?classifier=sources

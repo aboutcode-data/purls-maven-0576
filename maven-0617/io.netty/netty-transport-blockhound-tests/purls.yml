@@ -36,3 +36,6 @@
 - pkg:maven/io.netty/netty-transport-blockhound-tests@4.1.79.Final
 - pkg:maven/io.netty/netty-transport-blockhound-tests@4.1.80.Final
 - pkg:maven/io.netty/netty-transport-blockhound-tests@4.1.81.Final
+- pkg:maven/io.netty/netty-transport-blockhound-tests@4.1.82.Final
+- pkg:maven/io.netty/netty-transport-blockhound-tests@4.1.83.Final
+- pkg:maven/io.netty/netty-transport-blockhound-tests@4.1.84.Final

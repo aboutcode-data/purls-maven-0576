@@ -20,3 +20,7 @@
 - pkg:maven/com.io7m.xstructural/com.io7m.xstructural.documentation@1.4.0?type=zip
 - pkg:maven/com.io7m.xstructural/com.io7m.xstructural.documentation@1.5.0?classifier=sources
 - pkg:maven/com.io7m.xstructural/com.io7m.xstructural.documentation@1.5.0?type=zip
+- pkg:maven/com.io7m.xstructural/com.io7m.xstructural.documentation@1.6.0?classifier=sources
+- pkg:maven/com.io7m.xstructural/com.io7m.xstructural.documentation@1.6.0?type=zip
+- pkg:maven/com.io7m.xstructural/com.io7m.xstructural.documentation@1.7.0?classifier=sources
+- pkg:maven/com.io7m.xstructural/com.io7m.xstructural.documentation@1.7.1?classifier=sources

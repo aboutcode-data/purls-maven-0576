@@ -1,3 +1,6 @@
 - pkg:maven/com.yandex.android/mobileads-mediation@5.2.0.0?classifier=sources
 - pkg:maven/com.yandex.android/mobileads-mediation@5.2.1.0?classifier=sources
 - pkg:maven/com.yandex.android/mobileads-mediation@5.3.0.0?classifier=sources
+- pkg:maven/com.yandex.android/mobileads-mediation@5.3.1.0?classifier=sources
+- pkg:maven/com.yandex.android/mobileads-mediation@5.3.2.0?classifier=sources
+- pkg:maven/com.yandex.android/mobileads-mediation@5.3.2.1?classifier=sources

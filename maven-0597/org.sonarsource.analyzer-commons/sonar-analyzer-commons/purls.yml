@@ -51,3 +51,4 @@
 - pkg:maven/org.sonarsource.analyzer-commons/sonar-analyzer-commons@1.8.0.295?classifier=sources
 - pkg:maven/org.sonarsource.analyzer-commons/sonar-analyzer-commons@1.9.0.327
 - pkg:maven/org.sonarsource.analyzer-commons/sonar-analyzer-commons@1.9.0.327?classifier=sources
+- pkg:maven/org.sonarsource.analyzer-commons/sonar-analyzer-commons@2.0.0.1075?classifier=sources

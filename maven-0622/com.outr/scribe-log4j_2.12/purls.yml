@@ -1,0 +1,2 @@
+- pkg:maven/com.outr/scribe-log4j_2.12@3.10.4
+- pkg:maven/com.outr/scribe-log4j_2.12@3.10.4?classifier=sources

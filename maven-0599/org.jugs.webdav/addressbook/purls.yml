@@ -1,2 +1,4 @@
 - pkg:maven/org.jugs.webdav/addressbook@2.3
 - pkg:maven/org.jugs.webdav/addressbook@2.3?classifier=sources
+- pkg:maven/org.jugs.webdav/addressbook@2.4
+- pkg:maven/org.jugs.webdav/addressbook@2.4?classifier=sources

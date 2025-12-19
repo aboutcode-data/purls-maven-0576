@@ -1,0 +1,4 @@
+- pkg:maven/io.envoyproxy.protoc-gen-validate/pgv-test-coverage-report@0.6.13
+- pkg:maven/io.envoyproxy.protoc-gen-validate/pgv-test-coverage-report@0.6.9-rc.0
+- pkg:maven/io.envoyproxy.protoc-gen-validate/pgv-test-coverage-report@0.6.9-rc.1
+- pkg:maven/io.envoyproxy.protoc-gen-validate/pgv-test-coverage-report@0.6.9-rc.2

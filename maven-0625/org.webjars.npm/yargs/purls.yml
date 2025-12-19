@@ -62,6 +62,8 @@
 - pkg:maven/org.webjars.npm/yargs@17.4.1?classifier=sources
 - pkg:maven/org.webjars.npm/yargs@17.5.1
 - pkg:maven/org.webjars.npm/yargs@17.5.1?classifier=sources
+- pkg:maven/org.webjars.npm/yargs@17.6.0
+- pkg:maven/org.webjars.npm/yargs@17.6.0?classifier=sources
 - pkg:maven/org.webjars.npm/yargs@3.10.0
 - pkg:maven/org.webjars.npm/yargs@3.10.0?classifier=sources
 - pkg:maven/org.webjars.npm/yargs@3.11.0

@@ -1,0 +1,2 @@
+- pkg:maven/org.neo4j.gds/neo4j-kernel-adapter-5.1@2.2.2?classifier=sources
+- pkg:maven/org.neo4j.gds/neo4j-kernel-adapter-5.1@2.3.0-alpha01?classifier=sources

@@ -171,4 +171,5 @@
 - pkg:maven/com.github.troopson/noo@1.0.91?classifier=sources
 - pkg:maven/com.github.troopson/noo@1.0.92?classifier=sources
 - pkg:maven/com.github.troopson/noo@1.0.93?classifier=sources
+- pkg:maven/com.github.troopson/noo@1.0.94?classifier=sources
 - pkg:maven/com.github.troopson/noo@1.0.9?classifier=sources

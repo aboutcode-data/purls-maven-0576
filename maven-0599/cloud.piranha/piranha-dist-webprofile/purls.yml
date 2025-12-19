@@ -1,0 +1,2 @@
+- pkg:maven/cloud.piranha/piranha-dist-webprofile@22.10.0
+- pkg:maven/cloud.piranha/piranha-dist-webprofile@22.10.0?classifier=sources

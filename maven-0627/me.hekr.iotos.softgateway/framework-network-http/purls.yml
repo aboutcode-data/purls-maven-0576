@@ -30,3 +30,5 @@
 - pkg:maven/me.hekr.iotos.softgateway/framework-network-http@3.5.7?classifier=sources
 - pkg:maven/me.hekr.iotos.softgateway/framework-network-http@3.5.8
 - pkg:maven/me.hekr.iotos.softgateway/framework-network-http@3.5.8?classifier=sources
+- pkg:maven/me.hekr.iotos.softgateway/framework-network-http@3.5.9
+- pkg:maven/me.hekr.iotos.softgateway/framework-network-http@3.5.9?classifier=sources

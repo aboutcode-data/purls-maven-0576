@@ -1,0 +1,2 @@
+- pkg:maven/com.kubukoz/drops-core_sjs1_2.13@0.0.5
+- pkg:maven/com.kubukoz/drops-core_sjs1_2.13@0.0.5?classifier=sources

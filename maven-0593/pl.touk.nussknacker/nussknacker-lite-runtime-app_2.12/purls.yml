@@ -1,0 +1,2 @@
+- pkg:maven/pl.touk.nussknacker/nussknacker-lite-runtime-app_2.12@1.6.0
+- pkg:maven/pl.touk.nussknacker/nussknacker-lite-runtime-app_2.12@1.6.0?classifier=sources

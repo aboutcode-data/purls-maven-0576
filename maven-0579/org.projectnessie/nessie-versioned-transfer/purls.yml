@@ -1,1 +1,2 @@
 - pkg:maven/org.projectnessie/nessie-versioned-transfer@0.43.0?classifier=sources
+- pkg:maven/org.projectnessie/nessie-versioned-transfer@0.44.0?classifier=sources

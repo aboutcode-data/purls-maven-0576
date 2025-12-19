@@ -6,3 +6,4 @@
 - pkg:maven/com.telenav.mesakit/mesakit-map-geography-testing@0.9.16?classifier=sources
 - pkg:maven/com.telenav.mesakit/mesakit-map-geography-testing@0.9.17
 - pkg:maven/com.telenav.mesakit/mesakit-map-geography-testing@0.9.17?classifier=sources
+- pkg:maven/com.telenav.mesakit/mesakit-map-geography-testing@0.9.18

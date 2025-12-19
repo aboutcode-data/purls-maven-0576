@@ -1,0 +1,2 @@
+- pkg:maven/ch.epfl.scala/scalafix-cli_2.13.9@0.10.3
+- pkg:maven/ch.epfl.scala/scalafix-cli_2.13.9@0.10.3?classifier=sources

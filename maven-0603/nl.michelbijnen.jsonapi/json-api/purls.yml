@@ -46,3 +46,5 @@
 - pkg:maven/nl.michelbijnen.jsonapi/json-api@1.5.3?classifier=sources
 - pkg:maven/nl.michelbijnen.jsonapi/json-api@1.5.4
 - pkg:maven/nl.michelbijnen.jsonapi/json-api@1.5.4?classifier=sources
+- pkg:maven/nl.michelbijnen.jsonapi/json-api@1.5.5
+- pkg:maven/nl.michelbijnen.jsonapi/json-api@1.5.5?classifier=sources

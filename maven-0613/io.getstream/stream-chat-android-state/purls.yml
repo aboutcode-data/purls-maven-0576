@@ -1,3 +1,7 @@
+- pkg:maven/io.getstream/stream-chat-android-state@5.10.0?classifier=sources
+- pkg:maven/io.getstream/stream-chat-android-state@5.11.0?classifier=sources
+- pkg:maven/io.getstream/stream-chat-android-state@5.11.1?classifier=sources
+- pkg:maven/io.getstream/stream-chat-android-state@5.11.2?classifier=sources
 - pkg:maven/io.getstream/stream-chat-android-state@5.5.0?classifier=sources
 - pkg:maven/io.getstream/stream-chat-android-state@5.6.0?classifier=sources
 - pkg:maven/io.getstream/stream-chat-android-state@5.6.1?classifier=sources

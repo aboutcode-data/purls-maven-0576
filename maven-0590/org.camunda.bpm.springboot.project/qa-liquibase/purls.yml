@@ -1,3 +1,5 @@
+- pkg:maven/org.camunda.bpm.springboot.project/qa-liquibase@7.18.0
 - pkg:maven/org.camunda.bpm.springboot.project/qa-liquibase@7.18.0-alpha3
 - pkg:maven/org.camunda.bpm.springboot.project/qa-liquibase@7.18.0-alpha4
 - pkg:maven/org.camunda.bpm.springboot.project/qa-liquibase@7.18.0-alpha5
+- pkg:maven/org.camunda.bpm.springboot.project/qa-liquibase@7.18.0-alpha6

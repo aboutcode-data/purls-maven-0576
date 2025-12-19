@@ -1,2 +1,3 @@
 - pkg:maven/com.gitlab.summer-cattle/cattle-cloud-config-starter-nop@0.0.2
 - pkg:maven/com.gitlab.summer-cattle/cattle-cloud-config-starter-nop@0.0.3
+- pkg:maven/com.gitlab.summer-cattle/cattle-cloud-config-starter-nop@0.0.4

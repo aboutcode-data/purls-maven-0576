@@ -84,6 +84,8 @@
 - pkg:maven/com.github.music-of-the-ainur/almaren-framework_2.11@0.9.3-2.4?classifier=sources
 - pkg:maven/com.github.music-of-the-ainur/almaren-framework_2.11@0.9.5-2.4
 - pkg:maven/com.github.music-of-the-ainur/almaren-framework_2.11@0.9.5-2.4?classifier=sources
+- pkg:maven/com.github.music-of-the-ainur/almaren-framework_2.11@0.9.8-2.4
+- pkg:maven/com.github.music-of-the-ainur/almaren-framework_2.11@0.9.8-2.4?classifier=sources
 - pkg:maven/com.github.music-of-the-ainur/almaren-framework_2.11@2.4.5-2.4.0
 - pkg:maven/com.github.music-of-the-ainur/almaren-framework_2.11@2.4.5-2.4.0?classifier=sources
 - pkg:maven/com.github.music-of-the-ainur/almaren-framework_2.11@2.4.5-2.4.1

@@ -90,3 +90,5 @@
 - pkg:maven/org.ocpsoft.rewrite/rewrite-impl-servlet@4.0.0.Alpha1?classifier=sources
 - pkg:maven/org.ocpsoft.rewrite/rewrite-impl-servlet@5.0.0.Alpha1
 - pkg:maven/org.ocpsoft.rewrite/rewrite-impl-servlet@5.0.0.Alpha1?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite/rewrite-impl-servlet@6.0.0.Alpha1
+- pkg:maven/org.ocpsoft.rewrite/rewrite-impl-servlet@6.0.0.Alpha1?classifier=sources

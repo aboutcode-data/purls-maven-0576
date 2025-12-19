@@ -27,3 +27,4 @@
 - pkg:maven/com.gitee.tiamosu/fly-navigation@1.6.7?classifier=sources
 - pkg:maven/com.gitee.tiamosu/fly-navigation@1.6.8?classifier=sources
 - pkg:maven/com.gitee.tiamosu/fly-navigation@1.6.9?classifier=sources
+- pkg:maven/com.gitee.tiamosu/fly-navigation@1.7.0?classifier=sources

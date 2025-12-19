@@ -1,2 +1,4 @@
 - pkg:maven/org.xworker/xworker_explorer@1.4.3
 - pkg:maven/org.xworker/xworker_explorer@1.4.3?classifier=sources
+- pkg:maven/org.xworker/xworker_explorer@2.0.1
+- pkg:maven/org.xworker/xworker_explorer@2.0.1?classifier=sources

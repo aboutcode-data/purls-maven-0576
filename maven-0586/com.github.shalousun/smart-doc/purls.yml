@@ -195,3 +195,5 @@
 - pkg:maven/com.github.shalousun/smart-doc@2.5.2?classifier=sources
 - pkg:maven/com.github.shalousun/smart-doc@2.5.3
 - pkg:maven/com.github.shalousun/smart-doc@2.5.3?classifier=sources
+- pkg:maven/com.github.shalousun/smart-doc@2.6.0
+- pkg:maven/com.github.shalousun/smart-doc@2.6.0?classifier=sources

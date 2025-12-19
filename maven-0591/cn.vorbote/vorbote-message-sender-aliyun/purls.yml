@@ -1,2 +1,6 @@
+- pkg:maven/cn.vorbote/vorbote-message-sender-aliyun@3.6.0
 - pkg:maven/cn.vorbote/vorbote-message-sender-aliyun@3.6.0-beta0
 - pkg:maven/cn.vorbote/vorbote-message-sender-aliyun@3.6.0-beta0?classifier=sources
+- pkg:maven/cn.vorbote/vorbote-message-sender-aliyun@3.6.0?classifier=sources
+- pkg:maven/cn.vorbote/vorbote-message-sender-aliyun@3.6.1
+- pkg:maven/cn.vorbote/vorbote-message-sender-aliyun@3.6.1?classifier=sources

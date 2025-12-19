@@ -2,3 +2,4 @@
 - pkg:maven/com.dropbox.dependency-guard/dependency-guard@0.2.0?classifier=sources
 - pkg:maven/com.dropbox.dependency-guard/dependency-guard@0.3.0?classifier=sources
 - pkg:maven/com.dropbox.dependency-guard/dependency-guard@0.3.1?classifier=sources
+- pkg:maven/com.dropbox.dependency-guard/dependency-guard@0.3.2?classifier=sources

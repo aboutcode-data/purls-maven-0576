@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/shifty@2.19.0
 - pkg:maven/org.webjars.npm/shifty@2.19.0?classifier=sources
+- pkg:maven/org.webjars.npm/shifty@2.19.1
+- pkg:maven/org.webjars.npm/shifty@2.19.1?classifier=sources

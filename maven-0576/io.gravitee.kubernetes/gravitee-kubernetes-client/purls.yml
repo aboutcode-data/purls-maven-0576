@@ -6,3 +6,7 @@
 - pkg:maven/io.gravitee.kubernetes/gravitee-kubernetes-client@0.2.2?classifier=sources
 - pkg:maven/io.gravitee.kubernetes/gravitee-kubernetes-client@0.3.0
 - pkg:maven/io.gravitee.kubernetes/gravitee-kubernetes-client@0.3.0?classifier=sources
+- pkg:maven/io.gravitee.kubernetes/gravitee-kubernetes-client@0.4.0
+- pkg:maven/io.gravitee.kubernetes/gravitee-kubernetes-client@0.4.0?classifier=sources
+- pkg:maven/io.gravitee.kubernetes/gravitee-kubernetes-client@1.0.0-alpha.1
+- pkg:maven/io.gravitee.kubernetes/gravitee-kubernetes-client@1.0.0-alpha.1?classifier=sources

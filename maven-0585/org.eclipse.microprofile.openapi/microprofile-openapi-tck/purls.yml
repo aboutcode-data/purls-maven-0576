@@ -48,3 +48,5 @@
 - pkg:maven/org.eclipse.microprofile.openapi/microprofile-openapi-tck@3.1-RC2?classifier=sources
 - pkg:maven/org.eclipse.microprofile.openapi/microprofile-openapi-tck@3.1-RC3
 - pkg:maven/org.eclipse.microprofile.openapi/microprofile-openapi-tck@3.1-RC3?classifier=sources
+- pkg:maven/org.eclipse.microprofile.openapi/microprofile-openapi-tck@3.1-RC4
+- pkg:maven/org.eclipse.microprofile.openapi/microprofile-openapi-tck@3.1-RC4?classifier=sources
