@@ -9,3 +9,4 @@
 - pkg:maven/com.joom.colonist/colonist-processor@0.1.0-alpha18?classifier=sources
 - pkg:maven/com.joom.colonist/colonist-processor@0.1.0-alpha19?classifier=sources
 - pkg:maven/com.joom.colonist/colonist-processor@0.1.0-alpha20?classifier=sources
+- pkg:maven/com.joom.colonist/colonist-processor@0.1.0-alpha21?classifier=sources

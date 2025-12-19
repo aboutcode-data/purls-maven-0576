@@ -126,6 +126,8 @@
 - pkg:maven/org.micro-manager.pycro-manager/PycroManagerJava@0.35.25?classifier=sources
 - pkg:maven/org.micro-manager.pycro-manager/PycroManagerJava@0.35.26
 - pkg:maven/org.micro-manager.pycro-manager/PycroManagerJava@0.35.26?classifier=sources
+- pkg:maven/org.micro-manager.pycro-manager/PycroManagerJava@0.35.27
+- pkg:maven/org.micro-manager.pycro-manager/PycroManagerJava@0.35.27?classifier=sources
 - pkg:maven/org.micro-manager.pycro-manager/PycroManagerJava@0.35.3
 - pkg:maven/org.micro-manager.pycro-manager/PycroManagerJava@0.35.3?classifier=sources
 - pkg:maven/org.micro-manager.pycro-manager/PycroManagerJava@0.35.4
@@ -134,3 +136,7 @@
 - pkg:maven/org.micro-manager.pycro-manager/PycroManagerJava@0.35.5?classifier=sources
 - pkg:maven/org.micro-manager.pycro-manager/PycroManagerJava@0.35.7
 - pkg:maven/org.micro-manager.pycro-manager/PycroManagerJava@0.35.7?classifier=sources
+- pkg:maven/org.micro-manager.pycro-manager/PycroManagerJava@0.37.0
+- pkg:maven/org.micro-manager.pycro-manager/PycroManagerJava@0.37.0?classifier=sources
+- pkg:maven/org.micro-manager.pycro-manager/PycroManagerJava@0.38.0
+- pkg:maven/org.micro-manager.pycro-manager/PycroManagerJava@0.38.0?classifier=sources

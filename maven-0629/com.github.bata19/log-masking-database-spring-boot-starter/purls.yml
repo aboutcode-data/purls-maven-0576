@@ -1,0 +1,2 @@
+- pkg:maven/com.github.bata19/log-masking-database-spring-boot-starter@1.2.0
+- pkg:maven/com.github.bata19/log-masking-database-spring-boot-starter@1.2.0?classifier=sources

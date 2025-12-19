@@ -296,3 +296,5 @@
 - pkg:maven/ch.epfl.scala/gradle-bloop_2.13@1.5.7-RC2?classifier=sources
 - pkg:maven/ch.epfl.scala/gradle-bloop_2.13@1.5.8
 - pkg:maven/ch.epfl.scala/gradle-bloop_2.13@1.5.8?classifier=sources
+- pkg:maven/ch.epfl.scala/gradle-bloop_2.13@1.6.0
+- pkg:maven/ch.epfl.scala/gradle-bloop_2.13@1.6.0?classifier=sources

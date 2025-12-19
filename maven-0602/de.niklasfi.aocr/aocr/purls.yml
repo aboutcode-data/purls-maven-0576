@@ -6,3 +6,7 @@
 - pkg:maven/de.niklasfi.aocr/aocr@1.3?classifier=sources
 - pkg:maven/de.niklasfi.aocr/aocr@1.4
 - pkg:maven/de.niklasfi.aocr/aocr@1.4?classifier=sources
+- pkg:maven/de.niklasfi.aocr/aocr@2.0
+- pkg:maven/de.niklasfi.aocr/aocr@2.0?classifier=sources
+- pkg:maven/de.niklasfi.aocr/aocr@2.1
+- pkg:maven/de.niklasfi.aocr/aocr@2.1?classifier=sources

@@ -21,3 +21,5 @@
 - pkg:maven/cloud.mindbox/mindbox-firebase@2.2.3?classifier=sources
 - pkg:maven/cloud.mindbox/mindbox-firebase@2.3.0?classifier=sources
 - pkg:maven/cloud.mindbox/mindbox-firebase@2.4.0?classifier=sources
+- pkg:maven/cloud.mindbox/mindbox-firebase@2.5.0-rc?classifier=sources
+- pkg:maven/cloud.mindbox/mindbox-firebase@2.5.1-rc?classifier=sources

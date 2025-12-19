@@ -16,3 +16,6 @@
 - pkg:maven/com.liferay/org.hibernate.core@3.6.10.LIFERAY-PATCHED-7
 - pkg:maven/com.liferay/org.hibernate.core@3.6.10.LIFERAY-PATCHED-7?classifier=sources
 - pkg:maven/com.liferay/org.hibernate.core@3.6.10.LIFERAY-PATCHED-7?classifier=sources-commercial
+- pkg:maven/com.liferay/org.hibernate.core@5.6.7.LIFERAY-PATCHED-1
+- pkg:maven/com.liferay/org.hibernate.core@5.6.7.LIFERAY-PATCHED-1?classifier=sources
+- pkg:maven/com.liferay/org.hibernate.core@5.6.7.LIFERAY-PATCHED-1?classifier=sources-commercial

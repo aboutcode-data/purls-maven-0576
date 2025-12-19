@@ -18,3 +18,5 @@
 - pkg:maven/com.tradplusad/tradplus-adfly@52.9.1.40.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-adfly@52.9.2.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-adfly@52.9.2.10.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-adfly@52.9.3.0.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-adfly@52.9.3.10.1?type=aar

@@ -1,2 +1,5 @@
 - pkg:maven/com.pulumi/kong@4.6.0-alpha.1668657891%2B23aa6df0?classifier=sources
 - pkg:maven/com.pulumi/kong@4.6.0-alpha.1673556127%2Bf0dad607?classifier=sources
+- pkg:maven/com.pulumi/kong@4.6.0-alpha.1677784192%2Bfd0c78f9?classifier=sources
+- pkg:maven/com.pulumi/kong@4.6.0-alpha.1679353129%2Bd6b63c07?classifier=sources
+- pkg:maven/com.pulumi/kong@4.6.0-alpha.1679415328%2B5679c7b3?classifier=sources

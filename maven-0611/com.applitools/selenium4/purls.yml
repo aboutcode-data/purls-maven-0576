@@ -16,3 +16,7 @@
 - pkg:maven/com.applitools/selenium4@5.39.0
 - pkg:maven/com.applitools/selenium4@5.40.0
 - pkg:maven/com.applitools/selenium4@5.41.0
+- pkg:maven/com.applitools/selenium4@5.42.0
+- pkg:maven/com.applitools/selenium4@5.43.0
+- pkg:maven/com.applitools/selenium4@5.44.0
+- pkg:maven/com.applitools/selenium4@5.45.0

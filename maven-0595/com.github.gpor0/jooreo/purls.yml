@@ -8,6 +8,8 @@
 - pkg:maven/com.github.gpor0/jooreo@0.2.13?classifier=sources
 - pkg:maven/com.github.gpor0/jooreo@0.2.14
 - pkg:maven/com.github.gpor0/jooreo@0.2.14?classifier=sources
+- pkg:maven/com.github.gpor0/jooreo@0.2.15
+- pkg:maven/com.github.gpor0/jooreo@0.2.15?classifier=sources
 - pkg:maven/com.github.gpor0/jooreo@0.2.3
 - pkg:maven/com.github.gpor0/jooreo@0.2.3?classifier=sources
 - pkg:maven/com.github.gpor0/jooreo@0.2.5

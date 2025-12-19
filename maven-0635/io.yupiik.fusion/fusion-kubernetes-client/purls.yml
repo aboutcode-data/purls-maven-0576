@@ -1,0 +1,2 @@
+- pkg:maven/io.yupiik.fusion/fusion-kubernetes-client@1.0.0
+- pkg:maven/io.yupiik.fusion/fusion-kubernetes-client@1.0.0?classifier=sources

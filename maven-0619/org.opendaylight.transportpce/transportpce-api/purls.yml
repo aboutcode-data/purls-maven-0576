@@ -66,3 +66,4 @@
 - pkg:maven/org.opendaylight.transportpce/transportpce-api@6.0.0?classifier=sources
 - pkg:maven/org.opendaylight.transportpce/transportpce-api@6.1.0?classifier=sources
 - pkg:maven/org.opendaylight.transportpce/transportpce-api@6.2.0?classifier=sources
+- pkg:maven/org.opendaylight.transportpce/transportpce-api@7.0.0?classifier=sources

@@ -57,3 +57,5 @@
 - pkg:maven/io.github.marchliu/jaskell-java8@2.1.5?classifier=sources
 - pkg:maven/io.github.marchliu/jaskell-java8@2.1.6
 - pkg:maven/io.github.marchliu/jaskell-java8@2.1.6?classifier=sources
+- pkg:maven/io.github.marchliu/jaskell-java8@2.1.7
+- pkg:maven/io.github.marchliu/jaskell-java8@2.1.7?classifier=sources

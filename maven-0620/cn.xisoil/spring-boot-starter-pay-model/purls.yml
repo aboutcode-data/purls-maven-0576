@@ -1,2 +1,6 @@
 - pkg:maven/cn.xisoil/spring-boot-starter-pay-model@1.0.1-RELEASE
 - pkg:maven/cn.xisoil/spring-boot-starter-pay-model@1.0.1-RELEASE?classifier=sources
+- pkg:maven/cn.xisoil/spring-boot-starter-pay-model@1.0.2-RELEASE
+- pkg:maven/cn.xisoil/spring-boot-starter-pay-model@1.0.2-RELEASE?classifier=sources
+- pkg:maven/cn.xisoil/spring-boot-starter-pay-model@1.0.3-RELEASE
+- pkg:maven/cn.xisoil/spring-boot-starter-pay-model@1.0.3-RELEASE?classifier=sources

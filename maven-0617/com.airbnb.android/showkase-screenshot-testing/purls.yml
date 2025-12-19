@@ -9,3 +9,4 @@
 - pkg:maven/com.airbnb.android/showkase-screenshot-testing@1.0.0-beta15?classifier=sources
 - pkg:maven/com.airbnb.android/showkase-screenshot-testing@1.0.0-beta16?classifier=sources
 - pkg:maven/com.airbnb.android/showkase-screenshot-testing@1.0.0-beta17?classifier=sources
+- pkg:maven/com.airbnb.android/showkase-screenshot-testing@1.0.0-beta18?classifier=sources

@@ -60,3 +60,13 @@
 - pkg:maven/io.airlift/event-http@222?classifier=sources
 - pkg:maven/io.airlift/event-http@223
 - pkg:maven/io.airlift/event-http@223?classifier=sources
+- pkg:maven/io.airlift/event-http@224
+- pkg:maven/io.airlift/event-http@224?classifier=sources
+- pkg:maven/io.airlift/event-http@225
+- pkg:maven/io.airlift/event-http@225?classifier=sources
+- pkg:maven/io.airlift/event-http@226
+- pkg:maven/io.airlift/event-http@226?classifier=sources
+- pkg:maven/io.airlift/event-http@227
+- pkg:maven/io.airlift/event-http@227?classifier=sources
+- pkg:maven/io.airlift/event-http@228
+- pkg:maven/io.airlift/event-http@228?classifier=sources

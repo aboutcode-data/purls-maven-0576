@@ -344,3 +344,5 @@
 - pkg:maven/com.hashicorp/cdktf-provider-gitlab@5.0.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-gitlab@6.0.0
 - pkg:maven/com.hashicorp/cdktf-provider-gitlab@6.0.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-gitlab@6.0.1
+- pkg:maven/com.hashicorp/cdktf-provider-gitlab@6.0.1?classifier=sources

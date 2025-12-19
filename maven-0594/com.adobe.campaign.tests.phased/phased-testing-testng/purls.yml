@@ -4,3 +4,5 @@
 - pkg:maven/com.adobe.campaign.tests.phased/phased-testing-testng@7.0.7?classifier=sources
 - pkg:maven/com.adobe.campaign.tests.phased/phased-testing-testng@7.0.9
 - pkg:maven/com.adobe.campaign.tests.phased/phased-testing-testng@7.0.9?classifier=sources
+- pkg:maven/com.adobe.campaign.tests.phased/phased-testing-testng@8.0.0
+- pkg:maven/com.adobe.campaign.tests.phased/phased-testing-testng@8.0.0?classifier=sources

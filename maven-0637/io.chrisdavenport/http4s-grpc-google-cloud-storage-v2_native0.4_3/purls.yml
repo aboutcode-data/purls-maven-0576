@@ -1,0 +1,4 @@
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-storage-v2_native0.4_3@2.20.1-alpha%2B0.0.2
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-storage-v2_native0.4_3@2.20.1-alpha%2B0.0.2?classifier=sources
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-storage-v2_native0.4_3@2.9.3-alpha%2B0.0.1
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-storage-v2_native0.4_3@2.9.3-alpha%2B0.0.1?classifier=sources

@@ -214,6 +214,12 @@
 - pkg:maven/com.infotel.seleniumRobot/core@4.22.5?type=zip
 - pkg:maven/com.infotel.seleniumRobot/core@4.23.0?classifier=sources
 - pkg:maven/com.infotel.seleniumRobot/core@4.23.0?type=zip
+- pkg:maven/com.infotel.seleniumRobot/core@4.23.10?classifier=sources
+- pkg:maven/com.infotel.seleniumRobot/core@4.23.10?type=zip
+- pkg:maven/com.infotel.seleniumRobot/core@4.23.11?classifier=sources
+- pkg:maven/com.infotel.seleniumRobot/core@4.23.11?type=zip
+- pkg:maven/com.infotel.seleniumRobot/core@4.23.12?classifier=sources
+- pkg:maven/com.infotel.seleniumRobot/core@4.23.12?type=zip
 - pkg:maven/com.infotel.seleniumRobot/core@4.23.1?classifier=sources
 - pkg:maven/com.infotel.seleniumRobot/core@4.23.1?type=zip
 - pkg:maven/com.infotel.seleniumRobot/core@4.23.3?classifier=sources
@@ -226,6 +232,10 @@
 - pkg:maven/com.infotel.seleniumRobot/core@4.23.6?type=zip
 - pkg:maven/com.infotel.seleniumRobot/core@4.23.7?classifier=sources
 - pkg:maven/com.infotel.seleniumRobot/core@4.23.7?type=zip
+- pkg:maven/com.infotel.seleniumRobot/core@4.23.8?classifier=sources
+- pkg:maven/com.infotel.seleniumRobot/core@4.23.8?type=zip
+- pkg:maven/com.infotel.seleniumRobot/core@4.23.9?classifier=sources
+- pkg:maven/com.infotel.seleniumRobot/core@4.23.9?type=zip
 - pkg:maven/com.infotel.seleniumRobot/core@4.3.0?classifier=sources
 - pkg:maven/com.infotel.seleniumRobot/core@4.3.0?type=zip
 - pkg:maven/com.infotel.seleniumRobot/core@4.4.0?classifier=sources

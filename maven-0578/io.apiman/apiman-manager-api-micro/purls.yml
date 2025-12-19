@@ -108,3 +108,5 @@
 - pkg:maven/io.apiman/apiman-manager-api-micro@3.0.0.Final?classifier=sources
 - pkg:maven/io.apiman/apiman-manager-api-micro@3.0.0.RC6
 - pkg:maven/io.apiman/apiman-manager-api-micro@3.0.0.RC6?classifier=sources
+- pkg:maven/io.apiman/apiman-manager-api-micro@3.1.0.RC2
+- pkg:maven/io.apiman/apiman-manager-api-micro@3.1.0.RC2?classifier=sources

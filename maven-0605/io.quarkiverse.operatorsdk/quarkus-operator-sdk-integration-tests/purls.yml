@@ -82,3 +82,7 @@
 - pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-integration-tests@5.0.4?classifier=sources
 - pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-integration-tests@5.0.5
 - pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-integration-tests@5.0.5?classifier=sources
+- pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-integration-tests@5.1.0
+- pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-integration-tests@5.1.0?classifier=sources
+- pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-integration-tests@5.1.1
+- pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-integration-tests@5.1.1?classifier=sources

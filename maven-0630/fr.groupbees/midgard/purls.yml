@@ -1,2 +1,4 @@
 - pkg:maven/fr.groupbees/midgard@0.15.0
 - pkg:maven/fr.groupbees/midgard@0.15.0?classifier=sources
+- pkg:maven/fr.groupbees/midgard@0.16.0
+- pkg:maven/fr.groupbees/midgard@0.16.0?classifier=sources

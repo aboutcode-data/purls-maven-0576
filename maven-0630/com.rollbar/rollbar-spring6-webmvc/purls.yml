@@ -1,0 +1,1 @@
+- pkg:maven/com.rollbar/rollbar-spring6-webmvc@1.10.0?classifier=sources

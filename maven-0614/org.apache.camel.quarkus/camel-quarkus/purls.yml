@@ -38,3 +38,4 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus@2.8.0-M1?classifier=src&type=zip
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus@2.8.0?classifier=src&type=zip
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus@2.9.0?classifier=src&type=zip
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus@3.0.0-M1?classifier=src&type=zip

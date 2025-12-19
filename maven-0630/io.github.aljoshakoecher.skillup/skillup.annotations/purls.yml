@@ -1,2 +1,4 @@
 - pkg:maven/io.github.aljoshakoecher.skillup/skillup.annotations@1.0.0
 - pkg:maven/io.github.aljoshakoecher.skillup/skillup.annotations@1.0.0?classifier=sources
+- pkg:maven/io.github.aljoshakoecher.skillup/skillup.annotations@2.0.0
+- pkg:maven/io.github.aljoshakoecher.skillup/skillup.annotations@2.0.0?classifier=sources

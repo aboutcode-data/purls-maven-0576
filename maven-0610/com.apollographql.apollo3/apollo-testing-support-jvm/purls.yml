@@ -44,3 +44,4 @@
 - pkg:maven/com.apollographql.apollo3/apollo-testing-support-jvm@3.7.2?classifier=sources
 - pkg:maven/com.apollographql.apollo3/apollo-testing-support-jvm@3.7.3?classifier=sources
 - pkg:maven/com.apollographql.apollo3/apollo-testing-support-jvm@3.7.4?classifier=sources
+- pkg:maven/com.apollographql.apollo3/apollo-testing-support-jvm@3.7.5?classifier=sources

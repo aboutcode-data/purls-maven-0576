@@ -4,3 +4,5 @@
 - pkg:maven/dev.resteasy.tools/resteasy-checkstyle-config@2.0.1.Final?classifier=sources
 - pkg:maven/dev.resteasy.tools/resteasy-checkstyle-config@2.0.2.Final
 - pkg:maven/dev.resteasy.tools/resteasy-checkstyle-config@2.0.2.Final?classifier=sources
+- pkg:maven/dev.resteasy.tools/resteasy-checkstyle-config@2.0.3.Final
+- pkg:maven/dev.resteasy.tools/resteasy-checkstyle-config@2.0.3.Final?classifier=sources

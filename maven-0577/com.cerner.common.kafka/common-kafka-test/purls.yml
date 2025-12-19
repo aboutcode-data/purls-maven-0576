@@ -14,3 +14,5 @@
 - pkg:maven/com.cerner.common.kafka/common-kafka-test@2.4?classifier=sources
 - pkg:maven/com.cerner.common.kafka/common-kafka-test@2.5
 - pkg:maven/com.cerner.common.kafka/common-kafka-test@2.5?classifier=sources
+- pkg:maven/com.cerner.common.kafka/common-kafka-test@3.0
+- pkg:maven/com.cerner.common.kafka/common-kafka-test@3.0?classifier=sources

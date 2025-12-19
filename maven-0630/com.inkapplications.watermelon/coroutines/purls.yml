@@ -2,3 +2,7 @@
 - pkg:maven/com.inkapplications.watermelon/coroutines@0.1.0?classifier=sources
 - pkg:maven/com.inkapplications.watermelon/coroutines@0.2.0?classifier=sources
 - pkg:maven/com.inkapplications.watermelon/coroutines@0.3.0?classifier=sources
+- pkg:maven/com.inkapplications.watermelon/coroutines@0.4.4?classifier=sources
+- pkg:maven/com.inkapplications.watermelon/coroutines@0.5.0?classifier=sources
+- pkg:maven/com.inkapplications.watermelon/coroutines@1.0.0?classifier=sources
+- pkg:maven/com.inkapplications.watermelon/coroutines@1.0.1?classifier=sources

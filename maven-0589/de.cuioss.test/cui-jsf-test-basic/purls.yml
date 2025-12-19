@@ -1,0 +1,4 @@
+- pkg:maven/de.cuioss.test/cui-jsf-test-basic@1.0.0
+- pkg:maven/de.cuioss.test/cui-jsf-test-basic@1.0.0?classifier=sources
+- pkg:maven/de.cuioss.test/cui-jsf-test-basic@1.0.1
+- pkg:maven/de.cuioss.test/cui-jsf-test-basic@1.0.1?classifier=sources

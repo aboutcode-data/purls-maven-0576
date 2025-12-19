@@ -34,6 +34,8 @@
 - pkg:maven/org.jboss.resteasy/resteasy-client-microprofile@3.15.2.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-client-microprofile@3.15.3.Final
 - pkg:maven/org.jboss.resteasy/resteasy-client-microprofile@3.15.3.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-client-microprofile@3.15.6.Final
+- pkg:maven/org.jboss.resteasy/resteasy-client-microprofile@3.15.6.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-client-microprofile@3.6.0.CR1
 - pkg:maven/org.jboss.resteasy/resteasy-client-microprofile@3.6.0.CR1?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-client-microprofile@3.6.0.Final
@@ -196,3 +198,5 @@
 - pkg:maven/org.jboss.resteasy/resteasy-client-microprofile@4.7.7.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-client-microprofile@4.7.8.Final
 - pkg:maven/org.jboss.resteasy/resteasy-client-microprofile@4.7.8.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-client-microprofile@4.7.9.Final
+- pkg:maven/org.jboss.resteasy/resteasy-client-microprofile@4.7.9.Final?classifier=sources

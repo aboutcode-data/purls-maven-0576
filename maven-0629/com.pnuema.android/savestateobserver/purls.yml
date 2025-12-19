@@ -22,3 +22,4 @@
 - pkg:maven/com.pnuema.android/savestateobserver@2.6.1?classifier=sources
 - pkg:maven/com.pnuema.android/savestateobserver@2.7.0?classifier=sources
 - pkg:maven/com.pnuema.android/savestateobserver@2.7.1?classifier=sources
+- pkg:maven/com.pnuema.android/savestateobserver@2.9.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-recorder@1.9
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-recorder@1.9?classifier=sources

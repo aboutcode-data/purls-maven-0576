@@ -10,6 +10,12 @@
 - pkg:maven/com.telenav.kivakit/kivakit-serialization-yaml@1.14.0?classifier=sources
 - pkg:maven/com.telenav.kivakit/kivakit-serialization-yaml@1.15.0
 - pkg:maven/com.telenav.kivakit/kivakit-serialization-yaml@1.15.0?classifier=sources
+- pkg:maven/com.telenav.kivakit/kivakit-serialization-yaml@1.16.0
+- pkg:maven/com.telenav.kivakit/kivakit-serialization-yaml@1.16.0?classifier=sources
+- pkg:maven/com.telenav.kivakit/kivakit-serialization-yaml@1.17.0
+- pkg:maven/com.telenav.kivakit/kivakit-serialization-yaml@1.17.0?classifier=sources
+- pkg:maven/com.telenav.kivakit/kivakit-serialization-yaml@1.17.1
+- pkg:maven/com.telenav.kivakit/kivakit-serialization-yaml@1.17.1?classifier=sources
 - pkg:maven/com.telenav.kivakit/kivakit-serialization-yaml@1.8.4
 - pkg:maven/com.telenav.kivakit/kivakit-serialization-yaml@1.8.4?classifier=sources
 - pkg:maven/com.telenav.kivakit/kivakit-serialization-yaml@1.8.5

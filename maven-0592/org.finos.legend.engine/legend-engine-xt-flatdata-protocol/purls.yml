@@ -108,3 +108,7 @@
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-flatdata-protocol@3.9.3?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-flatdata-protocol@4.0.0
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-flatdata-protocol@4.0.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-flatdata-protocol@4.1.0
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-flatdata-protocol@4.1.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-flatdata-protocol@4.2.0
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-flatdata-protocol@4.2.0?classifier=sources

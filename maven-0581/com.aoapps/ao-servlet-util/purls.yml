@@ -8,3 +8,5 @@
 - pkg:maven/com.aoapps/ao-servlet-util@5.1.0?classifier=sources
 - pkg:maven/com.aoapps/ao-servlet-util@5.2.0
 - pkg:maven/com.aoapps/ao-servlet-util@5.2.0?classifier=sources
+- pkg:maven/com.aoapps/ao-servlet-util@5.2.1
+- pkg:maven/com.aoapps/ao-servlet-util@5.2.1?classifier=sources

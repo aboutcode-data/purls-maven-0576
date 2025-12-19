@@ -1,0 +1,2 @@
+- pkg:maven/org.nasdanika.architecture/c4-gen@2023.3.0
+- pkg:maven/org.nasdanika.architecture/c4-gen@2023.3.0?classifier=sources

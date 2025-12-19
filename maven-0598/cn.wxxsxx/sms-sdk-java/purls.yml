@@ -12,3 +12,5 @@
 - pkg:maven/cn.wxxsxx/sms-sdk-java@4.0.5?classifier=sources
 - pkg:maven/cn.wxxsxx/sms-sdk-java@4.0.6
 - pkg:maven/cn.wxxsxx/sms-sdk-java@4.0.6?classifier=sources
+- pkg:maven/cn.wxxsxx/sms-sdk-java@4.0.7
+- pkg:maven/cn.wxxsxx/sms-sdk-java@4.0.7?classifier=sources

@@ -86,6 +86,7 @@
 - pkg:maven/org.projectnessie/nessie-services@0.5.0?classifier=sources
 - pkg:maven/org.projectnessie/nessie-services@0.5.1
 - pkg:maven/org.projectnessie/nessie-services@0.5.1?classifier=sources
+- pkg:maven/org.projectnessie/nessie-services@0.50.0?classifier=sources
 - pkg:maven/org.projectnessie/nessie-services@0.6.0
 - pkg:maven/org.projectnessie/nessie-services@0.6.0?classifier=sources
 - pkg:maven/org.projectnessie/nessie-services@0.6.1

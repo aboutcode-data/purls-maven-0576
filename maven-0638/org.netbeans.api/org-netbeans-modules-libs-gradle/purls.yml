@@ -11,3 +11,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-libs-gradle@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-libs-gradle@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-libs-gradle@RELEASE160?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-libs-gradle@RELEASE170?classifier=sources

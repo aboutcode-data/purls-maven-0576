@@ -1,0 +1,2 @@
+- pkg:maven/com.konloch/TaskManager@1.0.0
+- pkg:maven/com.konloch/TaskManager@1.0.0?classifier=sources

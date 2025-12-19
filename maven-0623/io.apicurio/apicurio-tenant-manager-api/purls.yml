@@ -4,3 +4,7 @@
 - pkg:maven/io.apicurio/apicurio-tenant-manager-api@0.1.1.Final?classifier=sources
 - pkg:maven/io.apicurio/apicurio-tenant-manager-api@0.1.2.Final
 - pkg:maven/io.apicurio/apicurio-tenant-manager-api@0.1.2.Final?classifier=sources
+- pkg:maven/io.apicurio/apicurio-tenant-manager-api@0.1.3.Final
+- pkg:maven/io.apicurio/apicurio-tenant-manager-api@0.1.3.Final?classifier=sources
+- pkg:maven/io.apicurio/apicurio-tenant-manager-api@0.2.0.CR1
+- pkg:maven/io.apicurio/apicurio-tenant-manager-api@0.2.0.CR1?classifier=sources

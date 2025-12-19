@@ -12,3 +12,5 @@
 - pkg:maven/com.arangodb/arangodb-spark-commons-2.4_2.12@1.4.0?classifier=sources
 - pkg:maven/com.arangodb/arangodb-spark-commons-2.4_2.12@1.4.1
 - pkg:maven/com.arangodb/arangodb-spark-commons-2.4_2.12@1.4.1?classifier=sources
+- pkg:maven/com.arangodb/arangodb-spark-commons-2.4_2.12@1.4.2
+- pkg:maven/com.arangodb/arangodb-spark-commons-2.4_2.12@1.4.2?classifier=sources

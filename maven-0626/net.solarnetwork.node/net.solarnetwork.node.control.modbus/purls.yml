@@ -4,3 +4,5 @@
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.control.modbus@3.1.0?classifier=sources
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.control.modbus@3.3.0
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.control.modbus@3.3.0?classifier=sources
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.control.modbus@4.0.0
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.control.modbus@4.0.0?classifier=sources

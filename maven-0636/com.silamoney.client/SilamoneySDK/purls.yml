@@ -47,6 +47,10 @@
 - pkg:maven/com.silamoney.client/SilamoneySDK@0.2.49
 - pkg:maven/com.silamoney.client/SilamoneySDK@0.2.49?classifier=sources
 - pkg:maven/com.silamoney.client/SilamoneySDK@0.2.50
+- pkg:maven/com.silamoney.client/SilamoneySDK@0.2.50-rc
+- pkg:maven/com.silamoney.client/SilamoneySDK@0.2.50-rc2
+- pkg:maven/com.silamoney.client/SilamoneySDK@0.2.50-rc2?classifier=sources
+- pkg:maven/com.silamoney.client/SilamoneySDK@0.2.50-rc?classifier=sources
 - pkg:maven/com.silamoney.client/SilamoneySDK@0.2.50?classifier=sources
 - pkg:maven/com.silamoney.client/SilamoneySDK@0.2.6-rc
 - pkg:maven/com.silamoney.client/SilamoneySDK@0.2.6-rc?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/com.brinvex.util/brinvex-util-revolut-api@3.1.0?classifier=sources
 - pkg:maven/com.brinvex.util/brinvex-util-revolut-api@3.2.0
 - pkg:maven/com.brinvex.util/brinvex-util-revolut-api@3.2.0?classifier=sources
+- pkg:maven/com.brinvex.util/brinvex-util-revolut-api@4.0.0
+- pkg:maven/com.brinvex.util/brinvex-util-revolut-api@4.0.0?classifier=sources

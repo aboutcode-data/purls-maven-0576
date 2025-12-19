@@ -24,3 +24,5 @@
 - pkg:maven/com.fullfacing/keycloak4s-admin-monix-bio_2.12@3.2.0?classifier=sources
 - pkg:maven/com.fullfacing/keycloak4s-admin-monix-bio_2.12@3.2.2
 - pkg:maven/com.fullfacing/keycloak4s-admin-monix-bio_2.12@3.2.2?classifier=sources
+- pkg:maven/com.fullfacing/keycloak4s-admin-monix-bio_2.12@3.2.4
+- pkg:maven/com.fullfacing/keycloak4s-admin-monix-bio_2.12@3.2.4?classifier=sources

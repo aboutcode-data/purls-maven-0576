@@ -128,6 +128,9 @@
 - pkg:maven/com.liferay/com.liferay.petra.io@2.1.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.petra.io@2.1.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.petra.io@2.1.1
+- pkg:maven/com.liferay/com.liferay.petra.io@2.1.10
+- pkg:maven/com.liferay/com.liferay.petra.io@2.1.10?classifier=sources
+- pkg:maven/com.liferay/com.liferay.petra.io@2.1.10?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.petra.io@2.1.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.petra.io@2.1.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.petra.io@2.1.2
@@ -170,6 +173,9 @@
 - pkg:maven/com.liferay/com.liferay.petra.io@3.1.11
 - pkg:maven/com.liferay/com.liferay.petra.io@3.1.11?classifier=sources
 - pkg:maven/com.liferay/com.liferay.petra.io@3.1.11?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.petra.io@3.1.12
+- pkg:maven/com.liferay/com.liferay.petra.io@3.1.12?classifier=sources
+- pkg:maven/com.liferay/com.liferay.petra.io@3.1.12?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.petra.io@3.1.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.petra.io@3.1.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.petra.io@3.1.2

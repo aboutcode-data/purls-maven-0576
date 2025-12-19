@@ -12,3 +12,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-java-coverage@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-java-coverage@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-java-coverage@RELEASE160?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-java-coverage@RELEASE170?classifier=sources

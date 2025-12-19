@@ -26,3 +26,4 @@
 - pkg:maven/it.unibz.inf.ontop/ontop-system-owlapi@4.2.2?classifier=sources
 - pkg:maven/it.unibz.inf.ontop/ontop-system-owlapi@5.0.0
 - pkg:maven/it.unibz.inf.ontop/ontop-system-owlapi@5.0.1
+- pkg:maven/it.unibz.inf.ontop/ontop-system-owlapi@5.0.2

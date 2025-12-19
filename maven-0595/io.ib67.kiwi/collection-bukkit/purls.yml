@@ -1,1 +1,2 @@
 - pkg:maven/io.ib67.kiwi/collection-bukkit@0.3.1?classifier=sources
+- pkg:maven/io.ib67.kiwi/collection-bukkit@0.4?classifier=sources

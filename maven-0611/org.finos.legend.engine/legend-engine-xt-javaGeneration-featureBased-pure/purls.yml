@@ -1,0 +1,2 @@
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-javaGeneration-featureBased-pure@4.4.2
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-javaGeneration-featureBased-pure@4.4.2?classifier=sources

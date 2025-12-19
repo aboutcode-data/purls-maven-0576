@@ -1,0 +1,2 @@
+- pkg:maven/cn.lnkdoc.sdk/awesome-uia-sdk@1.0.0.RELEASE
+- pkg:maven/cn.lnkdoc.sdk/awesome-uia-sdk@1.0.0.RELEASE?classifier=sources

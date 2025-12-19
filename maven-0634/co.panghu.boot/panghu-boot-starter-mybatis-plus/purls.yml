@@ -1,0 +1,2 @@
+- pkg:maven/co.panghu.boot/panghu-boot-starter-mybatis-plus@1.0.0
+- pkg:maven/co.panghu.boot/panghu-boot-starter-mybatis-plus@1.0.0?classifier=sources

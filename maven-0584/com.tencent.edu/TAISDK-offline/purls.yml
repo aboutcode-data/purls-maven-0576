@@ -1,3 +1,5 @@
 - pkg:maven/com.tencent.edu/TAISDK-offline@1.0.1.73?classifier=sources
 - pkg:maven/com.tencent.edu/TAISDK-offline@1.0.1.74?classifier=sources
+- pkg:maven/com.tencent.edu/TAISDK-offline@1.2.3.100?classifier=sources
 - pkg:maven/com.tencent.edu/TAISDK-offline@1.2.3.98?classifier=sources
+- pkg:maven/com.tencent.edu/TAISDK-offline@1.2.3.99?classifier=sources

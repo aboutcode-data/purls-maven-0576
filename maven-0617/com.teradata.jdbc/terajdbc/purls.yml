@@ -1,3 +1,17 @@
+- pkg:maven/com.teradata.jdbc/terajdbc@16.20.00.13
+- pkg:maven/com.teradata.jdbc/terajdbc@16.20.00.13?classifier=sources
+- pkg:maven/com.teradata.jdbc/terajdbc@17.00.00.03
+- pkg:maven/com.teradata.jdbc/terajdbc@17.00.00.03?classifier=sources
+- pkg:maven/com.teradata.jdbc/terajdbc@17.10.00.26
+- pkg:maven/com.teradata.jdbc/terajdbc@17.10.00.26?classifier=sources
+- pkg:maven/com.teradata.jdbc/terajdbc@17.10.00.27
+- pkg:maven/com.teradata.jdbc/terajdbc@17.10.00.27?classifier=sources
+- pkg:maven/com.teradata.jdbc/terajdbc@17.20.00.09
+- pkg:maven/com.teradata.jdbc/terajdbc@17.20.00.09?classifier=sources
 - pkg:maven/com.teradata.jdbc/terajdbc@17.20.00.12?classifier=sources
 - pkg:maven/com.teradata.jdbc/terajdbc@17.20.00.15
 - pkg:maven/com.teradata.jdbc/terajdbc@17.20.00.15?classifier=sources
+- pkg:maven/com.teradata.jdbc/terajdbc@20.00.00.02
+- pkg:maven/com.teradata.jdbc/terajdbc@20.00.00.02?classifier=sources
+- pkg:maven/com.teradata.jdbc/terajdbc@20.00.00.06
+- pkg:maven/com.teradata.jdbc/terajdbc@20.00.00.06?classifier=sources

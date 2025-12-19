@@ -146,6 +146,12 @@
 - pkg:maven/software.amazon.awsconstructs/route53apigateway@2.31.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/route53apigateway@2.32.0
 - pkg:maven/software.amazon.awsconstructs/route53apigateway@2.32.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/route53apigateway@2.33.0
+- pkg:maven/software.amazon.awsconstructs/route53apigateway@2.33.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/route53apigateway@2.34.0
+- pkg:maven/software.amazon.awsconstructs/route53apigateway@2.34.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/route53apigateway@2.35.0
+- pkg:maven/software.amazon.awsconstructs/route53apigateway@2.35.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/route53apigateway@2.4.0
 - pkg:maven/software.amazon.awsconstructs/route53apigateway@2.4.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/route53apigateway@2.5.0

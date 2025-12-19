@@ -28,3 +28,5 @@
 - pkg:maven/com.github.davidmoten/grumpy-projection@0.4.5?classifier=sources
 - pkg:maven/com.github.davidmoten/grumpy-projection@0.4.7
 - pkg:maven/com.github.davidmoten/grumpy-projection@0.4.7?classifier=sources
+- pkg:maven/com.github.davidmoten/grumpy-projection@0.4.8
+- pkg:maven/com.github.davidmoten/grumpy-projection@0.4.8?classifier=sources

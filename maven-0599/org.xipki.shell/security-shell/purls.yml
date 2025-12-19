@@ -42,3 +42,4 @@
 - pkg:maven/org.xipki.shell/security-shell@6.0.0?classifier=sources
 - pkg:maven/org.xipki.shell/security-shell@6.1.0
 - pkg:maven/org.xipki.shell/security-shell@6.1.0?classifier=sources
+- pkg:maven/org.xipki.shell/security-shell@6.2.0

@@ -12,3 +12,5 @@
 - pkg:maven/io.github.antonsjava/jaul@1.28?classifier=sources
 - pkg:maven/io.github.antonsjava/jaul@1.29
 - pkg:maven/io.github.antonsjava/jaul@1.29?classifier=sources
+- pkg:maven/io.github.antonsjava/jaul@1.30
+- pkg:maven/io.github.antonsjava/jaul@1.30?classifier=sources

@@ -36,6 +36,9 @@
 - pkg:maven/com.liferay/com.liferay.document.library.api@18.0.0
 - pkg:maven/com.liferay/com.liferay.document.library.api@18.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.api@18.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.api@19.0.0
+- pkg:maven/com.liferay/com.liferay.document.library.api@19.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.api@19.0.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.api@2.0.0
 - pkg:maven/com.liferay/com.liferay.document.library.api@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.api@3.0.0

@@ -30,3 +30,4 @@
 - pkg:maven/com.expediagroup/beekeeper-integration-tests@3.5.0
 - pkg:maven/com.expediagroup/beekeeper-integration-tests@3.5.1
 - pkg:maven/com.expediagroup/beekeeper-integration-tests@3.5.2
+- pkg:maven/com.expediagroup/beekeeper-integration-tests@3.5.3

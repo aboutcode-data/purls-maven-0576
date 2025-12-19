@@ -154,3 +154,13 @@
 - pkg:maven/software.amazon.awscdk/cdk-lambda-layer-node-proxy-agent@1.192.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/cdk-lambda-layer-node-proxy-agent@1.193.0
 - pkg:maven/software.amazon.awscdk/cdk-lambda-layer-node-proxy-agent@1.193.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-lambda-layer-node-proxy-agent@1.194.0
+- pkg:maven/software.amazon.awscdk/cdk-lambda-layer-node-proxy-agent@1.194.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-lambda-layer-node-proxy-agent@1.195.0
+- pkg:maven/software.amazon.awscdk/cdk-lambda-layer-node-proxy-agent@1.195.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-lambda-layer-node-proxy-agent@1.196.0
+- pkg:maven/software.amazon.awscdk/cdk-lambda-layer-node-proxy-agent@1.196.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-lambda-layer-node-proxy-agent@1.197.0
+- pkg:maven/software.amazon.awscdk/cdk-lambda-layer-node-proxy-agent@1.197.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-lambda-layer-node-proxy-agent@1.198.0
+- pkg:maven/software.amazon.awscdk/cdk-lambda-layer-node-proxy-agent@1.198.0?classifier=sources

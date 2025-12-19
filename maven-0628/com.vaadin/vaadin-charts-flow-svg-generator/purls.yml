@@ -194,3 +194,11 @@
 - pkg:maven/com.vaadin/vaadin-charts-flow-svg-generator@23.3.5?classifier=sources
 - pkg:maven/com.vaadin/vaadin-charts-flow-svg-generator@23.3.6
 - pkg:maven/com.vaadin/vaadin-charts-flow-svg-generator@23.3.6?classifier=sources
+- pkg:maven/com.vaadin/vaadin-charts-flow-svg-generator@23.3.7
+- pkg:maven/com.vaadin/vaadin-charts-flow-svg-generator@23.3.7?classifier=sources
+- pkg:maven/com.vaadin/vaadin-charts-flow-svg-generator@23.3.8
+- pkg:maven/com.vaadin/vaadin-charts-flow-svg-generator@23.3.8?classifier=sources
+- pkg:maven/com.vaadin/vaadin-charts-flow-svg-generator@24.0.0
+- pkg:maven/com.vaadin/vaadin-charts-flow-svg-generator@24.0.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-charts-flow-svg-generator@24.0.1
+- pkg:maven/com.vaadin/vaadin-charts-flow-svg-generator@24.0.1?classifier=sources

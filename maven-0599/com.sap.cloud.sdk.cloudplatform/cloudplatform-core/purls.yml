@@ -164,6 +164,8 @@
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/cloudplatform-core@4.0.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/cloudplatform-core@4.1.0
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/cloudplatform-core@4.1.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.cloudplatform/cloudplatform-core@4.10.0
+- pkg:maven/com.sap.cloud.sdk.cloudplatform/cloudplatform-core@4.10.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/cloudplatform-core@4.2.0
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/cloudplatform-core@4.2.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/cloudplatform-core@4.3.0
@@ -176,3 +178,7 @@
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/cloudplatform-core@4.6.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/cloudplatform-core@4.7.0
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/cloudplatform-core@4.7.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.cloudplatform/cloudplatform-core@4.8.0
+- pkg:maven/com.sap.cloud.sdk.cloudplatform/cloudplatform-core@4.8.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.cloudplatform/cloudplatform-core@4.9.0
+- pkg:maven/com.sap.cloud.sdk.cloudplatform/cloudplatform-core@4.9.0?classifier=sources

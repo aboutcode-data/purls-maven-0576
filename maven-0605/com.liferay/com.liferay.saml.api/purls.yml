@@ -55,6 +55,9 @@
 - pkg:maven/com.liferay/com.liferay.saml.api@1.1.45
 - pkg:maven/com.liferay/com.liferay.saml.api@1.1.45?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.api@1.1.45?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.saml.api@1.1.46
+- pkg:maven/com.liferay/com.liferay.saml.api@1.1.46?classifier=sources
+- pkg:maven/com.liferay/com.liferay.saml.api@1.1.46?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.saml.api@2.2.10
 - pkg:maven/com.liferay/com.liferay.saml.api@2.2.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.api@2.2.10?classifier=sources-commercial
@@ -112,6 +115,9 @@
 - pkg:maven/com.liferay/com.liferay.saml.api@2.2.28
 - pkg:maven/com.liferay/com.liferay.saml.api@2.2.28?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.api@2.2.28?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.saml.api@2.2.29
+- pkg:maven/com.liferay/com.liferay.saml.api@2.2.29?classifier=sources
+- pkg:maven/com.liferay/com.liferay.saml.api@2.2.29?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.saml.api@2.2.8
 - pkg:maven/com.liferay/com.liferay.saml.api@2.2.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.api@2.2.8?classifier=sources-commercial
@@ -296,6 +302,9 @@
 - pkg:maven/com.liferay/com.liferay.saml.api@5.3.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.api@5.3.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.saml.api@5.3.2
+- pkg:maven/com.liferay/com.liferay.saml.api@5.3.20
+- pkg:maven/com.liferay/com.liferay.saml.api@5.3.20?classifier=sources
+- pkg:maven/com.liferay/com.liferay.saml.api@5.3.20?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.saml.api@5.3.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.api@5.3.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.saml.api@5.3.3
@@ -373,3 +382,9 @@
 - pkg:maven/com.liferay/com.liferay.saml.api@7.1.0
 - pkg:maven/com.liferay/com.liferay.saml.api@7.1.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.api@7.1.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.saml.api@7.2.0
+- pkg:maven/com.liferay/com.liferay.saml.api@7.2.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.saml.api@7.2.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.saml.api@7.2.1
+- pkg:maven/com.liferay/com.liferay.saml.api@7.2.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.saml.api@7.2.1?classifier=sources-commercial

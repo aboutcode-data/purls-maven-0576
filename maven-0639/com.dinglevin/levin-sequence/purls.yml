@@ -1,0 +1,2 @@
+- pkg:maven/com.dinglevin/levin-sequence@0.0.3
+- pkg:maven/com.dinglevin/levin-sequence@0.0.3?classifier=sources

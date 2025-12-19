@@ -37,6 +37,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.mobile.device.detection.fiftyonedegrees.enterprise@1.0.60
 - pkg:maven/com.liferay/com.liferay.portal.mobile.device.detection.fiftyonedegrees.enterprise@1.0.60?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.mobile.device.detection.fiftyonedegrees.enterprise@1.0.60?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.mobile.device.detection.fiftyonedegrees.enterprise@1.0.61
+- pkg:maven/com.liferay/com.liferay.portal.mobile.device.detection.fiftyonedegrees.enterprise@1.0.61?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.mobile.device.detection.fiftyonedegrees.enterprise@1.0.61?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.mobile.device.detection.fiftyonedegrees.enterprise@2.0.32
 - pkg:maven/com.liferay/com.liferay.portal.mobile.device.detection.fiftyonedegrees.enterprise@2.0.32?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.mobile.device.detection.fiftyonedegrees.enterprise@2.0.32?classifier=sources-commercial

@@ -30,3 +30,4 @@
 - pkg:maven/org.apereo.cas/cas-server-webapp-starter-tomcat@7.0.0-RC2?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-webapp-starter-tomcat@7.0.0-RC3?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-webapp-starter-tomcat@7.0.0-RC4?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-webapp-starter-tomcat@7.0.0-RC5?classifier=sources

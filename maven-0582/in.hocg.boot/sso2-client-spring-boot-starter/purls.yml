@@ -74,6 +74,10 @@
 - pkg:maven/in.hocg.boot/sso2-client-spring-boot-starter@1.0.50?classifier=sources
 - pkg:maven/in.hocg.boot/sso2-client-spring-boot-starter@1.0.51
 - pkg:maven/in.hocg.boot/sso2-client-spring-boot-starter@1.0.51?classifier=sources
+- pkg:maven/in.hocg.boot/sso2-client-spring-boot-starter@1.0.54
+- pkg:maven/in.hocg.boot/sso2-client-spring-boot-starter@1.0.54?classifier=sources
+- pkg:maven/in.hocg.boot/sso2-client-spring-boot-starter@1.0.55
+- pkg:maven/in.hocg.boot/sso2-client-spring-boot-starter@1.0.55?classifier=sources
 - pkg:maven/in.hocg.boot/sso2-client-spring-boot-starter@1.0.9
 - pkg:maven/in.hocg.boot/sso2-client-spring-boot-starter@1.0.9?classifier=sources
 - pkg:maven/in.hocg.boot/sso2-client-spring-boot-starter@v1.0.46

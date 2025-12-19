@@ -1,0 +1,2 @@
+- pkg:maven/com.expediagroup/graphql-kotlin-ktor-server@7.0.0-alpha.3?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-ktor-server@7.0.0-alpha.4?classifier=sources

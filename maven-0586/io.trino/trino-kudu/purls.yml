@@ -54,3 +54,6 @@
 - pkg:maven/io.trino/trino-kudu@405?classifier=sources
 - pkg:maven/io.trino/trino-kudu@406?classifier=sources
 - pkg:maven/io.trino/trino-kudu@407?classifier=sources
+- pkg:maven/io.trino/trino-kudu@408?classifier=sources
+- pkg:maven/io.trino/trino-kudu@409?classifier=sources
+- pkg:maven/io.trino/trino-kudu@410?classifier=sources

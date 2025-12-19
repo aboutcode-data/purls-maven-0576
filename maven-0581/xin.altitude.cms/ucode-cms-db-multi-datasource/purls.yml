@@ -1,2 +1,6 @@
 - pkg:maven/xin.altitude.cms/ucode-cms-db-multi-datasource@1.6.2.5
 - pkg:maven/xin.altitude.cms/ucode-cms-db-multi-datasource@1.6.2.5?classifier=sources
+- pkg:maven/xin.altitude.cms/ucode-cms-db-multi-datasource@1.6.3
+- pkg:maven/xin.altitude.cms/ucode-cms-db-multi-datasource@1.6.3.1-beta
+- pkg:maven/xin.altitude.cms/ucode-cms-db-multi-datasource@1.6.3.1-beta?classifier=sources
+- pkg:maven/xin.altitude.cms/ucode-cms-db-multi-datasource@1.6.3?classifier=sources

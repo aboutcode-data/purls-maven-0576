@@ -18,3 +18,4 @@
 - pkg:maven/de.fabmax/physx-jni@1.0.0?classifier=sources
 - pkg:maven/de.fabmax/physx-jni@1.1.0?classifier=sources
 - pkg:maven/de.fabmax/physx-jni@2.0.4?classifier=sources
+- pkg:maven/de.fabmax/physx-jni@2.0.5?classifier=sources
