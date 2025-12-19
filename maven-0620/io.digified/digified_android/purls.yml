@@ -1,0 +1,2 @@
+- pkg:maven/io.digified/digified_android@1.0.0?classifier=sources
+- pkg:maven/io.digified/digified_android@1.0.2?classifier=sources

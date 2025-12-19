@@ -42,3 +42,7 @@
 - pkg:maven/org.qbicc.rt/qbicc-rt-java.security.sasl@17.alpha.0.50?classifier=sources
 - pkg:maven/org.qbicc.rt/qbicc-rt-java.security.sasl@17.alpha.0.51
 - pkg:maven/org.qbicc.rt/qbicc-rt-java.security.sasl@17.alpha.0.51?classifier=sources
+- pkg:maven/org.qbicc.rt/qbicc-rt-java.security.sasl@17.alpha.0.52
+- pkg:maven/org.qbicc.rt/qbicc-rt-java.security.sasl@17.alpha.0.52?classifier=sources
+- pkg:maven/org.qbicc.rt/qbicc-rt-java.security.sasl@17.alpha.0.53
+- pkg:maven/org.qbicc.rt/qbicc-rt-java.security.sasl@17.alpha.0.53?classifier=sources

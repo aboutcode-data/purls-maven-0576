@@ -1,0 +1,5 @@
+- pkg:maven/cool.taomu/taomu-json-indexed@0.0.5a?classifier=sources
+- pkg:maven/cool.taomu/taomu-json-indexed@0.0.5b?classifier=sources
+- pkg:maven/cool.taomu/taomu-json-indexed@0.0.5c?classifier=sources
+- pkg:maven/cool.taomu/taomu-json-indexed@0.0.5d?classifier=sources
+- pkg:maven/cool.taomu/taomu-json-indexed@0.0.5e?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.lightbend.akka/akka-projection-kafka_3@1.4.0-M4
+- pkg:maven/com.lightbend.akka/akka-projection-kafka_3@1.4.0-M4?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/org.springblade/blade-core-datascope@3.4.1?classifier=sources
 - pkg:maven/org.springblade/blade-core-datascope@3.5.0
 - pkg:maven/org.springblade/blade-core-datascope@3.5.0?classifier=sources
+- pkg:maven/org.springblade/blade-core-datascope@3.6.0
+- pkg:maven/org.springblade/blade-core-datascope@3.6.0?classifier=sources

@@ -78,3 +78,8 @@
 - pkg:maven/com.softicar.platform/platform-dom@37.0.3?classifier=sources
 - pkg:maven/com.softicar.platform/platform-dom@38.0.0?classifier=sources
 - pkg:maven/com.softicar.platform/platform-dom@39.0.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-dom@40.0.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-dom@40.0.1?classifier=sources
+- pkg:maven/com.softicar.platform/platform-dom@41.0.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-dom@41.1.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-dom@42.0.0?classifier=sources

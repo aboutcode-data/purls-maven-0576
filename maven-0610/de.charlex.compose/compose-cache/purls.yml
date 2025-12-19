@@ -1,1 +1,2 @@
 - pkg:maven/de.charlex.compose/compose-cache@1.0.0?classifier=sources
+- pkg:maven/de.charlex.compose/compose-cache@2.0.0?classifier=sources

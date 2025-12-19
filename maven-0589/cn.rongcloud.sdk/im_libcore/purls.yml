@@ -26,6 +26,8 @@
 - pkg:maven/cn.rongcloud.sdk/im_libcore@5.1.9.7?type=aar
 - pkg:maven/cn.rongcloud.sdk/im_libcore@5.1.9.8?classifier=sources
 - pkg:maven/cn.rongcloud.sdk/im_libcore@5.1.9.8?type=aar
+- pkg:maven/cn.rongcloud.sdk/im_libcore@5.1.9.9?classifier=sources
+- pkg:maven/cn.rongcloud.sdk/im_libcore@5.1.9.9?type=aar
 - pkg:maven/cn.rongcloud.sdk/im_libcore@5.1.9?classifier=sources
 - pkg:maven/cn.rongcloud.sdk/im_libcore@5.1.9?type=aar
 - pkg:maven/cn.rongcloud.sdk/im_libcore@5.2.0.1?classifier=sources
@@ -42,3 +44,4 @@
 - pkg:maven/cn.rongcloud.sdk/im_libcore@5.4.0.1?type=aar
 - pkg:maven/cn.rongcloud.sdk/im_libcore@5.4.0.2?type=aar
 - pkg:maven/cn.rongcloud.sdk/im_libcore@5.4.0?type=aar
+- pkg:maven/cn.rongcloud.sdk/im_libcore@5.4.1?type=aar

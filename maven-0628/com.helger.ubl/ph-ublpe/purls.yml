@@ -22,3 +22,5 @@
 - pkg:maven/com.helger.ubl/ph-ublpe@6.7.0?classifier=sources
 - pkg:maven/com.helger.ubl/ph-ublpe@7.0.0
 - pkg:maven/com.helger.ubl/ph-ublpe@7.0.0?classifier=sources
+- pkg:maven/com.helger.ubl/ph-ublpe@8.0.0
+- pkg:maven/com.helger.ubl/ph-ublpe@8.0.0?classifier=sources

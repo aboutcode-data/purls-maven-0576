@@ -29,3 +29,4 @@
 - pkg:maven/io.qtjambi/qtjambi-uic@6.4.2?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-uic@6.4.3?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-uic@6.4.4?classifier=sources
+- pkg:maven/io.qtjambi/qtjambi-uic@6.5.0?classifier=sources

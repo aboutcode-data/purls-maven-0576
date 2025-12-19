@@ -12,3 +12,5 @@
 - pkg:maven/software.amazon.textract.idp/idp-cdk-constructs@0.0.20?classifier=sources
 - pkg:maven/software.amazon.textract.idp/idp-cdk-constructs@0.0.21
 - pkg:maven/software.amazon.textract.idp/idp-cdk-constructs@0.0.21?classifier=sources
+- pkg:maven/software.amazon.textract.idp/idp-cdk-constructs@0.0.23
+- pkg:maven/software.amazon.textract.idp/idp-cdk-constructs@0.0.23?classifier=sources

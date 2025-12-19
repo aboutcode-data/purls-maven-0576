@@ -18,3 +18,5 @@
 - pkg:maven/com.ibm.cloud/firewall-rules@0.31.0?classifier=sources
 - pkg:maven/com.ibm.cloud/firewall-rules@0.31.1
 - pkg:maven/com.ibm.cloud/firewall-rules@0.31.1?classifier=sources
+- pkg:maven/com.ibm.cloud/firewall-rules@0.32.0
+- pkg:maven/com.ibm.cloud/firewall-rules@0.32.0?classifier=sources

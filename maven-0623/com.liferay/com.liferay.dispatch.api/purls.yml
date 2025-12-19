@@ -49,6 +49,9 @@
 - pkg:maven/com.liferay/com.liferay.dispatch.api@17.0.0
 - pkg:maven/com.liferay/com.liferay.dispatch.api@17.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dispatch.api@17.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.dispatch.api@18.0.0
+- pkg:maven/com.liferay/com.liferay.dispatch.api@18.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dispatch.api@18.0.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.dispatch.api@2.0.0
 - pkg:maven/com.liferay/com.liferay.dispatch.api@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dispatch.api@2.0.0?classifier=sources-commercial

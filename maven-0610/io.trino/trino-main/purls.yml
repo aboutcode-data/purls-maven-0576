@@ -116,3 +116,11 @@
 - pkg:maven/io.trino/trino-main@409?classifier=sources
 - pkg:maven/io.trino/trino-main@410
 - pkg:maven/io.trino/trino-main@410?classifier=sources
+- pkg:maven/io.trino/trino-main@411
+- pkg:maven/io.trino/trino-main@411?classifier=sources
+- pkg:maven/io.trino/trino-main@412
+- pkg:maven/io.trino/trino-main@412?classifier=sources
+- pkg:maven/io.trino/trino-main@413
+- pkg:maven/io.trino/trino-main@413?classifier=sources
+- pkg:maven/io.trino/trino-main@414
+- pkg:maven/io.trino/trino-main@414?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/net.wiringbits/admin-data-explorer-api_2.13@0.5.17?classifier=sources
 - pkg:maven/net.wiringbits/admin-data-explorer-api_2.13@0.5.18
 - pkg:maven/net.wiringbits/admin-data-explorer-api_2.13@0.5.18?classifier=sources
+- pkg:maven/net.wiringbits/admin-data-explorer-api_2.13@0.6.1
+- pkg:maven/net.wiringbits/admin-data-explorer-api_2.13@0.6.1?classifier=sources

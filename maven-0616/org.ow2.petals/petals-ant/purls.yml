@@ -39,3 +39,5 @@
 - pkg:maven/org.ow2.petals/petals-ant@2.8.0?classifier=source-release&type=zip
 - pkg:maven/org.ow2.petals/petals-ant@2.8.0?classifier=sources
 - pkg:maven/org.ow2.petals/petals-ant@2.8.0?type=zip
+- pkg:maven/org.ow2.petals/petals-ant@2.9.0?classifier=sources
+- pkg:maven/org.ow2.petals/petals-ant@2.9.0?type=zip

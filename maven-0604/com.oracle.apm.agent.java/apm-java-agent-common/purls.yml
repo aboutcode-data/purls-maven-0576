@@ -8,3 +8,7 @@
 - pkg:maven/com.oracle.apm.agent.java/apm-java-agent-common@1.7.2976?classifier=sources
 - pkg:maven/com.oracle.apm.agent.java/apm-java-agent-common@1.8.3326
 - pkg:maven/com.oracle.apm.agent.java/apm-java-agent-common@1.8.3326?classifier=sources
+- pkg:maven/com.oracle.apm.agent.java/apm-java-agent-common@1.9.20.29
+- pkg:maven/com.oracle.apm.agent.java/apm-java-agent-common@1.9.20.29?classifier=sources
+- pkg:maven/com.oracle.apm.agent.java/apm-java-agent-common@1.9.21.4
+- pkg:maven/com.oracle.apm.agent.java/apm-java-agent-common@1.9.21.4?classifier=sources

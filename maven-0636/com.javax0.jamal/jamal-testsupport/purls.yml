@@ -93,3 +93,7 @@
 - pkg:maven/com.javax0.jamal/jamal-testsupport@1.9.0?classifier=sources
 - pkg:maven/com.javax0.jamal/jamal-testsupport@1.9.1
 - pkg:maven/com.javax0.jamal/jamal-testsupport@1.9.1?classifier=sources
+- pkg:maven/com.javax0.jamal/jamal-testsupport@2.0.0
+- pkg:maven/com.javax0.jamal/jamal-testsupport@2.0.0?classifier=sources
+- pkg:maven/com.javax0.jamal/jamal-testsupport@2.0.1
+- pkg:maven/com.javax0.jamal/jamal-testsupport@2.0.1?classifier=sources

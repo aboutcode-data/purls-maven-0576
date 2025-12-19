@@ -1,0 +1,2 @@
+- pkg:maven/com.timecho.timechodb/iotdb-thrift-commons@1.0.1.1
+- pkg:maven/com.timecho.timechodb/iotdb-thrift-commons@1.0.1.1?classifier=sources

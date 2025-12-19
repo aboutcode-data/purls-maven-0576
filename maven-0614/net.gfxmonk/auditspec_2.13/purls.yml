@@ -2,3 +2,5 @@
 - pkg:maven/net.gfxmonk/auditspec_2.13@0.1.0?classifier=sources
 - pkg:maven/net.gfxmonk/auditspec_2.13@0.3.0
 - pkg:maven/net.gfxmonk/auditspec_2.13@0.3.0?classifier=sources
+- pkg:maven/net.gfxmonk/auditspec_2.13@0.3.1
+- pkg:maven/net.gfxmonk/auditspec_2.13@0.3.1?classifier=sources

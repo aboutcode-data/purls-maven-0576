@@ -1,0 +1,2 @@
+- pkg:maven/io.zipkin.brave/brave-instrumentation-jms-jakarta@5.15.1
+- pkg:maven/io.zipkin.brave/brave-instrumentation-jms-jakarta@5.15.1?classifier=sources

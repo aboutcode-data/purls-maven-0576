@@ -18,3 +18,7 @@
 - pkg:maven/io.github.omzz15/structure@2.0.6-RELEASE?classifier=sources
 - pkg:maven/io.github.omzz15/structure@2.0.7-RELEASE
 - pkg:maven/io.github.omzz15/structure@2.0.7-RELEASE?classifier=sources
+- pkg:maven/io.github.omzz15/structure@2.1.0-FTCRELEASE
+- pkg:maven/io.github.omzz15/structure@2.1.0-FTCRELEASE?classifier=sources
+- pkg:maven/io.github.omzz15/structure@2.1.0-RELEASE
+- pkg:maven/io.github.omzz15/structure@2.1.0-RELEASE?classifier=sources

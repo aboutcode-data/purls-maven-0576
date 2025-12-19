@@ -59,3 +59,4 @@
 - pkg:maven/org.odpi.egeria/security-officer-client@3.8?classifier=sources
 - pkg:maven/org.odpi.egeria/security-officer-client@3.9
 - pkg:maven/org.odpi.egeria/security-officer-client@3.9?classifier=sources
+- pkg:maven/org.odpi.egeria/security-officer-client@4.0?classifier=sources

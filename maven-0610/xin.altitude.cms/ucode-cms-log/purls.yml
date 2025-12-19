@@ -103,4 +103,14 @@
 - pkg:maven/xin.altitude.cms/ucode-cms-log@1.6.3
 - pkg:maven/xin.altitude.cms/ucode-cms-log@1.6.3.1-beta
 - pkg:maven/xin.altitude.cms/ucode-cms-log@1.6.3.1-beta?classifier=sources
+- pkg:maven/xin.altitude.cms/ucode-cms-log@1.6.3.2-beta
+- pkg:maven/xin.altitude.cms/ucode-cms-log@1.6.3.2-beta?classifier=sources
+- pkg:maven/xin.altitude.cms/ucode-cms-log@1.6.3.3-beta
+- pkg:maven/xin.altitude.cms/ucode-cms-log@1.6.3.3-beta?classifier=sources
+- pkg:maven/xin.altitude.cms/ucode-cms-log@1.6.3.4-beta
+- pkg:maven/xin.altitude.cms/ucode-cms-log@1.6.3.4-beta?classifier=sources
+- pkg:maven/xin.altitude.cms/ucode-cms-log@1.6.3.5-beta
+- pkg:maven/xin.altitude.cms/ucode-cms-log@1.6.3.5-beta?classifier=sources
+- pkg:maven/xin.altitude.cms/ucode-cms-log@1.6.3.6-beta
+- pkg:maven/xin.altitude.cms/ucode-cms-log@1.6.3.6-beta?classifier=sources
 - pkg:maven/xin.altitude.cms/ucode-cms-log@1.6.3?classifier=sources

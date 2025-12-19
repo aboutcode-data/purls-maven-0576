@@ -1,1 +1,4 @@
 - pkg:maven/io.apiman/apiman-distro-docker-compose@3.1.0.RC2?classifier=sources
+- pkg:maven/io.apiman/apiman-distro-docker-compose@3.1.0.RC4?classifier=sources
+- pkg:maven/io.apiman/apiman-distro-docker-compose@3.1.0.RC6?classifier=sources
+- pkg:maven/io.apiman/apiman-distro-docker-compose@3.1.1.Final?classifier=sources

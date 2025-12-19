@@ -42,3 +42,6 @@
 - pkg:maven/com.bybutter.sisyphus.starter/sisyphus-spring-boot-test-starter@1.6.0?classifier=sources
 - pkg:maven/com.bybutter.sisyphus.starter/sisyphus-spring-boot-test-starter@1.6.10?classifier=sources
 - pkg:maven/com.bybutter.sisyphus.starter/sisyphus-spring-boot-test-starter@1.7.0?classifier=sources
+- pkg:maven/com.bybutter.sisyphus.starter/sisyphus-spring-boot-test-starter@1.7.10?classifier=sources
+- pkg:maven/com.bybutter.sisyphus.starter/sisyphus-spring-boot-test-starter@1.7.11?classifier=sources
+- pkg:maven/com.bybutter.sisyphus.starter/sisyphus-spring-boot-test-starter@1.7.12?classifier=sources

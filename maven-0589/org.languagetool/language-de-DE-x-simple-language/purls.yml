@@ -80,3 +80,5 @@
 - pkg:maven/org.languagetool/language-de-DE-x-simple-language@5.9?classifier=sources
 - pkg:maven/org.languagetool/language-de-DE-x-simple-language@6.0
 - pkg:maven/org.languagetool/language-de-DE-x-simple-language@6.0?classifier=sources
+- pkg:maven/org.languagetool/language-de-DE-x-simple-language@6.1
+- pkg:maven/org.languagetool/language-de-DE-x-simple-language@6.1?classifier=sources

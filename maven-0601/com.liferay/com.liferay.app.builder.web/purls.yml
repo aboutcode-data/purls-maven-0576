@@ -239,6 +239,9 @@
 - pkg:maven/com.liferay/com.liferay.app.builder.web@1.0.81
 - pkg:maven/com.liferay/com.liferay.app.builder.web@1.0.81?classifier=sources
 - pkg:maven/com.liferay/com.liferay.app.builder.web@1.0.81?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.app.builder.web@1.0.82
+- pkg:maven/com.liferay/com.liferay.app.builder.web@1.0.82?classifier=sources
+- pkg:maven/com.liferay/com.liferay.app.builder.web@1.0.82?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.app.builder.web@1.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.app.builder.web@1.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.app.builder.web@1.0.9

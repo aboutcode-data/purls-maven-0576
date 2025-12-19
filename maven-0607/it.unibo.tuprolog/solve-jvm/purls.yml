@@ -70,3 +70,5 @@
 - pkg:maven/it.unibo.tuprolog/solve-jvm@0.31.1-dev01%2Bf8b39929b?classifier=sources
 - pkg:maven/it.unibo.tuprolog/solve-jvm@0.31.1-dev02%2B0cd8a1ae6?classifier=sources
 - pkg:maven/it.unibo.tuprolog/solve-jvm@0.31.1?classifier=sources
+- pkg:maven/it.unibo.tuprolog/solve-jvm@0.31.2?classifier=sources
+- pkg:maven/it.unibo.tuprolog/solve-jvm@0.31.3?classifier=sources

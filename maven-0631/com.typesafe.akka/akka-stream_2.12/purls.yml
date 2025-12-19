@@ -178,3 +178,5 @@
 - pkg:maven/com.typesafe.akka/akka-stream_2.12@2.8.0-M6
 - pkg:maven/com.typesafe.akka/akka-stream_2.12@2.8.0-M6?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-stream_2.12@2.8.0?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-stream_2.12@2.8.1-M1
+- pkg:maven/com.typesafe.akka/akka-stream_2.12@2.8.1-M1?classifier=sources

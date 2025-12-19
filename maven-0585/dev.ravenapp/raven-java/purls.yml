@@ -14,4 +14,8 @@
 - pkg:maven/dev.ravenapp/raven-java@0.0.38?classifier=sources
 - pkg:maven/dev.ravenapp/raven-java@0.0.39?classifier=sources
 - pkg:maven/dev.ravenapp/raven-java@0.0.42?classifier=sources
+- pkg:maven/dev.ravenapp/raven-java@0.0.51?classifier=sources
+- pkg:maven/dev.ravenapp/raven-java@0.0.52?classifier=sources
+- pkg:maven/dev.ravenapp/raven-java@0.0.53?classifier=sources
+- pkg:maven/dev.ravenapp/raven-java@0.0.54?classifier=sources
 - pkg:maven/dev.ravenapp/raven-java@0.034?classifier=sources

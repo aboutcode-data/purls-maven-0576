@@ -1,0 +1,2 @@
+- pkg:maven/io.github.1994/smartorm-core@1.0.0.Alpha
+- pkg:maven/io.github.1994/smartorm-core@1.0.0.Alpha?classifier=sources

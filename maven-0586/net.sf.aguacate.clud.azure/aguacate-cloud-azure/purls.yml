@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.aguacate.clud.azure/aguacate-cloud-azure@0.0.1
+- pkg:maven/net.sf.aguacate.clud.azure/aguacate-cloud-azure@0.0.1?classifier=sources

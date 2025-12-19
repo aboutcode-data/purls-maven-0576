@@ -2,3 +2,6 @@
 - pkg:maven/org.sonarsource.iac/sonar-iac-docker@1.11.0.2847?classifier=sources
 - pkg:maven/org.sonarsource.iac/sonar-iac-docker@1.12.0.3222?classifier=sources
 - pkg:maven/org.sonarsource.iac/sonar-iac-docker@1.13.0.3464?classifier=sources
+- pkg:maven/org.sonarsource.iac/sonar-iac-docker@1.14.0.3657?classifier=sources
+- pkg:maven/org.sonarsource.iac/sonar-iac-docker@1.15.0.3752?classifier=sources
+- pkg:maven/org.sonarsource.iac/sonar-iac-docker@1.16.0.3845?classifier=sources

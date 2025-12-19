@@ -96,3 +96,5 @@
 - pkg:maven/org.opencb.cellbase/cellbase-lib@5.2.9?classifier=sources
 - pkg:maven/org.opencb.cellbase/cellbase-lib@5.3.0
 - pkg:maven/org.opencb.cellbase/cellbase-lib@5.3.0?classifier=sources
+- pkg:maven/org.opencb.cellbase/cellbase-lib@5.4.0
+- pkg:maven/org.opencb.cellbase/cellbase-lib@5.4.0?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/babel__plugin-proposal-class-static-block@7.16.7?classifier=sources
 - pkg:maven/org.webjars.npm/babel__plugin-proposal-class-static-block@7.18.0
 - pkg:maven/org.webjars.npm/babel__plugin-proposal-class-static-block@7.18.0?classifier=sources
+- pkg:maven/org.webjars.npm/babel__plugin-proposal-class-static-block@7.21.0
+- pkg:maven/org.webjars.npm/babel__plugin-proposal-class-static-block@7.21.0?classifier=sources

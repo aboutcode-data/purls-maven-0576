@@ -1,0 +1,2 @@
+- pkg:maven/me.proton.core/key-transparency@10.3.0?classifier=sources
+- pkg:maven/me.proton.core/key-transparency@10.4.0?classifier=sources

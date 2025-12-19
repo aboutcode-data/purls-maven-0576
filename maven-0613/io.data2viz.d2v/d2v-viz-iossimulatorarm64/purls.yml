@@ -1,2 +1,3 @@
 - pkg:maven/io.data2viz.d2v/d2v-viz-iossimulatorarm64@0.10.2?classifier=sources
 - pkg:maven/io.data2viz.d2v/d2v-viz-iossimulatorarm64@10.0.3?classifier=sources
+- pkg:maven/io.data2viz.d2v/d2v-viz-iossimulatorarm64@10.0.4?classifier=sources

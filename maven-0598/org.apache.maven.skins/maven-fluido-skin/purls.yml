@@ -55,3 +55,6 @@
 - pkg:maven/org.apache.maven.skins/maven-fluido-skin@2.0.0-M3
 - pkg:maven/org.apache.maven.skins/maven-fluido-skin@2.0.0-M3?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.skins/maven-fluido-skin@2.0.0-M3?classifier=sources
+- pkg:maven/org.apache.maven.skins/maven-fluido-skin@2.0.0-M5
+- pkg:maven/org.apache.maven.skins/maven-fluido-skin@2.0.0-M5?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.skins/maven-fluido-skin@2.0.0-M5?classifier=sources

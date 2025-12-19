@@ -14,3 +14,5 @@
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-jpa@6.4.0?classifier=sources
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-jpa@6.5.0
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-jpa@6.5.0?classifier=sources
+- pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-jpa@7.0.0
+- pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-jpa@7.0.0?classifier=sources

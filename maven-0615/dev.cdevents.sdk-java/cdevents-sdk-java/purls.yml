@@ -1,0 +1,2 @@
+- pkg:maven/dev.cdevents.sdk-java/cdevents-sdk-java@v0.1.0-draft6
+- pkg:maven/dev.cdevents.sdk-java/cdevents-sdk-java@v0.1.0-draft6?classifier=sources

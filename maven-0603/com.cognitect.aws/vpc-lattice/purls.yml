@@ -1,0 +1,2 @@
+- pkg:maven/com.cognitect.aws/vpc-lattice@845.2.1359.0
+- pkg:maven/com.cognitect.aws/vpc-lattice@845.2.1359.0?classifier=sources

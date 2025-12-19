@@ -22,3 +22,7 @@
 - pkg:maven/com.hashicorp/cdktf-provider-http@2.0.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-http@3.0.0
 - pkg:maven/com.hashicorp/cdktf-provider-http@3.0.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-http@4.0.0
+- pkg:maven/com.hashicorp/cdktf-provider-http@4.0.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-http@4.0.1
+- pkg:maven/com.hashicorp/cdktf-provider-http@4.0.1?classifier=sources

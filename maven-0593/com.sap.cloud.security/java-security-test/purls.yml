@@ -66,6 +66,10 @@
 - pkg:maven/com.sap.cloud.security/java-security-test@2.13.6?classifier=sources
 - pkg:maven/com.sap.cloud.security/java-security-test@2.13.7
 - pkg:maven/com.sap.cloud.security/java-security-test@2.13.7?classifier=sources
+- pkg:maven/com.sap.cloud.security/java-security-test@2.13.8
+- pkg:maven/com.sap.cloud.security/java-security-test@2.13.8?classifier=sources
+- pkg:maven/com.sap.cloud.security/java-security-test@2.13.9
+- pkg:maven/com.sap.cloud.security/java-security-test@2.13.9?classifier=sources
 - pkg:maven/com.sap.cloud.security/java-security-test@2.4.4
 - pkg:maven/com.sap.cloud.security/java-security-test@2.4.4?classifier=sources
 - pkg:maven/com.sap.cloud.security/java-security-test@2.4.5
@@ -128,3 +132,5 @@
 - pkg:maven/com.sap.cloud.security/java-security-test@2.8.9?classifier=sources
 - pkg:maven/com.sap.cloud.security/java-security-test@2.9.0
 - pkg:maven/com.sap.cloud.security/java-security-test@2.9.0?classifier=sources
+- pkg:maven/com.sap.cloud.security/java-security-test@3.0.0
+- pkg:maven/com.sap.cloud.security/java-security-test@3.0.0?classifier=sources

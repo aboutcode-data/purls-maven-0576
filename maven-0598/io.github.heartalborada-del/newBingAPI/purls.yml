@@ -4,3 +4,5 @@
 - pkg:maven/io.github.heartalborada-del/newBingAPI@1.0.1-Release?classifier=sources
 - pkg:maven/io.github.heartalborada-del/newBingAPI@1.0.2-Release
 - pkg:maven/io.github.heartalborada-del/newBingAPI@1.0.2-Release?classifier=sources
+- pkg:maven/io.github.heartalborada-del/newBingAPI@1.0.3-Release
+- pkg:maven/io.github.heartalborada-del/newBingAPI@1.0.3-Release?classifier=sources

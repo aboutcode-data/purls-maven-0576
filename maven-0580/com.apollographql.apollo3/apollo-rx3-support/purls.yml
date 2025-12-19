@@ -40,3 +40,4 @@
 - pkg:maven/com.apollographql.apollo3/apollo-rx3-support@3.7.3?classifier=sources
 - pkg:maven/com.apollographql.apollo3/apollo-rx3-support@3.7.4?classifier=sources
 - pkg:maven/com.apollographql.apollo3/apollo-rx3-support@3.7.5?classifier=sources
+- pkg:maven/com.apollographql.apollo3/apollo-rx3-support@3.8.0?classifier=sources

@@ -180,6 +180,8 @@
 - pkg:maven/org.glassfish.jersey.examples/managed-client@2.38
 - pkg:maven/org.glassfish.jersey.examples/managed-client@2.38?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/managed-client@2.39
+- pkg:maven/org.glassfish.jersey.examples/managed-client@2.39.1
+- pkg:maven/org.glassfish.jersey.examples/managed-client@2.39.1?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/managed-client@2.39?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/managed-client@2.3?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/managed-client@2.3?classifier=sources
@@ -223,6 +225,8 @@
 - pkg:maven/org.glassfish.jersey.examples/managed-client@3.0.0?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/managed-client@3.0.0?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/managed-client@3.0.1
+- pkg:maven/org.glassfish.jersey.examples/managed-client@3.0.10
+- pkg:maven/org.glassfish.jersey.examples/managed-client@3.0.10?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/managed-client@3.0.1?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/managed-client@3.0.1?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/managed-client@3.0.2

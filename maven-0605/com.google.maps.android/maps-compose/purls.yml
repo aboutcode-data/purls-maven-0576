@@ -12,6 +12,7 @@
 - pkg:maven/com.google.maps.android/maps-compose@2.11.1?classifier=sources
 - pkg:maven/com.google.maps.android/maps-compose@2.11.2?classifier=sources
 - pkg:maven/com.google.maps.android/maps-compose@2.11.3?classifier=sources
+- pkg:maven/com.google.maps.android/maps-compose@2.11.4?classifier=sources
 - pkg:maven/com.google.maps.android/maps-compose@2.2.0?classifier=sources
 - pkg:maven/com.google.maps.android/maps-compose@2.2.1?classifier=sources
 - pkg:maven/com.google.maps.android/maps-compose@2.3.0?classifier=sources

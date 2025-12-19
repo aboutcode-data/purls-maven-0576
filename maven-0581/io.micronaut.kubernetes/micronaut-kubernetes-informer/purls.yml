@@ -3,3 +3,6 @@
 - pkg:maven/io.micronaut.kubernetes/micronaut-kubernetes-informer@3.2.1?classifier=sources
 - pkg:maven/io.micronaut.kubernetes/micronaut-kubernetes-informer@3.3.0?classifier=sources
 - pkg:maven/io.micronaut.kubernetes/micronaut-kubernetes-informer@3.4.0?classifier=sources
+- pkg:maven/io.micronaut.kubernetes/micronaut-kubernetes-informer@3.4.1?classifier=sources
+- pkg:maven/io.micronaut.kubernetes/micronaut-kubernetes-informer@4.0.0?classifier=sources
+- pkg:maven/io.micronaut.kubernetes/micronaut-kubernetes-informer@5.0.0-M1?classifier=sources

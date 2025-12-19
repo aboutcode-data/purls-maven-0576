@@ -104,3 +104,5 @@
 - pkg:maven/com.typesafe.akka/akka-actor_2.13@2.8.0-M6
 - pkg:maven/com.typesafe.akka/akka-actor_2.13@2.8.0-M6?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-actor_2.13@2.8.0?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-actor_2.13@2.8.1-M1
+- pkg:maven/com.typesafe.akka/akka-actor_2.13@2.8.1-M1?classifier=sources

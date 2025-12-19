@@ -1,0 +1,4 @@
+- pkg:maven/org.finos.symphony.wdk/workflow-bot-app-plain@1.5.0-TEST2?classifier=sources
+- pkg:maven/org.finos.symphony.wdk/workflow-bot-app-plain@1.5.0-TEST?classifier=sources
+- pkg:maven/org.finos.symphony.wdk/workflow-bot-app-plain@1.5.0?classifier=sources
+- pkg:maven/org.finos.symphony.wdk/workflow-bot-app-plain@1.5.1?classifier=sources

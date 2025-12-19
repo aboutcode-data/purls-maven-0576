@@ -22,3 +22,5 @@
 - pkg:maven/com.helger.ubl/ph-ubl20-codelists@6.7.0?classifier=sources
 - pkg:maven/com.helger.ubl/ph-ubl20-codelists@7.0.0
 - pkg:maven/com.helger.ubl/ph-ubl20-codelists@7.0.0?classifier=sources
+- pkg:maven/com.helger.ubl/ph-ubl20-codelists@8.0.0
+- pkg:maven/com.helger.ubl/ph-ubl20-codelists@8.0.0?classifier=sources

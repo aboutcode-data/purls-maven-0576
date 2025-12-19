@@ -1,0 +1,2 @@
+- pkg:maven/io.github.pnoker/dc3-starter-center-register-eureka-client@2023.4.0
+- pkg:maven/io.github.pnoker/dc3-starter-center-register-eureka-client@2023.4.0?classifier=sources

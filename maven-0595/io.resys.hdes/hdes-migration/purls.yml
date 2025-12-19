@@ -1,2 +1,4 @@
 - pkg:maven/io.resys.hdes/hdes-migration@3.130.58
 - pkg:maven/io.resys.hdes/hdes-migration@3.130.59
+- pkg:maven/io.resys.hdes/hdes-migration@3.130.60
+- pkg:maven/io.resys.hdes/hdes-migration@3.130.61

@@ -1,0 +1,2 @@
+- pkg:maven/de.code-sourcery.maven.buildprofiler/maven-build-profiler-server@1.0.3
+- pkg:maven/de.code-sourcery.maven.buildprofiler/maven-build-profiler-server@1.0.3?classifier=sources

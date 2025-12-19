@@ -16,3 +16,4 @@
 - pkg:maven/com.sensorsdata.analytics.abtesting/SensorsABTesting@0.2.2?classifier=sources
 - pkg:maven/com.sensorsdata.analytics.abtesting/SensorsABTesting@0.2.3?classifier=sources
 - pkg:maven/com.sensorsdata.analytics.abtesting/SensorsABTesting@0.2.4?classifier=sources
+- pkg:maven/com.sensorsdata.analytics.abtesting/SensorsABTesting@1.0.0?classifier=sources

@@ -1,2 +1,3 @@
 - pkg:maven/com.amazonaws/aws-xray-recorder-sdk-lambda@2.12.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-xray-recorder-sdk-lambda@2.13.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-xray-recorder-sdk-lambda@2.14.0?classifier=sources

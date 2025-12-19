@@ -5,6 +5,8 @@
 - pkg:maven/de.cs-dev.ebus/ebus-core@1.1.0
 - pkg:maven/de.cs-dev.ebus/ebus-core@1.1.0?classifier=sources
 - pkg:maven/de.cs-dev.ebus/ebus-core@1.1.1
+- pkg:maven/de.cs-dev.ebus/ebus-core@1.1.10
+- pkg:maven/de.cs-dev.ebus/ebus-core@1.1.11
 - pkg:maven/de.cs-dev.ebus/ebus-core@1.1.2
 - pkg:maven/de.cs-dev.ebus/ebus-core@1.1.3
 - pkg:maven/de.cs-dev.ebus/ebus-core@1.1.4

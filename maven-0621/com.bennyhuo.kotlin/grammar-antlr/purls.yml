@@ -1,1 +1,2 @@
 - pkg:maven/com.bennyhuo.kotlin/grammar-antlr@0.1?classifier=sources
+- pkg:maven/com.bennyhuo.kotlin/grammar-antlr@1.8.0?classifier=sources

@@ -1143,6 +1143,12 @@
 - pkg:maven/com.liferay/com.liferay.journal.lang@5.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.lang@5.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.journal.lang@5.0.9
+- pkg:maven/com.liferay/com.liferay.journal.lang@5.0.90
+- pkg:maven/com.liferay/com.liferay.journal.lang@5.0.90?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.lang@5.0.90?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.journal.lang@5.0.91
+- pkg:maven/com.liferay/com.liferay.journal.lang@5.0.91?classifier=sources
+- pkg:maven/com.liferay/com.liferay.journal.lang@5.0.91?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.journal.lang@5.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.journal.lang@5.0.9?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.journal.lang@6.0.0

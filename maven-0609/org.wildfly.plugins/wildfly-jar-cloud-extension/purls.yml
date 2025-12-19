@@ -82,3 +82,7 @@
 - pkg:maven/org.wildfly.plugins/wildfly-jar-cloud-extension@8.0.1.Final?classifier=sources
 - pkg:maven/org.wildfly.plugins/wildfly-jar-cloud-extension@8.1.0.Final
 - pkg:maven/org.wildfly.plugins/wildfly-jar-cloud-extension@8.1.0.Final?classifier=sources
+- pkg:maven/org.wildfly.plugins/wildfly-jar-cloud-extension@9.0.0.Beta1
+- pkg:maven/org.wildfly.plugins/wildfly-jar-cloud-extension@9.0.0.Beta1?classifier=sources
+- pkg:maven/org.wildfly.plugins/wildfly-jar-cloud-extension@9.0.0.Final
+- pkg:maven/org.wildfly.plugins/wildfly-jar-cloud-extension@9.0.0.Final?classifier=sources

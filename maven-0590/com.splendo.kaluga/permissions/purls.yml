@@ -1,3 +1,4 @@
 - pkg:maven/com.splendo.kaluga/permissions@0.1.11?classifier=sources
 - pkg:maven/com.splendo.kaluga/permissions@0.5.0?classifier=sources
 - pkg:maven/com.splendo.kaluga/permissions@1.0.0?classifier=sources
+- pkg:maven/com.splendo.kaluga/permissions@1.1.0?classifier=sources

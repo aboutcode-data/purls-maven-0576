@@ -98,3 +98,11 @@
 - pkg:maven/com.immomo.cosmos/cvcenter@2.2.6.20230308.1550?type=aar
 - pkg:maven/com.immomo.cosmos/cvcenter@2.2.6.20230321.1151?classifier=sources
 - pkg:maven/com.immomo.cosmos/cvcenter@2.2.6.20230321.1151?type=aar
+- pkg:maven/com.immomo.cosmos/cvcenter@2.2.6.20230329.1043?classifier=sources
+- pkg:maven/com.immomo.cosmos/cvcenter@2.2.6.20230329.1043?type=aar
+- pkg:maven/com.immomo.cosmos/cvcenter@2.2.6.20230404.1656?classifier=sources
+- pkg:maven/com.immomo.cosmos/cvcenter@2.2.6.20230404.1656?type=aar
+- pkg:maven/com.immomo.cosmos/cvcenter@2.2.6.20230418.1650?classifier=sources
+- pkg:maven/com.immomo.cosmos/cvcenter@2.2.6.20230418.1650?type=aar
+- pkg:maven/com.immomo.cosmos/cvcenter@2.3.0.20230331.1149?classifier=sources
+- pkg:maven/com.immomo.cosmos/cvcenter@2.3.0.20230331.1149?type=aar
