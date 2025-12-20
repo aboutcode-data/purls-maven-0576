@@ -1,0 +1,6 @@
+- pkg:maven/com.linkedin.coral/frontend@2.2.10?classifier=sources
+- pkg:maven/com.linkedin.coral/frontend@2.2.11?classifier=sources
+- pkg:maven/com.linkedin.coral/frontend@2.2.12?classifier=sources
+- pkg:maven/com.linkedin.coral/frontend@2.2.7?classifier=sources
+- pkg:maven/com.linkedin.coral/frontend@2.2.8?classifier=sources
+- pkg:maven/com.linkedin.coral/frontend@2.2.9?classifier=sources

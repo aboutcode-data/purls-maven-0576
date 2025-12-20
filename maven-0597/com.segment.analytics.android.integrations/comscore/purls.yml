@@ -28,3 +28,5 @@
 - pkg:maven/com.segment.analytics.android.integrations/comscore@4.3.3?classifier=sources
 - pkg:maven/com.segment.analytics.android.integrations/comscore@4.3.4
 - pkg:maven/com.segment.analytics.android.integrations/comscore@4.3.4?classifier=sources
+- pkg:maven/com.segment.analytics.android.integrations/comscore@4.3.5
+- pkg:maven/com.segment.analytics.android.integrations/comscore@4.3.5?classifier=sources

@@ -15,3 +15,11 @@
 - pkg:maven/org.saynotobugs/confidence-incubator@0.22.2?classifier=sources
 - pkg:maven/org.saynotobugs/confidence-incubator@0.22.3?classifier=sources
 - pkg:maven/org.saynotobugs/confidence-incubator@0.22.4?classifier=sources
+- pkg:maven/org.saynotobugs/confidence-incubator@0.22.5?classifier=sources
+- pkg:maven/org.saynotobugs/confidence-incubator@0.23.1?classifier=sources
+- pkg:maven/org.saynotobugs/confidence-incubator@0.24.0?classifier=sources
+- pkg:maven/org.saynotobugs/confidence-incubator@0.25.0?classifier=sources
+- pkg:maven/org.saynotobugs/confidence-incubator@0.26.0?classifier=sources
+- pkg:maven/org.saynotobugs/confidence-incubator@0.26.1?classifier=sources
+- pkg:maven/org.saynotobugs/confidence-incubator@0.27.0?classifier=sources
+- pkg:maven/org.saynotobugs/confidence-incubator@0.28.0?classifier=sources

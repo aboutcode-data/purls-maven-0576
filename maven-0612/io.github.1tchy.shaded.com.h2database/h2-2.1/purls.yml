@@ -1,0 +1,2 @@
+- pkg:maven/io.github.1tchy.shaded.com.h2database/h2-2.1@2.1.214.1
+- pkg:maven/io.github.1tchy.shaded.com.h2database/h2-2.1@2.1.214.1?classifier=sources

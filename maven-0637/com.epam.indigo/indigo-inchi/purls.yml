@@ -22,8 +22,10 @@
 - pkg:maven/com.epam.indigo/indigo-inchi@1.12.0-rc.2
 - pkg:maven/com.epam.indigo/indigo-inchi@1.12.0-rc.2?classifier=sources
 - pkg:maven/com.epam.indigo/indigo-inchi@1.12.0?classifier=sources
+- pkg:maven/com.epam.indigo/indigo-inchi@1.13.0
 - pkg:maven/com.epam.indigo/indigo-inchi@1.13.0-rc.1
 - pkg:maven/com.epam.indigo/indigo-inchi@1.13.0-rc.1?classifier=sources
+- pkg:maven/com.epam.indigo/indigo-inchi@1.13.0?classifier=sources
 - pkg:maven/com.epam.indigo/indigo-inchi@1.14.0-rc.1
 - pkg:maven/com.epam.indigo/indigo-inchi@1.14.0-rc.1?classifier=sources
 - pkg:maven/com.epam.indigo/indigo-inchi@1.14.0-rc.2
@@ -32,6 +34,12 @@
 - pkg:maven/com.epam.indigo/indigo-inchi@1.14.0-rc.3?classifier=sources
 - pkg:maven/com.epam.indigo/indigo-inchi@1.14.0-rc.4
 - pkg:maven/com.epam.indigo/indigo-inchi@1.14.0-rc.4?classifier=sources
+- pkg:maven/com.epam.indigo/indigo-inchi@1.14.0-rc.5
+- pkg:maven/com.epam.indigo/indigo-inchi@1.14.0-rc.5?classifier=sources
+- pkg:maven/com.epam.indigo/indigo-inchi@1.14.0-rc.6
+- pkg:maven/com.epam.indigo/indigo-inchi@1.14.0-rc.6?classifier=sources
+- pkg:maven/com.epam.indigo/indigo-inchi@1.15.0-dev.1
+- pkg:maven/com.epam.indigo/indigo-inchi@1.15.0-dev.1?classifier=sources
 - pkg:maven/com.epam.indigo/indigo-inchi@1.2.2beta-r1
 - pkg:maven/com.epam.indigo/indigo-inchi@1.2.2beta-r13
 - pkg:maven/com.epam.indigo/indigo-inchi@1.2.2beta-r13?classifier=sources

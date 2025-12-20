@@ -12,3 +12,5 @@
 - pkg:maven/io.toolisticon.fluapigen/fluapigen-integrationTest@0.4.1?classifier=sources
 - pkg:maven/io.toolisticon.fluapigen/fluapigen-integrationTest@0.5.0
 - pkg:maven/io.toolisticon.fluapigen/fluapigen-integrationTest@0.5.0?classifier=sources
+- pkg:maven/io.toolisticon.fluapigen/fluapigen-integrationTest@0.6.0
+- pkg:maven/io.toolisticon.fluapigen/fluapigen-integrationTest@0.6.0?classifier=sources

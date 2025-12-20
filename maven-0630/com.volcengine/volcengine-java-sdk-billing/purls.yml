@@ -1,0 +1,10 @@
+- pkg:maven/com.volcengine/volcengine-java-sdk-billing@0.1.78
+- pkg:maven/com.volcengine/volcengine-java-sdk-billing@0.1.78?classifier=sources
+- pkg:maven/com.volcengine/volcengine-java-sdk-billing@0.1.79
+- pkg:maven/com.volcengine/volcengine-java-sdk-billing@0.1.79?classifier=sources
+- pkg:maven/com.volcengine/volcengine-java-sdk-billing@0.1.80
+- pkg:maven/com.volcengine/volcengine-java-sdk-billing@0.1.80?classifier=sources
+- pkg:maven/com.volcengine/volcengine-java-sdk-billing@0.1.81
+- pkg:maven/com.volcengine/volcengine-java-sdk-billing@0.1.81?classifier=sources
+- pkg:maven/com.volcengine/volcengine-java-sdk-billing@0.1.82
+- pkg:maven/com.volcengine/volcengine-java-sdk-billing@0.1.82?classifier=sources

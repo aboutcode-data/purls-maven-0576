@@ -1,3 +1,4 @@
+- pkg:maven/org.bonitasoft.web/ui-designer-backend-migrationReport@1.0.0
 - pkg:maven/org.bonitasoft.web/ui-designer-backend-migrationReport@1.0.0-alpha-02
 - pkg:maven/org.bonitasoft.web/ui-designer-backend-migrationReport@1.0.0-alpha-02?classifier=sources
 - pkg:maven/org.bonitasoft.web/ui-designer-backend-migrationReport@1.0.0-alpha-03
@@ -12,6 +13,15 @@
 - pkg:maven/org.bonitasoft.web/ui-designer-backend-migrationReport@1.0.0-alpha-07?classifier=sources
 - pkg:maven/org.bonitasoft.web/ui-designer-backend-migrationReport@1.0.0-alpha-08
 - pkg:maven/org.bonitasoft.web/ui-designer-backend-migrationReport@1.0.0-alpha-08?classifier=sources
+- pkg:maven/org.bonitasoft.web/ui-designer-backend-migrationReport@1.0.0-alpha-09
+- pkg:maven/org.bonitasoft.web/ui-designer-backend-migrationReport@1.0.0-alpha-09?classifier=sources
+- pkg:maven/org.bonitasoft.web/ui-designer-backend-migrationReport@1.0.0-alpha-10
+- pkg:maven/org.bonitasoft.web/ui-designer-backend-migrationReport@1.0.0-alpha-10?classifier=sources
+- pkg:maven/org.bonitasoft.web/ui-designer-backend-migrationReport@1.0.0?classifier=sources
+- pkg:maven/org.bonitasoft.web/ui-designer-backend-migrationReport@1.0.1
+- pkg:maven/org.bonitasoft.web/ui-designer-backend-migrationReport@1.0.1?classifier=sources
+- pkg:maven/org.bonitasoft.web/ui-designer-backend-migrationReport@1.0.2
+- pkg:maven/org.bonitasoft.web/ui-designer-backend-migrationReport@1.0.2?classifier=sources
 - pkg:maven/org.bonitasoft.web/ui-designer-backend-migrationReport@1.12.35
 - pkg:maven/org.bonitasoft.web/ui-designer-backend-migrationReport@1.12.35?classifier=sources
 - pkg:maven/org.bonitasoft.web/ui-designer-backend-migrationReport@1.12.36

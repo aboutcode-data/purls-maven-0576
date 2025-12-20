@@ -1,0 +1,2 @@
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring31x@4.9.3
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring31x@4.9.3?classifier=sources

@@ -7,3 +7,4 @@
 - pkg:maven/hr.fer.oop/edgar-assertions@0.15.0?classifier=sources
 - pkg:maven/hr.fer.oop/edgar-assertions@0.16.0?classifier=sources
 - pkg:maven/hr.fer.oop/edgar-assertions@0.17.0?classifier=sources
+- pkg:maven/hr.fer.oop/edgar-assertions@0.18.0?classifier=sources

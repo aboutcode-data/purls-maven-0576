@@ -12,3 +12,5 @@
 - pkg:maven/org.somda.sdc/biceps@4.0.0?classifier=sources
 - pkg:maven/org.somda.sdc/biceps@5.0.0
 - pkg:maven/org.somda.sdc/biceps@5.0.0?classifier=sources
+- pkg:maven/org.somda.sdc/biceps@5.1.0
+- pkg:maven/org.somda.sdc/biceps@5.1.0?classifier=sources

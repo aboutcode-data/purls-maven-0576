@@ -1,2 +1,3 @@
 - pkg:maven/com.codeborne.replay/netty4@2.0.0?classifier=sources
 - pkg:maven/com.codeborne.replay/netty4@2.1.0?classifier=sources
+- pkg:maven/com.codeborne.replay/netty4@2.2.0?classifier=sources

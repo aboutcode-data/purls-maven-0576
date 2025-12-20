@@ -1,3 +1,4 @@
 - pkg:maven/org.jgrapes/org.jgrapes.webconsole.rbac@0.1.0?classifier=sources
 - pkg:maven/org.jgrapes/org.jgrapes.webconsole.rbac@0.2.0?classifier=sources
 - pkg:maven/org.jgrapes/org.jgrapes.webconsole.rbac@0.3.0?classifier=sources
+- pkg:maven/org.jgrapes/org.jgrapes.webconsole.rbac@1.0.0?classifier=sources

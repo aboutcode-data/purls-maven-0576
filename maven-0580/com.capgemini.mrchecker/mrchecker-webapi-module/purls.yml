@@ -72,3 +72,7 @@
 - pkg:maven/com.capgemini.mrchecker/mrchecker-webapi-module@2023.04.03?classifier=sources
 - pkg:maven/com.capgemini.mrchecker/mrchecker-webapi-module@2023.04.04
 - pkg:maven/com.capgemini.mrchecker/mrchecker-webapi-module@2023.04.04?classifier=sources
+- pkg:maven/com.capgemini.mrchecker/mrchecker-webapi-module@2023.10.04
+- pkg:maven/com.capgemini.mrchecker/mrchecker-webapi-module@2023.10.04?classifier=sources
+- pkg:maven/com.capgemini.mrchecker/mrchecker-webapi-module@2023.10.10
+- pkg:maven/com.capgemini.mrchecker/mrchecker-webapi-module@2023.10.10?classifier=sources

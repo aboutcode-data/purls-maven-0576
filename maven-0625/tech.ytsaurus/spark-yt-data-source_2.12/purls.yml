@@ -1,0 +1,8 @@
+- pkg:maven/tech.ytsaurus/spark-yt-data-source_2.12@1.72.2
+- pkg:maven/tech.ytsaurus/spark-yt-data-source_2.12@1.72.2?classifier=sources
+- pkg:maven/tech.ytsaurus/spark-yt-data-source_2.12@1.73.0
+- pkg:maven/tech.ytsaurus/spark-yt-data-source_2.12@1.73.0?classifier=sources
+- pkg:maven/tech.ytsaurus/spark-yt-data-source_2.12@1.74.0
+- pkg:maven/tech.ytsaurus/spark-yt-data-source_2.12@1.74.0?classifier=sources
+- pkg:maven/tech.ytsaurus/spark-yt-data-source_2.12@1.74.1
+- pkg:maven/tech.ytsaurus/spark-yt-data-source_2.12@1.74.1?classifier=sources

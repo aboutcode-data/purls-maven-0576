@@ -1,0 +1,2 @@
+- pkg:maven/org.playframework/play-ebean_2.13@8.0.0-M1
+- pkg:maven/org.playframework/play-ebean_2.13@8.0.0-M1?classifier=sources

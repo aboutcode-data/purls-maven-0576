@@ -34,6 +34,9 @@
 - pkg:maven/tech.relaycorp/awala-keystore-file@1.6.28?classifier=sources
 - pkg:maven/tech.relaycorp/awala-keystore-file@1.6.29?classifier=sources
 - pkg:maven/tech.relaycorp/awala-keystore-file@1.6.2?classifier=sources
+- pkg:maven/tech.relaycorp/awala-keystore-file@1.6.30?classifier=sources
+- pkg:maven/tech.relaycorp/awala-keystore-file@1.6.31?classifier=sources
+- pkg:maven/tech.relaycorp/awala-keystore-file@1.6.32?classifier=sources
 - pkg:maven/tech.relaycorp/awala-keystore-file@1.6.3?classifier=sources
 - pkg:maven/tech.relaycorp/awala-keystore-file@1.6.4?classifier=sources
 - pkg:maven/tech.relaycorp/awala-keystore-file@1.6.5?classifier=sources

@@ -1,1 +1,4 @@
 - pkg:maven/io.github.sogis/ilivalidator-custom-functions-geometries@0.0.3?classifier=sources
+- pkg:maven/io.github.sogis/ilivalidator-custom-functions-geometries@0.0.4?classifier=sources
+- pkg:maven/io.github.sogis/ilivalidator-custom-functions-geometries@0.0.7?classifier=sources
+- pkg:maven/io.github.sogis/ilivalidator-custom-functions-geometries@0.0.8?classifier=sources

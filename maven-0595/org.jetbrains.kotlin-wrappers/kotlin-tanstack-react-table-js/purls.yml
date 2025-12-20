@@ -1,4 +1,15 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-table-js@8.10.0-pre.625?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-table-js@8.10.0-pre.626?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-table-js@8.10.0-pre.627?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-table-js@8.10.0-pre.628?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-table-js@8.10.0-pre.629?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-table-js@8.10.0-pre.630?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-table-js@8.10.0-pre.631?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-table-js@8.10.0-pre.632?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-table-js@8.10.0-pre.633?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-table-js@8.10.0-pre.634?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-table-js@8.10.0-pre.635?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-table-js@8.10.0-pre.636?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-table-js@8.6.0-pre.493-compat?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-table-js@8.6.0-pre.493?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-table-js@8.6.0-pre.494?classifier=sources

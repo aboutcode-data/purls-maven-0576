@@ -64,4 +64,8 @@
 - pkg:maven/com.pulumi/google-native@0.31.1-alpha.1689773490%2B87740ca7?classifier=sources
 - pkg:maven/com.pulumi/google-native@0.31.1?classifier=sources
 - pkg:maven/com.pulumi/google-native@0.31.2-alpha.1689827148%2B124d255e?classifier=sources
+- pkg:maven/com.pulumi/google-native@0.31.2-alpha.1694203469%2Bffe821d8?classifier=sources
+- pkg:maven/com.pulumi/google-native@0.31.2-alpha.1694212657%2B94134f13?classifier=sources
+- pkg:maven/com.pulumi/google-native@0.31.2-alpha.1694564883%2B21d2fbd8?classifier=sources
+- pkg:maven/com.pulumi/google-native@0.31.2-alpha.1694770191%2B30d103f4?classifier=sources
 - pkg:maven/com.pulumi/google-native@6.21.0?classifier=sources

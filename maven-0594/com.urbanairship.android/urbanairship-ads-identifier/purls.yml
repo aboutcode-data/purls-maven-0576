@@ -86,3 +86,5 @@
 - pkg:maven/com.urbanairship.android/urbanairship-ads-identifier@17.0.3?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-ads-identifier@17.1.0?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-ads-identifier@17.2.0?classifier=sources
+- pkg:maven/com.urbanairship.android/urbanairship-ads-identifier@17.2.1?classifier=sources
+- pkg:maven/com.urbanairship.android/urbanairship-ads-identifier@17.3.0?classifier=sources

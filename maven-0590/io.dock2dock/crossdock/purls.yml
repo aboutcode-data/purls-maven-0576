@@ -1,0 +1,2 @@
+- pkg:maven/io.dock2dock/crossdock@0.0.3?classifier=sources
+- pkg:maven/io.dock2dock/crossdock@0.0.4?classifier=sources

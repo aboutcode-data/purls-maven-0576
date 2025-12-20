@@ -16,6 +16,8 @@
 - pkg:maven/com.spotinst/spotinst-sdk-java@1.0.116?classifier=sources
 - pkg:maven/com.spotinst/spotinst-sdk-java@1.0.117?classifier=sources
 - pkg:maven/com.spotinst/spotinst-sdk-java@1.0.118?classifier=sources
+- pkg:maven/com.spotinst/spotinst-sdk-java@1.0.119?classifier=sources
+- pkg:maven/com.spotinst/spotinst-sdk-java@1.0.120?classifier=sources
 - pkg:maven/com.spotinst/spotinst-sdk-java@1.0.14
 - pkg:maven/com.spotinst/spotinst-sdk-java@1.0.14?classifier=sources
 - pkg:maven/com.spotinst/spotinst-sdk-java@1.0.15

@@ -68,3 +68,4 @@
 - pkg:maven/com.uber.motif/motif-compiler@0.4.0-alpha02?classifier=sources
 - pkg:maven/com.uber.motif/motif-compiler@0.4.0-alpha03?classifier=sources
 - pkg:maven/com.uber.motif/motif-compiler@0.4.0-alpha04?classifier=sources
+- pkg:maven/com.uber.motif/motif-compiler@0.4.0-alpha05?classifier=sources

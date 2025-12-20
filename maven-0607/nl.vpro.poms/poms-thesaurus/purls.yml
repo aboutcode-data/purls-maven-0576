@@ -4,3 +4,7 @@
 - pkg:maven/nl.vpro.poms/poms-thesaurus@5.34.0?classifier=sources
 - pkg:maven/nl.vpro.poms/poms-thesaurus@6.0.0
 - pkg:maven/nl.vpro.poms/poms-thesaurus@6.0.0?classifier=sources
+- pkg:maven/nl.vpro.poms/poms-thesaurus@7.0.0
+- pkg:maven/nl.vpro.poms/poms-thesaurus@7.0.0?classifier=sources
+- pkg:maven/nl.vpro.poms/poms-thesaurus@7.1.0
+- pkg:maven/nl.vpro.poms/poms-thesaurus@7.1.0?classifier=sources

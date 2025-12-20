@@ -16,3 +16,5 @@
 - pkg:maven/com.power4j.kit/jdbc-example@1.6.0?classifier=sources
 - pkg:maven/com.power4j.kit/jdbc-example@2.0.1
 - pkg:maven/com.power4j.kit/jdbc-example@2.0.1?classifier=sources
+- pkg:maven/com.power4j.kit/jdbc-example@2.0.4
+- pkg:maven/com.power4j.kit/jdbc-example@2.0.4?classifier=sources

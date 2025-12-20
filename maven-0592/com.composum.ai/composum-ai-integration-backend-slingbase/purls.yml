@@ -1,0 +1,2 @@
+- pkg:maven/com.composum.ai/composum-ai-integration-backend-slingbase@0.5.0
+- pkg:maven/com.composum.ai/composum-ai-integration-backend-slingbase@0.5.0?classifier=sources

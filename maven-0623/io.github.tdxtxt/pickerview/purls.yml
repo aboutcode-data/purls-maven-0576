@@ -1,2 +1,4 @@
 - pkg:maven/io.github.tdxtxt/pickerview@0.0.1-release?classifier=sources
 - pkg:maven/io.github.tdxtxt/pickerview@0.0.2-release?classifier=sources
+- pkg:maven/io.github.tdxtxt/pickerview@0.0.3-release?classifier=sources
+- pkg:maven/io.github.tdxtxt/pickerview@0.0.4-release?classifier=sources

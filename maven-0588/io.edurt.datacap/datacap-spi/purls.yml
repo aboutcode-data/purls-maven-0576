@@ -10,6 +10,8 @@
 - pkg:maven/io.edurt.datacap/datacap-spi@1.12.0?classifier=sources
 - pkg:maven/io.edurt.datacap/datacap-spi@1.13.0
 - pkg:maven/io.edurt.datacap/datacap-spi@1.13.0?classifier=sources
+- pkg:maven/io.edurt.datacap/datacap-spi@1.14.0
+- pkg:maven/io.edurt.datacap/datacap-spi@1.14.0?classifier=sources
 - pkg:maven/io.edurt.datacap/datacap-spi@1.2.0
 - pkg:maven/io.edurt.datacap/datacap-spi@1.2.0?classifier=sources
 - pkg:maven/io.edurt.datacap/datacap-spi@1.3.0

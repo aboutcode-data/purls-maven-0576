@@ -21,6 +21,7 @@
 - pkg:maven/com.marklogic/mlcp@11.0.0?classifier=sources
 - pkg:maven/com.marklogic/mlcp@11.0.2?classifier=sources
 - pkg:maven/com.marklogic/mlcp@11.0.3?classifier=sources
+- pkg:maven/com.marklogic/mlcp@11.1.0?classifier=sources
 - pkg:maven/com.marklogic/mlcp@9.0.1
 - pkg:maven/com.marklogic/mlcp@9.0.10
 - pkg:maven/com.marklogic/mlcp@9.0.10.2

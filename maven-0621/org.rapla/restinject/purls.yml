@@ -23,6 +23,8 @@
 - pkg:maven/org.rapla/restinject@1.0-beta1
 - pkg:maven/org.rapla/restinject@1.0-beta1?classifier=sources
 - pkg:maven/org.rapla/restinject@2.0-RC1
+- pkg:maven/org.rapla/restinject@2.0-RC10
+- pkg:maven/org.rapla/restinject@2.0-RC10?classifier=sources
 - pkg:maven/org.rapla/restinject@2.0-RC1?classifier=sources
 - pkg:maven/org.rapla/restinject@2.0-RC2
 - pkg:maven/org.rapla/restinject@2.0-RC2?classifier=sources

@@ -14,3 +14,17 @@
 - pkg:maven/net.scalax.djx314/sbt-depts-djx314_2.12_1.0@0.0.1-M750?classifier=sources
 - pkg:maven/net.scalax.djx314/sbt-depts-djx314_2.12_1.0@0.0.1-M755
 - pkg:maven/net.scalax.djx314/sbt-depts-djx314_2.12_1.0@0.0.1-M755?classifier=sources
+- pkg:maven/net.scalax.djx314/sbt-depts-djx314_2.12_1.0@0.0.1-M757
+- pkg:maven/net.scalax.djx314/sbt-depts-djx314_2.12_1.0@0.0.1-M757?classifier=sources
+- pkg:maven/net.scalax.djx314/sbt-depts-djx314_2.12_1.0@0.0.1-M761
+- pkg:maven/net.scalax.djx314/sbt-depts-djx314_2.12_1.0@0.0.1-M761?classifier=sources
+- pkg:maven/net.scalax.djx314/sbt-depts-djx314_2.12_1.0@0.0.1-M768
+- pkg:maven/net.scalax.djx314/sbt-depts-djx314_2.12_1.0@0.0.1-M768?classifier=sources
+- pkg:maven/net.scalax.djx314/sbt-depts-djx314_2.12_1.0@0.0.1-M771
+- pkg:maven/net.scalax.djx314/sbt-depts-djx314_2.12_1.0@0.0.1-M771?classifier=sources
+- pkg:maven/net.scalax.djx314/sbt-depts-djx314_2.12_1.0@0.0.1-M775
+- pkg:maven/net.scalax.djx314/sbt-depts-djx314_2.12_1.0@0.0.1-M775?classifier=sources
+- pkg:maven/net.scalax.djx314/sbt-depts-djx314_2.12_1.0@0.0.1-M776
+- pkg:maven/net.scalax.djx314/sbt-depts-djx314_2.12_1.0@0.0.1-M776?classifier=sources
+- pkg:maven/net.scalax.djx314/sbt-depts-djx314_2.12_1.0@0.0.1-M779
+- pkg:maven/net.scalax.djx314/sbt-depts-djx314_2.12_1.0@0.0.1-M779?classifier=sources

@@ -24,3 +24,10 @@
 - pkg:maven/com.pulumi/kong@4.6.0-alpha.1693028576%2Bc7071035?classifier=sources
 - pkg:maven/com.pulumi/kong@4.6.0-alpha.1693333669%2Be0a32931?classifier=sources
 - pkg:maven/com.pulumi/kong@4.6.0-alpha.1693462116%2B289ffce7?classifier=sources
+- pkg:maven/com.pulumi/kong@4.6.0-alpha.1695233673%2Bd3aa0c3a?classifier=sources
+- pkg:maven/com.pulumi/kong@4.6.0-alpha.1696464267%2B7f4d9b47?classifier=sources
+- pkg:maven/com.pulumi/kong@4.6.0-alpha.1696484878%2B66bd082d?classifier=sources
+- pkg:maven/com.pulumi/kong@4.6.0-alpha.1696572066%2B21e47d44?classifier=sources
+- pkg:maven/com.pulumi/kong@4.6.0-alpha.1696657768%2Bb94634ce?classifier=sources
+- pkg:maven/com.pulumi/kong@4.6.0-alpha.1696875600%2B49907c8a?classifier=sources
+- pkg:maven/com.pulumi/kong@4.6.0-alpha.1697090007%2B75e652ee?classifier=sources

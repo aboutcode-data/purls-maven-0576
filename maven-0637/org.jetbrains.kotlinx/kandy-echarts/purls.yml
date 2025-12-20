@@ -14,3 +14,9 @@
 - pkg:maven/org.jetbrains.kotlinx/kandy-echarts@0.4.5-dev-24?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kandy-echarts@0.4.5-dev-25?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kandy-echarts@0.4.5-dev-26?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kandy-echarts@0.4.5-dev-27?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kandy-echarts@0.4.5-dev-28?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kandy-echarts@0.4.5-dev-29?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kandy-echarts@0.4.5-dev-30?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kandy-echarts@0.4.5-dev-31?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kandy-echarts@0.4.5-dev-32?classifier=sources

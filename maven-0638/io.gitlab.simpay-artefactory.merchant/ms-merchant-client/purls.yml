@@ -1,0 +1,2 @@
+- pkg:maven/io.gitlab.simpay-artefactory.merchant/ms-merchant-client@1.0.1
+- pkg:maven/io.gitlab.simpay-artefactory.merchant/ms-merchant-client@1.0.1?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/io.github.mayuehappy/frocksdbjni@8.5.0-ververica-bd-test
+- pkg:maven/io.github.mayuehappy/frocksdbjni@8.5.0-ververica-bd-test?classifier=sources
+- pkg:maven/io.github.mayuehappy/frocksdbjni@8.5.0-ververica-ingest-db-test
+- pkg:maven/io.github.mayuehappy/frocksdbjni@8.5.0-ververica-ingest-db-test?classifier=sources
+- pkg:maven/io.github.mayuehappy/frocksdbjni@8.5.0-ververica-support-ingest-db
+- pkg:maven/io.github.mayuehappy/frocksdbjni@8.5.0-ververica-support-ingest-db?classifier=sources

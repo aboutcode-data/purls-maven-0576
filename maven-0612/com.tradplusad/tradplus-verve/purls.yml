@@ -1,6 +1,7 @@
 - pkg:maven/com.tradplusad/tradplus-verve@53.10.0.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-verve@53.10.0.1.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-verve@53.10.1.0.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-verve@53.10.2.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-verve@53.8.0.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-verve@53.8.0.10.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-verve@53.8.0.20.1?type=aar

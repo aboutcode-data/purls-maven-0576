@@ -1,0 +1,2 @@
+- pkg:maven/io.trino.gateway/gateway-ha@3
+- pkg:maven/io.trino.gateway/gateway-ha@3?classifier=sources

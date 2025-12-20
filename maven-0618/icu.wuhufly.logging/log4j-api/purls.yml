@@ -1,0 +1,4 @@
+- pkg:maven/icu.wuhufly.logging/log4j-api@1.0
+- pkg:maven/icu.wuhufly.logging/log4j-api@1.0?classifier=sources
+- pkg:maven/icu.wuhufly.logging/log4j-api@1.1
+- pkg:maven/icu.wuhufly.logging/log4j-api@1.1?classifier=sources

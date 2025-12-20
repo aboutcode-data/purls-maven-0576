@@ -1,1 +1,2 @@
 - pkg:maven/io.micronaut.tracing/micronaut-tracing-opentelemetry-zipkin-exporter@5.0.2?classifier=sources
+- pkg:maven/io.micronaut.tracing/micronaut-tracing-opentelemetry-zipkin-exporter@6.0.0?classifier=sources

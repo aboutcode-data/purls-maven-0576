@@ -1,0 +1,2 @@
+- pkg:maven/dev.opensavvy.compose.lazy/lazy-layouts-js@0.1.0?classifier=sources
+- pkg:maven/dev.opensavvy.compose.lazy/lazy-layouts-js@0.1.1?classifier=sources

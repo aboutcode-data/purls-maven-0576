@@ -1,0 +1,2 @@
+- pkg:maven/com.endava/spring-av-openapi-generator@1.0.1
+- pkg:maven/com.endava/spring-av-openapi-generator@1.0.1?classifier=sources

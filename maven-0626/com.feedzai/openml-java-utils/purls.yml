@@ -120,3 +120,5 @@
 - pkg:maven/com.feedzai/openml-java-utils@1.4.9999?classifier=sources
 - pkg:maven/com.feedzai/openml-java-utils@1.5.0
 - pkg:maven/com.feedzai/openml-java-utils@1.5.0?classifier=sources
+- pkg:maven/com.feedzai/openml-java-utils@1.6.0
+- pkg:maven/com.feedzai/openml-java-utils@1.6.0?classifier=sources

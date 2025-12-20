@@ -57,6 +57,8 @@
 - pkg:maven/org.apache.servicecomb.archetypes/business-service-springmvc-archetype@2.7.9?classifier=sources
 - pkg:maven/org.apache.servicecomb.archetypes/business-service-springmvc-archetype@2.8.0?classifier=sources
 - pkg:maven/org.apache.servicecomb.archetypes/business-service-springmvc-archetype@2.8.10?classifier=sources
+- pkg:maven/org.apache.servicecomb.archetypes/business-service-springmvc-archetype@2.8.11?classifier=sources
+- pkg:maven/org.apache.servicecomb.archetypes/business-service-springmvc-archetype@2.8.12?classifier=sources
 - pkg:maven/org.apache.servicecomb.archetypes/business-service-springmvc-archetype@2.8.1?classifier=sources
 - pkg:maven/org.apache.servicecomb.archetypes/business-service-springmvc-archetype@2.8.2?classifier=sources
 - pkg:maven/org.apache.servicecomb.archetypes/business-service-springmvc-archetype@2.8.3?classifier=sources

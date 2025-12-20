@@ -6,3 +6,5 @@
 - pkg:maven/io.github.palexdev/materialfx-all@11.20.0?classifier=sources
 - pkg:maven/io.github.palexdev/materialfx-all@11.21.0?classifier=sources
 - pkg:maven/io.github.palexdev/materialfx-all@11.22.0?classifier=sources
+- pkg:maven/io.github.palexdev/materialfx-all@11.23.0?classifier=sources
+- pkg:maven/io.github.palexdev/materialfx-all@11.24.0?classifier=sources

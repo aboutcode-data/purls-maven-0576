@@ -14,5 +14,7 @@
 - pkg:maven/org.infrastructurebuilder.maven/ibversions-maven-plugin@0.15.2?classifier=sources
 - pkg:maven/org.infrastructurebuilder.maven/ibversions-maven-plugin@0.15.3
 - pkg:maven/org.infrastructurebuilder.maven/ibversions-maven-plugin@0.15.3?classifier=sources
+- pkg:maven/org.infrastructurebuilder.maven/ibversions-maven-plugin@0.16.0
+- pkg:maven/org.infrastructurebuilder.maven/ibversions-maven-plugin@0.16.0?classifier=sources
 - pkg:maven/org.infrastructurebuilder.maven/ibversions-maven-plugin@0.9.0
 - pkg:maven/org.infrastructurebuilder.maven/ibversions-maven-plugin@0.9.0?classifier=sources
