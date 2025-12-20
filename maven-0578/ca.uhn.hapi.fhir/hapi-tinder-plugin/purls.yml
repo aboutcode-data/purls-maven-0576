@@ -82,6 +82,8 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-tinder-plugin@6.10.1
 - pkg:maven/ca.uhn.hapi.fhir/hapi-tinder-plugin@6.10.2
 - pkg:maven/ca.uhn.hapi.fhir/hapi-tinder-plugin@6.10.3
+- pkg:maven/ca.uhn.hapi.fhir/hapi-tinder-plugin@6.10.4
+- pkg:maven/ca.uhn.hapi.fhir/hapi-tinder-plugin@6.10.5
 - pkg:maven/ca.uhn.hapi.fhir/hapi-tinder-plugin@6.2.0
 - pkg:maven/ca.uhn.hapi.fhir/hapi-tinder-plugin@6.2.1
 - pkg:maven/ca.uhn.hapi.fhir/hapi-tinder-plugin@6.2.2
@@ -104,3 +106,4 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-tinder-plugin@6.8.3
 - pkg:maven/ca.uhn.hapi.fhir/hapi-tinder-plugin@6.8.4
 - pkg:maven/ca.uhn.hapi.fhir/hapi-tinder-plugin@6.8.5
+- pkg:maven/ca.uhn.hapi.fhir/hapi-tinder-plugin@7.0.0

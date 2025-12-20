@@ -15,3 +15,5 @@
 - pkg:maven/ru.yoomoney.sdk.2fa/2fa-android-sdk@1.0.7?classifier=sources
 - pkg:maven/ru.yoomoney.sdk.2fa/2fa-android-sdk@1.0.8?classifier=sources
 - pkg:maven/ru.yoomoney.sdk.2fa/2fa-android-sdk@1.0.9?classifier=sources
+- pkg:maven/ru.yoomoney.sdk.2fa/2fa-android-sdk@1.1.0?classifier=sources
+- pkg:maven/ru.yoomoney.sdk.2fa/2fa-android-sdk@1.1.1?classifier=sources

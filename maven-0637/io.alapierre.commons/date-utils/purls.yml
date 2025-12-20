@@ -12,6 +12,8 @@
 - pkg:maven/io.alapierre.commons/date-utils@1.15?classifier=sources
 - pkg:maven/io.alapierre.commons/date-utils@1.16
 - pkg:maven/io.alapierre.commons/date-utils@1.16?classifier=sources
+- pkg:maven/io.alapierre.commons/date-utils@1.17
+- pkg:maven/io.alapierre.commons/date-utils@1.17?classifier=sources
 - pkg:maven/io.alapierre.commons/date-utils@1.2
 - pkg:maven/io.alapierre.commons/date-utils@1.2?classifier=sources
 - pkg:maven/io.alapierre.commons/date-utils@1.3

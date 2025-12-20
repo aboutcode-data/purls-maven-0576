@@ -14,3 +14,5 @@
 - pkg:maven/com.rapiddweller/rd-lib-common@1.1.3-jdk-11?classifier=sources
 - pkg:maven/com.rapiddweller/rd-lib-common@2.0.0-jdk-11
 - pkg:maven/com.rapiddweller/rd-lib-common@2.0.0-jdk-11?classifier=sources
+- pkg:maven/com.rapiddweller/rd-lib-common@2.0.1-jdk-11
+- pkg:maven/com.rapiddweller/rd-lib-common@2.0.1-jdk-11?classifier=sources

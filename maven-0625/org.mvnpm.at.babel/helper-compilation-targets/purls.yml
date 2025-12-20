@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm.at.babel/helper-compilation-targets@7.22.15?classifier=sources
+- pkg:maven/org.mvnpm.at.babel/helper-compilation-targets@7.23.6?classifier=sources

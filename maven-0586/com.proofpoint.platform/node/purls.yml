@@ -496,3 +496,11 @@
 - pkg:maven/com.proofpoint.platform/node@3.07?classifier=sources
 - pkg:maven/com.proofpoint.platform/node@3.08
 - pkg:maven/com.proofpoint.platform/node@3.08?classifier=sources
+- pkg:maven/com.proofpoint.platform/node@3.09
+- pkg:maven/com.proofpoint.platform/node@3.09?classifier=sources
+- pkg:maven/com.proofpoint.platform/node@3.12
+- pkg:maven/com.proofpoint.platform/node@3.12?classifier=sources
+- pkg:maven/com.proofpoint.platform/node@3.13
+- pkg:maven/com.proofpoint.platform/node@3.13?classifier=sources
+- pkg:maven/com.proofpoint.platform/node@3.14
+- pkg:maven/com.proofpoint.platform/node@3.14?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun.schedulerx/schedulerx-netty@3.10.6.Final
+- pkg:maven/com.aliyun.schedulerx/schedulerx-netty@3.10.6.Final?classifier=sources

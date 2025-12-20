@@ -16,3 +16,4 @@
 - pkg:maven/com.sqream/sqream-jdbc@4.5.8?classifier=sources
 - pkg:maven/com.sqream/sqream-jdbc@4.5.9?classifier=sources
 - pkg:maven/com.sqream/sqream-jdbc@5.0.0?classifier=sources
+- pkg:maven/com.sqream/sqream-jdbc@5.1.0?classifier=sources

@@ -1,6 +1,8 @@
 - pkg:maven/net.corda/corda-serialization-deterministic@4.10
 - pkg:maven/net.corda/corda-serialization-deterministic@4.10.3
 - pkg:maven/net.corda/corda-serialization-deterministic@4.10.3?classifier=sources
+- pkg:maven/net.corda/corda-serialization-deterministic@4.10.4
+- pkg:maven/net.corda/corda-serialization-deterministic@4.10.4?classifier=sources
 - pkg:maven/net.corda/corda-serialization-deterministic@4.10?classifier=sources
 - pkg:maven/net.corda/corda-serialization-deterministic@4.5
 - pkg:maven/net.corda/corda-serialization-deterministic@4.5?classifier=sources
@@ -27,4 +29,6 @@
 - pkg:maven/net.corda/corda-serialization-deterministic@4.9.7?classifier=sources
 - pkg:maven/net.corda/corda-serialization-deterministic@4.9.8
 - pkg:maven/net.corda/corda-serialization-deterministic@4.9.8?classifier=sources
+- pkg:maven/net.corda/corda-serialization-deterministic@4.9.9
+- pkg:maven/net.corda/corda-serialization-deterministic@4.9.9?classifier=sources
 - pkg:maven/net.corda/corda-serialization-deterministic@4.9?classifier=sources

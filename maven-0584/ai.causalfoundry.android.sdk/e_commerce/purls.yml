@@ -33,3 +33,6 @@
 - pkg:maven/ai.causalfoundry.android.sdk/e_commerce@0.4.8?classifier=sources
 - pkg:maven/ai.causalfoundry.android.sdk/e_commerce@0.5.2?classifier=sources
 - pkg:maven/ai.causalfoundry.android.sdk/e_commerce@0.5.3?classifier=sources
+- pkg:maven/ai.causalfoundry.android.sdk/e_commerce@0.5.4?classifier=sources
+- pkg:maven/ai.causalfoundry.android.sdk/e_commerce@0.5.5.alpha.1?classifier=sources
+- pkg:maven/ai.causalfoundry.android.sdk/e_commerce@0.6.1?classifier=sources

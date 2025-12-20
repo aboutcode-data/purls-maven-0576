@@ -20,3 +20,5 @@
 - pkg:maven/org.webjars.npm/node-abi@3.45.0?classifier=sources
 - pkg:maven/org.webjars.npm/node-abi@3.5.0
 - pkg:maven/org.webjars.npm/node-abi@3.5.0?classifier=sources
+- pkg:maven/org.webjars.npm/node-abi@3.55.0
+- pkg:maven/org.webjars.npm/node-abi@3.55.0?classifier=sources

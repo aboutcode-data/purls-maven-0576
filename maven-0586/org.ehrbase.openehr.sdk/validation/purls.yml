@@ -40,3 +40,7 @@
 - pkg:maven/org.ehrbase.openehr.sdk/validation@2.5.0?classifier=sources
 - pkg:maven/org.ehrbase.openehr.sdk/validation@2.6.0
 - pkg:maven/org.ehrbase.openehr.sdk/validation@2.6.0?classifier=sources
+- pkg:maven/org.ehrbase.openehr.sdk/validation@2.7.0
+- pkg:maven/org.ehrbase.openehr.sdk/validation@2.7.0?classifier=sources
+- pkg:maven/org.ehrbase.openehr.sdk/validation@2.8.0
+- pkg:maven/org.ehrbase.openehr.sdk/validation@2.8.0?classifier=sources

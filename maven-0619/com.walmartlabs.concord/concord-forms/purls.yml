@@ -106,3 +106,5 @@
 - pkg:maven/com.walmartlabs.concord/concord-forms@2.7.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord/concord-forms@2.8.0
 - pkg:maven/com.walmartlabs.concord/concord-forms@2.8.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord/concord-forms@2.9.0
+- pkg:maven/com.walmartlabs.concord/concord-forms@2.9.0?classifier=sources

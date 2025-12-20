@@ -61,6 +61,7 @@
 - pkg:maven/com.pulumi/opsgenie@1.3.2?classifier=sources
 - pkg:maven/com.pulumi/opsgenie@1.3.3?classifier=sources
 - pkg:maven/com.pulumi/opsgenie@1.3.4?classifier=sources
+- pkg:maven/com.pulumi/opsgenie@1.3.6?classifier=sources
 - pkg:maven/com.pulumi/opsgenie@1.4.0-alpha.1696365190%2B947bb63b?classifier=sources
 - pkg:maven/com.pulumi/opsgenie@1.4.0-alpha.1696574036%2Ba56fe9a0?classifier=sources
 - pkg:maven/com.pulumi/opsgenie@1.4.0-alpha.1696659092%2Be3135605?classifier=sources
@@ -98,3 +99,19 @@
 - pkg:maven/com.pulumi/opsgenie@1.4.0-alpha.1704429810%2B808844c0?classifier=sources
 - pkg:maven/com.pulumi/opsgenie@1.4.0-alpha.1705436012%2B9676a1f8?classifier=sources
 - pkg:maven/com.pulumi/opsgenie@1.4.0-alpha.1705991229%2B8990bf91?classifier=sources
+- pkg:maven/com.pulumi/opsgenie@1.4.0-alpha.1706308347%2Be5177ea5?classifier=sources
+- pkg:maven/com.pulumi/opsgenie@1.4.0-alpha.1706748202%2B09cdd9cd?classifier=sources
+- pkg:maven/com.pulumi/opsgenie@1.4.0-alpha.1706812745%2B46c9fff7?classifier=sources
+- pkg:maven/com.pulumi/opsgenie@1.4.0-alpha.1706830673%2B0f13bcb4?classifier=sources
+- pkg:maven/com.pulumi/opsgenie@1.4.0-alpha.1707288061%2Be0daf34c?classifier=sources
+- pkg:maven/com.pulumi/opsgenie@1.4.0-alpha.1707497580%2Be456cc02?classifier=sources
+- pkg:maven/com.pulumi/opsgenie@1.4.0-alpha.1707547181%2B22af402e?classifier=sources
+- pkg:maven/com.pulumi/opsgenie@1.4.0-alpha.1707892995%2B8337526e?classifier=sources
+- pkg:maven/com.pulumi/opsgenie@1.4.0-alpha.1707980072%2B05ebaac2?classifier=sources
+- pkg:maven/com.pulumi/opsgenie@1.4.0-alpha.1708065698%2B9aebfd9a?classifier=sources
+- pkg:maven/com.pulumi/opsgenie@1.4.0-alpha.1708497695%2B1a0e2231?classifier=sources
+- pkg:maven/com.pulumi/opsgenie@1.4.0-alpha.1708670767%2B873deacb?classifier=sources
+- pkg:maven/com.pulumi/opsgenie@1.4.0-alpha.1708727086%2B6563483e?classifier=sources
+- pkg:maven/com.pulumi/opsgenie@1.4.0-alpha.1709016544%2Bb1ef4fcd?classifier=sources
+- pkg:maven/com.pulumi/opsgenie@1.4.0-alpha.1709043545%2B757aa8b8?classifier=sources
+- pkg:maven/com.pulumi/opsgenie@1.4.0-alpha.1709102782%2B9c83ac32?classifier=sources

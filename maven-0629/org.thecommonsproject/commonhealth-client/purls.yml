@@ -4,3 +4,4 @@
 - pkg:maven/org.thecommonsproject/commonhealth-client@1.6.2?classifier=sources
 - pkg:maven/org.thecommonsproject/commonhealth-client@1.6.4?classifier=sources
 - pkg:maven/org.thecommonsproject/commonhealth-client@1.9.8?classifier=sources
+- pkg:maven/org.thecommonsproject/commonhealth-client@1.9.9?classifier=sources

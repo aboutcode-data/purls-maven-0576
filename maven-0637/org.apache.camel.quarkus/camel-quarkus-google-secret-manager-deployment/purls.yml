@@ -46,3 +46,5 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-google-secret-manager-deployment@3.6.0?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-google-secret-manager-deployment@3.7.0
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-google-secret-manager-deployment@3.7.0?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-google-secret-manager-deployment@3.8.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-google-secret-manager-deployment@3.8.0?classifier=sources

@@ -1,3 +1,4 @@
+- pkg:maven/org.opencds.cqf.fhir/docs@3.0.0
 - pkg:maven/org.opencds.cqf.fhir/docs@3.0.0-PRE10
 - pkg:maven/org.opencds.cqf.fhir/docs@3.0.0-PRE10?classifier=sources
 - pkg:maven/org.opencds.cqf.fhir/docs@3.0.0-PRE11
@@ -12,6 +13,8 @@
 - pkg:maven/org.opencds.cqf.fhir/docs@3.0.0-PRE15?classifier=sources
 - pkg:maven/org.opencds.cqf.fhir/docs@3.0.0-PRE16
 - pkg:maven/org.opencds.cqf.fhir/docs@3.0.0-PRE16?classifier=sources
+- pkg:maven/org.opencds.cqf.fhir/docs@3.0.0-PRE17
+- pkg:maven/org.opencds.cqf.fhir/docs@3.0.0-PRE17?classifier=sources
 - pkg:maven/org.opencds.cqf.fhir/docs@3.0.0-PRE2
 - pkg:maven/org.opencds.cqf.fhir/docs@3.0.0-PRE2?classifier=sources
 - pkg:maven/org.opencds.cqf.fhir/docs@3.0.0-PRE3
@@ -30,3 +33,6 @@
 - pkg:maven/org.opencds.cqf.fhir/docs@3.0.0-PRE9?classifier=sources
 - pkg:maven/org.opencds.cqf.fhir/docs@3.0.0.PRE-1
 - pkg:maven/org.opencds.cqf.fhir/docs@3.0.0.PRE-1?classifier=sources
+- pkg:maven/org.opencds.cqf.fhir/docs@3.0.0?classifier=sources
+- pkg:maven/org.opencds.cqf.fhir/docs@3.1.0
+- pkg:maven/org.opencds.cqf.fhir/docs@3.1.0?classifier=sources

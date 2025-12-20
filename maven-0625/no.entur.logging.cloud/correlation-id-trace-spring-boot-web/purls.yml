@@ -4,3 +4,4 @@
 - pkg:maven/no.entur.logging.cloud/correlation-id-trace-spring-boot-web@2.0.2?classifier=sources
 - pkg:maven/no.entur.logging.cloud/correlation-id-trace-spring-boot-web@2.0.3?classifier=sources
 - pkg:maven/no.entur.logging.cloud/correlation-id-trace-spring-boot-web@2.0.4?classifier=sources
+- pkg:maven/no.entur.logging.cloud/correlation-id-trace-spring-boot-web@2.0.5?classifier=sources

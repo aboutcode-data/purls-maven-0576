@@ -35,3 +35,4 @@
 - pkg:maven/org.fcrepo/fcrepo-integration-ldp@6.3.0
 - pkg:maven/org.fcrepo/fcrepo-integration-ldp@6.4.0
 - pkg:maven/org.fcrepo/fcrepo-integration-ldp@6.4.1
+- pkg:maven/org.fcrepo/fcrepo-integration-ldp@6.5.0

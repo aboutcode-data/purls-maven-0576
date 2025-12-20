@@ -4,3 +4,5 @@
 - pkg:maven/com.github.nalukit/nalu-plugin-domino-v2@2.12.6?classifier=sources
 - pkg:maven/com.github.nalukit/nalu-plugin-domino-v2@2.12.7
 - pkg:maven/com.github.nalukit/nalu-plugin-domino-v2@2.12.7?classifier=sources
+- pkg:maven/com.github.nalukit/nalu-plugin-domino-v2@2.20.0
+- pkg:maven/com.github.nalukit/nalu-plugin-domino-v2@2.20.0?classifier=sources

@@ -6,5 +6,7 @@
 - pkg:maven/org.connectorio.plc4x.extras/org.connectorio.plc4x.extras.test@0.11.0-connectorio-3?classifier=sources
 - pkg:maven/org.connectorio.plc4x.extras/org.connectorio.plc4x.extras.test@0.11.1-connectorio-1
 - pkg:maven/org.connectorio.plc4x.extras/org.connectorio.plc4x.extras.test@0.11.1-connectorio-1?classifier=sources
+- pkg:maven/org.connectorio.plc4x.extras/org.connectorio.plc4x.extras.test@0.12.0
+- pkg:maven/org.connectorio.plc4x.extras/org.connectorio.plc4x.extras.test@0.12.0?classifier=sources
 - pkg:maven/org.connectorio.plc4x.extras/org.connectorio.plc4x.extras.test@extras-0.11.0-connectorio-3
 - pkg:maven/org.connectorio.plc4x.extras/org.connectorio.plc4x.extras.test@extras-0.11.0-connectorio-3?classifier=sources

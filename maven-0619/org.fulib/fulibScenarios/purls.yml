@@ -52,3 +52,4 @@
 - pkg:maven/org.fulib/fulibScenarios@1.6.2?classifier=sources
 - pkg:maven/org.fulib/fulibScenarios@1.7.0
 - pkg:maven/org.fulib/fulibScenarios@1.7.0?classifier=sources
+- pkg:maven/org.fulib/fulibScenarios@1.7.1?classifier=sources

@@ -70,6 +70,16 @@
 - pkg:maven/software.amazon.awscdk/scheduler-alpha@2.125.0-alpha.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/scheduler-alpha@2.126.0-alpha.0
 - pkg:maven/software.amazon.awscdk/scheduler-alpha@2.126.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/scheduler-alpha@2.127.0-alpha.0
+- pkg:maven/software.amazon.awscdk/scheduler-alpha@2.127.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/scheduler-alpha@2.128.0-alpha.0
+- pkg:maven/software.amazon.awscdk/scheduler-alpha@2.128.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/scheduler-alpha@2.129.0-alpha.0
+- pkg:maven/software.amazon.awscdk/scheduler-alpha@2.129.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/scheduler-alpha@2.130.0-alpha.0
+- pkg:maven/software.amazon.awscdk/scheduler-alpha@2.130.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/scheduler-alpha@2.131.0-alpha.0
+- pkg:maven/software.amazon.awscdk/scheduler-alpha@2.131.0-alpha.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/scheduler-alpha@2.80.0-alpha.0
 - pkg:maven/software.amazon.awscdk/scheduler-alpha@2.80.0-alpha.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/scheduler-alpha@2.81.0-alpha.0

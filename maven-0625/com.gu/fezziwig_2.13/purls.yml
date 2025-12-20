@@ -9,4 +9,6 @@
 - pkg:maven/com.gu/fezziwig_2.13@1.9
 - pkg:maven/com.gu/fezziwig_2.13@1.9.1
 - pkg:maven/com.gu/fezziwig_2.13@1.9.1?classifier=sources
+- pkg:maven/com.gu/fezziwig_2.13@1.9.2
+- pkg:maven/com.gu/fezziwig_2.13@1.9.2?classifier=sources
 - pkg:maven/com.gu/fezziwig_2.13@1.9?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/net.solarnetwork.common/net.solarnetwork.common.ocpp.v16.jakarta@3.0.0
+- pkg:maven/net.solarnetwork.common/net.solarnetwork.common.ocpp.v16.jakarta@3.0.0?classifier=sources
+- pkg:maven/net.solarnetwork.common/net.solarnetwork.common.ocpp.v16.jakarta@4.0.0
+- pkg:maven/net.solarnetwork.common/net.solarnetwork.common.ocpp.v16.jakarta@4.0.0?classifier=sources
+- pkg:maven/net.solarnetwork.common/net.solarnetwork.common.ocpp.v16.jakarta@4.0.1
+- pkg:maven/net.solarnetwork.common/net.solarnetwork.common.ocpp.v16.jakarta@4.0.1?classifier=sources

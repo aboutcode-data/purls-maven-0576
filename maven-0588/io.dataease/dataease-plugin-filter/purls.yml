@@ -17,6 +17,7 @@
 - pkg:maven/io.dataease/dataease-plugin-filter@1.18.12
 - pkg:maven/io.dataease/dataease-plugin-filter@1.18.13
 - pkg:maven/io.dataease/dataease-plugin-filter@1.18.14
+- pkg:maven/io.dataease/dataease-plugin-filter@1.18.15
 - pkg:maven/io.dataease/dataease-plugin-filter@1.18.2
 - pkg:maven/io.dataease/dataease-plugin-filter@1.18.3
 - pkg:maven/io.dataease/dataease-plugin-filter@1.18.4

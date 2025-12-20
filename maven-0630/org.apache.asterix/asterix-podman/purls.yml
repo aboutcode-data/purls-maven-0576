@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.asterix/asterix-podman@0.9.8.2
+- pkg:maven/org.apache.asterix/asterix-podman@0.9.9

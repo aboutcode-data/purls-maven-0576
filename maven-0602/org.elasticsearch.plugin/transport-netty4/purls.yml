@@ -28,6 +28,8 @@
 - pkg:maven/org.elasticsearch.plugin/transport-netty4@8.12.0?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/transport-netty4@8.12.1
 - pkg:maven/org.elasticsearch.plugin/transport-netty4@8.12.1?classifier=sources
+- pkg:maven/org.elasticsearch.plugin/transport-netty4@8.12.2
+- pkg:maven/org.elasticsearch.plugin/transport-netty4@8.12.2?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/transport-netty4@8.2.0
 - pkg:maven/org.elasticsearch.plugin/transport-netty4@8.2.0?classifier=sources
 - pkg:maven/org.elasticsearch.plugin/transport-netty4@8.2.1

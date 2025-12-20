@@ -1,0 +1,5 @@
+- pkg:maven/tech.crackle/s1@0.0.1?type=aar
+- pkg:maven/tech.crackle/s1@0.0.2?type=aar
+- pkg:maven/tech.crackle/s1@0.0.3?type=aar
+- pkg:maven/tech.crackle/s1@0.0.4?type=aar
+- pkg:maven/tech.crackle/s1@0.0.5?type=aar

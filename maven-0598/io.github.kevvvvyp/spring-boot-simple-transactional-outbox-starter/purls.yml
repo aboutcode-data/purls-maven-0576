@@ -2,4 +2,6 @@
 - pkg:maven/io.github.kevvvvyp/spring-boot-simple-transactional-outbox-starter@1.0.0-RC4?classifier=sources
 - pkg:maven/io.github.kevvvvyp/spring-boot-simple-transactional-outbox-starter@1.0.0?classifier=sources
 - pkg:maven/io.github.kevvvvyp/spring-boot-simple-transactional-outbox-starter@1.0.1?classifier=sources
+- pkg:maven/io.github.kevvvvyp/spring-boot-simple-transactional-outbox-starter@2.0.0-RC1?classifier=sources
+- pkg:maven/io.github.kevvvvyp/spring-boot-simple-transactional-outbox-starter@2.0.0?classifier=sources
 - pkg:maven/io.github.kevvvvyp/spring-boot-simple-transactional-outbox-starter@main.20240122142738.b7cc77c?classifier=sources

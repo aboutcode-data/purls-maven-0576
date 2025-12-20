@@ -4,3 +4,5 @@
 - pkg:maven/org.clojure/data.fressian@0.2.1?classifier=sources
 - pkg:maven/org.clojure/data.fressian@1.0.0
 - pkg:maven/org.clojure/data.fressian@1.0.0?classifier=sources
+- pkg:maven/org.clojure/data.fressian@1.1.0
+- pkg:maven/org.clojure/data.fressian@1.1.0?classifier=sources

@@ -14,3 +14,4 @@
 - pkg:maven/com.willowtreeapps.hyperion/hyperion-build-config@0.9.34?classifier=sources
 - pkg:maven/com.willowtreeapps.hyperion/hyperion-build-config@0.9.36?classifier=sources
 - pkg:maven/com.willowtreeapps.hyperion/hyperion-build-config@0.9.37?classifier=sources
+- pkg:maven/com.willowtreeapps.hyperion/hyperion-build-config@0.9.38?classifier=sources

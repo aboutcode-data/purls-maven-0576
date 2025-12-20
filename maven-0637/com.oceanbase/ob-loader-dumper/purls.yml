@@ -1,3 +1,4 @@
 - pkg:maven/com.oceanbase/ob-loader-dumper@4.2.4-RELEASE?classifier=sources
 - pkg:maven/com.oceanbase/ob-loader-dumper@4.2.5-RELEASE?classifier=sources
 - pkg:maven/com.oceanbase/ob-loader-dumper@4.2.8-RELEASE?classifier=sources
+- pkg:maven/com.oceanbase/ob-loader-dumper@4.2.8.1-RELEASE?classifier=sources

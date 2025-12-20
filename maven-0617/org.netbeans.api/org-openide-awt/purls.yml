@@ -20,4 +20,5 @@
 - pkg:maven/org.netbeans.api/org-openide-awt@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.api/org-openide-awt@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.api/org-openide-awt@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.api/org-openide-awt@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.api/org-openide-awt@RELEASE90?classifier=sources

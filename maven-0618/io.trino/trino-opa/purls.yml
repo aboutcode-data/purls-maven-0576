@@ -1,1 +1,2 @@
 - pkg:maven/io.trino/trino-opa@438?classifier=sources
+- pkg:maven/io.trino/trino-opa@439?classifier=sources

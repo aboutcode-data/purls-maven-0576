@@ -50,3 +50,5 @@
 - pkg:maven/com.farao-community.farao/gridcapa-swe-runner-api@1.14.3?classifier=sources
 - pkg:maven/com.farao-community.farao/gridcapa-swe-runner-api@1.15.0
 - pkg:maven/com.farao-community.farao/gridcapa-swe-runner-api@1.15.0?classifier=sources
+- pkg:maven/com.farao-community.farao/gridcapa-swe-runner-api@1.16.0
+- pkg:maven/com.farao-community.farao/gridcapa-swe-runner-api@1.16.0?classifier=sources

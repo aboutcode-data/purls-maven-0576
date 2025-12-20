@@ -1,0 +1,2 @@
+- pkg:maven/com.github.cafaudit/caf-audit-service-server-stub-source@4.0.0-1115
+- pkg:maven/com.github.cafaudit/caf-audit-service-server-stub-source@4.0.0-1115?classifier=sources

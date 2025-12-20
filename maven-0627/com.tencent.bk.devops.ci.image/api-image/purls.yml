@@ -3,6 +3,7 @@
 - pkg:maven/com.tencent.bk.devops.ci.image/api-image@1.1.2-RELEASE
 - pkg:maven/com.tencent.bk.devops.ci.image/api-image@1.1.2-RELEASE?classifier=sources
 - pkg:maven/com.tencent.bk.devops.ci.image/api-image@1.13.0-rc.2?classifier=sources
+- pkg:maven/com.tencent.bk.devops.ci.image/api-image@1.13.0?classifier=sources
 - pkg:maven/com.tencent.bk.devops.ci.image/api-image@1.14.0-rc.1?classifier=sources
 - pkg:maven/com.tencent.bk.devops.ci.image/api-image@1.2.0-rc.7-RELEASE
 - pkg:maven/com.tencent.bk.devops.ci.image/api-image@1.2.0-rc.7-RELEASE?classifier=sources

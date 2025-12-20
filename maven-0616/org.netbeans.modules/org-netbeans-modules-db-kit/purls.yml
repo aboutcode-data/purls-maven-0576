@@ -20,4 +20,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-db-kit@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-db-kit@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-db-kit@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-db-kit@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-db-kit@RELEASE90?classifier=sources

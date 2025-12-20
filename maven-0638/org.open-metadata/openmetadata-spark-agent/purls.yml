@@ -1,0 +1,2 @@
+- pkg:maven/org.open-metadata/openmetadata-spark-agent@1.0-beta
+- pkg:maven/org.open-metadata/openmetadata-spark-agent@1.0-beta?classifier=sources

@@ -12,3 +12,4 @@
 - pkg:maven/ly.count.sdk/java@23.10.0?classifier=sources
 - pkg:maven/ly.count.sdk/java@23.10.1?classifier=sources
 - pkg:maven/ly.count.sdk/java@23.8.0?classifier=sources
+- pkg:maven/ly.count.sdk/java@24.1.0?classifier=sources

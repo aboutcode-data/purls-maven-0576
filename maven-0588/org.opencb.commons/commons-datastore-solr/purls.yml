@@ -64,5 +64,7 @@
 - pkg:maven/org.opencb.commons/commons-datastore-solr@4.8.0?classifier=sources
 - pkg:maven/org.opencb.commons/commons-datastore-solr@4.9.0
 - pkg:maven/org.opencb.commons/commons-datastore-solr@4.9.0?classifier=sources
+- pkg:maven/org.opencb.commons/commons-datastore-solr@5.0.0
+- pkg:maven/org.opencb.commons/commons-datastore-solr@5.0.0?classifier=sources
 - pkg:maven/org.opencb.commons/commons-datastore-solr@release-4.6.x
 - pkg:maven/org.opencb.commons/commons-datastore-solr@release-4.6.x?classifier=sources

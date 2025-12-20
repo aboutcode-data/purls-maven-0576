@@ -20,4 +20,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-projectapi@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-projectapi@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-projectapi@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-projectapi@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-projectapi@RELEASE90?classifier=sources

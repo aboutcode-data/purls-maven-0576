@@ -152,3 +152,5 @@
 - pkg:maven/org.neo4j/neo4j-cypher-dsl@2023.9.2?classifier=sources
 - pkg:maven/org.neo4j/neo4j-cypher-dsl@2023.9.3
 - pkg:maven/org.neo4j/neo4j-cypher-dsl@2023.9.3?classifier=sources
+- pkg:maven/org.neo4j/neo4j-cypher-dsl@2023.9.4
+- pkg:maven/org.neo4j/neo4j-cypher-dsl@2023.9.4?classifier=sources

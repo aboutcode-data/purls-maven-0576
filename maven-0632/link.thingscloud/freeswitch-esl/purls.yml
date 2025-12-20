@@ -66,3 +66,5 @@
 - pkg:maven/link.thingscloud/freeswitch-esl@1.7.0?classifier=sources
 - pkg:maven/link.thingscloud/freeswitch-esl@2.0.0
 - pkg:maven/link.thingscloud/freeswitch-esl@2.0.0?classifier=sources
+- pkg:maven/link.thingscloud/freeswitch-esl@2.1.0
+- pkg:maven/link.thingscloud/freeswitch-esl@2.1.0?classifier=sources

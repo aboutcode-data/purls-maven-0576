@@ -20,4 +20,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-javahelp@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-javahelp@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-javahelp@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-javahelp@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-javahelp@RELEASE90?classifier=sources

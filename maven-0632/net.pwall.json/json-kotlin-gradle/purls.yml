@@ -1,3 +1,9 @@
+- pkg:maven/net.pwall.json/json-kotlin-gradle@0.100?classifier=sources
+- pkg:maven/net.pwall.json/json-kotlin-gradle@0.101?classifier=sources
+- pkg:maven/net.pwall.json/json-kotlin-gradle@0.102?classifier=sources
+- pkg:maven/net.pwall.json/json-kotlin-gradle@0.103?classifier=sources
+- pkg:maven/net.pwall.json/json-kotlin-gradle@0.104.1?classifier=sources
+- pkg:maven/net.pwall.json/json-kotlin-gradle@0.104?classifier=sources
 - pkg:maven/net.pwall.json/json-kotlin-gradle@0.31.2?classifier=sources
 - pkg:maven/net.pwall.json/json-kotlin-gradle@0.31.3?classifier=sources
 - pkg:maven/net.pwall.json/json-kotlin-gradle@0.31.4?classifier=sources

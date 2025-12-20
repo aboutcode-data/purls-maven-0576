@@ -94,6 +94,10 @@
 - pkg:maven/com.google.api.grpc/proto-google-devtools-source-protos@1.33.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-devtools-source-protos@1.34.0
 - pkg:maven/com.google.api.grpc/proto-google-devtools-source-protos@1.34.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-devtools-source-protos@1.35.0
+- pkg:maven/com.google.api.grpc/proto-google-devtools-source-protos@1.35.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-devtools-source-protos@1.36.0
+- pkg:maven/com.google.api.grpc/proto-google-devtools-source-protos@1.36.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-devtools-source-protos@1.4.0
 - pkg:maven/com.google.api.grpc/proto-google-devtools-source-protos@1.4.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-devtools-source-protos@1.5.0

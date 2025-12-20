@@ -12,3 +12,11 @@
 - pkg:maven/com.strumenta.kolasu/kolasu-lionweb-gen@1.5.36?classifier=sources
 - pkg:maven/com.strumenta.kolasu/kolasu-lionweb-gen@1.5.37?classifier=sources
 - pkg:maven/com.strumenta.kolasu/kolasu-lionweb-gen@1.5.38?classifier=sources
+- pkg:maven/com.strumenta.kolasu/kolasu-lionweb-gen@1.5.39?classifier=sources
+- pkg:maven/com.strumenta.kolasu/kolasu-lionweb-gen@1.5.40?classifier=sources
+- pkg:maven/com.strumenta.kolasu/kolasu-lionweb-gen@1.5.41?classifier=sources
+- pkg:maven/com.strumenta.kolasu/kolasu-lionweb-gen@1.5.42?classifier=sources
+- pkg:maven/com.strumenta.kolasu/kolasu-lionweb-gen@1.5.43?classifier=sources
+- pkg:maven/com.strumenta.kolasu/kolasu-lionweb-gen@1.5.44?classifier=sources
+- pkg:maven/com.strumenta.kolasu/kolasu-lionweb-gen@1.5.45?classifier=sources
+- pkg:maven/com.strumenta.kolasu/kolasu-lionweb-gen@1.5.46?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/be.vlaanderen.informatievlaanderen.vsds/ldes-fragmentisers-reference@2.10.0
+- pkg:maven/be.vlaanderen.informatievlaanderen.vsds/ldes-fragmentisers-reference@2.10.0?classifier=sources

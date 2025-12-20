@@ -38,3 +38,5 @@
 - pkg:maven/org.apache.camel.springboot/camel-zeebe-starter@4.2.0?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-zeebe-starter@4.3.0
 - pkg:maven/org.apache.camel.springboot/camel-zeebe-starter@4.3.0?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-zeebe-starter@4.4.0
+- pkg:maven/org.apache.camel.springboot/camel-zeebe-starter@4.4.0?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/io.parsingdata/metal-formats@10.0.0
+- pkg:maven/io.parsingdata/metal-formats@10.0.0?classifier=sources
 - pkg:maven/io.parsingdata/metal-formats@3.1.0
 - pkg:maven/io.parsingdata/metal-formats@3.1.0?classifier=sources
 - pkg:maven/io.parsingdata/metal-formats@4.0.0
