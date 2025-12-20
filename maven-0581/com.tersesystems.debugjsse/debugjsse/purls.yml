@@ -1,2 +1,3 @@
 - pkg:maven/com.tersesystems.debugjsse/debugjsse@0.5.2
 - pkg:maven/com.tersesystems.debugjsse/debugjsse@0.5.2?classifier=sources
+- pkg:maven/com.tersesystems.debugjsse/debugjsse@1.0.0?classifier=sources

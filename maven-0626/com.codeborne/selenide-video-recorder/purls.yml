@@ -1,1 +1,2 @@
 - pkg:maven/com.codeborne/selenide-video-recorder@7.6.0?classifier=sources
+- pkg:maven/com.codeborne/selenide-video-recorder@7.6.1?classifier=sources

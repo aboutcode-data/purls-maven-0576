@@ -37,3 +37,5 @@
 - pkg:maven/io.fabric8/istio-tests@6.9.0
 - pkg:maven/io.fabric8/istio-tests@6.9.1
 - pkg:maven/io.fabric8/istio-tests@6.9.2
+- pkg:maven/io.fabric8/istio-tests@7.0.0
+- pkg:maven/io.fabric8/istio-tests@7.0.1

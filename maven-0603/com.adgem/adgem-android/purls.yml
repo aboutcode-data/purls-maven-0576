@@ -5,4 +5,5 @@
 - pkg:maven/com.adgem/adgem-android@3.3.0?classifier=sources
 - pkg:maven/com.adgem/adgem-android@3.3.24?classifier=sources
 - pkg:maven/com.adgem/adgem-android@4.0.1?classifier=sources
+- pkg:maven/com.adgem/adgem-android@4.0.2?classifier=sources
 - pkg:maven/com.adgem/adgem-android@unspecified?classifier=sources

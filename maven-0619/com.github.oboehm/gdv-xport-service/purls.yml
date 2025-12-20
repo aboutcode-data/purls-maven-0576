@@ -39,3 +39,4 @@
 - pkg:maven/com.github.oboehm/gdv-xport-service@7.2.0?type=war
 - pkg:maven/com.github.oboehm/gdv-xport-service@7.2.1?type=war
 - pkg:maven/com.github.oboehm/gdv-xport-service@7.2.2?type=war
+- pkg:maven/com.github.oboehm/gdv-xport-service@7.2.3?type=war

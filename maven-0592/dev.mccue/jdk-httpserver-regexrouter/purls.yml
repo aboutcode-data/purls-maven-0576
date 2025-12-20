@@ -2,3 +2,4 @@
 - pkg:maven/dev.mccue/jdk-httpserver-regexrouter@2024.05.10.2?classifier=sources
 - pkg:maven/dev.mccue/jdk-httpserver-regexrouter@2024.05.10?classifier=sources
 - pkg:maven/dev.mccue/jdk-httpserver-regexrouter@2024.05.12?classifier=sources
+- pkg:maven/dev.mccue/jdk-httpserver-regexrouter@2024.12.05?classifier=sources

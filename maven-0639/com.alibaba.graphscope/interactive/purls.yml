@@ -5,4 +5,6 @@
 - pkg:maven/com.alibaba.graphscope/interactive@0.4.1?classifier=sources
 - pkg:maven/com.alibaba.graphscope/interactive@0.4.2
 - pkg:maven/com.alibaba.graphscope/interactive@0.4.2?classifier=sources
+- pkg:maven/com.alibaba.graphscope/interactive@0.4.3
+- pkg:maven/com.alibaba.graphscope/interactive@0.4.3?classifier=sources
 - pkg:maven/com.alibaba.graphscope/interactive@0.4?classifier=sources

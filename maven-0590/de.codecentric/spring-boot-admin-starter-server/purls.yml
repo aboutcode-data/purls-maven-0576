@@ -97,3 +97,4 @@
 - pkg:maven/de.codecentric/spring-boot-admin-starter-server@3.3.5
 - pkg:maven/de.codecentric/spring-boot-admin-starter-server@3.3.6
 - pkg:maven/de.codecentric/spring-boot-admin-starter-server@3.4.0
+- pkg:maven/de.codecentric/spring-boot-admin-starter-server@3.4.1

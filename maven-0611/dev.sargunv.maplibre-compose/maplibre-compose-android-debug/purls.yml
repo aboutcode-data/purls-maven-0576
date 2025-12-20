@@ -1,1 +1,2 @@
 - pkg:maven/dev.sargunv.maplibre-compose/maplibre-compose-android-debug@0.1.0?classifier=sources
+- pkg:maven/dev.sargunv.maplibre-compose/maplibre-compose-android-debug@0.2.0?classifier=sources

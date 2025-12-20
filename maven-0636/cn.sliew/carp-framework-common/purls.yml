@@ -9,8 +9,15 @@
 - pkg:maven/cn.sliew/carp-framework-common@0.0.13?classifier=sources
 - pkg:maven/cn.sliew/carp-framework-common@0.0.14
 - pkg:maven/cn.sliew/carp-framework-common@0.0.14?classifier=sources
+- pkg:maven/cn.sliew/carp-framework-common@0.0.16?classifier=sources
+- pkg:maven/cn.sliew/carp-framework-common@0.0.17?classifier=sources
+- pkg:maven/cn.sliew/carp-framework-common@0.0.18?classifier=sources
+- pkg:maven/cn.sliew/carp-framework-common@0.0.19?classifier=sources
 - pkg:maven/cn.sliew/carp-framework-common@0.0.1?classifier=sources
 - pkg:maven/cn.sliew/carp-framework-common@0.0.2
+- pkg:maven/cn.sliew/carp-framework-common@0.0.20?classifier=sources
+- pkg:maven/cn.sliew/carp-framework-common@0.0.21?classifier=sources
+- pkg:maven/cn.sliew/carp-framework-common@0.0.22?classifier=sources
 - pkg:maven/cn.sliew/carp-framework-common@0.0.2?classifier=sources
 - pkg:maven/cn.sliew/carp-framework-common@0.0.3
 - pkg:maven/cn.sliew/carp-framework-common@0.0.3?classifier=sources

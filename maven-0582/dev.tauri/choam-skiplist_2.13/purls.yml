@@ -138,3 +138,7 @@
 - pkg:maven/dev.tauri/choam-skiplist_2.13@0.4.7-5-a1ce24b
 - pkg:maven/dev.tauri/choam-skiplist_2.13@0.4.7-5-a1ce24b?classifier=sources
 - pkg:maven/dev.tauri/choam-skiplist_2.13@0.4.7?classifier=sources
+- pkg:maven/dev.tauri/choam-skiplist_2.13@0.4.8
+- pkg:maven/dev.tauri/choam-skiplist_2.13@0.4.8?classifier=sources
+- pkg:maven/dev.tauri/choam-skiplist_2.13@0.4.9
+- pkg:maven/dev.tauri/choam-skiplist_2.13@0.4.9?classifier=sources

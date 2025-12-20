@@ -292,6 +292,14 @@
 - pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.171.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.171.1
 - pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.171.1?classifier=sources
+- pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.172.0
+- pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.172.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.173.0
+- pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.173.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.173.1
+- pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.173.1?classifier=sources
+- pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.173.2
+- pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.173.2?classifier=sources
 - pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.18.0
 - pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.18.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/aws-cdk-lib@2.19.0

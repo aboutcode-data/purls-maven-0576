@@ -73,3 +73,4 @@
 - pkg:maven/org.apache.nifi/nifi@2.0.0-M3?classifier=source-release&type=zip
 - pkg:maven/org.apache.nifi/nifi@2.0.0-M4?classifier=source-release&type=zip
 - pkg:maven/org.apache.nifi/nifi@2.0.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.nifi/nifi@2.1.0?classifier=source-release&type=zip

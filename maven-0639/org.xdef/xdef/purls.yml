@@ -146,6 +146,9 @@
 - pkg:maven/org.xdef/xdef@42.2.13
 - pkg:maven/org.xdef/xdef@42.2.13?classifier=sources
 - pkg:maven/org.xdef/xdef@42.2.13?classifier=src&type=zip
+- pkg:maven/org.xdef/xdef@42.2.15
+- pkg:maven/org.xdef/xdef@42.2.15?classifier=sources
+- pkg:maven/org.xdef/xdef@42.2.15?classifier=src&type=zip
 - pkg:maven/org.xdef/xdef@42.2.1?classifier=sources
 - pkg:maven/org.xdef/xdef@42.2.1?classifier=src&type=zip
 - pkg:maven/org.xdef/xdef@42.2.2

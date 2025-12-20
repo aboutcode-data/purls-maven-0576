@@ -16,5 +16,7 @@
 - pkg:maven/io.permit/permit-sdk-java@2.1.0-rc.2?classifier=sources
 - pkg:maven/io.permit/permit-sdk-java@2.1.0-rc.3?classifier=sources
 - pkg:maven/io.permit/permit-sdk-java@2.1.0?classifier=sources
+- pkg:maven/io.permit/permit-sdk-java@2.1.1?classifier=sources
+- pkg:maven/io.permit/permit-sdk-java@2.1.2?classifier=sources
 - pkg:maven/io.permit/permit-sdk-java@25da854?classifier=sources
 - pkg:maven/io.permit/permit-sdk-java@983f46e?classifier=sources

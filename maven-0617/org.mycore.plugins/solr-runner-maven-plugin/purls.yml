@@ -6,3 +6,5 @@
 - pkg:maven/org.mycore.plugins/solr-runner-maven-plugin@1.2?classifier=sources
 - pkg:maven/org.mycore.plugins/solr-runner-maven-plugin@1.3
 - pkg:maven/org.mycore.plugins/solr-runner-maven-plugin@1.3?classifier=sources
+- pkg:maven/org.mycore.plugins/solr-runner-maven-plugin@1.4
+- pkg:maven/org.mycore.plugins/solr-runner-maven-plugin@1.4?classifier=sources

@@ -41,3 +41,7 @@
 - pkg:maven/org.mvnpm.at.angular/core@18.2.9?classifier=sources
 - pkg:maven/org.mvnpm.at.angular/core@19.0.0?classifier=sources
 - pkg:maven/org.mvnpm.at.angular/core@19.0.1?classifier=sources
+- pkg:maven/org.mvnpm.at.angular/core@19.0.2?classifier=sources
+- pkg:maven/org.mvnpm.at.angular/core@19.0.3?classifier=sources
+- pkg:maven/org.mvnpm.at.angular/core@19.0.4?classifier=sources
+- pkg:maven/org.mvnpm.at.angular/core@19.0.5?classifier=sources

@@ -15,3 +15,4 @@
 - pkg:maven/top.continew/continew-starter-data-core@2.7.2?classifier=sources
 - pkg:maven/top.continew/continew-starter-data-core@2.7.3?classifier=sources
 - pkg:maven/top.continew/continew-starter-data-core@2.7.4?classifier=sources
+- pkg:maven/top.continew/continew-starter-data-core@2.7.5?classifier=sources

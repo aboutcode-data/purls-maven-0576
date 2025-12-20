@@ -1,2 +1,3 @@
 - pkg:maven/com.gft.mobile/multistep-flow-koin@1.0.0?classifier=sources
 - pkg:maven/com.gft.mobile/multistep-flow-koin@1.0.1?classifier=sources
+- pkg:maven/com.gft.mobile/multistep-flow-koin@2.0.0-alpha01?classifier=sources

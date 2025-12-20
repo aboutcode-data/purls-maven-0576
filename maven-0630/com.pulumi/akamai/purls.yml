@@ -220,3 +220,6 @@
 - pkg:maven/com.pulumi/akamai@7.6.0-alpha.1731733797?classifier=sources
 - pkg:maven/com.pulumi/akamai@7.6.0-alpha.1732274852?classifier=sources
 - pkg:maven/com.pulumi/akamai@7.6.0?classifier=sources
+- pkg:maven/com.pulumi/akamai@7.7.0-alpha.1732597910?classifier=sources
+- pkg:maven/com.pulumi/akamai@7.7.0-alpha.1732684248?classifier=sources
+- pkg:maven/com.pulumi/akamai@7.7.0-alpha.1732770642?classifier=sources

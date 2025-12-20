@@ -1,2 +1,3 @@
 - pkg:maven/io.telereso.kmp/core-icons-wasm-js@0.6.0-wasm.1?classifier=sources
 - pkg:maven/io.telereso.kmp/core-icons-wasm-js@0.7.0-wasm.2?classifier=sources
+- pkg:maven/io.telereso.kmp/core-icons-wasm-js@0.8.1-wasm.1?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/com.zachklipp/constraints-explorer@1.0.0?classifier=sources
+- pkg:maven/com.zachklipp/constraints-explorer@1.1.0?classifier=sources

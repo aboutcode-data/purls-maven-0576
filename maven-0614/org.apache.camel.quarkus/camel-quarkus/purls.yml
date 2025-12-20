@@ -51,6 +51,7 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus@3.15.0?classifier=src&type=zip
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus@3.15.1?classifier=src&type=zip
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus@3.16.0?classifier=src&type=zip
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus@3.17.0?classifier=src&type=zip
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus@3.2.0?classifier=src&type=zip
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus@3.2.1?classifier=src&type=zip
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus@3.2.2?classifier=src&type=zip

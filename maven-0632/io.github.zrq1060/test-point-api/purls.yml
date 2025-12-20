@@ -1,3 +1,6 @@
+- pkg:maven/io.github.zrq1060/test-point-api@0.0.1-alpha01?classifier=sources
+- pkg:maven/io.github.zrq1060/test-point-api@0.0.1-alpha02?classifier=sources
+- pkg:maven/io.github.zrq1060/test-point-api@0.0.1-alpha03?classifier=sources
 - pkg:maven/io.github.zrq1060/test-point-api@0.0.1-test1?classifier=sources
 - pkg:maven/io.github.zrq1060/test-point-api@0.0.1-test2?classifier=sources
 - pkg:maven/io.github.zrq1060/test-point-api@0.0.1-test3?classifier=sources

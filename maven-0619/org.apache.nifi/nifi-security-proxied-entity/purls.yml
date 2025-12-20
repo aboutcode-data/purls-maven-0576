@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.nifi/nifi-security-proxied-entity@2.1.0
+- pkg:maven/org.apache.nifi/nifi-security-proxied-entity@2.1.0?classifier=sources

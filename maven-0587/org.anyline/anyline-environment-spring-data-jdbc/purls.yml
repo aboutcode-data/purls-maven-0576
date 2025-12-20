@@ -490,3 +490,5 @@
 - pkg:maven/org.anyline/anyline-environment-spring-data-jdbc@8.7.2-jdk21-20241025?classifier=sources
 - pkg:maven/org.anyline/anyline-environment-spring-data-jdbc@8.7.2-jdk21-20241125
 - pkg:maven/org.anyline/anyline-environment-spring-data-jdbc@8.7.2-jdk21-20241125?classifier=sources
+- pkg:maven/org.anyline/anyline-environment-spring-data-jdbc@8.7.2-jdk21-20241203
+- pkg:maven/org.anyline/anyline-environment-spring-data-jdbc@8.7.2-jdk21-20241203?classifier=sources

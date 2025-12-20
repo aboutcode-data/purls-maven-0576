@@ -21,3 +21,4 @@
 - pkg:maven/com.yandex.ads.mediation/mobileads-mintegral@16.8.21.1?classifier=sources
 - pkg:maven/com.yandex.ads.mediation/mobileads-mintegral@16.8.61.0?classifier=sources
 - pkg:maven/com.yandex.ads.mediation/mobileads-mintegral@16.8.61.1?classifier=sources
+- pkg:maven/com.yandex.ads.mediation/mobileads-mintegral@16.8.61.2?classifier=sources

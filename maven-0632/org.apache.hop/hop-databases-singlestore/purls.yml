@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.hop/hop-databases-singlestore@2.11.0?classifier=sources
+- pkg:maven/org.apache.hop/hop-databases-singlestore@2.11.0?type=zip

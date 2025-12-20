@@ -2,4 +2,5 @@
 - pkg:maven/io.github.0x3c50.renderer/renderer-fabric@1.2.2?classifier=sources
 - pkg:maven/io.github.0x3c50.renderer/renderer-fabric@1.2.3?classifier=sources
 - pkg:maven/io.github.0x3c50.renderer/renderer-fabric@1.2.4?classifier=sources
+- pkg:maven/io.github.0x3c50.renderer/renderer-fabric@1.2.5?classifier=sources
 - pkg:maven/io.github.0x3c50.renderer/renderer-fabric@1.2?classifier=sources

@@ -9,3 +9,4 @@
 - pkg:maven/io.adtrace/android-sdk@2.5.1?classifier=sources
 - pkg:maven/io.adtrace/android-sdk@2.5.2?classifier=sources
 - pkg:maven/io.adtrace/android-sdk@2.6.0?classifier=sources
+- pkg:maven/io.adtrace/android-sdk@2.6.1?classifier=sources

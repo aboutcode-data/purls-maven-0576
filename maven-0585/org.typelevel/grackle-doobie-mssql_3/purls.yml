@@ -1,0 +1,2 @@
+- pkg:maven/org.typelevel/grackle-doobie-mssql_3@0.23.0
+- pkg:maven/org.typelevel/grackle-doobie-mssql_3@0.23.0?classifier=sources

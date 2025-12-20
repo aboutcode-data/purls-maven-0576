@@ -70,3 +70,5 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-memfiredb@8.7.2-jdk21-20241022?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-memfiredb@8.7.2-jdk21-20241025
 - pkg:maven/org.anyline/anyline-data-jdbc-memfiredb@8.7.2-jdk21-20241025?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-memfiredb@8.7.2-jdk21-20241203
+- pkg:maven/org.anyline/anyline-data-jdbc-memfiredb@8.7.2-jdk21-20241203?classifier=sources

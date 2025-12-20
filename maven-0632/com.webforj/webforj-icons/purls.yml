@@ -2,3 +2,5 @@
 - pkg:maven/com.webforj/webforj-icons@24.11?classifier=sources
 - pkg:maven/com.webforj/webforj-icons@24.12
 - pkg:maven/com.webforj/webforj-icons@24.12?classifier=sources
+- pkg:maven/com.webforj/webforj-icons@24.20
+- pkg:maven/com.webforj/webforj-icons@24.20?classifier=sources

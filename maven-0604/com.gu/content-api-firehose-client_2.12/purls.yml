@@ -65,6 +65,12 @@
 - pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.23?classifier=sources
 - pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.24
 - pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.24?classifier=sources
+- pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.25
+- pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.25-PREVIEW.reproduce-json-protocol-issue.2024-12-06T1741.d595ef98
+- pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.25-PREVIEW.reproduce-json-protocol-issue.2024-12-06T1741.d595ef98?classifier=sources
+- pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.25?classifier=sources
+- pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.26-PREVIEW.upgrade-aws-sdk-version-to-avoid-json-protocol-conflicts.2024-12-11T1530.5169c828
+- pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.26-PREVIEW.upgrade-aws-sdk-version-to-avoid-json-protocol-conflicts.2024-12-11T1530.5169c828?classifier=sources
 - pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.2?classifier=sources
 - pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.3
 - pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.3?classifier=sources

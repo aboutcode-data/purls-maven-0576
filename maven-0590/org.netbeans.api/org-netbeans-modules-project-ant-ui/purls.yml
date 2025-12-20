@@ -23,4 +23,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-project-ant-ui@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-project-ant-ui@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-project-ant-ui@RELEASE230?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-project-ant-ui@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-project-ant-ui@RELEASE90?classifier=sources

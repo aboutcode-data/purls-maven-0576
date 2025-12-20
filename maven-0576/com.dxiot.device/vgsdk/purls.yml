@@ -18,3 +18,4 @@
 - pkg:maven/com.dxiot.device/vgsdk@1.1.8?classifier=sources
 - pkg:maven/com.dxiot.device/vgsdk@1.1.9?classifier=sources
 - pkg:maven/com.dxiot.device/vgsdk@1.2.1?classifier=sources
+- pkg:maven/com.dxiot.device/vgsdk@1.2.2?classifier=sources

@@ -1,1 +1,4 @@
 - pkg:maven/io.hyper-space/client@1.1.225?classifier=sources
+- pkg:maven/io.hyper-space/client@1.1.244?classifier=sources
+- pkg:maven/io.hyper-space/client@1.1.249?classifier=sources
+- pkg:maven/io.hyper-space/client@1.1.250?classifier=sources

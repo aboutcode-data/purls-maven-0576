@@ -1,0 +1,4 @@
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-javaGeneration-conventions-standard-pure@4.67.8
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-javaGeneration-conventions-standard-pure@4.67.8?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-javaGeneration-conventions-standard-pure@4.67.9
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-javaGeneration-conventions-standard-pure@4.67.9?classifier=sources

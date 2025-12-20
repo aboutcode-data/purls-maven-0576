@@ -30,6 +30,13 @@
 - pkg:maven/it.unibo.jakta/jakta-state-machine@0.11.112?classifier=sources
 - pkg:maven/it.unibo.jakta/jakta-state-machine@0.11.113?classifier=sources
 - pkg:maven/it.unibo.jakta/jakta-state-machine@0.11.114?classifier=sources
+- pkg:maven/it.unibo.jakta/jakta-state-machine@0.11.115?classifier=sources
+- pkg:maven/it.unibo.jakta/jakta-state-machine@0.11.116?classifier=sources
+- pkg:maven/it.unibo.jakta/jakta-state-machine@0.11.118?classifier=sources
+- pkg:maven/it.unibo.jakta/jakta-state-machine@0.11.119?classifier=sources
+- pkg:maven/it.unibo.jakta/jakta-state-machine@0.11.120?classifier=sources
+- pkg:maven/it.unibo.jakta/jakta-state-machine@0.11.121?classifier=sources
+- pkg:maven/it.unibo.jakta/jakta-state-machine@0.11.122?classifier=sources
 - pkg:maven/it.unibo.jakta/jakta-state-machine@0.11.1?classifier=sources
 - pkg:maven/it.unibo.jakta/jakta-state-machine@0.11.2?classifier=sources
 - pkg:maven/it.unibo.jakta/jakta-state-machine@0.11.3?classifier=sources

@@ -54,3 +54,5 @@
 - pkg:maven/com.foreach.across/across-web@5.5.0?classifier=sources
 - pkg:maven/com.foreach.across/across-web@5.5.1
 - pkg:maven/com.foreach.across/across-web@5.5.1?classifier=sources
+- pkg:maven/com.foreach.across/across-web@6.0.0
+- pkg:maven/com.foreach.across/across-web@6.0.0?classifier=sources

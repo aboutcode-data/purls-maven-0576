@@ -129,3 +129,4 @@
 - pkg:maven/com.stripe/camera-core@21.0.1?classifier=sources
 - pkg:maven/com.stripe/camera-core@21.1.0?classifier=sources
 - pkg:maven/com.stripe/camera-core@21.2.0?classifier=sources
+- pkg:maven/com.stripe/camera-core@21.2.1?classifier=sources

@@ -428,3 +428,4 @@
 - pkg:maven/com.liferay/com.liferay.saml.api@8.1.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.api@8.1.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.saml.api@8.1.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.saml.api@9.0.0?classifier=sources

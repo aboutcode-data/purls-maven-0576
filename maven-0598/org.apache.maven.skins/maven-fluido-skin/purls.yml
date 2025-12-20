@@ -82,3 +82,6 @@
 - pkg:maven/org.apache.maven.skins/maven-fluido-skin@2.0.0-M9?classifier=sources
 - pkg:maven/org.apache.maven.skins/maven-fluido-skin@2.0.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.skins/maven-fluido-skin@2.0.0?classifier=sources
+- pkg:maven/org.apache.maven.skins/maven-fluido-skin@2.0.1
+- pkg:maven/org.apache.maven.skins/maven-fluido-skin@2.0.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.skins/maven-fluido-skin@2.0.1?classifier=sources

@@ -550,3 +550,5 @@
 - pkg:maven/com.palantir.baseline/baseline-error-prone@6.1.0?classifier=sources
 - pkg:maven/com.palantir.baseline/baseline-error-prone@6.2.0?classifier=sources
 - pkg:maven/com.palantir.baseline/baseline-error-prone@6.3.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-error-prone@6.4.0?classifier=sources
+- pkg:maven/com.palantir.baseline/baseline-error-prone@6.5.0?classifier=sources

@@ -4,3 +4,7 @@
 - pkg:maven/com.github.binarywang/wx-java-miniapp-multi-spring-boot-starter@4.6.6.B?classifier=sources
 - pkg:maven/com.github.binarywang/wx-java-miniapp-multi-spring-boot-starter@4.6.7.B
 - pkg:maven/com.github.binarywang/wx-java-miniapp-multi-spring-boot-starter@4.6.7.B?classifier=sources
+- pkg:maven/com.github.binarywang/wx-java-miniapp-multi-spring-boot-starter@4.6.8.B
+- pkg:maven/com.github.binarywang/wx-java-miniapp-multi-spring-boot-starter@4.6.8.B?classifier=sources
+- pkg:maven/com.github.binarywang/wx-java-miniapp-multi-spring-boot-starter@4.6.9.B
+- pkg:maven/com.github.binarywang/wx-java-miniapp-multi-spring-boot-starter@4.6.9.B?classifier=sources

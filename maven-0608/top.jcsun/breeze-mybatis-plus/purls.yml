@@ -7,3 +7,5 @@
 - pkg:maven/top.jcsun/breeze-mybatis-plus@2024.11.18?classifier=sources
 - pkg:maven/top.jcsun/breeze-mybatis-plus@2024.11.21?classifier=sources
 - pkg:maven/top.jcsun/breeze-mybatis-plus@2024.11.26?classifier=sources
+- pkg:maven/top.jcsun/breeze-mybatis-plus@2024.12.05?classifier=sources
+- pkg:maven/top.jcsun/breeze-mybatis-plus@2024.12.21?classifier=sources

@@ -6,3 +6,4 @@
 - pkg:maven/org.sitemesh/spring-boot-starter-sitemesh@3.2.0-M2?classifier=sources
 - pkg:maven/org.sitemesh/spring-boot-starter-sitemesh@3.2.0?classifier=sources
 - pkg:maven/org.sitemesh/spring-boot-starter-sitemesh@3.2.1?classifier=sources
+- pkg:maven/org.sitemesh/spring-boot-starter-sitemesh@3.2.2?classifier=sources

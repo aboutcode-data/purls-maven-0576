@@ -74,3 +74,7 @@
 - pkg:maven/org.flywaydb/flyway-database-db2@10.9.1?classifier=sources
 - pkg:maven/org.flywaydb/flyway-database-db2@11.0.0
 - pkg:maven/org.flywaydb/flyway-database-db2@11.0.0?classifier=sources
+- pkg:maven/org.flywaydb/flyway-database-db2@11.0.1
+- pkg:maven/org.flywaydb/flyway-database-db2@11.0.1?classifier=sources
+- pkg:maven/org.flywaydb/flyway-database-db2@11.1.0
+- pkg:maven/org.flywaydb/flyway-database-db2@11.1.0?classifier=sources

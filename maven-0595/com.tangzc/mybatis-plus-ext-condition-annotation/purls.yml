@@ -122,3 +122,4 @@
 - pkg:maven/com.tangzc/mybatis-plus-ext-condition-annotation@3.5.9-EXT724?classifier=sources
 - pkg:maven/com.tangzc/mybatis-plus-ext-condition-annotation@3.5.9-EXT725?classifier=sources
 - pkg:maven/com.tangzc/mybatis-plus-ext-condition-annotation@3.5.9-EXT726?classifier=sources
+- pkg:maven/com.tangzc/mybatis-plus-ext-condition-annotation@3.5.9-EXT727?classifier=sources

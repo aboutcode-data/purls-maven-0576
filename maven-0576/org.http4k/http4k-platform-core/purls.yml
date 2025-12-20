@@ -1,0 +1,2 @@
+- pkg:maven/org.http4k/http4k-platform-core@5.40.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-platform-core@5.41.0.0?classifier=sources

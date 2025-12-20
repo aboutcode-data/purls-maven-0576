@@ -19,3 +19,4 @@
 - pkg:maven/com.astrapay/astrapay-uiandroid-sdk@1.46?classifier=sources
 - pkg:maven/com.astrapay/astrapay-uiandroid-sdk@1.47?classifier=sources
 - pkg:maven/com.astrapay/astrapay-uiandroid-sdk@1.48?classifier=sources
+- pkg:maven/com.astrapay/astrapay-uiandroid-sdk@1.49?classifier=sources

@@ -48,3 +48,4 @@
 - pkg:maven/cn.jiguang.sdk.plugin/xiaomi@5.5.0?type=aar
 - pkg:maven/cn.jiguang.sdk.plugin/xiaomi@5.5.1?classifier=sources
 - pkg:maven/cn.jiguang.sdk.plugin/xiaomi@5.5.3?classifier=sources
+- pkg:maven/cn.jiguang.sdk.plugin/xiaomi@5.5.4?classifier=sources

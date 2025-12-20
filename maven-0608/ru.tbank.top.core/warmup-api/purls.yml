@@ -1,1 +1,2 @@
 - pkg:maven/ru.tbank.top.core/warmup-api@1.0.0?classifier=sources
+- pkg:maven/ru.tbank.top.core/warmup-api@1.1.0?classifier=sources

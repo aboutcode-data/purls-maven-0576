@@ -1,0 +1,2 @@
+- pkg:maven/dev.vinyard.blueprinter.autoconfigure/blueprinter-spring-boot-autoconfigure@2.0.0?classifier=sources
+- pkg:maven/dev.vinyard.blueprinter.autoconfigure/blueprinter-spring-boot-autoconfigure@2.0.1?classifier=sources

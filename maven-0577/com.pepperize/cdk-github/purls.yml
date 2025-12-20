@@ -1630,6 +1630,8 @@
 - pkg:maven/com.pepperize/cdk-github@0.0.8?classifier=sources
 - pkg:maven/com.pepperize/cdk-github@0.0.9
 - pkg:maven/com.pepperize/cdk-github@0.0.90
+- pkg:maven/com.pepperize/cdk-github@0.0.907
+- pkg:maven/com.pepperize/cdk-github@0.0.907?classifier=sources
 - pkg:maven/com.pepperize/cdk-github@0.0.90?classifier=sources
 - pkg:maven/com.pepperize/cdk-github@0.0.91
 - pkg:maven/com.pepperize/cdk-github@0.0.91?classifier=sources

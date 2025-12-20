@@ -2,4 +2,5 @@
 - pkg:maven/fr.lixbox.lixbox-io/lixbox-json@11.1.2.4?classifier=sources
 - pkg:maven/fr.lixbox.lixbox-io/lixbox-json@11.1.2.7?classifier=sources
 - pkg:maven/fr.lixbox.lixbox-io/lixbox-json@11.1.2.8?classifier=sources
+- pkg:maven/fr.lixbox.lixbox-io/lixbox-json@11.2.0.4?classifier=sources
 - pkg:maven/fr.lixbox.lixbox-io/lixbox-json@7.1.2.4?classifier=sources

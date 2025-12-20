@@ -84,3 +84,5 @@
 - pkg:maven/com.google.oauth-client/google-oauth-client-jetty@1.35.0?classifier=sources
 - pkg:maven/com.google.oauth-client/google-oauth-client-jetty@1.36.0
 - pkg:maven/com.google.oauth-client/google-oauth-client-jetty@1.36.0?classifier=sources
+- pkg:maven/com.google.oauth-client/google-oauth-client-jetty@1.37.0
+- pkg:maven/com.google.oauth-client/google-oauth-client-jetty@1.37.0?classifier=sources

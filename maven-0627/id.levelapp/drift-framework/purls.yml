@@ -1,0 +1,2 @@
+- pkg:maven/id.levelapp/drift-framework@1.0.0?classifier=sources
+- pkg:maven/id.levelapp/drift-framework@1.0.1?classifier=sources

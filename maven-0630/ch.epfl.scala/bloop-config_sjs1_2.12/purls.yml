@@ -618,3 +618,5 @@
 - pkg:maven/ch.epfl.scala/bloop-config_sjs1_2.12@2.0.3?classifier=sources
 - pkg:maven/ch.epfl.scala/bloop-config_sjs1_2.12@2.1.0
 - pkg:maven/ch.epfl.scala/bloop-config_sjs1_2.12@2.1.0?classifier=sources
+- pkg:maven/ch.epfl.scala/bloop-config_sjs1_2.12@2.2.0
+- pkg:maven/ch.epfl.scala/bloop-config_sjs1_2.12@2.2.0?classifier=sources

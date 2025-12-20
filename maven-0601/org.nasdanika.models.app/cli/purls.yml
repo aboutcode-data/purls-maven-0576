@@ -1,0 +1,2 @@
+- pkg:maven/org.nasdanika.models.app/cli@2024.11.0
+- pkg:maven/org.nasdanika.models.app/cli@2024.11.0?classifier=sources

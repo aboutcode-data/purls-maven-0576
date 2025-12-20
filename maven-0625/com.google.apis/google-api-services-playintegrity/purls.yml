@@ -54,3 +54,7 @@
 - pkg:maven/com.google.apis/google-api-services-playintegrity@v1-rev20240725-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-playintegrity@v1-rev20240813-2.0.0
 - pkg:maven/com.google.apis/google-api-services-playintegrity@v1-rev20240813-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-playintegrity@v1-rev20241119-2.0.0
+- pkg:maven/com.google.apis/google-api-services-playintegrity@v1-rev20241119-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-playintegrity@v1-rev20241127-2.0.0
+- pkg:maven/com.google.apis/google-api-services-playintegrity@v1-rev20241127-2.0.0?classifier=sources

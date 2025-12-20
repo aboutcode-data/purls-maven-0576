@@ -171,6 +171,10 @@
 - pkg:maven/com.google.dagger/dagger-compiler@2.51?classifier=sources
 - pkg:maven/com.google.dagger/dagger-compiler@2.52
 - pkg:maven/com.google.dagger/dagger-compiler@2.52?classifier=sources
+- pkg:maven/com.google.dagger/dagger-compiler@2.53
+- pkg:maven/com.google.dagger/dagger-compiler@2.53.1
+- pkg:maven/com.google.dagger/dagger-compiler@2.53.1?classifier=sources
+- pkg:maven/com.google.dagger/dagger-compiler@2.53?classifier=sources
 - pkg:maven/com.google.dagger/dagger-compiler@2.5?classifier=sources
 - pkg:maven/com.google.dagger/dagger-compiler@2.6
 - pkg:maven/com.google.dagger/dagger-compiler@2.6.1
