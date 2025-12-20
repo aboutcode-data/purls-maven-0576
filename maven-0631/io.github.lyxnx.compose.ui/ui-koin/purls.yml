@@ -4,3 +4,5 @@
 - pkg:maven/io.github.lyxnx.compose.ui/ui-koin@2.0.6?classifier=sources
 - pkg:maven/io.github.lyxnx.compose.ui/ui-koin@2.0.7?classifier=sources
 - pkg:maven/io.github.lyxnx.compose.ui/ui-koin@2.1.1?classifier=sources
+- pkg:maven/io.github.lyxnx.compose.ui/ui-koin@2.2.0?classifier=sources
+- pkg:maven/io.github.lyxnx.compose.ui/ui-koin@2.2.1?classifier=sources

@@ -60,6 +60,8 @@
 - pkg:maven/com.github.houbb/sensitive-word@0.16.2?classifier=sources
 - pkg:maven/com.github.houbb/sensitive-word@0.17.0
 - pkg:maven/com.github.houbb/sensitive-word@0.17.0?classifier=sources
+- pkg:maven/com.github.houbb/sensitive-word@0.18.0
+- pkg:maven/com.github.houbb/sensitive-word@0.18.0?classifier=sources
 - pkg:maven/com.github.houbb/sensitive-word@0.2.0
 - pkg:maven/com.github.houbb/sensitive-word@0.2.0?classifier=sources
 - pkg:maven/com.github.houbb/sensitive-word@0.2.1

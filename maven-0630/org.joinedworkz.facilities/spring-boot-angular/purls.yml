@@ -1,0 +1,2 @@
+- pkg:maven/org.joinedworkz.facilities/spring-boot-angular@1.3.27
+- pkg:maven/org.joinedworkz.facilities/spring-boot-angular@1.3.27?classifier=sources

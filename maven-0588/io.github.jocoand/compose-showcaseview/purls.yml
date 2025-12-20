@@ -1,0 +1,11 @@
+- pkg:maven/io.github.jocoand/compose-showcaseview@1.0.0?classifier=sources
+- pkg:maven/io.github.jocoand/compose-showcaseview@1.1.0-rc01?classifier=sources
+- pkg:maven/io.github.jocoand/compose-showcaseview@1.1.0?classifier=sources
+- pkg:maven/io.github.jocoand/compose-showcaseview@1.2.0-alpha1?classifier=sources
+- pkg:maven/io.github.jocoand/compose-showcaseview@1.2.0-alpha2?classifier=sources
+- pkg:maven/io.github.jocoand/compose-showcaseview@1.2.0-alpha3?classifier=sources
+- pkg:maven/io.github.jocoand/compose-showcaseview@1.2.0?classifier=sources
+- pkg:maven/io.github.jocoand/compose-showcaseview@1.2.1-alpha1?classifier=sources
+- pkg:maven/io.github.jocoand/compose-showcaseview@1.2.1?classifier=sources
+- pkg:maven/io.github.jocoand/compose-showcaseview@1.2.2-alpha1?classifier=sources
+- pkg:maven/io.github.jocoand/compose-showcaseview@1.2.2?classifier=sources

@@ -45,6 +45,11 @@
 - pkg:maven/dev.inmo/tgbotapi.behaviour_builder-jvm@13.0.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.behaviour_builder-jvm@14.0.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.behaviour_builder-jvm@14.0.1?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.behaviour_builder-jvm@14.1.0?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.behaviour_builder-jvm@15.0.0?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.behaviour_builder-jvm@15.1.0?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.behaviour_builder-jvm@15.2.0?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.behaviour_builder-jvm@15.3.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.behaviour_builder-jvm@2.0.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.behaviour_builder-jvm@2.0.1?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.behaviour_builder-jvm@2.0.2?classifier=sources

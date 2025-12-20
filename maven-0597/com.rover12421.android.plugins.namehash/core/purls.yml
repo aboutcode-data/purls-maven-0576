@@ -1,1 +1,2 @@
+- pkg:maven/com.rover12421.android.plugins.namehash/core@10.1.0?classifier=sources
 - pkg:maven/com.rover12421.android.plugins.namehash/core@8.0.1?classifier=sources

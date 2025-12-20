@@ -81,6 +81,12 @@
 - pkg:maven/io.smilego/multi-tenant-spring-boot-starter@1.1.45?classifier=sources
 - pkg:maven/io.smilego/multi-tenant-spring-boot-starter@1.1.46
 - pkg:maven/io.smilego/multi-tenant-spring-boot-starter@1.1.46?classifier=sources
+- pkg:maven/io.smilego/multi-tenant-spring-boot-starter@1.1.47
+- pkg:maven/io.smilego/multi-tenant-spring-boot-starter@1.1.47?classifier=sources
+- pkg:maven/io.smilego/multi-tenant-spring-boot-starter@1.1.48
+- pkg:maven/io.smilego/multi-tenant-spring-boot-starter@1.1.48?classifier=sources
+- pkg:maven/io.smilego/multi-tenant-spring-boot-starter@1.1.49
+- pkg:maven/io.smilego/multi-tenant-spring-boot-starter@1.1.49?classifier=sources
 - pkg:maven/io.smilego/multi-tenant-spring-boot-starter@1.1.4?classifier=sources
 - pkg:maven/io.smilego/multi-tenant-spring-boot-starter@1.1.5
 - pkg:maven/io.smilego/multi-tenant-spring-boot-starter@1.1.5?classifier=sources
@@ -92,3 +98,5 @@
 - pkg:maven/io.smilego/multi-tenant-spring-boot-starter@1.1.8?classifier=sources
 - pkg:maven/io.smilego/multi-tenant-spring-boot-starter@1.1.9
 - pkg:maven/io.smilego/multi-tenant-spring-boot-starter@1.1.9?classifier=sources
+- pkg:maven/io.smilego/multi-tenant-spring-boot-starter@1.2.0
+- pkg:maven/io.smilego/multi-tenant-spring-boot-starter@1.2.0?classifier=sources

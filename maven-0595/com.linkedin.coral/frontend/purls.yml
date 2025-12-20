@@ -24,6 +24,15 @@
 - pkg:maven/com.linkedin.coral/frontend@2.2.31?classifier=sources
 - pkg:maven/com.linkedin.coral/frontend@2.2.32?classifier=sources
 - pkg:maven/com.linkedin.coral/frontend@2.2.33?classifier=sources
+- pkg:maven/com.linkedin.coral/frontend@2.2.35?classifier=sources
+- pkg:maven/com.linkedin.coral/frontend@2.2.36?classifier=sources
+- pkg:maven/com.linkedin.coral/frontend@2.2.37?classifier=sources
+- pkg:maven/com.linkedin.coral/frontend@2.2.38?classifier=sources
+- pkg:maven/com.linkedin.coral/frontend@2.2.39?classifier=sources
+- pkg:maven/com.linkedin.coral/frontend@2.2.40?classifier=sources
+- pkg:maven/com.linkedin.coral/frontend@2.2.41?classifier=sources
+- pkg:maven/com.linkedin.coral/frontend@2.2.42?classifier=sources
+- pkg:maven/com.linkedin.coral/frontend@2.2.43?classifier=sources
 - pkg:maven/com.linkedin.coral/frontend@2.2.7?classifier=sources
 - pkg:maven/com.linkedin.coral/frontend@2.2.8?classifier=sources
 - pkg:maven/com.linkedin.coral/frontend@2.2.9?classifier=sources

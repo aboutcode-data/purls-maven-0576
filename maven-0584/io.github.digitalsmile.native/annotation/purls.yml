@@ -1,0 +1,8 @@
+- pkg:maven/io.github.digitalsmile.native/annotation@0.2?classifier=sources
+- pkg:maven/io.github.digitalsmile.native/annotation@0.4?classifier=sources
+- pkg:maven/io.github.digitalsmile.native/annotation@0.5?classifier=sources
+- pkg:maven/io.github.digitalsmile.native/annotation@0.6?classifier=sources
+- pkg:maven/io.github.digitalsmile.native/annotation@0.7?classifier=sources
+- pkg:maven/io.github.digitalsmile.native/annotation@0.8?classifier=sources
+- pkg:maven/io.github.digitalsmile.native/annotation@0.9?classifier=sources
+- pkg:maven/io.github.digitalsmile.native/annotation@1.0?classifier=sources

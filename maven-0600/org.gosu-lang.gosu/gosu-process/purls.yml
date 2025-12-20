@@ -186,3 +186,5 @@
 - pkg:maven/org.gosu-lang.gosu/gosu-process@1.17.8?classifier=sources
 - pkg:maven/org.gosu-lang.gosu/gosu-process@1.17.9
 - pkg:maven/org.gosu-lang.gosu/gosu-process@1.17.9?classifier=sources
+- pkg:maven/org.gosu-lang.gosu/gosu-process@1.18.1
+- pkg:maven/org.gosu-lang.gosu/gosu-process@1.18.1?classifier=sources

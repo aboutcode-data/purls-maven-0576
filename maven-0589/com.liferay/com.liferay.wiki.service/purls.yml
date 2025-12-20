@@ -1026,6 +1026,7 @@
 - pkg:maven/com.liferay/com.liferay.wiki.service@4.0.56?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.service@4.0.57?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.service@4.0.58?classifier=sources
+- pkg:maven/com.liferay/com.liferay.wiki.service@4.0.59?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.service@4.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.service@4.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.wiki.service@4.0.6
@@ -1257,6 +1258,7 @@
 - pkg:maven/com.liferay/com.liferay.wiki.service@5.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.wiki.service@5.0.8
 - pkg:maven/com.liferay/com.liferay.wiki.service@5.0.80?classifier=sources
+- pkg:maven/com.liferay/com.liferay.wiki.service@5.0.81?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.service@5.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.service@5.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.wiki.service@5.0.9

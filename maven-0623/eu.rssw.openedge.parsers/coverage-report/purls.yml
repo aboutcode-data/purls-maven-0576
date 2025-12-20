@@ -3,3 +3,5 @@
 - pkg:maven/eu.rssw.openedge.parsers/coverage-report@2.25.0
 - pkg:maven/eu.rssw.openedge.parsers/coverage-report@2.25.1
 - pkg:maven/eu.rssw.openedge.parsers/coverage-report@2.26.0
+- pkg:maven/eu.rssw.openedge.parsers/coverage-report@2.27.0
+- pkg:maven/eu.rssw.openedge.parsers/coverage-report@2.27.1

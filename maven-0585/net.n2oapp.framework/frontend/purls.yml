@@ -287,6 +287,8 @@
 - pkg:maven/net.n2oapp.framework/frontend@7.27.12
 - pkg:maven/net.n2oapp.framework/frontend@7.27.13
 - pkg:maven/net.n2oapp.framework/frontend@7.27.14
+- pkg:maven/net.n2oapp.framework/frontend@7.27.15
+- pkg:maven/net.n2oapp.framework/frontend@7.27.16
 - pkg:maven/net.n2oapp.framework/frontend@7.27.2
 - pkg:maven/net.n2oapp.framework/frontend@7.27.3
 - pkg:maven/net.n2oapp.framework/frontend@7.27.4
@@ -295,6 +297,7 @@
 - pkg:maven/net.n2oapp.framework/frontend@7.27.7
 - pkg:maven/net.n2oapp.framework/frontend@7.27.8
 - pkg:maven/net.n2oapp.framework/frontend@7.27.9
+- pkg:maven/net.n2oapp.framework/frontend@7.28.1
 - pkg:maven/net.n2oapp.framework/frontend@7.3.1
 - pkg:maven/net.n2oapp.framework/frontend@7.3.10
 - pkg:maven/net.n2oapp.framework/frontend@7.3.11

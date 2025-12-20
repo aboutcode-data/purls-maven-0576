@@ -18,6 +18,8 @@
 - pkg:maven/tech.picnic.error-prone-support/refaster-compiler@0.16.0?classifier=sources
 - pkg:maven/tech.picnic.error-prone-support/refaster-compiler@0.16.1
 - pkg:maven/tech.picnic.error-prone-support/refaster-compiler@0.16.1?classifier=sources
+- pkg:maven/tech.picnic.error-prone-support/refaster-compiler@0.17.0
+- pkg:maven/tech.picnic.error-prone-support/refaster-compiler@0.17.0?classifier=sources
 - pkg:maven/tech.picnic.error-prone-support/refaster-compiler@0.2.0
 - pkg:maven/tech.picnic.error-prone-support/refaster-compiler@0.2.0?classifier=sources
 - pkg:maven/tech.picnic.error-prone-support/refaster-compiler@0.3.0

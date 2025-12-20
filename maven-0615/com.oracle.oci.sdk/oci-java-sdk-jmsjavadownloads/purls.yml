@@ -1,5 +1,7 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-jmsjavadownloads@2.72.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-jmsjavadownloads@2.72.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-jmsjavadownloads@2.73.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-jmsjavadownloads@2.73.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-jmsjavadownloads@3.28.1
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-jmsjavadownloads@3.28.1?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-jmsjavadownloads@3.29.0
@@ -56,3 +58,15 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-jmsjavadownloads@3.43.1?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-jmsjavadownloads@3.43.2
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-jmsjavadownloads@3.43.2?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-jmsjavadownloads@3.44.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-jmsjavadownloads@3.44.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-jmsjavadownloads@3.44.1
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-jmsjavadownloads@3.44.1?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-jmsjavadownloads@3.44.2
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-jmsjavadownloads@3.44.2?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-jmsjavadownloads@3.44.3
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-jmsjavadownloads@3.44.3?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-jmsjavadownloads@3.44.4
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-jmsjavadownloads@3.44.4?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-jmsjavadownloads@3.45.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-jmsjavadownloads@3.45.0?classifier=sources

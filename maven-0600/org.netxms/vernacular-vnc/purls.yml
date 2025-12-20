@@ -1,0 +1,2 @@
+- pkg:maven/org.netxms/vernacular-vnc@1.17
+- pkg:maven/org.netxms/vernacular-vnc@1.17?classifier=sources

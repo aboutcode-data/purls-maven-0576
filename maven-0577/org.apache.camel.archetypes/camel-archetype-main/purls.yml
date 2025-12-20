@@ -100,3 +100,4 @@
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-main@4.4.3?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-main@4.5.0?classifier=sources
 - pkg:maven/org.apache.camel.archetypes/camel-archetype-main@4.6.0?classifier=sources
+- pkg:maven/org.apache.camel.archetypes/camel-archetype-main@4.7.0?classifier=sources

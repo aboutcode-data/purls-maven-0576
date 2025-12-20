@@ -85,3 +85,5 @@
 - pkg:maven/org.opendaylight.aaa/aaa-idm-store-h2@0.19.4?classifier=sources
 - pkg:maven/org.opendaylight.aaa/aaa-idm-store-h2@0.19.5
 - pkg:maven/org.opendaylight.aaa/aaa-idm-store-h2@0.19.5?classifier=sources
+- pkg:maven/org.opendaylight.aaa/aaa-idm-store-h2@0.20.0
+- pkg:maven/org.opendaylight.aaa/aaa-idm-store-h2@0.20.0?classifier=sources

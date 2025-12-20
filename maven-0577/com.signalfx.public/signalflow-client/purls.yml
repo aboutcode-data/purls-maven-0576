@@ -1,0 +1,4 @@
+- pkg:maven/com.signalfx.public/signalflow-client@1.0.0
+- pkg:maven/com.signalfx.public/signalflow-client@1.0.0-beta3
+- pkg:maven/com.signalfx.public/signalflow-client@1.0.0-beta3?classifier=sources
+- pkg:maven/com.signalfx.public/signalflow-client@1.0.0?classifier=sources

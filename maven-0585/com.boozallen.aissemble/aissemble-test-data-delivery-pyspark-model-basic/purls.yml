@@ -2,3 +2,4 @@
 - pkg:maven/com.boozallen.aissemble/aissemble-test-data-delivery-pyspark-model-basic@1.7.0-rc3?classifier=sources
 - pkg:maven/com.boozallen.aissemble/aissemble-test-data-delivery-pyspark-model-basic@1.7.0-rc4?classifier=sources
 - pkg:maven/com.boozallen.aissemble/aissemble-test-data-delivery-pyspark-model-basic@1.7.0?classifier=sources
+- pkg:maven/com.boozallen.aissemble/aissemble-test-data-delivery-pyspark-model-basic@1.8.0-rc6?classifier=sources

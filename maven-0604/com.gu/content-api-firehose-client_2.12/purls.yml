@@ -55,6 +55,14 @@
 - pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.21-PREVIEW.dbtest-content-model-release-for-content-entity.2024-03-27T1053.ced6323a
 - pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.21-PREVIEW.dbtest-content-model-release-for-content-entity.2024-03-27T1053.ced6323a?classifier=sources
 - pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.21?classifier=sources
+- pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.22
+- pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.22?classifier=sources
+- pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.23
+- pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.23-PREVIEW.pmrjackson-2172.2024-07-31T1625.ed9359c4
+- pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.23-PREVIEW.pmrjackson-2172.2024-07-31T1625.ed9359c4?classifier=sources
+- pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.23-PREVIEW.pmrjackson-2172.2024-08-01T1133.10ae174d
+- pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.23-PREVIEW.pmrjackson-2172.2024-08-01T1133.10ae174d?classifier=sources
+- pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.23?classifier=sources
 - pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.2?classifier=sources
 - pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.3
 - pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.3?classifier=sources

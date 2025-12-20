@@ -1,1 +1,3 @@
 - pkg:maven/org.kie.j2cl.tools.jakarta/inject@0.3?classifier=sources
+- pkg:maven/org.kie.j2cl.tools.jakarta/inject@0.4
+- pkg:maven/org.kie.j2cl.tools.jakarta/inject@0.4?classifier=sources

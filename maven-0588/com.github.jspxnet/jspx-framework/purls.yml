@@ -133,6 +133,12 @@
 - pkg:maven/com.github.jspxnet/jspx-framework@6.74?classifier=sources
 - pkg:maven/com.github.jspxnet/jspx-framework@6.75
 - pkg:maven/com.github.jspxnet/jspx-framework@6.75?classifier=sources
+- pkg:maven/com.github.jspxnet/jspx-framework@6.76
+- pkg:maven/com.github.jspxnet/jspx-framework@6.76?classifier=sources
+- pkg:maven/com.github.jspxnet/jspx-framework@6.77
+- pkg:maven/com.github.jspxnet/jspx-framework@6.77?classifier=sources
+- pkg:maven/com.github.jspxnet/jspx-framework@6.78
+- pkg:maven/com.github.jspxnet/jspx-framework@6.78?classifier=sources
 - pkg:maven/com.github.jspxnet/jspx-framework@6.7?classifier=sources
 - pkg:maven/com.github.jspxnet/jspx-framework@6.8
 - pkg:maven/com.github.jspxnet/jspx-framework@6.8?classifier=sources

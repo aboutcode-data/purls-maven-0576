@@ -118,6 +118,10 @@
 - pkg:maven/com.google.cloud/google-cloud-eventarc@1.44.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-eventarc@1.45.0
 - pkg:maven/com.google.cloud/google-cloud-eventarc@1.45.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-eventarc@1.46.0
+- pkg:maven/com.google.cloud/google-cloud-eventarc@1.46.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-eventarc@1.47.0
+- pkg:maven/com.google.cloud/google-cloud-eventarc@1.47.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-eventarc@1.5.0
 - pkg:maven/com.google.cloud/google-cloud-eventarc@1.5.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-eventarc@1.6.0

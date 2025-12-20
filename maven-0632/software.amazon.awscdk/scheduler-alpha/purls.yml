@@ -130,6 +130,12 @@
 - pkg:maven/software.amazon.awscdk/scheduler-alpha@2.147.3-alpha.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/scheduler-alpha@2.148.0-alpha.0
 - pkg:maven/software.amazon.awscdk/scheduler-alpha@2.148.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/scheduler-alpha@2.148.1-alpha.0
+- pkg:maven/software.amazon.awscdk/scheduler-alpha@2.148.1-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/scheduler-alpha@2.149.0-alpha.0
+- pkg:maven/software.amazon.awscdk/scheduler-alpha@2.149.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/scheduler-alpha@2.150.0-alpha.0
+- pkg:maven/software.amazon.awscdk/scheduler-alpha@2.150.0-alpha.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/scheduler-alpha@2.80.0-alpha.0
 - pkg:maven/software.amazon.awscdk/scheduler-alpha@2.80.0-alpha.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/scheduler-alpha@2.81.0-alpha.0

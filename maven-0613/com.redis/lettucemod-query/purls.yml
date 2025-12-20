@@ -1,0 +1,1 @@
+- pkg:maven/com.redis/lettucemod-query@4.0.0?classifier=sources

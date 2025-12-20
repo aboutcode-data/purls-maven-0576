@@ -1,0 +1,1 @@
+- pkg:maven/de.eitco.cicd.helm/helm-maven-plugin@4.0.1?classifier=sources

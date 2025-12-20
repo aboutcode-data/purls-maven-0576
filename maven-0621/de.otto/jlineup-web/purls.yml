@@ -39,6 +39,7 @@
 - pkg:maven/de.otto/jlineup-web@4.11.1?classifier=sources
 - pkg:maven/de.otto/jlineup-web@4.12.0?classifier=sources
 - pkg:maven/de.otto/jlineup-web@4.12.1?classifier=sources
+- pkg:maven/de.otto/jlineup-web@4.13.0?classifier=sources
 - pkg:maven/de.otto/jlineup-web@4.2.0
 - pkg:maven/de.otto/jlineup-web@4.2.0?classifier=sources
 - pkg:maven/de.otto/jlineup-web@4.2.1

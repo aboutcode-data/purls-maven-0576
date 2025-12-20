@@ -6,3 +6,6 @@
 - pkg:maven/com.messente.api/messente-api@3.0.1?classifier=sources
 - pkg:maven/com.messente.api/messente-api@3.1.0
 - pkg:maven/com.messente.api/messente-api@3.1.0?classifier=sources
+- pkg:maven/com.messente.api/messente-api@4.0.0?classifier=sources
+- pkg:maven/com.messente.api/messente-api@4.1.0?classifier=sources
+- pkg:maven/com.messente.api/messente-api@4.2.0?classifier=sources

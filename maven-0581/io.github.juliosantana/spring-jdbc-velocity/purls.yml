@@ -1,3 +1,5 @@
+- pkg:maven/io.github.juliosantana/spring-jdbc-velocity@1.0.11
+- pkg:maven/io.github.juliosantana/spring-jdbc-velocity@1.0.11?classifier=sources
 - pkg:maven/io.github.juliosantana/spring-jdbc-velocity@1.0.2
 - pkg:maven/io.github.juliosantana/spring-jdbc-velocity@1.0.2?classifier=sources
 - pkg:maven/io.github.juliosantana/spring-jdbc-velocity@1.0.3

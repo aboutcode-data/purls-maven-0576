@@ -42,6 +42,10 @@
 - pkg:maven/com.mdsol/mauth-signer@15.0.0?classifier=sources
 - pkg:maven/com.mdsol/mauth-signer@16.0.0
 - pkg:maven/com.mdsol/mauth-signer@16.0.0?classifier=sources
+- pkg:maven/com.mdsol/mauth-signer@16.0.1
+- pkg:maven/com.mdsol/mauth-signer@16.0.1?classifier=sources
+- pkg:maven/com.mdsol/mauth-signer@16.1.0
+- pkg:maven/com.mdsol/mauth-signer@16.1.0?classifier=sources
 - pkg:maven/com.mdsol/mauth-signer@2.0.0
 - pkg:maven/com.mdsol/mauth-signer@2.0.0?classifier=sources
 - pkg:maven/com.mdsol/mauth-signer@2.0.1

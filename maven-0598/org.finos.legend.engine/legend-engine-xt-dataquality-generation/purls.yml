@@ -1,0 +1,4 @@
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-dataquality-generation@4.52.0
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-dataquality-generation@4.52.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-dataquality-generation@4.52.1
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-dataquality-generation@4.52.1?classifier=sources

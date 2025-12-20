@@ -14,3 +14,7 @@
 - pkg:maven/com.github.romualdrousseau/any2json-layex-parser@2.39?classifier=sources
 - pkg:maven/com.github.romualdrousseau/any2json-layex-parser@2.40
 - pkg:maven/com.github.romualdrousseau/any2json-layex-parser@2.40?classifier=sources
+- pkg:maven/com.github.romualdrousseau/any2json-layex-parser@2.42
+- pkg:maven/com.github.romualdrousseau/any2json-layex-parser@2.42?classifier=sources
+- pkg:maven/com.github.romualdrousseau/any2json-layex-parser@2.43
+- pkg:maven/com.github.romualdrousseau/any2json-layex-parser@2.43?classifier=sources

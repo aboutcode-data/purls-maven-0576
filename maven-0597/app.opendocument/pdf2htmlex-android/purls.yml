@@ -1,1 +1,2 @@
 - pkg:maven/app.opendocument/pdf2htmlex-android@0.18.24?classifier=sources
+- pkg:maven/app.opendocument/pdf2htmlex-android@0.18.25?classifier=sources

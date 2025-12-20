@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.camel/camel-langchain4j-core@4.7.0
+- pkg:maven/org.apache.camel/camel-langchain4j-core@4.7.0?classifier=sources

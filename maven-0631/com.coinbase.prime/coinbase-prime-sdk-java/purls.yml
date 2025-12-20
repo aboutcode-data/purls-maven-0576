@@ -1,0 +1,2 @@
+- pkg:maven/com.coinbase.prime/coinbase-prime-sdk-java@0.1.1
+- pkg:maven/com.coinbase.prime/coinbase-prime-sdk-java@0.1.1?classifier=sources

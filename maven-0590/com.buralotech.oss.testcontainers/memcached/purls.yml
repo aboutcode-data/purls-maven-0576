@@ -1,0 +1,1 @@
+- pkg:maven/com.buralotech.oss.testcontainers/memcached@1.0.0?classifier=sources

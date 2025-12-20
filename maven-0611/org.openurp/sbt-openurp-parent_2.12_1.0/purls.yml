@@ -53,8 +53,14 @@
 - pkg:maven/org.openurp/sbt-openurp-parent_2.12_1.0@0.8.27?classifier=sources
 - pkg:maven/org.openurp/sbt-openurp-parent_2.12_1.0@0.8.28
 - pkg:maven/org.openurp/sbt-openurp-parent_2.12_1.0@0.8.28?classifier=sources
+- pkg:maven/org.openurp/sbt-openurp-parent_2.12_1.0@0.8.29
+- pkg:maven/org.openurp/sbt-openurp-parent_2.12_1.0@0.8.29?classifier=sources
 - pkg:maven/org.openurp/sbt-openurp-parent_2.12_1.0@0.8.2?classifier=sources
 - pkg:maven/org.openurp/sbt-openurp-parent_2.12_1.0@0.8.3
+- pkg:maven/org.openurp/sbt-openurp-parent_2.12_1.0@0.8.30
+- pkg:maven/org.openurp/sbt-openurp-parent_2.12_1.0@0.8.30?classifier=sources
+- pkg:maven/org.openurp/sbt-openurp-parent_2.12_1.0@0.8.31
+- pkg:maven/org.openurp/sbt-openurp-parent_2.12_1.0@0.8.31?classifier=sources
 - pkg:maven/org.openurp/sbt-openurp-parent_2.12_1.0@0.8.3?classifier=sources
 - pkg:maven/org.openurp/sbt-openurp-parent_2.12_1.0@0.8.4
 - pkg:maven/org.openurp/sbt-openurp-parent_2.12_1.0@0.8.4?classifier=sources

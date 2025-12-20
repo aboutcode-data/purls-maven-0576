@@ -80,3 +80,7 @@
 - pkg:maven/eu.ralph-schuster/baselib@5.0.2?classifier=sources
 - pkg:maven/eu.ralph-schuster/baselib@5.0.3
 - pkg:maven/eu.ralph-schuster/baselib@5.0.3?classifier=sources
+- pkg:maven/eu.ralph-schuster/baselib@5.1.0
+- pkg:maven/eu.ralph-schuster/baselib@5.1.0?classifier=sources
+- pkg:maven/eu.ralph-schuster/baselib@5.2.0
+- pkg:maven/eu.ralph-schuster/baselib@5.2.0?classifier=sources

@@ -12,6 +12,8 @@
 - pkg:maven/dev.hcf.ball/ball-tools-javadoc-jdk8@3.1.15.20231224?classifier=sources
 - pkg:maven/dev.hcf.ball/ball-tools-javadoc-jdk8@3.1.16.20240605
 - pkg:maven/dev.hcf.ball/ball-tools-javadoc-jdk8@3.1.16.20240605?classifier=sources
+- pkg:maven/dev.hcf.ball/ball-tools-javadoc-jdk8@3.1.17.20240628
+- pkg:maven/dev.hcf.ball/ball-tools-javadoc-jdk8@3.1.17.20240628?classifier=sources
 - pkg:maven/dev.hcf.ball/ball-tools-javadoc-jdk8@3.1.4.20221024
 - pkg:maven/dev.hcf.ball/ball-tools-javadoc-jdk8@3.1.4.20221024?classifier=sources
 - pkg:maven/dev.hcf.ball/ball-tools-javadoc-jdk8@3.1.5.20221214

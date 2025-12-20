@@ -1,0 +1,2 @@
+- pkg:maven/com.webforj/webforj-toast@24.10
+- pkg:maven/com.webforj/webforj-toast@24.10?classifier=sources

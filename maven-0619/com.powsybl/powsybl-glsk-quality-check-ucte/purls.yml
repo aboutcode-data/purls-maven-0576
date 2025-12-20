@@ -22,6 +22,10 @@
 - pkg:maven/com.powsybl/powsybl-glsk-quality-check-ucte@2.0.0?classifier=sources
 - pkg:maven/com.powsybl/powsybl-glsk-quality-check-ucte@2.1.0
 - pkg:maven/com.powsybl/powsybl-glsk-quality-check-ucte@2.1.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-glsk-quality-check-ucte@2.10.0
+- pkg:maven/com.powsybl/powsybl-glsk-quality-check-ucte@2.10.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-glsk-quality-check-ucte@2.10.1
+- pkg:maven/com.powsybl/powsybl-glsk-quality-check-ucte@2.10.1?classifier=sources
 - pkg:maven/com.powsybl/powsybl-glsk-quality-check-ucte@2.2.0
 - pkg:maven/com.powsybl/powsybl-glsk-quality-check-ucte@2.2.0?classifier=sources
 - pkg:maven/com.powsybl/powsybl-glsk-quality-check-ucte@2.3.0

@@ -1,0 +1,2 @@
+- pkg:maven/com.tosan.tools/tosan-lock-manager@1.0.1
+- pkg:maven/com.tosan.tools/tosan-lock-manager@1.0.1?classifier=sources

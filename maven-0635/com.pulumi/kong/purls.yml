@@ -121,3 +121,4 @@
 - pkg:maven/com.pulumi/kong@4.6.0-alpha.1718257522?classifier=sources
 - pkg:maven/com.pulumi/kong@4.6.0-alpha.1718343604?classifier=sources
 - pkg:maven/com.pulumi/kong@4.6.0-alpha.1718430103?classifier=sources
+- pkg:maven/com.pulumi/kong@4.6.0-alpha.1722059380?classifier=sources

@@ -33,6 +33,7 @@
 - pkg:maven/com.adobe.aio.aem/aio-aem-events@1.1.22?classifier=sources
 - pkg:maven/com.adobe.aio.aem/aio-aem-events@1.1.24?classifier=sources
 - pkg:maven/com.adobe.aio.aem/aio-aem-events@1.1.26?classifier=sources
+- pkg:maven/com.adobe.aio.aem/aio-aem-events@1.1.28?classifier=sources
 - pkg:maven/com.adobe.aio.aem/aio-aem-events@1.1.2?classifier=sources
 - pkg:maven/com.adobe.aio.aem/aio-aem-events@1.1.4?classifier=sources
 - pkg:maven/com.adobe.aio.aem/aio-aem-events@1.1.8?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/com.gitee.pichs/xbase@3.5.0?classifier=sources
+- pkg:maven/com.gitee.pichs/xbase@3.5.1?classifier=sources

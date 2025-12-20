@@ -368,3 +368,16 @@
 - pkg:maven/io.airlift/testing@248?classifier=sources
 - pkg:maven/io.airlift/testing@249
 - pkg:maven/io.airlift/testing@249?classifier=sources
+- pkg:maven/io.airlift/testing@250
+- pkg:maven/io.airlift/testing@250?classifier=sources
+- pkg:maven/io.airlift/testing@251
+- pkg:maven/io.airlift/testing@251?classifier=sources
+- pkg:maven/io.airlift/testing@252
+- pkg:maven/io.airlift/testing@252?classifier=sources
+- pkg:maven/io.airlift/testing@253
+- pkg:maven/io.airlift/testing@253?classifier=sources
+- pkg:maven/io.airlift/testing@254
+- pkg:maven/io.airlift/testing@254?classifier=sources
+- pkg:maven/io.airlift/testing@255
+- pkg:maven/io.airlift/testing@255?classifier=sources
+- pkg:maven/io.airlift/testing@256?classifier=sources

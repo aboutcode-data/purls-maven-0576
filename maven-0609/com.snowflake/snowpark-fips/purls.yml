@@ -2,6 +2,7 @@
 - pkg:maven/com.snowflake/snowpark-fips@1.11.0
 - pkg:maven/com.snowflake/snowpark-fips@1.12.0
 - pkg:maven/com.snowflake/snowpark-fips@1.12.1
+- pkg:maven/com.snowflake/snowpark-fips@1.13.0
 - pkg:maven/com.snowflake/snowpark-fips@1.2.0
 - pkg:maven/com.snowflake/snowpark-fips@1.3.0
 - pkg:maven/com.snowflake/snowpark-fips@1.4.0

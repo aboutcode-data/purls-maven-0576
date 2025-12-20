@@ -6,3 +6,5 @@
 - pkg:maven/com.ibm.ims/udb@15.157?classifier=sources
 - pkg:maven/com.ibm.ims/udb@15.158
 - pkg:maven/com.ibm.ims/udb@15.158?classifier=sources
+- pkg:maven/com.ibm.ims/udb@15.161
+- pkg:maven/com.ibm.ims/udb@15.161?classifier=sources

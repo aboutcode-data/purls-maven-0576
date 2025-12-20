@@ -1,1 +1,2 @@
 - pkg:maven/org.influxlakehouse/influxlakehouse-util@2.12_3.5.0_1.0?classifier=sources
+- pkg:maven/org.influxlakehouse/influxlakehouse-util@2.12_3.5.0_1.1?classifier=sources

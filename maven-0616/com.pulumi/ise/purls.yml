@@ -9,3 +9,4 @@
 - pkg:maven/com.pulumi/ise@0.2.0-alpha.1718257256?classifier=sources
 - pkg:maven/com.pulumi/ise@0.2.0-alpha.1718343370?classifier=sources
 - pkg:maven/com.pulumi/ise@0.2.0-alpha.1718429934?classifier=sources
+- pkg:maven/com.pulumi/ise@0.2.0-alpha.1722060080?classifier=sources

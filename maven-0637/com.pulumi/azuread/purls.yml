@@ -186,6 +186,7 @@
 - pkg:maven/com.pulumi/azuread@5.52.0-alpha.1718343839?classifier=sources
 - pkg:maven/com.pulumi/azuread@5.52.0?classifier=sources
 - pkg:maven/com.pulumi/azuread@5.53.0-alpha.1718428530?classifier=sources
+- pkg:maven/com.pulumi/azuread@5.54.0-alpha.1722057430?classifier=sources
 - pkg:maven/com.pulumi/azuread@v5.26.0-alpha.1656622750%2Be856b013?classifier=sources
 - pkg:maven/com.pulumi/azuread@v5.26.0-alpha.1657296163%2B16c1f4cf?classifier=sources
 - pkg:maven/com.pulumi/azuread@v5.27.0-alpha.1657544736%2B3d1c0c08?classifier=sources
