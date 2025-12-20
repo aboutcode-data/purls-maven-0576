@@ -10,3 +10,5 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-spanner-executor-v1@6.60.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-spanner-executor-v1@6.60.1
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-spanner-executor-v1@6.60.1?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-spanner-executor-v1@6.61.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-spanner-executor-v1@6.61.0?classifier=sources

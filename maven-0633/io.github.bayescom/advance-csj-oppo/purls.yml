@@ -6,3 +6,6 @@
 - pkg:maven/io.github.bayescom/advance-csj-oppo@4.3.2_5307?type=aar
 - pkg:maven/io.github.bayescom/advance-csj-oppo@4.3.2_5307_1?type=aar
 - pkg:maven/io.github.bayescom/advance-csj-oppo@4.3.2_5307_core?type=aar
+- pkg:maven/io.github.bayescom/advance-csj-oppo@4.3.3_5307?type=aar
+- pkg:maven/io.github.bayescom/advance-csj-oppo@4.3.3_5307_core?type=aar
+- pkg:maven/io.github.bayescom/advance-csj-oppo@4.3.3_5912_1_core?type=aar

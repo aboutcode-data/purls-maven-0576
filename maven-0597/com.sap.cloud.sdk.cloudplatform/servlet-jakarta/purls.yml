@@ -38,6 +38,8 @@
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/servlet-jakarta@4.28.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/servlet-jakarta@4.29.0
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/servlet-jakarta@4.29.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.cloudplatform/servlet-jakarta@4.30.0
+- pkg:maven/com.sap.cloud.sdk.cloudplatform/servlet-jakarta@4.30.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/servlet-jakarta@4.9.0
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/servlet-jakarta@4.9.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/servlet-jakarta@5.0.0

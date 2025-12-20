@@ -1,3 +1,5 @@
 - pkg:maven/io.github.whresk/lib_utils@1.5.0?type=aar
 - pkg:maven/io.github.whresk/lib_utils@1.5.1?type=aar
 - pkg:maven/io.github.whresk/lib_utils@1.5.2?type=aar
+- pkg:maven/io.github.whresk/lib_utils@1.5.4?type=aar
+- pkg:maven/io.github.whresk/lib_utils@1.5.5?type=aar

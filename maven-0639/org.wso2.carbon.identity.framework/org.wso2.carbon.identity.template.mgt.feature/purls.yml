@@ -1301,6 +1301,8 @@
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.template.mgt.feature@5.25.686?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.template.mgt.feature@5.25.687?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.template.mgt.feature@5.25.694?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.template.mgt.feature@5.25.697?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.template.mgt.feature@5.25.698?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.template.mgt.feature@5.25.6?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.template.mgt.feature@5.25.77?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.template.mgt.feature@5.25.78?classifier=sources
@@ -1343,6 +1345,11 @@
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.template.mgt.feature@6.0.7?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.template.mgt.feature@6.0.8?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.template.mgt.feature@6.0.9?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.template.mgt.feature@7.0.105?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.template.mgt.feature@7.0.106?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.template.mgt.feature@7.0.107?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.template.mgt.feature@7.0.109?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.template.mgt.feature@7.0.110?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.template.mgt.feature@7.0.28?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.template.mgt.feature@7.0.29?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.template.mgt.feature@7.0.30?classifier=sources
@@ -1366,3 +1373,5 @@
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.template.mgt.feature@7.0.81?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.template.mgt.feature@7.0.82?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.template.mgt.feature@7.0.83?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.template.mgt.feature@7.1.7?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.template.mgt.feature@7.1.8?classifier=sources

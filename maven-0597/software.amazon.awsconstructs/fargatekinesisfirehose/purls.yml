@@ -52,3 +52,5 @@
 - pkg:maven/software.amazon.awsconstructs/fargatekinesisfirehose@2.53.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/fargatekinesisfirehose@2.54.0
 - pkg:maven/software.amazon.awsconstructs/fargatekinesisfirehose@2.54.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/fargatekinesisfirehose@2.54.1
+- pkg:maven/software.amazon.awsconstructs/fargatekinesisfirehose@2.54.1?classifier=sources

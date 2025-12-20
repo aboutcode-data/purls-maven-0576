@@ -8,3 +8,5 @@
 - pkg:maven/net.psgglobal.wsrpc/wsrpc-maven-plugin@1.3?classifier=sources
 - pkg:maven/net.psgglobal.wsrpc/wsrpc-maven-plugin@1.4
 - pkg:maven/net.psgglobal.wsrpc/wsrpc-maven-plugin@1.4?classifier=sources
+- pkg:maven/net.psgglobal.wsrpc/wsrpc-maven-plugin@1.7
+- pkg:maven/net.psgglobal.wsrpc/wsrpc-maven-plugin@1.7?classifier=sources

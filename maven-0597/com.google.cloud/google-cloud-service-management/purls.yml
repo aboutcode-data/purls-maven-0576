@@ -104,6 +104,8 @@
 - pkg:maven/com.google.cloud/google-cloud-service-management@3.33.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-service-management@3.34.0
 - pkg:maven/com.google.cloud/google-cloud-service-management@3.34.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-service-management@3.35.0
+- pkg:maven/com.google.cloud/google-cloud-service-management@3.35.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-service-management@3.4.0
 - pkg:maven/com.google.cloud/google-cloud-service-management@3.4.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-service-management@3.5.0

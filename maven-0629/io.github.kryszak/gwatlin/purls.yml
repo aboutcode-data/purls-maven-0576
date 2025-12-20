@@ -5,4 +5,9 @@
 - pkg:maven/io.github.kryszak/gwatlin@1.9.3?classifier=sources
 - pkg:maven/io.github.kryszak/gwatlin@1.9.4?classifier=sources
 - pkg:maven/io.github.kryszak/gwatlin@1.9.5?classifier=sources
+- pkg:maven/io.github.kryszak/gwatlin@1.9.6?classifier=sources
+- pkg:maven/io.github.kryszak/gwatlin@1.9.7?classifier=sources
+- pkg:maven/io.github.kryszak/gwatlin@1.9.8?classifier=sources
 - pkg:maven/io.github.kryszak/gwatlin@1.9?classifier=sources
+- pkg:maven/io.github.kryszak/gwatlin@2.0.0?classifier=sources
+- pkg:maven/io.github.kryszak/gwatlin@2.0.1?classifier=sources

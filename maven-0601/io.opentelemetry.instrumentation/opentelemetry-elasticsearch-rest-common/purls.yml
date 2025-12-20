@@ -7,6 +7,8 @@
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-elasticsearch-rest-common@1.31.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-elasticsearch-rest-common@1.32.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-elasticsearch-rest-common@1.32.1-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-elasticsearch-rest-common@1.33.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-elasticsearch-rest-common@1.33.1-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-elasticsearch-rest-common@1.4.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-elasticsearch-rest-common@1.4.1-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-elasticsearch-rest-common@1.5.0-alpha?classifier=sources
@@ -15,3 +17,4 @@
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-elasticsearch-rest-common@1.5.3-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-elasticsearch-rest-common@2.0.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-elasticsearch-rest-common@2.1.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-elasticsearch-rest-common@2.2.0-alpha?classifier=sources

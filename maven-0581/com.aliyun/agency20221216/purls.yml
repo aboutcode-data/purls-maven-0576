@@ -14,3 +14,5 @@
 - pkg:maven/com.aliyun/agency20221216@1.3.0?classifier=sources
 - pkg:maven/com.aliyun/agency20221216@1.4.0
 - pkg:maven/com.aliyun/agency20221216@1.4.0?classifier=sources
+- pkg:maven/com.aliyun/agency20221216@1.5.0
+- pkg:maven/com.aliyun/agency20221216@1.5.0?classifier=sources

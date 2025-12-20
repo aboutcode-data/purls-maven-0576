@@ -326,6 +326,8 @@
 - pkg:maven/io.dropwizard/dropwizard-request-logging@3.0.5?classifier=sources
 - pkg:maven/io.dropwizard/dropwizard-request-logging@3.0.6
 - pkg:maven/io.dropwizard/dropwizard-request-logging@3.0.6?classifier=sources
+- pkg:maven/io.dropwizard/dropwizard-request-logging@3.0.7
+- pkg:maven/io.dropwizard/dropwizard-request-logging@3.0.7?classifier=sources
 - pkg:maven/io.dropwizard/dropwizard-request-logging@4.0.0
 - pkg:maven/io.dropwizard/dropwizard-request-logging@4.0.0-beta.1
 - pkg:maven/io.dropwizard/dropwizard-request-logging@4.0.0-beta.1?classifier=sources
@@ -348,5 +350,7 @@
 - pkg:maven/io.dropwizard/dropwizard-request-logging@4.0.5?classifier=sources
 - pkg:maven/io.dropwizard/dropwizard-request-logging@4.0.6
 - pkg:maven/io.dropwizard/dropwizard-request-logging@4.0.6?classifier=sources
+- pkg:maven/io.dropwizard/dropwizard-request-logging@4.0.7
+- pkg:maven/io.dropwizard/dropwizard-request-logging@4.0.7?classifier=sources
 - pkg:maven/io.dropwizard/dropwizard-request-logging@5.0.0-alpha.1
 - pkg:maven/io.dropwizard/dropwizard-request-logging@5.0.0-alpha.1?classifier=sources

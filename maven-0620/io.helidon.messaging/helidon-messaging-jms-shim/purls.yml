@@ -32,6 +32,8 @@
 - pkg:maven/io.helidon.messaging/helidon-messaging-jms-shim@3.2.5?classifier=sources
 - pkg:maven/io.helidon.messaging/helidon-messaging-jms-shim@3.2.6
 - pkg:maven/io.helidon.messaging/helidon-messaging-jms-shim@3.2.6?classifier=sources
+- pkg:maven/io.helidon.messaging/helidon-messaging-jms-shim@3.2.7
+- pkg:maven/io.helidon.messaging/helidon-messaging-jms-shim@3.2.7?classifier=sources
 - pkg:maven/io.helidon.messaging/helidon-messaging-jms-shim@4.0.0
 - pkg:maven/io.helidon.messaging/helidon-messaging-jms-shim@4.0.0-ALPHA1
 - pkg:maven/io.helidon.messaging/helidon-messaging-jms-shim@4.0.0-ALPHA1?classifier=sources
@@ -64,3 +66,7 @@
 - pkg:maven/io.helidon.messaging/helidon-messaging-jms-shim@4.0.4?classifier=sources
 - pkg:maven/io.helidon.messaging/helidon-messaging-jms-shim@4.0.5
 - pkg:maven/io.helidon.messaging/helidon-messaging-jms-shim@4.0.5?classifier=sources
+- pkg:maven/io.helidon.messaging/helidon-messaging-jms-shim@4.0.6
+- pkg:maven/io.helidon.messaging/helidon-messaging-jms-shim@4.0.6?classifier=sources
+- pkg:maven/io.helidon.messaging/helidon-messaging-jms-shim@4.0.7
+- pkg:maven/io.helidon.messaging/helidon-messaging-jms-shim@4.0.7?classifier=sources

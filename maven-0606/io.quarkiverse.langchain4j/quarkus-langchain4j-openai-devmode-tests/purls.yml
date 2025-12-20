@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-openai-devmode-tests@0.10.3
+- pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-openai-devmode-tests@0.10.4

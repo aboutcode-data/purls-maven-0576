@@ -6,3 +6,5 @@
 - pkg:maven/org.dafny/DafnyRuntime@4.1.0?classifier=sources
 - pkg:maven/org.dafny/DafnyRuntime@4.2.0?classifier=sources
 - pkg:maven/org.dafny/DafnyRuntime@4.4.0?classifier=sources
+- pkg:maven/org.dafny/DafnyRuntime@4.5.0?classifier=sources
+- pkg:maven/org.dafny/DafnyRuntime@4.6.0?classifier=sources

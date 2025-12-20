@@ -14,3 +14,5 @@
 - pkg:maven/me.bechberger/ap-loader-linux-arm64@2.9-8?classifier=sources
 - pkg:maven/me.bechberger/ap-loader-linux-arm64@3.0-8
 - pkg:maven/me.bechberger/ap-loader-linux-arm64@3.0-8?classifier=sources
+- pkg:maven/me.bechberger/ap-loader-linux-arm64@3.0-9
+- pkg:maven/me.bechberger/ap-loader-linux-arm64@3.0-9?classifier=sources

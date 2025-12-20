@@ -3,6 +3,7 @@
 - pkg:maven/io.micronaut.coherence/micronaut-coherence-session@1.0.0?classifier=sources
 - pkg:maven/io.micronaut.coherence/micronaut-coherence-session@3.0.0?classifier=sources
 - pkg:maven/io.micronaut.coherence/micronaut-coherence-session@3.0.1?classifier=sources
+- pkg:maven/io.micronaut.coherence/micronaut-coherence-session@3.10.0?classifier=sources
 - pkg:maven/io.micronaut.coherence/micronaut-coherence-session@3.4.0?classifier=sources
 - pkg:maven/io.micronaut.coherence/micronaut-coherence-session@3.4.1?classifier=sources
 - pkg:maven/io.micronaut.coherence/micronaut-coherence-session@3.5.0?classifier=sources
@@ -15,4 +16,5 @@
 - pkg:maven/io.micronaut.coherence/micronaut-coherence-session@4.0.0?classifier=sources
 - pkg:maven/io.micronaut.coherence/micronaut-coherence-session@5.0.0?classifier=sources
 - pkg:maven/io.micronaut.coherence/micronaut-coherence-session@5.0.1?classifier=sources
+- pkg:maven/io.micronaut.coherence/micronaut-coherence-session@5.0.2?classifier=sources
 - pkg:maven/io.micronaut.coherence/micronaut-coherence-session@ntagged-b8eddaaffef6190d285b?classifier=sources

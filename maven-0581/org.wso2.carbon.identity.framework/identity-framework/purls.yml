@@ -1929,6 +1929,8 @@
 - pkg:maven/org.wso2.carbon.identity.framework/identity-framework@5.25.686?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.framework/identity-framework@5.25.687?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.framework/identity-framework@5.25.694?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.framework/identity-framework@5.25.697?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.framework/identity-framework@5.25.698?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.framework/identity-framework@5.25.6?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.framework/identity-framework@5.25.77?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.framework/identity-framework@5.25.78?classifier=source-release&type=zip
@@ -2010,6 +2012,11 @@
 - pkg:maven/org.wso2.carbon.identity.framework/identity-framework@6.0.7?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.framework/identity-framework@6.0.8?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.framework/identity-framework@6.0.9?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.framework/identity-framework@7.0.105?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.framework/identity-framework@7.0.106?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.framework/identity-framework@7.0.107?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.framework/identity-framework@7.0.109?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.framework/identity-framework@7.0.110?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.framework/identity-framework@7.0.28?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.framework/identity-framework@7.0.29?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.framework/identity-framework@7.0.30?classifier=source-release&type=zip
@@ -2033,3 +2040,5 @@
 - pkg:maven/org.wso2.carbon.identity.framework/identity-framework@7.0.81?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.framework/identity-framework@7.0.82?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.framework/identity-framework@7.0.83?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.framework/identity-framework@7.1.7?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.framework/identity-framework@7.1.8?classifier=source-release&type=zip

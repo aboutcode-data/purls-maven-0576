@@ -28,3 +28,5 @@
 - pkg:maven/org.apache.pinot/pinot-jdbc-client@1.0.0-hotfix
 - pkg:maven/org.apache.pinot/pinot-jdbc-client@1.0.0-hotfix?classifier=sources
 - pkg:maven/org.apache.pinot/pinot-jdbc-client@1.0.0?classifier=sources
+- pkg:maven/org.apache.pinot/pinot-jdbc-client@1.1.0
+- pkg:maven/org.apache.pinot/pinot-jdbc-client@1.1.0?classifier=sources

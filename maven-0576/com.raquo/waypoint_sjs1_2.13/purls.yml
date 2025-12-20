@@ -40,3 +40,5 @@
 - pkg:maven/com.raquo/waypoint_sjs1_2.13@8.0.0-M2?classifier=sources
 - pkg:maven/com.raquo/waypoint_sjs1_2.13@8.0.0-M3
 - pkg:maven/com.raquo/waypoint_sjs1_2.13@8.0.0-M3?classifier=sources
+- pkg:maven/com.raquo/waypoint_sjs1_2.13@8.0.0-RC1
+- pkg:maven/com.raquo/waypoint_sjs1_2.13@8.0.0-RC1?classifier=sources

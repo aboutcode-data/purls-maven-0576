@@ -10,5 +10,9 @@
 - pkg:maven/com.gu/atom-manager-play_2.13@2.0.0?classifier=sources
 - pkg:maven/com.gu/atom-manager-play_2.13@2.1.0
 - pkg:maven/com.gu/atom-manager-play_2.13@2.1.0?classifier=sources
+- pkg:maven/com.gu/atom-manager-play_2.13@3.0.0
+- pkg:maven/com.gu/atom-manager-play_2.13@3.0.0-PREVIEW.play-30.2024-03-12T1559.ba68b556
+- pkg:maven/com.gu/atom-manager-play_2.13@3.0.0-PREVIEW.play-30.2024-03-12T1559.ba68b556?classifier=sources
 - pkg:maven/com.gu/atom-manager-play_2.13@3.0.0-PREVIEW.updatenonaws.2024-02-21T1525.431c7567
 - pkg:maven/com.gu/atom-manager-play_2.13@3.0.0-PREVIEW.updatenonaws.2024-02-21T1525.431c7567?classifier=sources
+- pkg:maven/com.gu/atom-manager-play_2.13@3.0.0?classifier=sources

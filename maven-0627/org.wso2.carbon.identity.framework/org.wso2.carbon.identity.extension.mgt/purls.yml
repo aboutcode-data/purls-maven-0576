@@ -74,6 +74,16 @@
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.extension.mgt@5.25.678?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.extension.mgt@5.25.679
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.extension.mgt@5.25.679?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.extension.mgt@7.0.105
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.extension.mgt@7.0.105?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.extension.mgt@7.0.106
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.extension.mgt@7.0.106?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.extension.mgt@7.0.107
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.extension.mgt@7.0.107?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.extension.mgt@7.0.109
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.extension.mgt@7.0.109?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.extension.mgt@7.0.110
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.extension.mgt@7.0.110?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.extension.mgt@7.0.28
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.extension.mgt@7.0.28?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.extension.mgt@7.0.29
@@ -120,3 +130,7 @@
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.extension.mgt@7.0.82?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.extension.mgt@7.0.83
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.extension.mgt@7.0.83?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.extension.mgt@7.1.7
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.extension.mgt@7.1.7?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.extension.mgt@7.1.8
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.extension.mgt@7.1.8?classifier=sources

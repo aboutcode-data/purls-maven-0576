@@ -1,0 +1,1 @@
+- pkg:maven/tech.orla/trivy-maven-plugin@1.0.0?classifier=sources

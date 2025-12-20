@@ -5,3 +5,4 @@
 - pkg:maven/dev.icerock.moko/network-iossimulatorarm64@0.20.1?classifier=sources
 - pkg:maven/dev.icerock.moko/network-iossimulatorarm64@0.21.0?classifier=sources
 - pkg:maven/dev.icerock.moko/network-iossimulatorarm64@0.21.1?classifier=sources
+- pkg:maven/dev.icerock.moko/network-iossimulatorarm64@0.21.2?classifier=sources

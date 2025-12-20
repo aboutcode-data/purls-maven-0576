@@ -9,3 +9,4 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-bus-stream@4.0.1
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-bus-stream@4.0.3
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-bus-stream@4.1.0
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-bus-stream@4.1.1

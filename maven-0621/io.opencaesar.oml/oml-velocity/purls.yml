@@ -16,3 +16,4 @@
 - pkg:maven/io.opencaesar.oml/oml-velocity@2.3.0?classifier=sources
 - pkg:maven/io.opencaesar.oml/oml-velocity@2.4.0?classifier=sources
 - pkg:maven/io.opencaesar.oml/oml-velocity@2.5.0?classifier=sources
+- pkg:maven/io.opencaesar.oml/oml-velocity@2.6.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/github-com-flatpickr-flatpickr@4.4.7
 - pkg:maven/org.webjars.npm/github-com-flatpickr-flatpickr@4.4.7?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-flatpickr-flatpickr@4.6.13
+- pkg:maven/org.webjars.npm/github-com-flatpickr-flatpickr@4.6.13?classifier=sources

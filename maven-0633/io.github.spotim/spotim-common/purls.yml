@@ -20,3 +20,4 @@
 - pkg:maven/io.github.spotim/spotim-common@1.18.0?classifier=sources
 - pkg:maven/io.github.spotim/spotim-common@1.20.0?classifier=sources
 - pkg:maven/io.github.spotim/spotim-common@1.20.1?classifier=sources
+- pkg:maven/io.github.spotim/spotim-common@1.21.0?classifier=sources

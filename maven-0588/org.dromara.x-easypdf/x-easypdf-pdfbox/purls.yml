@@ -4,3 +4,5 @@
 - pkg:maven/org.dromara.x-easypdf/x-easypdf-pdfbox@2.12.1?classifier=sources
 - pkg:maven/org.dromara.x-easypdf/x-easypdf-pdfbox@2.12.2
 - pkg:maven/org.dromara.x-easypdf/x-easypdf-pdfbox@2.12.2?classifier=sources
+- pkg:maven/org.dromara.x-easypdf/x-easypdf-pdfbox@3.0.0
+- pkg:maven/org.dromara.x-easypdf/x-easypdf-pdfbox@3.0.0?classifier=sources

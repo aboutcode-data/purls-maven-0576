@@ -1,3 +1,5 @@
 - pkg:maven/io.github.springwolf/springwolf-generic-binding@0.16.0?classifier=sources
 - pkg:maven/io.github.springwolf/springwolf-generic-binding@0.17.0?classifier=sources
 - pkg:maven/io.github.springwolf/springwolf-generic-binding@0.18.0?classifier=sources
+- pkg:maven/io.github.springwolf/springwolf-generic-binding@1.0.0?classifier=sources
+- pkg:maven/io.github.springwolf/springwolf-generic-binding@1.1.0?classifier=sources

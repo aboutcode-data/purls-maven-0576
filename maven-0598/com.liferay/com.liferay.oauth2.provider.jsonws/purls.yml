@@ -122,6 +122,7 @@
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.jsonws@1.0.46
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.jsonws@1.0.46?classifier=sources
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.jsonws@1.0.47?classifier=sources
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.jsonws@1.0.48?classifier=sources
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.jsonws@1.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.jsonws@1.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.jsonws@1.0.5
@@ -239,6 +240,7 @@
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.jsonws@2.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.jsonws@2.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.jsonws@2.0.4
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.jsonws@2.0.40?classifier=sources
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.jsonws@2.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.jsonws@2.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.jsonws@2.0.5
@@ -329,6 +331,7 @@
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.jsonws@3.0.30
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.jsonws@3.0.30?classifier=sources
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.jsonws@3.0.31?classifier=sources
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.jsonws@3.0.32?classifier=sources
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.jsonws@3.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.jsonws@3.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.jsonws@3.0.4

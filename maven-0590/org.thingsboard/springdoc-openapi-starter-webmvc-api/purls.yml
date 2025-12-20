@@ -1,0 +1,2 @@
+- pkg:maven/org.thingsboard/springdoc-openapi-starter-webmvc-api@2.4.0TB
+- pkg:maven/org.thingsboard/springdoc-openapi-starter-webmvc-api@2.4.0TB?classifier=sources

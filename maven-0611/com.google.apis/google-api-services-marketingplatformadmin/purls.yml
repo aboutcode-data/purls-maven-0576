@@ -1,0 +1,4 @@
+- pkg:maven/com.google.apis/google-api-services-marketingplatformadmin@v1alpha-rev20240229-2.0.0
+- pkg:maven/com.google.apis/google-api-services-marketingplatformadmin@v1alpha-rev20240229-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-marketingplatformadmin@v1alpha-rev20240311-2.0.0
+- pkg:maven/com.google.apis/google-api-services-marketingplatformadmin@v1alpha-rev20240311-2.0.0?classifier=sources

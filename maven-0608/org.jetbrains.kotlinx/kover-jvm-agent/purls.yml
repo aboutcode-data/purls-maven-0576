@@ -1,1 +1,2 @@
+- pkg:maven/org.jetbrains.kotlinx/kover-jvm-agent@0.8.0-Beta2?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kover-jvm-agent@0.8.0-Beta?classifier=sources

@@ -18,6 +18,7 @@
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.doc.user@3.15.1900
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.doc.user@3.15.200
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.doc.user@3.15.2000
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.doc.user@3.15.2100
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.doc.user@3.15.300
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.doc.user@3.15.400
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.doc.user@3.15.500

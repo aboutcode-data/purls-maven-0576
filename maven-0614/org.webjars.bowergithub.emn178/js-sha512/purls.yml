@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bowergithub.emn178/js-sha512@0.8.0
+- pkg:maven/org.webjars.bowergithub.emn178/js-sha512@0.8.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.emn178/js-sha512@0.9.0
+- pkg:maven/org.webjars.bowergithub.emn178/js-sha512@0.9.0?classifier=sources

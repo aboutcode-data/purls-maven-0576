@@ -1,4 +1,6 @@
 - pkg:maven/com.atlan/lineage-builder@1.10.10?classifier=sources
+- pkg:maven/com.atlan/lineage-builder@1.10.11?classifier=sources
+- pkg:maven/com.atlan/lineage-builder@1.10.12?classifier=sources
 - pkg:maven/com.atlan/lineage-builder@1.10.1?classifier=sources
 - pkg:maven/com.atlan/lineage-builder@1.10.2?classifier=sources
 - pkg:maven/com.atlan/lineage-builder@1.10.3?classifier=sources

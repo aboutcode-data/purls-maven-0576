@@ -262,5 +262,6 @@
 - pkg:maven/org.apereo.cas/cas-server-support-saml-googleapps-core@7.0.0?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-saml-googleapps-core@7.0.1?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-saml-googleapps-core@7.0.2?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-saml-googleapps-core@7.0.3?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-saml-googleapps-core@v6.4.0-RC5?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-saml-googleapps-core@v6.4.0-RC6?classifier=sources

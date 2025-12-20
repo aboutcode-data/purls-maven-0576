@@ -28,3 +28,11 @@
 - pkg:maven/com.amazon.emr/shims-common@4.8.0?classifier=sources
 - pkg:maven/com.amazon.emr/shims-common@4.9.0
 - pkg:maven/com.amazon.emr/shims-common@4.9.0?classifier=sources
+- pkg:maven/com.amazon.emr/shims-common@5.0.0
+- pkg:maven/com.amazon.emr/shims-common@5.0.0?classifier=sources
+- pkg:maven/com.amazon.emr/shims-common@5.1.0
+- pkg:maven/com.amazon.emr/shims-common@5.1.0?classifier=sources
+- pkg:maven/com.amazon.emr/shims-common@5.2.0
+- pkg:maven/com.amazon.emr/shims-common@5.2.0?classifier=sources
+- pkg:maven/com.amazon.emr/shims-common@5.3.0
+- pkg:maven/com.amazon.emr/shims-common@5.3.0?classifier=sources

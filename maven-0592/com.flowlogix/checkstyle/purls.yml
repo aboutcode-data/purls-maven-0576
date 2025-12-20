@@ -3,3 +3,4 @@
 - pkg:maven/com.flowlogix/checkstyle@4
 - pkg:maven/com.flowlogix/checkstyle@6
 - pkg:maven/com.flowlogix/checkstyle@7
+- pkg:maven/com.flowlogix/checkstyle@8

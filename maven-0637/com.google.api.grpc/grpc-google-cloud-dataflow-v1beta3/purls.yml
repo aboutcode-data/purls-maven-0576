@@ -78,6 +78,8 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-dataflow-v1beta3@0.4.2?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-dataflow-v1beta3@0.40.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-dataflow-v1beta3@0.40.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-dataflow-v1beta3@0.41.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-dataflow-v1beta3@0.41.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-dataflow-v1beta3@0.5.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-dataflow-v1beta3@0.5.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-dataflow-v1beta3@0.5.1

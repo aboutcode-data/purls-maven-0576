@@ -1,2 +1,4 @@
 - pkg:maven/dev.bannmann.labs/anansi-postgres@0.0.15
 - pkg:maven/dev.bannmann.labs/anansi-postgres@0.0.15?classifier=sources
+- pkg:maven/dev.bannmann.labs/anansi-postgres@0.0.16
+- pkg:maven/dev.bannmann.labs/anansi-postgres@0.0.16?classifier=sources

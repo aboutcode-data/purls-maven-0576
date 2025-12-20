@@ -5,3 +5,4 @@
 - pkg:maven/com.ivianuu.injekt/core@0.0.1-dev733?classifier=sources
 - pkg:maven/com.ivianuu.injekt/core@0.0.1-dev734?classifier=sources
 - pkg:maven/com.ivianuu.injekt/core@0.0.1-dev735?classifier=sources
+- pkg:maven/com.ivianuu.injekt/core@0.0.1-dev740?classifier=sources

@@ -61,6 +61,7 @@
 - pkg:maven/com.azure/azure-core-experimental@1.0.0-beta.45?classifier=sources
 - pkg:maven/com.azure/azure-core-experimental@1.0.0-beta.46?classifier=sources
 - pkg:maven/com.azure/azure-core-experimental@1.0.0-beta.47?classifier=sources
+- pkg:maven/com.azure/azure-core-experimental@1.0.0-beta.48?classifier=sources
 - pkg:maven/com.azure/azure-core-experimental@1.0.0-beta.4?classifier=sources
 - pkg:maven/com.azure/azure-core-experimental@1.0.0-beta.5
 - pkg:maven/com.azure/azure-core-experimental@1.0.0-beta.5?classifier=sources

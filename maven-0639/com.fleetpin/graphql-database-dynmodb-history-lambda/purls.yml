@@ -28,3 +28,5 @@
 - pkg:maven/com.fleetpin/graphql-database-dynmodb-history-lambda@0.2.29?classifier=sources
 - pkg:maven/com.fleetpin/graphql-database-dynmodb-history-lambda@0.2.31
 - pkg:maven/com.fleetpin/graphql-database-dynmodb-history-lambda@0.2.31?classifier=sources
+- pkg:maven/com.fleetpin/graphql-database-dynmodb-history-lambda@0.2.32
+- pkg:maven/com.fleetpin/graphql-database-dynmodb-history-lambda@0.2.32?classifier=sources

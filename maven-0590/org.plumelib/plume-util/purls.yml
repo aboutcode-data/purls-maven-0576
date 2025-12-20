@@ -84,3 +84,5 @@
 - pkg:maven/org.plumelib/plume-util@1.8.0?classifier=sources
 - pkg:maven/org.plumelib/plume-util@1.8.1?classifier=sources
 - pkg:maven/org.plumelib/plume-util@1.9.0?classifier=sources
+- pkg:maven/org.plumelib/plume-util@1.9.1?classifier=sources
+- pkg:maven/org.plumelib/plume-util@1.9.2?classifier=sources

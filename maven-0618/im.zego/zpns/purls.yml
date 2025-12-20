@@ -1,4 +1,5 @@
 - pkg:maven/im.zego/zpns@0.1.1?classifier=sources
+- pkg:maven/im.zego/zpns@0.1.2?classifier=sources
 - pkg:maven/im.zego/zpns@2.2.0?classifier=sources
 - pkg:maven/im.zego/zpns@2.3.0?classifier=sources
 - pkg:maven/im.zego/zpns@2.4.0?classifier=sources

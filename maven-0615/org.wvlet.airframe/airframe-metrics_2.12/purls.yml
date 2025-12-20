@@ -532,3 +532,5 @@
 - pkg:maven/org.wvlet.airframe/airframe-metrics_2.12@24.2.3?classifier=sources
 - pkg:maven/org.wvlet.airframe/airframe-metrics_2.12@24.3.0
 - pkg:maven/org.wvlet.airframe/airframe-metrics_2.12@24.3.0?classifier=sources
+- pkg:maven/org.wvlet.airframe/airframe-metrics_2.12@24.4.0
+- pkg:maven/org.wvlet.airframe/airframe-metrics_2.12@24.4.0?classifier=sources

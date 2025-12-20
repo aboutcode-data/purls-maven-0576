@@ -178,3 +178,5 @@
 - pkg:maven/com.powsybl/powsybl-itools-packager-maven-plugin@6.2.1?classifier=sources
 - pkg:maven/com.powsybl/powsybl-itools-packager-maven-plugin@6.2.2
 - pkg:maven/com.powsybl/powsybl-itools-packager-maven-plugin@6.2.2?classifier=sources
+- pkg:maven/com.powsybl/powsybl-itools-packager-maven-plugin@6.2.3
+- pkg:maven/com.powsybl/powsybl-itools-packager-maven-plugin@6.2.3?classifier=sources

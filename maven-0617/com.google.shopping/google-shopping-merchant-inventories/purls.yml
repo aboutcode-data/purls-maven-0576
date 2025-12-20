@@ -4,6 +4,8 @@
 - pkg:maven/com.google.shopping/google-shopping-merchant-inventories@0.11.0?classifier=sources
 - pkg:maven/com.google.shopping/google-shopping-merchant-inventories@0.12.0
 - pkg:maven/com.google.shopping/google-shopping-merchant-inventories@0.12.0?classifier=sources
+- pkg:maven/com.google.shopping/google-shopping-merchant-inventories@0.13.0
+- pkg:maven/com.google.shopping/google-shopping-merchant-inventories@0.13.0?classifier=sources
 - pkg:maven/com.google.shopping/google-shopping-merchant-inventories@0.3.0
 - pkg:maven/com.google.shopping/google-shopping-merchant-inventories@0.3.0?classifier=sources
 - pkg:maven/com.google.shopping/google-shopping-merchant-inventories@0.4.0

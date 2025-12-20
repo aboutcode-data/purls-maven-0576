@@ -1,0 +1,2 @@
+- pkg:maven/io.kamon/kamon-opensearch_2.13@2.7.1
+- pkg:maven/io.kamon/kamon-opensearch_2.13@2.7.1?classifier=sources

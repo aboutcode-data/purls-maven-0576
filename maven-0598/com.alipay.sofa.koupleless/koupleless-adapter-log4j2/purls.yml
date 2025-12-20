@@ -2,3 +2,5 @@
 - pkg:maven/com.alipay.sofa.koupleless/koupleless-adapter-log4j2@1.0.0?classifier=sources
 - pkg:maven/com.alipay.sofa.koupleless/koupleless-adapter-log4j2@2.0.0
 - pkg:maven/com.alipay.sofa.koupleless/koupleless-adapter-log4j2@2.0.0?classifier=sources
+- pkg:maven/com.alipay.sofa.koupleless/koupleless-adapter-log4j2@2.1.0
+- pkg:maven/com.alipay.sofa.koupleless/koupleless-adapter-log4j2@2.1.0?classifier=sources

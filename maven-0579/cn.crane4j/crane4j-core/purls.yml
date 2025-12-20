@@ -28,3 +28,5 @@
 - pkg:maven/cn.crane4j/crane4j-core@2.5.0?classifier=sources
 - pkg:maven/cn.crane4j/crane4j-core@2.6.0
 - pkg:maven/cn.crane4j/crane4j-core@2.6.0?classifier=sources
+- pkg:maven/cn.crane4j/crane4j-core@2.6.1
+- pkg:maven/cn.crane4j/crane4j-core@2.6.1?classifier=sources

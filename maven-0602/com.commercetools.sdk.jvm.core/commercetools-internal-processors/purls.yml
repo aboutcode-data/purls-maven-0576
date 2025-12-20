@@ -136,6 +136,8 @@
 - pkg:maven/com.commercetools.sdk.jvm.core/commercetools-internal-processors@2.12.0?classifier=sources
 - pkg:maven/com.commercetools.sdk.jvm.core/commercetools-internal-processors@2.14.0
 - pkg:maven/com.commercetools.sdk.jvm.core/commercetools-internal-processors@2.14.0?classifier=sources
+- pkg:maven/com.commercetools.sdk.jvm.core/commercetools-internal-processors@2.16.0
+- pkg:maven/com.commercetools.sdk.jvm.core/commercetools-internal-processors@2.16.0?classifier=sources
 - pkg:maven/com.commercetools.sdk.jvm.core/commercetools-internal-processors@2.2.0
 - pkg:maven/com.commercetools.sdk.jvm.core/commercetools-internal-processors@2.2.0?classifier=sources
 - pkg:maven/com.commercetools.sdk.jvm.core/commercetools-internal-processors@2.3.0

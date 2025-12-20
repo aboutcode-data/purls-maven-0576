@@ -1,0 +1,2 @@
+- pkg:maven/io.antmedia.plugin/ant-media-filter-plugin@2.9.0
+- pkg:maven/io.antmedia.plugin/ant-media-filter-plugin@2.9.0?classifier=sources

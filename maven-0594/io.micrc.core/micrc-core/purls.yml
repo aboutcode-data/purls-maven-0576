@@ -20,6 +20,8 @@
 - pkg:maven/io.micrc.core/micrc-core@v0.0.28?classifier=sources
 - pkg:maven/io.micrc.core/micrc-core@v0.0.29?classifier=sources
 - pkg:maven/io.micrc.core/micrc-core@v0.0.2?classifier=sources
+- pkg:maven/io.micrc.core/micrc-core@v0.0.31?classifier=sources
+- pkg:maven/io.micrc.core/micrc-core@v0.0.32?classifier=sources
 - pkg:maven/io.micrc.core/micrc-core@v0.0.3?classifier=sources
 - pkg:maven/io.micrc.core/micrc-core@v0.0.4?classifier=sources
 - pkg:maven/io.micrc.core/micrc-core@v0.0.5?classifier=sources

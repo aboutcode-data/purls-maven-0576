@@ -39,4 +39,6 @@
 - pkg:maven/cn.404z/id-spring-boot-autoconfigure@3.1.2
 - pkg:maven/cn.404z/id-spring-boot-autoconfigure@3.1.2?classifier=sources
 - pkg:maven/cn.404z/id-spring-boot-autoconfigure@3.2.0
+- pkg:maven/cn.404z/id-spring-boot-autoconfigure@3.2.0.single
+- pkg:maven/cn.404z/id-spring-boot-autoconfigure@3.2.0.single?classifier=sources
 - pkg:maven/cn.404z/id-spring-boot-autoconfigure@3.2.0?classifier=sources
