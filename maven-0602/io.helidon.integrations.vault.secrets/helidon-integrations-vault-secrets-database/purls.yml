@@ -98,3 +98,5 @@
 - pkg:maven/io.helidon.integrations.vault.secrets/helidon-integrations-vault-secrets-database@4.0.1?classifier=sources
 - pkg:maven/io.helidon.integrations.vault.secrets/helidon-integrations-vault-secrets-database@4.0.2
 - pkg:maven/io.helidon.integrations.vault.secrets/helidon-integrations-vault-secrets-database@4.0.2?classifier=sources
+- pkg:maven/io.helidon.integrations.vault.secrets/helidon-integrations-vault-secrets-database@4.0.3
+- pkg:maven/io.helidon.integrations.vault.secrets/helidon-integrations-vault-secrets-database@4.0.3?classifier=sources

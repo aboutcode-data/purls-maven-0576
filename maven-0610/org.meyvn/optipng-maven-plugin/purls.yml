@@ -1,1 +1,2 @@
 - pkg:maven/org.meyvn/optipng-maven-plugin@1.0.0
+- pkg:maven/org.meyvn/optipng-maven-plugin@1.0.1

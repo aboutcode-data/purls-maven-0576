@@ -1,0 +1,2 @@
+- pkg:maven/com.dshatz.kmp/ecdsa-jvm@1.0.1?classifier=sources
+- pkg:maven/com.dshatz.kmp/ecdsa-jvm@e2e3322?classifier=sources

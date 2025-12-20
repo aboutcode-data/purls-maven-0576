@@ -28,3 +28,5 @@
 - pkg:maven/dev.zio/zio-dynamodb_2.13@0.2.8?classifier=sources
 - pkg:maven/dev.zio/zio-dynamodb_2.13@0.2.9
 - pkg:maven/dev.zio/zio-dynamodb_2.13@0.2.9?classifier=sources
+- pkg:maven/dev.zio/zio-dynamodb_2.13@1.0.0-RC1
+- pkg:maven/dev.zio/zio-dynamodb_2.13@1.0.0-RC1?classifier=sources

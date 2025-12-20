@@ -279,3 +279,11 @@
 - pkg:maven/org.rundeck/rundeck-authz-api@5.0.0-rc1-20231202?classifier=sources
 - pkg:maven/org.rundeck/rundeck-authz-api@5.0.0-rc3-20231212?classifier=sources
 - pkg:maven/org.rundeck/rundeck-authz-api@5.0.0-rc4-20231215?classifier=sources
+- pkg:maven/org.rundeck/rundeck-authz-api@5.0.1-20240115?classifier=sources
+- pkg:maven/org.rundeck/rundeck-authz-api@5.0.1-rc1-20240103?classifier=sources
+- pkg:maven/org.rundeck/rundeck-authz-api@5.0.1-rc2-20240108?classifier=sources
+- pkg:maven/org.rundeck/rundeck-authz-api@5.0.1-rc3-20240111?classifier=sources
+- pkg:maven/org.rundeck/rundeck-authz-api@5.0.2-rc1-20240201?classifier=sources
+- pkg:maven/org.rundeck/rundeck-authz-api@5.0.2-rc2-20240206?classifier=sources
+- pkg:maven/org.rundeck/rundeck-authz-api@5.1.0-rc1-20240118?classifier=sources
+- pkg:maven/org.rundeck/rundeck-authz-api@5.1.0-rc2-20240124?classifier=sources

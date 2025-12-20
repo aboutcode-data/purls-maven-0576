@@ -126,6 +126,8 @@
 - pkg:maven/com.palantir.gradle.consistentversions/gradle-consistent-versions@2.15.0?classifier=sources
 - pkg:maven/com.palantir.gradle.consistentversions/gradle-consistent-versions@2.16.0?classifier=sources
 - pkg:maven/com.palantir.gradle.consistentversions/gradle-consistent-versions@2.17.0?classifier=sources
+- pkg:maven/com.palantir.gradle.consistentversions/gradle-consistent-versions@2.18.0?classifier=sources
+- pkg:maven/com.palantir.gradle.consistentversions/gradle-consistent-versions@2.19.0?classifier=sources
 - pkg:maven/com.palantir.gradle.consistentversions/gradle-consistent-versions@2.2.0?classifier=sources
 - pkg:maven/com.palantir.gradle.consistentversions/gradle-consistent-versions@2.3.0?classifier=sources
 - pkg:maven/com.palantir.gradle.consistentversions/gradle-consistent-versions@2.4.0?classifier=sources

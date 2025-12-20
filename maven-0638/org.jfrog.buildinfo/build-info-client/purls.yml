@@ -119,6 +119,12 @@
 - pkg:maven/org.jfrog.buildinfo/build-info-client@2.40.0
 - pkg:maven/org.jfrog.buildinfo/build-info-client@2.40.0?classifier=sources
 - pkg:maven/org.jfrog.buildinfo/build-info-client@2.41.1
+- pkg:maven/org.jfrog.buildinfo/build-info-client@2.41.11
+- pkg:maven/org.jfrog.buildinfo/build-info-client@2.41.11?classifier=sources
+- pkg:maven/org.jfrog.buildinfo/build-info-client@2.41.12
+- pkg:maven/org.jfrog.buildinfo/build-info-client@2.41.12?classifier=sources
+- pkg:maven/org.jfrog.buildinfo/build-info-client@2.41.13
+- pkg:maven/org.jfrog.buildinfo/build-info-client@2.41.13?classifier=sources
 - pkg:maven/org.jfrog.buildinfo/build-info-client@2.41.1?classifier=sources
 - pkg:maven/org.jfrog.buildinfo/build-info-client@2.41.2
 - pkg:maven/org.jfrog.buildinfo/build-info-client@2.41.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.snowflake/snowflake-jdbc-thin@3.14.5
+- pkg:maven/net.snowflake/snowflake-jdbc-thin@3.14.5?classifier=sources

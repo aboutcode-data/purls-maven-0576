@@ -32,3 +32,4 @@
 - pkg:maven/io.deephaven/deephaven-engine-context@0.30.3?classifier=sources
 - pkg:maven/io.deephaven/deephaven-engine-context@0.30.4?classifier=sources
 - pkg:maven/io.deephaven/deephaven-engine-context@0.31.0?classifier=sources
+- pkg:maven/io.deephaven/deephaven-engine-context@0.32.0?classifier=sources

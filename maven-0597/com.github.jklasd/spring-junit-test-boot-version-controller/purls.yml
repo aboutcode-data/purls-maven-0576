@@ -1,0 +1,2 @@
+- pkg:maven/com.github.jklasd/spring-junit-test-boot-version-controller@2.4.0
+- pkg:maven/com.github.jklasd/spring-junit-test-boot-version-controller@2.4.0?classifier=sources

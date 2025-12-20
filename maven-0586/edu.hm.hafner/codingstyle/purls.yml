@@ -156,6 +156,10 @@
 - pkg:maven/edu.hm.hafner/codingstyle@3.32.0?classifier=sources
 - pkg:maven/edu.hm.hafner/codingstyle@3.4.0
 - pkg:maven/edu.hm.hafner/codingstyle@3.4.0?classifier=sources
+- pkg:maven/edu.hm.hafner/codingstyle@3.40.0
+- pkg:maven/edu.hm.hafner/codingstyle@3.40.0?classifier=sources
+- pkg:maven/edu.hm.hafner/codingstyle@3.41.0
+- pkg:maven/edu.hm.hafner/codingstyle@3.41.0?classifier=sources
 - pkg:maven/edu.hm.hafner/codingstyle@3.5.0
 - pkg:maven/edu.hm.hafner/codingstyle@3.5.0?classifier=sources
 - pkg:maven/edu.hm.hafner/codingstyle@3.6.0

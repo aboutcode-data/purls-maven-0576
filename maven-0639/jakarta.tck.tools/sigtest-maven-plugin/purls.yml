@@ -1,0 +1,2 @@
+- pkg:maven/jakarta.tck.tools/sigtest-maven-plugin@2.0
+- pkg:maven/jakarta.tck.tools/sigtest-maven-plugin@2.0?classifier=sources

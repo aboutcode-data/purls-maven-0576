@@ -56,3 +56,11 @@
 - pkg:maven/io.github.vfhhu/adlocusaar@4.1.45?type=aar
 - pkg:maven/io.github.vfhhu/adlocusaar@4.1.46?classifier=sources
 - pkg:maven/io.github.vfhhu/adlocusaar@4.1.46?type=aar
+- pkg:maven/io.github.vfhhu/adlocusaar@4.1.47?classifier=sources
+- pkg:maven/io.github.vfhhu/adlocusaar@4.1.47?type=aar
+- pkg:maven/io.github.vfhhu/adlocusaar@4.1.48?classifier=sources
+- pkg:maven/io.github.vfhhu/adlocusaar@4.1.48?type=aar
+- pkg:maven/io.github.vfhhu/adlocusaar@4.1.49?classifier=sources
+- pkg:maven/io.github.vfhhu/adlocusaar@4.1.49?type=aar
+- pkg:maven/io.github.vfhhu/adlocusaar@4.1.50?classifier=sources
+- pkg:maven/io.github.vfhhu/adlocusaar@4.1.50?type=aar

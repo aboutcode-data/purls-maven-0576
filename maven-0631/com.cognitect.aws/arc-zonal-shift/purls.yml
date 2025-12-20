@@ -2,3 +2,5 @@
 - pkg:maven/com.cognitect.aws/arc-zonal-shift@825.2.1263.0?classifier=sources
 - pkg:maven/com.cognitect.aws/arc-zonal-shift@847.2.1365.0
 - pkg:maven/com.cognitect.aws/arc-zonal-shift@847.2.1365.0?classifier=sources
+- pkg:maven/com.cognitect.aws/arc-zonal-shift@852.2.1525.0
+- pkg:maven/com.cognitect.aws/arc-zonal-shift@852.2.1525.0?classifier=sources

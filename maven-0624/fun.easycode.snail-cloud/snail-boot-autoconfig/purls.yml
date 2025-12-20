@@ -1,0 +1,4 @@
+- pkg:maven/fun.easycode.snail-cloud/snail-boot-autoconfig@0.1.0
+- pkg:maven/fun.easycode.snail-cloud/snail-boot-autoconfig@0.1.0?classifier=sources
+- pkg:maven/fun.easycode.snail-cloud/snail-boot-autoconfig@0.1.1
+- pkg:maven/fun.easycode.snail-cloud/snail-boot-autoconfig@0.1.1?classifier=sources

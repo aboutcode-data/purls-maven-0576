@@ -2034,6 +2034,14 @@
 - pkg:maven/com.google.apis/google-api-services-content@v2.1-rev20231128-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-content@v2.1-rev20231203-2.0.0
 - pkg:maven/com.google.apis/google-api-services-content@v2.1-rev20231203-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-content@v2.1-rev20240102-2.0.0
+- pkg:maven/com.google.apis/google-api-services-content@v2.1-rev20240102-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-content@v2.1-rev20240110-2.0.0
+- pkg:maven/com.google.apis/google-api-services-content@v2.1-rev20240110-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-content@v2.1-rev20240113-2.0.0
+- pkg:maven/com.google.apis/google-api-services-content@v2.1-rev20240113-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-content@v2.1-rev20240116-2.0.0
+- pkg:maven/com.google.apis/google-api-services-content@v2.1-rev20240116-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-content@v2.1-rev37-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-content@v2.1-rev37-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-content@v2.1-rev37-1.25.0

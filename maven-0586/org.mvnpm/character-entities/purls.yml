@@ -1,0 +1,7 @@
+- pkg:maven/org.mvnpm/character-entities@1.0.0?classifier=sources
+- pkg:maven/org.mvnpm/character-entities@1.1.0?classifier=sources
+- pkg:maven/org.mvnpm/character-entities@1.2.0?classifier=sources
+- pkg:maven/org.mvnpm/character-entities@1.2.1?classifier=sources
+- pkg:maven/org.mvnpm/character-entities@1.2.2?classifier=sources
+- pkg:maven/org.mvnpm/character-entities@1.2.3?classifier=sources
+- pkg:maven/org.mvnpm/character-entities@1.2.4?classifier=sources

@@ -34,3 +34,5 @@
 - pkg:maven/de.gematik.pki/gemLibPki@2.0.2?classifier=sources
 - pkg:maven/de.gematik.pki/gemLibPki@2.0.3
 - pkg:maven/de.gematik.pki/gemLibPki@2.0.3?classifier=sources
+- pkg:maven/de.gematik.pki/gemLibPki@2.1.0
+- pkg:maven/de.gematik.pki/gemLibPki@2.1.0?classifier=sources

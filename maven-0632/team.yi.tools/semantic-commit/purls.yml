@@ -8,4 +8,5 @@
 - pkg:maven/team.yi.tools/semantic-commit@0.5.0?classifier=sources
 - pkg:maven/team.yi.tools/semantic-commit@0.5.13?classifier=sources
 - pkg:maven/team.yi.tools/semantic-commit@0.5.19?classifier=sources
+- pkg:maven/team.yi.tools/semantic-commit@0.5.27?classifier=sources
 - pkg:maven/team.yi.tools/semantic-commit@0.5.7?classifier=sources

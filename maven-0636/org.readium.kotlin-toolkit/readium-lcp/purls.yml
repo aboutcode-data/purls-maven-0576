@@ -1,2 +1,3 @@
 - pkg:maven/org.readium.kotlin-toolkit/readium-lcp@2.3.0?classifier=sources
 - pkg:maven/org.readium.kotlin-toolkit/readium-lcp@2.4.0?classifier=sources
+- pkg:maven/org.readium.kotlin-toolkit/readium-lcp@3.0.0-alpha.1?classifier=sources

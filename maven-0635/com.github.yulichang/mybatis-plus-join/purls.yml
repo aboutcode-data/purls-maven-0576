@@ -94,6 +94,7 @@
 - pkg:maven/com.github.yulichang/mybatis-plus-join@1.4.0
 - pkg:maven/com.github.yulichang/mybatis-plus-join@1.4.0.Beta
 - pkg:maven/com.github.yulichang/mybatis-plus-join@1.4.1
+- pkg:maven/com.github.yulichang/mybatis-plus-join@1.4.10
 - pkg:maven/com.github.yulichang/mybatis-plus-join@1.4.2
 - pkg:maven/com.github.yulichang/mybatis-plus-join@1.4.2.1
 - pkg:maven/com.github.yulichang/mybatis-plus-join@1.4.2.2
@@ -110,3 +111,4 @@
 - pkg:maven/com.github.yulichang/mybatis-plus-join@1.4.7.2
 - pkg:maven/com.github.yulichang/mybatis-plus-join@1.4.8
 - pkg:maven/com.github.yulichang/mybatis-plus-join@1.4.8.1
+- pkg:maven/com.github.yulichang/mybatis-plus-join@1.4.9

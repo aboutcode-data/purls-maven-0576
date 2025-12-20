@@ -28,3 +28,5 @@
 - pkg:maven/io.quarkiverse.rabbitmqclient/quarkus-rabbitmq-client-deployment@0.5.3?classifier=sources
 - pkg:maven/io.quarkiverse.rabbitmqclient/quarkus-rabbitmq-client-deployment@3.0.0
 - pkg:maven/io.quarkiverse.rabbitmqclient/quarkus-rabbitmq-client-deployment@3.0.0?classifier=sources
+- pkg:maven/io.quarkiverse.rabbitmqclient/quarkus-rabbitmq-client-deployment@3.0.1
+- pkg:maven/io.quarkiverse.rabbitmqclient/quarkus-rabbitmq-client-deployment@3.0.1?classifier=sources

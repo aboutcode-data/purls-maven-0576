@@ -24,6 +24,7 @@
 - pkg:maven/org.kodein.di/kodein-di-conf-watchosarm32@7.20.2?classifier=sources
 - pkg:maven/org.kodein.di/kodein-di-conf-watchosarm32@7.21.0?classifier=sources
 - pkg:maven/org.kodein.di/kodein-di-conf-watchosarm32@7.21.1?classifier=sources
+- pkg:maven/org.kodein.di/kodein-di-conf-watchosarm32@7.21.2?classifier=sources
 - pkg:maven/org.kodein.di/kodein-di-conf-watchosarm32@7.3.0?classifier=sources
 - pkg:maven/org.kodein.di/kodein-di-conf-watchosarm32@7.3.1?classifier=sources
 - pkg:maven/org.kodein.di/kodein-di-conf-watchosarm32@7.4.0?classifier=sources

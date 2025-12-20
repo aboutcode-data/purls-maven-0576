@@ -35,6 +35,8 @@
 - pkg:maven/it.cnr.si.storage/storage-cloud-cmis@2.0.2
 - pkg:maven/it.cnr.si.storage/storage-cloud-cmis@2.0.20
 - pkg:maven/it.cnr.si.storage/storage-cloud-cmis@2.0.20?classifier=sources
+- pkg:maven/it.cnr.si.storage/storage-cloud-cmis@2.0.21
+- pkg:maven/it.cnr.si.storage/storage-cloud-cmis@2.0.21?classifier=sources
 - pkg:maven/it.cnr.si.storage/storage-cloud-cmis@2.0.2?classifier=sources
 - pkg:maven/it.cnr.si.storage/storage-cloud-cmis@2.0.3
 - pkg:maven/it.cnr.si.storage/storage-cloud-cmis@2.0.3?classifier=sources

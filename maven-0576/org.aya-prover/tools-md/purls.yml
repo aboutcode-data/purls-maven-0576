@@ -4,3 +4,4 @@
 - pkg:maven/org.aya-prover/tools-md@0.29.4?classifier=sources
 - pkg:maven/org.aya-prover/tools-md@0.29.999?classifier=sources
 - pkg:maven/org.aya-prover/tools-md@0.29?classifier=sources
+- pkg:maven/org.aya-prover/tools-md@0.30.0?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/org.patterntesting/patterntesting-compat@2.2.20-YEARS?classifier=sources
 - pkg:maven/org.patterntesting/patterntesting-compat@2.3.0
 - pkg:maven/org.patterntesting/patterntesting-compat@2.3.0?classifier=sources
+- pkg:maven/org.patterntesting/patterntesting-compat@2.4.0
+- pkg:maven/org.patterntesting/patterntesting-compat@2.4.0?classifier=sources

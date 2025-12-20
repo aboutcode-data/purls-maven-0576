@@ -5,3 +5,4 @@
 - pkg:maven/io.github.sakurajimamaii/VastAdapter@0.0.5?classifier=sources
 - pkg:maven/io.github.sakurajimamaii/VastAdapter@0.1.0?classifier=sources
 - pkg:maven/io.github.sakurajimamaii/VastAdapter@0.1.1?classifier=sources
+- pkg:maven/io.github.sakurajimamaii/VastAdapter@1.1.1?classifier=sources

@@ -69,3 +69,4 @@
 - pkg:maven/com.liferay/com.liferay.layout.display.page.api@4.2.1
 - pkg:maven/com.liferay/com.liferay.layout.display.page.api@4.2.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.display.page.api@4.3.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.display.page.api@5.0.0?classifier=sources

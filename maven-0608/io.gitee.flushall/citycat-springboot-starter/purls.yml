@@ -1,0 +1,2 @@
+- pkg:maven/io.gitee.flushall/citycat-springboot-starter@0.3
+- pkg:maven/io.gitee.flushall/citycat-springboot-starter@0.3?classifier=sources

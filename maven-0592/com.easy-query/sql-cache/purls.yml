@@ -1,0 +1,2 @@
+- pkg:maven/com.easy-query/sql-cache@1.9.22
+- pkg:maven/com.easy-query/sql-cache@1.9.22?classifier=sources

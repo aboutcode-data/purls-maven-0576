@@ -4,3 +4,5 @@
 - pkg:maven/net.logicsquad/recurring@0.2?classifier=sources
 - pkg:maven/net.logicsquad/recurring@0.3
 - pkg:maven/net.logicsquad/recurring@0.3?classifier=sources
+- pkg:maven/net.logicsquad/recurring@0.4
+- pkg:maven/net.logicsquad/recurring@0.4?classifier=sources

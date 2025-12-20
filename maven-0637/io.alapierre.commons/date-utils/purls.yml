@@ -8,6 +8,10 @@
 - pkg:maven/io.alapierre.commons/date-utils@1.13?classifier=sources
 - pkg:maven/io.alapierre.commons/date-utils@1.14
 - pkg:maven/io.alapierre.commons/date-utils@1.14?classifier=sources
+- pkg:maven/io.alapierre.commons/date-utils@1.15
+- pkg:maven/io.alapierre.commons/date-utils@1.15?classifier=sources
+- pkg:maven/io.alapierre.commons/date-utils@1.16
+- pkg:maven/io.alapierre.commons/date-utils@1.16?classifier=sources
 - pkg:maven/io.alapierre.commons/date-utils@1.2
 - pkg:maven/io.alapierre.commons/date-utils@1.2?classifier=sources
 - pkg:maven/io.alapierre.commons/date-utils@1.3

@@ -4,3 +4,5 @@
 - pkg:maven/com.itsaky.androidide/logger@2.5.3-beta?classifier=sources
 - pkg:maven/com.itsaky.androidide/logger@2.6.0-beta?classifier=sources
 - pkg:maven/com.itsaky.androidide/logger@2.6.1-beta?classifier=sources
+- pkg:maven/com.itsaky.androidide/logger@2.7.0-beta?classifier=sources
+- pkg:maven/com.itsaky.androidide/logger@2.7.1-beta?classifier=sources

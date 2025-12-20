@@ -1,3 +1,4 @@
 - pkg:maven/org.wildfly.extras.grpc/wildfly-grpc-docs@0.1.0.Final
 - pkg:maven/org.wildfly.extras.grpc/wildfly-grpc-docs@0.1.1.Final
 - pkg:maven/org.wildfly.extras.grpc/wildfly-grpc-docs@0.1.2.Final
+- pkg:maven/org.wildfly.extras.grpc/wildfly-grpc-docs@0.1.3.Final

@@ -1,0 +1,2 @@
+- pkg:maven/cn.wjybxx.btree/btree-core@1.0.rc1
+- pkg:maven/cn.wjybxx.btree/btree-core@1.0.rc1?classifier=sources

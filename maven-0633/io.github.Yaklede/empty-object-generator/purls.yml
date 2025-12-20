@@ -1,3 +1,6 @@
 - pkg:maven/io.github.Yaklede/empty-object-generator@0.0.1?classifier=sources
 - pkg:maven/io.github.Yaklede/empty-object-generator@0.1.1?classifier=sources
 - pkg:maven/io.github.Yaklede/empty-object-generator@0.2.1?classifier=sources
+- pkg:maven/io.github.Yaklede/empty-object-generator@0.2.2?classifier=sources
+- pkg:maven/io.github.Yaklede/empty-object-generator@0.2.3?classifier=sources
+- pkg:maven/io.github.Yaklede/empty-object-generator@0.2.4?classifier=sources

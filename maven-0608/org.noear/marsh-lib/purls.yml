@@ -41,3 +41,4 @@
 - pkg:maven/org.noear/marsh-lib@1.5.4
 - pkg:maven/org.noear/marsh-lib@1.5.5
 - pkg:maven/org.noear/marsh-lib@1.6.0
+- pkg:maven/org.noear/marsh-lib@1.6.1

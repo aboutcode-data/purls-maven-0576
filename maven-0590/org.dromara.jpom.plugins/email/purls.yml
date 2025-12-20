@@ -70,3 +70,7 @@
 - pkg:maven/org.dromara.jpom.plugins/email@2.10.47.7
 - pkg:maven/org.dromara.jpom.plugins/email@2.10.47.7?classifier=sources
 - pkg:maven/org.dromara.jpom.plugins/email@2.10.47?classifier=sources
+- pkg:maven/org.dromara.jpom.plugins/email@2.11.0.12
+- pkg:maven/org.dromara.jpom.plugins/email@2.11.0.12?classifier=sources
+- pkg:maven/org.dromara.jpom.plugins/email@2.11.0.5
+- pkg:maven/org.dromara.jpom.plugins/email@2.11.0.5?classifier=sources

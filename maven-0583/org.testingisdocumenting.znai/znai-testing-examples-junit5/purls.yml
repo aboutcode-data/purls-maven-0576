@@ -9,3 +9,5 @@
 - pkg:maven/org.testingisdocumenting.znai/znai-testing-examples-junit5@1.63
 - pkg:maven/org.testingisdocumenting.znai/znai-testing-examples-junit5@1.64
 - pkg:maven/org.testingisdocumenting.znai/znai-testing-examples-junit5@1.65
+- pkg:maven/org.testingisdocumenting.znai/znai-testing-examples-junit5@1.66
+- pkg:maven/org.testingisdocumenting.znai/znai-testing-examples-junit5@1.67

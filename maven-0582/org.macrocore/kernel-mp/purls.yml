@@ -1,0 +1,4 @@
+- pkg:maven/org.macrocore/kernel-mp@1.1.0-RELEASE
+- pkg:maven/org.macrocore/kernel-mp@1.1.0-RELEASE?classifier=sources
+- pkg:maven/org.macrocore/kernel-mp@2.0.1-RELEASE
+- pkg:maven/org.macrocore/kernel-mp@2.0.1-RELEASE?classifier=sources

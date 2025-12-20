@@ -62,3 +62,5 @@
 - pkg:maven/com.helger/ph-pdf-layout@7.2.0?classifier=sources
 - pkg:maven/com.helger/ph-pdf-layout@7.3.0
 - pkg:maven/com.helger/ph-pdf-layout@7.3.0?classifier=sources
+- pkg:maven/com.helger/ph-pdf-layout@7.3.1
+- pkg:maven/com.helger/ph-pdf-layout@7.3.1?classifier=sources

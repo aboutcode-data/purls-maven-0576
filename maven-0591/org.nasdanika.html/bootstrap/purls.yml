@@ -148,6 +148,8 @@
 - pkg:maven/org.nasdanika.html/bootstrap@2023.10.0?classifier=sources
 - pkg:maven/org.nasdanika.html/bootstrap@2023.12.0
 - pkg:maven/org.nasdanika.html/bootstrap@2023.12.0?classifier=sources
+- pkg:maven/org.nasdanika.html/bootstrap@2023.12.1
+- pkg:maven/org.nasdanika.html/bootstrap@2023.12.1?classifier=sources
 - pkg:maven/org.nasdanika.html/bootstrap@2023.2.0
 - pkg:maven/org.nasdanika.html/bootstrap@2023.2.0?classifier=sources
 - pkg:maven/org.nasdanika.html/bootstrap@2023.2.1
@@ -166,3 +168,5 @@
 - pkg:maven/org.nasdanika.html/bootstrap@2023.9.1?classifier=sources
 - pkg:maven/org.nasdanika.html/bootstrap@2023.9.2
 - pkg:maven/org.nasdanika.html/bootstrap@2023.9.2?classifier=sources
+- pkg:maven/org.nasdanika.html/bootstrap@2024.1.0
+- pkg:maven/org.nasdanika.html/bootstrap@2024.1.0?classifier=sources

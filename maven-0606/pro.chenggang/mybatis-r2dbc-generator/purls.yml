@@ -46,3 +46,7 @@
 - pkg:maven/pro.chenggang/mybatis-r2dbc-generator@1.2.4.RELEASE?classifier=sources
 - pkg:maven/pro.chenggang/mybatis-r2dbc-generator@1.2.5.RELEASE
 - pkg:maven/pro.chenggang/mybatis-r2dbc-generator@1.2.5.RELEASE?classifier=sources
+- pkg:maven/pro.chenggang/mybatis-r2dbc-generator@2.0.0.RELEASE
+- pkg:maven/pro.chenggang/mybatis-r2dbc-generator@2.0.0.RELEASE?classifier=sources
+- pkg:maven/pro.chenggang/mybatis-r2dbc-generator@3.0.0.RELEASE
+- pkg:maven/pro.chenggang/mybatis-r2dbc-generator@3.0.0.RELEASE?classifier=sources

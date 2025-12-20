@@ -14,6 +14,10 @@
 - pkg:maven/org.webjars.npm/graphiql__react@0.19.3?classifier=sources
 - pkg:maven/org.webjars.npm/graphiql__react@0.19.4
 - pkg:maven/org.webjars.npm/graphiql__react@0.19.4?classifier=sources
+- pkg:maven/org.webjars.npm/graphiql__react@0.20.2
+- pkg:maven/org.webjars.npm/graphiql__react@0.20.2?classifier=sources
+- pkg:maven/org.webjars.npm/graphiql__react@0.20.3
+- pkg:maven/org.webjars.npm/graphiql__react@0.20.3?classifier=sources
 - pkg:maven/org.webjars.npm/graphiql__react@0.4.2
 - pkg:maven/org.webjars.npm/graphiql__react@0.4.2?classifier=sources
 - pkg:maven/org.webjars.npm/graphiql__react@0.5.2

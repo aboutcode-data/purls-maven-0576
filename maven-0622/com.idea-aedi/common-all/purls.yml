@@ -182,5 +182,7 @@
 - pkg:maven/com.idea-aedi/common-all@2100.8.8?classifier=sources
 - pkg:maven/com.idea-aedi/common-all@2100.8.9
 - pkg:maven/com.idea-aedi/common-all@2100.8.9?classifier=sources
+- pkg:maven/com.idea-aedi/common-all@2100.9.0
+- pkg:maven/com.idea-aedi/common-all@2100.9.0?classifier=sources
 - pkg:maven/com.idea-aedi/common-all@21GA.3.3
 - pkg:maven/com.idea-aedi/common-all@21GA.3.3?classifier=sources

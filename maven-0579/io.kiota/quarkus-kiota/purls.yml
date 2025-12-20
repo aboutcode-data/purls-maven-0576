@@ -1,3 +1,7 @@
+- pkg:maven/io.kiota/quarkus-kiota@0.0.10
+- pkg:maven/io.kiota/quarkus-kiota@0.0.10?classifier=sources
+- pkg:maven/io.kiota/quarkus-kiota@0.0.13
+- pkg:maven/io.kiota/quarkus-kiota@0.0.13?classifier=sources
 - pkg:maven/io.kiota/quarkus-kiota@0.0.8
 - pkg:maven/io.kiota/quarkus-kiota@0.0.8?classifier=sources
 - pkg:maven/io.kiota/quarkus-kiota@0.0.9

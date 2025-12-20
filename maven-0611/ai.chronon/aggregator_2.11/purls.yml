@@ -109,6 +109,10 @@
 - pkg:maven/ai.chronon/aggregator_2.11@0.0.60?classifier=sources
 - pkg:maven/ai.chronon/aggregator_2.11@0.0.61
 - pkg:maven/ai.chronon/aggregator_2.11@0.0.61?classifier=sources
+- pkg:maven/ai.chronon/aggregator_2.11@0.0.62
+- pkg:maven/ai.chronon/aggregator_2.11@0.0.62?classifier=sources
+- pkg:maven/ai.chronon/aggregator_2.11@0.0.63
+- pkg:maven/ai.chronon/aggregator_2.11@0.0.63?classifier=sources
 - pkg:maven/ai.chronon/aggregator_2.11@0.0.6?classifier=sources
 - pkg:maven/ai.chronon/aggregator_2.11@0.0.7
 - pkg:maven/ai.chronon/aggregator_2.11@0.0.7?classifier=sources

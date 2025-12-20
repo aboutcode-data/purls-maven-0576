@@ -4,3 +4,7 @@
 - pkg:maven/ru.quipy/tiny-event-sourcing-spring-boot-starter@2.2.2?classifier=sources
 - pkg:maven/ru.quipy/tiny-event-sourcing-spring-boot-starter@2.3.0
 - pkg:maven/ru.quipy/tiny-event-sourcing-spring-boot-starter@2.3.0?classifier=sources
+- pkg:maven/ru.quipy/tiny-event-sourcing-spring-boot-starter@2.4.0-SHAPSHOT
+- pkg:maven/ru.quipy/tiny-event-sourcing-spring-boot-starter@2.4.0-SHAPSHOT?classifier=sources
+- pkg:maven/ru.quipy/tiny-event-sourcing-spring-boot-starter@2.5.0
+- pkg:maven/ru.quipy/tiny-event-sourcing-spring-boot-starter@2.5.0?classifier=sources

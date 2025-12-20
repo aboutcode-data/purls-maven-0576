@@ -27,3 +27,4 @@
 - pkg:maven/com.hcl.domino/it-domino-jnx@1.30.1
 - pkg:maven/com.hcl.domino/it-domino-jnx@1.31.0
 - pkg:maven/com.hcl.domino/it-domino-jnx@1.32.0
+- pkg:maven/com.hcl.domino/it-domino-jnx@1.33.0

@@ -63,4 +63,8 @@
 - pkg:maven/com.lihaoyi/mill-main-resolve_2.13@0.11.6-14-43d5e4?classifier=sources
 - pkg:maven/com.lihaoyi/mill-main-resolve_2.13@0.11.6-24-0770d3
 - pkg:maven/com.lihaoyi/mill-main-resolve_2.13@0.11.6-24-0770d3?classifier=sources
+- pkg:maven/com.lihaoyi/mill-main-resolve_2.13@0.11.6-57-4e534e
+- pkg:maven/com.lihaoyi/mill-main-resolve_2.13@0.11.6-57-4e534e?classifier=sources
+- pkg:maven/com.lihaoyi/mill-main-resolve_2.13@0.11.6-61-710ac8
+- pkg:maven/com.lihaoyi/mill-main-resolve_2.13@0.11.6-61-710ac8?classifier=sources
 - pkg:maven/com.lihaoyi/mill-main-resolve_2.13@0.11.6?classifier=sources

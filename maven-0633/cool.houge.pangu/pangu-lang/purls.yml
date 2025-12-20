@@ -1,1 +1,2 @@
 - pkg:maven/cool.houge.pangu/pangu-lang@1.0.0-RC3?classifier=sources
+- pkg:maven/cool.houge.pangu/pangu-lang@1.3.0-RC1?classifier=sources

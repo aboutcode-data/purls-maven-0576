@@ -43,6 +43,10 @@
 - pkg:maven/com.markelliot.barista.tracing/barista-tracing@0.50.0?classifier=sources
 - pkg:maven/com.markelliot.barista.tracing/barista-tracing@0.51.0?classifier=sources
 - pkg:maven/com.markelliot.barista.tracing/barista-tracing@0.52.0?classifier=sources
+- pkg:maven/com.markelliot.barista.tracing/barista-tracing@0.53.0?classifier=sources
+- pkg:maven/com.markelliot.barista.tracing/barista-tracing@0.54.0?classifier=sources
+- pkg:maven/com.markelliot.barista.tracing/barista-tracing@0.55.0?classifier=sources
+- pkg:maven/com.markelliot.barista.tracing/barista-tracing@0.56.0?classifier=sources
 - pkg:maven/com.markelliot.barista.tracing/barista-tracing@0.6.0?classifier=sources
 - pkg:maven/com.markelliot.barista.tracing/barista-tracing@0.7.0?classifier=sources
 - pkg:maven/com.markelliot.barista.tracing/barista-tracing@0.8.0?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/org.camunda.community.extension/internal-task-handler-spring-boot-starter@1.0
+- pkg:maven/org.camunda.community.extension/internal-task-handler-spring-boot-starter@1.0?classifier=sources
+- pkg:maven/org.camunda.community.extension/internal-task-handler-spring-boot-starter@1.1
+- pkg:maven/org.camunda.community.extension/internal-task-handler-spring-boot-starter@1.1.1
+- pkg:maven/org.camunda.community.extension/internal-task-handler-spring-boot-starter@1.1.1?classifier=sources
+- pkg:maven/org.camunda.community.extension/internal-task-handler-spring-boot-starter@1.1?classifier=sources
+- pkg:maven/org.camunda.community.extension/internal-task-handler-spring-boot-starter@1.2
+- pkg:maven/org.camunda.community.extension/internal-task-handler-spring-boot-starter@1.2.1
+- pkg:maven/org.camunda.community.extension/internal-task-handler-spring-boot-starter@1.2.1?classifier=sources
+- pkg:maven/org.camunda.community.extension/internal-task-handler-spring-boot-starter@1.2?classifier=sources

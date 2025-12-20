@@ -34,3 +34,5 @@
 - pkg:maven/io.kubernetes/client-java-api-fluent@18.0.1?classifier=sources
 - pkg:maven/io.kubernetes/client-java-api-fluent@19.0.0
 - pkg:maven/io.kubernetes/client-java-api-fluent@19.0.0?classifier=sources
+- pkg:maven/io.kubernetes/client-java-api-fluent@20.0.0
+- pkg:maven/io.kubernetes/client-java-api-fluent@20.0.0?classifier=sources

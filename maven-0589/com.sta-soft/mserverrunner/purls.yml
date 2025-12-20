@@ -1,0 +1,2 @@
+- pkg:maven/com.sta-soft/mserverrunner@1.1
+- pkg:maven/com.sta-soft/mserverrunner@1.1?classifier=sources

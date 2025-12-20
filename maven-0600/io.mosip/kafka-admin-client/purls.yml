@@ -1,2 +1,4 @@
 - pkg:maven/io.mosip/kafka-admin-client@1.2.0
+- pkg:maven/io.mosip/kafka-admin-client@1.2.0.1-B2
+- pkg:maven/io.mosip/kafka-admin-client@1.2.0.1-B2?classifier=sources
 - pkg:maven/io.mosip/kafka-admin-client@1.2.0?classifier=sources

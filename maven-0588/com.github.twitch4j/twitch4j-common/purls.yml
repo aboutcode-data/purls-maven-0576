@@ -17,6 +17,7 @@
 - pkg:maven/com.github.twitch4j/twitch4j-common@1.16.0?classifier=sources
 - pkg:maven/com.github.twitch4j/twitch4j-common@1.17.0?classifier=sources
 - pkg:maven/com.github.twitch4j/twitch4j-common@1.18.0?classifier=sources
+- pkg:maven/com.github.twitch4j/twitch4j-common@1.19.0?classifier=sources
 - pkg:maven/com.github.twitch4j/twitch4j-common@1.2.0
 - pkg:maven/com.github.twitch4j/twitch4j-common@1.2.0?classifier=sources
 - pkg:maven/com.github.twitch4j/twitch4j-common@1.2.1

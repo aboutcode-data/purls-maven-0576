@@ -1,0 +1,2 @@
+- pkg:maven/org.tkit.onecx.quarkus/onecx-tenant@0.9.0
+- pkg:maven/org.tkit.onecx.quarkus/onecx-tenant@0.9.0?classifier=sources

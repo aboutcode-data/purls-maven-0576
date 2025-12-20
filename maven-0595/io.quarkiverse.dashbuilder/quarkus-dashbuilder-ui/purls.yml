@@ -16,3 +16,7 @@
 - pkg:maven/io.quarkiverse.dashbuilder/quarkus-dashbuilder-ui@0.29.0?classifier=sources
 - pkg:maven/io.quarkiverse.dashbuilder/quarkus-dashbuilder-ui@0.30.0
 - pkg:maven/io.quarkiverse.dashbuilder/quarkus-dashbuilder-ui@0.30.0?classifier=sources
+- pkg:maven/io.quarkiverse.dashbuilder/quarkus-dashbuilder-ui@0.31.0
+- pkg:maven/io.quarkiverse.dashbuilder/quarkus-dashbuilder-ui@0.31.0?classifier=sources
+- pkg:maven/io.quarkiverse.dashbuilder/quarkus-dashbuilder-ui@0.32.0
+- pkg:maven/io.quarkiverse.dashbuilder/quarkus-dashbuilder-ui@0.32.0?classifier=sources

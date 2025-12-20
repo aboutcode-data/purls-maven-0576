@@ -12,3 +12,4 @@
 - pkg:maven/com.github.stephengold/Acorus@0.9.9?classifier=sources
 - pkg:maven/com.github.stephengold/Acorus@1.0.0?classifier=sources
 - pkg:maven/com.github.stephengold/Acorus@1.1.0?classifier=sources
+- pkg:maven/com.github.stephengold/Acorus@1.1.1?classifier=sources

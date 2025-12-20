@@ -109,4 +109,5 @@
 - pkg:maven/com.facebook.presto/presto-elasticsearch@0.282?classifier=sources
 - pkg:maven/com.facebook.presto/presto-elasticsearch@0.283?classifier=sources
 - pkg:maven/com.facebook.presto/presto-elasticsearch@0.284?classifier=sources
+- pkg:maven/com.facebook.presto/presto-elasticsearch@0.285.1?classifier=sources
 - pkg:maven/com.facebook.presto/presto-elasticsearch@0.285?classifier=sources

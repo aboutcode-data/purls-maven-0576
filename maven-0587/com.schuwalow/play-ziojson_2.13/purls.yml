@@ -1,0 +1,2 @@
+- pkg:maven/com.schuwalow/play-ziojson_2.13@0.1.0
+- pkg:maven/com.schuwalow/play-ziojson_2.13@0.1.0?classifier=sources

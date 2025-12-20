@@ -6,5 +6,7 @@
 - pkg:maven/dev.voidframework/voidframework-restclient@1.11.1?classifier=sources
 - pkg:maven/dev.voidframework/voidframework-restclient@1.11.2
 - pkg:maven/dev.voidframework/voidframework-restclient@1.11.2?classifier=sources
+- pkg:maven/dev.voidframework/voidframework-restclient@1.12.0
+- pkg:maven/dev.voidframework/voidframework-restclient@1.12.0?classifier=sources
 - pkg:maven/dev.voidframework/voidframework-restclient@1.9.0
 - pkg:maven/dev.voidframework/voidframework-restclient@1.9.0?classifier=sources

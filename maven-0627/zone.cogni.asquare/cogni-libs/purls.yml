@@ -2,3 +2,5 @@
 - pkg:maven/zone.cogni.asquare/cogni-libs@0.6.16?classifier=sources
 - pkg:maven/zone.cogni.asquare/cogni-libs@0.6.17?classifier=sources
 - pkg:maven/zone.cogni.asquare/cogni-libs@0.6.18?classifier=sources
+- pkg:maven/zone.cogni.asquare/cogni-libs@0.6.9-f?classifier=sources
+- pkg:maven/zone.cogni.asquare/cogni-libs@0.7.0?classifier=sources

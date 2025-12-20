@@ -4,3 +4,5 @@
 - pkg:maven/ca.qc.ircm/plate-layout@0.2?classifier=sources
 - pkg:maven/ca.qc.ircm/plate-layout@0.8
 - pkg:maven/ca.qc.ircm/plate-layout@0.8?classifier=sources
+- pkg:maven/ca.qc.ircm/plate-layout@0.9
+- pkg:maven/ca.qc.ircm/plate-layout@0.9?classifier=sources

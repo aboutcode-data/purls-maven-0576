@@ -13,5 +13,14 @@
 - pkg:maven/org.noear/folkmq-transport-netty@1.0.22
 - pkg:maven/org.noear/folkmq-transport-netty@1.0.23
 - pkg:maven/org.noear/folkmq-transport-netty@1.0.24
+- pkg:maven/org.noear/folkmq-transport-netty@1.0.25
+- pkg:maven/org.noear/folkmq-transport-netty@1.0.26
+- pkg:maven/org.noear/folkmq-transport-netty@1.0.27
+- pkg:maven/org.noear/folkmq-transport-netty@1.0.28
+- pkg:maven/org.noear/folkmq-transport-netty@1.0.29
+- pkg:maven/org.noear/folkmq-transport-netty@1.0.30
+- pkg:maven/org.noear/folkmq-transport-netty@1.0.31
+- pkg:maven/org.noear/folkmq-transport-netty@1.0.32
+- pkg:maven/org.noear/folkmq-transport-netty@1.0.33-M1
 - pkg:maven/org.noear/folkmq-transport-netty@1.0.8
 - pkg:maven/org.noear/folkmq-transport-netty@1.0.9

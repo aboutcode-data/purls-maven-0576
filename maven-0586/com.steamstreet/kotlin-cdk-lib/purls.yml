@@ -1,2 +1,3 @@
 - pkg:maven/com.steamstreet/kotlin-cdk-lib@2.102.0?classifier=sources
 - pkg:maven/com.steamstreet/kotlin-cdk-lib@2.72.0?classifier=sources
+- pkg:maven/com.steamstreet/kotlin-cdk-lib@v2.118.0?classifier=sources

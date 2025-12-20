@@ -24,3 +24,13 @@
 - pkg:maven/com.litongjava/tio-http-server@3.7.3.v20231223-RELEASE?classifier=sources
 - pkg:maven/com.litongjava/tio-http-server@3.7.3.v20231224-RELEASE
 - pkg:maven/com.litongjava/tio-http-server@3.7.3.v20231224-RELEASE?classifier=sources
+- pkg:maven/com.litongjava/tio-http-server@3.7.3.v20240101-RELEASE
+- pkg:maven/com.litongjava/tio-http-server@3.7.3.v20240101-RELEASE?classifier=sources
+- pkg:maven/com.litongjava/tio-http-server@3.7.3.v20240104-RELEASE
+- pkg:maven/com.litongjava/tio-http-server@3.7.3.v20240104-RELEASE?classifier=sources
+- pkg:maven/com.litongjava/tio-http-server@3.7.3.v20240110-RELEASE
+- pkg:maven/com.litongjava/tio-http-server@3.7.3.v20240110-RELEASE?classifier=sources
+- pkg:maven/com.litongjava/tio-http-server@3.7.3.v20240111-RELEASE
+- pkg:maven/com.litongjava/tio-http-server@3.7.3.v20240111-RELEASE?classifier=sources
+- pkg:maven/com.litongjava/tio-http-server@3.7.3.v20240112-RELEASE
+- pkg:maven/com.litongjava/tio-http-server@3.7.3.v20240112-RELEASE?classifier=sources

@@ -110,3 +110,7 @@
 - pkg:maven/io.github.umutayb/Utilities@1.5.8?classifier=sources
 - pkg:maven/io.github.umutayb/Utilities@1.5.9
 - pkg:maven/io.github.umutayb/Utilities@1.5.9?classifier=sources
+- pkg:maven/io.github.umutayb/Utilities@1.6.0
+- pkg:maven/io.github.umutayb/Utilities@1.6.0?classifier=sources
+- pkg:maven/io.github.umutayb/Utilities@1.6.1
+- pkg:maven/io.github.umutayb/Utilities@1.6.1?classifier=sources

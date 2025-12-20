@@ -80,3 +80,5 @@
 - pkg:maven/wtf.metio.reguloj/reguloj@2023.8.10?classifier=sources
 - pkg:maven/wtf.metio.reguloj/reguloj@2023.9.7
 - pkg:maven/wtf.metio.reguloj/reguloj@2023.9.7?classifier=sources
+- pkg:maven/wtf.metio.reguloj/reguloj@2024.1.11
+- pkg:maven/wtf.metio.reguloj/reguloj@2024.1.11?classifier=sources

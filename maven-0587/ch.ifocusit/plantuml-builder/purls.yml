@@ -24,3 +24,5 @@
 - pkg:maven/ch.ifocusit/plantuml-builder@2.6?classifier=sources
 - pkg:maven/ch.ifocusit/plantuml-builder@2.7
 - pkg:maven/ch.ifocusit/plantuml-builder@2.7?classifier=sources
+- pkg:maven/ch.ifocusit/plantuml-builder@2.8
+- pkg:maven/ch.ifocusit/plantuml-builder@2.8?classifier=sources

@@ -4,3 +4,4 @@
 - pkg:maven/com.kmpalette/extensions-resources-js@2.0.3?classifier=sources
 - pkg:maven/com.kmpalette/extensions-resources-js@2.1.0?classifier=sources
 - pkg:maven/com.kmpalette/extensions-resources-js@2.2.0?classifier=sources
+- pkg:maven/com.kmpalette/extensions-resources-js@3.0.0?classifier=sources

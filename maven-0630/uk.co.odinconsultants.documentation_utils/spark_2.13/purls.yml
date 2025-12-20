@@ -2,3 +2,5 @@
 - pkg:maven/uk.co.odinconsultants.documentation_utils/spark_2.13@0.12?classifier=sources
 - pkg:maven/uk.co.odinconsultants.documentation_utils/spark_2.13@0.13
 - pkg:maven/uk.co.odinconsultants.documentation_utils/spark_2.13@0.13?classifier=sources
+- pkg:maven/uk.co.odinconsultants.documentation_utils/spark_2.13@0.14
+- pkg:maven/uk.co.odinconsultants.documentation_utils/spark_2.13@0.14?classifier=sources

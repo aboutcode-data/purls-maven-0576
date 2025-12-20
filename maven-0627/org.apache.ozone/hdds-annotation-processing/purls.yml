@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.ozone/hdds-annotation-processing@1.3.0
+- pkg:maven/org.apache.ozone/hdds-annotation-processing@1.4.0

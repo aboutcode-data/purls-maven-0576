@@ -56,5 +56,7 @@
 - pkg:maven/org.occurrent/competing-consumer-subscription@0.16.8?classifier=sources
 - pkg:maven/org.occurrent/competing-consumer-subscription@0.16.9
 - pkg:maven/org.occurrent/competing-consumer-subscription@0.16.9?classifier=sources
+- pkg:maven/org.occurrent/competing-consumer-subscription@0.17.0
+- pkg:maven/org.occurrent/competing-consumer-subscription@0.17.0?classifier=sources
 - pkg:maven/org.occurrent/competing-consumer-subscription@0.9.0
 - pkg:maven/org.occurrent/competing-consumer-subscription@0.9.0?classifier=sources

@@ -1,3 +1,4 @@
 - pkg:maven/com.liferay/biz.aQute.bndlib@4.2.0-20190219.175746-114-LIFERAY-CACHED.LIFERAY-PATCHED-1
 - pkg:maven/com.liferay/biz.aQute.bndlib@4.2.0-20190219.175746-114-LIFERAY-CACHED.LIFERAY-PATCHED-1?classifier=sources
 - pkg:maven/com.liferay/biz.aQute.bndlib@4.2.0-20190219.175746-114-LIFERAY-CACHED.LIFERAY-PATCHED-1?classifier=sources-commercial
+- pkg:maven/com.liferay/biz.aQute.bndlib@4.2.0-20190219.175746-114-LIFERAY-CACHED.LIFERAY-PATCHED-2?classifier=sources

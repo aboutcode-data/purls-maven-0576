@@ -3,3 +3,8 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-components-api-junit@8.18.8
 - pkg:maven/org.eclipse.dirigible/dirigible-components-api-junit@8.18.9
 - pkg:maven/org.eclipse.dirigible/dirigible-components-api-junit@9.0.0
+- pkg:maven/org.eclipse.dirigible/dirigible-components-api-junit@9.1.0
+- pkg:maven/org.eclipse.dirigible/dirigible-components-api-junit@9.1.1
+- pkg:maven/org.eclipse.dirigible/dirigible-components-api-junit@9.2.0
+- pkg:maven/org.eclipse.dirigible/dirigible-components-api-junit@9.2.1
+- pkg:maven/org.eclipse.dirigible/dirigible-components-api-junit@9.2.2

@@ -126,3 +126,5 @@
 - pkg:maven/org.opencb.cellbase/cellbase-core@5.8.0?classifier=sources
 - pkg:maven/org.opencb.cellbase/cellbase-core@5.8.1
 - pkg:maven/org.opencb.cellbase/cellbase-core@5.8.1?classifier=sources
+- pkg:maven/org.opencb.cellbase/cellbase-core@5.8.2
+- pkg:maven/org.opencb.cellbase/cellbase-core@5.8.2?classifier=sources

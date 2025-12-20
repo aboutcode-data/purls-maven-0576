@@ -14,3 +14,7 @@
 - pkg:maven/tech.ytsaurus/spark-yt-data-source_2.12@1.75.3?classifier=sources
 - pkg:maven/tech.ytsaurus/spark-yt-data-source_2.12@1.75.4
 - pkg:maven/tech.ytsaurus/spark-yt-data-source_2.12@1.75.4?classifier=sources
+- pkg:maven/tech.ytsaurus/spark-yt-data-source_2.12@1.76.0
+- pkg:maven/tech.ytsaurus/spark-yt-data-source_2.12@1.76.0?classifier=sources
+- pkg:maven/tech.ytsaurus/spark-yt-data-source_2.12@1.76.1
+- pkg:maven/tech.ytsaurus/spark-yt-data-source_2.12@1.76.1?classifier=sources

@@ -1,4 +1,5 @@
 - pkg:maven/com.arkivanov.essenty/utils-internal-wasm-js@2.0.0-alpha01?classifier=sources
 - pkg:maven/com.arkivanov.essenty/utils-internal-wasm-js@2.0.0-alpha02?classifier=sources
+- pkg:maven/com.arkivanov.essenty/utils-internal-wasm-js@2.0.0-alpha03?classifier=sources
 - pkg:maven/com.arkivanov.essenty/utils-internal-wasm-js@2.0.0-dev03?classifier=sources
 - pkg:maven/com.arkivanov.essenty/utils-internal-wasm-js@2.0.0-dev04?classifier=sources

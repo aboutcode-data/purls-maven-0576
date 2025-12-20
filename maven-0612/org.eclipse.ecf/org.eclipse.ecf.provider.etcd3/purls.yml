@@ -5,3 +5,4 @@
 - pkg:maven/org.eclipse.ecf/org.eclipse.ecf.provider.etcd3@1.0.7?classifier=sources
 - pkg:maven/org.eclipse.ecf/org.eclipse.ecf.provider.etcd3@1.0.8?classifier=sources
 - pkg:maven/org.eclipse.ecf/org.eclipse.ecf.provider.etcd3@1.1.0?classifier=sources
+- pkg:maven/org.eclipse.ecf/org.eclipse.ecf.provider.etcd3@1.2.0?classifier=sources

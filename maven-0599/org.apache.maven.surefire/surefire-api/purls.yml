@@ -104,3 +104,5 @@
 - pkg:maven/org.apache.maven.surefire/surefire-api@3.2.2?classifier=sources
 - pkg:maven/org.apache.maven.surefire/surefire-api@3.2.3
 - pkg:maven/org.apache.maven.surefire/surefire-api@3.2.3?classifier=sources
+- pkg:maven/org.apache.maven.surefire/surefire-api@3.2.5
+- pkg:maven/org.apache.maven.surefire/surefire-api@3.2.5?classifier=sources

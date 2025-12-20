@@ -1,0 +1,2 @@
+- pkg:maven/org.bytedeco/sentencepiece-platform@0.1.99-1.5.10
+- pkg:maven/org.bytedeco/sentencepiece-platform@0.1.99-1.5.10?classifier=sources

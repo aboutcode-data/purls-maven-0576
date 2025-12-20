@@ -81,3 +81,7 @@
 - pkg:maven/org.jetbrains.intellij.deps/intellij-test-discovery-agent@1.0.740?classifier=sources
 - pkg:maven/org.jetbrains.intellij.deps/intellij-test-discovery-agent@1.0.741?classifier=sources
 - pkg:maven/org.jetbrains.intellij.deps/intellij-test-discovery-agent@1.0.742?classifier=sources
+- pkg:maven/org.jetbrains.intellij.deps/intellij-test-discovery-agent@1.0.743?classifier=sources
+- pkg:maven/org.jetbrains.intellij.deps/intellij-test-discovery-agent@1.0.744?classifier=sources
+- pkg:maven/org.jetbrains.intellij.deps/intellij-test-discovery-agent@1.0.745?classifier=sources
+- pkg:maven/org.jetbrains.intellij.deps/intellij-test-discovery-agent@1.0.746?classifier=sources

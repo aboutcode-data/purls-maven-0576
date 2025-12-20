@@ -39,6 +39,8 @@
 - pkg:maven/org.bytedeco/javacv@1.4?classifier=sources
 - pkg:maven/org.bytedeco/javacv@1.5
 - pkg:maven/org.bytedeco/javacv@1.5.1
+- pkg:maven/org.bytedeco/javacv@1.5.10
+- pkg:maven/org.bytedeco/javacv@1.5.10?classifier=sources
 - pkg:maven/org.bytedeco/javacv@1.5.1?classifier=sources
 - pkg:maven/org.bytedeco/javacv@1.5.2
 - pkg:maven/org.bytedeco/javacv@1.5.2?classifier=sources

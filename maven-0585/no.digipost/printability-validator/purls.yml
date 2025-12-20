@@ -26,3 +26,5 @@
 - pkg:maven/no.digipost/printability-validator@3.3?classifier=sources
 - pkg:maven/no.digipost/printability-validator@3.4
 - pkg:maven/no.digipost/printability-validator@3.4?classifier=sources
+- pkg:maven/no.digipost/printability-validator@3.5
+- pkg:maven/no.digipost/printability-validator@3.5?classifier=sources

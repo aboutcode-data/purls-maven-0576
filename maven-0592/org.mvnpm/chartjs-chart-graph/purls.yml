@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm/chartjs-chart-graph@4.1.2?classifier=sources
+- pkg:maven/org.mvnpm/chartjs-chart-graph@4.2.8?classifier=sources

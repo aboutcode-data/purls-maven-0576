@@ -48,3 +48,4 @@
 - pkg:maven/com.dorkbox/Notify@4.2?classifier=sources
 - pkg:maven/com.dorkbox/Notify@4.3?classifier=sources
 - pkg:maven/com.dorkbox/Notify@4.4?classifier=sources
+- pkg:maven/com.dorkbox/Notify@4.5?classifier=sources
