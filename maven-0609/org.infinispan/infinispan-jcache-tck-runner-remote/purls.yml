@@ -141,6 +141,7 @@
 - pkg:maven/org.infinispan/infinispan-jcache-tck-runner-remote@15.0.0.Dev10
 - pkg:maven/org.infinispan/infinispan-jcache-tck-runner-remote@15.0.0.Final
 - pkg:maven/org.infinispan/infinispan-jcache-tck-runner-remote@15.0.1.Final
+- pkg:maven/org.infinispan/infinispan-jcache-tck-runner-remote@15.0.10.Final
 - pkg:maven/org.infinispan/infinispan-jcache-tck-runner-remote@15.0.2.Final
 - pkg:maven/org.infinispan/infinispan-jcache-tck-runner-remote@15.0.3.Final
 - pkg:maven/org.infinispan/infinispan-jcache-tck-runner-remote@15.0.4.Final
@@ -152,3 +153,4 @@
 - pkg:maven/org.infinispan/infinispan-jcache-tck-runner-remote@15.1.0.Dev01
 - pkg:maven/org.infinispan/infinispan-jcache-tck-runner-remote@15.1.0.Dev02
 - pkg:maven/org.infinispan/infinispan-jcache-tck-runner-remote@15.1.0.Dev03
+- pkg:maven/org.infinispan/infinispan-jcache-tck-runner-remote@15.1.0.Dev04

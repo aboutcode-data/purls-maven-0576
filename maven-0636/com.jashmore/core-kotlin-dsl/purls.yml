@@ -6,3 +6,4 @@
 - pkg:maven/com.jashmore/core-kotlin-dsl@5.0.0?classifier=sources
 - pkg:maven/com.jashmore/core-kotlin-dsl@5.1.0?classifier=sources
 - pkg:maven/com.jashmore/core-kotlin-dsl@6.0.0?classifier=sources
+- pkg:maven/com.jashmore/core-kotlin-dsl@7.0.0?classifier=sources

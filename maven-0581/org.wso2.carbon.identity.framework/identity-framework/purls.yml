@@ -1935,6 +1935,7 @@
 - pkg:maven/org.wso2.carbon.identity.framework/identity-framework@5.25.706?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.framework/identity-framework@5.25.712?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.framework/identity-framework@5.25.713?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.framework/identity-framework@5.25.714?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.framework/identity-framework@5.25.77?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.framework/identity-framework@5.25.78?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.framework/identity-framework@5.25.79?classifier=source-release&type=zip
@@ -2159,6 +2160,12 @@
 - pkg:maven/org.wso2.carbon.identity.framework/identity-framework@7.5.30?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.framework/identity-framework@7.5.31?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.framework/identity-framework@7.5.32?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.framework/identity-framework@7.5.33?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.framework/identity-framework@7.5.34?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.framework/identity-framework@7.5.35?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.framework/identity-framework@7.5.36?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.framework/identity-framework@7.5.37?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.framework/identity-framework@7.5.38?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.framework/identity-framework@7.5.3?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.framework/identity-framework@7.5.4?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.framework/identity-framework@7.5.5?classifier=source-release&type=zip

@@ -180,6 +180,8 @@
 - pkg:maven/org.alfasoftware/morf-core@2.2.2?classifier=sources
 - pkg:maven/org.alfasoftware/morf-core@2.20.0
 - pkg:maven/org.alfasoftware/morf-core@2.20.0?classifier=sources
+- pkg:maven/org.alfasoftware/morf-core@2.21.0
+- pkg:maven/org.alfasoftware/morf-core@2.21.0?classifier=sources
 - pkg:maven/org.alfasoftware/morf-core@2.3.0
 - pkg:maven/org.alfasoftware/morf-core@2.3.0?classifier=sources
 - pkg:maven/org.alfasoftware/morf-core@2.3.1

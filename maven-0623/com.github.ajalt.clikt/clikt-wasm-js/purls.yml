@@ -1,2 +1,3 @@
 - pkg:maven/com.github.ajalt.clikt/clikt-wasm-js@4.4.0?classifier=sources
 - pkg:maven/com.github.ajalt.clikt/clikt-wasm-js@5.0.0?classifier=sources
+- pkg:maven/com.github.ajalt.clikt/clikt-wasm-js@5.0.1?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/io.kadai.history/kadai-loghistory-provider@9.0.0?classifier=sources
+- pkg:maven/io.kadai.history/kadai-loghistory-provider@9.1.0?classifier=sources

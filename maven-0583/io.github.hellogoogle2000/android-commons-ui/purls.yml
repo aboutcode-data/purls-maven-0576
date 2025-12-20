@@ -1,3 +1,4 @@
+- pkg:maven/io.github.hellogoogle2000/android-commons-ui@1.0.10?classifier=sources
 - pkg:maven/io.github.hellogoogle2000/android-commons-ui@1.0.3?classifier=sources
 - pkg:maven/io.github.hellogoogle2000/android-commons-ui@1.0.4?classifier=sources
 - pkg:maven/io.github.hellogoogle2000/android-commons-ui@1.0.5?classifier=sources

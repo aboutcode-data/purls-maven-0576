@@ -1,0 +1,2 @@
+- pkg:maven/org.scala-lang.modules/scala-collection-contrib_native0.5_3@0.4.0
+- pkg:maven/org.scala-lang.modules/scala-collection-contrib_native0.5_3@0.4.0?classifier=sources

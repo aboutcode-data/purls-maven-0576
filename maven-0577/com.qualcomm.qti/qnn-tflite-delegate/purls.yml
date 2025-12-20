@@ -1,2 +1,4 @@
 - pkg:maven/com.qualcomm.qti/qnn-tflite-delegate@2.26.0?classifier=sources
 - pkg:maven/com.qualcomm.qti/qnn-tflite-delegate@2.26.0?type=aar
+- pkg:maven/com.qualcomm.qti/qnn-tflite-delegate@2.27.0?classifier=sources
+- pkg:maven/com.qualcomm.qti/qnn-tflite-delegate@2.27.0?type=aar

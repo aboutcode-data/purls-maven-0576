@@ -1,0 +1,1 @@
+- pkg:maven/dev.inoyu/osgi-analyzer-maven-plugin@1.0?classifier=sources

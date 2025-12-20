@@ -1,0 +1,6 @@
+- pkg:maven/io.github.alexarchambault.mill/mill-native-image_mill0.12_2.13@0.1.27
+- pkg:maven/io.github.alexarchambault.mill/mill-native-image_mill0.12_2.13@0.1.27?classifier=sources
+- pkg:maven/io.github.alexarchambault.mill/mill-native-image_mill0.12_2.13@0.1.28
+- pkg:maven/io.github.alexarchambault.mill/mill-native-image_mill0.12_2.13@0.1.28?classifier=sources
+- pkg:maven/io.github.alexarchambault.mill/mill-native-image_mill0.12_2.13@0.1.29
+- pkg:maven/io.github.alexarchambault.mill/mill-native-image_mill0.12_2.13@0.1.29?classifier=sources

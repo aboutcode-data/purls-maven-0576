@@ -3,3 +3,4 @@
 - pkg:maven/com.atlassian.prosemirror/history@1.0.2?classifier=sources
 - pkg:maven/com.atlassian.prosemirror/history@1.0.3?classifier=sources
 - pkg:maven/com.atlassian.prosemirror/history@1.0.4?classifier=sources
+- pkg:maven/com.atlassian.prosemirror/history@1.1.1?classifier=sources

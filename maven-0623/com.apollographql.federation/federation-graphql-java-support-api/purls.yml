@@ -33,5 +33,6 @@
 - pkg:maven/com.apollographql.federation/federation-graphql-java-support-api@2.3.0_alpha.0?classifier=sources
 - pkg:maven/com.apollographql.federation/federation-graphql-java-support-api@2.3.0_alpha.1?classifier=sources
 - pkg:maven/com.apollographql.federation/federation-graphql-java-support-api@2.3.1?classifier=sources
+- pkg:maven/com.apollographql.federation/federation-graphql-java-support-api@2.4.0?classifier=sources
 - pkg:maven/com.apollographql.federation/federation-graphql-java-support-api@3.0.0?classifier=sources
 - pkg:maven/com.apollographql.federation/federation-graphql-java-support-api@3.0.1?classifier=sources

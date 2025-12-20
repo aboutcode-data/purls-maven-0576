@@ -18,3 +18,5 @@
 - pkg:maven/org.hjug.refactorfirst.effortranker/effort-ranker@0.5.0?classifier=sources
 - pkg:maven/org.hjug.refactorfirst.effortranker/effort-ranker@0.6.0
 - pkg:maven/org.hjug.refactorfirst.effortranker/effort-ranker@0.6.0?classifier=sources
+- pkg:maven/org.hjug.refactorfirst.effortranker/effort-ranker@0.6.1
+- pkg:maven/org.hjug.refactorfirst.effortranker/effort-ranker@0.6.1?classifier=sources

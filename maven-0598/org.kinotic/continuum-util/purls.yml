@@ -12,3 +12,5 @@
 - pkg:maven/org.kinotic/continuum-util@1.9.3?classifier=sources
 - pkg:maven/org.kinotic/continuum-util@2.0.0?classifier=sources
 - pkg:maven/org.kinotic/continuum-util@2.1.0?classifier=sources
+- pkg:maven/org.kinotic/continuum-util@2.2.0?classifier=sources
+- pkg:maven/org.kinotic/continuum-util@2.3.0?classifier=sources

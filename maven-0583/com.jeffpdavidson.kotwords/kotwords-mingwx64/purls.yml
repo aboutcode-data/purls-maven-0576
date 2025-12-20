@@ -1,1 +1,2 @@
 - pkg:maven/com.jeffpdavidson.kotwords/kotwords-mingwx64@1.4.0?classifier=sources
+- pkg:maven/com.jeffpdavidson.kotwords/kotwords-mingwx64@1.4.1?classifier=sources

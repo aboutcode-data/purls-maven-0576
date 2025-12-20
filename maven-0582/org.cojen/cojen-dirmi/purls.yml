@@ -12,3 +12,5 @@
 - pkg:maven/org.cojen/cojen-dirmi@2.3.2?classifier=sources
 - pkg:maven/org.cojen/cojen-dirmi@2.3.3
 - pkg:maven/org.cojen/cojen-dirmi@2.3.3?classifier=sources
+- pkg:maven/org.cojen/cojen-dirmi@2.4.0
+- pkg:maven/org.cojen/cojen-dirmi@2.4.0?classifier=sources

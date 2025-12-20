@@ -192,3 +192,7 @@
 - pkg:maven/org.restheart/restheart-graphql@8.0.8?classifier=sources
 - pkg:maven/org.restheart/restheart-graphql@8.0.9
 - pkg:maven/org.restheart/restheart-graphql@8.0.9?classifier=sources
+- pkg:maven/org.restheart/restheart-graphql@8.1.0
+- pkg:maven/org.restheart/restheart-graphql@8.1.0?classifier=sources
+- pkg:maven/org.restheart/restheart-graphql@8.1.1
+- pkg:maven/org.restheart/restheart-graphql@8.1.1?classifier=sources

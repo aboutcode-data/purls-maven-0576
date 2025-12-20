@@ -1,0 +1,4 @@
+- pkg:maven/org.dromara/easy-trans-jpa-extend@2.3.0
+- pkg:maven/org.dromara/easy-trans-jpa-extend@2.3.0?classifier=sources
+- pkg:maven/org.dromara/easy-trans-jpa-extend@2.3.1
+- pkg:maven/org.dromara/easy-trans-jpa-extend@2.3.1?classifier=sources

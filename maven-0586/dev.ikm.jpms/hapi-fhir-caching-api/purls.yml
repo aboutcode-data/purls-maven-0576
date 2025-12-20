@@ -1,2 +1,8 @@
 - pkg:maven/dev.ikm.jpms/hapi-fhir-caching-api@7.0.2-r1
 - pkg:maven/dev.ikm.jpms/hapi-fhir-caching-api@7.0.2-r1?classifier=sources
+- pkg:maven/dev.ikm.jpms/hapi-fhir-caching-api@7.0.2-r2
+- pkg:maven/dev.ikm.jpms/hapi-fhir-caching-api@7.0.2-r2?classifier=sources
+- pkg:maven/dev.ikm.jpms/hapi-fhir-caching-api@7.0.2-r3
+- pkg:maven/dev.ikm.jpms/hapi-fhir-caching-api@7.0.2-r3?classifier=sources
+- pkg:maven/dev.ikm.jpms/hapi-fhir-caching-api@7.0.2-r4
+- pkg:maven/dev.ikm.jpms/hapi-fhir-caching-api@7.0.2-r4?classifier=sources

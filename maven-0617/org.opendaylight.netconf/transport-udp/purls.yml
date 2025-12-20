@@ -1,0 +1,1 @@
+- pkg:maven/org.opendaylight.netconf/transport-udp@8.0.3?classifier=sources

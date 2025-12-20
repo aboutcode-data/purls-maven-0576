@@ -26,3 +26,4 @@
 - pkg:maven/io.github.springwolf/springwolf-core@1.5.0?classifier=sources
 - pkg:maven/io.github.springwolf/springwolf-core@1.6.0?classifier=sources
 - pkg:maven/io.github.springwolf/springwolf-core@1.7.0?classifier=sources
+- pkg:maven/io.github.springwolf/springwolf-core@1.8.0?classifier=sources

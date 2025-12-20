@@ -97,6 +97,7 @@
 - pkg:maven/org.infinispan/infinispan-third-party-integrationtests@14.0.7.Final
 - pkg:maven/org.infinispan/infinispan-third-party-integrationtests@14.0.8.Final
 - pkg:maven/org.infinispan/infinispan-third-party-integrationtests@14.0.9.Final
+- pkg:maven/org.infinispan/infinispan-third-party-integrationtests@15.0.10.Final
 - pkg:maven/org.infinispan/infinispan-third-party-integrationtests@15.0.4.Final
 - pkg:maven/org.infinispan/infinispan-third-party-integrationtests@15.0.5.Final
 - pkg:maven/org.infinispan/infinispan-third-party-integrationtests@15.0.6.Final
@@ -106,3 +107,4 @@
 - pkg:maven/org.infinispan/infinispan-third-party-integrationtests@15.1.0.Dev01
 - pkg:maven/org.infinispan/infinispan-third-party-integrationtests@15.1.0.Dev02
 - pkg:maven/org.infinispan/infinispan-third-party-integrationtests@15.1.0.Dev03
+- pkg:maven/org.infinispan/infinispan-third-party-integrationtests@15.1.0.Dev04

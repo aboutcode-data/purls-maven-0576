@@ -1,3 +1,5 @@
+- pkg:maven/cloud.piranha.extension/piranha-extension-eclipse-exousia@24.10.0
+- pkg:maven/cloud.piranha.extension/piranha-extension-eclipse-exousia@24.10.0?classifier=sources
 - pkg:maven/cloud.piranha.extension/piranha-extension-eclipse-exousia@24.2.0
 - pkg:maven/cloud.piranha.extension/piranha-extension-eclipse-exousia@24.2.0?classifier=sources
 - pkg:maven/cloud.piranha.extension/piranha-extension-eclipse-exousia@24.3.0

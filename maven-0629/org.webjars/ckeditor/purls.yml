@@ -15,6 +15,7 @@
 - pkg:maven/org.webjars/ckeditor@4.19.0
 - pkg:maven/org.webjars/ckeditor@4.22.1
 - pkg:maven/org.webjars/ckeditor@4.24.0-lts
+- pkg:maven/org.webjars/ckeditor@4.25.0-lts
 - pkg:maven/org.webjars/ckeditor@4.3.4
 - pkg:maven/org.webjars/ckeditor@4.4.1
 - pkg:maven/org.webjars/ckeditor@4.4.6

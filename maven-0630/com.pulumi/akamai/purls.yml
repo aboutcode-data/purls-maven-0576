@@ -203,3 +203,9 @@
 - pkg:maven/com.pulumi/akamai@7.5.0-alpha.1726722969?classifier=sources
 - pkg:maven/com.pulumi/akamai@7.5.0-alpha.1727845727?classifier=sources
 - pkg:maven/com.pulumi/akamai@7.5.0-alpha.1727869726?classifier=sources
+- pkg:maven/com.pulumi/akamai@7.5.0-alpha.1728104993?classifier=sources
+- pkg:maven/com.pulumi/akamai@7.5.0-alpha.1728364144?classifier=sources
+- pkg:maven/com.pulumi/akamai@7.5.0-alpha.1728640494?classifier=sources
+- pkg:maven/com.pulumi/akamai@7.5.0?classifier=sources
+- pkg:maven/com.pulumi/akamai@7.6.0-alpha.1729055349?classifier=sources
+- pkg:maven/com.pulumi/akamai@7.6.0-alpha.1730178662?classifier=sources

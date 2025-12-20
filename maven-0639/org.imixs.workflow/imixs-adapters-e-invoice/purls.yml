@@ -1,0 +1,2 @@
+- pkg:maven/org.imixs.workflow/imixs-adapters-e-invoice@3.0.2
+- pkg:maven/org.imixs.workflow/imixs-adapters-e-invoice@3.0.2?classifier=sources

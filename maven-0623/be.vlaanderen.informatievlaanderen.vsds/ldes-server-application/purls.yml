@@ -14,3 +14,5 @@
 - pkg:maven/be.vlaanderen.informatievlaanderen.vsds/ldes-server-application@3.0.0?classifier=sources
 - pkg:maven/be.vlaanderen.informatievlaanderen.vsds/ldes-server-application@3.3.0
 - pkg:maven/be.vlaanderen.informatievlaanderen.vsds/ldes-server-application@3.3.0?classifier=sources
+- pkg:maven/be.vlaanderen.informatievlaanderen.vsds/ldes-server-application@3.4.0
+- pkg:maven/be.vlaanderen.informatievlaanderen.vsds/ldes-server-application@3.4.0?classifier=sources

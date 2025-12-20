@@ -73,3 +73,4 @@
 - pkg:maven/io.netty/netty-transport-blockhound-tests@4.2.0.Alpha2
 - pkg:maven/io.netty/netty-transport-blockhound-tests@4.2.0.Alpha3
 - pkg:maven/io.netty/netty-transport-blockhound-tests@4.2.0.Alpha4
+- pkg:maven/io.netty/netty-transport-blockhound-tests@4.2.0.Alpha5

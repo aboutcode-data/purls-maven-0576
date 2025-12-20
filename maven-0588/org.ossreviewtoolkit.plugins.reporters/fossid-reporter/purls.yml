@@ -46,6 +46,10 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/fossid-reporter@32.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/fossid-reporter@33.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/fossid-reporter@33.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/fossid-reporter@34.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/fossid-reporter@35.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/fossid-reporter@36.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/fossid-reporter@37.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/fossid-reporter@4.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/fossid-reporter@5.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/fossid-reporter@5.1.0?classifier=sources

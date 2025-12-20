@@ -426,6 +426,8 @@
 - pkg:maven/com.cognite.spark.datasource/cdf-spark-datasource_2.12@3.20.1144?classifier=sources
 - pkg:maven/com.cognite.spark.datasource/cdf-spark-datasource_2.12@3.20.1145
 - pkg:maven/com.cognite.spark.datasource/cdf-spark-datasource_2.12@3.20.1145?classifier=sources
+- pkg:maven/com.cognite.spark.datasource/cdf-spark-datasource_2.12@3.20.1146
+- pkg:maven/com.cognite.spark.datasource/cdf-spark-datasource_2.12@3.20.1146?classifier=sources
 - pkg:maven/com.cognite.spark.datasource/cdf-spark-datasource_2.12@3.3.1050
 - pkg:maven/com.cognite.spark.datasource/cdf-spark-datasource_2.12@3.3.1050?classifier=sources
 - pkg:maven/com.cognite.spark.datasource/cdf-spark-datasource_2.12@3.4.1051

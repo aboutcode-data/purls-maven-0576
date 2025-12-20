@@ -12,3 +12,4 @@
 - pkg:maven/team.mke/mke-utils-jvm@2.6.0?classifier=sources
 - pkg:maven/team.mke/mke-utils-jvm@2.6.2?classifier=sources
 - pkg:maven/team.mke/mke-utils-jvm@2.7.1?classifier=sources
+- pkg:maven/team.mke/mke-utils-jvm@2.9.0?classifier=sources

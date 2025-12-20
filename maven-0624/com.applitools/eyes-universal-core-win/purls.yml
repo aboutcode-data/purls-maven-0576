@@ -87,3 +87,5 @@
 - pkg:maven/com.applitools/eyes-universal-core-win@5.64.7?classifier=sources
 - pkg:maven/com.applitools/eyes-universal-core-win@5.64.8
 - pkg:maven/com.applitools/eyes-universal-core-win@5.64.8?classifier=sources
+- pkg:maven/com.applitools/eyes-universal-core-win@5.65.0
+- pkg:maven/com.applitools/eyes-universal-core-win@5.65.0?classifier=sources

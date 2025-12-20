@@ -48,3 +48,4 @@
 - pkg:maven/org.noear/marsh-lib@1.7.3
 - pkg:maven/org.noear/marsh-lib@1.8.0
 - pkg:maven/org.noear/marsh-lib@1.9.0
+- pkg:maven/org.noear/marsh-lib@1.9.1

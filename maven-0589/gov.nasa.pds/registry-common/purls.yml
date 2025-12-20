@@ -22,3 +22,5 @@
 - pkg:maven/gov.nasa.pds/registry-common@1.6.0?classifier=sources
 - pkg:maven/gov.nasa.pds/registry-common@2.0.0
 - pkg:maven/gov.nasa.pds/registry-common@2.0.0?classifier=sources
+- pkg:maven/gov.nasa.pds/registry-common@2.0.1
+- pkg:maven/gov.nasa.pds/registry-common@2.0.1?classifier=sources

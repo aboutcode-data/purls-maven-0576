@@ -12,3 +12,5 @@
 - pkg:maven/io.github.accipiter2000/freeflow@3.1.2-RELEASE?classifier=sources
 - pkg:maven/io.github.accipiter2000/freeflow@4.0.0-RELEASE
 - pkg:maven/io.github.accipiter2000/freeflow@4.0.0-RELEASE?classifier=sources
+- pkg:maven/io.github.accipiter2000/freeflow@4.1.0-RELEASE
+- pkg:maven/io.github.accipiter2000/freeflow@4.1.0-RELEASE?classifier=sources

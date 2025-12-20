@@ -75,3 +75,4 @@
 - pkg:maven/io.spinnaker.orca/keiko-redis@8.53.0?classifier=sources
 - pkg:maven/io.spinnaker.orca/keiko-redis@8.54.0?classifier=sources
 - pkg:maven/io.spinnaker.orca/keiko-redis@8.55.0?classifier=sources
+- pkg:maven/io.spinnaker.orca/keiko-redis@8.56.0?classifier=sources

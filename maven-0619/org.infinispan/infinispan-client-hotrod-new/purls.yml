@@ -1,0 +1,2 @@
+- pkg:maven/org.infinispan/infinispan-client-hotrod-new@15.1.0.Dev04
+- pkg:maven/org.infinispan/infinispan-client-hotrod-new@15.1.0.Dev04?classifier=sources

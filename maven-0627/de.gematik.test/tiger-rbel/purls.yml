@@ -58,3 +58,7 @@
 - pkg:maven/de.gematik.test/tiger-rbel@3.2.7?classifier=sources
 - pkg:maven/de.gematik.test/tiger-rbel@3.3.0
 - pkg:maven/de.gematik.test/tiger-rbel@3.3.0?classifier=sources
+- pkg:maven/de.gematik.test/tiger-rbel@3.4.2
+- pkg:maven/de.gematik.test/tiger-rbel@3.4.2?classifier=sources
+- pkg:maven/de.gematik.test/tiger-rbel@3.4.3
+- pkg:maven/de.gematik.test/tiger-rbel@3.4.3?classifier=sources

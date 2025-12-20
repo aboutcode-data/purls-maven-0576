@@ -8,6 +8,7 @@
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-analysis-engine@10.4.2.78884?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-analysis-engine@10.5.0.78949?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-analysis-engine@10.6.0.79033?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-analysis-engine@10.8.0.79206?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-analysis-engine@8.0.0.41925?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-analysis-engine@8.0.1.42120?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-analysis-engine@8.0.2.42487?classifier=sources

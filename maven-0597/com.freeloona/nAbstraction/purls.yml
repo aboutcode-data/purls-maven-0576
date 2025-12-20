@@ -1,0 +1,2 @@
+- pkg:maven/com.freeloona/nAbstraction@1.0?classifier=sources
+- pkg:maven/com.freeloona/nAbstraction@1.1?classifier=sources

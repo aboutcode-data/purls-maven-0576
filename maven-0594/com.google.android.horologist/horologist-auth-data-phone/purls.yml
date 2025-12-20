@@ -82,3 +82,4 @@
 - pkg:maven/com.google.android.horologist/horologist-auth-data-phone@0.7.0-alpha?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-auth-data-phone@0.7.1-alpha?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-auth-data-phone@0.7.2-alpha?classifier=sources
+- pkg:maven/com.google.android.horologist/horologist-auth-data-phone@0.7.3-alpha?classifier=sources

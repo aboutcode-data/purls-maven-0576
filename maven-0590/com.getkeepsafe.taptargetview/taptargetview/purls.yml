@@ -2,3 +2,4 @@
 - pkg:maven/com.getkeepsafe.taptargetview/taptargetview@1.13.2?classifier=sources
 - pkg:maven/com.getkeepsafe.taptargetview/taptargetview@1.13.3?classifier=sources
 - pkg:maven/com.getkeepsafe.taptargetview/taptargetview@1.14.0?classifier=sources
+- pkg:maven/com.getkeepsafe.taptargetview/taptargetview@1.15.0?classifier=sources

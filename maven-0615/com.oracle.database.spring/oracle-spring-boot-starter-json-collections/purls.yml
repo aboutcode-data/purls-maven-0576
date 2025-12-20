@@ -1,2 +1,4 @@
 - pkg:maven/com.oracle.database.spring/oracle-spring-boot-starter-json-collections@24.2.0
 - pkg:maven/com.oracle.database.spring/oracle-spring-boot-starter-json-collections@24.2.0?classifier=sources
+- pkg:maven/com.oracle.database.spring/oracle-spring-boot-starter-json-collections@24.3.0
+- pkg:maven/com.oracle.database.spring/oracle-spring-boot-starter-json-collections@24.3.0?classifier=sources

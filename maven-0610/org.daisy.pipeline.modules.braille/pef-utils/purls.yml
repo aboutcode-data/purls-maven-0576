@@ -52,3 +52,5 @@
 - pkg:maven/org.daisy.pipeline.modules.braille/pef-utils@5.2.0?classifier=sources
 - pkg:maven/org.daisy.pipeline.modules.braille/pef-utils@6.0.0
 - pkg:maven/org.daisy.pipeline.modules.braille/pef-utils@6.0.0?classifier=sources
+- pkg:maven/org.daisy.pipeline.modules.braille/pef-utils@6.0.1
+- pkg:maven/org.daisy.pipeline.modules.braille/pef-utils@6.0.1?classifier=sources

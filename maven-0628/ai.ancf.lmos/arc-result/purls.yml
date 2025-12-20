@@ -23,3 +23,5 @@
 - pkg:maven/ai.ancf.lmos/arc-result@0.82.0?classifier=sources
 - pkg:maven/ai.ancf.lmos/arc-result@0.83.0?classifier=sources
 - pkg:maven/ai.ancf.lmos/arc-result@0.84.0?classifier=sources
+- pkg:maven/ai.ancf.lmos/arc-result@0.85.0?classifier=sources
+- pkg:maven/ai.ancf.lmos/arc-result@0.86.0?classifier=sources

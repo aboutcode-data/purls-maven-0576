@@ -32,3 +32,5 @@
 - pkg:maven/org.htmlunit/htmlunit-core-js@4.3.0?classifier=sources
 - pkg:maven/org.htmlunit/htmlunit-core-js@4.4.0
 - pkg:maven/org.htmlunit/htmlunit-core-js@4.4.0?classifier=sources
+- pkg:maven/org.htmlunit/htmlunit-core-js@4.5.0
+- pkg:maven/org.htmlunit/htmlunit-core-js@4.5.0?classifier=sources

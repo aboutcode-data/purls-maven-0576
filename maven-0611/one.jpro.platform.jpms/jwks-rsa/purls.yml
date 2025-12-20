@@ -1,0 +1,2 @@
+- pkg:maven/one.jpro.platform.jpms/jwks-rsa@0.22.1-ikmdev?classifier=sources
+- pkg:maven/one.jpro.platform.jpms/jwks-rsa@0.22.1-jpms?classifier=sources

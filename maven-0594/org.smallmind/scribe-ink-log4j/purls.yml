@@ -258,3 +258,5 @@
 - pkg:maven/org.smallmind/scribe-ink-log4j@5.8.0?classifier=sources
 - pkg:maven/org.smallmind/scribe-ink-log4j@5.9.0
 - pkg:maven/org.smallmind/scribe-ink-log4j@5.9.0?classifier=sources
+- pkg:maven/org.smallmind/scribe-ink-log4j@6.0.0
+- pkg:maven/org.smallmind/scribe-ink-log4j@6.0.0?classifier=sources

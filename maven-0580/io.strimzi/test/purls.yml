@@ -30,3 +30,5 @@
 - pkg:maven/io.strimzi/test@0.42.0?classifier=sources
 - pkg:maven/io.strimzi/test@0.43.0
 - pkg:maven/io.strimzi/test@0.43.0?classifier=sources
+- pkg:maven/io.strimzi/test@0.44.0
+- pkg:maven/io.strimzi/test@0.44.0?classifier=sources

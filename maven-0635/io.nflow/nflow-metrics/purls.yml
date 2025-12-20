@@ -1,3 +1,5 @@
+- pkg:maven/io.nflow/nflow-metrics@10.0.0
+- pkg:maven/io.nflow/nflow-metrics@10.0.0?classifier=sources
 - pkg:maven/io.nflow/nflow-metrics@4.0.0
 - pkg:maven/io.nflow/nflow-metrics@4.0.0?classifier=sources
 - pkg:maven/io.nflow/nflow-metrics@4.1.0

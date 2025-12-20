@@ -4,3 +4,9 @@
 - pkg:maven/com.sksamuel.scapegoat/scalac-scapegoat-plugin_2.12.20@3.0.2?classifier=sources
 - pkg:maven/com.sksamuel.scapegoat/scalac-scapegoat-plugin_2.12.20@3.0.3
 - pkg:maven/com.sksamuel.scapegoat/scalac-scapegoat-plugin_2.12.20@3.0.3?classifier=sources
+- pkg:maven/com.sksamuel.scapegoat/scalac-scapegoat-plugin_2.12.20@3.1.0
+- pkg:maven/com.sksamuel.scapegoat/scalac-scapegoat-plugin_2.12.20@3.1.0?classifier=sources
+- pkg:maven/com.sksamuel.scapegoat/scalac-scapegoat-plugin_2.12.20@3.1.1
+- pkg:maven/com.sksamuel.scapegoat/scalac-scapegoat-plugin_2.12.20@3.1.1?classifier=sources
+- pkg:maven/com.sksamuel.scapegoat/scalac-scapegoat-plugin_2.12.20@3.1.2
+- pkg:maven/com.sksamuel.scapegoat/scalac-scapegoat-plugin_2.12.20@3.1.2?classifier=sources

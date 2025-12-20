@@ -6,3 +6,5 @@
 - pkg:maven/com.zp4rker/bukkot@1.4.20.1-release?classifier=sources
 - pkg:maven/com.zp4rker/bukkot@1.4.20.2-release
 - pkg:maven/com.zp4rker/bukkot@1.4.20.2-release?classifier=sources
+- pkg:maven/com.zp4rker/bukkot@2.0.0-k2.0.21?classifier=sources
+- pkg:maven/com.zp4rker/bukkot@2.1.0-k2.0.21?classifier=sources

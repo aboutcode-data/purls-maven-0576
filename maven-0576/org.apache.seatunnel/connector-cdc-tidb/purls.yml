@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.seatunnel/connector-cdc-tidb@2.3.8
+- pkg:maven/org.apache.seatunnel/connector-cdc-tidb@2.3.8?classifier=sources

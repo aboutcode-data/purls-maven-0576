@@ -29,5 +29,6 @@
 - pkg:maven/io.growthbook.sdk/GrowthBook-android@1.1.59?classifier=sources
 - pkg:maven/io.growthbook.sdk/GrowthBook-android@1.1.60?classifier=sources
 - pkg:maven/io.growthbook.sdk/GrowthBook-android@1.1.61?classifier=sources
+- pkg:maven/io.growthbook.sdk/GrowthBook-android@1.1.62?classifier=sources
 - pkg:maven/io.growthbook.sdk/GrowthBook-android@1.1.6?classifier=sources
 - pkg:maven/io.growthbook.sdk/GrowthBook-android@1.1.7?classifier=sources

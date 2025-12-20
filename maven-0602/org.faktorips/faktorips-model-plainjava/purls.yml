@@ -139,3 +139,7 @@
 - pkg:maven/org.faktorips/faktorips-model-plainjava@24.7.2.release?classifier=sources
 - pkg:maven/org.faktorips/faktorips-model-plainjava@24.7.3.release
 - pkg:maven/org.faktorips/faktorips-model-plainjava@24.7.3.release?classifier=sources
+- pkg:maven/org.faktorips/faktorips-model-plainjava@24.7.4.release
+- pkg:maven/org.faktorips/faktorips-model-plainjava@24.7.4.release?classifier=sources
+- pkg:maven/org.faktorips/faktorips-model-plainjava@24.7.5.release
+- pkg:maven/org.faktorips/faktorips-model-plainjava@24.7.5.release?classifier=sources

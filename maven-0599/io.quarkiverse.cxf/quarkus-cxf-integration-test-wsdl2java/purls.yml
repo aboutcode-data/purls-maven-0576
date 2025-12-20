@@ -99,6 +99,10 @@
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-integration-test-wsdl2java@3.15.0?classifier=sources
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-integration-test-wsdl2java@3.15.1
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-integration-test-wsdl2java@3.15.1?classifier=sources
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-integration-test-wsdl2java@3.15.2
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-integration-test-wsdl2java@3.15.2?classifier=sources
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-integration-test-wsdl2java@3.16.0?classifier=sources
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-integration-test-wsdl2java@3.16.1?classifier=sources
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-integration-test-wsdl2java@3.8.0
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-integration-test-wsdl2java@3.8.0?classifier=sources
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-integration-test-wsdl2java@3.8.1
@@ -113,5 +117,7 @@
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-integration-test-wsdl2java@3.8.5?classifier=sources
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-integration-test-wsdl2java@3.8.6
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-integration-test-wsdl2java@3.8.6?classifier=sources
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-integration-test-wsdl2java@3.8.7
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-integration-test-wsdl2java@3.8.7?classifier=sources
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-integration-test-wsdl2java@3.9.0
 - pkg:maven/io.quarkiverse.cxf/quarkus-cxf-integration-test-wsdl2java@3.9.0?classifier=sources

@@ -4,6 +4,8 @@
 - pkg:maven/biz.netcentric.filevault.validator.maps/aem-classification-map-repo-annotations@2021.6.5586?classifier=sources
 - pkg:maven/biz.netcentric.filevault.validator.maps/aem-classification-map-repo-annotations@2022.7.8085
 - pkg:maven/biz.netcentric.filevault.validator.maps/aem-classification-map-repo-annotations@2022.7.8085?classifier=sources
+- pkg:maven/biz.netcentric.filevault.validator.maps/aem-classification-map-repo-annotations@2024.10.18099
+- pkg:maven/biz.netcentric.filevault.validator.maps/aem-classification-map-repo-annotations@2024.10.18099?classifier=sources
 - pkg:maven/biz.netcentric.filevault.validator.maps/aem-classification-map-repo-annotations@6.5.13.0
 - pkg:maven/biz.netcentric.filevault.validator.maps/aem-classification-map-repo-annotations@6.5.13.0?classifier=sources
 - pkg:maven/biz.netcentric.filevault.validator.maps/aem-classification-map-repo-annotations@6.5.3.0

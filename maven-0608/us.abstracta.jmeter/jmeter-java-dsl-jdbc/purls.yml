@@ -134,6 +134,8 @@
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-jdbc@1.28.1?classifier=sources
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-jdbc@1.28?classifier=sources
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-jdbc@1.29
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-jdbc@1.29.1
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-jdbc@1.29.1?classifier=sources
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-jdbc@1.29?classifier=sources
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-jdbc@1.2?classifier=sources
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-jdbc@1.3

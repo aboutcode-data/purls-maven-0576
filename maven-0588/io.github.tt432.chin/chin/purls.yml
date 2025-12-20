@@ -1,3 +1,4 @@
 - pkg:maven/io.github.tt432.chin/chin@1.0.0?classifier=sources
 - pkg:maven/io.github.tt432.chin/chin@1.0.1?classifier=sources
 - pkg:maven/io.github.tt432.chin/chin@21.0.1?classifier=sources
+- pkg:maven/io.github.tt432.chin/chin@21.0.2?classifier=sources

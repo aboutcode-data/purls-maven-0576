@@ -2,6 +2,8 @@
 - pkg:maven/io.github.domstolene.esas/helseOgRisiko@02102024.7835093
 - pkg:maven/io.github.domstolene.esas/helseOgRisiko@02102024.8089dce
 - pkg:maven/io.github.domstolene.esas/helseOgRisiko@02102024.c52d48f
+- pkg:maven/io.github.domstolene.esas/helseOgRisiko@03102024.42cf288
+- pkg:maven/io.github.domstolene.esas/helseOgRisiko@04102024.7f9a121
 - pkg:maven/io.github.domstolene.esas/helseOgRisiko@06092024.59b95e4
 - pkg:maven/io.github.domstolene.esas/helseOgRisiko@09092024.7aaa4a1
 - pkg:maven/io.github.domstolene.esas/helseOgRisiko@11092024.006eaf7
@@ -10,11 +12,13 @@
 - pkg:maven/io.github.domstolene.esas/helseOgRisiko@11092024.edb564b
 - pkg:maven/io.github.domstolene.esas/helseOgRisiko@13092024.20fb337
 - pkg:maven/io.github.domstolene.esas/helseOgRisiko@13092024.67e56fa
+- pkg:maven/io.github.domstolene.esas/helseOgRisiko@15102024.ecced1e
 - pkg:maven/io.github.domstolene.esas/helseOgRisiko@17092024.cdcf544
 - pkg:maven/io.github.domstolene.esas/helseOgRisiko@18092024.394bb17
 - pkg:maven/io.github.domstolene.esas/helseOgRisiko@18092024.cb232df
 - pkg:maven/io.github.domstolene.esas/helseOgRisiko@18092024.ed79b9c
 - pkg:maven/io.github.domstolene.esas/helseOgRisiko@19092024.0c0807a
+- pkg:maven/io.github.domstolene.esas/helseOgRisiko@21102024.b2718ac
 - pkg:maven/io.github.domstolene.esas/helseOgRisiko@23092024.4db112a
 - pkg:maven/io.github.domstolene.esas/helseOgRisiko@23092024.ff2e9da
 - pkg:maven/io.github.domstolene.esas/helseOgRisiko@24092024.c720353
@@ -24,6 +28,9 @@
 - pkg:maven/io.github.domstolene.esas/helseOgRisiko@25092024.f2846f0
 - pkg:maven/io.github.domstolene.esas/helseOgRisiko@26082024.b8b0a27
 - pkg:maven/io.github.domstolene.esas/helseOgRisiko@26082024.d541239
+- pkg:maven/io.github.domstolene.esas/helseOgRisiko@28102024.cc6a5d3
 - pkg:maven/io.github.domstolene.esas/helseOgRisiko@29082024.59a5902
 - pkg:maven/io.github.domstolene.esas/helseOgRisiko@29082024.dfc77f5
 - pkg:maven/io.github.domstolene.esas/helseOgRisiko@30082024.8401a1b
+- pkg:maven/io.github.domstolene.esas/helseOgRisiko@30102024.00e8735
+- pkg:maven/io.github.domstolene.esas/helseOgRisiko@30102024.9f5b15f
