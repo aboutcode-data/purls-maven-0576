@@ -27,3 +27,4 @@
 - pkg:maven/com.transferwise.tasks/tw-tasks-core-test-spring-boot-starter@1.43.0?classifier=sources
 - pkg:maven/com.transferwise.tasks/tw-tasks-core-test-spring-boot-starter@1.44.0?classifier=sources
 - pkg:maven/com.transferwise.tasks/tw-tasks-core-test-spring-boot-starter@1.45.0?classifier=sources
+- pkg:maven/com.transferwise.tasks/tw-tasks-core-test-spring-boot-starter@1.45.1?classifier=sources

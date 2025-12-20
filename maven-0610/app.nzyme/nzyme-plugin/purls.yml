@@ -3,6 +3,9 @@
 - pkg:maven/app.nzyme/nzyme-plugin@2.0.2
 - pkg:maven/app.nzyme/nzyme-plugin@2.0.20?classifier=sources
 - pkg:maven/app.nzyme/nzyme-plugin@2.0.21?classifier=sources
+- pkg:maven/app.nzyme/nzyme-plugin@2.0.24?classifier=sources
+- pkg:maven/app.nzyme/nzyme-plugin@2.0.25?classifier=sources
+- pkg:maven/app.nzyme/nzyme-plugin@2.0.26?classifier=sources
 - pkg:maven/app.nzyme/nzyme-plugin@2.0.2?classifier=sources
 - pkg:maven/app.nzyme/nzyme-plugin@2.0.3
 - pkg:maven/app.nzyme/nzyme-plugin@2.0.3?classifier=sources

@@ -239,3 +239,10 @@
 - pkg:maven/com.algolia/algoliasearch@4.5.0?classifier=sources
 - pkg:maven/com.algolia/algoliasearch@4.5.1?classifier=sources
 - pkg:maven/com.algolia/algoliasearch@4.5.2?classifier=sources
+- pkg:maven/com.algolia/algoliasearch@4.5.4?classifier=sources
+- pkg:maven/com.algolia/algoliasearch@4.6.0?classifier=sources
+- pkg:maven/com.algolia/algoliasearch@4.7.0?classifier=sources
+- pkg:maven/com.algolia/algoliasearch@4.7.1?classifier=sources
+- pkg:maven/com.algolia/algoliasearch@4.8.0?classifier=sources
+- pkg:maven/com.algolia/algoliasearch@4.8.1?classifier=sources
+- pkg:maven/com.algolia/algoliasearch@4.8.2?classifier=sources

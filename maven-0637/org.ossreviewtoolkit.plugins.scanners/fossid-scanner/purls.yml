@@ -50,7 +50,13 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/fossid-scanner@35.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/fossid-scanner@36.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/fossid-scanner@37.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.scanners/fossid-scanner@38.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.scanners/fossid-scanner@39.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/fossid-scanner@4.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.scanners/fossid-scanner@40.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.scanners/fossid-scanner@40.0.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.scanners/fossid-scanner@41.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.scanners/fossid-scanner@42.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/fossid-scanner@5.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/fossid-scanner@5.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/fossid-scanner@6.0.0?classifier=sources

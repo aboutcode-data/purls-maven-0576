@@ -12,6 +12,9 @@
 - pkg:maven/ca.ibodrov.mica/mica-ui@0.0.20
 - pkg:maven/ca.ibodrov.mica/mica-ui@0.0.21
 - pkg:maven/ca.ibodrov.mica/mica-ui@0.0.22
+- pkg:maven/ca.ibodrov.mica/mica-ui@0.0.23
+- pkg:maven/ca.ibodrov.mica/mica-ui@0.0.24
+- pkg:maven/ca.ibodrov.mica/mica-ui@0.0.25
 - pkg:maven/ca.ibodrov.mica/mica-ui@0.0.3
 - pkg:maven/ca.ibodrov.mica/mica-ui@0.0.4
 - pkg:maven/ca.ibodrov.mica/mica-ui@0.0.5

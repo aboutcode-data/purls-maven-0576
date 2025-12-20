@@ -1,0 +1,4 @@
+- pkg:maven/no.nav.security/token-validation-ktor-v3@5.0.12
+- pkg:maven/no.nav.security/token-validation-ktor-v3@5.0.12?classifier=sources
+- pkg:maven/no.nav.security/token-validation-ktor-v3@5.0.13
+- pkg:maven/no.nav.security/token-validation-ktor-v3@5.0.13?classifier=sources

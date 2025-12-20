@@ -19,3 +19,4 @@
 - pkg:maven/com.factset.sdk/formula@4.0.0?classifier=sources
 - pkg:maven/com.factset.sdk/formula@4.1.0?classifier=sources
 - pkg:maven/com.factset.sdk/formula@5.0.0?classifier=sources
+- pkg:maven/com.factset.sdk/formula@5.0.1?classifier=sources

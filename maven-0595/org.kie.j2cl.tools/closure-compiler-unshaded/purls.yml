@@ -1,0 +1,2 @@
+- pkg:maven/org.kie.j2cl.tools/closure-compiler-unshaded@v20241106-1
+- pkg:maven/org.kie.j2cl.tools/closure-compiler-unshaded@v20241106-1?classifier=sources

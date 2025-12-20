@@ -142,3 +142,9 @@
 - pkg:maven/com.pulumi/kong@4.6.0-alpha.1729057450?classifier=sources
 - pkg:maven/com.pulumi/kong@4.6.0-alpha.1729897907?classifier=sources
 - pkg:maven/com.pulumi/kong@4.6.0-alpha.1730180279?classifier=sources
+- pkg:maven/com.pulumi/kong@4.6.0-alpha.1730525925?classifier=sources
+- pkg:maven/com.pulumi/kong@4.6.0-alpha.1730871751?classifier=sources
+- pkg:maven/com.pulumi/kong@4.6.0-alpha.1731131783?classifier=sources
+- pkg:maven/com.pulumi/kong@4.6.0-alpha.1731391605?classifier=sources
+- pkg:maven/com.pulumi/kong@4.6.0-alpha.1731650453?classifier=sources
+- pkg:maven/com.pulumi/kong@4.6.0-alpha.1731736524?classifier=sources

@@ -40,3 +40,6 @@
 - pkg:maven/cn.xnatural/tiny@1.4.3?classifier=sources
 - pkg:maven/cn.xnatural/tiny@1.4.4
 - pkg:maven/cn.xnatural/tiny@1.4.4?classifier=sources
+- pkg:maven/cn.xnatural/tiny@1.5.0-test1?classifier=sources
+- pkg:maven/cn.xnatural/tiny@1.5.0-test?classifier=sources
+- pkg:maven/cn.xnatural/tiny@1.5.0?classifier=sources

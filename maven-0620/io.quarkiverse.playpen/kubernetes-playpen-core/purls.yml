@@ -13,4 +13,6 @@
 - pkg:maven/io.quarkiverse.playpen/kubernetes-playpen-core@0.9.4?classifier=sources
 - pkg:maven/io.quarkiverse.playpen/kubernetes-playpen-core@0.9.5?classifier=sources
 - pkg:maven/io.quarkiverse.playpen/kubernetes-playpen-core@0.9.6?classifier=sources
+- pkg:maven/io.quarkiverse.playpen/kubernetes-playpen-core@0.9.7?classifier=sources
 - pkg:maven/io.quarkiverse.playpen/kubernetes-playpen-core@0.9?classifier=sources
+- pkg:maven/io.quarkiverse.playpen/kubernetes-playpen-core@1.0.0?classifier=sources

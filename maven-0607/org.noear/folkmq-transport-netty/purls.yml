@@ -53,3 +53,4 @@
 - pkg:maven/org.noear/folkmq-transport-netty@1.7.6
 - pkg:maven/org.noear/folkmq-transport-netty@1.7.7
 - pkg:maven/org.noear/folkmq-transport-netty@1.7.8
+- pkg:maven/org.noear/folkmq-transport-netty@1.7.9

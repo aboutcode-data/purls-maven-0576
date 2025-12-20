@@ -1,2 +1,5 @@
 - pkg:maven/ai.ancf.lmos/lmos-operator@0.0.4?classifier=sources
 - pkg:maven/ai.ancf.lmos/lmos-operator@0.1.0?classifier=sources
+- pkg:maven/ai.ancf.lmos/lmos-operator@0.2.0?classifier=sources
+- pkg:maven/ai.ancf.lmos/lmos-operator@0.3.0?classifier=sources
+- pkg:maven/ai.ancf.lmos/lmos-operator@0.4.0?classifier=sources

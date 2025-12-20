@@ -1,0 +1,2 @@
+- pkg:maven/io.gitee.kunghsu/redo@1.0.4?classifier=sources
+- pkg:maven/io.gitee.kunghsu/redo@2.0.0?classifier=sources

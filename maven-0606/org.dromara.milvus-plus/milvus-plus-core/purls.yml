@@ -1,0 +1,4 @@
+- pkg:maven/org.dromara.milvus-plus/milvus-plus-core@2.1.7?classifier=sources
+- pkg:maven/org.dromara.milvus-plus/milvus-plus-core@2.1.8?classifier=sources
+- pkg:maven/org.dromara.milvus-plus/milvus-plus-core@2.2.0?classifier=sources
+- pkg:maven/org.dromara.milvus-plus/milvus-plus-core@2.2.1?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/at.asitplus/warden-roboto@1.6.0?classifier=sources
+- pkg:maven/at.asitplus/warden-roboto@1.7.0?classifier=sources

@@ -56,6 +56,7 @@
 - pkg:maven/com.vaadin/vaadin-dev@24.3.18
 - pkg:maven/com.vaadin/vaadin-dev@24.3.19
 - pkg:maven/com.vaadin/vaadin-dev@24.3.2
+- pkg:maven/com.vaadin/vaadin-dev@24.3.20
 - pkg:maven/com.vaadin/vaadin-dev@24.3.3
 - pkg:maven/com.vaadin/vaadin-dev@24.3.4
 - pkg:maven/com.vaadin/vaadin-dev@24.3.5
@@ -70,6 +71,9 @@
 - pkg:maven/com.vaadin/vaadin-dev@24.4.12
 - pkg:maven/com.vaadin/vaadin-dev@24.4.13
 - pkg:maven/com.vaadin/vaadin-dev@24.4.14
+- pkg:maven/com.vaadin/vaadin-dev@24.4.15
+- pkg:maven/com.vaadin/vaadin-dev@24.4.16
+- pkg:maven/com.vaadin/vaadin-dev@24.4.17
 - pkg:maven/com.vaadin/vaadin-dev@24.4.2
 - pkg:maven/com.vaadin/vaadin-dev@24.4.3
 - pkg:maven/com.vaadin/vaadin-dev@24.4.4
@@ -81,3 +85,6 @@
 - pkg:maven/com.vaadin/vaadin-dev@24.5.0
 - pkg:maven/com.vaadin/vaadin-dev@24.5.1
 - pkg:maven/com.vaadin/vaadin-dev@24.5.2
+- pkg:maven/com.vaadin/vaadin-dev@24.5.3
+- pkg:maven/com.vaadin/vaadin-dev@24.5.4
+- pkg:maven/com.vaadin/vaadin-dev@24.5.5

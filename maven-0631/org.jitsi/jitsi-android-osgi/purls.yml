@@ -8,3 +8,5 @@
 - pkg:maven/org.jitsi/jitsi-android-osgi@2.0-2-gc37a6c7?classifier=sources
 - pkg:maven/org.jitsi/jitsi-android-osgi@2.0-3-gd59644a
 - pkg:maven/org.jitsi/jitsi-android-osgi@2.0-3-gd59644a?classifier=sources
+- pkg:maven/org.jitsi/jitsi-android-osgi@2.0-4-g4078a18
+- pkg:maven/org.jitsi/jitsi-android-osgi@2.0-4-g4078a18?classifier=sources

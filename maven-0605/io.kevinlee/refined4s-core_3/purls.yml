@@ -36,3 +36,7 @@
 - pkg:maven/io.kevinlee/refined4s-core_3@0.8.0?classifier=sources
 - pkg:maven/io.kevinlee/refined4s-core_3@0.9.0
 - pkg:maven/io.kevinlee/refined4s-core_3@0.9.0?classifier=sources
+- pkg:maven/io.kevinlee/refined4s-core_3@1.0.0
+- pkg:maven/io.kevinlee/refined4s-core_3@1.0.0?classifier=sources
+- pkg:maven/io.kevinlee/refined4s-core_3@1.1.0
+- pkg:maven/io.kevinlee/refined4s-core_3@1.1.0?classifier=sources

@@ -22,3 +22,4 @@
 - pkg:maven/com.github.michaelruocco/websocket-client@0.1.39?classifier=sources
 - pkg:maven/com.github.michaelruocco/websocket-client@0.1.40?classifier=sources
 - pkg:maven/com.github.michaelruocco/websocket-client@0.1.41?classifier=sources
+- pkg:maven/com.github.michaelruocco/websocket-client@0.1.42?classifier=sources

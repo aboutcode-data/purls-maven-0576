@@ -9,3 +9,4 @@
 - pkg:maven/io.github.blublublab/compose-webview-multiplatform-fork@1.9.50?classifier=sources
 - pkg:maven/io.github.blublublab/compose-webview-multiplatform-fork@1.9.51?classifier=sources
 - pkg:maven/io.github.blublublab/compose-webview-multiplatform-fork@1.9.52?classifier=sources
+- pkg:maven/io.github.blublublab/compose-webview-multiplatform-fork@1.9.53?classifier=sources

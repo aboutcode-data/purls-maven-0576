@@ -83,6 +83,8 @@
 - pkg:maven/org.sonatype.buildsupport/licenses@49?classifier=sources
 - pkg:maven/org.sonatype.buildsupport/licenses@4?classifier=sources
 - pkg:maven/org.sonatype.buildsupport/licenses@5
+- pkg:maven/org.sonatype.buildsupport/licenses@50?classifier=sources
+- pkg:maven/org.sonatype.buildsupport/licenses@51?classifier=sources
 - pkg:maven/org.sonatype.buildsupport/licenses@5?classifier=sources
 - pkg:maven/org.sonatype.buildsupport/licenses@6
 - pkg:maven/org.sonatype.buildsupport/licenses@6?classifier=sources

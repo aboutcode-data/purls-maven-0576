@@ -70,3 +70,5 @@
 - pkg:maven/com.aliyun/pai_dsw20220101@1.5.3?classifier=sources
 - pkg:maven/com.aliyun/pai_dsw20220101@1.5.4
 - pkg:maven/com.aliyun/pai_dsw20220101@1.5.4?classifier=sources
+- pkg:maven/com.aliyun/pai_dsw20220101@1.5.5
+- pkg:maven/com.aliyun/pai_dsw20220101@1.5.5?classifier=sources

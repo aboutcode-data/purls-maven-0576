@@ -3,3 +3,4 @@
 - pkg:maven/fi.protonode/certy@0.3.0?classifier=sources
 - pkg:maven/fi.protonode/certy@0.3.1?classifier=sources
 - pkg:maven/fi.protonode/certy@0.4.0?classifier=sources
+- pkg:maven/fi.protonode/certy@0.4.1?classifier=sources

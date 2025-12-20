@@ -116,6 +116,8 @@
 - pkg:maven/org.apache.jackrabbit/oak-pojosr@1.68.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-pojosr@1.70.0
 - pkg:maven/org.apache.jackrabbit/oak-pojosr@1.70.0?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-pojosr@1.72.0
+- pkg:maven/org.apache.jackrabbit/oak-pojosr@1.72.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-pojosr@1.8.10
 - pkg:maven/org.apache.jackrabbit/oak-pojosr@1.8.10?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-pojosr@1.8.11

@@ -1,0 +1,1 @@
+- pkg:maven/de.kempmobil.ktor.mqtt/mqtt-client-ws-iossimulatorarm64@0.5.0?classifier=sources

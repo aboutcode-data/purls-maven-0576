@@ -1,2 +1,4 @@
 - pkg:maven/xyz.block/java-kotlin-maven-example-impl@0.0.1-alpha-3
 - pkg:maven/xyz.block/java-kotlin-maven-example-impl@0.0.1-alpha-3?classifier=sources
+- pkg:maven/xyz.block/java-kotlin-maven-example-impl@0.0.1-alpha-4
+- pkg:maven/xyz.block/java-kotlin-maven-example-impl@0.0.1-alpha-4?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/one.empty3.libs/partial-desktop@0.0.1?classifier=sources
+- pkg:maven/one.empty3.libs/partial-desktop@0.0.3?classifier=sources
+- pkg:maven/one.empty3.libs/partial-desktop@0.0.4?classifier=sources
+- pkg:maven/one.empty3.libs/partial-desktop@0.0.5?classifier=sources
+- pkg:maven/one.empty3.libs/partial-desktop@0.0.7?classifier=sources
 - pkg:maven/one.empty3.libs/partial-desktop@2024.9.2?classifier=sources

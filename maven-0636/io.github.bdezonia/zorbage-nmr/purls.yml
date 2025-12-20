@@ -6,3 +6,4 @@
 - pkg:maven/io.github.bdezonia/zorbage-nmr@0.0.3.2
 - pkg:maven/io.github.bdezonia/zorbage-nmr@0.0.3.2?classifier=sources
 - pkg:maven/io.github.bdezonia/zorbage-nmr@0.0.3?classifier=sources
+- pkg:maven/io.github.bdezonia/zorbage-nmr@0.0.5?classifier=sources

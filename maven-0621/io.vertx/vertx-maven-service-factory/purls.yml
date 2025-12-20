@@ -235,6 +235,8 @@
 - pkg:maven/io.vertx/vertx-maven-service-factory@4.5.1
 - pkg:maven/io.vertx/vertx-maven-service-factory@4.5.10
 - pkg:maven/io.vertx/vertx-maven-service-factory@4.5.10?classifier=sources
+- pkg:maven/io.vertx/vertx-maven-service-factory@4.5.11
+- pkg:maven/io.vertx/vertx-maven-service-factory@4.5.11?classifier=sources
 - pkg:maven/io.vertx/vertx-maven-service-factory@4.5.1?classifier=sources
 - pkg:maven/io.vertx/vertx-maven-service-factory@4.5.2
 - pkg:maven/io.vertx/vertx-maven-service-factory@4.5.2?classifier=sources

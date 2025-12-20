@@ -12,3 +12,4 @@
 - pkg:maven/org.webjars.npm/bourbon@5.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/bourbon@6.0.0
 - pkg:maven/org.webjars.npm/bourbon@6.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/bourbon@7.3.0

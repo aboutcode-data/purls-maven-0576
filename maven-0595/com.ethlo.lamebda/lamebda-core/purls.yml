@@ -92,3 +92,9 @@
 - pkg:maven/com.ethlo.lamebda/lamebda-core@2.0.0?classifier=sources
 - pkg:maven/com.ethlo.lamebda/lamebda-core@2.0.1
 - pkg:maven/com.ethlo.lamebda/lamebda-core@2.0.1?classifier=sources
+- pkg:maven/com.ethlo.lamebda/lamebda-core@3.0.0
+- pkg:maven/com.ethlo.lamebda/lamebda-core@3.0.0?classifier=sources
+- pkg:maven/com.ethlo.lamebda/lamebda-core@3.1.0
+- pkg:maven/com.ethlo.lamebda/lamebda-core@3.1.0?classifier=sources
+- pkg:maven/com.ethlo.lamebda/lamebda-core@3.2.0
+- pkg:maven/com.ethlo.lamebda/lamebda-core@3.2.0?classifier=sources

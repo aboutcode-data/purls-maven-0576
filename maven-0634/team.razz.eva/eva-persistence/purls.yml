@@ -31,7 +31,10 @@
 - pkg:maven/team.razz.eva/eva-persistence@0.6.16?classifier=sources
 - pkg:maven/team.razz.eva/eva-persistence@0.6.17?classifier=sources
 - pkg:maven/team.razz.eva/eva-persistence@0.6.18?classifier=sources
+- pkg:maven/team.razz.eva/eva-persistence@0.6.19?classifier=sources
 - pkg:maven/team.razz.eva/eva-persistence@0.6.1?classifier=sources
+- pkg:maven/team.razz.eva/eva-persistence@0.6.20?classifier=sources
+- pkg:maven/team.razz.eva/eva-persistence@0.6.21?classifier=sources
 - pkg:maven/team.razz.eva/eva-persistence@0.6.2?classifier=sources
 - pkg:maven/team.razz.eva/eva-persistence@0.6.3?classifier=sources
 - pkg:maven/team.razz.eva/eva-persistence@0.6.4?classifier=sources

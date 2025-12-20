@@ -50,7 +50,13 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/python-package-manager@35.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/python-package-manager@36.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/python-package-manager@37.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/python-package-manager@38.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/python-package-manager@39.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/python-package-manager@4.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/python-package-manager@40.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/python-package-manager@40.0.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/python-package-manager@41.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/python-package-manager@42.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/python-package-manager@5.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/python-package-manager@5.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/python-package-manager@6.0.0?classifier=sources

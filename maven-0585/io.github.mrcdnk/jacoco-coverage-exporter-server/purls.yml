@@ -10,3 +10,5 @@
 - pkg:maven/io.github.mrcdnk/jacoco-coverage-exporter-server@0.2.1?classifier=sources
 - pkg:maven/io.github.mrcdnk/jacoco-coverage-exporter-server@0.2.2
 - pkg:maven/io.github.mrcdnk/jacoco-coverage-exporter-server@0.2.2?classifier=sources
+- pkg:maven/io.github.mrcdnk/jacoco-coverage-exporter-server@0.3.0
+- pkg:maven/io.github.mrcdnk/jacoco-coverage-exporter-server@0.3.0?classifier=sources

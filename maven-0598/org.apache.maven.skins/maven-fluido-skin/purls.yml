@@ -52,6 +52,7 @@
 - pkg:maven/org.apache.maven.skins/maven-fluido-skin@1.9
 - pkg:maven/org.apache.maven.skins/maven-fluido-skin@1.9?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.skins/maven-fluido-skin@1.9?classifier=sources
+- pkg:maven/org.apache.maven.skins/maven-fluido-skin@2.0.0
 - pkg:maven/org.apache.maven.skins/maven-fluido-skin@2.0.0-M10
 - pkg:maven/org.apache.maven.skins/maven-fluido-skin@2.0.0-M10?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.skins/maven-fluido-skin@2.0.0-M10?classifier=sources
@@ -79,3 +80,5 @@
 - pkg:maven/org.apache.maven.skins/maven-fluido-skin@2.0.0-M9
 - pkg:maven/org.apache.maven.skins/maven-fluido-skin@2.0.0-M9?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.skins/maven-fluido-skin@2.0.0-M9?classifier=sources
+- pkg:maven/org.apache.maven.skins/maven-fluido-skin@2.0.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.skins/maven-fluido-skin@2.0.0?classifier=sources

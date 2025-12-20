@@ -4,3 +4,5 @@
 - pkg:maven/org.hisp.dhis.integration.sdk/jackson-resource-model@2.1.0?classifier=sources
 - pkg:maven/org.hisp.dhis.integration.sdk/jackson-resource-model@3.0.0
 - pkg:maven/org.hisp.dhis.integration.sdk/jackson-resource-model@3.0.0?classifier=sources
+- pkg:maven/org.hisp.dhis.integration.sdk/jackson-resource-model@3.0.1
+- pkg:maven/org.hisp.dhis.integration.sdk/jackson-resource-model@3.0.1?classifier=sources

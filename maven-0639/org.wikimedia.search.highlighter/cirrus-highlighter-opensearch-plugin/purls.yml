@@ -1,0 +1,2 @@
+- pkg:maven/org.wikimedia.search.highlighter/cirrus-highlighter-opensearch-plugin@1.3.19-wmf2?classifier=sources
+- pkg:maven/org.wikimedia.search.highlighter/cirrus-highlighter-opensearch-plugin@1.3.19-wmf2?type=zip

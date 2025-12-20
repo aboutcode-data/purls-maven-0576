@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.narayana.lra/narayana-lra@0.0.9.Final
+- pkg:maven/org.jboss.narayana.lra/narayana-lra@0.0.9.Final?classifier=sources

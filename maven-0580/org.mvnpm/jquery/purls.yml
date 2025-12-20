@@ -1,3 +1,4 @@
+- pkg:maven/org.mvnpm/jquery@1.11.0?classifier=sources
 - pkg:maven/org.mvnpm/jquery@1.9.1?classifier=sources
 - pkg:maven/org.mvnpm/jquery@2.2.2?classifier=sources
 - pkg:maven/org.mvnpm/jquery@3.6.0?classifier=sources

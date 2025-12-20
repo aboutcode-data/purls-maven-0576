@@ -1,0 +1,1 @@
+- pkg:maven/com.microsoft.azure/azure-container-apps-maven-plugin@0.1.0?classifier=sources

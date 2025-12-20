@@ -1,1 +1,2 @@
 - pkg:maven/io.github.atomofiron/extended-insets@2.0.0-rc0?classifier=sources
+- pkg:maven/io.github.atomofiron/extended-insets@2.0.0-rc1?classifier=sources

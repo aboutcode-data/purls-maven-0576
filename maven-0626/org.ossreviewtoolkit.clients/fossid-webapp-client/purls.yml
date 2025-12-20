@@ -50,7 +50,13 @@
 - pkg:maven/org.ossreviewtoolkit.clients/fossid-webapp-client@35.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/fossid-webapp-client@36.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/fossid-webapp-client@37.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/fossid-webapp-client@38.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/fossid-webapp-client@39.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/fossid-webapp-client@4.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/fossid-webapp-client@40.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/fossid-webapp-client@40.0.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/fossid-webapp-client@41.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/fossid-webapp-client@42.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/fossid-webapp-client@5.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/fossid-webapp-client@5.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/fossid-webapp-client@6.0.0?classifier=sources

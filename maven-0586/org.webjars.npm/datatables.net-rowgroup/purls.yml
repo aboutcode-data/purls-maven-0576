@@ -7,3 +7,4 @@
 - pkg:maven/org.webjars.npm/datatables.net-rowgroup@1.4.0
 - pkg:maven/org.webjars.npm/datatables.net-rowgroup@1.4.0?classifier=sources
 - pkg:maven/org.webjars.npm/datatables.net-rowgroup@1.5.0
+- pkg:maven/org.webjars.npm/datatables.net-rowgroup@1.5.1

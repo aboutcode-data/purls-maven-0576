@@ -8,3 +8,9 @@
 - pkg:maven/io.trino.benchto/benchto-it@0.29?classifier=sources
 - pkg:maven/io.trino.benchto/benchto-it@0.30
 - pkg:maven/io.trino.benchto/benchto-it@0.30?classifier=sources
+- pkg:maven/io.trino.benchto/benchto-it@0.31
+- pkg:maven/io.trino.benchto/benchto-it@0.31?classifier=sources
+- pkg:maven/io.trino.benchto/benchto-it@0.32
+- pkg:maven/io.trino.benchto/benchto-it@0.32?classifier=sources
+- pkg:maven/io.trino.benchto/benchto-it@0.33
+- pkg:maven/io.trino.benchto/benchto-it@0.33?classifier=sources

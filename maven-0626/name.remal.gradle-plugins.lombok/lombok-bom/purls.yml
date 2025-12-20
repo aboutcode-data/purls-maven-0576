@@ -1,3 +1,6 @@
+- pkg:maven/name.remal.gradle-plugins.lombok/lombok-bom@2.2.10?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.lombok/lombok-bom@2.2.11?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.lombok/lombok-bom@2.2.12?classifier=sources
 - pkg:maven/name.remal.gradle-plugins.lombok/lombok-bom@2.2.3?classifier=sources
 - pkg:maven/name.remal.gradle-plugins.lombok/lombok-bom@2.2.4?classifier=sources
 - pkg:maven/name.remal.gradle-plugins.lombok/lombok-bom@2.2.5?classifier=sources

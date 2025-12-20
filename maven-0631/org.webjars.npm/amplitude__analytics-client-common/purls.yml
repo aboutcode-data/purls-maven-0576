@@ -1,3 +1,4 @@
 - pkg:maven/org.webjars.npm/amplitude__analytics-client-common@0.4.1
 - pkg:maven/org.webjars.npm/amplitude__analytics-client-common@0.4.1?classifier=sources
 - pkg:maven/org.webjars.npm/amplitude__analytics-client-common@2.3.1
+- pkg:maven/org.webjars.npm/amplitude__analytics-client-common@2.3.5

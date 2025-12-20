@@ -152,3 +152,5 @@
 - pkg:maven/com.amazonaws/aws-android-sdk-location@2.76.1?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-location@2.77.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-location@2.77.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-location@2.77.1?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-location@2.77.1?type=aar

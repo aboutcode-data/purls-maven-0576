@@ -1,0 +1,2 @@
+- pkg:maven/fr.vidal.oss/atom-jaxb-benchmark@2.0.0
+- pkg:maven/fr.vidal.oss/atom-jaxb-benchmark@2.0.0?classifier=sources

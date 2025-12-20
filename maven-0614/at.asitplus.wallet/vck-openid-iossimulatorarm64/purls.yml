@@ -2,3 +2,4 @@
 - pkg:maven/at.asitplus.wallet/vck-openid-iossimulatorarm64@4.1.1?classifier=sources
 - pkg:maven/at.asitplus.wallet/vck-openid-iossimulatorarm64@5.0.0?classifier=sources
 - pkg:maven/at.asitplus.wallet/vck-openid-iossimulatorarm64@5.0.1?classifier=sources
+- pkg:maven/at.asitplus.wallet/vck-openid-iossimulatorarm64@5.1.0?classifier=sources

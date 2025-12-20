@@ -17,3 +17,6 @@
 - pkg:maven/com.lwohvye/unicorn-tp-tools-kotlin@4.4.0-sigma?classifier=sources
 - pkg:maven/com.lwohvye/unicorn-tp-tools-kotlin@4.5.0-tau-Beta2?classifier=sources
 - pkg:maven/com.lwohvye/unicorn-tp-tools-kotlin@4.5.0-tau-Beta?classifier=sources
+- pkg:maven/com.lwohvye/unicorn-tp-tools-kotlin@4.5.0-tau-RC2?classifier=sources
+- pkg:maven/com.lwohvye/unicorn-tp-tools-kotlin@4.5.0-tau-RC?classifier=sources
+- pkg:maven/com.lwohvye/unicorn-tp-tools-kotlin@4.5.0-tau?classifier=sources

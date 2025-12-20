@@ -50,7 +50,13 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-result-to-sw360-command@35.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-result-to-sw360-command@36.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-result-to-sw360-command@37.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-result-to-sw360-command@38.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-result-to-sw360-command@39.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-result-to-sw360-command@4.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-result-to-sw360-command@40.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-result-to-sw360-command@40.0.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-result-to-sw360-command@41.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-result-to-sw360-command@42.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-result-to-sw360-command@5.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-result-to-sw360-command@5.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-result-to-sw360-command@6.0.0?classifier=sources

@@ -3,6 +3,8 @@
 - pkg:maven/io.github.smyrgeorge/actor4k@0.12.0?classifier=sources
 - pkg:maven/io.github.smyrgeorge/actor4k@0.13.0?classifier=sources
 - pkg:maven/io.github.smyrgeorge/actor4k@0.14.0?classifier=sources
+- pkg:maven/io.github.smyrgeorge/actor4k@0.15.0?classifier=sources
+- pkg:maven/io.github.smyrgeorge/actor4k@0.16.0?classifier=sources
 - pkg:maven/io.github.smyrgeorge/actor4k@0.3.4?classifier=sources
 - pkg:maven/io.github.smyrgeorge/actor4k@0.3.5
 - pkg:maven/io.github.smyrgeorge/actor4k@0.3.5?classifier=sources
