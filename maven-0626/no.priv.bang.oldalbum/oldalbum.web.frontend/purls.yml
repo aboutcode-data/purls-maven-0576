@@ -130,3 +130,5 @@
 - pkg:maven/no.priv.bang.oldalbum/oldalbum.web.frontend@1.9.9?classifier=sources
 - pkg:maven/no.priv.bang.oldalbum/oldalbum.web.frontend@2.0.0
 - pkg:maven/no.priv.bang.oldalbum/oldalbum.web.frontend@2.0.0?classifier=sources
+- pkg:maven/no.priv.bang.oldalbum/oldalbum.web.frontend@2.0.1
+- pkg:maven/no.priv.bang.oldalbum/oldalbum.web.frontend@2.0.1?classifier=sources

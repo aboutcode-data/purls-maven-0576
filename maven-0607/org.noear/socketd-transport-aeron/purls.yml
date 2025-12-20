@@ -1,0 +1,6 @@
+- pkg:maven/org.noear/socketd-transport-aeron@2.5.4
+- pkg:maven/org.noear/socketd-transport-aeron@2.5.5
+- pkg:maven/org.noear/socketd-transport-aeron@2.5.6
+- pkg:maven/org.noear/socketd-transport-aeron@2.5.7
+- pkg:maven/org.noear/socketd-transport-aeron@2.5.8
+- pkg:maven/org.noear/socketd-transport-aeron@2.5.9

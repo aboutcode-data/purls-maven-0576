@@ -64,3 +64,5 @@
 - pkg:maven/org.apache.nifi/nifi-rules-engine-service-api@1.25.0?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-rules-engine-service-api@1.26.0
 - pkg:maven/org.apache.nifi/nifi-rules-engine-service-api@1.26.0?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-rules-engine-service-api@1.27.0
+- pkg:maven/org.apache.nifi/nifi-rules-engine-service-api@1.27.0?classifier=sources

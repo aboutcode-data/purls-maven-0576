@@ -2,3 +2,7 @@
 - pkg:maven/net.optionfactory.spring/marshaling-jackson@13.2?classifier=sources
 - pkg:maven/net.optionfactory.spring/marshaling-jackson@13.3
 - pkg:maven/net.optionfactory.spring/marshaling-jackson@13.3?classifier=sources
+- pkg:maven/net.optionfactory.spring/marshaling-jackson@13.4
+- pkg:maven/net.optionfactory.spring/marshaling-jackson@13.4?classifier=sources
+- pkg:maven/net.optionfactory.spring/marshaling-jackson@13.6
+- pkg:maven/net.optionfactory.spring/marshaling-jackson@13.6?classifier=sources

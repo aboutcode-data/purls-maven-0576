@@ -7,3 +7,5 @@
 - pkg:maven/net.xdob.pf4boot/pf4boot-core@0.12.0?classifier=sources
 - pkg:maven/net.xdob.pf4boot/pf4boot-core@0.13.0?classifier=sources
 - pkg:maven/net.xdob.pf4boot/pf4boot-core@1.0.0?classifier=sources
+- pkg:maven/net.xdob.pf4boot/pf4boot-core@1.1.0?classifier=sources
+- pkg:maven/net.xdob.pf4boot/pf4boot-core@1.2.0?classifier=sources

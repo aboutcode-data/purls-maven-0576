@@ -14,3 +14,4 @@
 - pkg:maven/com.mikepenz/ionicons-typeface@2.0.1.6-kotlin?type=aar
 - pkg:maven/com.mikepenz/ionicons-typeface@2.0.1.7-kotlin?classifier=sources
 - pkg:maven/com.mikepenz/ionicons-typeface@2.0.1.7-kotlin?type=aar
+- pkg:maven/com.mikepenz/ionicons-typeface@2.0.1.8-kotlin?classifier=sources

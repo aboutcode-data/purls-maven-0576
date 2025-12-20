@@ -12,3 +12,4 @@
 - pkg:maven/org.webjars.npm/scroll-into-view-if-needed@3.0.10?classifier=sources
 - pkg:maven/org.webjars.npm/scroll-into-view-if-needed@3.0.4
 - pkg:maven/org.webjars.npm/scroll-into-view-if-needed@3.0.4?classifier=sources
+- pkg:maven/org.webjars.npm/scroll-into-view-if-needed@3.1.0

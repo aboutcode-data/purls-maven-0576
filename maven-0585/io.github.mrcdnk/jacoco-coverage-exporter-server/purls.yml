@@ -1,0 +1,2 @@
+- pkg:maven/io.github.mrcdnk/jacoco-coverage-exporter-server@0.1.0-beta
+- pkg:maven/io.github.mrcdnk/jacoco-coverage-exporter-server@0.1.0-beta?classifier=sources

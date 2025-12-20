@@ -3,3 +3,4 @@
 - pkg:maven/com.optimetriks.unio.compose/fabs@4?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/fabs@6?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/fabs@7?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/fabs@8?classifier=sources

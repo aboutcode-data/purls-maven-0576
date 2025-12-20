@@ -102,3 +102,5 @@
 - pkg:maven/org.lastaflute.remoteapi/lasta-remoteapi@0.4.8?classifier=sources
 - pkg:maven/org.lastaflute.remoteapi/lasta-remoteapi@0.5.0
 - pkg:maven/org.lastaflute.remoteapi/lasta-remoteapi@0.5.0?classifier=sources
+- pkg:maven/org.lastaflute.remoteapi/lasta-remoteapi@0.5.1
+- pkg:maven/org.lastaflute.remoteapi/lasta-remoteapi@0.5.1?classifier=sources

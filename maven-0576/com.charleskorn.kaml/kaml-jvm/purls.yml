@@ -33,3 +33,4 @@
 - pkg:maven/com.charleskorn.kaml/kaml-jvm@0.57.0?classifier=sources
 - pkg:maven/com.charleskorn.kaml/kaml-jvm@0.58.0?classifier=sources
 - pkg:maven/com.charleskorn.kaml/kaml-jvm@0.59.0?classifier=sources
+- pkg:maven/com.charleskorn.kaml/kaml-jvm@0.60.0?classifier=sources

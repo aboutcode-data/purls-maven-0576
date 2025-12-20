@@ -3,3 +3,5 @@
 - pkg:maven/dev.transformerkt/transformerkt@3.4.0?classifier=sources
 - pkg:maven/dev.transformerkt/transformerkt@3.5.0-alpha01?classifier=sources
 - pkg:maven/dev.transformerkt/transformerkt@3.5.0?classifier=sources
+- pkg:maven/dev.transformerkt/transformerkt@3.6.0-beta01?classifier=sources
+- pkg:maven/dev.transformerkt/transformerkt@3.6.0-beta02?classifier=sources

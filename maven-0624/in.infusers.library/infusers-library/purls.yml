@@ -342,3 +342,7 @@
 - pkg:maven/in.infusers.library/infusers-library@5.2.017?classifier=sources
 - pkg:maven/in.infusers.library/infusers-library@5.2.018
 - pkg:maven/in.infusers.library/infusers-library@5.2.018?classifier=sources
+- pkg:maven/in.infusers.library/infusers-library@5.2.019
+- pkg:maven/in.infusers.library/infusers-library@5.2.019?classifier=sources
+- pkg:maven/in.infusers.library/infusers-library@5.2.020
+- pkg:maven/in.infusers.library/infusers-library@5.2.020?classifier=sources

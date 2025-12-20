@@ -10,3 +10,5 @@
 - pkg:maven/org.make/openstack-swift-client_3@1.1.5?classifier=sources
 - pkg:maven/org.make/openstack-swift-client_3@2.0.0
 - pkg:maven/org.make/openstack-swift-client_3@2.0.0?classifier=sources
+- pkg:maven/org.make/openstack-swift-client_3@3.0.0
+- pkg:maven/org.make/openstack-swift-client_3@3.0.0?classifier=sources

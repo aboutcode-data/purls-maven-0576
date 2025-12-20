@@ -11,6 +11,7 @@
 - pkg:maven/com.qiyukf.unicorn/unicorn_li@9.2.19?classifier=sources
 - pkg:maven/com.qiyukf.unicorn/unicorn_li@9.2.1?classifier=sources
 - pkg:maven/com.qiyukf.unicorn/unicorn_li@9.2.20?classifier=sources
+- pkg:maven/com.qiyukf.unicorn/unicorn_li@9.2.21?classifier=sources
 - pkg:maven/com.qiyukf.unicorn/unicorn_li@9.2.2?classifier=sources
 - pkg:maven/com.qiyukf.unicorn/unicorn_li@9.2.3?classifier=sources
 - pkg:maven/com.qiyukf.unicorn/unicorn_li@9.2.4?classifier=sources

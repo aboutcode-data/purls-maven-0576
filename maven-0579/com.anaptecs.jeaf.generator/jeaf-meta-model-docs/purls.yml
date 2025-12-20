@@ -1,0 +1,2 @@
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-meta-model-docs@2.2.0
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-meta-model-docs@2.2.0?classifier=sources

@@ -39,6 +39,7 @@
 - pkg:maven/tech.thdev/extensions-compose-keyboard-state@1.6.4?classifier=sources
 - pkg:maven/tech.thdev/extensions-compose-keyboard-state@1.6.5?classifier=sources
 - pkg:maven/tech.thdev/extensions-compose-keyboard-state@1.6.7?classifier=sources
+- pkg:maven/tech.thdev/extensions-compose-keyboard-state@1.6.8?classifier=sources
 - pkg:maven/tech.thdev/extensions-compose-keyboard-state@1.7.0-alpha02?classifier=sources
 - pkg:maven/tech.thdev/extensions-compose-keyboard-state@1.7.0-alpha03?classifier=sources
 - pkg:maven/tech.thdev/extensions-compose-keyboard-state@1.7.0-alpha04?classifier=sources
@@ -47,3 +48,4 @@
 - pkg:maven/tech.thdev/extensions-compose-keyboard-state@1.7.0-alpha08?classifier=sources
 - pkg:maven/tech.thdev/extensions-compose-keyboard-state@1.7.0-beta01?classifier=sources
 - pkg:maven/tech.thdev/extensions-compose-keyboard-state@1.7.0-beta02?classifier=sources
+- pkg:maven/tech.thdev/extensions-compose-keyboard-state@1.7.0-beta04?classifier=sources

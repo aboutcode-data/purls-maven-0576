@@ -36,3 +36,5 @@
 - pkg:maven/cloud.piranha.dist/piranha-dist-isolated@24.4.0?type=zip
 - pkg:maven/cloud.piranha.dist/piranha-dist-isolated@24.5.0?classifier=sources
 - pkg:maven/cloud.piranha.dist/piranha-dist-isolated@24.5.0?type=zip
+- pkg:maven/cloud.piranha.dist/piranha-dist-isolated@24.6.0?classifier=sources
+- pkg:maven/cloud.piranha.dist/piranha-dist-isolated@24.6.0?type=zip

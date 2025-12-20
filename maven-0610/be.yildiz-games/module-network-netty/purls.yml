@@ -51,6 +51,10 @@
 - pkg:maven/be.yildiz-games/module-network-netty@2.0.24?classifier=sources
 - pkg:maven/be.yildiz-games/module-network-netty@2.0.25
 - pkg:maven/be.yildiz-games/module-network-netty@2.0.25?classifier=sources
+- pkg:maven/be.yildiz-games/module-network-netty@2.0.26
+- pkg:maven/be.yildiz-games/module-network-netty@2.0.26?classifier=sources
+- pkg:maven/be.yildiz-games/module-network-netty@2.0.27
+- pkg:maven/be.yildiz-games/module-network-netty@2.0.27?classifier=sources
 - pkg:maven/be.yildiz-games/module-network-netty@2.0.2?classifier=sources
 - pkg:maven/be.yildiz-games/module-network-netty@2.0.3
 - pkg:maven/be.yildiz-games/module-network-netty@2.0.3?classifier=sources

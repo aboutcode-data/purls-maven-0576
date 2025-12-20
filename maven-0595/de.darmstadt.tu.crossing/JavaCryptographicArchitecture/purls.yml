@@ -1,3 +1,5 @@
+- pkg:maven/de.darmstadt.tu.crossing/JavaCryptographicArchitecture@1.4
+- pkg:maven/de.darmstadt.tu.crossing/JavaCryptographicArchitecture@1.4?classifier=sources
 - pkg:maven/de.darmstadt.tu.crossing/JavaCryptographicArchitecture@1.5.2
 - pkg:maven/de.darmstadt.tu.crossing/JavaCryptographicArchitecture@1.5.2?classifier=sources
 - pkg:maven/de.darmstadt.tu.crossing/JavaCryptographicArchitecture@1.5.3
@@ -12,3 +14,5 @@
 - pkg:maven/de.darmstadt.tu.crossing/JavaCryptographicArchitecture@3.0.2?classifier=sources
 - pkg:maven/de.darmstadt.tu.crossing/JavaCryptographicArchitecture@3.1.0
 - pkg:maven/de.darmstadt.tu.crossing/JavaCryptographicArchitecture@3.1.0?classifier=sources
+- pkg:maven/de.darmstadt.tu.crossing/JavaCryptographicArchitecture@3.1.1
+- pkg:maven/de.darmstadt.tu.crossing/JavaCryptographicArchitecture@3.1.1?classifier=sources

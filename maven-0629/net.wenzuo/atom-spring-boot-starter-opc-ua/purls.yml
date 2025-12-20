@@ -1,0 +1,4 @@
+- pkg:maven/net.wenzuo/atom-spring-boot-starter-opc-ua@2.4.7
+- pkg:maven/net.wenzuo/atom-spring-boot-starter-opc-ua@2.4.7?classifier=sources
+- pkg:maven/net.wenzuo/atom-spring-boot-starter-opc-ua@2.4.8
+- pkg:maven/net.wenzuo/atom-spring-boot-starter-opc-ua@2.4.8?classifier=sources

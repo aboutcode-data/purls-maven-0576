@@ -186,6 +186,8 @@
 - pkg:maven/com.google.apis/google-api-services-accesscontextmanager@v1-rev20240417-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-accesscontextmanager@v1-rev20240429-2.0.0
 - pkg:maven/com.google.apis/google-api-services-accesscontextmanager@v1-rev20240429-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-accesscontextmanager@v1-rev20240611-2.0.0
+- pkg:maven/com.google.apis/google-api-services-accesscontextmanager@v1-rev20240611-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-accesscontextmanager@v1-rev3-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-accesscontextmanager@v1-rev3-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-accesscontextmanager@v1-rev3-1.22.0

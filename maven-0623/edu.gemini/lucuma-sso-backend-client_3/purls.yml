@@ -69,8 +69,14 @@
 - pkg:maven/edu.gemini/lucuma-sso-backend-client_3@0.6.16?classifier=sources
 - pkg:maven/edu.gemini/lucuma-sso-backend-client_3@0.6.17
 - pkg:maven/edu.gemini/lucuma-sso-backend-client_3@0.6.17?classifier=sources
+- pkg:maven/edu.gemini/lucuma-sso-backend-client_3@0.6.18
+- pkg:maven/edu.gemini/lucuma-sso-backend-client_3@0.6.18?classifier=sources
+- pkg:maven/edu.gemini/lucuma-sso-backend-client_3@0.6.19
+- pkg:maven/edu.gemini/lucuma-sso-backend-client_3@0.6.19?classifier=sources
 - pkg:maven/edu.gemini/lucuma-sso-backend-client_3@0.6.1?classifier=sources
 - pkg:maven/edu.gemini/lucuma-sso-backend-client_3@0.6.2
+- pkg:maven/edu.gemini/lucuma-sso-backend-client_3@0.6.20
+- pkg:maven/edu.gemini/lucuma-sso-backend-client_3@0.6.20?classifier=sources
 - pkg:maven/edu.gemini/lucuma-sso-backend-client_3@0.6.2?classifier=sources
 - pkg:maven/edu.gemini/lucuma-sso-backend-client_3@0.6.3
 - pkg:maven/edu.gemini/lucuma-sso-backend-client_3@0.6.3?classifier=sources

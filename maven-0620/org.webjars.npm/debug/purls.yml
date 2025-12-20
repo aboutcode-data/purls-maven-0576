@@ -54,3 +54,4 @@
 - pkg:maven/org.webjars.npm/debug@4.3.3?classifier=sources
 - pkg:maven/org.webjars.npm/debug@4.3.4
 - pkg:maven/org.webjars.npm/debug@4.3.4?classifier=sources
+- pkg:maven/org.webjars.npm/debug@4.3.5

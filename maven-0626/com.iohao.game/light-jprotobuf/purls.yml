@@ -125,6 +125,8 @@
 - pkg:maven/com.iohao.game/light-jprotobuf@21.0
 - pkg:maven/com.iohao.game/light-jprotobuf@21.0?classifier=sources
 - pkg:maven/com.iohao.game/light-jprotobuf@21.1
+- pkg:maven/com.iohao.game/light-jprotobuf@21.10
+- pkg:maven/com.iohao.game/light-jprotobuf@21.10?classifier=sources
 - pkg:maven/com.iohao.game/light-jprotobuf@21.1?classifier=sources
 - pkg:maven/com.iohao.game/light-jprotobuf@21.2
 - pkg:maven/com.iohao.game/light-jprotobuf@21.2?classifier=sources
@@ -140,3 +142,5 @@
 - pkg:maven/com.iohao.game/light-jprotobuf@21.7?classifier=sources
 - pkg:maven/com.iohao.game/light-jprotobuf@21.8
 - pkg:maven/com.iohao.game/light-jprotobuf@21.8?classifier=sources
+- pkg:maven/com.iohao.game/light-jprotobuf@21.9
+- pkg:maven/com.iohao.game/light-jprotobuf@21.9?classifier=sources

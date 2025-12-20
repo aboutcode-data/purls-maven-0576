@@ -194,6 +194,8 @@
 - pkg:maven/com.slack.api/bolt-helidon@1.39.1?classifier=sources
 - pkg:maven/com.slack.api/bolt-helidon@1.39.2
 - pkg:maven/com.slack.api/bolt-helidon@1.39.2?classifier=sources
+- pkg:maven/com.slack.api/bolt-helidon@1.39.3
+- pkg:maven/com.slack.api/bolt-helidon@1.39.3?classifier=sources
 - pkg:maven/com.slack.api/bolt-helidon@1.4.0
 - pkg:maven/com.slack.api/bolt-helidon@1.4.0-RC1
 - pkg:maven/com.slack.api/bolt-helidon@1.4.0-RC1?classifier=sources
@@ -202,6 +204,10 @@
 - pkg:maven/com.slack.api/bolt-helidon@1.4.1?classifier=sources
 - pkg:maven/com.slack.api/bolt-helidon@1.4.2
 - pkg:maven/com.slack.api/bolt-helidon@1.4.2?classifier=sources
+- pkg:maven/com.slack.api/bolt-helidon@1.40.0
+- pkg:maven/com.slack.api/bolt-helidon@1.40.0?classifier=sources
+- pkg:maven/com.slack.api/bolt-helidon@1.40.1
+- pkg:maven/com.slack.api/bolt-helidon@1.40.1?classifier=sources
 - pkg:maven/com.slack.api/bolt-helidon@1.5.0
 - pkg:maven/com.slack.api/bolt-helidon@1.5.0-M1
 - pkg:maven/com.slack.api/bolt-helidon@1.5.0-M1?classifier=sources

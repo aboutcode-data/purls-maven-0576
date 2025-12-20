@@ -5,4 +5,6 @@
 - pkg:maven/org.certificateservices.messages/certservice-messages@2403.1?classifier=sources
 - pkg:maven/org.certificateservices.messages/certservice-messages@2403.2?classifier=sources
 - pkg:maven/org.certificateservices.messages/certservice-messages@2404.1?classifier=sources
+- pkg:maven/org.certificateservices.messages/certservice-messages@2405.1?classifier=sources
+- pkg:maven/org.certificateservices.messages/certservice-messages@2405.2?classifier=sources
 - pkg:maven/org.certificateservices.messages/certservice-messages@v2402.1?classifier=sources

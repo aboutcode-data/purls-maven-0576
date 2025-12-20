@@ -104,6 +104,10 @@
 - pkg:maven/uk.co.callhandling/freeswitch-scala-esl_2.12@2.1.2?classifier=sources
 - pkg:maven/uk.co.callhandling/freeswitch-scala-esl_2.12@2.1.30
 - pkg:maven/uk.co.callhandling/freeswitch-scala-esl_2.12@2.1.30?classifier=sources
+- pkg:maven/uk.co.callhandling/freeswitch-scala-esl_2.12@2.1.31
+- pkg:maven/uk.co.callhandling/freeswitch-scala-esl_2.12@2.1.31?classifier=sources
+- pkg:maven/uk.co.callhandling/freeswitch-scala-esl_2.12@2.1.32
+- pkg:maven/uk.co.callhandling/freeswitch-scala-esl_2.12@2.1.32?classifier=sources
 - pkg:maven/uk.co.callhandling/freeswitch-scala-esl_2.12@2.1.4
 - pkg:maven/uk.co.callhandling/freeswitch-scala-esl_2.12@2.1.4?classifier=sources
 - pkg:maven/uk.co.callhandling/freeswitch-scala-esl_2.12@2.1.5

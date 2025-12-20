@@ -1,1 +1,2 @@
 - pkg:maven/com.urbanairship.android/urbanairship-automation-compose@18.0.0-alpha?classifier=sources
+- pkg:maven/com.urbanairship.android/urbanairship-automation-compose@18.0.0?classifier=sources

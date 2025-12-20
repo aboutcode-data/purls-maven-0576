@@ -46,6 +46,10 @@
 - pkg:maven/com.libawall/yindean-sdk@1.0.29-RELEASE?classifier=sources
 - pkg:maven/com.libawall/yindean-sdk@1.0.3-RELEASE
 - pkg:maven/com.libawall/yindean-sdk@1.0.3-RELEASE?classifier=sources
+- pkg:maven/com.libawall/yindean-sdk@1.0.30-RELEASE
+- pkg:maven/com.libawall/yindean-sdk@1.0.30-RELEASE?classifier=sources
+- pkg:maven/com.libawall/yindean-sdk@1.0.31-RELEASE
+- pkg:maven/com.libawall/yindean-sdk@1.0.31-RELEASE?classifier=sources
 - pkg:maven/com.libawall/yindean-sdk@1.0.4-RELEASE
 - pkg:maven/com.libawall/yindean-sdk@1.0.4-RELEASE?classifier=sources
 - pkg:maven/com.libawall/yindean-sdk@1.0.5-RELEASE

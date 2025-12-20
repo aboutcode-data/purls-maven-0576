@@ -10,6 +10,10 @@
 - pkg:maven/com.qvantel/jsonapi-scala-akka-client_2.12@10.3.0?classifier=sources
 - pkg:maven/com.qvantel/jsonapi-scala-akka-client_2.12@10.4.1
 - pkg:maven/com.qvantel/jsonapi-scala-akka-client_2.12@10.4.1?classifier=sources
+- pkg:maven/com.qvantel/jsonapi-scala-akka-client_2.12@11.0.1
+- pkg:maven/com.qvantel/jsonapi-scala-akka-client_2.12@11.0.1?classifier=sources
+- pkg:maven/com.qvantel/jsonapi-scala-akka-client_2.12@11.0.2
+- pkg:maven/com.qvantel/jsonapi-scala-akka-client_2.12@11.0.2?classifier=sources
 - pkg:maven/com.qvantel/jsonapi-scala-akka-client_2.12@5.1.0
 - pkg:maven/com.qvantel/jsonapi-scala-akka-client_2.12@5.1.0?classifier=sources
 - pkg:maven/com.qvantel/jsonapi-scala-akka-client_2.12@5.1.1

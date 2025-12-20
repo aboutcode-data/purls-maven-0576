@@ -3,3 +3,4 @@
 - pkg:maven/org.conductoross/conductor-awss3-storage@3.18.0?classifier=sources
 - pkg:maven/org.conductoross/conductor-awss3-storage@3.19.0?classifier=sources
 - pkg:maven/org.conductoross/conductor-awss3-storage@3.20.0?classifier=sources
+- pkg:maven/org.conductoross/conductor-awss3-storage@3.21.0?classifier=sources

@@ -52,6 +52,10 @@
 - pkg:maven/org.opendaylight.transportpce/transportpce-tapi@8.0.0?classifier=sources
 - pkg:maven/org.opendaylight.transportpce/transportpce-tapi@8.1.0?classifier=sources
 - pkg:maven/org.opendaylight.transportpce/transportpce-tapi@8.2.0?classifier=sources
+- pkg:maven/org.opendaylight.transportpce/transportpce-tapi@8.3.0?classifier=sources
 - pkg:maven/org.opendaylight.transportpce/transportpce-tapi@9.0.0?classifier=sources
 - pkg:maven/org.opendaylight.transportpce/transportpce-tapi@9.0.1?classifier=sources
 - pkg:maven/org.opendaylight.transportpce/transportpce-tapi@9.1.0?classifier=sources
+- pkg:maven/org.opendaylight.transportpce/transportpce-tapi@9.1.1
+- pkg:maven/org.opendaylight.transportpce/transportpce-tapi@9.1.1?classifier=sources
+- pkg:maven/org.opendaylight.transportpce/transportpce-tapi@9.1.2?classifier=sources

@@ -43,3 +43,4 @@
 - pkg:maven/de.gesellix/docker-filesocket@2024-01-12T22-30-00?classifier=sources
 - pkg:maven/de.gesellix/docker-filesocket@2024-02-21T19-20-00?classifier=sources
 - pkg:maven/de.gesellix/docker-filesocket@2024-03-13T21-20-00?classifier=sources
+- pkg:maven/de.gesellix/docker-filesocket@2024-06-09T21-00-00?classifier=sources

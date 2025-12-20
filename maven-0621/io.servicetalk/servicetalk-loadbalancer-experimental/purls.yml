@@ -1,3 +1,5 @@
 - pkg:maven/io.servicetalk/servicetalk-loadbalancer-experimental@0.42.42?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-loadbalancer-experimental@0.42.43?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-loadbalancer-experimental@0.42.44?classifier=sources
+- pkg:maven/io.servicetalk/servicetalk-loadbalancer-experimental@0.42.45?classifier=sources
+- pkg:maven/io.servicetalk/servicetalk-loadbalancer-experimental@0.42.46?classifier=sources

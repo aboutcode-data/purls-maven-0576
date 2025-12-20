@@ -40,3 +40,4 @@
 - pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-liberty-war@2.0.2?type=war
 - pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-liberty-war@2.1.0?type=war
 - pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-liberty-war@2.1.1?type=war
+- pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-liberty-war@2.2.0?type=war

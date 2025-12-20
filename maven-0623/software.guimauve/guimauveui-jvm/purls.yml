@@ -1,0 +1,2 @@
+- pkg:maven/software.guimauve/guimauveui-jvm@0.1.0?classifier=sources
+- pkg:maven/software.guimauve/guimauveui-jvm@2.0.0?classifier=sources

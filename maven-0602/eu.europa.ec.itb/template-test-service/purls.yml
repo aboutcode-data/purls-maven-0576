@@ -1,1 +1,2 @@
 - pkg:maven/eu.europa.ec.itb/template-test-service@1.22.0?classifier=sources
+- pkg:maven/eu.europa.ec.itb/template-test-service@1.23.0?classifier=sources

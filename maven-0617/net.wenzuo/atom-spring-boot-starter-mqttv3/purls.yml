@@ -1,0 +1,2 @@
+- pkg:maven/net.wenzuo/atom-spring-boot-starter-mqttv3@2.4.6
+- pkg:maven/net.wenzuo/atom-spring-boot-starter-mqttv3@2.4.6?classifier=sources

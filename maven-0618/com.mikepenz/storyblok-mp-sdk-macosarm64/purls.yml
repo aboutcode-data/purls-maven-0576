@@ -1,2 +1,3 @@
 - pkg:maven/com.mikepenz/storyblok-mp-sdk-macosarm64@2.0.0-rc01?classifier=sources
 - pkg:maven/com.mikepenz/storyblok-mp-sdk-macosarm64@2.0.0-rc02?classifier=sources
+- pkg:maven/com.mikepenz/storyblok-mp-sdk-macosarm64@2.0.0?classifier=sources

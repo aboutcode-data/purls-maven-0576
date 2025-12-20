@@ -13,3 +13,5 @@
 - pkg:maven/com.github.kwaisocial/kwai-opensdk-withauth@3.0.4.2-beta2?type=aar
 - pkg:maven/com.github.kwaisocial/kwai-opensdk-withauth@3.0.4?type=aar
 - pkg:maven/com.github.kwaisocial/kwai-opensdk-withauth@3.7.1?type=aar
+- pkg:maven/com.github.kwaisocial/kwai-opensdk-withauth@3.7.2-beta10?type=aar
+- pkg:maven/com.github.kwaisocial/kwai-opensdk-withauth@3.7.2-beta3?type=aar

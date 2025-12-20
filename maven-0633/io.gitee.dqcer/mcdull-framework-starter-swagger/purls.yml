@@ -1,0 +1,4 @@
+- pkg:maven/io.gitee.dqcer/mcdull-framework-starter-swagger@0.1.1-RELEASE
+- pkg:maven/io.gitee.dqcer/mcdull-framework-starter-swagger@0.1.1-RELEASE?classifier=sources
+- pkg:maven/io.gitee.dqcer/mcdull-framework-starter-swagger@0.1.2-RELEASE
+- pkg:maven/io.gitee.dqcer/mcdull-framework-starter-swagger@0.1.2-RELEASE?classifier=sources

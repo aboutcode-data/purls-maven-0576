@@ -1,0 +1,2 @@
+- pkg:maven/group.springframework.ai/gpt3-tokenizer@0.1.9
+- pkg:maven/group.springframework.ai/gpt3-tokenizer@0.1.9?classifier=sources

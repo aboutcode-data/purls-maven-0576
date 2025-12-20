@@ -4,3 +4,5 @@
 - pkg:maven/io.github.minliuhua/warm-flow-mybatis-plus-sb-test@1.1.90?classifier=sources
 - pkg:maven/io.github.minliuhua/warm-flow-mybatis-plus-sb-test@1.1.91
 - pkg:maven/io.github.minliuhua/warm-flow-mybatis-plus-sb-test@1.1.91?classifier=sources
+- pkg:maven/io.github.minliuhua/warm-flow-mybatis-plus-sb-test@1.2.0
+- pkg:maven/io.github.minliuhua/warm-flow-mybatis-plus-sb-test@1.2.0?classifier=sources

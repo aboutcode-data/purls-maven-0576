@@ -1,2 +1,3 @@
 - pkg:maven/pl.mkazik.core/core-plugins-android@0.0.1?classifier=sources
 - pkg:maven/pl.mkazik.core/core-plugins-android@0.0.2?classifier=sources
+- pkg:maven/pl.mkazik.core/core-plugins-android@0.0.3?classifier=sources

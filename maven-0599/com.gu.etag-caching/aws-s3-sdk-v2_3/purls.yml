@@ -106,3 +106,17 @@
 - pkg:maven/com.gu.etag-caching/aws-s3-sdk-v2_3@3.0.0?classifier=sources
 - pkg:maven/com.gu.etag-caching/aws-s3-sdk-v2_3@3.0.1
 - pkg:maven/com.gu.etag-caching/aws-s3-sdk-v2_3@3.0.1?classifier=sources
+- pkg:maven/com.gu.etag-caching/aws-s3-sdk-v2_3@3.0.2
+- pkg:maven/com.gu.etag-caching/aws-s3-sdk-v2_3@3.0.2-PREVIEW.try-out-sonatype-token-authentication-with-gha-scala-library-release-workflow.2024-06-19T2111.7e3110df
+- pkg:maven/com.gu.etag-caching/aws-s3-sdk-v2_3@3.0.2-PREVIEW.try-out-sonatype-token-authentication-with-gha-scala-library-release-workflow.2024-06-19T2111.7e3110df?classifier=sources
+- pkg:maven/com.gu.etag-caching/aws-s3-sdk-v2_3@3.0.2-PREVIEW.try-out-sonatype-token-authentication-with-gha-scala-library-release-workflow.2024-06-19T2126.7e3110df
+- pkg:maven/com.gu.etag-caching/aws-s3-sdk-v2_3@3.0.2-PREVIEW.try-out-sonatype-token-authentication-with-gha-scala-library-release-workflow.2024-06-19T2126.7e3110df?classifier=sources
+- pkg:maven/com.gu.etag-caching/aws-s3-sdk-v2_3@3.0.2-PREVIEW.try-out-sonatype-token-authentication-with-gha-scala-library-release-workflow.2024-06-19T2141.7e3110df
+- pkg:maven/com.gu.etag-caching/aws-s3-sdk-v2_3@3.0.2-PREVIEW.try-out-sonatype-token-authentication-with-gha-scala-library-release-workflow.2024-06-19T2141.7e3110df?classifier=sources
+- pkg:maven/com.gu.etag-caching/aws-s3-sdk-v2_3@3.0.2-PREVIEW.try-out-sonatype-token-authentication-with-gha-scala-library-release-workflow.2024-06-19T2144.a08fa633
+- pkg:maven/com.gu.etag-caching/aws-s3-sdk-v2_3@3.0.2-PREVIEW.try-out-sonatype-token-authentication-with-gha-scala-library-release-workflow.2024-06-19T2144.a08fa633?classifier=sources
+- pkg:maven/com.gu.etag-caching/aws-s3-sdk-v2_3@3.0.2-PREVIEW.try-out-sonatype-token-authentication-with-gha-scala-library-release-workflow.2024-06-19T2203.a08fa633
+- pkg:maven/com.gu.etag-caching/aws-s3-sdk-v2_3@3.0.2-PREVIEW.try-out-sonatype-token-authentication-with-gha-scala-library-release-workflow.2024-06-19T2203.a08fa633?classifier=sources
+- pkg:maven/com.gu.etag-caching/aws-s3-sdk-v2_3@3.0.2-PREVIEW.try-out-sonatype-token-authentication-with-gha-scala-library-release-workflow.2024-06-19T2227.a08fa633
+- pkg:maven/com.gu.etag-caching/aws-s3-sdk-v2_3@3.0.2-PREVIEW.try-out-sonatype-token-authentication-with-gha-scala-library-release-workflow.2024-06-19T2227.a08fa633?classifier=sources
+- pkg:maven/com.gu.etag-caching/aws-s3-sdk-v2_3@3.0.2?classifier=sources

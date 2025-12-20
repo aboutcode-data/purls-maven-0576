@@ -5,3 +5,4 @@
 - pkg:maven/org.cthing/versionparser@4.2.1?classifier=sources
 - pkg:maven/org.cthing/versionparser@4.3.0?classifier=sources
 - pkg:maven/org.cthing/versionparser@4.4.0?classifier=sources
+- pkg:maven/org.cthing/versionparser@4.5.0?classifier=sources

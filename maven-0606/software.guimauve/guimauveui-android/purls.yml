@@ -1,0 +1,2 @@
+- pkg:maven/software.guimauve/guimauveui-android@0.1.0?classifier=sources
+- pkg:maven/software.guimauve/guimauveui-android@2.0.0?classifier=sources

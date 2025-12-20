@@ -8,3 +8,5 @@
 - pkg:maven/net.snowflake/snowflake-jdbc-thin@3.16.0?classifier=sources
 - pkg:maven/net.snowflake/snowflake-jdbc-thin@3.16.1
 - pkg:maven/net.snowflake/snowflake-jdbc-thin@3.16.1?classifier=sources
+- pkg:maven/net.snowflake/snowflake-jdbc-thin@3.17.0
+- pkg:maven/net.snowflake/snowflake-jdbc-thin@3.17.0?classifier=sources

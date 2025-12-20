@@ -10,3 +10,5 @@
 - pkg:maven/io.trino/trino-opa@447?classifier=sources
 - pkg:maven/io.trino/trino-opa@448?classifier=sources
 - pkg:maven/io.trino/trino-opa@449?classifier=sources
+- pkg:maven/io.trino/trino-opa@450?classifier=sources
+- pkg:maven/io.trino/trino-opa@451?classifier=sources

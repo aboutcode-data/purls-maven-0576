@@ -53,6 +53,8 @@
 - pkg:maven/com.heanbian/heanbian-email@19.1?classifier=sources
 - pkg:maven/com.heanbian/heanbian-email@2.0.0
 - pkg:maven/com.heanbian/heanbian-email@2.0.0?classifier=sources
+- pkg:maven/com.heanbian/heanbian-email@20.1
+- pkg:maven/com.heanbian/heanbian-email@20.1?classifier=sources
 - pkg:maven/com.heanbian/heanbian-email@20200807
 - pkg:maven/com.heanbian/heanbian-email@20200807?classifier=sources
 - pkg:maven/com.heanbian/heanbian-email@4.0.0

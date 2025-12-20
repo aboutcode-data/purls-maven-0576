@@ -72,6 +72,8 @@
 - pkg:maven/com.tencent.polaris/ratelimiter-unirate@1.15.4?classifier=sources
 - pkg:maven/com.tencent.polaris/ratelimiter-unirate@1.15.5
 - pkg:maven/com.tencent.polaris/ratelimiter-unirate@1.15.5?classifier=sources
+- pkg:maven/com.tencent.polaris/ratelimiter-unirate@1.15.6
+- pkg:maven/com.tencent.polaris/ratelimiter-unirate@1.15.6?classifier=sources
 - pkg:maven/com.tencent.polaris/ratelimiter-unirate@1.6.0
 - pkg:maven/com.tencent.polaris/ratelimiter-unirate@1.6.0?classifier=sources
 - pkg:maven/com.tencent.polaris/ratelimiter-unirate@1.6.1

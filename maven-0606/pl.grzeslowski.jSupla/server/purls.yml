@@ -20,3 +20,5 @@
 - pkg:maven/pl.grzeslowski.jSupla/server@1.1.0?classifier=sources
 - pkg:maven/pl.grzeslowski.jSupla/server@1.2.0
 - pkg:maven/pl.grzeslowski.jSupla/server@1.2.0?classifier=sources
+- pkg:maven/pl.grzeslowski.jSupla/server@1.4.0
+- pkg:maven/pl.grzeslowski.jSupla/server@1.4.0?classifier=sources
