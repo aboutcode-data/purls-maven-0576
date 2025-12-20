@@ -9,3 +9,9 @@
 - pkg:maven/top.jcsun/breeze-mybatis-plus@2024.11.26?classifier=sources
 - pkg:maven/top.jcsun/breeze-mybatis-plus@2024.12.05?classifier=sources
 - pkg:maven/top.jcsun/breeze-mybatis-plus@2024.12.21?classifier=sources
+- pkg:maven/top.jcsun/breeze-mybatis-plus@2025.01.01?classifier=sources
+- pkg:maven/top.jcsun/breeze-mybatis-plus@2025.01.07?classifier=sources
+- pkg:maven/top.jcsun/breeze-mybatis-plus@2025.01.08?classifier=sources
+- pkg:maven/top.jcsun/breeze-mybatis-plus@2025.01.09?classifier=sources
+- pkg:maven/top.jcsun/breeze-mybatis-plus@2025.01.10?classifier=sources
+- pkg:maven/top.jcsun/breeze-mybatis-plus@2025.01.18?classifier=sources

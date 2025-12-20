@@ -1,0 +1,2 @@
+- pkg:maven/net.orivis/orivis-ui-settings-mongo@0.0.2?classifier=sources
+- pkg:maven/net.orivis/orivis-ui-settings-mongo@0.0.3?classifier=sources

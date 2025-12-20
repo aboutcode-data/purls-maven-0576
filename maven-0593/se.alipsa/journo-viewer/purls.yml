@@ -1,0 +1,2 @@
+- pkg:maven/se.alipsa/journo-viewer@0.7.0
+- pkg:maven/se.alipsa/journo-viewer@0.7.0?classifier=sources

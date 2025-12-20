@@ -308,6 +308,7 @@
 - pkg:maven/org.ops4j.pax.web.samples/war-jetty-web@8.0.28?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-jetty-web@8.0.29?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-jetty-web@8.0.2?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-jetty-web@8.0.30?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-jetty-web@8.0.3?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-jetty-web@8.0.4?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-jetty-web@8.0.5?type=war
@@ -325,6 +326,7 @@
 - pkg:maven/org.ops4j.pax.web.samples/war-jetty-web@9.0.16?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-jetty-web@9.0.17?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-jetty-web@9.0.18?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-jetty-web@9.0.19?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-jetty-web@9.0.1?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-jetty-web@9.0.2?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-jetty-web@9.0.3?type=war

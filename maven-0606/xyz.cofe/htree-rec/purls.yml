@@ -4,3 +4,5 @@
 - pkg:maven/xyz.cofe/htree-rec@3.1?classifier=sources
 - pkg:maven/xyz.cofe/htree-rec@4.0
 - pkg:maven/xyz.cofe/htree-rec@4.0?classifier=sources
+- pkg:maven/xyz.cofe/htree-rec@4.1
+- pkg:maven/xyz.cofe/htree-rec@4.1?classifier=sources

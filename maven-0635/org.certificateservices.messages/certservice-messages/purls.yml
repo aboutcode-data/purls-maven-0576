@@ -8,4 +8,5 @@
 - pkg:maven/org.certificateservices.messages/certservice-messages@2405.1?classifier=sources
 - pkg:maven/org.certificateservices.messages/certservice-messages@2405.2?classifier=sources
 - pkg:maven/org.certificateservices.messages/certservice-messages@2408.1?classifier=sources
+- pkg:maven/org.certificateservices.messages/certservice-messages@2411.2?classifier=sources
 - pkg:maven/org.certificateservices.messages/certservice-messages@v2402.1?classifier=sources

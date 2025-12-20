@@ -61,3 +61,6 @@
 - pkg:maven/org.saynotobugs/confidence-incubator@0.56.0?classifier=sources
 - pkg:maven/org.saynotobugs/confidence-incubator@0.57.0?classifier=sources
 - pkg:maven/org.saynotobugs/confidence-incubator@0.58.0?classifier=sources
+- pkg:maven/org.saynotobugs/confidence-incubator@0.59.0?classifier=sources
+- pkg:maven/org.saynotobugs/confidence-incubator@0.60.0?classifier=sources
+- pkg:maven/org.saynotobugs/confidence-incubator@0.61.0?classifier=sources

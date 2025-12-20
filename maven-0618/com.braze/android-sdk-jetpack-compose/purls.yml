@@ -7,3 +7,4 @@
 - pkg:maven/com.braze/android-sdk-jetpack-compose@32.1.0?classifier=sources
 - pkg:maven/com.braze/android-sdk-jetpack-compose@33.0.0?classifier=sources
 - pkg:maven/com.braze/android-sdk-jetpack-compose@33.1.0?classifier=sources
+- pkg:maven/com.braze/android-sdk-jetpack-compose@34.0.0?classifier=sources

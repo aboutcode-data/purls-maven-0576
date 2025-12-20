@@ -1,0 +1,4 @@
+- pkg:maven/dev.cel/protobuf@0.9.1
+- pkg:maven/dev.cel/protobuf@0.9.1-proto3
+- pkg:maven/dev.cel/protobuf@0.9.1-proto3?classifier=sources
+- pkg:maven/dev.cel/protobuf@0.9.1?classifier=sources

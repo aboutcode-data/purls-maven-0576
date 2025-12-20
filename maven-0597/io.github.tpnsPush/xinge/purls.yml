@@ -18,3 +18,7 @@
 - pkg:maven/io.github.tpnsPush/xinge@1.2.4.19?classifier=sources
 - pkg:maven/io.github.tpnsPush/xinge@1.2.4.20
 - pkg:maven/io.github.tpnsPush/xinge@1.2.4.20?classifier=sources
+- pkg:maven/io.github.tpnsPush/xinge@1.2.4.21
+- pkg:maven/io.github.tpnsPush/xinge@1.2.4.21?classifier=sources
+- pkg:maven/io.github.tpnsPush/xinge@1.2.4.22
+- pkg:maven/io.github.tpnsPush/xinge@1.2.4.22?classifier=sources

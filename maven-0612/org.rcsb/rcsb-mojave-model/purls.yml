@@ -16,3 +16,7 @@
 - pkg:maven/org.rcsb/rcsb-mojave-model@1.47.6?classifier=sources
 - pkg:maven/org.rcsb/rcsb-mojave-model@1.47.7
 - pkg:maven/org.rcsb/rcsb-mojave-model@1.47.7?classifier=sources
+- pkg:maven/org.rcsb/rcsb-mojave-model@1.48.0
+- pkg:maven/org.rcsb/rcsb-mojave-model@1.48.0?classifier=sources
+- pkg:maven/org.rcsb/rcsb-mojave-model@1.48.1
+- pkg:maven/org.rcsb/rcsb-mojave-model@1.48.1?classifier=sources

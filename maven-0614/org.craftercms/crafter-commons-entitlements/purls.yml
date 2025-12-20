@@ -184,3 +184,5 @@
 - pkg:maven/org.craftercms/crafter-commons-entitlements@4.1.8
 - pkg:maven/org.craftercms/crafter-commons-entitlements@4.1.9
 - pkg:maven/org.craftercms/crafter-commons-entitlements@4.2.0
+- pkg:maven/org.craftercms/crafter-commons-entitlements@4.2.1
+- pkg:maven/org.craftercms/crafter-commons-entitlements@4.2.2

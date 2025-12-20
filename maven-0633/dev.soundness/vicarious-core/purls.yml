@@ -1,0 +1,2 @@
+- pkg:maven/dev.soundness/vicarious-core@0.24.0
+- pkg:maven/dev.soundness/vicarious-core@0.24.0?classifier=sources

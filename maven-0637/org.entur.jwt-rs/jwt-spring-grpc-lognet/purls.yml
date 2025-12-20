@@ -1,0 +1,4 @@
+- pkg:maven/org.entur.jwt-rs/jwt-spring-grpc-lognet@5.0.0
+- pkg:maven/org.entur.jwt-rs/jwt-spring-grpc-lognet@5.0.0?classifier=sources
+- pkg:maven/org.entur.jwt-rs/jwt-spring-grpc-lognet@5.0.1
+- pkg:maven/org.entur.jwt-rs/jwt-spring-grpc-lognet@5.0.1?classifier=sources

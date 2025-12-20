@@ -21,3 +21,4 @@
 - pkg:maven/org.dstadler/commons-htmlunit@1.0.0.9?classifier=sources
 - pkg:maven/org.dstadler/commons-htmlunit@1.1.0.0?classifier=sources
 - pkg:maven/org.dstadler/commons-htmlunit@1.1.0.1?classifier=sources
+- pkg:maven/org.dstadler/commons-htmlunit@1.2.0.1?classifier=sources

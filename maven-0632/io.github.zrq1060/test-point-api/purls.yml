@@ -5,3 +5,4 @@
 - pkg:maven/io.github.zrq1060/test-point-api@0.0.1-test2?classifier=sources
 - pkg:maven/io.github.zrq1060/test-point-api@0.0.1-test3?classifier=sources
 - pkg:maven/io.github.zrq1060/test-point-api@0.0.1-test4?classifier=sources
+- pkg:maven/io.github.zrq1060/test-point-api@0.0.1?classifier=sources

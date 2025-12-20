@@ -1,0 +1,2 @@
+- pkg:maven/io.mokamint/io-mokamint-miner-remote-api@1.2.0
+- pkg:maven/io.mokamint/io-mokamint-miner-remote-api@1.2.0?classifier=sources

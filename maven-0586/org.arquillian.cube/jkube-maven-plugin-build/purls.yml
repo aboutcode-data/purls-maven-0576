@@ -1,0 +1,1 @@
+- pkg:maven/org.arquillian.cube/jkube-maven-plugin-build@2.0.0.Alpha1?classifier=sources

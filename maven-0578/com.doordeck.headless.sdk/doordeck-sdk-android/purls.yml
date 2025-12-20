@@ -13,3 +13,12 @@
 - pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-android@0.49.0?classifier=sources
 - pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-android@0.50.0?classifier=sources
 - pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-android@0.51.0?classifier=sources
+- pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-android@0.52.0?classifier=sources
+- pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-android@0.53.0?classifier=sources
+- pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-android@0.54.0?classifier=sources
+- pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-android@0.55.0?classifier=sources
+- pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-android@0.56.0?classifier=sources
+- pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-android@0.57.0?classifier=sources
+- pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-android@0.58.0?classifier=sources
+- pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-android@0.59.0?classifier=sources
+- pkg:maven/com.doordeck.headless.sdk/doordeck-sdk-android@0.60.0?classifier=sources

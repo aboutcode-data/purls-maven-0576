@@ -1,0 +1,2 @@
+- pkg:maven/se.swedenconnect.eidas/eidas-attribute-handling@2.0.0
+- pkg:maven/se.swedenconnect.eidas/eidas-attribute-handling@2.0.0?classifier=sources

@@ -62,6 +62,8 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/python-package-manager@43.0.1?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/python-package-manager@43.0.2?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/python-package-manager@44.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/python-package-manager@45.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/python-package-manager@46.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/python-package-manager@5.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/python-package-manager@5.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/python-package-manager@6.0.0?classifier=sources

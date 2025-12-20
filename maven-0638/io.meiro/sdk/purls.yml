@@ -6,3 +6,4 @@
 - pkg:maven/io.meiro/sdk@1.0.1-stage?classifier=sources
 - pkg:maven/io.meiro/sdk@1.0.1?classifier=sources
 - pkg:maven/io.meiro/sdk@1.1.0-stage?classifier=sources
+- pkg:maven/io.meiro/sdk@1.1.0?classifier=sources

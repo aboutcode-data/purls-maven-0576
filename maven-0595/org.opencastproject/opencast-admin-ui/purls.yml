@@ -162,6 +162,8 @@
 - pkg:maven/org.opencastproject/opencast-admin-ui@16.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-admin-ui@16.7
 - pkg:maven/org.opencastproject/opencast-admin-ui@16.7?classifier=sources
+- pkg:maven/org.opencastproject/opencast-admin-ui@16.8
+- pkg:maven/org.opencastproject/opencast-admin-ui@16.8?classifier=sources
 - pkg:maven/org.opencastproject/opencast-admin-ui@6.6
 - pkg:maven/org.opencastproject/opencast-admin-ui@6.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-admin-ui@7.2

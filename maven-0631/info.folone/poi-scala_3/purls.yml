@@ -4,3 +4,5 @@
 - pkg:maven/info.folone/poi-scala_3@0.23?classifier=sources
 - pkg:maven/info.folone/poi-scala_3@0.24
 - pkg:maven/info.folone/poi-scala_3@0.24?classifier=sources
+- pkg:maven/info.folone/poi-scala_3@0.25
+- pkg:maven/info.folone/poi-scala_3@0.25?classifier=sources

@@ -27,3 +27,4 @@
 - pkg:maven/si.inova.kotlinova/retrofit-test-jvm@3.3.0?classifier=sources
 - pkg:maven/si.inova.kotlinova/retrofit-test-jvm@4.0.0-alpha01?classifier=sources
 - pkg:maven/si.inova.kotlinova/retrofit-test-jvm@4.0.0-alpha02?classifier=sources
+- pkg:maven/si.inova.kotlinova/retrofit-test-jvm@4.0.0-alpha03?classifier=sources

@@ -1,2 +1,4 @@
+- pkg:maven/com.phasmidsoftware/flog_2.13@1.0.10
+- pkg:maven/com.phasmidsoftware/flog_2.13@1.0.10?classifier=sources
 - pkg:maven/com.phasmidsoftware/flog_2.13@1.0.8
 - pkg:maven/com.phasmidsoftware/flog_2.13@1.0.8?classifier=sources

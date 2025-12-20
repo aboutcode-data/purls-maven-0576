@@ -8,6 +8,8 @@
 - pkg:maven/team.mke/mke-utils-jvm@2.1.4?classifier=sources
 - pkg:maven/team.mke/mke-utils-jvm@2.10.1?classifier=sources
 - pkg:maven/team.mke/mke-utils-jvm@2.11.0?classifier=sources
+- pkg:maven/team.mke/mke-utils-jvm@2.11.1?classifier=sources
+- pkg:maven/team.mke/mke-utils-jvm@2.11.2?classifier=sources
 - pkg:maven/team.mke/mke-utils-jvm@2.2.0?classifier=sources
 - pkg:maven/team.mke/mke-utils-jvm@2.3.0?classifier=sources
 - pkg:maven/team.mke/mke-utils-jvm@2.4.0?classifier=sources

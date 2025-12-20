@@ -37,6 +37,9 @@
 - pkg:maven/com.flowlogix/checkstyle@43
 - pkg:maven/com.flowlogix/checkstyle@44
 - pkg:maven/com.flowlogix/checkstyle@45
+- pkg:maven/com.flowlogix/checkstyle@46
+- pkg:maven/com.flowlogix/checkstyle@47
+- pkg:maven/com.flowlogix/checkstyle@48
 - pkg:maven/com.flowlogix/checkstyle@6
 - pkg:maven/com.flowlogix/checkstyle@7
 - pkg:maven/com.flowlogix/checkstyle@8

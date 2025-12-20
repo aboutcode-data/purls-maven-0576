@@ -6,3 +6,5 @@
 - pkg:maven/com.synerset/brent-dekker-solver@1.2.0?classifier=sources
 - pkg:maven/com.synerset/brent-dekker-solver@2.0.0
 - pkg:maven/com.synerset/brent-dekker-solver@2.0.0?classifier=sources
+- pkg:maven/com.synerset/brent-dekker-solver@2.0.1
+- pkg:maven/com.synerset/brent-dekker-solver@2.0.1?classifier=sources

@@ -82,3 +82,7 @@
 - pkg:maven/org.redisson/redisson-quarkus-30-integration-tests@3.40.2?classifier=sources
 - pkg:maven/org.redisson/redisson-quarkus-30-integration-tests@3.41.0
 - pkg:maven/org.redisson/redisson-quarkus-30-integration-tests@3.41.0?classifier=sources
+- pkg:maven/org.redisson/redisson-quarkus-30-integration-tests@3.42.0
+- pkg:maven/org.redisson/redisson-quarkus-30-integration-tests@3.42.0?classifier=sources
+- pkg:maven/org.redisson/redisson-quarkus-30-integration-tests@3.43.0
+- pkg:maven/org.redisson/redisson-quarkus-30-integration-tests@3.43.0?classifier=sources

@@ -69,8 +69,14 @@
 - pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.25-PREVIEW.reproduce-json-protocol-issue.2024-12-06T1741.d595ef98
 - pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.25-PREVIEW.reproduce-json-protocol-issue.2024-12-06T1741.d595ef98?classifier=sources
 - pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.25?classifier=sources
+- pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.26
 - pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.26-PREVIEW.upgrade-aws-sdk-version-to-avoid-json-protocol-conflicts.2024-12-11T1530.5169c828
 - pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.26-PREVIEW.upgrade-aws-sdk-version-to-avoid-json-protocol-conflicts.2024-12-11T1530.5169c828?classifier=sources
+- pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.26-PREVIEW.upgrade-aws-sdk-version-to-avoid-json-protocol-conflicts.2025-01-08T1159.b870d366
+- pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.26-PREVIEW.upgrade-aws-sdk-version-to-avoid-json-protocol-conflicts.2025-01-08T1159.b870d366?classifier=sources
+- pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.26-PREVIEW.upgrade-aws-sdk-version-to-avoid-json-protocol-conflicts.2025-01-08T1221.e0188d31
+- pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.26-PREVIEW.upgrade-aws-sdk-version-to-avoid-json-protocol-conflicts.2025-01-08T1221.e0188d31?classifier=sources
+- pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.26?classifier=sources
 - pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.2?classifier=sources
 - pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.3
 - pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.3?classifier=sources

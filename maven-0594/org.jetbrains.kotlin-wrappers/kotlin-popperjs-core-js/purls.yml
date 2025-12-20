@@ -61,3 +61,14 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-popperjs-core-js@2.11.8-pre.853?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-popperjs-core-js@2.11.8-pre.854?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-popperjs-core-js@2.11.8-pre.855?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-popperjs-core-js@2.11.8-pre.856?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-popperjs-core-js@2.11.8-pre.857?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-popperjs-core-js@2.11.8-pre.858?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-popperjs-core-js@2.11.8-pre.859?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-popperjs-core-js@2.11.8-pre.860?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-popperjs-core-js@2025.1.0-2.11.8?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-popperjs-core-js@2025.1.1-2.11.8?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-popperjs-core-js@2025.1.2-2.11.8?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-popperjs-core-js@2025.1.3-2.11.8?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-popperjs-core-js@2025.1.4-2.11.8?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-popperjs-core-js@2025.1.5-2.11.8?classifier=sources

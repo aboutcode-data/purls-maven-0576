@@ -4,3 +4,5 @@
 - pkg:maven/run.mone/docean-plugin-k8s@1.5.0-jdk21?classifier=sources
 - pkg:maven/run.mone/docean-plugin-k8s@1.5.1-jdk21
 - pkg:maven/run.mone/docean-plugin-k8s@1.5.1-jdk21?classifier=sources
+- pkg:maven/run.mone/docean-plugin-k8s@1.6.1-jdk21
+- pkg:maven/run.mone/docean-plugin-k8s@1.6.1-jdk21?classifier=sources

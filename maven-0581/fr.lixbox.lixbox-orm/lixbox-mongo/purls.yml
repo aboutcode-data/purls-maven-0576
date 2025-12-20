@@ -20,3 +20,4 @@
 - pkg:maven/fr.lixbox.lixbox-orm/lixbox-mongo@11.1.2.45?classifier=sources
 - pkg:maven/fr.lixbox.lixbox-orm/lixbox-mongo@11.1.2.4?classifier=sources
 - pkg:maven/fr.lixbox.lixbox-orm/lixbox-mongo@11.1.2.8?classifier=sources
+- pkg:maven/fr.lixbox.lixbox-orm/lixbox-mongo@11.2.0.52?classifier=sources

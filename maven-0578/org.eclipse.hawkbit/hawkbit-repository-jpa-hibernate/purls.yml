@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.hawkbit/hawkbit-repository-jpa-hibernate@0.7.0
+- pkg:maven/org.eclipse.hawkbit/hawkbit-repository-jpa-hibernate@0.7.0?classifier=sources

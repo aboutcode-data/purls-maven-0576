@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.hawkbit/hawkbit-mgmt-starter@0.7.0
+- pkg:maven/org.eclipse.hawkbit/hawkbit-mgmt-starter@0.7.0?classifier=sources

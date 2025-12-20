@@ -1,0 +1,11 @@
+- pkg:maven/io.github.gissehel.grafana/grafana-uploader@0.0.10?classifier=sources
+- pkg:maven/io.github.gissehel.grafana/grafana-uploader@0.0.11?classifier=sources
+- pkg:maven/io.github.gissehel.grafana/grafana-uploader@0.0.12?classifier=sources
+- pkg:maven/io.github.gissehel.grafana/grafana-uploader@0.0.13?classifier=sources
+- pkg:maven/io.github.gissehel.grafana/grafana-uploader@0.0.2?classifier=sources
+- pkg:maven/io.github.gissehel.grafana/grafana-uploader@0.0.4?classifier=sources
+- pkg:maven/io.github.gissehel.grafana/grafana-uploader@0.0.9?classifier=sources
+- pkg:maven/io.github.gissehel.grafana/grafana-uploader@0.1.0?classifier=sources
+- pkg:maven/io.github.gissehel.grafana/grafana-uploader@0.1.1?classifier=sources
+- pkg:maven/io.github.gissehel.grafana/grafana-uploader@0.1.2?classifier=sources
+- pkg:maven/io.github.gissehel.grafana/grafana-uploader@unspecified?classifier=sources

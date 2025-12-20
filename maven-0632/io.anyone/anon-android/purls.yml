@@ -1,1 +1,2 @@
+- pkg:maven/io.anyone/anon-android@0.4.9.10?classifier=sources
 - pkg:maven/io.anyone/anon-android@0.4.9.7?classifier=sources

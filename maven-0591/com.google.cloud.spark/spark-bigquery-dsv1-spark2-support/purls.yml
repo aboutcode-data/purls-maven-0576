@@ -50,3 +50,5 @@
 - pkg:maven/com.google.cloud.spark/spark-bigquery-dsv1-spark2-support@0.40.0?classifier=sources
 - pkg:maven/com.google.cloud.spark/spark-bigquery-dsv1-spark2-support@0.41.0
 - pkg:maven/com.google.cloud.spark/spark-bigquery-dsv1-spark2-support@0.41.0?classifier=sources
+- pkg:maven/com.google.cloud.spark/spark-bigquery-dsv1-spark2-support@0.41.1
+- pkg:maven/com.google.cloud.spark/spark-bigquery-dsv1-spark2-support@0.41.1?classifier=sources

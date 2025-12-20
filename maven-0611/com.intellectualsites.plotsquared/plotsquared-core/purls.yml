@@ -19,3 +19,4 @@
 - pkg:maven/com.intellectualsites.plotsquared/plotsquared-core@7.3.8?classifier=sources
 - pkg:maven/com.intellectualsites.plotsquared/plotsquared-core@7.3.9?classifier=sources
 - pkg:maven/com.intellectualsites.plotsquared/plotsquared-core@7.4.0?classifier=sources
+- pkg:maven/com.intellectualsites.plotsquared/plotsquared-core@7.4.1?classifier=sources

@@ -461,3 +461,4 @@
 - pkg:maven/org.springframework/spring-beans@6.1.9?classifier=sources
 - pkg:maven/org.springframework/spring-beans@6.2.0?classifier=sources
 - pkg:maven/org.springframework/spring-beans@6.2.1?classifier=sources
+- pkg:maven/org.springframework/spring-beans@6.2.2?classifier=sources

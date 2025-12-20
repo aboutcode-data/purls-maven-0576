@@ -72,3 +72,5 @@
 - pkg:maven/io.jooby/jooby-log4j@3.5.4?classifier=sources
 - pkg:maven/io.jooby/jooby-log4j@3.5.5
 - pkg:maven/io.jooby/jooby-log4j@3.5.5?classifier=sources
+- pkg:maven/io.jooby/jooby-log4j@3.6.0
+- pkg:maven/io.jooby/jooby-log4j@3.6.0?classifier=sources

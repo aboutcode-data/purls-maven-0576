@@ -14,3 +14,5 @@
 - pkg:maven/org.jolokia/jolokia-example-client-javascript-test-app@2.1.1?type=war
 - pkg:maven/org.jolokia/jolokia-example-client-javascript-test-app@2.1.2?classifier=sources
 - pkg:maven/org.jolokia/jolokia-example-client-javascript-test-app@2.1.2?type=war
+- pkg:maven/org.jolokia/jolokia-example-client-javascript-test-app@2.2.0?classifier=sources
+- pkg:maven/org.jolokia/jolokia-example-client-javascript-test-app@2.2.0?type=war

@@ -15,4 +15,6 @@
 - pkg:maven/com.gradle/develocity-maven-extension@1.22.2?classifier=sources
 - pkg:maven/com.gradle/develocity-maven-extension@1.22?classifier=sources
 - pkg:maven/com.gradle/develocity-maven-extension@1.23
+- pkg:maven/com.gradle/develocity-maven-extension@1.23.1
+- pkg:maven/com.gradle/develocity-maven-extension@1.23.1?classifier=sources
 - pkg:maven/com.gradle/develocity-maven-extension@1.23?classifier=sources

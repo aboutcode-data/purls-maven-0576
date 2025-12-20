@@ -34,3 +34,5 @@
 - pkg:maven/io.hotmoka.websockets/io-hotmoka-websockets-client@1.5.0?classifier=sources
 - pkg:maven/io.hotmoka.websockets/io-hotmoka-websockets-client@1.6.0
 - pkg:maven/io.hotmoka.websockets/io-hotmoka-websockets-client@1.6.0?classifier=sources
+- pkg:maven/io.hotmoka.websockets/io-hotmoka-websockets-client@1.6.1
+- pkg:maven/io.hotmoka.websockets/io-hotmoka-websockets-client@1.6.1?classifier=sources

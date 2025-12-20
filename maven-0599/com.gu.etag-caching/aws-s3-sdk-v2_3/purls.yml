@@ -172,3 +172,7 @@
 - pkg:maven/com.gu.etag-caching/aws-s3-sdk-v2_3@6.0.0-PREVIEW.updateaws.2024-11-07T1407.0ffde07b
 - pkg:maven/com.gu.etag-caching/aws-s3-sdk-v2_3@6.0.0-PREVIEW.updateaws.2024-11-07T1407.0ffde07b?classifier=sources
 - pkg:maven/com.gu.etag-caching/aws-s3-sdk-v2_3@6.0.0?classifier=sources
+- pkg:maven/com.gu.etag-caching/aws-s3-sdk-v2_3@7.0.0
+- pkg:maven/com.gu.etag-caching/aws-s3-sdk-v2_3@7.0.0?classifier=sources
+- pkg:maven/com.gu.etag-caching/aws-s3-sdk-v2_3@7.0.1
+- pkg:maven/com.gu.etag-caching/aws-s3-sdk-v2_3@7.0.1?classifier=sources

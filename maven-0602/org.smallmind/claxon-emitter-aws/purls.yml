@@ -78,3 +78,5 @@
 - pkg:maven/org.smallmind/claxon-emitter-aws@6.1.0?classifier=sources
 - pkg:maven/org.smallmind/claxon-emitter-aws@6.2.0
 - pkg:maven/org.smallmind/claxon-emitter-aws@6.2.0?classifier=sources
+- pkg:maven/org.smallmind/claxon-emitter-aws@6.3.0
+- pkg:maven/org.smallmind/claxon-emitter-aws@6.3.0?classifier=sources

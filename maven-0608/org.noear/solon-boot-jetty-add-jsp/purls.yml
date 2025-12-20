@@ -44,3 +44,10 @@
 - pkg:maven/org.noear/solon-boot-jetty-add-jsp@3.0.5-M1
 - pkg:maven/org.noear/solon-boot-jetty-add-jsp@3.0.5-M2
 - pkg:maven/org.noear/solon-boot-jetty-add-jsp@3.0.5-M3
+- pkg:maven/org.noear/solon-boot-jetty-add-jsp@3.0.6
+- pkg:maven/org.noear/solon-boot-jetty-add-jsp@3.0.6-M1
+- pkg:maven/org.noear/solon-boot-jetty-add-jsp@3.0.6-M2
+- pkg:maven/org.noear/solon-boot-jetty-add-jsp@3.0.6-M3
+- pkg:maven/org.noear/solon-boot-jetty-add-jsp@3.0.6-RC
+- pkg:maven/org.noear/solon-boot-jetty-add-jsp@3.0.6-RC2
+- pkg:maven/org.noear/solon-boot-jetty-add-jsp@3.0.7-M1

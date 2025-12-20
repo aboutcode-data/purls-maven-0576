@@ -1,2 +1,4 @@
 - pkg:maven/br.org.soujava/pom-editor-maven-plugin@0.0.3
 - pkg:maven/br.org.soujava/pom-editor-maven-plugin@0.0.3?classifier=sources
+- pkg:maven/br.org.soujava/pom-editor-maven-plugin@1.0.0
+- pkg:maven/br.org.soujava/pom-editor-maven-plugin@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.randomnoun.sshj/sshj@0.39.0-randomnoun-1
+- pkg:maven/com.randomnoun.sshj/sshj@0.39.0-randomnoun-1?classifier=sources

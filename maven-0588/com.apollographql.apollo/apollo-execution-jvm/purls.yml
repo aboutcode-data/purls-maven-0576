@@ -1,0 +1,1 @@
+- pkg:maven/com.apollographql.apollo/apollo-execution-jvm@4.1.1?classifier=sources

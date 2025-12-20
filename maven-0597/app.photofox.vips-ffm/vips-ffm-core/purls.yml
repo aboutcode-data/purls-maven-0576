@@ -27,3 +27,4 @@
 - pkg:maven/app.photofox.vips-ffm/vips-ffm-core@1.2.2?classifier=sources
 - pkg:maven/app.photofox.vips-ffm/vips-ffm-core@1.3.0?classifier=sources
 - pkg:maven/app.photofox.vips-ffm/vips-ffm-core@1.4.0?classifier=sources
+- pkg:maven/app.photofox.vips-ffm/vips-ffm-core@1.5.0?classifier=sources

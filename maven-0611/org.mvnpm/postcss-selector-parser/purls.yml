@@ -1,3 +1,4 @@
+- pkg:maven/org.mvnpm/postcss-selector-parser@1.0.1?classifier=sources
 - pkg:maven/org.mvnpm/postcss-selector-parser@6.0.11?classifier=sources
 - pkg:maven/org.mvnpm/postcss-selector-parser@6.0.12?classifier=sources
 - pkg:maven/org.mvnpm/postcss-selector-parser@6.0.13?classifier=sources
@@ -5,3 +6,4 @@
 - pkg:maven/org.mvnpm/postcss-selector-parser@6.0.15?classifier=sources
 - pkg:maven/org.mvnpm/postcss-selector-parser@6.0.16?classifier=sources
 - pkg:maven/org.mvnpm/postcss-selector-parser@6.1.0?classifier=sources
+- pkg:maven/org.mvnpm/postcss-selector-parser@6.1.2?classifier=sources

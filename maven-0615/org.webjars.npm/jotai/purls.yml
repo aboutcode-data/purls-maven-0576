@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/jotai@1.3.9
 - pkg:maven/org.webjars.npm/jotai@1.3.9?classifier=sources
+- pkg:maven/org.webjars.npm/jotai@2.0.0
+- pkg:maven/org.webjars.npm/jotai@2.11.0

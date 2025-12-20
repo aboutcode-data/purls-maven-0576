@@ -81,3 +81,4 @@
 - pkg:maven/com.tencent.imsdk/imsdk-plus@8.2.6325?classifier=sources
 - pkg:maven/com.tencent.imsdk/imsdk-plus@8.2.6333?classifier=sources
 - pkg:maven/com.tencent.imsdk/imsdk-plus@8.3.6498?classifier=sources
+- pkg:maven/com.tencent.imsdk/imsdk-plus@8.4.6667?classifier=sources

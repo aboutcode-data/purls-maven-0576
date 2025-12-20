@@ -99,6 +99,10 @@
 - pkg:maven/org.wso2.maven/wso2-maven-package-prepare-plugin@5.2.74?classifier=sources
 - pkg:maven/org.wso2.maven/wso2-maven-package-prepare-plugin@5.2.7?classifier=sources
 - pkg:maven/org.wso2.maven/wso2-maven-package-prepare-plugin@5.2.8
+- pkg:maven/org.wso2.maven/wso2-maven-package-prepare-plugin@5.2.83
+- pkg:maven/org.wso2.maven/wso2-maven-package-prepare-plugin@5.2.83?classifier=sources
+- pkg:maven/org.wso2.maven/wso2-maven-package-prepare-plugin@5.2.84
+- pkg:maven/org.wso2.maven/wso2-maven-package-prepare-plugin@5.2.84?classifier=sources
 - pkg:maven/org.wso2.maven/wso2-maven-package-prepare-plugin@5.2.8?classifier=sources
 - pkg:maven/org.wso2.maven/wso2-maven-package-prepare-plugin@5.2.9
 - pkg:maven/org.wso2.maven/wso2-maven-package-prepare-plugin@5.2.9?classifier=sources

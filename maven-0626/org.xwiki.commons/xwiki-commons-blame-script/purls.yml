@@ -440,6 +440,8 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-blame-script@15.10.14?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-blame-script@15.10.15
 - pkg:maven/org.xwiki.commons/xwiki-commons-blame-script@15.10.15?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-blame-script@15.10.16
+- pkg:maven/org.xwiki.commons/xwiki-commons-blame-script@15.10.16?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-blame-script@15.10.1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-blame-script@15.10.2
 - pkg:maven/org.xwiki.commons/xwiki-commons-blame-script@15.10.2?classifier=sources
@@ -515,6 +517,8 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-blame-script@16.10.0?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-blame-script@16.10.1
 - pkg:maven/org.xwiki.commons/xwiki-commons-blame-script@16.10.1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-blame-script@16.10.2
+- pkg:maven/org.xwiki.commons/xwiki-commons-blame-script@16.10.2?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-blame-script@16.2.0
 - pkg:maven/org.xwiki.commons/xwiki-commons-blame-script@16.2.0-rc-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-blame-script@16.2.0-rc-1?classifier=sources
@@ -561,6 +565,8 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-blame-script@16.9.0-rc-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-blame-script@16.9.0-rc-1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-blame-script@16.9.0?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-blame-script@17.0.0-rc-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-blame-script@17.0.0-rc-1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-blame-script@6.2
 - pkg:maven/org.xwiki.commons/xwiki-commons-blame-script@6.2-milestone-2
 - pkg:maven/org.xwiki.commons/xwiki-commons-blame-script@6.2-milestone-2?classifier=sources

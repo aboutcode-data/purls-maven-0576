@@ -6,3 +6,4 @@
 - pkg:maven/org.carlspring.cloud.aws/s3fs-nio@1.0.5?classifier=sources
 - pkg:maven/org.carlspring.cloud.aws/s3fs-nio@1.0.6?classifier=sources
 - pkg:maven/org.carlspring.cloud.aws/s3fs-nio@2.0.0?classifier=sources
+- pkg:maven/org.carlspring.cloud.aws/s3fs-nio@3.0.0?classifier=sources

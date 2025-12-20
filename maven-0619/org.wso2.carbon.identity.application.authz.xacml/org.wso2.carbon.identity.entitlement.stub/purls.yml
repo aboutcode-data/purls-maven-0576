@@ -1,0 +1,4 @@
+- pkg:maven/org.wso2.carbon.identity.application.authz.xacml/org.wso2.carbon.identity.entitlement.stub@2.4.6
+- pkg:maven/org.wso2.carbon.identity.application.authz.xacml/org.wso2.carbon.identity.entitlement.stub@2.4.6?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.application.authz.xacml/org.wso2.carbon.identity.entitlement.stub@2.4.7
+- pkg:maven/org.wso2.carbon.identity.application.authz.xacml/org.wso2.carbon.identity.entitlement.stub@2.4.7?classifier=sources

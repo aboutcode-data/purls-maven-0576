@@ -70,6 +70,7 @@
 - pkg:maven/org.apache.beam/beam-runners-extensions-java-metrics@2.6.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-runners-extensions-java-metrics@2.60.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-runners-extensions-java-metrics@2.61.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-runners-extensions-java-metrics@2.62.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-runners-extensions-java-metrics@2.7.0
 - pkg:maven/org.apache.beam/beam-runners-extensions-java-metrics@2.7.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-runners-extensions-java-metrics@2.8.0

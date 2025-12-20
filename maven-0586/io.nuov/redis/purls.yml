@@ -24,4 +24,5 @@
 - pkg:maven/io.nuov/redis@1.0.33?classifier=sources
 - pkg:maven/io.nuov/redis@1.0.34?classifier=sources
 - pkg:maven/io.nuov/redis@1.0.35?classifier=sources
+- pkg:maven/io.nuov/redis@1.0.37?classifier=sources
 - pkg:maven/io.nuov/redis@1.0.9?classifier=sources
