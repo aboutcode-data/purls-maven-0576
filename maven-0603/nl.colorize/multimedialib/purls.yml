@@ -45,3 +45,5 @@
 - pkg:maven/nl.colorize/multimedialib@2023.6?classifier=sources
 - pkg:maven/nl.colorize/multimedialib@2023.7?classifier=sources
 - pkg:maven/nl.colorize/multimedialib@2023.8?classifier=sources
+- pkg:maven/nl.colorize/multimedialib@2023.9?classifier=sources
+- pkg:maven/nl.colorize/multimedialib@2024.1?classifier=sources

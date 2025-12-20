@@ -58,3 +58,9 @@
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-apple-identity-provider@4.0?classifier=sources
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-apple-identity-provider@4.1
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-apple-identity-provider@4.1?classifier=sources
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-apple-identity-provider@4.2
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-apple-identity-provider@4.2?classifier=sources
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-apple-identity-provider@4.4
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-apple-identity-provider@4.4?classifier=sources
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-apple-identity-provider@4.5
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-apple-identity-provider@4.5?classifier=sources

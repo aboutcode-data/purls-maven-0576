@@ -30,3 +30,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.http.jetty@3.8.200?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.http.jetty@3.8.300
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.http.jetty@3.8.300?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.http.jetty@3.9.0
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.http.jetty@3.9.0?classifier=sources

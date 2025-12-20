@@ -51,4 +51,8 @@
 - pkg:maven/io.appform.dropwizard.sharding/db-sharding-bundle@2.0.28-8-SCROLL-RC2?classifier=sources
 - pkg:maven/io.appform.dropwizard.sharding/db-sharding-bundle@2.0.28-8?classifier=sources
 - pkg:maven/io.appform.dropwizard.sharding/db-sharding-bundle@2.0.28-9
+- pkg:maven/io.appform.dropwizard.sharding/db-sharding-bundle@2.0.28-9-SCROLL-RC3
+- pkg:maven/io.appform.dropwizard.sharding/db-sharding-bundle@2.0.28-9-SCROLL-RC3?classifier=sources
 - pkg:maven/io.appform.dropwizard.sharding/db-sharding-bundle@2.0.28-9?classifier=sources
+- pkg:maven/io.appform.dropwizard.sharding/db-sharding-bundle@2.1.10-1
+- pkg:maven/io.appform.dropwizard.sharding/db-sharding-bundle@2.1.10-1?classifier=sources

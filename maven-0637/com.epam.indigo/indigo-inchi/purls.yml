@@ -56,6 +56,14 @@
 - pkg:maven/com.epam.indigo/indigo-inchi@1.15.0-rc.2?classifier=sources
 - pkg:maven/com.epam.indigo/indigo-inchi@1.16.0-rc.1
 - pkg:maven/com.epam.indigo/indigo-inchi@1.16.0-rc.1?classifier=sources
+- pkg:maven/com.epam.indigo/indigo-inchi@1.16.0-rc.2
+- pkg:maven/com.epam.indigo/indigo-inchi@1.16.0-rc.2?classifier=sources
+- pkg:maven/com.epam.indigo/indigo-inchi@1.16.0-rc.3
+- pkg:maven/com.epam.indigo/indigo-inchi@1.16.0-rc.3?classifier=sources
+- pkg:maven/com.epam.indigo/indigo-inchi@1.17.0-rc.1
+- pkg:maven/com.epam.indigo/indigo-inchi@1.17.0-rc.1?classifier=sources
+- pkg:maven/com.epam.indigo/indigo-inchi@1.17.0-rc.2
+- pkg:maven/com.epam.indigo/indigo-inchi@1.17.0-rc.2?classifier=sources
 - pkg:maven/com.epam.indigo/indigo-inchi@1.2.2beta-r1
 - pkg:maven/com.epam.indigo/indigo-inchi@1.2.2beta-r13
 - pkg:maven/com.epam.indigo/indigo-inchi@1.2.2beta-r13?classifier=sources

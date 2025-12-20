@@ -78,4 +78,5 @@
 - pkg:maven/org.talend.sdk.component/reporting@1.61.2
 - pkg:maven/org.talend.sdk.component/reporting@1.62.0
 - pkg:maven/org.talend.sdk.component/reporting@1.62.1
+- pkg:maven/org.talend.sdk.component/reporting@1.63.0
 - pkg:maven/org.talend.sdk.component/reporting@10.57.0

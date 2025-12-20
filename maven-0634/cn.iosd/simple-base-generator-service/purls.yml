@@ -1,0 +1,2 @@
+- pkg:maven/cn.iosd/simple-base-generator-service@2023.5.2.0
+- pkg:maven/cn.iosd/simple-base-generator-service@2023.5.2.0?classifier=sources

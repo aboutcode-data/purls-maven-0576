@@ -1,0 +1,4 @@
+- pkg:maven/fr.lecomptoirdespharmacies/medipim-java-sdk@1.0.0
+- pkg:maven/fr.lecomptoirdespharmacies/medipim-java-sdk@1.0.0?classifier=sources
+- pkg:maven/fr.lecomptoirdespharmacies/medipim-java-sdk@1.0.1
+- pkg:maven/fr.lecomptoirdespharmacies/medipim-java-sdk@1.0.1?classifier=sources

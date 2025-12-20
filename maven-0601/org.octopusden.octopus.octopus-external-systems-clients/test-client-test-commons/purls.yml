@@ -9,3 +9,5 @@
 - pkg:maven/org.octopusden.octopus.octopus-external-systems-clients/test-client-test-commons@2.0.21?classifier=sources
 - pkg:maven/org.octopusden.octopus.octopus-external-systems-clients/test-client-test-commons@2.0.22?classifier=sources
 - pkg:maven/org.octopusden.octopus.octopus-external-systems-clients/test-client-test-commons@2.0.23?classifier=sources
+- pkg:maven/org.octopusden.octopus.octopus-external-systems-clients/test-client-test-commons@2.0.24?classifier=sources
+- pkg:maven/org.octopusden.octopus.octopus-external-systems-clients/test-client-test-commons@2.0.25?classifier=sources

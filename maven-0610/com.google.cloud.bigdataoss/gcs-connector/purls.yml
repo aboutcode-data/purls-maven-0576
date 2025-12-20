@@ -140,8 +140,10 @@
 - pkg:maven/com.google.cloud.bigdataoss/gcs-connector@1.9.4-hadoop2?classifier=sources
 - pkg:maven/com.google.cloud.bigdataoss/gcs-connector@1.9.4-hadoop3
 - pkg:maven/com.google.cloud.bigdataoss/gcs-connector@1.9.4-hadoop3?classifier=sources
+- pkg:maven/com.google.cloud.bigdataoss/gcs-connector@3.0.0
 - pkg:maven/com.google.cloud.bigdataoss/gcs-connector@3.0.0-RC01
 - pkg:maven/com.google.cloud.bigdataoss/gcs-connector@3.0.0-RC01?classifier=sources
+- pkg:maven/com.google.cloud.bigdataoss/gcs-connector@3.0.0?classifier=sources
 - pkg:maven/com.google.cloud.bigdataoss/gcs-connector@hadoop1-1.9.10
 - pkg:maven/com.google.cloud.bigdataoss/gcs-connector@hadoop1-1.9.10?classifier=sources
 - pkg:maven/com.google.cloud.bigdataoss/gcs-connector@hadoop1-1.9.11

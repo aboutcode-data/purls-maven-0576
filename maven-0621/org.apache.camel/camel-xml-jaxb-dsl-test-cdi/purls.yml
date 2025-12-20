@@ -86,11 +86,17 @@
 - pkg:maven/org.apache.camel/camel-xml-jaxb-dsl-test-cdi@3.20.7?classifier=sources
 - pkg:maven/org.apache.camel/camel-xml-jaxb-dsl-test-cdi@3.20.8
 - pkg:maven/org.apache.camel/camel-xml-jaxb-dsl-test-cdi@3.20.8?classifier=sources
+- pkg:maven/org.apache.camel/camel-xml-jaxb-dsl-test-cdi@3.20.9
+- pkg:maven/org.apache.camel/camel-xml-jaxb-dsl-test-cdi@3.20.9?classifier=sources
 - pkg:maven/org.apache.camel/camel-xml-jaxb-dsl-test-cdi@3.21.0
 - pkg:maven/org.apache.camel/camel-xml-jaxb-dsl-test-cdi@3.21.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-xml-jaxb-dsl-test-cdi@3.21.1
 - pkg:maven/org.apache.camel/camel-xml-jaxb-dsl-test-cdi@3.21.1?classifier=sources
 - pkg:maven/org.apache.camel/camel-xml-jaxb-dsl-test-cdi@3.21.2
 - pkg:maven/org.apache.camel/camel-xml-jaxb-dsl-test-cdi@3.21.2?classifier=sources
+- pkg:maven/org.apache.camel/camel-xml-jaxb-dsl-test-cdi@3.21.3
+- pkg:maven/org.apache.camel/camel-xml-jaxb-dsl-test-cdi@3.21.3?classifier=sources
+- pkg:maven/org.apache.camel/camel-xml-jaxb-dsl-test-cdi@3.22.0
+- pkg:maven/org.apache.camel/camel-xml-jaxb-dsl-test-cdi@3.22.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-xml-jaxb-dsl-test-cdi@3.9.0
 - pkg:maven/org.apache.camel/camel-xml-jaxb-dsl-test-cdi@3.9.0?classifier=sources

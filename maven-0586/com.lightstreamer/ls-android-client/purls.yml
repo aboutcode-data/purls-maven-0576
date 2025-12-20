@@ -12,3 +12,5 @@
 - pkg:maven/com.lightstreamer/ls-android-client@5.0.0-beta.2?classifier=sources
 - pkg:maven/com.lightstreamer/ls-android-client@5.0.0-beta.3?classifier=sources
 - pkg:maven/com.lightstreamer/ls-android-client@5.0.0?classifier=sources
+- pkg:maven/com.lightstreamer/ls-android-client@5.1.0?classifier=sources
+- pkg:maven/com.lightstreamer/ls-android-client@5.1.1-a.1?classifier=sources

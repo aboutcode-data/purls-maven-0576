@@ -1,0 +1,2 @@
+- pkg:maven/com.oracle.microtx/TmmLib-jakarta@23.4.1
+- pkg:maven/com.oracle.microtx/TmmLib-jakarta@23.4.1?classifier=sources

@@ -274,3 +274,5 @@
 - pkg:maven/io.dekorate/dekorate-thorntail@4.0.3?classifier=sources
 - pkg:maven/io.dekorate/dekorate-thorntail@4.1.0
 - pkg:maven/io.dekorate/dekorate-thorntail@4.1.0?classifier=sources
+- pkg:maven/io.dekorate/dekorate-thorntail@4.1.1
+- pkg:maven/io.dekorate/dekorate-thorntail@4.1.1?classifier=sources

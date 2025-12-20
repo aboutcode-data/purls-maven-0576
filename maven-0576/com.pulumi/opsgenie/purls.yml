@@ -59,6 +59,8 @@
 - pkg:maven/com.pulumi/opsgenie@1.3.0?classifier=sources
 - pkg:maven/com.pulumi/opsgenie@1.3.1?classifier=sources
 - pkg:maven/com.pulumi/opsgenie@1.3.2?classifier=sources
+- pkg:maven/com.pulumi/opsgenie@1.3.3?classifier=sources
+- pkg:maven/com.pulumi/opsgenie@1.3.4?classifier=sources
 - pkg:maven/com.pulumi/opsgenie@1.4.0-alpha.1696365190%2B947bb63b?classifier=sources
 - pkg:maven/com.pulumi/opsgenie@1.4.0-alpha.1696574036%2Ba56fe9a0?classifier=sources
 - pkg:maven/com.pulumi/opsgenie@1.4.0-alpha.1696659092%2Be3135605?classifier=sources
@@ -80,3 +82,13 @@
 - pkg:maven/com.pulumi/opsgenie@1.4.0-alpha.1700200666%2Bf6b45213?classifier=sources
 - pkg:maven/com.pulumi/opsgenie@1.4.0-alpha.1700546109%2B1fa5a791?classifier=sources
 - pkg:maven/com.pulumi/opsgenie@1.4.0-alpha.1700615426%2Bbfba1d3c?classifier=sources
+- pkg:maven/com.pulumi/opsgenie@1.4.0-alpha.1701793305%2Ba648ac87?classifier=sources
+- pkg:maven/com.pulumi/opsgenie@1.4.0-alpha.1701842222%2Bafcdcc6c?classifier=sources
+- pkg:maven/com.pulumi/opsgenie@1.4.0-alpha.1702349654%2B591b7d89?classifier=sources
+- pkg:maven/com.pulumi/opsgenie@1.4.0-alpha.1702360412%2B5a07dfb1?classifier=sources
+- pkg:maven/com.pulumi/opsgenie@1.4.0-alpha.1702447261%2Bd4dc210a?classifier=sources
+- pkg:maven/com.pulumi/opsgenie@1.4.0-alpha.1702623607%2Bdd02038b?classifier=sources
+- pkg:maven/com.pulumi/opsgenie@1.4.0-alpha.1703003580%2Ba358a9c6?classifier=sources
+- pkg:maven/com.pulumi/opsgenie@1.4.0-alpha.1703046603%2B8a22f0e9?classifier=sources
+- pkg:maven/com.pulumi/opsgenie@1.4.0-alpha.1703139126%2B0fa79b40?classifier=sources
+- pkg:maven/com.pulumi/opsgenie@1.4.0-alpha.1703656907%2Bbc44b65f?classifier=sources

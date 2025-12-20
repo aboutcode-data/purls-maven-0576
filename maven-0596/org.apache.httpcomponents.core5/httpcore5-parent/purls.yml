@@ -17,4 +17,6 @@
 - pkg:maven/org.apache.httpcomponents.core5/httpcore5-parent@5.2.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.httpcomponents.core5/httpcore5-parent@5.2.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.httpcomponents.core5/httpcore5-parent@5.2.3?classifier=source-release&type=zip
+- pkg:maven/org.apache.httpcomponents.core5/httpcore5-parent@5.2.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.httpcomponents.core5/httpcore5-parent@5.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.httpcomponents.core5/httpcore5-parent@5.3-alpha1?classifier=source-release&type=zip

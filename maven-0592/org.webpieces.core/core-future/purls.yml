@@ -2,6 +2,9 @@
 - pkg:maven/org.webpieces.core/core-future@2.1.101?classifier=sources
 - pkg:maven/org.webpieces.core/core-future@2.1.102?classifier=sources
 - pkg:maven/org.webpieces.core/core-future@2.1.103?classifier=sources
+- pkg:maven/org.webpieces.core/core-future@2.1.104?classifier=sources
+- pkg:maven/org.webpieces.core/core-future@2.1.105?classifier=sources
+- pkg:maven/org.webpieces.core/core-future@2.1.106?classifier=sources
 - pkg:maven/org.webpieces.core/core-future@2.1.36?classifier=sources
 - pkg:maven/org.webpieces.core/core-future@2.1.37?classifier=sources
 - pkg:maven/org.webpieces.core/core-future@2.1.38?classifier=sources

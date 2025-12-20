@@ -1,0 +1,2 @@
+- pkg:maven/com.anzhilai/XDCore@1.0
+- pkg:maven/com.anzhilai/XDCore@1.0?classifier=sources

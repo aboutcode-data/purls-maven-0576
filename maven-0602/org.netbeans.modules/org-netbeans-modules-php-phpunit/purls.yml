@@ -19,3 +19,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-phpunit@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-phpunit@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-phpunit@RELEASE190?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-phpunit@RELEASE200?classifier=sources

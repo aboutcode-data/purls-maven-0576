@@ -31,3 +31,4 @@
 - pkg:maven/io.github.pflooky/data-caterer-api@0.4.7?classifier=sources
 - pkg:maven/io.github.pflooky/data-caterer-api@0.4.8?classifier=sources
 - pkg:maven/io.github.pflooky/data-caterer-api@0.4.9?classifier=sources
+- pkg:maven/io.github.pflooky/data-caterer-api@0.5.0?classifier=sources

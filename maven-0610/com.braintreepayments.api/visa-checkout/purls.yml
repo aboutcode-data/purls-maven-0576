@@ -15,3 +15,4 @@
 - pkg:maven/com.braintreepayments.api/visa-checkout@4.0.0-beta3?classifier=sources
 - pkg:maven/com.braintreepayments.api/visa-checkout@4.39.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/visa-checkout@4.40.0?classifier=sources
+- pkg:maven/com.braintreepayments.api/visa-checkout@4.40.1?classifier=sources

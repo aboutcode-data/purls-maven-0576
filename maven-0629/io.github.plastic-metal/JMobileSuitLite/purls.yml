@@ -60,3 +60,5 @@
 - pkg:maven/io.github.plastic-metal/JMobileSuitLite@0.3.0?classifier=sources
 - pkg:maven/io.github.plastic-metal/JMobileSuitLite@1.0.0
 - pkg:maven/io.github.plastic-metal/JMobileSuitLite@1.0.0?classifier=sources
+- pkg:maven/io.github.plastic-metal/JMobileSuitLite@1.1.0-alpha1
+- pkg:maven/io.github.plastic-metal/JMobileSuitLite@1.1.0-alpha1?classifier=sources

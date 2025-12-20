@@ -1,2 +1,4 @@
 - pkg:maven/io.trino.gateway/gateway-ha@3
 - pkg:maven/io.trino.gateway/gateway-ha@3?classifier=sources
+- pkg:maven/io.trino.gateway/gateway-ha@4
+- pkg:maven/io.trino.gateway/gateway-ha@4?classifier=sources

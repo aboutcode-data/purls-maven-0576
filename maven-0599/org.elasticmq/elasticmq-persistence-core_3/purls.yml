@@ -1,0 +1,2 @@
+- pkg:maven/org.elasticmq/elasticmq-persistence-core_3@1.5.4
+- pkg:maven/org.elasticmq/elasticmq-persistence-core_3@1.5.4?classifier=sources

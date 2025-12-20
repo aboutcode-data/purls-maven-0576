@@ -1,0 +1,8 @@
+- pkg:maven/io.github.mjhaugsdal/er-m9na1-2023-10-01@1.2.0
+- pkg:maven/io.github.mjhaugsdal/er-m9na1-2023-10-01@1.2.0?classifier=sources
+- pkg:maven/io.github.mjhaugsdal/er-m9na1-2023-10-01@2.2.0
+- pkg:maven/io.github.mjhaugsdal/er-m9na1-2023-10-01@2.2.0?classifier=sources
+- pkg:maven/io.github.mjhaugsdal/er-m9na1-2023-10-01@3.1.0
+- pkg:maven/io.github.mjhaugsdal/er-m9na1-2023-10-01@3.1.0?classifier=sources
+- pkg:maven/io.github.mjhaugsdal/er-m9na1-2023-10-01@4.2.0
+- pkg:maven/io.github.mjhaugsdal/er-m9na1-2023-10-01@4.2.0?classifier=sources

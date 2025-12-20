@@ -1,0 +1,6 @@
+- pkg:maven/site.sorghum.anno/anno-admin-solon-starter@1.0.0
+- pkg:maven/site.sorghum.anno/anno-admin-solon-starter@1.0.0?classifier=sources
+- pkg:maven/site.sorghum.anno/anno-admin-solon-starter@1.0.1.M1
+- pkg:maven/site.sorghum.anno/anno-admin-solon-starter@1.0.1.M1?classifier=sources
+- pkg:maven/site.sorghum.anno/anno-admin-solon-starter@1.0.1.M2
+- pkg:maven/site.sorghum.anno/anno-admin-solon-starter@1.0.1.M2?classifier=sources

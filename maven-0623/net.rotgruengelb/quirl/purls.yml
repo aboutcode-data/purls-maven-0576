@@ -5,3 +5,5 @@
 - pkg:maven/net.rotgruengelb/quirl@2.0.1%2B1.20.X?classifier=sources
 - pkg:maven/net.rotgruengelb/quirl@2.0.2%2B1.20.2?classifier=sources
 - pkg:maven/net.rotgruengelb/quirl@2.0.2%2B1.20.X?classifier=sources
+- pkg:maven/net.rotgruengelb/quirl@3.0.0%2B1.20.2?classifier=sources
+- pkg:maven/net.rotgruengelb/quirl@3.0.1%2B1.20.2?classifier=sources

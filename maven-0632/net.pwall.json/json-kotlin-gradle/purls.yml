@@ -48,3 +48,5 @@
 - pkg:maven/net.pwall.json/json-kotlin-gradle@0.95?classifier=sources
 - pkg:maven/net.pwall.json/json-kotlin-gradle@0.96.1?classifier=sources
 - pkg:maven/net.pwall.json/json-kotlin-gradle@0.96?classifier=sources
+- pkg:maven/net.pwall.json/json-kotlin-gradle@0.99.1?classifier=sources
+- pkg:maven/net.pwall.json/json-kotlin-gradle@0.99?classifier=sources

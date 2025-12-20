@@ -9,3 +9,6 @@
 - pkg:maven/com.ritense.valtimo/object-management@10.5.3.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/object-management@10.6.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/object-management@10.7.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/object-management@10.8.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/object-management@11.0.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/object-management@11.1.0.RELEASE?classifier=sources

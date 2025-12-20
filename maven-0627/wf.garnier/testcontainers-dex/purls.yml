@@ -1,0 +1,5 @@
+- pkg:maven/wf.garnier/testcontainers-dex@1.0.0?classifier=sources
+- pkg:maven/wf.garnier/testcontainers-dex@2.0.0?classifier=sources
+- pkg:maven/wf.garnier/testcontainers-dex@3.0.0?classifier=sources
+- pkg:maven/wf.garnier/testcontainers-dex@3.0.1?classifier=sources
+- pkg:maven/wf.garnier/testcontainers-dex@3.2.0?classifier=sources

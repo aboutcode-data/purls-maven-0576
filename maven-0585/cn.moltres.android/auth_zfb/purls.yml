@@ -1,3 +1,6 @@
 - pkg:maven/cn.moltres.android/auth_zfb@0.1.0?classifier=sources
 - pkg:maven/cn.moltres.android/auth_zfb@0.2.0?classifier=sources
 - pkg:maven/cn.moltres.android/auth_zfb@0.3.0?classifier=sources
+- pkg:maven/cn.moltres.android/auth_zfb@0.4.0?classifier=sources
+- pkg:maven/cn.moltres.android/auth_zfb@0.5.0?classifier=sources
+- pkg:maven/cn.moltres.android/auth_zfb@0.6.0?classifier=sources

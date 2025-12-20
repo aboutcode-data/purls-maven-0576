@@ -95,6 +95,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.remote.soap.extender.impl@1.0.38
 - pkg:maven/com.liferay/com.liferay.portal.remote.soap.extender.impl@1.0.38?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.soap.extender.impl@1.0.38?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.remote.soap.extender.impl@1.0.39?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.soap.extender.impl@1.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.soap.extender.impl@1.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.remote.soap.extender.impl@1.0.4
@@ -189,6 +190,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.remote.soap.extender.impl@2.0.30?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.soap.extender.impl@2.0.31
 - pkg:maven/com.liferay/com.liferay.portal.remote.soap.extender.impl@2.0.31?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.remote.soap.extender.impl@2.0.32?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.soap.extender.impl@2.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.soap.extender.impl@2.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.remote.soap.extender.impl@2.0.4
@@ -294,6 +296,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.remote.soap.extender.impl@3.0.34
 - pkg:maven/com.liferay/com.liferay.portal.remote.soap.extender.impl@3.0.34?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.soap.extender.impl@3.0.35?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.remote.soap.extender.impl@3.0.36?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.soap.extender.impl@3.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.soap.extender.impl@3.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.remote.soap.extender.impl@3.0.4
@@ -393,6 +396,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.remote.soap.extender.impl@4.0.32
 - pkg:maven/com.liferay/com.liferay.portal.remote.soap.extender.impl@4.0.32?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.soap.extender.impl@4.0.33?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.remote.soap.extender.impl@4.0.34?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.soap.extender.impl@4.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.soap.extender.impl@4.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.remote.soap.extender.impl@4.0.4
@@ -452,6 +456,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.remote.soap.extender.impl@5.0.2
 - pkg:maven/com.liferay/com.liferay.portal.remote.soap.extender.impl@5.0.20
 - pkg:maven/com.liferay/com.liferay.portal.remote.soap.extender.impl@5.0.20?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.remote.soap.extender.impl@5.0.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.soap.extender.impl@5.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.soap.extender.impl@5.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.remote.soap.extender.impl@5.0.3

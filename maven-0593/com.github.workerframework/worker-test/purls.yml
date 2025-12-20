@@ -1,0 +1,2 @@
+- pkg:maven/com.github.workerframework/worker-test@7.0.0-1167
+- pkg:maven/com.github.workerframework/worker-test@7.0.0-1167?classifier=sources

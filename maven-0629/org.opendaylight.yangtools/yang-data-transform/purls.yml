@@ -59,6 +59,8 @@
 - pkg:maven/org.opendaylight.yangtools/yang-data-transform@11.0.3?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-data-transform@11.0.4
 - pkg:maven/org.opendaylight.yangtools/yang-data-transform@11.0.4?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-data-transform@11.0.5
+- pkg:maven/org.opendaylight.yangtools/yang-data-transform@11.0.5?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-data-transform@2.0.0
 - pkg:maven/org.opendaylight.yangtools/yang-data-transform@2.0.0?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-data-transform@2.0.1

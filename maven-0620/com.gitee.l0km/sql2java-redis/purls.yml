@@ -106,6 +106,8 @@
 - pkg:maven/com.gitee.l0km/sql2java-redis@3.26.0?classifier=sources
 - pkg:maven/com.gitee.l0km/sql2java-redis@3.26.1
 - pkg:maven/com.gitee.l0km/sql2java-redis@3.26.1?classifier=sources
+- pkg:maven/com.gitee.l0km/sql2java-redis@3.26.2
+- pkg:maven/com.gitee.l0km/sql2java-redis@3.26.2?classifier=sources
 - pkg:maven/com.gitee.l0km/sql2java-redis@4.0.0
 - pkg:maven/com.gitee.l0km/sql2java-redis@4.0.0?classifier=sources
 - pkg:maven/com.gitee.l0km/sql2java-redis@4.1.0

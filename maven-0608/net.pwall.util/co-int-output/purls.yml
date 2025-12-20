@@ -10,3 +10,5 @@
 - pkg:maven/net.pwall.util/co-int-output@2.3?classifier=sources
 - pkg:maven/net.pwall.util/co-int-output@2.4
 - pkg:maven/net.pwall.util/co-int-output@2.4?classifier=sources
+- pkg:maven/net.pwall.util/co-int-output@2.5
+- pkg:maven/net.pwall.util/co-int-output@2.5?classifier=sources

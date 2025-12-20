@@ -1,5 +1,6 @@
 - pkg:maven/com.oustme/oustsdk@2.10.1.14?classifier=sources
 - pkg:maven/com.oustme/oustsdk@2.10.1.16?classifier=sources
+- pkg:maven/com.oustme/oustsdk@2.10.1.17?classifier=sources
 - pkg:maven/com.oustme/oustsdk@2.11.67?classifier=sources
 - pkg:maven/com.oustme/oustsdk@2.11.68.1?classifier=sources
 - pkg:maven/com.oustme/oustsdk@2.11.68.3?classifier=sources

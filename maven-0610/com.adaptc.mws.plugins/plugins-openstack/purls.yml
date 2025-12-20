@@ -6,6 +6,7 @@
 - pkg:maven/com.adaptc.mws.plugins/plugins-openstack@0.1-1413500536
 - pkg:maven/com.adaptc.mws.plugins/plugins-openstack@0.1-1413500536?classifier=sources
 - pkg:maven/com.adaptc.mws.plugins/plugins-openstack@0.1-1?classifier=sources
+- pkg:maven/com.adaptc.mws.plugins/plugins-openstack@1.0
 - pkg:maven/com.adaptc.mws.plugins/plugins-openstack@1.0-1413500706
 - pkg:maven/com.adaptc.mws.plugins/plugins-openstack@1.0-1413500706?classifier=sources
 - pkg:maven/com.adaptc.mws.plugins/plugins-openstack@1.0-1417453905
@@ -18,3 +19,4 @@
 - pkg:maven/com.adaptc.mws.plugins/plugins-openstack@1.0-1417714285?classifier=sources
 - pkg:maven/com.adaptc.mws.plugins/plugins-openstack@1.0-1464025210
 - pkg:maven/com.adaptc.mws.plugins/plugins-openstack@1.0-1464025210?classifier=sources
+- pkg:maven/com.adaptc.mws.plugins/plugins-openstack@1.0?classifier=sources

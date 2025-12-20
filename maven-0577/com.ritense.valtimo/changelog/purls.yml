@@ -1,1 +1,4 @@
 - pkg:maven/com.ritense.valtimo/changelog@10.7.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/changelog@10.8.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/changelog@11.0.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/changelog@11.1.0.RELEASE?classifier=sources

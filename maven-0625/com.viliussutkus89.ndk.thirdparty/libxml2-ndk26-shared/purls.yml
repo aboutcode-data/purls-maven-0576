@@ -2,3 +2,5 @@
 - pkg:maven/com.viliussutkus89.ndk.thirdparty/libxml2-ndk26-shared@2.11.5-beta-2?classifier=sources
 - pkg:maven/com.viliussutkus89.ndk.thirdparty/libxml2-ndk26-shared@2.11.5-beta-3?classifier=sources
 - pkg:maven/com.viliussutkus89.ndk.thirdparty/libxml2-ndk26-shared@2.11.5-beta-4?classifier=sources
+- pkg:maven/com.viliussutkus89.ndk.thirdparty/libxml2-ndk26-shared@2.12.3-beta-1?classifier=sources
+- pkg:maven/com.viliussutkus89.ndk.thirdparty/libxml2-ndk26-shared@2.12.3-beta-2?classifier=sources

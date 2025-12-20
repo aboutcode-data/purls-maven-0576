@@ -31,6 +31,8 @@
 - pkg:maven/io.gitee.mingbaobaba/security-example-quickstart@1.2.22?classifier=sources
 - pkg:maven/io.gitee.mingbaobaba/security-example-quickstart@1.2.23
 - pkg:maven/io.gitee.mingbaobaba/security-example-quickstart@1.2.23?classifier=sources
+- pkg:maven/io.gitee.mingbaobaba/security-example-quickstart@1.2.24
+- pkg:maven/io.gitee.mingbaobaba/security-example-quickstart@1.2.24?classifier=sources
 - pkg:maven/io.gitee.mingbaobaba/security-example-quickstart@1.2.2?classifier=sources
 - pkg:maven/io.gitee.mingbaobaba/security-example-quickstart@1.2.3
 - pkg:maven/io.gitee.mingbaobaba/security-example-quickstart@1.2.3?classifier=sources
@@ -46,3 +48,7 @@
 - pkg:maven/io.gitee.mingbaobaba/security-example-quickstart@1.2.8?classifier=sources
 - pkg:maven/io.gitee.mingbaobaba/security-example-quickstart@1.2.9
 - pkg:maven/io.gitee.mingbaobaba/security-example-quickstart@1.2.9?classifier=sources
+- pkg:maven/io.gitee.mingbaobaba/security-example-quickstart@1.3.0
+- pkg:maven/io.gitee.mingbaobaba/security-example-quickstart@1.3.0?classifier=sources
+- pkg:maven/io.gitee.mingbaobaba/security-example-quickstart@1.3.1
+- pkg:maven/io.gitee.mingbaobaba/security-example-quickstart@1.3.1?classifier=sources

@@ -2,3 +2,4 @@
 - pkg:maven/com.github.Shouheng88/xadapter@1.1?classifier=sources
 - pkg:maven/com.github.Shouheng88/xadapter@1.2?classifier=sources
 - pkg:maven/com.github.Shouheng88/xadapter@1.3?classifier=sources
+- pkg:maven/com.github.Shouheng88/xadapter@1.4?classifier=sources

@@ -90,6 +90,8 @@
 - pkg:maven/com.targomo/java-client@0.31.0?classifier=sources
 - pkg:maven/com.targomo/java-client@0.32.0
 - pkg:maven/com.targomo/java-client@0.32.0?classifier=sources
+- pkg:maven/com.targomo/java-client@0.33.0
+- pkg:maven/com.targomo/java-client@0.33.0?classifier=sources
 - pkg:maven/com.targomo/java-client@0.4.0
 - pkg:maven/com.targomo/java-client@0.4.0?classifier=sources
 - pkg:maven/com.targomo/java-client@0.5.1

@@ -50,3 +50,5 @@
 - pkg:maven/org.apache.nifi.registry/nifi-registry-web-api@1.23.1?type=war
 - pkg:maven/org.apache.nifi.registry/nifi-registry-web-api@1.23.2?classifier=sources
 - pkg:maven/org.apache.nifi.registry/nifi-registry-web-api@1.23.2?type=war
+- pkg:maven/org.apache.nifi.registry/nifi-registry-web-api@1.24.0?type=war
+- pkg:maven/org.apache.nifi.registry/nifi-registry-web-api@2.0.0-M1?type=war

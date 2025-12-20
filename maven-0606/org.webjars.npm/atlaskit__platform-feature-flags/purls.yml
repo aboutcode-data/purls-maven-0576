@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/atlaskit__platform-feature-flags@0.2.4
 - pkg:maven/org.webjars.npm/atlaskit__platform-feature-flags@0.2.4?classifier=sources
+- pkg:maven/org.webjars.npm/atlaskit__platform-feature-flags@0.2.5
+- pkg:maven/org.webjars.npm/atlaskit__platform-feature-flags@0.2.5?classifier=sources

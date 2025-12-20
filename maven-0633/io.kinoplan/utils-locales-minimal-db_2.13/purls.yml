@@ -4,3 +4,5 @@
 - pkg:maven/io.kinoplan/utils-locales-minimal-db_2.13@0.0.29?classifier=sources
 - pkg:maven/io.kinoplan/utils-locales-minimal-db_2.13@0.0.30
 - pkg:maven/io.kinoplan/utils-locales-minimal-db_2.13@0.0.30?classifier=sources
+- pkg:maven/io.kinoplan/utils-locales-minimal-db_2.13@0.0.31
+- pkg:maven/io.kinoplan/utils-locales-minimal-db_2.13@0.0.31?classifier=sources

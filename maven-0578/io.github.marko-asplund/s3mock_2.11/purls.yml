@@ -1,0 +1,2 @@
+- pkg:maven/io.github.marko-asplund/s3mock_2.11@0.2.7
+- pkg:maven/io.github.marko-asplund/s3mock_2.11@0.2.7?classifier=sources

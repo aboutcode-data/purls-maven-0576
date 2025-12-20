@@ -80,3 +80,4 @@
 - pkg:maven/com.amap.api/3dmap@9.6.2?classifier=sources
 - pkg:maven/com.amap.api/3dmap@9.7.0?classifier=sources
 - pkg:maven/com.amap.api/3dmap@9.8.2?classifier=sources
+- pkg:maven/com.amap.api/3dmap@9.8.3?classifier=sources

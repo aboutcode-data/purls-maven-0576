@@ -1,0 +1,2 @@
+- pkg:maven/io.kroxylicious/kroxylicious-kms-provider-kroxylicious-inmemory-test-support@0.4.0
+- pkg:maven/io.kroxylicious/kroxylicious-kms-provider-kroxylicious-inmemory-test-support@0.4.0?classifier=sources

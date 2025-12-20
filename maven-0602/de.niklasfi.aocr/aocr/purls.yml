@@ -14,3 +14,5 @@
 - pkg:maven/de.niklasfi.aocr/aocr@2.2?classifier=sources
 - pkg:maven/de.niklasfi.aocr/aocr@2.3
 - pkg:maven/de.niklasfi.aocr/aocr@2.3?classifier=sources
+- pkg:maven/de.niklasfi.aocr/aocr@2.4
+- pkg:maven/de.niklasfi.aocr/aocr@2.4?classifier=sources

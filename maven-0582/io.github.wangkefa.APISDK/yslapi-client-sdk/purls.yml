@@ -1,0 +1,2 @@
+- pkg:maven/io.github.wangkefa.APISDK/yslapi-client-sdk@0.0.5
+- pkg:maven/io.github.wangkefa.APISDK/yslapi-client-sdk@0.0.5?classifier=sources

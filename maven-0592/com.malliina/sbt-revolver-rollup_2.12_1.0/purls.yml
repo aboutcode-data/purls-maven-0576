@@ -14,3 +14,7 @@
 - pkg:maven/com.malliina/sbt-revolver-rollup_2.12_1.0@1.6.28?classifier=sources
 - pkg:maven/com.malliina/sbt-revolver-rollup_2.12_1.0@1.6.29
 - pkg:maven/com.malliina/sbt-revolver-rollup_2.12_1.0@1.6.29?classifier=sources
+- pkg:maven/com.malliina/sbt-revolver-rollup_2.12_1.0@1.6.30
+- pkg:maven/com.malliina/sbt-revolver-rollup_2.12_1.0@1.6.30?classifier=sources
+- pkg:maven/com.malliina/sbt-revolver-rollup_2.12_1.0@1.6.31
+- pkg:maven/com.malliina/sbt-revolver-rollup_2.12_1.0@1.6.31?classifier=sources

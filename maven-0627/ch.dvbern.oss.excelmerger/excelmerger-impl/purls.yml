@@ -10,3 +10,5 @@
 - pkg:maven/ch.dvbern.oss.excelmerger/excelmerger-impl@4.4.0?classifier=sources
 - pkg:maven/ch.dvbern.oss.excelmerger/excelmerger-impl@4.5.0
 - pkg:maven/ch.dvbern.oss.excelmerger/excelmerger-impl@4.5.0?classifier=sources
+- pkg:maven/ch.dvbern.oss.excelmerger/excelmerger-impl@4.6.1
+- pkg:maven/ch.dvbern.oss.excelmerger/excelmerger-impl@4.6.1?classifier=sources

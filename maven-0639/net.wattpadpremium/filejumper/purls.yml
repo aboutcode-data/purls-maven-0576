@@ -1,0 +1,2 @@
+- pkg:maven/net.wattpadpremium/filejumper@0.0.1?classifier=sources
+- pkg:maven/net.wattpadpremium/filejumper@1.0.0?classifier=sources

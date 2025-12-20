@@ -1,0 +1,2 @@
+- pkg:maven/io.github.wooenrico/kafka-spring-boot3-starter@1.0.1.RC
+- pkg:maven/io.github.wooenrico/kafka-spring-boot3-starter@1.0.1.RC?classifier=sources

@@ -19,4 +19,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-keyring-impl@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-keyring-impl@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-keyring-impl@RELEASE190?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-keyring-impl@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-keyring-impl@RELEASE90?classifier=sources

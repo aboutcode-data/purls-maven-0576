@@ -66,3 +66,5 @@
 - pkg:maven/io.smallrye.reactive/mutiny-documentation@2.5.0-M4
 - pkg:maven/io.smallrye.reactive/mutiny-documentation@2.5.0-M5
 - pkg:maven/io.smallrye.reactive/mutiny-documentation@2.5.1
+- pkg:maven/io.smallrye.reactive/mutiny-documentation@2.5.2
+- pkg:maven/io.smallrye.reactive/mutiny-documentation@2.5.3

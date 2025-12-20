@@ -1,0 +1,2 @@
+- pkg:maven/com.m2f-kt/archer-jvm@0.0.1-dev01?classifier=sources
+- pkg:maven/com.m2f-kt/archer-jvm@0.0.1-dev02?classifier=sources

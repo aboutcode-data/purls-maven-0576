@@ -28,3 +28,7 @@
 - pkg:maven/io.github.davemeier82.homeautomation/homeautomation-zigbee2mqtt@0.3.3?classifier=sources
 - pkg:maven/io.github.davemeier82.homeautomation/homeautomation-zigbee2mqtt@0.3.4
 - pkg:maven/io.github.davemeier82.homeautomation/homeautomation-zigbee2mqtt@0.3.4?classifier=sources
+- pkg:maven/io.github.davemeier82.homeautomation/homeautomation-zigbee2mqtt@0.4.0
+- pkg:maven/io.github.davemeier82.homeautomation/homeautomation-zigbee2mqtt@0.4.0?classifier=sources
+- pkg:maven/io.github.davemeier82.homeautomation/homeautomation-zigbee2mqtt@0.4.1
+- pkg:maven/io.github.davemeier82.homeautomation/homeautomation-zigbee2mqtt@0.4.1?classifier=sources

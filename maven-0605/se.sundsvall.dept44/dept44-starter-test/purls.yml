@@ -20,6 +20,8 @@
 - pkg:maven/se.sundsvall.dept44/dept44-starter-test@1.35?classifier=sources
 - pkg:maven/se.sundsvall.dept44/dept44-starter-test@1.36
 - pkg:maven/se.sundsvall.dept44/dept44-starter-test@1.36?classifier=sources
+- pkg:maven/se.sundsvall.dept44/dept44-starter-test@1.37
+- pkg:maven/se.sundsvall.dept44/dept44-starter-test@1.37?classifier=sources
 - pkg:maven/se.sundsvall.dept44/dept44-starter-test@2.0.0
 - pkg:maven/se.sundsvall.dept44/dept44-starter-test@2.0.0?classifier=sources
 - pkg:maven/se.sundsvall.dept44/dept44-starter-test@2.0.1
@@ -46,3 +48,5 @@
 - pkg:maven/se.sundsvall.dept44/dept44-starter-test@3.3?classifier=sources
 - pkg:maven/se.sundsvall.dept44/dept44-starter-test@3.4
 - pkg:maven/se.sundsvall.dept44/dept44-starter-test@3.4?classifier=sources
+- pkg:maven/se.sundsvall.dept44/dept44-starter-test@4.0
+- pkg:maven/se.sundsvall.dept44/dept44-starter-test@4.0?classifier=sources

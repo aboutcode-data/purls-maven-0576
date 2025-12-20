@@ -1,0 +1,2 @@
+- pkg:maven/info.umazalakain/errata_2.13@0.1.0
+- pkg:maven/info.umazalakain/errata_2.13@0.1.0?classifier=sources

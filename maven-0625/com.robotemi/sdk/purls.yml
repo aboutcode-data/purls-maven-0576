@@ -40,3 +40,5 @@
 - pkg:maven/com.robotemi/sdk@1.131.2?classifier=sources
 - pkg:maven/com.robotemi/sdk@1.131.3?classifier=sources
 - pkg:maven/com.robotemi/sdk@1.131.4?classifier=sources
+- pkg:maven/com.robotemi/sdk@1.132.0?classifier=sources
+- pkg:maven/com.robotemi/sdk@1.132.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/ru.makkarpov/scalingua-sbt_2.12_1.0@1.2.0
+- pkg:maven/ru.makkarpov/scalingua-sbt_2.12_1.0@1.2.0?classifier=sources

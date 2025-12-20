@@ -1,1 +1,4 @@
 - pkg:maven/com.kgit2/kommand-linuxarm64@1.1.0?classifier=sources
+- pkg:maven/com.kgit2/kommand-linuxarm64@1.2.0?classifier=sources
+- pkg:maven/com.kgit2/kommand-linuxarm64@2.0.0?classifier=sources
+- pkg:maven/com.kgit2/kommand-linuxarm64@2.0.1?classifier=sources

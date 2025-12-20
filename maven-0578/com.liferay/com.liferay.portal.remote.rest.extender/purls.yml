@@ -105,6 +105,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.remote.rest.extender@2.0.41
 - pkg:maven/com.liferay/com.liferay.portal.remote.rest.extender@2.0.41?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.rest.extender@2.0.41?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.remote.rest.extender@2.0.42?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.rest.extender@2.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.rest.extender@2.0.5
 - pkg:maven/com.liferay/com.liferay.portal.remote.rest.extender@2.0.5?classifier=sources
@@ -173,6 +174,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.remote.rest.extender@3.0.25?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.rest.extender@3.0.26
 - pkg:maven/com.liferay/com.liferay.portal.remote.rest.extender@3.0.26?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.remote.rest.extender@3.0.27?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.rest.extender@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.rest.extender@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.remote.rest.extender@3.0.3
@@ -257,6 +259,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.remote.rest.extender@4.0.27
 - pkg:maven/com.liferay/com.liferay.portal.remote.rest.extender@4.0.27?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.rest.extender@4.0.28?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.remote.rest.extender@4.0.29?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.rest.extender@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.rest.extender@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.remote.rest.extender@4.0.3
@@ -351,6 +354,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.remote.rest.extender@5.0.3
 - pkg:maven/com.liferay/com.liferay.portal.remote.rest.extender@5.0.30?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.rest.extender@5.0.31?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.remote.rest.extender@5.0.32?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.rest.extender@5.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.rest.extender@5.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.remote.rest.extender@5.0.4
@@ -401,9 +405,11 @@
 - pkg:maven/com.liferay/com.liferay.portal.remote.rest.extender@6.0.17?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.remote.rest.extender@6.0.18
 - pkg:maven/com.liferay/com.liferay.portal.remote.rest.extender@6.0.18?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.remote.rest.extender@6.0.19?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.rest.extender@6.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.rest.extender@6.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.remote.rest.extender@6.0.2
+- pkg:maven/com.liferay/com.liferay.portal.remote.rest.extender@6.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.rest.extender@6.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.rest.extender@6.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.remote.rest.extender@6.0.3

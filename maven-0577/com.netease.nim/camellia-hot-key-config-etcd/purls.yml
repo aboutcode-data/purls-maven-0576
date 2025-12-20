@@ -12,3 +12,7 @@
 - pkg:maven/com.netease.nim/camellia-hot-key-config-etcd@1.2.18?classifier=sources
 - pkg:maven/com.netease.nim/camellia-hot-key-config-etcd@1.2.19
 - pkg:maven/com.netease.nim/camellia-hot-key-config-etcd@1.2.19?classifier=sources
+- pkg:maven/com.netease.nim/camellia-hot-key-config-etcd@1.2.20
+- pkg:maven/com.netease.nim/camellia-hot-key-config-etcd@1.2.20?classifier=sources
+- pkg:maven/com.netease.nim/camellia-hot-key-config-etcd@1.2.21
+- pkg:maven/com.netease.nim/camellia-hot-key-config-etcd@1.2.21?classifier=sources

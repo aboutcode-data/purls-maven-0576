@@ -7,3 +7,4 @@
 - pkg:maven/com.lwohvye/unicorn-tp-tools-kotlin@4.2.0-pi-RC1?classifier=sources
 - pkg:maven/com.lwohvye/unicorn-tp-tools-kotlin@4.2.0-pi-RC2?classifier=sources
 - pkg:maven/com.lwohvye/unicorn-tp-tools-kotlin@4.2.0-pi-RC3?classifier=sources
+- pkg:maven/com.lwohvye/unicorn-tp-tools-kotlin@4.2.0-pi?classifier=sources
