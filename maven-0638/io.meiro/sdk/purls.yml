@@ -1,0 +1,2 @@
+- pkg:maven/io.meiro/sdk@0.1.0-stage?classifier=sources
+- pkg:maven/io.meiro/sdk@0.1.1-stage?classifier=sources

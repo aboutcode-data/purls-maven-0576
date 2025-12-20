@@ -1,0 +1,2 @@
+- pkg:maven/io.github.coffee330501/code-generate-plugin@0.0.1
+- pkg:maven/io.github.coffee330501/code-generate-plugin@0.0.1?classifier=sources

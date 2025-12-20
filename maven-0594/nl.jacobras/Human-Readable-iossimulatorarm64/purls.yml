@@ -3,3 +3,5 @@
 - pkg:maven/nl.jacobras/Human-Readable-iossimulatorarm64@1.5.0?classifier=sources
 - pkg:maven/nl.jacobras/Human-Readable-iossimulatorarm64@1.6.0?classifier=sources
 - pkg:maven/nl.jacobras/Human-Readable-iossimulatorarm64@1.7.0?classifier=sources
+- pkg:maven/nl.jacobras/Human-Readable-iossimulatorarm64@1.8.0?classifier=sources
+- pkg:maven/nl.jacobras/Human-Readable-iossimulatorarm64@1.8.1?classifier=sources

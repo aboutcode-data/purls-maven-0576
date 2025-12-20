@@ -20,3 +20,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-core-syntax@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-core-syntax@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-core-syntax@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-core-syntax@RELEASE220?classifier=sources

@@ -104,3 +104,5 @@
 - pkg:maven/org.scodec/scodec-bits_3@1.1.37?classifier=sources
 - pkg:maven/org.scodec/scodec-bits_3@1.1.38
 - pkg:maven/org.scodec/scodec-bits_3@1.1.38?classifier=sources
+- pkg:maven/org.scodec/scodec-bits_3@1.2.0
+- pkg:maven/org.scodec/scodec-bits_3@1.2.0?classifier=sources

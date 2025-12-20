@@ -10,3 +10,5 @@
 - pkg:maven/io.serverlessworkflow/serverlessworkflow-util@4.0.4.Final?classifier=sources
 - pkg:maven/io.serverlessworkflow/serverlessworkflow-util@4.0.5.Final
 - pkg:maven/io.serverlessworkflow/serverlessworkflow-util@4.0.5.Final?classifier=sources
+- pkg:maven/io.serverlessworkflow/serverlessworkflow-util@5.0.0.Final
+- pkg:maven/io.serverlessworkflow/serverlessworkflow-util@5.0.0.Final?classifier=sources

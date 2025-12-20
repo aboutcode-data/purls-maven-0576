@@ -17,3 +17,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-java-coverage@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-java-coverage@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-java-coverage@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-java-coverage@RELEASE220?classifier=sources

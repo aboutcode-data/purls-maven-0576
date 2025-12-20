@@ -32,3 +32,5 @@
 - pkg:maven/com.ocadotechnology/SuiteTestEngine@16.0.84?classifier=sources
 - pkg:maven/com.ocadotechnology/SuiteTestEngine@16.3.34
 - pkg:maven/com.ocadotechnology/SuiteTestEngine@16.3.34?classifier=sources
+- pkg:maven/com.ocadotechnology/SuiteTestEngine@16.4.25
+- pkg:maven/com.ocadotechnology/SuiteTestEngine@16.4.25?classifier=sources

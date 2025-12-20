@@ -1,0 +1,2 @@
+- pkg:maven/io.github.takapi327/jdbc-connector_3@0.3.0-beta3
+- pkg:maven/io.github.takapi327/jdbc-connector_3@0.3.0-beta3?classifier=sources

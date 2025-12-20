@@ -819,6 +819,11 @@
 - pkg:maven/com.liferay/com.liferay.source.formatter@1.0.1401?classifier=sources
 - pkg:maven/com.liferay/com.liferay.source.formatter@1.0.1402?classifier=sources
 - pkg:maven/com.liferay/com.liferay.source.formatter@1.0.1403?classifier=sources
+- pkg:maven/com.liferay/com.liferay.source.formatter@1.0.1404?classifier=sources
+- pkg:maven/com.liferay/com.liferay.source.formatter@1.0.1405?classifier=sources
+- pkg:maven/com.liferay/com.liferay.source.formatter@1.0.1406?classifier=sources
+- pkg:maven/com.liferay/com.liferay.source.formatter@1.0.1407?classifier=sources
+- pkg:maven/com.liferay/com.liferay.source.formatter@1.0.1408?classifier=sources
 - pkg:maven/com.liferay/com.liferay.source.formatter@1.0.140?classifier=sources
 - pkg:maven/com.liferay/com.liferay.source.formatter@1.0.141
 - pkg:maven/com.liferay/com.liferay.source.formatter@1.0.141?classifier=sources

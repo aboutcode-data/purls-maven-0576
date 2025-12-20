@@ -4,3 +4,5 @@
 - pkg:maven/dev.jorel/commandapi-bukkit-1.20.2@9.3.0?classifier=sources
 - pkg:maven/dev.jorel/commandapi-bukkit-1.20.2@9.4.0
 - pkg:maven/dev.jorel/commandapi-bukkit-1.20.2@9.4.0?classifier=sources
+- pkg:maven/dev.jorel/commandapi-bukkit-1.20.2@9.4.1
+- pkg:maven/dev.jorel/commandapi-bukkit-1.20.2@9.4.1?classifier=sources

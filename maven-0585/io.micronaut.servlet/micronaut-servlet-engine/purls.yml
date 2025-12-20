@@ -67,3 +67,6 @@
 - pkg:maven/io.micronaut.servlet/micronaut-servlet-engine@4.5.0?classifier=sources
 - pkg:maven/io.micronaut.servlet/micronaut-servlet-engine@4.6.0?classifier=sources
 - pkg:maven/io.micronaut.servlet/micronaut-servlet-engine@4.7.0?classifier=sources
+- pkg:maven/io.micronaut.servlet/micronaut-servlet-engine@4.8.0?classifier=sources
+- pkg:maven/io.micronaut.servlet/micronaut-servlet-engine@4.9.0?classifier=sources
+- pkg:maven/io.micronaut.servlet/micronaut-servlet-engine@4.9.1?classifier=sources

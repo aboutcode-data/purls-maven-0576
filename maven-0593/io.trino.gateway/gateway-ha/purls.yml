@@ -8,3 +8,7 @@
 - pkg:maven/io.trino.gateway/gateway-ha@6?classifier=sources
 - pkg:maven/io.trino.gateway/gateway-ha@7
 - pkg:maven/io.trino.gateway/gateway-ha@7?classifier=sources
+- pkg:maven/io.trino.gateway/gateway-ha@8
+- pkg:maven/io.trino.gateway/gateway-ha@8?classifier=sources
+- pkg:maven/io.trino.gateway/gateway-ha@9
+- pkg:maven/io.trino.gateway/gateway-ha@9?classifier=sources

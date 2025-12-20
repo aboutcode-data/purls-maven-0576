@@ -8,3 +8,5 @@
 - pkg:maven/com.tosan.tools/tosan-tostring-builder@1.0.4?classifier=sources
 - pkg:maven/com.tosan.tools/tosan-tostring-builder@1.1.0
 - pkg:maven/com.tosan.tools/tosan-tostring-builder@1.1.0?classifier=sources
+- pkg:maven/com.tosan.tools/tosan-tostring-builder@1.2.0
+- pkg:maven/com.tosan.tools/tosan-tostring-builder@1.2.0?classifier=sources

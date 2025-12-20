@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.hono/hono-service-command-router-infinispan@2.6.0
+- pkg:maven/org.eclipse.hono/hono-service-command-router-infinispan@2.6.0?classifier=sources

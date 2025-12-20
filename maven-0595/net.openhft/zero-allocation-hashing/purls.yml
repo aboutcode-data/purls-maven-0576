@@ -13,6 +13,8 @@
 - pkg:maven/net.openhft/zero-allocation-hashing@0.16?classifier=sources
 - pkg:maven/net.openhft/zero-allocation-hashing@0.1?classifier=sources
 - pkg:maven/net.openhft/zero-allocation-hashing@0.2
+- pkg:maven/net.openhft/zero-allocation-hashing@0.26ea0
+- pkg:maven/net.openhft/zero-allocation-hashing@0.26ea0?classifier=sources
 - pkg:maven/net.openhft/zero-allocation-hashing@0.2?classifier=sources
 - pkg:maven/net.openhft/zero-allocation-hashing@0.3
 - pkg:maven/net.openhft/zero-allocation-hashing@0.3?classifier=sources

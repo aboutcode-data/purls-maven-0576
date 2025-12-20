@@ -19,3 +19,5 @@
 - pkg:maven/com.tangzc/mybatis-plus-ext-processor@3.5.6-EXT670?classifier=sources
 - pkg:maven/com.tangzc/mybatis-plus-ext-processor@3.5.6-EXT680?classifier=sources
 - pkg:maven/com.tangzc/mybatis-plus-ext-processor@3.5.6-EXT681?classifier=sources
+- pkg:maven/com.tangzc/mybatis-plus-ext-processor@3.5.6-EXT682?classifier=sources
+- pkg:maven/com.tangzc/mybatis-plus-ext-processor@3.5.6-EXT683?classifier=sources

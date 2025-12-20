@@ -18,3 +18,5 @@
 - pkg:maven/com.vantfo.framework/quartz@1.2.8?classifier=sources
 - pkg:maven/com.vantfo.framework/quartz@hbis-1.2.8
 - pkg:maven/com.vantfo.framework/quartz@hbis-1.2.8?classifier=sources
+- pkg:maven/com.vantfo.framework/quartz@hbis-1.2.9
+- pkg:maven/com.vantfo.framework/quartz@hbis-1.2.9?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/pro.respawn.apiresult/core-wasm-wasi@1.1.0?classifier=sources
+- pkg:maven/pro.respawn.apiresult/core-wasm-wasi@2.0.0-alpha01?classifier=sources

@@ -262,3 +262,5 @@
 - pkg:maven/com.codacy/codacy-analysis-cli-model_2.13@7.9.7?classifier=sources
 - pkg:maven/com.codacy/codacy-analysis-cli-model_2.13@7.9.8
 - pkg:maven/com.codacy/codacy-analysis-cli-model_2.13@7.9.8?classifier=sources
+- pkg:maven/com.codacy/codacy-analysis-cli-model_2.13@7.9.9
+- pkg:maven/com.codacy/codacy-analysis-cli-model_2.13@7.9.9?classifier=sources

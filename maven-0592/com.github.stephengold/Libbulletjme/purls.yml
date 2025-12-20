@@ -54,3 +54,4 @@
 - pkg:maven/com.github.stephengold/Libbulletjme@20.2.0?classifier=sources
 - pkg:maven/com.github.stephengold/Libbulletjme@21.0.0?classifier=sources
 - pkg:maven/com.github.stephengold/Libbulletjme@21.1.0?classifier=sources
+- pkg:maven/com.github.stephengold/Libbulletjme@21.2.1?classifier=sources

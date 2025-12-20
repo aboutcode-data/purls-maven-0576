@@ -1,6 +1,7 @@
 - pkg:maven/se.signatureservice.configuration/signservice-java-configuration@2308.1?classifier=sources
 - pkg:maven/se.signatureservice.configuration/signservice-java-configuration@2312.1?classifier=sources
 - pkg:maven/se.signatureservice.configuration/signservice-java-configuration@2401.1?classifier=sources
+- pkg:maven/se.signatureservice.configuration/signservice-java-configuration@2401.2?classifier=sources
 - pkg:maven/se.signatureservice.configuration/signservice-java-configuration@2403.1?classifier=sources
 - pkg:maven/se.signatureservice.configuration/signservice-java-configuration@2403.2?classifier=sources
 - pkg:maven/se.signatureservice.configuration/signservice-java-configuration@2403.3?classifier=sources

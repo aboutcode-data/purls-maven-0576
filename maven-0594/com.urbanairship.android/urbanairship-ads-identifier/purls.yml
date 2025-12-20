@@ -99,3 +99,4 @@
 - pkg:maven/com.urbanairship.android/urbanairship-ads-identifier@17.7.3?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-ads-identifier@17.7.4?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-ads-identifier@17.8.0?classifier=sources
+- pkg:maven/com.urbanairship.android/urbanairship-ads-identifier@17.8.1?classifier=sources

@@ -15,6 +15,9 @@
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator/org.wso2.carbon.extension.identity.authenticator.github.connector@1.1.14
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator/org.wso2.carbon.extension.identity.authenticator.github.connector@1.1.14?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator/org.wso2.carbon.extension.identity.authenticator.github.connector@1.1.14?classifier=sources
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator/org.wso2.carbon.extension.identity.authenticator.github.connector@1.1.15
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator/org.wso2.carbon.extension.identity.authenticator.github.connector@1.1.15?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator/org.wso2.carbon.extension.identity.authenticator.github.connector@1.1.15?classifier=sources
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator/org.wso2.carbon.extension.identity.authenticator.github.connector@1.1.1?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator/org.wso2.carbon.extension.identity.authenticator.github.connector@1.1.2
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator/org.wso2.carbon.extension.identity.authenticator.github.connector@1.1.2?classifier=source-release&type=zip

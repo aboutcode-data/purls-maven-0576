@@ -33,3 +33,5 @@
 - pkg:maven/io.deephaven/deephaven-plugin-hierarchicaltable@0.33.2?classifier=sources
 - pkg:maven/io.deephaven/deephaven-plugin-hierarchicaltable@0.33.3?classifier=sources
 - pkg:maven/io.deephaven/deephaven-plugin-hierarchicaltable@0.34.0?classifier=sources
+- pkg:maven/io.deephaven/deephaven-plugin-hierarchicaltable@0.34.1?classifier=sources
+- pkg:maven/io.deephaven/deephaven-plugin-hierarchicaltable@0.34.2?classifier=sources

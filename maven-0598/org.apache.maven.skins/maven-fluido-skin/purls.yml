@@ -70,3 +70,6 @@
 - pkg:maven/org.apache.maven.skins/maven-fluido-skin@2.0.0-M8
 - pkg:maven/org.apache.maven.skins/maven-fluido-skin@2.0.0-M8?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.skins/maven-fluido-skin@2.0.0-M8?classifier=sources
+- pkg:maven/org.apache.maven.skins/maven-fluido-skin@2.0.0-M9
+- pkg:maven/org.apache.maven.skins/maven-fluido-skin@2.0.0-M9?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.skins/maven-fluido-skin@2.0.0-M9?classifier=sources

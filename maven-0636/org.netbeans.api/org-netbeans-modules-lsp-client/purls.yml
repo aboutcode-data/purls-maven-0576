@@ -21,3 +21,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-lsp-client@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-lsp-client@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-lsp-client@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-lsp-client@RELEASE220?classifier=sources

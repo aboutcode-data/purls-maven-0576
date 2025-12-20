@@ -1,4 +1,10 @@
 - pkg:maven/kr.jadekim/chameleon-proto-cosmos-proto-jvm@0.3.1?classifier=sources
 - pkg:maven/kr.jadekim/chameleon-proto-cosmos-proto-jvm@1.0.0-alpha7?classifier=sources
 - pkg:maven/kr.jadekim/chameleon-proto-cosmos-proto-jvm@1.0.0-beta.2?classifier=sources
+- pkg:maven/kr.jadekim/chameleon-proto-cosmos-proto-jvm@1.0.0-beta.3-1?classifier=sources
+- pkg:maven/kr.jadekim/chameleon-proto-cosmos-proto-jvm@1.0.0-beta.3-2?classifier=sources
 - pkg:maven/kr.jadekim/chameleon-proto-cosmos-proto-jvm@1.0.0-beta.3?classifier=sources
+- pkg:maven/kr.jadekim/chameleon-proto-cosmos-proto-jvm@1.0.0-beta.4-1?classifier=sources
+- pkg:maven/kr.jadekim/chameleon-proto-cosmos-proto-jvm@1.0.0-beta.4-2?classifier=sources
+- pkg:maven/kr.jadekim/chameleon-proto-cosmos-proto-jvm@1.0.0-beta.5-1?classifier=sources
+- pkg:maven/kr.jadekim/chameleon-proto-cosmos-proto-jvm@1.0.0-beta.5-2?classifier=sources

@@ -25,7 +25,11 @@
 - pkg:maven/org.opencb.opencga/opencga-storage-app@2.12.3
 - pkg:maven/org.opencb.opencga/opencga-storage-app@2.12.3?classifier=sources
 - pkg:maven/org.opencb.opencga/opencga-storage-app@2.12.4
+- pkg:maven/org.opencb.opencga/opencga-storage-app@2.12.4.1
+- pkg:maven/org.opencb.opencga/opencga-storage-app@2.12.4.1?classifier=sources
 - pkg:maven/org.opencb.opencga/opencga-storage-app@2.12.4?classifier=sources
+- pkg:maven/org.opencb.opencga/opencga-storage-app@2.12.5
+- pkg:maven/org.opencb.opencga/opencga-storage-app@2.12.5?classifier=sources
 - pkg:maven/org.opencb.opencga/opencga-storage-app@2.2.0
 - pkg:maven/org.opencb.opencga/opencga-storage-app@2.2.0?classifier=sources
 - pkg:maven/org.opencb.opencga/opencga-storage-app@2.2.1
@@ -125,4 +129,8 @@
 - pkg:maven/org.opencb.opencga/opencga-storage-app@2.9.2
 - pkg:maven/org.opencb.opencga/opencga-storage-app@2.9.2?classifier=sources
 - pkg:maven/org.opencb.opencga/opencga-storage-app@3.0.0
+- pkg:maven/org.opencb.opencga/opencga-storage-app@3.0.0.1
+- pkg:maven/org.opencb.opencga/opencga-storage-app@3.0.0.1?classifier=sources
 - pkg:maven/org.opencb.opencga/opencga-storage-app@3.0.0?classifier=sources
+- pkg:maven/org.opencb.opencga/opencga-storage-app@3.1.0
+- pkg:maven/org.opencb.opencga/opencga-storage-app@3.1.0?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/io.nstream/nstream-adapter-avro@4.7.10?classifier=sources
 - pkg:maven/io.nstream/nstream-adapter-avro@4.7.12?classifier=sources
 - pkg:maven/io.nstream/nstream-adapter-avro@4.8.15?classifier=sources
+- pkg:maven/io.nstream/nstream-adapter-avro@4.9.16?classifier=sources
+- pkg:maven/io.nstream/nstream-adapter-avro@4.9.17?classifier=sources

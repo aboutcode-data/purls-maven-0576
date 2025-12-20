@@ -188,3 +188,9 @@
 - pkg:maven/io.trino/trino-base-jdbc@445?classifier=sources
 - pkg:maven/io.trino/trino-base-jdbc@446
 - pkg:maven/io.trino/trino-base-jdbc@446?classifier=sources
+- pkg:maven/io.trino/trino-base-jdbc@447
+- pkg:maven/io.trino/trino-base-jdbc@447?classifier=sources
+- pkg:maven/io.trino/trino-base-jdbc@448
+- pkg:maven/io.trino/trino-base-jdbc@448?classifier=sources
+- pkg:maven/io.trino/trino-base-jdbc@449
+- pkg:maven/io.trino/trino-base-jdbc@449?classifier=sources

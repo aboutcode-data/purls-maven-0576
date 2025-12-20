@@ -2,3 +2,4 @@
 - pkg:maven/org.boomevents/hubspot-sdk@1.3.1?classifier=sources
 - pkg:maven/org.boomevents/hubspot-sdk@1.4.0?classifier=sources
 - pkg:maven/org.boomevents/hubspot-sdk@1.5.0-beta.1?classifier=sources
+- pkg:maven/org.boomevents/hubspot-sdk@1.6.0-beta.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/ch.exense.step/step-plans-yaml-support@3.25.0
+- pkg:maven/ch.exense.step/step-plans-yaml-support@3.25.0?classifier=sources

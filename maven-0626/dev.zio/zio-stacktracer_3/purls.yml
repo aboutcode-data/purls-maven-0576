@@ -96,6 +96,7 @@
 - pkg:maven/dev.zio/zio-stacktracer_3@2.0.9?classifier=sources
 - pkg:maven/dev.zio/zio-stacktracer_3@2.1-RC1
 - pkg:maven/dev.zio/zio-stacktracer_3@2.1-RC1?classifier=sources
+- pkg:maven/dev.zio/zio-stacktracer_3@2.1.0
 - pkg:maven/dev.zio/zio-stacktracer_3@2.1.0-RC2
 - pkg:maven/dev.zio/zio-stacktracer_3@2.1.0-RC2?classifier=sources
 - pkg:maven/dev.zio/zio-stacktracer_3@2.1.0-RC3
@@ -104,3 +105,6 @@
 - pkg:maven/dev.zio/zio-stacktracer_3@2.1.0-RC4?classifier=sources
 - pkg:maven/dev.zio/zio-stacktracer_3@2.1.0-RC5
 - pkg:maven/dev.zio/zio-stacktracer_3@2.1.0-RC5?classifier=sources
+- pkg:maven/dev.zio/zio-stacktracer_3@2.1.0?classifier=sources
+- pkg:maven/dev.zio/zio-stacktracer_3@2.1.1
+- pkg:maven/dev.zio/zio-stacktracer_3@2.1.1?classifier=sources

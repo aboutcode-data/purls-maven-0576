@@ -1,1 +1,2 @@
 - pkg:maven/io.github.bonede/tree-sitter-qmljs@0.1.2?classifier=sources
+- pkg:maven/io.github.bonede/tree-sitter-qmljs@0.1.2a?classifier=sources

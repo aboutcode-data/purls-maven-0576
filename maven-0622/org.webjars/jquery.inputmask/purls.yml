@@ -9,3 +9,4 @@
 - pkg:maven/org.webjars/jquery.inputmask@5.0.5
 - pkg:maven/org.webjars/jquery.inputmask@5.0.7
 - pkg:maven/org.webjars/jquery.inputmask@5.0.8
+- pkg:maven/org.webjars/jquery.inputmask@5.0.9

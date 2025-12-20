@@ -124,3 +124,5 @@
 - pkg:maven/org.ojalgo/ojalgo@53.2.0?classifier=sources
 - pkg:maven/org.ojalgo/ojalgo@53.3.0
 - pkg:maven/org.ojalgo/ojalgo@53.3.0?classifier=sources
+- pkg:maven/org.ojalgo/ojalgo@54.0.0
+- pkg:maven/org.ojalgo/ojalgo@54.0.0?classifier=sources

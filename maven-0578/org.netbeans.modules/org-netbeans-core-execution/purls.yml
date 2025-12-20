@@ -21,4 +21,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-core-execution@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-core-execution@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-core-execution@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-core-execution@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-core-execution@RELEASE90?classifier=sources

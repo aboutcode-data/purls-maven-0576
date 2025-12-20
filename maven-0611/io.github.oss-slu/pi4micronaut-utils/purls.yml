@@ -1,1 +1,2 @@
 - pkg:maven/io.github.oss-slu/pi4micronaut-utils@v1.0?classifier=sources
+- pkg:maven/io.github.oss-slu/pi4micronaut-utils@v1.1?classifier=sources

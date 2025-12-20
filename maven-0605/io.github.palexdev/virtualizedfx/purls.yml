@@ -38,3 +38,4 @@
 - pkg:maven/io.github.palexdev/virtualizedfx@21.3.0?classifier=sources
 - pkg:maven/io.github.palexdev/virtualizedfx@21.3.1?classifier=sources
 - pkg:maven/io.github.palexdev/virtualizedfx@21.4.0?classifier=sources
+- pkg:maven/io.github.palexdev/virtualizedfx@21.5.0?classifier=sources

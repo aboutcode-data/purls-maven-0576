@@ -20,3 +20,7 @@
 - pkg:maven/co.topl/quivr4s_2.13@2.0.0-beta3?classifier=sources
 - pkg:maven/co.topl/quivr4s_2.13@2.0.0-beta4
 - pkg:maven/co.topl/quivr4s_2.13@2.0.0-beta4?classifier=sources
+- pkg:maven/co.topl/quivr4s_2.13@2.0.0-beta5
+- pkg:maven/co.topl/quivr4s_2.13@2.0.0-beta5?classifier=sources
+- pkg:maven/co.topl/quivr4s_2.13@2.0.0-beta6
+- pkg:maven/co.topl/quivr4s_2.13@2.0.0-beta6?classifier=sources

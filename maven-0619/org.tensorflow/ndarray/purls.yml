@@ -10,5 +10,7 @@
 - pkg:maven/org.tensorflow/ndarray@0.3.3?classifier=sources
 - pkg:maven/org.tensorflow/ndarray@0.4.0
 - pkg:maven/org.tensorflow/ndarray@0.4.0?classifier=sources
+- pkg:maven/org.tensorflow/ndarray@1.0.0
 - pkg:maven/org.tensorflow/ndarray@1.0.0-rc.1
 - pkg:maven/org.tensorflow/ndarray@1.0.0-rc.1?classifier=sources
+- pkg:maven/org.tensorflow/ndarray@1.0.0?classifier=sources

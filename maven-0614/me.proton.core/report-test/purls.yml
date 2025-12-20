@@ -51,3 +51,9 @@
 - pkg:maven/me.proton.core/report-test@22.1.0?classifier=sources
 - pkg:maven/me.proton.core/report-test@22.2.0?classifier=sources
 - pkg:maven/me.proton.core/report-test@23.0.0?classifier=sources
+- pkg:maven/me.proton.core/report-test@23.0.1?classifier=sources
+- pkg:maven/me.proton.core/report-test@23.1.0?classifier=sources
+- pkg:maven/me.proton.core/report-test@23.2.0?classifier=sources
+- pkg:maven/me.proton.core/report-test@24.0.0?classifier=sources
+- pkg:maven/me.proton.core/report-test@24.0.1?classifier=sources
+- pkg:maven/me.proton.core/report-test@24.0.2?classifier=sources

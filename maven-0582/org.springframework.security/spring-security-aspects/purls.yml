@@ -332,3 +332,4 @@
 - pkg:maven/org.springframework.security/spring-security-aspects@6.2.2?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-aspects@6.2.3?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-aspects@6.2.4?classifier=sources
+- pkg:maven/org.springframework.security/spring-security-aspects@6.3.0?classifier=sources

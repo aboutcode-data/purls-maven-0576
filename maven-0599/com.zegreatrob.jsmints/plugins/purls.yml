@@ -376,6 +376,10 @@
 - pkg:maven/com.zegreatrob.jsmints/plugins@5.2.9?classifier=sources
 - pkg:maven/com.zegreatrob.jsmints/plugins@5.3.0?classifier=sources
 - pkg:maven/com.zegreatrob.jsmints/plugins@5.4.0?classifier=sources
+- pkg:maven/com.zegreatrob.jsmints/plugins@5.4.100?classifier=sources
+- pkg:maven/com.zegreatrob.jsmints/plugins@5.4.101?classifier=sources
+- pkg:maven/com.zegreatrob.jsmints/plugins@5.4.102?classifier=sources
+- pkg:maven/com.zegreatrob.jsmints/plugins@5.4.103?classifier=sources
 - pkg:maven/com.zegreatrob.jsmints/plugins@5.4.10?classifier=sources
 - pkg:maven/com.zegreatrob.jsmints/plugins@5.4.11?classifier=sources
 - pkg:maven/com.zegreatrob.jsmints/plugins@5.4.12?classifier=sources
@@ -463,4 +467,15 @@
 - pkg:maven/com.zegreatrob.jsmints/plugins@5.4.89?classifier=sources
 - pkg:maven/com.zegreatrob.jsmints/plugins@5.4.8?classifier=sources
 - pkg:maven/com.zegreatrob.jsmints/plugins@5.4.90?classifier=sources
+- pkg:maven/com.zegreatrob.jsmints/plugins@5.4.91?classifier=sources
+- pkg:maven/com.zegreatrob.jsmints/plugins@5.4.92?classifier=sources
+- pkg:maven/com.zegreatrob.jsmints/plugins@5.4.93?classifier=sources
+- pkg:maven/com.zegreatrob.jsmints/plugins@5.4.94?classifier=sources
+- pkg:maven/com.zegreatrob.jsmints/plugins@5.4.95?classifier=sources
+- pkg:maven/com.zegreatrob.jsmints/plugins@5.4.96?classifier=sources
+- pkg:maven/com.zegreatrob.jsmints/plugins@5.4.97?classifier=sources
+- pkg:maven/com.zegreatrob.jsmints/plugins@5.4.98?classifier=sources
+- pkg:maven/com.zegreatrob.jsmints/plugins@5.4.99?classifier=sources
 - pkg:maven/com.zegreatrob.jsmints/plugins@5.4.9?classifier=sources
+- pkg:maven/com.zegreatrob.jsmints/plugins@6.0.0?classifier=sources
+- pkg:maven/com.zegreatrob.jsmints/plugins@6.0.1?classifier=sources

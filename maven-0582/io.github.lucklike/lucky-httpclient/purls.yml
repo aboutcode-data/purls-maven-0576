@@ -4,3 +4,5 @@
 - pkg:maven/io.github.lucklike/lucky-httpclient@2.0.0.FINAL
 - pkg:maven/io.github.lucklike/lucky-httpclient@2.0.0.FINAL?classifier=sources
 - pkg:maven/io.github.lucklike/lucky-httpclient@2.0.0?classifier=sources
+- pkg:maven/io.github.lucklike/lucky-httpclient@2.1.0
+- pkg:maven/io.github.lucklike/lucky-httpclient@2.1.0?classifier=sources

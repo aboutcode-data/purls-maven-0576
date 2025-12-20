@@ -20,3 +20,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-ddloaders@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-ddloaders@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-ddloaders@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-ddloaders@RELEASE220?classifier=sources

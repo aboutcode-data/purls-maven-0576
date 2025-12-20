@@ -18,3 +18,5 @@
 - pkg:maven/cloud.piranha.feature/piranha-feature-crac@24.3.0?classifier=sources
 - pkg:maven/cloud.piranha.feature/piranha-feature-crac@24.4.0
 - pkg:maven/cloud.piranha.feature/piranha-feature-crac@24.4.0?classifier=sources
+- pkg:maven/cloud.piranha.feature/piranha-feature-crac@24.5.0
+- pkg:maven/cloud.piranha.feature/piranha-feature-crac@24.5.0?classifier=sources

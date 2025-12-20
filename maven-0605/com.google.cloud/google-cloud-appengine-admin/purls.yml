@@ -112,6 +112,10 @@
 - pkg:maven/com.google.cloud/google-cloud-appengine-admin@2.41.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-appengine-admin@2.42.0
 - pkg:maven/com.google.cloud/google-cloud-appengine-admin@2.42.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-appengine-admin@2.43.0
+- pkg:maven/com.google.cloud/google-cloud-appengine-admin@2.43.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-appengine-admin@2.44.0
+- pkg:maven/com.google.cloud/google-cloud-appengine-admin@2.44.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-appengine-admin@2.5.0
 - pkg:maven/com.google.cloud/google-cloud-appengine-admin@2.5.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-appengine-admin@2.6.0

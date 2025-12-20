@@ -95,6 +95,8 @@
 - pkg:maven/com.stripe/camera-core@20.41.0?classifier=sources
 - pkg:maven/com.stripe/camera-core@20.41.1?classifier=sources
 - pkg:maven/com.stripe/camera-core@20.42.0?classifier=sources
+- pkg:maven/com.stripe/camera-core@20.43.0?classifier=sources
+- pkg:maven/com.stripe/camera-core@20.44.0?classifier=sources
 - pkg:maven/com.stripe/camera-core@20.5.0?classifier=sources
 - pkg:maven/com.stripe/camera-core@20.6.1?classifier=sources
 - pkg:maven/com.stripe/camera-core@20.6.2?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/org.openpreservation.jhove.modules/wave-hul@1.8.2-RC2
 - pkg:maven/org.openpreservation.jhove.modules/wave-hul@1.8.2-RC2?classifier=sources
 - pkg:maven/org.openpreservation.jhove.modules/wave-hul@1.8.2?classifier=sources
+- pkg:maven/org.openpreservation.jhove.modules/wave-hul@1.8.3
+- pkg:maven/org.openpreservation.jhove.modules/wave-hul@1.8.3?classifier=sources

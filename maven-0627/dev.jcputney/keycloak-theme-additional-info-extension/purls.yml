@@ -1,0 +1,2 @@
+- pkg:maven/dev.jcputney/keycloak-theme-additional-info-extension@1.1.4?classifier=sources
+- pkg:maven/dev.jcputney/keycloak-theme-additional-info-extension@1.1.5?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/org.aya-prover/ide-lsp@0.29.999?classifier=sources
 - pkg:maven/org.aya-prover/ide-lsp@0.29?classifier=sources
 - pkg:maven/org.aya-prover/ide-lsp@0.30.0?classifier=sources
+- pkg:maven/org.aya-prover/ide-lsp@0.31.0?classifier=sources
+- pkg:maven/org.aya-prover/ide-lsp@0.32.0?classifier=sources

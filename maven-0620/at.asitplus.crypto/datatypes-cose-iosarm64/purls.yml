@@ -5,3 +5,4 @@
 - pkg:maven/at.asitplus.crypto/datatypes-cose-iosarm64@2.4.0?classifier=sources
 - pkg:maven/at.asitplus.crypto/datatypes-cose-iosarm64@2.5.0?classifier=sources
 - pkg:maven/at.asitplus.crypto/datatypes-cose-iosarm64@2.6.0?classifier=sources
+- pkg:maven/at.asitplus.crypto/datatypes-cose-iosarm64@3.0.0?classifier=sources

@@ -58,6 +58,8 @@
 - pkg:maven/org.apache.activemq/artemis-jms-client-osgi@2.32.0?classifier=sources
 - pkg:maven/org.apache.activemq/artemis-jms-client-osgi@2.33.0
 - pkg:maven/org.apache.activemq/artemis-jms-client-osgi@2.33.0?classifier=sources
+- pkg:maven/org.apache.activemq/artemis-jms-client-osgi@2.34.0
+- pkg:maven/org.apache.activemq/artemis-jms-client-osgi@2.34.0?classifier=sources
 - pkg:maven/org.apache.activemq/artemis-jms-client-osgi@2.5.0
 - pkg:maven/org.apache.activemq/artemis-jms-client-osgi@2.5.0?classifier=sources
 - pkg:maven/org.apache.activemq/artemis-jms-client-osgi@2.6.0

@@ -20,3 +20,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-websvc-wsstackapi@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-websvc-wsstackapi@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-websvc-wsstackapi@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-websvc-wsstackapi@RELEASE220?classifier=sources

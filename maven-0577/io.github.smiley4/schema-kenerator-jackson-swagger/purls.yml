@@ -1,0 +1,2 @@
+- pkg:maven/io.github.smiley4/schema-kenerator-jackson-swagger@0.3.0?classifier=sources
+- pkg:maven/io.github.smiley4/schema-kenerator-jackson-swagger@0.4.0?classifier=sources

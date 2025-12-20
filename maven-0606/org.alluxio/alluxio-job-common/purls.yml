@@ -128,3 +128,5 @@
 - pkg:maven/org.alluxio/alluxio-job-common@311?classifier=sources
 - pkg:maven/org.alluxio/alluxio-job-common@312
 - pkg:maven/org.alluxio/alluxio-job-common@312?classifier=sources
+- pkg:maven/org.alluxio/alluxio-job-common@313
+- pkg:maven/org.alluxio/alluxio-job-common@313?classifier=sources
