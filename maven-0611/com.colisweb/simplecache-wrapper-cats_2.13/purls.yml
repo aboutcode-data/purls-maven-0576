@@ -6,3 +6,5 @@
 - pkg:maven/com.colisweb/simplecache-wrapper-cats_2.13@2.1.2-teta?classifier=sources
 - pkg:maven/com.colisweb/simplecache-wrapper-cats_2.13@2.1.3-beta
 - pkg:maven/com.colisweb/simplecache-wrapper-cats_2.13@2.1.3-beta?classifier=sources
+- pkg:maven/com.colisweb/simplecache-wrapper-cats_2.13@3.0.0
+- pkg:maven/com.colisweb/simplecache-wrapper-cats_2.13@3.0.0?classifier=sources

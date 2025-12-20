@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.camel/camel-test-infra-smb@4.2.0
+- pkg:maven/org.apache.camel/camel-test-infra-smb@4.2.0?classifier=sources

@@ -46,3 +46,5 @@
 - pkg:maven/io.gravitee.policy/gravitee-policy-json-xml@3.0.1?type=zip
 - pkg:maven/io.gravitee.policy/gravitee-policy-json-xml@3.0.2?classifier=sources
 - pkg:maven/io.gravitee.policy/gravitee-policy-json-xml@3.0.2?type=zip
+- pkg:maven/io.gravitee.policy/gravitee-policy-json-xml@3.0.3?classifier=sources
+- pkg:maven/io.gravitee.policy/gravitee-policy-json-xml@3.0.3?type=zip

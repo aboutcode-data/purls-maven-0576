@@ -24,6 +24,14 @@
 - pkg:maven/me.proton.core/observability@17.0.1?classifier=sources
 - pkg:maven/me.proton.core/observability@17.0.2?classifier=sources
 - pkg:maven/me.proton.core/observability@17.0.3?classifier=sources
+- pkg:maven/me.proton.core/observability@17.1.0?classifier=sources
+- pkg:maven/me.proton.core/observability@17.2.0?classifier=sources
+- pkg:maven/me.proton.core/observability@17.2.1?classifier=sources
+- pkg:maven/me.proton.core/observability@17.3.0?classifier=sources
+- pkg:maven/me.proton.core/observability@18.0.0?classifier=sources
+- pkg:maven/me.proton.core/observability@18.1.0?classifier=sources
+- pkg:maven/me.proton.core/observability@18.1.1?classifier=sources
+- pkg:maven/me.proton.core/observability@18.2.0?classifier=sources
 - pkg:maven/me.proton.core/observability@9.11.0?classifier=sources
 - pkg:maven/me.proton.core/observability@9.11.1?classifier=sources
 - pkg:maven/me.proton.core/observability@9.11.2?classifier=sources

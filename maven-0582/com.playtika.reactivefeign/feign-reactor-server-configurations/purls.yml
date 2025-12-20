@@ -46,3 +46,5 @@
 - pkg:maven/com.playtika.reactivefeign/feign-reactor-server-configurations@3.2.6
 - pkg:maven/com.playtika.reactivefeign/feign-reactor-server-configurations@3.3.0
 - pkg:maven/com.playtika.reactivefeign/feign-reactor-server-configurations@4.0.0
+- pkg:maven/com.playtika.reactivefeign/feign-reactor-server-configurations@4.0.2
+- pkg:maven/com.playtika.reactivefeign/feign-reactor-server-configurations@4.0.3

@@ -81,6 +81,7 @@
 - pkg:maven/org.opendaylight.aaa.web/web-osgi-impl@0.16.1
 - pkg:maven/org.opendaylight.aaa.web/web-osgi-impl@0.16.10
 - pkg:maven/org.opendaylight.aaa.web/web-osgi-impl@0.16.10?classifier=sources
+- pkg:maven/org.opendaylight.aaa.web/web-osgi-impl@0.16.11?classifier=sources
 - pkg:maven/org.opendaylight.aaa.web/web-osgi-impl@0.16.1?classifier=sources
 - pkg:maven/org.opendaylight.aaa.web/web-osgi-impl@0.16.2?classifier=sources
 - pkg:maven/org.opendaylight.aaa.web/web-osgi-impl@0.16.3?classifier=sources

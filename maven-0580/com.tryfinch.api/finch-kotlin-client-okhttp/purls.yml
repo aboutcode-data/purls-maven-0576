@@ -2,3 +2,13 @@
 - pkg:maven/com.tryfinch.api/finch-kotlin-client-okhttp@0.0.3?classifier=sources
 - pkg:maven/com.tryfinch.api/finch-kotlin-client-okhttp@0.0.4?classifier=sources
 - pkg:maven/com.tryfinch.api/finch-kotlin-client-okhttp@0.0.5?classifier=sources
+- pkg:maven/com.tryfinch.api/finch-kotlin-client-okhttp@0.1.0?classifier=sources
+- pkg:maven/com.tryfinch.api/finch-kotlin-client-okhttp@0.2.0?classifier=sources
+- pkg:maven/com.tryfinch.api/finch-kotlin-client-okhttp@0.2.1?classifier=sources
+- pkg:maven/com.tryfinch.api/finch-kotlin-client-okhttp@0.3.0?classifier=sources
+- pkg:maven/com.tryfinch.api/finch-kotlin-client-okhttp@0.3.1?classifier=sources
+- pkg:maven/com.tryfinch.api/finch-kotlin-client-okhttp@0.4.0?classifier=sources
+- pkg:maven/com.tryfinch.api/finch-kotlin-client-okhttp@0.5.0?classifier=sources
+- pkg:maven/com.tryfinch.api/finch-kotlin-client-okhttp@0.6.0?classifier=sources
+- pkg:maven/com.tryfinch.api/finch-kotlin-client-okhttp@0.7.0?classifier=sources
+- pkg:maven/com.tryfinch.api/finch-kotlin-client-okhttp@0.8.0?classifier=sources

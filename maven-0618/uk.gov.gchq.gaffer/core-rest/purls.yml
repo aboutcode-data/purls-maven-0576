@@ -186,3 +186,5 @@
 - pkg:maven/uk.gov.gchq.gaffer/core-rest@2.0.0-alpha-0.6?type=war
 - pkg:maven/uk.gov.gchq.gaffer/core-rest@2.0.0?classifier=sources
 - pkg:maven/uk.gov.gchq.gaffer/core-rest@2.0.0?type=war
+- pkg:maven/uk.gov.gchq.gaffer/core-rest@2.1.0?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/core-rest@2.1.0?type=war

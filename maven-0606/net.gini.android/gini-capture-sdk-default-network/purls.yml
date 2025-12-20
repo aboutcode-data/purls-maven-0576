@@ -40,3 +40,5 @@
 - pkg:maven/net.gini.android/gini-capture-sdk-default-network@3.3.0?classifier=sources
 - pkg:maven/net.gini.android/gini-capture-sdk-default-network@3.4.0?classifier=sources
 - pkg:maven/net.gini.android/gini-capture-sdk-default-network@3.5.0?classifier=sources
+- pkg:maven/net.gini.android/gini-capture-sdk-default-network@3.6.0?classifier=sources
+- pkg:maven/net.gini.android/gini-capture-sdk-default-network@3.7.0?classifier=sources

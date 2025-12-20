@@ -8,3 +8,6 @@
 - pkg:maven/com.github.tsantalis/refactoring-miner@2.3.1?classifier=sources
 - pkg:maven/com.github.tsantalis/refactoring-miner@2.3.2?classifier=sources
 - pkg:maven/com.github.tsantalis/refactoring-miner@2.4.0?classifier=sources
+- pkg:maven/com.github.tsantalis/refactoring-miner@3.0.0?classifier=sources
+- pkg:maven/com.github.tsantalis/refactoring-miner@3.0.1?classifier=sources
+- pkg:maven/com.github.tsantalis/refactoring-miner@3.0.2?classifier=sources

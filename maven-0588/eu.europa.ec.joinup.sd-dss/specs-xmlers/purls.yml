@@ -1,0 +1,2 @@
+- pkg:maven/eu.europa.ec.joinup.sd-dss/specs-xmlers@5.13.RC1
+- pkg:maven/eu.europa.ec.joinup.sd-dss/specs-xmlers@5.13.RC1?classifier=sources

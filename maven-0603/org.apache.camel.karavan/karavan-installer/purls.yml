@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.camel.karavan/karavan-installer@4.0.0
+- pkg:maven/org.apache.camel.karavan/karavan-installer@4.1.0

@@ -5,6 +5,7 @@
 - pkg:maven/com.tradplusad/tradplus-mimo@46.10.1.0?type=aar
 - pkg:maven/com.tradplusad/tradplus-mimo@46.10.2.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-mimo@46.10.2.0?type=aar
+- pkg:maven/com.tradplusad/tradplus-mimo@46.10.3.11.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-mimo@46.7.1.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-mimo@46.7.1.0?type=aar
 - pkg:maven/com.tradplusad/tradplus-mimo@46.7.2.0.1?type=aar
@@ -120,6 +121,7 @@
 - pkg:maven/com.tradplusad/tradplus-mimo@46.9.4.20.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-mimo@46.9.4.30.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-mimo@46.9.4.40.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-mimo@46.9.4.50.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-mimo@46.9.5.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-mimo@46.9.5.0?type=aar
 - pkg:maven/com.tradplusad/tradplus-mimo@46.9.6.0.1?type=aar

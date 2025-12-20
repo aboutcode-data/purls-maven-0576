@@ -1,0 +1,2 @@
+- pkg:maven/io.streamthoughts/jikkou-api-client@0.31.0
+- pkg:maven/io.streamthoughts/jikkou-api-client@0.31.0?classifier=sources

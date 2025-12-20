@@ -47,3 +47,4 @@
 - pkg:maven/com.rte-france.powsybl/powsybl-adn-xml@3.8.0
 - pkg:maven/com.rte-france.powsybl/powsybl-adn-xml@3.9.0
 - pkg:maven/com.rte-france.powsybl/powsybl-adn-xml@4.0.0
+- pkg:maven/com.rte-france.powsybl/powsybl-adn-xml@4.1.0

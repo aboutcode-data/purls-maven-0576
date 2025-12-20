@@ -8,3 +8,5 @@
 - pkg:maven/com.oracle.database.graph/graph-query-ir@2.0.1.7?classifier=sources
 - pkg:maven/com.oracle.database.graph/graph-query-ir@2.0.3.4
 - pkg:maven/com.oracle.database.graph/graph-query-ir@2.0.3.4?classifier=sources
+- pkg:maven/com.oracle.database.graph/graph-query-ir@2.0.7.5
+- pkg:maven/com.oracle.database.graph/graph-query-ir@2.0.7.5?classifier=sources

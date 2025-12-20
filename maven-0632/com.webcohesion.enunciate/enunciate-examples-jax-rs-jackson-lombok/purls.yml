@@ -30,6 +30,8 @@
 - pkg:maven/com.webcohesion.enunciate/enunciate-examples-jax-rs-jackson-lombok@2.16.1?type=war
 - pkg:maven/com.webcohesion.enunciate/enunciate-examples-jax-rs-jackson-lombok@2.17.0?classifier=sources
 - pkg:maven/com.webcohesion.enunciate/enunciate-examples-jax-rs-jackson-lombok@2.17.0?type=war
+- pkg:maven/com.webcohesion.enunciate/enunciate-examples-jax-rs-jackson-lombok@2.17.1?classifier=sources
+- pkg:maven/com.webcohesion.enunciate/enunciate-examples-jax-rs-jackson-lombok@2.17.1?type=war
 - pkg:maven/com.webcohesion.enunciate/enunciate-examples-jax-rs-jackson-lombok@2.7.0?classifier=sources
 - pkg:maven/com.webcohesion.enunciate/enunciate-examples-jax-rs-jackson-lombok@2.7.0?type=war
 - pkg:maven/com.webcohesion.enunciate/enunciate-examples-jax-rs-jackson-lombok@2.8.0?classifier=sources

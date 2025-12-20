@@ -21,5 +21,7 @@
 - pkg:maven/cn.rongcloud.sdk/emoji-compat@5.6.1.1?type=aar
 - pkg:maven/cn.rongcloud.sdk/emoji-compat@5.6.1?type=aar
 - pkg:maven/cn.rongcloud.sdk/emoji-compat@5.6.2?type=aar
+- pkg:maven/cn.rongcloud.sdk/emoji-compat@5.6.3.101?type=aar
 - pkg:maven/cn.rongcloud.sdk/emoji-compat@5.6.3?type=aar
 - pkg:maven/cn.rongcloud.sdk/emoji-compat@5.6.4?type=aar
+- pkg:maven/cn.rongcloud.sdk/emoji-compat@5.6.6?type=aar

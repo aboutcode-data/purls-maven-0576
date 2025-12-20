@@ -1,0 +1,2 @@
+- pkg:maven/io.dataspray/next-export-cdk@0.0.0
+- pkg:maven/io.dataspray/next-export-cdk@0.0.0?classifier=sources

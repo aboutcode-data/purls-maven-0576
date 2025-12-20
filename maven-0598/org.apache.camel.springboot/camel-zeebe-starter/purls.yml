@@ -2,6 +2,8 @@
 - pkg:maven/org.apache.camel.springboot/camel-zeebe-starter@3.21.0?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-zeebe-starter@3.21.1
 - pkg:maven/org.apache.camel.springboot/camel-zeebe-starter@3.21.1?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-zeebe-starter@3.21.2
+- pkg:maven/org.apache.camel.springboot/camel-zeebe-starter@3.21.2?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-zeebe-starter@4.0.0
 - pkg:maven/org.apache.camel.springboot/camel-zeebe-starter@4.0.0-M1
 - pkg:maven/org.apache.camel.springboot/camel-zeebe-starter@4.0.0-M1?classifier=sources
@@ -16,5 +18,11 @@
 - pkg:maven/org.apache.camel.springboot/camel-zeebe-starter@4.0.0?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-zeebe-starter@4.0.1
 - pkg:maven/org.apache.camel.springboot/camel-zeebe-starter@4.0.1?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-zeebe-starter@4.0.2
+- pkg:maven/org.apache.camel.springboot/camel-zeebe-starter@4.0.2?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-zeebe-starter@4.0.3
+- pkg:maven/org.apache.camel.springboot/camel-zeebe-starter@4.0.3?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-zeebe-starter@4.1.0
 - pkg:maven/org.apache.camel.springboot/camel-zeebe-starter@4.1.0?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-zeebe-starter@4.2.0
+- pkg:maven/org.apache.camel.springboot/camel-zeebe-starter@4.2.0?classifier=sources

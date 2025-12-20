@@ -1,2 +1,4 @@
 - pkg:maven/uk.bot-by.maven-plugin/ijhttp-maven-plugin@1.0.0
 - pkg:maven/uk.bot-by.maven-plugin/ijhttp-maven-plugin@1.0.0?classifier=sources
+- pkg:maven/uk.bot-by.maven-plugin/ijhttp-maven-plugin@1.0.1
+- pkg:maven/uk.bot-by.maven-plugin/ijhttp-maven-plugin@1.0.1?classifier=sources

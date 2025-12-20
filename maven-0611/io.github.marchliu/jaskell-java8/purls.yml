@@ -65,3 +65,15 @@
 - pkg:maven/io.github.marchliu/jaskell-java8@2.2.1?classifier=sources
 - pkg:maven/io.github.marchliu/jaskell-java8@2.2.2
 - pkg:maven/io.github.marchliu/jaskell-java8@2.2.2?classifier=sources
+- pkg:maven/io.github.marchliu/jaskell-java8@2.3.2
+- pkg:maven/io.github.marchliu/jaskell-java8@2.3.2?classifier=sources
+- pkg:maven/io.github.marchliu/jaskell-java8@2.4.0
+- pkg:maven/io.github.marchliu/jaskell-java8@2.4.0?classifier=sources
+- pkg:maven/io.github.marchliu/jaskell-java8@2.5.0
+- pkg:maven/io.github.marchliu/jaskell-java8@2.5.0?classifier=sources
+- pkg:maven/io.github.marchliu/jaskell-java8@2.6.0
+- pkg:maven/io.github.marchliu/jaskell-java8@2.6.0?classifier=sources
+- pkg:maven/io.github.marchliu/jaskell-java8@2.6.1
+- pkg:maven/io.github.marchliu/jaskell-java8@2.6.1?classifier=sources
+- pkg:maven/io.github.marchliu/jaskell-java8@2.7.0
+- pkg:maven/io.github.marchliu/jaskell-java8@2.7.0?classifier=sources

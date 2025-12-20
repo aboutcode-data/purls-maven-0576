@@ -27,3 +27,4 @@
 - pkg:maven/com.raxdenstudios/commons-retrofit@4.9.4?classifier=sources
 - pkg:maven/com.raxdenstudios/commons-retrofit@5.0.0?classifier=sources
 - pkg:maven/com.raxdenstudios/commons-retrofit@5.0.3?classifier=sources
+- pkg:maven/com.raxdenstudios/commons-retrofit@5.1.0?classifier=sources

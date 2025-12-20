@@ -76,3 +76,5 @@
 - pkg:maven/dev.struchkov.godfather.telegram/telegram-context-main@0.0.71?classifier=sources
 - pkg:maven/dev.struchkov.godfather.telegram/telegram-context-main@0.0.72
 - pkg:maven/dev.struchkov.godfather.telegram/telegram-context-main@0.0.72?classifier=sources
+- pkg:maven/dev.struchkov.godfather.telegram/telegram-context-main@1.0.0
+- pkg:maven/dev.struchkov.godfather.telegram/telegram-context-main@1.0.0?classifier=sources

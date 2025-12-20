@@ -22,3 +22,4 @@
 - pkg:maven/cn.lnkdoc.sdk/awesome-uia-sdk@2.3.0?classifier=sources
 - pkg:maven/cn.lnkdoc.sdk/awesome-uia-sdk@2.4.0?classifier=sources
 - pkg:maven/cn.lnkdoc.sdk/awesome-uia-sdk@2.5.0?classifier=sources
+- pkg:maven/cn.lnkdoc.sdk/awesome-uia-sdk@2.6.0?classifier=sources

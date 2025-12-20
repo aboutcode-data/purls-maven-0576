@@ -44,3 +44,5 @@
 - pkg:maven/org.apache.druid.extensions.contrib/druid-moving-average-query@26.0.0?classifier=sources
 - pkg:maven/org.apache.druid.extensions.contrib/druid-moving-average-query@27.0.0
 - pkg:maven/org.apache.druid.extensions.contrib/druid-moving-average-query@27.0.0?classifier=sources
+- pkg:maven/org.apache.druid.extensions.contrib/druid-moving-average-query@28.0.0
+- pkg:maven/org.apache.druid.extensions.contrib/druid-moving-average-query@28.0.0?classifier=sources

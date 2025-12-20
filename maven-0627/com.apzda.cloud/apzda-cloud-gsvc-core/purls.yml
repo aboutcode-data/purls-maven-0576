@@ -1,0 +1,4 @@
+- pkg:maven/com.apzda.cloud/apzda-cloud-gsvc-core@1.0.3
+- pkg:maven/com.apzda.cloud/apzda-cloud-gsvc-core@1.0.3?classifier=sources
+- pkg:maven/com.apzda.cloud/apzda-cloud-gsvc-core@1.0.4
+- pkg:maven/com.apzda.cloud/apzda-cloud-gsvc-core@1.0.4?classifier=sources

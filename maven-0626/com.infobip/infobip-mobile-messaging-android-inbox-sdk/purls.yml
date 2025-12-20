@@ -1,4 +1,8 @@
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-inbox-sdk@10.0.0?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-android-inbox-sdk@10.1.0?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-android-inbox-sdk@10.1.1?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-android-inbox-sdk@11.0.0?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-android-inbox-sdk@11.0.1?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-inbox-sdk@6.5.0-rc1?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-inbox-sdk@6.5.0-rc1?type=aar
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-inbox-sdk@7.0.0-rc1?classifier=sources

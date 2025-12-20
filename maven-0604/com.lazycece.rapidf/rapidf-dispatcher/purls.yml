@@ -1,2 +1,4 @@
 - pkg:maven/com.lazycece.rapidf/rapidf-dispatcher@1.4.0
 - pkg:maven/com.lazycece.rapidf/rapidf-dispatcher@1.4.0?classifier=sources
+- pkg:maven/com.lazycece.rapidf/rapidf-dispatcher@2.0.0
+- pkg:maven/com.lazycece.rapidf/rapidf-dispatcher@2.0.0?classifier=sources

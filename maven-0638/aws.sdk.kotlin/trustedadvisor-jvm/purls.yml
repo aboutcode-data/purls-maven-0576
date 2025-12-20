@@ -1,0 +1,4 @@
+- pkg:maven/aws.sdk.kotlin/trustedadvisor-jvm@0.35.0-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/trustedadvisor-jvm@0.35.1-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/trustedadvisor-jvm@0.36.0-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/trustedadvisor-jvm@0.36.1-beta?classifier=sources

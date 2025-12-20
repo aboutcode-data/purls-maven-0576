@@ -1,8 +1,16 @@
+- pkg:maven/io.avaje/avaje-http-api-javalin@2.0
 - pkg:maven/io.avaje/avaje-http-api-javalin@2.0-RC10
 - pkg:maven/io.avaje/avaje-http-api-javalin@2.0-RC10?classifier=sources
+- pkg:maven/io.avaje/avaje-http-api-javalin@2.0-RC11
+- pkg:maven/io.avaje/avaje-http-api-javalin@2.0-RC11?classifier=sources
+- pkg:maven/io.avaje/avaje-http-api-javalin@2.0-RC12
+- pkg:maven/io.avaje/avaje-http-api-javalin@2.0-RC12?classifier=sources
 - pkg:maven/io.avaje/avaje-http-api-javalin@2.0-RC7
 - pkg:maven/io.avaje/avaje-http-api-javalin@2.0-RC7?classifier=sources
 - pkg:maven/io.avaje/avaje-http-api-javalin@2.0-RC8
 - pkg:maven/io.avaje/avaje-http-api-javalin@2.0-RC8?classifier=sources
 - pkg:maven/io.avaje/avaje-http-api-javalin@2.0-RC9
 - pkg:maven/io.avaje/avaje-http-api-javalin@2.0-RC9?classifier=sources
+- pkg:maven/io.avaje/avaje-http-api-javalin@2.0?classifier=sources
+- pkg:maven/io.avaje/avaje-http-api-javalin@2.1-RC1
+- pkg:maven/io.avaje/avaje-http-api-javalin@2.1-RC1?classifier=sources

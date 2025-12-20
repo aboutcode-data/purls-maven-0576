@@ -49,3 +49,4 @@
 - pkg:maven/com.rte-france.powsybl/powsybl-iidm-shortcircuits@3.8.0
 - pkg:maven/com.rte-france.powsybl/powsybl-iidm-shortcircuits@3.9.0
 - pkg:maven/com.rte-france.powsybl/powsybl-iidm-shortcircuits@4.0.0
+- pkg:maven/com.rte-france.powsybl/powsybl-iidm-shortcircuits@4.1.0

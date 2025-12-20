@@ -30,6 +30,8 @@
 - pkg:maven/com.blazebit/blaze-persistence-jpa-criteria-testsuite@1.6.0-Alpha1
 - pkg:maven/com.blazebit/blaze-persistence-jpa-criteria-testsuite@1.6.0-Alpha2
 - pkg:maven/com.blazebit/blaze-persistence-jpa-criteria-testsuite@1.6.1
+- pkg:maven/com.blazebit/blaze-persistence-jpa-criteria-testsuite@1.6.10
+- pkg:maven/com.blazebit/blaze-persistence-jpa-criteria-testsuite@1.6.10?classifier=sources
 - pkg:maven/com.blazebit/blaze-persistence-jpa-criteria-testsuite@1.6.2
 - pkg:maven/com.blazebit/blaze-persistence-jpa-criteria-testsuite@1.6.3
 - pkg:maven/com.blazebit/blaze-persistence-jpa-criteria-testsuite@1.6.4

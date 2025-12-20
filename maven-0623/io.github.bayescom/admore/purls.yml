@@ -1,3 +1,5 @@
 - pkg:maven/io.github.bayescom/admore@4.3.0_11?type=aar
 - pkg:maven/io.github.bayescom/admore@4.3.0_11_core?type=aar
 - pkg:maven/io.github.bayescom/admore@4.3.0_rr1_11_core?type=aar
+- pkg:maven/io.github.bayescom/admore@4.3.1_11?type=aar
+- pkg:maven/io.github.bayescom/admore@4.3.1_11_core?type=aar

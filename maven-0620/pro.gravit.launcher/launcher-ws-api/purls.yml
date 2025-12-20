@@ -32,3 +32,5 @@
 - pkg:maven/pro.gravit.launcher/launcher-ws-api@5.4.3?classifier=sources
 - pkg:maven/pro.gravit.launcher/launcher-ws-api@5.4.4?classifier=sources
 - pkg:maven/pro.gravit.launcher/launcher-ws-api@5.5.0?classifier=sources
+- pkg:maven/pro.gravit.launcher/launcher-ws-api@5.5.1?classifier=sources
+- pkg:maven/pro.gravit.launcher/launcher-ws-api@5.5.2?classifier=sources

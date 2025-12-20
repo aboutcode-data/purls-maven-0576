@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/smithy__property-provider@2.0.14
+- pkg:maven/org.webjars.npm/smithy__property-provider@2.0.14?classifier=sources

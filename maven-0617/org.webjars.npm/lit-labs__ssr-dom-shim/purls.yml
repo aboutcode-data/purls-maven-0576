@@ -2,7 +2,9 @@
 - pkg:maven/org.webjars.npm/lit-labs__ssr-dom-shim@1.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/lit-labs__ssr-dom-shim@1.1.0
 - pkg:maven/org.webjars.npm/lit-labs__ssr-dom-shim@1.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/lit-labs__ssr-dom-shim@1.1.2
 - pkg:maven/org.webjars.npm/lit-labs__ssr-dom-shim@1.1.2-pre.0
 - pkg:maven/org.webjars.npm/lit-labs__ssr-dom-shim@1.1.2-pre.0?classifier=sources
 - pkg:maven/org.webjars.npm/lit-labs__ssr-dom-shim@1.1.2-pre.1
 - pkg:maven/org.webjars.npm/lit-labs__ssr-dom-shim@1.1.2-pre.1?classifier=sources
+- pkg:maven/org.webjars.npm/lit-labs__ssr-dom-shim@1.1.2?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/uk.co.odinconsultants.documentation_utils/scalatest_utils@0.1
+- pkg:maven/uk.co.odinconsultants.documentation_utils/scalatest_utils@0.1?classifier=sources
+- pkg:maven/uk.co.odinconsultants.documentation_utils/scalatest_utils@0.2
+- pkg:maven/uk.co.odinconsultants.documentation_utils/scalatest_utils@0.2?classifier=sources
+- pkg:maven/uk.co.odinconsultants.documentation_utils/scalatest_utils@0.3
+- pkg:maven/uk.co.odinconsultants.documentation_utils/scalatest_utils@0.3?classifier=sources

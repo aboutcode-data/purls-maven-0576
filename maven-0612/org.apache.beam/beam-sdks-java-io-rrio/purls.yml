@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.beam/beam-sdks-java-io-rrio@2.52.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.streamthoughts/jikkou-extension-kafka-connect@0.30.0
+- pkg:maven/io.streamthoughts/jikkou-extension-kafka-connect@0.30.0?classifier=sources
+- pkg:maven/io.streamthoughts/jikkou-extension-kafka-connect@0.31.0
+- pkg:maven/io.streamthoughts/jikkou-extension-kafka-connect@0.31.0?classifier=sources

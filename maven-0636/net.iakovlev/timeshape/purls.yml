@@ -34,3 +34,7 @@
 - pkg:maven/net.iakovlev/timeshape@2022g.17?classifier=sources
 - pkg:maven/net.iakovlev/timeshape@2023b.18
 - pkg:maven/net.iakovlev/timeshape@2023b.18?classifier=sources
+- pkg:maven/net.iakovlev/timeshape@2023b.19
+- pkg:maven/net.iakovlev/timeshape@2023b.19?classifier=sources
+- pkg:maven/net.iakovlev/timeshape@2023b.20
+- pkg:maven/net.iakovlev/timeshape@2023b.20?classifier=sources

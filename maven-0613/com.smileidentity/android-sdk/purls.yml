@@ -6,3 +6,9 @@
 - pkg:maven/com.smileidentity/android-sdk@10.0.0-beta06?classifier=sources
 - pkg:maven/com.smileidentity/android-sdk@10.0.0-beta07?classifier=sources
 - pkg:maven/com.smileidentity/android-sdk@10.0.0-beta08?classifier=sources
+- pkg:maven/com.smileidentity/android-sdk@10.0.0-beta09?classifier=sources
+- pkg:maven/com.smileidentity/android-sdk@10.0.0-beta10?classifier=sources
+- pkg:maven/com.smileidentity/android-sdk@10.0.0-beta11?classifier=sources
+- pkg:maven/com.smileidentity/android-sdk@10.0.0-beta12?classifier=sources
+- pkg:maven/com.smileidentity/android-sdk@10.0.0-beta13?classifier=sources
+- pkg:maven/com.smileidentity/android-sdk@10.0.0-beta14?classifier=sources

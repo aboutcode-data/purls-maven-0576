@@ -34,3 +34,7 @@
 - pkg:maven/systems.manifold/manifold-sql@2023.1.28?classifier=sources
 - pkg:maven/systems.manifold/manifold-sql@2023.1.29
 - pkg:maven/systems.manifold/manifold-sql@2023.1.29?classifier=sources
+- pkg:maven/systems.manifold/manifold-sql@2023.1.30
+- pkg:maven/systems.manifold/manifold-sql@2023.1.30?classifier=sources
+- pkg:maven/systems.manifold/manifold-sql@2023.1.31
+- pkg:maven/systems.manifold/manifold-sql@2023.1.31?classifier=sources

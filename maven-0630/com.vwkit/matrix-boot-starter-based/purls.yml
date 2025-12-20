@@ -98,3 +98,5 @@
 - pkg:maven/com.vwkit/matrix-boot-starter-based@1.8.8?classifier=sources
 - pkg:maven/com.vwkit/matrix-boot-starter-based@1.8.9
 - pkg:maven/com.vwkit/matrix-boot-starter-based@1.8.9?classifier=sources
+- pkg:maven/com.vwkit/matrix-boot-starter-based@2.0.0
+- pkg:maven/com.vwkit/matrix-boot-starter-based@2.0.0?classifier=sources

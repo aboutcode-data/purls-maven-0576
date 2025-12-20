@@ -6,3 +6,7 @@
 - pkg:maven/io.streamthoughts/jikkou-extension-aiven@0.27.0?classifier=sources
 - pkg:maven/io.streamthoughts/jikkou-extension-aiven@0.29.0
 - pkg:maven/io.streamthoughts/jikkou-extension-aiven@0.29.0?classifier=sources
+- pkg:maven/io.streamthoughts/jikkou-extension-aiven@0.30.0
+- pkg:maven/io.streamthoughts/jikkou-extension-aiven@0.30.0?classifier=sources
+- pkg:maven/io.streamthoughts/jikkou-extension-aiven@0.31.0
+- pkg:maven/io.streamthoughts/jikkou-extension-aiven@0.31.0?classifier=sources

@@ -114,3 +114,5 @@
 - pkg:maven/org.wildfly.wildfly-http-client/wildfly-http-client-common@2.0.3.Final?classifier=sources
 - pkg:maven/org.wildfly.wildfly-http-client/wildfly-http-client-common@2.0.4.Final?classifier=sources
 - pkg:maven/org.wildfly.wildfly-http-client/wildfly-http-client-common@2.0.5.Final?classifier=sources
+- pkg:maven/org.wildfly.wildfly-http-client/wildfly-http-client-common@2.0.6.Final
+- pkg:maven/org.wildfly.wildfly-http-client/wildfly-http-client-common@2.0.6.Final?classifier=sources

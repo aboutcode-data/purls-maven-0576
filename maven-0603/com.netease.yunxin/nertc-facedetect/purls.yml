@@ -10,6 +10,7 @@
 - pkg:maven/com.netease.yunxin/nertc-facedetect@4.6.41?type=aar
 - pkg:maven/com.netease.yunxin/nertc-facedetect@4.6.420?type=aar
 - pkg:maven/com.netease.yunxin/nertc-facedetect@4.6.421?type=aar
+- pkg:maven/com.netease.yunxin/nertc-facedetect@4.6.422?type=aar
 - pkg:maven/com.netease.yunxin/nertc-facedetect@4.6.42?type=aar
 - pkg:maven/com.netease.yunxin/nertc-facedetect@4.6.430?type=aar
 - pkg:maven/com.netease.yunxin/nertc-facedetect@4.6.43?type=aar
@@ -29,3 +30,7 @@
 - pkg:maven/com.netease.yunxin/nertc-facedetect@4.6.57?type=aar
 - pkg:maven/com.netease.yunxin/nertc-facedetect@4.6.61?type=aar
 - pkg:maven/com.netease.yunxin/nertc-facedetect@4.6.62?type=aar
+- pkg:maven/com.netease.yunxin/nertc-facedetect@4.6.63?type=aar
+- pkg:maven/com.netease.yunxin/nertc-facedetect@4.6.64?type=aar
+- pkg:maven/com.netease.yunxin/nertc-facedetect@4.6.65?type=aar
+- pkg:maven/com.netease.yunxin/nertc-facedetect@4.6.66?type=aar

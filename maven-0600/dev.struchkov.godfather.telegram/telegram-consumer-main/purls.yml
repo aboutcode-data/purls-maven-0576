@@ -59,3 +59,4 @@
 - pkg:maven/dev.struchkov.godfather.telegram/telegram-consumer-main@0.0.70
 - pkg:maven/dev.struchkov.godfather.telegram/telegram-consumer-main@0.0.71
 - pkg:maven/dev.struchkov.godfather.telegram/telegram-consumer-main@0.0.72
+- pkg:maven/dev.struchkov.godfather.telegram/telegram-consumer-main@1.0.0

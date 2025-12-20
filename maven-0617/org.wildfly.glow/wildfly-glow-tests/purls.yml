@@ -5,3 +5,4 @@
 - pkg:maven/org.wildfly.glow/wildfly-glow-tests@1.0.0.Alpha5
 - pkg:maven/org.wildfly.glow/wildfly-glow-tests@1.0.0.Alpha6
 - pkg:maven/org.wildfly.glow/wildfly-glow-tests@1.0.0.Alpha7
+- pkg:maven/org.wildfly.glow/wildfly-glow-tests@1.0.0.Alpha8

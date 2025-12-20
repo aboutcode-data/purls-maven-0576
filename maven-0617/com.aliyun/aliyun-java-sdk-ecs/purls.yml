@@ -332,3 +332,13 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-ecs@4.9.7?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-ecs@5.10.56
 - pkg:maven/com.aliyun/aliyun-java-sdk-ecs@5.10.56?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-ecs@5.10.57
+- pkg:maven/com.aliyun/aliyun-java-sdk-ecs@5.10.57?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-ecs@5.10.58
+- pkg:maven/com.aliyun/aliyun-java-sdk-ecs@5.10.58?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-ecs@5.10.59
+- pkg:maven/com.aliyun/aliyun-java-sdk-ecs@5.10.59?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-ecs@5.11.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-ecs@5.11.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-ecs@5.11.1
+- pkg:maven/com.aliyun/aliyun-java-sdk-ecs@5.11.1?classifier=sources

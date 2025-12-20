@@ -306,6 +306,16 @@
 - pkg:maven/io.ebean/ebean-maven-plugin@13.22.1?classifier=sources
 - pkg:maven/io.ebean/ebean-maven-plugin@13.23.0
 - pkg:maven/io.ebean/ebean-maven-plugin@13.23.0?classifier=sources
+- pkg:maven/io.ebean/ebean-maven-plugin@13.23.1
+- pkg:maven/io.ebean/ebean-maven-plugin@13.23.1?classifier=sources
+- pkg:maven/io.ebean/ebean-maven-plugin@13.23.2
+- pkg:maven/io.ebean/ebean-maven-plugin@13.23.2?classifier=sources
+- pkg:maven/io.ebean/ebean-maven-plugin@13.24.0
+- pkg:maven/io.ebean/ebean-maven-plugin@13.24.0?classifier=sources
+- pkg:maven/io.ebean/ebean-maven-plugin@13.25.0
+- pkg:maven/io.ebean/ebean-maven-plugin@13.25.0?classifier=sources
+- pkg:maven/io.ebean/ebean-maven-plugin@13.25.1
+- pkg:maven/io.ebean/ebean-maven-plugin@13.25.1?classifier=sources
 - pkg:maven/io.ebean/ebean-maven-plugin@13.3.0
 - pkg:maven/io.ebean/ebean-maven-plugin@13.3.0?classifier=sources
 - pkg:maven/io.ebean/ebean-maven-plugin@13.3.1

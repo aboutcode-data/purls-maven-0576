@@ -1,0 +1,2 @@
+- pkg:maven/com.logicovercode/core-adts_2.13@0.0.001
+- pkg:maven/com.logicovercode/core-adts_2.13@0.0.001?classifier=sources

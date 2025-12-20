@@ -11,3 +11,4 @@
 - pkg:maven/org.apache.bval/bval-parent@2.0.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.bval/bval-parent@2.0.5?classifier=source-release&type=zip
 - pkg:maven/org.apache.bval/bval-parent@2.0.6?classifier=source-release&type=zip
+- pkg:maven/org.apache.bval/bval-parent@3.0.0?classifier=source-release&type=zip

@@ -52,3 +52,5 @@
 - pkg:maven/org.duracloud.db/account-management-db-model@7.0.0?classifier=sources
 - pkg:maven/org.duracloud.db/account-management-db-model@7.1.0
 - pkg:maven/org.duracloud.db/account-management-db-model@7.1.0?classifier=sources
+- pkg:maven/org.duracloud.db/account-management-db-model@8.0.0
+- pkg:maven/org.duracloud.db/account-management-db-model@8.0.0?classifier=sources

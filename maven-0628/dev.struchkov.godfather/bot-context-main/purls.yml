@@ -53,3 +53,4 @@
 - pkg:maven/dev.struchkov.godfather/bot-context-main@0.0.67
 - pkg:maven/dev.struchkov.godfather/bot-context-main@0.0.68
 - pkg:maven/dev.struchkov.godfather/bot-context-main@0.0.69
+- pkg:maven/dev.struchkov.godfather/bot-context-main@1.0.0

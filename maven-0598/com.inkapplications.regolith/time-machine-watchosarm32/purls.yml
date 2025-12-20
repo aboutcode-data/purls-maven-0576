@@ -1,0 +1,4 @@
+- pkg:maven/com.inkapplications.regolith/time-machine-watchosarm32@0.2.3?classifier=sources
+- pkg:maven/com.inkapplications.regolith/time-machine-watchosarm32@0.3.0?classifier=sources
+- pkg:maven/com.inkapplications.regolith/time-machine-watchosarm32@0.4.0?classifier=sources
+- pkg:maven/com.inkapplications.regolith/time-machine-watchosarm32@0.5.0?classifier=sources

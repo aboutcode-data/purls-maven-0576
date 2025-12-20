@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/ui5__webcomponents-fiori@1.14.0
 - pkg:maven/org.webjars.npm/ui5__webcomponents-fiori@1.14.0?classifier=sources
+- pkg:maven/org.webjars.npm/ui5__webcomponents-fiori@1.19.1
+- pkg:maven/org.webjars.npm/ui5__webcomponents-fiori@1.19.1?classifier=sources
