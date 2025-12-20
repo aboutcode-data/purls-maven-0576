@@ -36,6 +36,14 @@
 - pkg:maven/net.optionfactory.spring/data-jpa@13.8?classifier=sources
 - pkg:maven/net.optionfactory.spring/data-jpa@14.0
 - pkg:maven/net.optionfactory.spring/data-jpa@14.0?classifier=sources
+- pkg:maven/net.optionfactory.spring/data-jpa@15.0
+- pkg:maven/net.optionfactory.spring/data-jpa@15.0?classifier=sources
+- pkg:maven/net.optionfactory.spring/data-jpa@16.0
+- pkg:maven/net.optionfactory.spring/data-jpa@16.0?classifier=sources
+- pkg:maven/net.optionfactory.spring/data-jpa@16.1
+- pkg:maven/net.optionfactory.spring/data-jpa@16.1?classifier=sources
+- pkg:maven/net.optionfactory.spring/data-jpa@16.2
+- pkg:maven/net.optionfactory.spring/data-jpa@16.2?classifier=sources
 - pkg:maven/net.optionfactory.spring/data-jpa@3.0
 - pkg:maven/net.optionfactory.spring/data-jpa@3.0?classifier=sources
 - pkg:maven/net.optionfactory.spring/data-jpa@4.0

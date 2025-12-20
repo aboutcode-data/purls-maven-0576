@@ -1,1 +1,2 @@
 - pkg:maven/com.microsoft.semantic-kernel/semantickernel-aiservices-huggingface@1.2.0?classifier=sources
+- pkg:maven/com.microsoft.semantic-kernel/semantickernel-aiservices-huggingface@1.2.2?classifier=sources

@@ -3,3 +3,5 @@
 - pkg:maven/live.ditto/health@0.0.4?classifier=sources
 - pkg:maven/live.ditto/health@1.0.0?classifier=sources
 - pkg:maven/live.ditto/health@1.1.0?classifier=sources
+- pkg:maven/live.ditto/health@2.0.0?classifier=sources
+- pkg:maven/live.ditto/health@2.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.dreamlu/mica-mqtt-client-jfinal-plugin@2.3.4
+- pkg:maven/net.dreamlu/mica-mqtt-client-jfinal-plugin@2.3.4?classifier=sources

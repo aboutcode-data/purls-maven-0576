@@ -16,3 +16,5 @@
 - pkg:maven/com.github.slack-scala-client/slack-scala-client-models_2.13@0.4.5?classifier=sources
 - pkg:maven/com.github.slack-scala-client/slack-scala-client-models_2.13@1.0.0
 - pkg:maven/com.github.slack-scala-client/slack-scala-client-models_2.13@1.0.0?classifier=sources
+- pkg:maven/com.github.slack-scala-client/slack-scala-client-models_2.13@1.0.1
+- pkg:maven/com.github.slack-scala-client/slack-scala-client-models_2.13@1.0.1?classifier=sources

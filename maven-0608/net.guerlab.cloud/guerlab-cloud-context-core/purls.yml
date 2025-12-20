@@ -38,6 +38,8 @@
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-context-core@2024.0.0?classifier=sources
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-context-core@2024.1.0
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-context-core@2024.1.0?classifier=sources
+- pkg:maven/net.guerlab.cloud/guerlab-cloud-context-core@2024.10.0
+- pkg:maven/net.guerlab.cloud/guerlab-cloud-context-core@2024.10.0?classifier=sources
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-context-core@2024.2.0
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-context-core@2024.2.0?classifier=sources
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-context-core@2024.3.0

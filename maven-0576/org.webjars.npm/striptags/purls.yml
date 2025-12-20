@@ -4,5 +4,6 @@
 - pkg:maven/org.webjars.npm/striptags@3.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/striptags@3.1.1
 - pkg:maven/org.webjars.npm/striptags@3.1.1?classifier=sources
+- pkg:maven/org.webjars.npm/striptags@3.2.0
 - pkg:maven/org.webjars.npm/striptags@4.0.0-alpha.4
 - pkg:maven/org.webjars.npm/striptags@4.0.0-alpha.4?classifier=sources

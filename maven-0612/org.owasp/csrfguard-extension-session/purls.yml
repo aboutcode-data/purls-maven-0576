@@ -16,3 +16,7 @@
 - pkg:maven/org.owasp/csrfguard-extension-session@4.3.0-jakarta
 - pkg:maven/org.owasp/csrfguard-extension-session@4.3.0-jakarta?classifier=sources
 - pkg:maven/org.owasp/csrfguard-extension-session@4.3.0?classifier=sources
+- pkg:maven/org.owasp/csrfguard-extension-session@4.4.0
+- pkg:maven/org.owasp/csrfguard-extension-session@4.4.0-jakarta
+- pkg:maven/org.owasp/csrfguard-extension-session@4.4.0-jakarta?classifier=sources
+- pkg:maven/org.owasp/csrfguard-extension-session@4.4.0?classifier=sources

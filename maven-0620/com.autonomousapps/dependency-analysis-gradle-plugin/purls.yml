@@ -97,3 +97,5 @@
 - pkg:maven/com.autonomousapps/dependency-analysis-gradle-plugin@1.7.0?classifier=sources
 - pkg:maven/com.autonomousapps/dependency-analysis-gradle-plugin@1.8.0?classifier=sources
 - pkg:maven/com.autonomousapps/dependency-analysis-gradle-plugin@1.9.0?classifier=sources
+- pkg:maven/com.autonomousapps/dependency-analysis-gradle-plugin@2.0.0?classifier=sources
+- pkg:maven/com.autonomousapps/dependency-analysis-gradle-plugin@2.0.1?classifier=sources

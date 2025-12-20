@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/geojson-vt@3.2.1?classifier=sources
+- pkg:maven/org.mvnpm/geojson-vt@4.0.2?classifier=sources

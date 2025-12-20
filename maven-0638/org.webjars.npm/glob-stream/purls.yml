@@ -6,3 +6,4 @@
 - pkg:maven/org.webjars.npm/glob-stream@5.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/glob-stream@6.1.0
 - pkg:maven/org.webjars.npm/glob-stream@6.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/glob-stream@8.0.2

@@ -1,0 +1,6 @@
+- pkg:maven/io.github.defective4.trivialpacket/packet-client@1.0
+- pkg:maven/io.github.defective4.trivialpacket/packet-client@1.0?classifier=sources
+- pkg:maven/io.github.defective4.trivialpacket/packet-client@1.1
+- pkg:maven/io.github.defective4.trivialpacket/packet-client@1.1.1
+- pkg:maven/io.github.defective4.trivialpacket/packet-client@1.1.1?classifier=sources
+- pkg:maven/io.github.defective4.trivialpacket/packet-client@1.1?classifier=sources

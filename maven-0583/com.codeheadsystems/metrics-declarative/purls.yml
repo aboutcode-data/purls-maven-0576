@@ -1,1 +1,2 @@
 - pkg:maven/com.codeheadsystems/metrics-declarative@2.0.4?classifier=sources
+- pkg:maven/com.codeheadsystems/metrics-declarative@2.0.5?classifier=sources

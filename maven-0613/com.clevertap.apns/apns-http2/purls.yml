@@ -8,3 +8,7 @@
 - pkg:maven/com.clevertap.apns/apns-http2@2.0.0?classifier=sources
 - pkg:maven/com.clevertap.apns/apns-http2@2.1.0
 - pkg:maven/com.clevertap.apns/apns-http2@2.1.0?classifier=sources
+- pkg:maven/com.clevertap.apns/apns-http2@3.0.0
+- pkg:maven/com.clevertap.apns/apns-http2@3.0.0?classifier=sources
+- pkg:maven/com.clevertap.apns/apns-http2@3.0.2
+- pkg:maven/com.clevertap.apns/apns-http2@3.0.2?classifier=sources

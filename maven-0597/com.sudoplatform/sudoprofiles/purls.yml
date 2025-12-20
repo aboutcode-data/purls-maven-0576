@@ -18,6 +18,8 @@
 - pkg:maven/com.sudoplatform/sudoprofiles@14.0.0?type=aar
 - pkg:maven/com.sudoplatform/sudoprofiles@15.0.0?classifier=sources
 - pkg:maven/com.sudoplatform/sudoprofiles@15.0.0?type=aar
+- pkg:maven/com.sudoplatform/sudoprofiles@16.0.0?classifier=sources
+- pkg:maven/com.sudoplatform/sudoprofiles@16.0.0?type=aar
 - pkg:maven/com.sudoplatform/sudoprofiles@2.0.0?classifier=sources
 - pkg:maven/com.sudoplatform/sudoprofiles@2.0.0?type=aar
 - pkg:maven/com.sudoplatform/sudoprofiles@2.0.1?classifier=sources

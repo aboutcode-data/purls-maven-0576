@@ -220,6 +220,8 @@
 - pkg:maven/org.glassfish.jersey.examples/jersey-ejb@2.43?type=war
 - pkg:maven/org.glassfish.jersey.examples/jersey-ejb@2.44?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/jersey-ejb@2.44?type=war
+- pkg:maven/org.glassfish.jersey.examples/jersey-ejb@2.45?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/jersey-ejb@2.45?type=war
 - pkg:maven/org.glassfish.jersey.examples/jersey-ejb@2.4?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/jersey-ejb@2.4?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/jersey-ejb@2.4?type=war
@@ -318,5 +320,7 @@
 - pkg:maven/org.glassfish.jersey.examples/jersey-ejb@3.1.6?type=war
 - pkg:maven/org.glassfish.jersey.examples/jersey-ejb@3.1.7?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/jersey-ejb@3.1.7?type=war
+- pkg:maven/org.glassfish.jersey.examples/jersey-ejb@3.1.8?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/jersey-ejb@3.1.8?type=war
 - pkg:maven/org.glassfish.jersey.examples/jersey-ejb@4.0.0-M1?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/jersey-ejb@4.0.0-M1?type=war

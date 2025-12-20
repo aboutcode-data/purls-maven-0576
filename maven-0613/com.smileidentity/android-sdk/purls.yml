@@ -29,3 +29,4 @@
 - pkg:maven/com.smileidentity/android-sdk@10.2.2?classifier=sources
 - pkg:maven/com.smileidentity/android-sdk@10.2.3?classifier=sources
 - pkg:maven/com.smileidentity/android-sdk@10.2.4?classifier=sources
+- pkg:maven/com.smileidentity/android-sdk@10.2.5?classifier=sources

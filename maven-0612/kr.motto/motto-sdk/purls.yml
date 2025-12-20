@@ -16,6 +16,7 @@
 - pkg:maven/kr.motto/motto-sdk@0.9.25?classifier=sources
 - pkg:maven/kr.motto/motto-sdk@0.9.26?classifier=sources
 - pkg:maven/kr.motto/motto-sdk@1.0.0?classifier=sources
+- pkg:maven/kr.motto/motto-sdk@1.0.10?classifier=sources
 - pkg:maven/kr.motto/motto-sdk@1.0.1?classifier=sources
 - pkg:maven/kr.motto/motto-sdk@1.0.2?classifier=sources
 - pkg:maven/kr.motto/motto-sdk@1.0.3?classifier=sources

@@ -39,3 +39,5 @@
 - pkg:maven/com.github.chivorns/winglogger@1.7.3?classifier=sources
 - pkg:maven/com.github.chivorns/winglogger@1.7.4
 - pkg:maven/com.github.chivorns/winglogger@1.7.4?classifier=sources
+- pkg:maven/com.github.chivorns/winglogger@1.8.0
+- pkg:maven/com.github.chivorns/winglogger@1.8.0?classifier=sources

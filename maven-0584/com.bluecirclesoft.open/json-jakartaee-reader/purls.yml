@@ -1,0 +1,2 @@
+- pkg:maven/com.bluecirclesoft.open/json-jakartaee-reader@1.3
+- pkg:maven/com.bluecirclesoft.open/json-jakartaee-reader@1.3?classifier=sources

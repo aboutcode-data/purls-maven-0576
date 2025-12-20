@@ -6,3 +6,4 @@
 - pkg:maven/dev.joss/gatling-stepfunction-extension@1.3.0?classifier=sources
 - pkg:maven/dev.joss/gatling-stepfunction-extension@1.3.1?classifier=sources
 - pkg:maven/dev.joss/gatling-stepfunction-extension@1.4.0?classifier=sources
+- pkg:maven/dev.joss/gatling-stepfunction-extension@1.5.0?classifier=sources

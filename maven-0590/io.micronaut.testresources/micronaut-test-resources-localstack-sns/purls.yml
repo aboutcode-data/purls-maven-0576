@@ -1,0 +1,1 @@
+- pkg:maven/io.micronaut.testresources/micronaut-test-resources-localstack-sns@2.6.0?classifier=sources

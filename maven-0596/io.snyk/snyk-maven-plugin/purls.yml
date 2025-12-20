@@ -35,3 +35,5 @@
 - pkg:maven/io.snyk/snyk-maven-plugin@2.1.1?classifier=sources
 - pkg:maven/io.snyk/snyk-maven-plugin@2.2.0
 - pkg:maven/io.snyk/snyk-maven-plugin@2.2.0?classifier=sources
+- pkg:maven/io.snyk/snyk-maven-plugin@2.3.0
+- pkg:maven/io.snyk/snyk-maven-plugin@2.3.0?classifier=sources

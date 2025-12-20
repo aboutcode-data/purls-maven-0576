@@ -13,3 +13,4 @@
 - pkg:maven/org.jeecgframework.boot/codegenerate@1.4.6?classifier=sources
 - pkg:maven/org.jeecgframework.boot/codegenerate@1.4.7?classifier=sources
 - pkg:maven/org.jeecgframework.boot/codegenerate@1.4.82?classifier=sources
+- pkg:maven/org.jeecgframework.boot/codegenerate@1.4.9?classifier=sources

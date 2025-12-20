@@ -7,4 +7,6 @@
 - pkg:maven/ru.astrainteractive.klibs/mikro-extensions-macosx64@1.8.1?classifier=sources
 - pkg:maven/ru.astrainteractive.klibs/mikro-extensions-macosx64@1.8.2?classifier=sources
 - pkg:maven/ru.astrainteractive.klibs/mikro-extensions-macosx64@1.8.4?classifier=sources
+- pkg:maven/ru.astrainteractive.klibs/mikro-extensions-macosx64@1.8.7?classifier=sources
+- pkg:maven/ru.astrainteractive.klibs/mikro-extensions-macosx64@1.8.8?classifier=sources
 - pkg:maven/ru.astrainteractive.klibs/mikro-extensions-macosx64@unspecified?classifier=sources

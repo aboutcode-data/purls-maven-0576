@@ -12,3 +12,4 @@
 - pkg:maven/org.apache.ranger/ranger-tagsync@2.2.0
 - pkg:maven/org.apache.ranger/ranger-tagsync@2.3.0
 - pkg:maven/org.apache.ranger/ranger-tagsync@2.4.0
+- pkg:maven/org.apache.ranger/ranger-tagsync@2.5.0

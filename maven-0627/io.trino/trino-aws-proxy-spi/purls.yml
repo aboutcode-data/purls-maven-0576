@@ -1,0 +1,2 @@
+- pkg:maven/io.trino/trino-aws-proxy-spi@1
+- pkg:maven/io.trino/trino-aws-proxy-spi@1?classifier=sources

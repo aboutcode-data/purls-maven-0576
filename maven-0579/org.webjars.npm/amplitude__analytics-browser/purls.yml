@@ -1,2 +1,3 @@
 - pkg:maven/org.webjars.npm/amplitude__analytics-browser@1.6.2
 - pkg:maven/org.webjars.npm/amplitude__analytics-browser@1.6.2?classifier=sources
+- pkg:maven/org.webjars.npm/amplitude__analytics-browser@2.11.1

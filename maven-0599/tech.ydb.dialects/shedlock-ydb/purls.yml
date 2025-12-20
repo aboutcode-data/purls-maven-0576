@@ -1,0 +1,2 @@
+- pkg:maven/tech.ydb.dialects/shedlock-ydb@0.1.0
+- pkg:maven/tech.ydb.dialects/shedlock-ydb@0.1.0?classifier=sources

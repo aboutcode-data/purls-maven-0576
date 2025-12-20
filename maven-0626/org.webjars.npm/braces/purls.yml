@@ -16,3 +16,4 @@
 - pkg:maven/org.webjars.npm/braces@2.3.2?classifier=sources
 - pkg:maven/org.webjars.npm/braces@3.0.2
 - pkg:maven/org.webjars.npm/braces@3.0.2?classifier=sources
+- pkg:maven/org.webjars.npm/braces@3.0.3

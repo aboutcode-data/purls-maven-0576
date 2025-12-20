@@ -226,6 +226,8 @@
 - pkg:maven/com.google.guava/guava@33.2.0-jre?classifier=sources
 - pkg:maven/com.google.guava/guava@33.2.1-android?classifier=sources
 - pkg:maven/com.google.guava/guava@33.2.1-jre?classifier=sources
+- pkg:maven/com.google.guava/guava@33.3.0-android?classifier=sources
+- pkg:maven/com.google.guava/guava@33.3.0-jre?classifier=sources
 - pkg:maven/com.google.guava/guava@r03
 - pkg:maven/com.google.guava/guava@r03?classifier=sources
 - pkg:maven/com.google.guava/guava@r05

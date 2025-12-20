@@ -21,3 +21,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-refactoring@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-refactoring@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-refactoring@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-refactoring@RELEASE230?classifier=sources

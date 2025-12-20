@@ -18,6 +18,8 @@
 - pkg:maven/org.talend.sdk.component/reporting@1.38.12
 - pkg:maven/org.talend.sdk.component/reporting@1.38.13
 - pkg:maven/org.talend.sdk.component/reporting@1.38.14
+- pkg:maven/org.talend.sdk.component/reporting@1.38.15
+- pkg:maven/org.talend.sdk.component/reporting@1.38.16
 - pkg:maven/org.talend.sdk.component/reporting@1.38.2
 - pkg:maven/org.talend.sdk.component/reporting@1.38.3
 - pkg:maven/org.talend.sdk.component/reporting@1.38.4
@@ -92,8 +94,11 @@
 - pkg:maven/org.talend.sdk.component/reporting@1.64.3
 - pkg:maven/org.talend.sdk.component/reporting@1.64.4
 - pkg:maven/org.talend.sdk.component/reporting@1.64.5
+- pkg:maven/org.talend.sdk.component/reporting@1.64.6
+- pkg:maven/org.talend.sdk.component/reporting@1.64.7
 - pkg:maven/org.talend.sdk.component/reporting@1.65.0M1
 - pkg:maven/org.talend.sdk.component/reporting@1.65.0M2
 - pkg:maven/org.talend.sdk.component/reporting@1.65.0M3
 - pkg:maven/org.talend.sdk.component/reporting@1.65.0M5
+- pkg:maven/org.talend.sdk.component/reporting@1.65.0M6
 - pkg:maven/org.talend.sdk.component/reporting@10.57.0

@@ -21,3 +21,4 @@
 - pkg:maven/moe.tlaster/twitter-parser-iosx64@0.4.0?classifier=sources
 - pkg:maven/moe.tlaster/twitter-parser-iosx64@0.4.1?classifier=sources
 - pkg:maven/moe.tlaster/twitter-parser-iosx64@0.4.2?classifier=sources
+- pkg:maven/moe.tlaster/twitter-parser-iosx64@0.5.1?classifier=sources

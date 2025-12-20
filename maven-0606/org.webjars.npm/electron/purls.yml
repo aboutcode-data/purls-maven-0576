@@ -4,3 +4,4 @@
 - pkg:maven/org.webjars.npm/electron@1.3.3?classifier=sources
 - pkg:maven/org.webjars.npm/electron@1.7.3
 - pkg:maven/org.webjars.npm/electron@1.7.3?classifier=sources
+- pkg:maven/org.webjars.npm/electron@32.0.1

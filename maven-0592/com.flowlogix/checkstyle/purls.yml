@@ -13,6 +13,10 @@
 - pkg:maven/com.flowlogix/checkstyle@21
 - pkg:maven/com.flowlogix/checkstyle@22
 - pkg:maven/com.flowlogix/checkstyle@23
+- pkg:maven/com.flowlogix/checkstyle@24
+- pkg:maven/com.flowlogix/checkstyle@25
+- pkg:maven/com.flowlogix/checkstyle@26
+- pkg:maven/com.flowlogix/checkstyle@27
 - pkg:maven/com.flowlogix/checkstyle@3
 - pkg:maven/com.flowlogix/checkstyle@4
 - pkg:maven/com.flowlogix/checkstyle@6

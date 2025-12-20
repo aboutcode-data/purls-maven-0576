@@ -79,6 +79,7 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.api@17.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.api@18.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.api@19.0.0?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.api@19.1.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.api@2.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.api@2.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.api@2.0.0?classifier=sources-commercial

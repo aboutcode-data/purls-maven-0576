@@ -111,6 +111,7 @@
 - pkg:maven/com.github.wangzihaogithub/spring-boot-protocol@2.3.2
 - pkg:maven/com.github.wangzihaogithub/spring-boot-protocol@2.3.20?classifier=sources
 - pkg:maven/com.github.wangzihaogithub/spring-boot-protocol@2.3.21?classifier=sources
+- pkg:maven/com.github.wangzihaogithub/spring-boot-protocol@2.3.22?classifier=sources
 - pkg:maven/com.github.wangzihaogithub/spring-boot-protocol@2.3.2?classifier=sources
 - pkg:maven/com.github.wangzihaogithub/spring-boot-protocol@2.3.3
 - pkg:maven/com.github.wangzihaogithub/spring-boot-protocol@2.3.3?classifier=sources

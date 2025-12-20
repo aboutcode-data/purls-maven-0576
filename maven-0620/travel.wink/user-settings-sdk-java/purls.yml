@@ -1,0 +1,6 @@
+- pkg:maven/travel.wink/user-settings-sdk-java@30.3.1
+- pkg:maven/travel.wink/user-settings-sdk-java@30.3.1?classifier=sources
+- pkg:maven/travel.wink/user-settings-sdk-java@30.4.1
+- pkg:maven/travel.wink/user-settings-sdk-java@30.4.1?classifier=sources
+- pkg:maven/travel.wink/user-settings-sdk-java@30.5.2
+- pkg:maven/travel.wink/user-settings-sdk-java@30.5.2?classifier=sources

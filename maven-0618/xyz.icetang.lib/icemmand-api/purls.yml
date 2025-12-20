@@ -9,3 +9,4 @@
 - pkg:maven/xyz.icetang.lib/icemmand-api@1.20.6%2B1.0.2?classifier=sources
 - pkg:maven/xyz.icetang.lib/icemmand-api@1.21%2B1.0.0?classifier=sources
 - pkg:maven/xyz.icetang.lib/icemmand-api@1.21%2B1.0.1?classifier=sources
+- pkg:maven/xyz.icetang.lib/icemmand-api@1.21.1%2B1.0.0?classifier=sources

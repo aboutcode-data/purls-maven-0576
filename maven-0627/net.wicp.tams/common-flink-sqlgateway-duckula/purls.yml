@@ -1,2 +1,4 @@
 - pkg:maven/net.wicp.tams/common-flink-sqlgateway-duckula@1.17.1.1
 - pkg:maven/net.wicp.tams/common-flink-sqlgateway-duckula@1.17.1.1?classifier=sources
+- pkg:maven/net.wicp.tams/common-flink-sqlgateway-duckula@1.20.0.1
+- pkg:maven/net.wicp.tams/common-flink-sqlgateway-duckula@1.20.0.1?classifier=sources

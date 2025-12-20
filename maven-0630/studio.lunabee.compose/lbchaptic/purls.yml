@@ -1,1 +1,2 @@
 - pkg:maven/studio.lunabee.compose/lbchaptic@1.0.0?classifier=sources
+- pkg:maven/studio.lunabee.compose/lbchaptic@1.2.0?classifier=sources

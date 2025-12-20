@@ -1,0 +1,2 @@
+- pkg:maven/io.toolisticon.kotlin.avro.maven/avro-kotlin-maven-plugin@1.12.2.0
+- pkg:maven/io.toolisticon.kotlin.avro.maven/avro-kotlin-maven-plugin@1.12.2.0?classifier=sources

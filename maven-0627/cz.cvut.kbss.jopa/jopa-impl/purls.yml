@@ -173,3 +173,4 @@
 - pkg:maven/cz.cvut.kbss.jopa/jopa-impl@2.0.2
 - pkg:maven/cz.cvut.kbss.jopa/jopa-impl@2.0.2?classifier=sources
 - pkg:maven/cz.cvut.kbss.jopa/jopa-impl@2.0.3?classifier=sources
+- pkg:maven/cz.cvut.kbss.jopa/jopa-impl@2.0.4?classifier=sources

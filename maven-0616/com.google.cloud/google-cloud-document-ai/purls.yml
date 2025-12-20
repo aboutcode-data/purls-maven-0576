@@ -184,6 +184,8 @@
 - pkg:maven/com.google.cloud/google-cloud-document-ai@2.50.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-document-ai@2.51.0
 - pkg:maven/com.google.cloud/google-cloud-document-ai@2.51.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-document-ai@2.52.0
+- pkg:maven/com.google.cloud/google-cloud-document-ai@2.52.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-document-ai@2.6.0
 - pkg:maven/com.google.cloud/google-cloud-document-ai@2.6.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-document-ai@2.6.2

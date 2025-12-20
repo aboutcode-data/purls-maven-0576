@@ -22,3 +22,4 @@
 - pkg:maven/org.kurento/kms-api-core@6.8.0
 - pkg:maven/org.kurento/kms-api-core@6.9.0
 - pkg:maven/org.kurento/kms-api-core@7.0.0
+- pkg:maven/org.kurento/kms-api-core@7.1.0
