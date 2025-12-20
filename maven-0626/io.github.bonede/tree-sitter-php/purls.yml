@@ -1,1 +1,2 @@
 - pkg:maven/io.github.bonede/tree-sitter-php@0.20.0?classifier=sources
+- pkg:maven/io.github.bonede/tree-sitter-php@0.22.2?classifier=sources

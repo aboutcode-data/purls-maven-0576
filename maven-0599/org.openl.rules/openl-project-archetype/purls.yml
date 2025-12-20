@@ -34,6 +34,7 @@
 - pkg:maven/org.openl.rules/openl-project-archetype@5.25.14?classifier=sources
 - pkg:maven/org.openl.rules/openl-project-archetype@5.25.15?classifier=sources
 - pkg:maven/org.openl.rules/openl-project-archetype@5.25.16?classifier=sources
+- pkg:maven/org.openl.rules/openl-project-archetype@5.25.17?classifier=sources
 - pkg:maven/org.openl.rules/openl-project-archetype@5.25.1?classifier=sources
 - pkg:maven/org.openl.rules/openl-project-archetype@5.25.2?classifier=sources
 - pkg:maven/org.openl.rules/openl-project-archetype@5.25.3?classifier=sources
@@ -50,6 +51,8 @@
 - pkg:maven/org.openl.rules/openl-project-archetype@5.26.13?classifier=sources
 - pkg:maven/org.openl.rules/openl-project-archetype@5.26.14?classifier=sources
 - pkg:maven/org.openl.rules/openl-project-archetype@5.26.15?classifier=sources
+- pkg:maven/org.openl.rules/openl-project-archetype@5.26.16?classifier=sources
+- pkg:maven/org.openl.rules/openl-project-archetype@5.26.17?classifier=sources
 - pkg:maven/org.openl.rules/openl-project-archetype@5.26.1?classifier=sources
 - pkg:maven/org.openl.rules/openl-project-archetype@5.26.2?classifier=sources
 - pkg:maven/org.openl.rules/openl-project-archetype@5.26.3?classifier=sources
@@ -66,3 +69,4 @@
 - pkg:maven/org.openl.rules/openl-project-archetype@5.27.3?classifier=sources
 - pkg:maven/org.openl.rules/openl-project-archetype@5.27.4?classifier=sources
 - pkg:maven/org.openl.rules/openl-project-archetype@5.27.5?classifier=sources
+- pkg:maven/org.openl.rules/openl-project-archetype@5.27.6?classifier=sources

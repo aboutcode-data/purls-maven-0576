@@ -23,3 +23,8 @@
 - pkg:maven/org.wildfly.glow/wildfly-glow-tests@1.0.0.Beta7
 - pkg:maven/org.wildfly.glow/wildfly-glow-tests@1.0.0.Beta8
 - pkg:maven/org.wildfly.glow/wildfly-glow-tests@1.0.0.Beta9
+- pkg:maven/org.wildfly.glow/wildfly-glow-tests@1.0.0.Final
+- pkg:maven/org.wildfly.glow/wildfly-glow-tests@1.0.1.Final
+- pkg:maven/org.wildfly.glow/wildfly-glow-tests@1.0.2.Final
+- pkg:maven/org.wildfly.glow/wildfly-glow-tests@1.0.3.Final
+- pkg:maven/org.wildfly.glow/wildfly-glow-tests@1.0.4.Final

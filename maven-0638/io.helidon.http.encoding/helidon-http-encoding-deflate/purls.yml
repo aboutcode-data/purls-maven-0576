@@ -20,3 +20,5 @@
 - pkg:maven/io.helidon.http.encoding/helidon-http-encoding-deflate@4.0.6?classifier=sources
 - pkg:maven/io.helidon.http.encoding/helidon-http-encoding-deflate@4.0.7
 - pkg:maven/io.helidon.http.encoding/helidon-http-encoding-deflate@4.0.7?classifier=sources
+- pkg:maven/io.helidon.http.encoding/helidon-http-encoding-deflate@4.0.8
+- pkg:maven/io.helidon.http.encoding/helidon-http-encoding-deflate@4.0.8?classifier=sources

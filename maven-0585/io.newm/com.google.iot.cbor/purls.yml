@@ -12,3 +12,5 @@
 - pkg:maven/io.newm/com.google.iot.cbor@0.01.07-NEWM?classifier=sources
 - pkg:maven/io.newm/com.google.iot.cbor@0.01.08-NEWM
 - pkg:maven/io.newm/com.google.iot.cbor@0.01.08-NEWM?classifier=sources
+- pkg:maven/io.newm/com.google.iot.cbor@0.2.0-NEWM?classifier=sources
+- pkg:maven/io.newm/com.google.iot.cbor@0.2.1-NEWM?classifier=sources

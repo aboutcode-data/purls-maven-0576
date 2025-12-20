@@ -1,0 +1,4 @@
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-clusterplacementgroups@3.40.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-clusterplacementgroups@3.40.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-clusterplacementgroups@3.41.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-clusterplacementgroups@3.41.0?classifier=sources

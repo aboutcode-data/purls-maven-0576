@@ -1,0 +1,2 @@
+- pkg:maven/io.cardell/ff4s-flipt-sdk-server_2.13@0.0.1-alpha1
+- pkg:maven/io.cardell/ff4s-flipt-sdk-server_2.13@0.0.1-alpha1?classifier=sources

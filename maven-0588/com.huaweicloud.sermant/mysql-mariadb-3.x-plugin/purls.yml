@@ -1,0 +1,2 @@
+- pkg:maven/com.huaweicloud.sermant/mysql-mariadb-3.x-plugin@1.4.0
+- pkg:maven/com.huaweicloud.sermant/mysql-mariadb-3.x-plugin@1.4.0?classifier=sources

@@ -73,6 +73,7 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-extensions-json-jackson@2.54.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-extensions-json-jackson@2.55.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-extensions-json-jackson@2.55.1?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-extensions-json-jackson@2.56.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-extensions-json-jackson@2.6.0
 - pkg:maven/org.apache.beam/beam-sdks-java-extensions-json-jackson@2.6.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-extensions-json-jackson@2.7.0

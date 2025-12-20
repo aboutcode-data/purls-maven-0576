@@ -1,1 +1,2 @@
 - pkg:maven/software.amazon.smithy/smithy-protocol-tests@1.47.0?classifier=sources
+- pkg:maven/software.amazon.smithy/smithy-protocol-tests@1.48.0?classifier=sources

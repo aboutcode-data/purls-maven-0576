@@ -3,3 +3,4 @@
 - pkg:maven/io.github.windedge.table/table@0.1.3?classifier=sources
 - pkg:maven/io.github.windedge.table/table@0.1.6?classifier=sources
 - pkg:maven/io.github.windedge.table/table@0.1.7?classifier=sources
+- pkg:maven/io.github.windedge.table/table@0.1.8?classifier=sources

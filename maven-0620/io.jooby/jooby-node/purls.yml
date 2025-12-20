@@ -73,6 +73,7 @@
 - pkg:maven/io.jooby/jooby-node@3.0.0.M7
 - pkg:maven/io.jooby/jooby-node@3.0.0.M9
 - pkg:maven/io.jooby/jooby-node@3.0.1
+- pkg:maven/io.jooby/jooby-node@3.0.10
 - pkg:maven/io.jooby/jooby-node@3.0.2
 - pkg:maven/io.jooby/jooby-node@3.0.3
 - pkg:maven/io.jooby/jooby-node@3.0.4

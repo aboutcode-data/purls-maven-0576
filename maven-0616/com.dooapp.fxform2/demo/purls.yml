@@ -30,6 +30,8 @@
 - pkg:maven/com.dooapp.fxform2/demo@0.2.2?classifier=sources
 - pkg:maven/com.dooapp.fxform2/demo@0.2.3
 - pkg:maven/com.dooapp.fxform2/demo@0.2.3?classifier=sources
+- pkg:maven/com.dooapp.fxform2/demo@11.0.0
+- pkg:maven/com.dooapp.fxform2/demo@11.0.0?classifier=sources
 - pkg:maven/com.dooapp.fxform2/demo@2.2.4
 - pkg:maven/com.dooapp.fxform2/demo@2.2.4?classifier=sources
 - pkg:maven/com.dooapp.fxform2/demo@2.2.5

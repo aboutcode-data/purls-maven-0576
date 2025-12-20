@@ -148,6 +148,14 @@
 - pkg:maven/com.amazonaws/aws-athena-federation-sdk@2023.8.3?classifier=sources
 - pkg:maven/com.amazonaws/aws-athena-federation-sdk@2024.10.1
 - pkg:maven/com.amazonaws/aws-athena-federation-sdk@2024.10.1?classifier=sources
+- pkg:maven/com.amazonaws/aws-athena-federation-sdk@2024.13.1
+- pkg:maven/com.amazonaws/aws-athena-federation-sdk@2024.13.1?classifier=sources
+- pkg:maven/com.amazonaws/aws-athena-federation-sdk@2024.15.1
+- pkg:maven/com.amazonaws/aws-athena-federation-sdk@2024.15.1?classifier=sources
+- pkg:maven/com.amazonaws/aws-athena-federation-sdk@2024.15.2
+- pkg:maven/com.amazonaws/aws-athena-federation-sdk@2024.15.2?classifier=sources
+- pkg:maven/com.amazonaws/aws-athena-federation-sdk@2024.16.1
+- pkg:maven/com.amazonaws/aws-athena-federation-sdk@2024.16.1?classifier=sources
 - pkg:maven/com.amazonaws/aws-athena-federation-sdk@2024.3.1
 - pkg:maven/com.amazonaws/aws-athena-federation-sdk@2024.3.1?classifier=sources
 - pkg:maven/com.amazonaws/aws-athena-federation-sdk@2024.3.2

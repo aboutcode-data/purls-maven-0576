@@ -22,3 +22,4 @@
 - pkg:maven/info.novatec/micronaut-camunda-external-client-feature@2.9.0?classifier=sources
 - pkg:maven/info.novatec/micronaut-camunda-external-client-feature@3.0.0?classifier=sources
 - pkg:maven/info.novatec/micronaut-camunda-external-client-feature@3.1.0?classifier=sources
+- pkg:maven/info.novatec/micronaut-camunda-external-client-feature@3.2.0?classifier=sources

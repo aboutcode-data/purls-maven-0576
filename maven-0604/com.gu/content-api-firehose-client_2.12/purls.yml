@@ -45,8 +45,16 @@
 - pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.18-PREVIEW.dbfix-again-ion-java-high-vuln.2024-03-08T1405.86894972
 - pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.18-PREVIEW.dbfix-again-ion-java-high-vuln.2024-03-08T1405.86894972?classifier=sources
 - pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.18?classifier=sources
+- pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.19
+- pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.19?classifier=sources
 - pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.1?classifier=sources
 - pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.2
+- pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.20
+- pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.20?classifier=sources
+- pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.21
+- pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.21-PREVIEW.dbtest-content-model-release-for-content-entity.2024-03-27T1053.ced6323a
+- pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.21-PREVIEW.dbtest-content-model-release-for-content-entity.2024-03-27T1053.ced6323a?classifier=sources
+- pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.21?classifier=sources
 - pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.2?classifier=sources
 - pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.3
 - pkg:maven/com.gu/content-api-firehose-client_2.12@1.0.3?classifier=sources

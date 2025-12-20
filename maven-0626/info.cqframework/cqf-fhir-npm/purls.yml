@@ -12,6 +12,7 @@
 - pkg:maven/info.cqframework/cqf-fhir-npm@2.9.0?classifier=sources
 - pkg:maven/info.cqframework/cqf-fhir-npm@3.0.0?classifier=sources
 - pkg:maven/info.cqframework/cqf-fhir-npm@3.1.0?classifier=sources
+- pkg:maven/info.cqframework/cqf-fhir-npm@3.10.0?classifier=sources
 - pkg:maven/info.cqframework/cqf-fhir-npm@3.2.0?classifier=sources
 - pkg:maven/info.cqframework/cqf-fhir-npm@3.3.0?classifier=sources
 - pkg:maven/info.cqframework/cqf-fhir-npm@3.3.1?classifier=sources

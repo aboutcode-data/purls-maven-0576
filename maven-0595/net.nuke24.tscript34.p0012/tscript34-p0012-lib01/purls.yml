@@ -1,2 +1,4 @@
+- pkg:maven/net.nuke24.tscript34.p0012/tscript34-p0012-lib01@0.0.10.1
+- pkg:maven/net.nuke24.tscript34.p0012/tscript34-p0012-lib01@0.0.10.1?classifier=sources
 - pkg:maven/net.nuke24.tscript34.p0012/tscript34-p0012-lib01@0.0.9
 - pkg:maven/net.nuke24.tscript34.p0012/tscript34-p0012-lib01@0.0.9?classifier=sources

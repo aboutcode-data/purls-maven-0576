@@ -1,3 +1,5 @@
+- pkg:maven/com.pulumi/kong@4.5.2?classifier=sources
+- pkg:maven/com.pulumi/kong@4.5.3?classifier=sources
 - pkg:maven/com.pulumi/kong@4.6.0-alpha.1668657891%2B23aa6df0?classifier=sources
 - pkg:maven/com.pulumi/kong@4.6.0-alpha.1673556127%2Bf0dad607?classifier=sources
 - pkg:maven/com.pulumi/kong@4.6.0-alpha.1677784192%2Bfd0c78f9?classifier=sources
@@ -84,3 +86,20 @@
 - pkg:maven/com.pulumi/kong@4.6.0-alpha.1709213764%2B8752b1b9?classifier=sources
 - pkg:maven/com.pulumi/kong@4.6.0-alpha.1709364663%2Bc17e9a0e?classifier=sources
 - pkg:maven/com.pulumi/kong@4.6.0-alpha.1710156681%2B684bca0e?classifier=sources
+- pkg:maven/com.pulumi/kong@4.6.0-alpha.1710917533%2B1e71d6ce?classifier=sources
+- pkg:maven/com.pulumi/kong@4.6.0-alpha.1710995519%2Bd0d190a7?classifier=sources
+- pkg:maven/com.pulumi/kong@4.6.0-alpha.1711027649%2B8a60d754?classifier=sources
+- pkg:maven/com.pulumi/kong@4.6.0-alpha.1711518790%2Bd70e7098?classifier=sources
+- pkg:maven/com.pulumi/kong@4.6.0-alpha.1711778177%2B15d71f3a?classifier=sources
+- pkg:maven/com.pulumi/kong@4.6.0-alpha.1712122682%2Bae55c40f?classifier=sources
+- pkg:maven/com.pulumi/kong@4.6.0-alpha.1712399900%2B113dd107?classifier=sources
+- pkg:maven/com.pulumi/kong@4.6.0-alpha.1712728140%2B1f239ae9?classifier=sources
+- pkg:maven/com.pulumi/kong@4.6.0-alpha.1712914540%2Bbe92f1a5?classifier=sources
+- pkg:maven/com.pulumi/kong@4.6.0-alpha.1712987334%2B4828b3a6?classifier=sources
+- pkg:maven/com.pulumi/kong@4.6.0-alpha.1713332908%2Bdb9055f0?classifier=sources
+- pkg:maven/com.pulumi/kong@4.6.0-alpha.1713561070%2B7b6c1c1a?classifier=sources
+- pkg:maven/com.pulumi/kong@4.6.0-alpha.1713898350%2Beeccfe1c?classifier=sources
+- pkg:maven/com.pulumi/kong@4.6.0-alpha.1714110449%2B524393d8?classifier=sources
+- pkg:maven/com.pulumi/kong@4.6.0-alpha.1714455955%2B5d9831dc?classifier=sources
+- pkg:maven/com.pulumi/kong@4.6.0-alpha.1714542265%2B002cde3?classifier=sources
+- pkg:maven/com.pulumi/kong@4.6.0-alpha.1714563855%2B009139a?classifier=sources

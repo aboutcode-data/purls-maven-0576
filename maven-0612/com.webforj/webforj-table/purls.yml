@@ -1,0 +1,4 @@
+- pkg:maven/com.webforj/webforj-table@24.00
+- pkg:maven/com.webforj/webforj-table@24.00?classifier=sources
+- pkg:maven/com.webforj/webforj-table@24.01
+- pkg:maven/com.webforj/webforj-table@24.01?classifier=sources

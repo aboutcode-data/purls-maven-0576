@@ -10,3 +10,5 @@
 - pkg:maven/org.playframework.twirl/sbt-twirl_2.12_1.0@2.0.3?classifier=sources
 - pkg:maven/org.playframework.twirl/sbt-twirl_2.12_1.0@2.0.4
 - pkg:maven/org.playframework.twirl/sbt-twirl_2.12_1.0@2.0.4?classifier=sources
+- pkg:maven/org.playframework.twirl/sbt-twirl_2.12_1.0@2.0.5
+- pkg:maven/org.playframework.twirl/sbt-twirl_2.12_1.0@2.0.5?classifier=sources

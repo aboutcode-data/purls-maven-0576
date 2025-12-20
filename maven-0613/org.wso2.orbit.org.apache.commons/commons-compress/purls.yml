@@ -1,1 +1,2 @@
 - pkg:maven/org.wso2.orbit.org.apache.commons/commons-compress@1.18.0.wso2v1
+- pkg:maven/org.wso2.orbit.org.apache.commons/commons-compress@1.26.1.wso2v1

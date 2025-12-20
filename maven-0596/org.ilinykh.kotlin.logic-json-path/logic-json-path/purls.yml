@@ -1,0 +1,4 @@
+- pkg:maven/org.ilinykh.kotlin.logic-json-path/logic-json-path@1.0.0
+- pkg:maven/org.ilinykh.kotlin.logic-json-path/logic-json-path@1.0.0?classifier=sources
+- pkg:maven/org.ilinykh.kotlin.logic-json-path/logic-json-path@1.1.0
+- pkg:maven/org.ilinykh.kotlin.logic-json-path/logic-json-path@1.1.0?classifier=sources

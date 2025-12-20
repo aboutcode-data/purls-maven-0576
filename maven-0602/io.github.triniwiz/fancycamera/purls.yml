@@ -27,3 +27,8 @@
 - pkg:maven/io.github.triniwiz/fancycamera@3.0.6?classifier=sources
 - pkg:maven/io.github.triniwiz/fancycamera@3.0.7?classifier=sources
 - pkg:maven/io.github.triniwiz/fancycamera@3.0.8?classifier=sources
+- pkg:maven/io.github.triniwiz/fancycamera@4.0.0-ALPHA.0?classifier=sources
+- pkg:maven/io.github.triniwiz/fancycamera@4.0.0-alpha.1?classifier=sources
+- pkg:maven/io.github.triniwiz/fancycamera@4.0.0-alpha.2?classifier=sources
+- pkg:maven/io.github.triniwiz/fancycamera@4.0.0-alpha.3?classifier=sources
+- pkg:maven/io.github.triniwiz/fancycamera@4.0.0-alpha.4?classifier=sources

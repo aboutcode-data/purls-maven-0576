@@ -3,3 +3,4 @@
 - pkg:maven/io.kestra.plugin/plugin-databricks@0.13.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-databricks@0.14.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-databricks@0.15.0?classifier=sources
+- pkg:maven/io.kestra.plugin/plugin-databricks@0.16.0?classifier=sources

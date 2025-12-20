@@ -1,1 +1,2 @@
+- pkg:maven/org.mvnpm/yaml@1.10.2?classifier=sources
 - pkg:maven/org.mvnpm/yaml@2.3.4?classifier=sources

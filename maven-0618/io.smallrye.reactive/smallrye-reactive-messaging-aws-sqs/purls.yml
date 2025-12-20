@@ -1,0 +1,2 @@
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-aws-sqs@4.21.0
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-aws-sqs@4.21.0?classifier=sources

@@ -30,5 +30,7 @@
 - pkg:maven/com.io7m.minisite/com.io7m.minisite.core@3.0.0?classifier=sources
 - pkg:maven/com.io7m.minisite/com.io7m.minisite.core@4.0.0
 - pkg:maven/com.io7m.minisite/com.io7m.minisite.core@4.0.0?classifier=sources
+- pkg:maven/com.io7m.minisite/com.io7m.minisite.core@5.0.0
 - pkg:maven/com.io7m.minisite/com.io7m.minisite.core@5.0.0-beta0001
 - pkg:maven/com.io7m.minisite/com.io7m.minisite.core@5.0.0-beta0001?classifier=sources
+- pkg:maven/com.io7m.minisite/com.io7m.minisite.core@5.0.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/cn.com.antcloud.api/antcloud-api-saas@1.0.4?classifier=sources
 - pkg:maven/cn.com.antcloud.api/antcloud-api-saas@1.1.25
 - pkg:maven/cn.com.antcloud.api/antcloud-api-saas@1.1.25?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-saas@1.1.30
+- pkg:maven/cn.com.antcloud.api/antcloud-api-saas@1.1.30?classifier=sources

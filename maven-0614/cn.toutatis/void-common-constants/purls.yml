@@ -2,3 +2,7 @@
 - pkg:maven/cn.toutatis/void-common-constants@0.0.0-ALPHA-8
 - pkg:maven/cn.toutatis/void-common-constants@0.0.0-ALPHA-8?classifier=sources
 - pkg:maven/cn.toutatis/void-common-constants@0.0.0-ALPHA?classifier=sources
+- pkg:maven/cn.toutatis/void-common-constants@0.0.1-ALPHA
+- pkg:maven/cn.toutatis/void-common-constants@0.0.1-ALPHA?classifier=sources
+- pkg:maven/cn.toutatis/void-common-constants@0.0.2-ALPHA
+- pkg:maven/cn.toutatis/void-common-constants@0.0.2-ALPHA?classifier=sources

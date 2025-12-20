@@ -1,0 +1,2 @@
+- pkg:maven/com.github.squirrelgrip/kotlin-extensions-json@1.4.0
+- pkg:maven/com.github.squirrelgrip/kotlin-extensions-json@1.4.0?classifier=sources

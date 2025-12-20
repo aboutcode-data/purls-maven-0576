@@ -60,3 +60,7 @@
 - pkg:maven/com.aliyun/r_kvstore20150101@2.25.4?classifier=sources
 - pkg:maven/com.aliyun/r_kvstore20150101@2.25.5
 - pkg:maven/com.aliyun/r_kvstore20150101@2.25.5?classifier=sources
+- pkg:maven/com.aliyun/r_kvstore20150101@3.0.0
+- pkg:maven/com.aliyun/r_kvstore20150101@3.0.0?classifier=sources
+- pkg:maven/com.aliyun/r_kvstore20150101@3.0.1
+- pkg:maven/com.aliyun/r_kvstore20150101@3.0.1?classifier=sources

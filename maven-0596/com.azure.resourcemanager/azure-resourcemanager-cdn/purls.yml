@@ -48,6 +48,8 @@
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-cdn@2.34.0?classifier=sources
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-cdn@2.35.0?classifier=sources
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-cdn@2.36.0?classifier=sources
+- pkg:maven/com.azure.resourcemanager/azure-resourcemanager-cdn@2.37.0?classifier=sources
+- pkg:maven/com.azure.resourcemanager/azure-resourcemanager-cdn@2.38.0?classifier=sources
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-cdn@2.4.0
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-cdn@2.4.0?classifier=sources
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-cdn@2.5.0

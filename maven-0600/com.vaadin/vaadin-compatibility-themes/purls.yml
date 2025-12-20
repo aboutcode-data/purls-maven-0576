@@ -106,6 +106,10 @@
 - pkg:maven/com.vaadin/vaadin-compatibility-themes@8.23.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-compatibility-themes@8.24.0
 - pkg:maven/com.vaadin/vaadin-compatibility-themes@8.24.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-compatibility-themes@8.25.0
+- pkg:maven/com.vaadin/vaadin-compatibility-themes@8.25.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-compatibility-themes@8.25.1
+- pkg:maven/com.vaadin/vaadin-compatibility-themes@8.25.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-compatibility-themes@8.3.0
 - pkg:maven/com.vaadin/vaadin-compatibility-themes@8.3.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-compatibility-themes@8.3.1

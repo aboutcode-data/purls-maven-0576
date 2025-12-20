@@ -146,3 +146,7 @@
 - pkg:maven/com.yoctopuce.java/yoctolib-jee@1.10.54852?classifier=sources
 - pkg:maven/com.yoctopuce.java/yoctolib-jee@1.10.57762
 - pkg:maven/com.yoctopuce.java/yoctolib-jee@1.10.57762?classifier=sources
+- pkg:maven/com.yoctopuce.java/yoctolib-jee@1.10.60394
+- pkg:maven/com.yoctopuce.java/yoctolib-jee@1.10.60394?classifier=sources
+- pkg:maven/com.yoctopuce.java/yoctolib-jee@2.0.60485
+- pkg:maven/com.yoctopuce.java/yoctolib-jee@2.0.60485?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.github.romualdrousseau/any2json-pdf@2.38
+- pkg:maven/com.github.romualdrousseau/any2json-pdf@2.38?classifier=sources
+- pkg:maven/com.github.romualdrousseau/any2json-pdf@2.40
+- pkg:maven/com.github.romualdrousseau/any2json-pdf@2.40?classifier=sources

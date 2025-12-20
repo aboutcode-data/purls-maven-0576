@@ -1,0 +1,2 @@
+- pkg:maven/cn.ucloud/ucloud-sdk-java-uai_modelverse@1.2.21-release
+- pkg:maven/cn.ucloud/ucloud-sdk-java-uai_modelverse@1.2.21-release?classifier=sources

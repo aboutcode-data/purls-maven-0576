@@ -79,3 +79,4 @@
 - pkg:maven/me.ahoo.cosky/cosky-spring-cloud-core@4.3.6?classifier=sources
 - pkg:maven/me.ahoo.cosky/cosky-spring-cloud-core@4.4.0?classifier=sources
 - pkg:maven/me.ahoo.cosky/cosky-spring-cloud-core@4.4.2?classifier=sources
+- pkg:maven/me.ahoo.cosky/cosky-spring-cloud-core@4.4.3?classifier=sources

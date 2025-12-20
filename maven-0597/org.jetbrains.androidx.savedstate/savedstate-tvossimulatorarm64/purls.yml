@@ -1,0 +1,2 @@
+- pkg:maven/org.jetbrains.androidx.savedstate/savedstate-tvossimulatorarm64@1.2.0-beta01?classifier=sources
+- pkg:maven/org.jetbrains.androidx.savedstate/savedstate-tvossimulatorarm64@1.2.0-beta02?classifier=sources

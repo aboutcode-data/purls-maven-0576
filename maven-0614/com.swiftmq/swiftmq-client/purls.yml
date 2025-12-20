@@ -60,3 +60,7 @@
 - pkg:maven/com.swiftmq/swiftmq-client@12.5.3?classifier=sources
 - pkg:maven/com.swiftmq/swiftmq-client@12.5.4
 - pkg:maven/com.swiftmq/swiftmq-client@12.5.4?classifier=sources
+- pkg:maven/com.swiftmq/swiftmq-client@13.0.0
+- pkg:maven/com.swiftmq/swiftmq-client@13.0.0?classifier=sources
+- pkg:maven/com.swiftmq/swiftmq-client@13.0.1
+- pkg:maven/com.swiftmq/swiftmq-client@13.0.1?classifier=sources

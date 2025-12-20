@@ -284,6 +284,8 @@
 - pkg:maven/net.n2oapp.framework/frontend@7.27.5
 - pkg:maven/net.n2oapp.framework/frontend@7.27.6
 - pkg:maven/net.n2oapp.framework/frontend@7.27.7
+- pkg:maven/net.n2oapp.framework/frontend@7.27.8
+- pkg:maven/net.n2oapp.framework/frontend@7.27.9
 - pkg:maven/net.n2oapp.framework/frontend@7.3.1
 - pkg:maven/net.n2oapp.framework/frontend@7.3.10
 - pkg:maven/net.n2oapp.framework/frontend@7.3.11

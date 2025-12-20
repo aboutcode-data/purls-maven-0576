@@ -1,3 +1,4 @@
 - pkg:maven/org.kinotic/continuum-idl@1.10.0?classifier=sources
+- pkg:maven/org.kinotic/continuum-idl@1.11.0?classifier=sources
 - pkg:maven/org.kinotic/continuum-idl@1.9.2?classifier=sources
 - pkg:maven/org.kinotic/continuum-idl@1.9.3?classifier=sources

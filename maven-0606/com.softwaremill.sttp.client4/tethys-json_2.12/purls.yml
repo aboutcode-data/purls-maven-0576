@@ -1,0 +1,4 @@
+- pkg:maven/com.softwaremill.sttp.client4/tethys-json_2.12@4.0.0-M12
+- pkg:maven/com.softwaremill.sttp.client4/tethys-json_2.12@4.0.0-M12?classifier=sources
+- pkg:maven/com.softwaremill.sttp.client4/tethys-json_2.12@4.0.0-M13
+- pkg:maven/com.softwaremill.sttp.client4/tethys-json_2.12@4.0.0-M13?classifier=sources

@@ -82,6 +82,7 @@
 - pkg:maven/io.gatling/gatling-enterprise-plugin-commons@1.7.0?classifier=sources
 - pkg:maven/io.gatling/gatling-enterprise-plugin-commons@1.8.0
 - pkg:maven/io.gatling/gatling-enterprise-plugin-commons@1.8.0?classifier=sources
+- pkg:maven/io.gatling/gatling-enterprise-plugin-commons@1.9.0
 - pkg:maven/io.gatling/gatling-enterprise-plugin-commons@1.9.0-M1
 - pkg:maven/io.gatling/gatling-enterprise-plugin-commons@1.9.0-M10
 - pkg:maven/io.gatling/gatling-enterprise-plugin-commons@1.9.0-M10?classifier=sources
@@ -97,6 +98,10 @@
 - pkg:maven/io.gatling/gatling-enterprise-plugin-commons@1.9.0-M15?classifier=sources
 - pkg:maven/io.gatling/gatling-enterprise-plugin-commons@1.9.0-M17
 - pkg:maven/io.gatling/gatling-enterprise-plugin-commons@1.9.0-M17?classifier=sources
+- pkg:maven/io.gatling/gatling-enterprise-plugin-commons@1.9.0-M18
+- pkg:maven/io.gatling/gatling-enterprise-plugin-commons@1.9.0-M18?classifier=sources
+- pkg:maven/io.gatling/gatling-enterprise-plugin-commons@1.9.0-M19
+- pkg:maven/io.gatling/gatling-enterprise-plugin-commons@1.9.0-M19?classifier=sources
 - pkg:maven/io.gatling/gatling-enterprise-plugin-commons@1.9.0-M1?classifier=sources
 - pkg:maven/io.gatling/gatling-enterprise-plugin-commons@1.9.0-M2
 - pkg:maven/io.gatling/gatling-enterprise-plugin-commons@1.9.0-M20240321105048
@@ -116,3 +121,6 @@
 - pkg:maven/io.gatling/gatling-enterprise-plugin-commons@1.9.0-M8?classifier=sources
 - pkg:maven/io.gatling/gatling-enterprise-plugin-commons@1.9.0-M9
 - pkg:maven/io.gatling/gatling-enterprise-plugin-commons@1.9.0-M9?classifier=sources
+- pkg:maven/io.gatling/gatling-enterprise-plugin-commons@1.9.0?classifier=sources
+- pkg:maven/io.gatling/gatling-enterprise-plugin-commons@1.9.1
+- pkg:maven/io.gatling/gatling-enterprise-plugin-commons@1.9.1?classifier=sources

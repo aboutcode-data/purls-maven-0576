@@ -176,6 +176,10 @@
 - pkg:maven/com.hashicorp/cdktf-provider-gitlab@12.1.1?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-gitlab@12.2.0
 - pkg:maven/com.hashicorp/cdktf-provider-gitlab@12.2.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-gitlab@12.3.0
+- pkg:maven/com.hashicorp/cdktf-provider-gitlab@12.3.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-gitlab@12.4.0
+- pkg:maven/com.hashicorp/cdktf-provider-gitlab@12.4.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-gitlab@2.0.0
 - pkg:maven/com.hashicorp/cdktf-provider-gitlab@2.0.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-gitlab@2.0.1

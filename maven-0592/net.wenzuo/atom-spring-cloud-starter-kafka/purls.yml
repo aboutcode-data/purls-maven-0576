@@ -70,3 +70,5 @@
 - pkg:maven/net.wenzuo/atom-spring-cloud-starter-kafka@2.4.3?classifier=sources
 - pkg:maven/net.wenzuo/atom-spring-cloud-starter-kafka@2.4.4
 - pkg:maven/net.wenzuo/atom-spring-cloud-starter-kafka@2.4.4?classifier=sources
+- pkg:maven/net.wenzuo/atom-spring-cloud-starter-kafka@2.4.5
+- pkg:maven/net.wenzuo/atom-spring-cloud-starter-kafka@2.4.5?classifier=sources

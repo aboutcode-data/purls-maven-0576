@@ -256,6 +256,8 @@
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-json@23.8.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-json@24.0.0
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-json@24.0.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-json@24.1.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-json@24.1.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-json@3.0.0
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-json@3.0.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-json@3.1.0

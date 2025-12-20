@@ -49,3 +49,4 @@
 - pkg:maven/com.applovin.mediation/mytarget-adapter@5.18.0.0?classifier=sources
 - pkg:maven/com.applovin.mediation/mytarget-adapter@5.19.0.0?classifier=sources
 - pkg:maven/com.applovin.mediation/mytarget-adapter@5.20.0.0?classifier=sources
+- pkg:maven/com.applovin.mediation/mytarget-adapter@5.20.1.0?classifier=sources

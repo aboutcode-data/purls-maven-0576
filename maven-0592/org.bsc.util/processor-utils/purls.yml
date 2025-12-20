@@ -42,3 +42,7 @@
 - pkg:maven/org.bsc.util/processor-utils@5.0-rc3
 - pkg:maven/org.bsc.util/processor-utils@5.0-rc3?classifier=sources
 - pkg:maven/org.bsc.util/processor-utils@5.0?classifier=sources
+- pkg:maven/org.bsc.util/processor-utils@5.1
+- pkg:maven/org.bsc.util/processor-utils@5.1-jdk8
+- pkg:maven/org.bsc.util/processor-utils@5.1-jdk8?classifier=sources
+- pkg:maven/org.bsc.util/processor-utils@5.1?classifier=sources

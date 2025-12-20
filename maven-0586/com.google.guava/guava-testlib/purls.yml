@@ -236,3 +236,7 @@
 - pkg:maven/com.google.guava/guava-testlib@33.1.0-android?classifier=sources
 - pkg:maven/com.google.guava/guava-testlib@33.1.0-jre
 - pkg:maven/com.google.guava/guava-testlib@33.1.0-jre?classifier=sources
+- pkg:maven/com.google.guava/guava-testlib@33.2.0-android
+- pkg:maven/com.google.guava/guava-testlib@33.2.0-android?classifier=sources
+- pkg:maven/com.google.guava/guava-testlib@33.2.0-jre
+- pkg:maven/com.google.guava/guava-testlib@33.2.0-jre?classifier=sources

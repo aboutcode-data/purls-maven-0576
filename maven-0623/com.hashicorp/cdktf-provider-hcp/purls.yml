@@ -82,3 +82,13 @@
 - pkg:maven/com.hashicorp/cdktf-provider-hcp@9.2.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-hcp@9.3.0
 - pkg:maven/com.hashicorp/cdktf-provider-hcp@9.3.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-hcp@9.4.0
+- pkg:maven/com.hashicorp/cdktf-provider-hcp@9.4.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-hcp@9.5.0
+- pkg:maven/com.hashicorp/cdktf-provider-hcp@9.5.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-hcp@9.6.0
+- pkg:maven/com.hashicorp/cdktf-provider-hcp@9.6.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-hcp@9.7.0
+- pkg:maven/com.hashicorp/cdktf-provider-hcp@9.7.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-hcp@9.8.0
+- pkg:maven/com.hashicorp/cdktf-provider-hcp@9.8.0?classifier=sources

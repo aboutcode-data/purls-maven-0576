@@ -1,0 +1,2 @@
+- pkg:maven/com.soywiz/korlibs-bignumber-android-debug@5.5.0-alpha3?classifier=sources
+- pkg:maven/com.soywiz/korlibs-bignumber-android-debug@6.0.0-alpha1?classifier=sources

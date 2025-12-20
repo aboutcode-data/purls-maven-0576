@@ -76,3 +76,7 @@
 - pkg:maven/com.powsybl/powsybl-iidm-tck@6.2.1
 - pkg:maven/com.powsybl/powsybl-iidm-tck@6.2.2
 - pkg:maven/com.powsybl/powsybl-iidm-tck@6.2.3
+- pkg:maven/com.powsybl/powsybl-iidm-tck@6.2.4
+- pkg:maven/com.powsybl/powsybl-iidm-tck@6.3.0
+- pkg:maven/com.powsybl/powsybl-iidm-tck@6.3.0-alpha-1
+- pkg:maven/com.powsybl/powsybl-iidm-tck@6.3.1

@@ -50,3 +50,5 @@
 - pkg:maven/tv.hd3g.commons/env-version@18.0.2?classifier=sources
 - pkg:maven/tv.hd3g.commons/env-version@19.0.0
 - pkg:maven/tv.hd3g.commons/env-version@19.0.0?classifier=sources
+- pkg:maven/tv.hd3g.commons/env-version@20.0.0
+- pkg:maven/tv.hd3g.commons/env-version@20.0.0?classifier=sources

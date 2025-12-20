@@ -5,8 +5,11 @@
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-eventgrid@4.14.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-eventgrid@4.15.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-eventgrid@4.16.0?classifier=sources
+- pkg:maven/com.azure.spring/spring-cloud-azure-starter-eventgrid@4.17.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-eventgrid@4.9.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-eventgrid@5.10.0?classifier=sources
+- pkg:maven/com.azure.spring/spring-cloud-azure-starter-eventgrid@5.11.0?classifier=sources
+- pkg:maven/com.azure.spring/spring-cloud-azure-starter-eventgrid@5.12.0-beta.1?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-eventgrid@5.3.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-eventgrid@5.4.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-eventgrid@5.5.0?classifier=sources

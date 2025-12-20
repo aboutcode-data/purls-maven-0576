@@ -38,3 +38,5 @@
 - pkg:maven/com.segment.analytics.java/analytics-spring-boot-starter@3.4.0?classifier=sources
 - pkg:maven/com.segment.analytics.java/analytics-spring-boot-starter@3.5.0
 - pkg:maven/com.segment.analytics.java/analytics-spring-boot-starter@3.5.0?classifier=sources
+- pkg:maven/com.segment.analytics.java/analytics-spring-boot-starter@3.5.1
+- pkg:maven/com.segment.analytics.java/analytics-spring-boot-starter@3.5.1?classifier=sources

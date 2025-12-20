@@ -168,3 +168,5 @@
 - pkg:maven/org.apache.struts/struts2-osgi-admin-bundle@6.3.0.2
 - pkg:maven/org.apache.struts/struts2-osgi-admin-bundle@6.3.0.2?classifier=sources
 - pkg:maven/org.apache.struts/struts2-osgi-admin-bundle@6.3.0?classifier=sources
+- pkg:maven/org.apache.struts/struts2-osgi-admin-bundle@6.4.0
+- pkg:maven/org.apache.struts/struts2-osgi-admin-bundle@6.4.0?classifier=sources

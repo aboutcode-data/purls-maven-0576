@@ -4,3 +4,7 @@
 - pkg:maven/com.gradle/quarkus-build-caching-extension@0.11?classifier=sources
 - pkg:maven/com.gradle/quarkus-build-caching-extension@0.12
 - pkg:maven/com.gradle/quarkus-build-caching-extension@0.12?classifier=sources
+- pkg:maven/com.gradle/quarkus-build-caching-extension@1.0
+- pkg:maven/com.gradle/quarkus-build-caching-extension@1.0?classifier=sources
+- pkg:maven/com.gradle/quarkus-build-caching-extension@1.1
+- pkg:maven/com.gradle/quarkus-build-caching-extension@1.1?classifier=sources

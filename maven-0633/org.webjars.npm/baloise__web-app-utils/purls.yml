@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/baloise__web-app-utils@3.11.2
+- pkg:maven/org.webjars.npm/baloise__web-app-utils@3.11.2?classifier=sources

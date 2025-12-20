@@ -14,3 +14,4 @@
 - pkg:maven/tech.beepbeep/common@1.1.7-dev?classifier=sources
 - pkg:maven/tech.beepbeep/common@1.1.8-dev?classifier=sources
 - pkg:maven/tech.beepbeep/common@1.1.9-dev?classifier=sources
+- pkg:maven/tech.beepbeep/common@1.4.0-dev-rc-1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.pac4j/resteasy3-pac4j@5.0.0
 - pkg:maven/org.pac4j/resteasy3-pac4j@5.0.0?classifier=sources
+- pkg:maven/org.pac4j/resteasy3-pac4j@5.0.1
+- pkg:maven/org.pac4j/resteasy3-pac4j@5.0.1?classifier=sources

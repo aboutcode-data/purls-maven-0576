@@ -188,3 +188,5 @@
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-vrs@3.1.909?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-vrs@3.1.911
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-vrs@3.1.911?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-vrs@3.1.991
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-vrs@3.1.991?classifier=sources

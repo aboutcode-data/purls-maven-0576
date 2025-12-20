@@ -1,2 +1,4 @@
 - pkg:maven/org.aksw.jenax/jenax-models-void@4.9.0-1
 - pkg:maven/org.aksw.jenax/jenax-models-void@4.9.0-1?classifier=sources
+- pkg:maven/org.aksw.jenax/jenax-models-void@5.0.0-1
+- pkg:maven/org.aksw.jenax/jenax-models-void@5.0.0-1?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/com.willowtreeapps.assertk/assertk-wasm-wasi@0.28.1?classifier=sources
