@@ -14,3 +14,5 @@
 - pkg:maven/io.helidon.builder/helidon-builder-codegen@4.0.9?classifier=sources
 - pkg:maven/io.helidon.builder/helidon-builder-codegen@4.1.0
 - pkg:maven/io.helidon.builder/helidon-builder-codegen@4.1.0?classifier=sources
+- pkg:maven/io.helidon.builder/helidon-builder-codegen@4.1.1
+- pkg:maven/io.helidon.builder/helidon-builder-codegen@4.1.1?classifier=sources

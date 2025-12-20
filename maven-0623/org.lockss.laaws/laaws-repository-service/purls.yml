@@ -38,3 +38,4 @@
 - pkg:maven/org.lockss.laaws/laaws-repository-service@2.14.1?classifier=sources
 - pkg:maven/org.lockss.laaws/laaws-repository-service@2.15.0
 - pkg:maven/org.lockss.laaws/laaws-repository-service@2.15.0?classifier=sources
+- pkg:maven/org.lockss.laaws/laaws-repository-service@2.15.1?classifier=sources

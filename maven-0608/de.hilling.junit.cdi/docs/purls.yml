@@ -16,3 +16,6 @@
 - pkg:maven/de.hilling.junit.cdi/docs@4.1.0
 - pkg:maven/de.hilling.junit.cdi/docs@4.2.0
 - pkg:maven/de.hilling.junit.cdi/docs@4.3.0
+- pkg:maven/de.hilling.junit.cdi/docs@5.0.0
+- pkg:maven/de.hilling.junit.cdi/docs@5.0.1
+- pkg:maven/de.hilling.junit.cdi/docs@5.0.2

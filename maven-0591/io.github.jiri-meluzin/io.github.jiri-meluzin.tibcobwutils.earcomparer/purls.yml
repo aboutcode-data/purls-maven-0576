@@ -1,2 +1,4 @@
 - pkg:maven/io.github.jiri-meluzin/io.github.jiri-meluzin.tibcobwutils.earcomparer@1.1
 - pkg:maven/io.github.jiri-meluzin/io.github.jiri-meluzin.tibcobwutils.earcomparer@1.1?classifier=sources
+- pkg:maven/io.github.jiri-meluzin/io.github.jiri-meluzin.tibcobwutils.earcomparer@1.2
+- pkg:maven/io.github.jiri-meluzin/io.github.jiri-meluzin.tibcobwutils.earcomparer@1.2?classifier=sources

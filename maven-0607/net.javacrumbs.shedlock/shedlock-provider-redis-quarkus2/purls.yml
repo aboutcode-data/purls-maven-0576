@@ -16,6 +16,8 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-redis-quarkus2@5.15.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-redis-quarkus2@5.15.1
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-redis-quarkus2@5.15.1?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-redis-quarkus2@5.16.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-redis-quarkus2@5.16.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-redis-quarkus2@5.9.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-redis-quarkus2@5.9.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-redis-quarkus2@5.9.1

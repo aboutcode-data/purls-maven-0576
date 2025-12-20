@@ -4,3 +4,4 @@
 - pkg:maven/org.webjars.npm/vaadin__vaadin-usage-statistics@2.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/vaadin__vaadin-usage-statistics@2.1.2
 - pkg:maven/org.webjars.npm/vaadin__vaadin-usage-statistics@2.1.2?classifier=sources
+- pkg:maven/org.webjars.npm/vaadin__vaadin-usage-statistics@2.1.3

@@ -1,0 +1,2 @@
+- pkg:maven/com.softwaremagico/think-machine-4e-rules@4.0.2
+- pkg:maven/com.softwaremagico/think-machine-4e-rules@4.0.2?classifier=sources

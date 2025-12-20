@@ -1,0 +1,2 @@
+- pkg:maven/io.github.0x3c50.renderer/renderer-fabric@1.2.1?classifier=sources
+- pkg:maven/io.github.0x3c50.renderer/renderer-fabric@1.2?classifier=sources

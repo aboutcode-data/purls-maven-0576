@@ -1,1 +1,2 @@
 - pkg:maven/org.apereo.cas/cas-server-support-pac4j-cas@7.1.0-RC6?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-pac4j-cas@7.1.0?classifier=sources

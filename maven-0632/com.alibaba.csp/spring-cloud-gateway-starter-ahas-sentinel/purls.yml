@@ -125,4 +125,6 @@
 - pkg:maven/com.alibaba.csp/spring-cloud-gateway-starter-ahas-sentinel@1.6.7
 - pkg:maven/com.alibaba.csp/spring-cloud-gateway-starter-ahas-sentinel@1.6.7?classifier=sources
 - pkg:maven/com.alibaba.csp/spring-cloud-gateway-starter-ahas-sentinel@1.6.8
+- pkg:maven/com.alibaba.csp/spring-cloud-gateway-starter-ahas-sentinel@1.6.8-safe
+- pkg:maven/com.alibaba.csp/spring-cloud-gateway-starter-ahas-sentinel@1.6.8-safe?classifier=sources
 - pkg:maven/com.alibaba.csp/spring-cloud-gateway-starter-ahas-sentinel@1.6.8?classifier=sources

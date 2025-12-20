@@ -94,6 +94,8 @@
 - pkg:maven/org.openurp.edu/openurp-edu-api4j@0.41.2?classifier=sources
 - pkg:maven/org.openurp.edu/openurp-edu-api4j@0.41.3
 - pkg:maven/org.openurp.edu/openurp-edu-api4j@0.41.3?classifier=sources
+- pkg:maven/org.openurp.edu/openurp-edu-api4j@0.41.4
+- pkg:maven/org.openurp.edu/openurp-edu-api4j@0.41.4?classifier=sources
 - pkg:maven/org.openurp.edu/openurp-edu-api4j@0.9.10
 - pkg:maven/org.openurp.edu/openurp-edu-api4j@0.9.10?classifier=sources
 - pkg:maven/org.openurp.edu/openurp-edu-api4j@0.9.11

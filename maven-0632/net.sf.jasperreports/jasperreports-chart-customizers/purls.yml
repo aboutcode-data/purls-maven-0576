@@ -54,3 +54,5 @@
 - pkg:maven/net.sf.jasperreports/jasperreports-chart-customizers@6.9.0?classifier=sources
 - pkg:maven/net.sf.jasperreports/jasperreports-chart-customizers@7.0.0
 - pkg:maven/net.sf.jasperreports/jasperreports-chart-customizers@7.0.0?classifier=sources
+- pkg:maven/net.sf.jasperreports/jasperreports-chart-customizers@7.0.1
+- pkg:maven/net.sf.jasperreports/jasperreports-chart-customizers@7.0.1?classifier=sources

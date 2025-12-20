@@ -40,3 +40,5 @@
 - pkg:maven/org.pmml4s/pmml4s_2.12@1.0.2?classifier=sources
 - pkg:maven/org.pmml4s/pmml4s_2.12@1.0.3
 - pkg:maven/org.pmml4s/pmml4s_2.12@1.0.3?classifier=sources
+- pkg:maven/org.pmml4s/pmml4s_2.12@1.5.0
+- pkg:maven/org.pmml4s/pmml4s_2.12@1.5.0?classifier=sources

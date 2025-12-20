@@ -22,6 +22,8 @@
 - pkg:maven/com.mobidevelop.robovm/robovm-maven-resolver@2.3.20?classifier=sources
 - pkg:maven/com.mobidevelop.robovm/robovm-maven-resolver@2.3.21
 - pkg:maven/com.mobidevelop.robovm/robovm-maven-resolver@2.3.21?classifier=sources
+- pkg:maven/com.mobidevelop.robovm/robovm-maven-resolver@2.3.22
+- pkg:maven/com.mobidevelop.robovm/robovm-maven-resolver@2.3.22?classifier=sources
 - pkg:maven/com.mobidevelop.robovm/robovm-maven-resolver@2.3.4
 - pkg:maven/com.mobidevelop.robovm/robovm-maven-resolver@2.3.4?classifier=sources
 - pkg:maven/com.mobidevelop.robovm/robovm-maven-resolver@2.3.5

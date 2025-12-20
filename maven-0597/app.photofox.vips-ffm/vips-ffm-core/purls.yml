@@ -1,1 +1,12 @@
 - pkg:maven/app.photofox.vips-ffm/vips-ffm-core@0.0.7?classifier=sources
+- pkg:maven/app.photofox.vips-ffm/vips-ffm-core@0.0.8?classifier=sources
+- pkg:maven/app.photofox.vips-ffm/vips-ffm-core@0.1.0?classifier=sources
+- pkg:maven/app.photofox.vips-ffm/vips-ffm-core@0.2.0?classifier=sources
+- pkg:maven/app.photofox.vips-ffm/vips-ffm-core@0.3.0?classifier=sources
+- pkg:maven/app.photofox.vips-ffm/vips-ffm-core@0.4.0?classifier=sources
+- pkg:maven/app.photofox.vips-ffm/vips-ffm-core@0.5.0?classifier=sources
+- pkg:maven/app.photofox.vips-ffm/vips-ffm-core@0.5.1?classifier=sources
+- pkg:maven/app.photofox.vips-ffm/vips-ffm-core@0.5.3?classifier=sources
+- pkg:maven/app.photofox.vips-ffm/vips-ffm-core@0.5.4?classifier=sources
+- pkg:maven/app.photofox.vips-ffm/vips-ffm-core@0.5.5?classifier=sources
+- pkg:maven/app.photofox.vips-ffm/vips-ffm-core@0.5.6?classifier=sources

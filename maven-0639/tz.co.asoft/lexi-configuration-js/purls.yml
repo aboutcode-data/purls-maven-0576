@@ -1,1 +1,3 @@
 - pkg:maven/tz.co.asoft/lexi-configuration-js@3.0.11?classifier=sources
+- pkg:maven/tz.co.asoft/lexi-configuration-js@3.0.12?classifier=sources
+- pkg:maven/tz.co.asoft/lexi-configuration-js@3.0.13?classifier=sources

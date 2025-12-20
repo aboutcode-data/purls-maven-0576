@@ -1,0 +1,2 @@
+- pkg:maven/codes.rafael.typescriptdtotranslator/typescript-dto-translator-maven-plugin@1.0
+- pkg:maven/codes.rafael.typescriptdtotranslator/typescript-dto-translator-maven-plugin@1.0?classifier=sources

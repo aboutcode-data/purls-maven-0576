@@ -1,1 +1,2 @@
 - pkg:maven/dev.aulait.jeg/jpa-entity-generator-maven-plugin@0.8?classifier=sources
+- pkg:maven/dev.aulait.jeg/jpa-entity-generator-maven-plugin@0.9?classifier=sources

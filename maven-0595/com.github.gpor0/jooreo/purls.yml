@@ -11,6 +11,10 @@
 - pkg:maven/com.github.gpor0/jooreo@0.2.15
 - pkg:maven/com.github.gpor0/jooreo@0.2.15-hotfix1
 - pkg:maven/com.github.gpor0/jooreo@0.2.15-hotfix1?classifier=sources
+- pkg:maven/com.github.gpor0/jooreo@0.2.15-hotfix2
+- pkg:maven/com.github.gpor0/jooreo@0.2.15-hotfix2?classifier=sources
+- pkg:maven/com.github.gpor0/jooreo@0.2.15-hotfix3
+- pkg:maven/com.github.gpor0/jooreo@0.2.15-hotfix3?classifier=sources
 - pkg:maven/com.github.gpor0/jooreo@0.2.15?classifier=sources
 - pkg:maven/com.github.gpor0/jooreo@0.2.3
 - pkg:maven/com.github.gpor0/jooreo@0.2.3?classifier=sources

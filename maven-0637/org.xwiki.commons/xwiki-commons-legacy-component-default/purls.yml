@@ -535,8 +535,10 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-legacy-component-default@16.7.0?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-legacy-component-default@16.7.1
 - pkg:maven/org.xwiki.commons/xwiki-commons-legacy-component-default@16.7.1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-legacy-component-default@16.8.0
 - pkg:maven/org.xwiki.commons/xwiki-commons-legacy-component-default@16.8.0-rc-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-legacy-component-default@16.8.0-rc-1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-legacy-component-default@16.8.0?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-legacy-component-default@4.1
 - pkg:maven/org.xwiki.commons/xwiki-commons-legacy-component-default@4.1-milestone-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-legacy-component-default@4.1-milestone-1?classifier=sources

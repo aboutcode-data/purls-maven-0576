@@ -1,1 +1,2 @@
 - pkg:maven/io.github.tim06/vpnvpnstate@1.1.2?classifier=sources
+- pkg:maven/io.github.tim06/vpnvpnstate@1.1.3?classifier=sources

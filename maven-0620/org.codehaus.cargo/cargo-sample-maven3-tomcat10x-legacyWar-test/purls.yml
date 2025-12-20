@@ -1,1 +1,2 @@
 - pkg:maven/org.codehaus.cargo/cargo-sample-maven3-tomcat10x-legacyWar-test@1.10.14
+- pkg:maven/org.codehaus.cargo/cargo-sample-maven3-tomcat10x-legacyWar-test@1.10.15

@@ -1332,6 +1332,16 @@
 - pkg:maven/io.github.cdklabs/cdk-hyperledger-fabric-network@0.8.713?classifier=sources
 - pkg:maven/io.github.cdklabs/cdk-hyperledger-fabric-network@0.8.714
 - pkg:maven/io.github.cdklabs/cdk-hyperledger-fabric-network@0.8.714?classifier=sources
+- pkg:maven/io.github.cdklabs/cdk-hyperledger-fabric-network@0.8.715
+- pkg:maven/io.github.cdklabs/cdk-hyperledger-fabric-network@0.8.715?classifier=sources
+- pkg:maven/io.github.cdklabs/cdk-hyperledger-fabric-network@0.8.716
+- pkg:maven/io.github.cdklabs/cdk-hyperledger-fabric-network@0.8.716?classifier=sources
+- pkg:maven/io.github.cdklabs/cdk-hyperledger-fabric-network@0.8.717
+- pkg:maven/io.github.cdklabs/cdk-hyperledger-fabric-network@0.8.717?classifier=sources
+- pkg:maven/io.github.cdklabs/cdk-hyperledger-fabric-network@0.8.718
+- pkg:maven/io.github.cdklabs/cdk-hyperledger-fabric-network@0.8.718?classifier=sources
+- pkg:maven/io.github.cdklabs/cdk-hyperledger-fabric-network@0.8.719
+- pkg:maven/io.github.cdklabs/cdk-hyperledger-fabric-network@0.8.719?classifier=sources
 - pkg:maven/io.github.cdklabs/cdk-hyperledger-fabric-network@0.8.71?classifier=sources
 - pkg:maven/io.github.cdklabs/cdk-hyperledger-fabric-network@0.8.72
 - pkg:maven/io.github.cdklabs/cdk-hyperledger-fabric-network@0.8.72?classifier=sources

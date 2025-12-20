@@ -216,6 +216,12 @@
 - pkg:maven/com.google.apis/google-api-services-admin-directory@directory_v1-rev20240618-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-admin-directory@directory_v1-rev20240709-2.0.0
 - pkg:maven/com.google.apis/google-api-services-admin-directory@directory_v1-rev20240709-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-admin-directory@directory_v1-rev20240903-2.0.0
+- pkg:maven/com.google.apis/google-api-services-admin-directory@directory_v1-rev20240903-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-admin-directory@directory_v1-rev20240917-2.0.0
+- pkg:maven/com.google.apis/google-api-services-admin-directory@directory_v1-rev20240917-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-admin-directory@directory_v1-rev20240924-2.0.0
+- pkg:maven/com.google.apis/google-api-services-admin-directory@directory_v1-rev20240924-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-admin-directory@directory_v1-rev21-1.17.0-rc
 - pkg:maven/com.google.apis/google-api-services-admin-directory@directory_v1-rev21-1.17.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-admin-directory@directory_v1-rev22-1.17.0-rc

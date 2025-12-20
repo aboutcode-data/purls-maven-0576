@@ -1,0 +1,2 @@
+- pkg:maven/com.coreoz/http-routes-index@1.0.0
+- pkg:maven/com.coreoz/http-routes-index@1.0.0?classifier=sources

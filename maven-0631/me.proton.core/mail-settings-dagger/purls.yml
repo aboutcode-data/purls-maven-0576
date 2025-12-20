@@ -72,6 +72,11 @@
 - pkg:maven/me.proton.core/mail-settings-dagger@26.0.1?classifier=sources
 - pkg:maven/me.proton.core/mail-settings-dagger@26.0.2?classifier=sources
 - pkg:maven/me.proton.core/mail-settings-dagger@27.0.0?classifier=sources
+- pkg:maven/me.proton.core/mail-settings-dagger@27.1.0?classifier=sources
+- pkg:maven/me.proton.core/mail-settings-dagger@27.2.0?classifier=sources
+- pkg:maven/me.proton.core/mail-settings-dagger@27.2.1?classifier=sources
+- pkg:maven/me.proton.core/mail-settings-dagger@28.0.0?classifier=sources
+- pkg:maven/me.proton.core/mail-settings-dagger@28.1.0?classifier=sources
 - pkg:maven/me.proton.core/mail-settings-dagger@7.1.10?classifier=sources
 - pkg:maven/me.proton.core/mail-settings-dagger@7.1.11?classifier=sources
 - pkg:maven/me.proton.core/mail-settings-dagger@7.1.9?classifier=sources

@@ -284,6 +284,8 @@
 - pkg:maven/org.infinispan/infinispan-tasks-api@14.0.30.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-tasks-api@14.0.31.Final
 - pkg:maven/org.infinispan/infinispan-tasks-api@14.0.31.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-tasks-api@14.0.32.Final
+- pkg:maven/org.infinispan/infinispan-tasks-api@14.0.32.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-tasks-api@14.0.4.Final
 - pkg:maven/org.infinispan/infinispan-tasks-api@14.0.4.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-tasks-api@14.0.5.Final
@@ -336,6 +338,8 @@
 - pkg:maven/org.infinispan/infinispan-tasks-api@15.0.7.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-tasks-api@15.0.8.Final
 - pkg:maven/org.infinispan/infinispan-tasks-api@15.0.8.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-tasks-api@15.0.9.Final
+- pkg:maven/org.infinispan/infinispan-tasks-api@15.0.9.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-tasks-api@15.1.0.Dev01
 - pkg:maven/org.infinispan/infinispan-tasks-api@15.1.0.Dev01?classifier=sources
 - pkg:maven/org.infinispan/infinispan-tasks-api@15.1.0.Dev02

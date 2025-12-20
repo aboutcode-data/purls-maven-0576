@@ -1,0 +1,4 @@
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-spring-starter@0.12.0-302?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-spring-starter@0.12.0-303?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-spring-starter@0.12.0-304?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-spring-starter@0.12.0-306?classifier=sources

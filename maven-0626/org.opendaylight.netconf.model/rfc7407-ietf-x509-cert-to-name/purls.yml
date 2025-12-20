@@ -13,6 +13,7 @@
 - pkg:maven/org.opendaylight.netconf.model/rfc7407-ietf-x509-cert-to-name@6.0.8?classifier=sources
 - pkg:maven/org.opendaylight.netconf.model/rfc7407-ietf-x509-cert-to-name@7.0.0?classifier=sources
 - pkg:maven/org.opendaylight.netconf.model/rfc7407-ietf-x509-cert-to-name@7.0.1
+- pkg:maven/org.opendaylight.netconf.model/rfc7407-ietf-x509-cert-to-name@7.0.10?classifier=sources
 - pkg:maven/org.opendaylight.netconf.model/rfc7407-ietf-x509-cert-to-name@7.0.1?classifier=sources
 - pkg:maven/org.opendaylight.netconf.model/rfc7407-ietf-x509-cert-to-name@7.0.2?classifier=sources
 - pkg:maven/org.opendaylight.netconf.model/rfc7407-ietf-x509-cert-to-name@7.0.3?classifier=sources

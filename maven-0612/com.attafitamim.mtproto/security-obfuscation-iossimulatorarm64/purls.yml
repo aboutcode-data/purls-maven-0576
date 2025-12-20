@@ -10,3 +10,4 @@
 - pkg:maven/com.attafitamim.mtproto/security-obfuscation-iossimulatorarm64@3.0.3-alpha07?classifier=sources
 - pkg:maven/com.attafitamim.mtproto/security-obfuscation-iossimulatorarm64@3.0.3-alpha08?classifier=sources
 - pkg:maven/com.attafitamim.mtproto/security-obfuscation-iossimulatorarm64@3.0.3-alpha09?classifier=sources
+- pkg:maven/com.attafitamim.mtproto/security-obfuscation-iossimulatorarm64@3.0.3-alpha10?classifier=sources

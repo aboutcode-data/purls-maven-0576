@@ -1,2 +1,4 @@
+- pkg:maven/it.micegroup/voila2runtime-mail@1.10
+- pkg:maven/it.micegroup/voila2runtime-mail@1.10?classifier=sources
 - pkg:maven/it.micegroup/voila2runtime-mail@1.8
 - pkg:maven/it.micegroup/voila2runtime-mail@1.8?classifier=sources

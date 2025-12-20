@@ -1,1 +1,4 @@
 - pkg:maven/com.niubaite.boot/data-front@1.0.1-2024?classifier=sources
+- pkg:maven/com.niubaite.boot/data-front@1.0.2-mssql?classifier=sources
+- pkg:maven/com.niubaite.boot/data-front@1.0.3-2024?classifier=sources
+- pkg:maven/com.niubaite.boot/data-front@1.0.3-mssql?classifier=sources

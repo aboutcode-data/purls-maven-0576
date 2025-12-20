@@ -58,3 +58,5 @@
 - pkg:maven/com.identityx/IdentityXRestDef@5.4.1.1?classifier=sources
 - pkg:maven/com.identityx/IdentityXRestDef@5.5.0.10
 - pkg:maven/com.identityx/IdentityXRestDef@5.5.0.10?classifier=sources
+- pkg:maven/com.identityx/IdentityXRestDef@5.6.0.2
+- pkg:maven/com.identityx/IdentityXRestDef@5.6.0.2?classifier=sources

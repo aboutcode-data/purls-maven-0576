@@ -2,6 +2,9 @@
 - pkg:maven/com.lihaoyi/ammonite-interp_2.13.12@2.5.11?classifier=sources
 - pkg:maven/com.lihaoyi/ammonite-interp_2.13.12@2.5.9-2-7633e640
 - pkg:maven/com.lihaoyi/ammonite-interp_2.13.12@2.5.9-2-7633e640?classifier=sources
+- pkg:maven/com.lihaoyi/ammonite-interp_2.13.12@3.0.0
+- pkg:maven/com.lihaoyi/ammonite-interp_2.13.12@3.0.0-2-6342755f
+- pkg:maven/com.lihaoyi/ammonite-interp_2.13.12@3.0.0-2-6342755f?classifier=sources
 - pkg:maven/com.lihaoyi/ammonite-interp_2.13.12@3.0.0-M0-52-d2acc162
 - pkg:maven/com.lihaoyi/ammonite-interp_2.13.12@3.0.0-M0-52-d2acc162?classifier=sources
 - pkg:maven/com.lihaoyi/ammonite-interp_2.13.12@3.0.0-M0-53-084f7f4e
@@ -135,6 +138,8 @@
 - pkg:maven/com.lihaoyi/ammonite-interp_2.13.12@3.0.0-M2-2-741e5dbb?classifier=sources
 - pkg:maven/com.lihaoyi/ammonite-interp_2.13.12@3.0.0-M2-3-b5eb4787
 - pkg:maven/com.lihaoyi/ammonite-interp_2.13.12@3.0.0-M2-3-b5eb4787?classifier=sources
+- pkg:maven/com.lihaoyi/ammonite-interp_2.13.12@3.0.0-M2-30-486378af
+- pkg:maven/com.lihaoyi/ammonite-interp_2.13.12@3.0.0-M2-30-486378af?classifier=sources
 - pkg:maven/com.lihaoyi/ammonite-interp_2.13.12@3.0.0-M2-4-c3312916
 - pkg:maven/com.lihaoyi/ammonite-interp_2.13.12@3.0.0-M2-4-c3312916?classifier=sources
 - pkg:maven/com.lihaoyi/ammonite-interp_2.13.12@3.0.0-M2-5-1c823fef
@@ -148,3 +153,4 @@
 - pkg:maven/com.lihaoyi/ammonite-interp_2.13.12@3.0.0-M2-9-88291dd8
 - pkg:maven/com.lihaoyi/ammonite-interp_2.13.12@3.0.0-M2-9-88291dd8?classifier=sources
 - pkg:maven/com.lihaoyi/ammonite-interp_2.13.12@3.0.0-M2?classifier=sources
+- pkg:maven/com.lihaoyi/ammonite-interp_2.13.12@3.0.0?classifier=sources

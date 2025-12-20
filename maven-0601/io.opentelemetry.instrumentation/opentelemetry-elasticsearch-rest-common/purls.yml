@@ -28,3 +28,4 @@
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-elasticsearch-rest-common@2.5.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-elasticsearch-rest-common@2.6.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-elasticsearch-rest-common@2.7.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-elasticsearch-rest-common@2.8.0-alpha?classifier=sources

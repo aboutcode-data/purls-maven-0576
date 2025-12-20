@@ -108,3 +108,5 @@
 - pkg:maven/org.apache.pulsar/tiered-storage-file-system@3.3.0?classifier=sources
 - pkg:maven/org.apache.pulsar/tiered-storage-file-system@3.3.1
 - pkg:maven/org.apache.pulsar/tiered-storage-file-system@3.3.1?classifier=sources
+- pkg:maven/org.apache.pulsar/tiered-storage-file-system@4.0.0-preview.1
+- pkg:maven/org.apache.pulsar/tiered-storage-file-system@4.0.0-preview.1?classifier=sources

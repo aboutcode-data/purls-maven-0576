@@ -70,6 +70,12 @@
 - pkg:maven/io.opencaesar.owl/owl-close-world@2.0.0?classifier=sources
 - pkg:maven/io.opencaesar.owl/owl-close-world@2.1.0
 - pkg:maven/io.opencaesar.owl/owl-close-world@2.1.0?classifier=sources
+- pkg:maven/io.opencaesar.owl/owl-close-world@2.10.0
+- pkg:maven/io.opencaesar.owl/owl-close-world@2.10.0?classifier=sources
+- pkg:maven/io.opencaesar.owl/owl-close-world@2.11.0
+- pkg:maven/io.opencaesar.owl/owl-close-world@2.11.0?classifier=sources
+- pkg:maven/io.opencaesar.owl/owl-close-world@2.12.0
+- pkg:maven/io.opencaesar.owl/owl-close-world@2.12.0?classifier=sources
 - pkg:maven/io.opencaesar.owl/owl-close-world@2.2.0
 - pkg:maven/io.opencaesar.owl/owl-close-world@2.2.0?classifier=sources
 - pkg:maven/io.opencaesar.owl/owl-close-world@2.3.0

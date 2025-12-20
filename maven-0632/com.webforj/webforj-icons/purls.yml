@@ -1,0 +1,2 @@
+- pkg:maven/com.webforj/webforj-icons@24.11
+- pkg:maven/com.webforj/webforj-icons@24.11?classifier=sources

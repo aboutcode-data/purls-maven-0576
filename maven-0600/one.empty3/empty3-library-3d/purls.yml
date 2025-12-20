@@ -39,3 +39,4 @@
 - pkg:maven/one.empty3/empty3-library-3d@2024.5.10?classifier=sources
 - pkg:maven/one.empty3/empty3-library-3d@2024.6.28-10?classifier=sources
 - pkg:maven/one.empty3/empty3-library-3d@2024.7.21?classifier=sources
+- pkg:maven/one.empty3/empty3-library-3d@2024.9.2?classifier=sources

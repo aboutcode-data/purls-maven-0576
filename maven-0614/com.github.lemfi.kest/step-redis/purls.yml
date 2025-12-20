@@ -22,3 +22,4 @@
 - pkg:maven/com.github.lemfi.kest/step-redis@0.7.3?classifier=sources
 - pkg:maven/com.github.lemfi.kest/step-redis@0.7.4?classifier=sources
 - pkg:maven/com.github.lemfi.kest/step-redis@0.8.0?classifier=sources
+- pkg:maven/com.github.lemfi.kest/step-redis@0.8.1?classifier=sources

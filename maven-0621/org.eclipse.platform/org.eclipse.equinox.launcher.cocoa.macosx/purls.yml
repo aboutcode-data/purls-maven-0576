@@ -1,4 +1,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.launcher.cocoa.macosx@1.2.1000
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.launcher.cocoa.macosx@1.2.1100
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.launcher.cocoa.macosx@1.2.200
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.launcher.cocoa.macosx@1.2.300
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.launcher.cocoa.macosx@1.2.400

@@ -44,3 +44,4 @@
 - pkg:maven/io.micronaut.grpc/micronaut-grpc-client-runtime@4.5.0?classifier=sources
 - pkg:maven/io.micronaut.grpc/micronaut-grpc-client-runtime@4.6.0?classifier=sources
 - pkg:maven/io.micronaut.grpc/micronaut-grpc-client-runtime@4.7.0?classifier=sources
+- pkg:maven/io.micronaut.grpc/micronaut-grpc-client-runtime@4.7.1?classifier=sources

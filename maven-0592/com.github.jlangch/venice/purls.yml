@@ -229,6 +229,10 @@
 - pkg:maven/com.github.jlangch/venice@1.12.30?classifier=sources
 - pkg:maven/com.github.jlangch/venice@1.12.31
 - pkg:maven/com.github.jlangch/venice@1.12.31?classifier=sources
+- pkg:maven/com.github.jlangch/venice@1.12.32
+- pkg:maven/com.github.jlangch/venice@1.12.32?classifier=sources
+- pkg:maven/com.github.jlangch/venice@1.12.33
+- pkg:maven/com.github.jlangch/venice@1.12.33?classifier=sources
 - pkg:maven/com.github.jlangch/venice@1.12.3?classifier=sources
 - pkg:maven/com.github.jlangch/venice@1.12.4
 - pkg:maven/com.github.jlangch/venice@1.12.4?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-artifact-analysis-maven@0.120.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-artifact-analysis-maven@0.120.0?classifier=sources
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-artifact-analysis-maven@0.121.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-artifact-analysis-maven@0.121.0?classifier=sources
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-artifact-analysis-maven@0.122.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-artifact-analysis-maven@0.122.0?classifier=sources

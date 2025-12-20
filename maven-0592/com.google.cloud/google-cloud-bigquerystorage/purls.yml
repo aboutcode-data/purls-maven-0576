@@ -502,3 +502,7 @@
 - pkg:maven/com.google.cloud/google-cloud-bigquerystorage@3.8.1?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-bigquerystorage@3.9.0
 - pkg:maven/com.google.cloud/google-cloud-bigquerystorage@3.9.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-bigquerystorage@3.9.1
+- pkg:maven/com.google.cloud/google-cloud-bigquerystorage@3.9.1?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-bigquerystorage@3.9.2
+- pkg:maven/com.google.cloud/google-cloud-bigquerystorage@3.9.2?classifier=sources

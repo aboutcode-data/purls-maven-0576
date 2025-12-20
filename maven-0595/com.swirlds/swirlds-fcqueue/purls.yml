@@ -58,6 +58,9 @@
 - pkg:maven/com.swirlds/swirlds-fcqueue@0.53.2?classifier=sources
 - pkg:maven/com.swirlds/swirlds-fcqueue@0.53.3?classifier=sources
 - pkg:maven/com.swirlds/swirlds-fcqueue@0.53.4?classifier=sources
+- pkg:maven/com.swirlds/swirlds-fcqueue@0.53.5?classifier=sources
+- pkg:maven/com.swirlds/swirlds-fcqueue@0.54.0?classifier=sources
+- pkg:maven/com.swirlds/swirlds-fcqueue@0.54.1?classifier=sources
 - pkg:maven/com.swirlds/swirlds-fcqueue@0.7.4
 - pkg:maven/com.swirlds/swirlds-fcqueue@0.7.4-alpha.1
 - pkg:maven/com.swirlds/swirlds-fcqueue@0.7.4-alpha.1?classifier=sources

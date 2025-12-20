@@ -1,0 +1,2 @@
+- pkg:maven/io.github.i-nahornyi/gatling-playwright-plugin@0.1.1?classifier=sources
+- pkg:maven/io.github.i-nahornyi/gatling-playwright-plugin@0.1?classifier=sources

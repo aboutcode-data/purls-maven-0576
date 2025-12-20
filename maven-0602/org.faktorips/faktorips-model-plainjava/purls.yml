@@ -111,6 +111,8 @@
 - pkg:maven/org.faktorips/faktorips-model-plainjava@24.1.11.release?classifier=sources
 - pkg:maven/org.faktorips/faktorips-model-plainjava@24.1.12.release
 - pkg:maven/org.faktorips/faktorips-model-plainjava@24.1.12.release?classifier=sources
+- pkg:maven/org.faktorips/faktorips-model-plainjava@24.1.14.release
+- pkg:maven/org.faktorips/faktorips-model-plainjava@24.1.14.release?classifier=sources
 - pkg:maven/org.faktorips/faktorips-model-plainjava@24.1.2.release
 - pkg:maven/org.faktorips/faktorips-model-plainjava@24.1.2.release?classifier=sources
 - pkg:maven/org.faktorips/faktorips-model-plainjava@24.1.3.release
@@ -135,3 +137,5 @@
 - pkg:maven/org.faktorips/faktorips-model-plainjava@24.7.1.release?classifier=sources
 - pkg:maven/org.faktorips/faktorips-model-plainjava@24.7.2.release
 - pkg:maven/org.faktorips/faktorips-model-plainjava@24.7.2.release?classifier=sources
+- pkg:maven/org.faktorips/faktorips-model-plainjava@24.7.3.release
+- pkg:maven/org.faktorips/faktorips-model-plainjava@24.7.3.release?classifier=sources

@@ -1,2 +1,3 @@
 - pkg:maven/fun.krinsiman.llm/llm-agent-core@1.0.0-beta.3?classifier=sources
 - pkg:maven/fun.krinsiman.llm/llm-agent-core@1.0.0-beta.4?classifier=sources
+- pkg:maven/fun.krinsiman.llm/llm-agent-core@1.0.0-beta.5?classifier=sources
