@@ -14,3 +14,4 @@
 - pkg:maven/dev.yumi.commons/yumi-commons-event@1.0.0-beta.2?classifier=sources
 - pkg:maven/dev.yumi.commons/yumi-commons-event@1.0.0-beta.3?classifier=sources
 - pkg:maven/dev.yumi.commons/yumi-commons-event@1.0.0-beta.4?classifier=sources
+- pkg:maven/dev.yumi.commons/yumi-commons-event@1.0.0-beta.5?classifier=sources

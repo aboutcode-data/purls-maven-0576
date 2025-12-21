@@ -104,6 +104,10 @@
 - pkg:maven/com.google.maps.api.grpc/proto-google-maps-routing-v2@1.59.0?classifier=sources
 - pkg:maven/com.google.maps.api.grpc/proto-google-maps-routing-v2@1.6.0
 - pkg:maven/com.google.maps.api.grpc/proto-google-maps-routing-v2@1.6.0?classifier=sources
+- pkg:maven/com.google.maps.api.grpc/proto-google-maps-routing-v2@1.60.0
+- pkg:maven/com.google.maps.api.grpc/proto-google-maps-routing-v2@1.60.0?classifier=sources
+- pkg:maven/com.google.maps.api.grpc/proto-google-maps-routing-v2@1.61.0
+- pkg:maven/com.google.maps.api.grpc/proto-google-maps-routing-v2@1.61.0?classifier=sources
 - pkg:maven/com.google.maps.api.grpc/proto-google-maps-routing-v2@1.7.0
 - pkg:maven/com.google.maps.api.grpc/proto-google-maps-routing-v2@1.7.0?classifier=sources
 - pkg:maven/com.google.maps.api.grpc/proto-google-maps-routing-v2@1.8.0

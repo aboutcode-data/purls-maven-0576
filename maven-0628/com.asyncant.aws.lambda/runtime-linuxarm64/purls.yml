@@ -1,0 +1,1 @@
+- pkg:maven/com.asyncant.aws.lambda/runtime-linuxarm64@0.9.5?classifier=sources

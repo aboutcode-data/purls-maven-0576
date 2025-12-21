@@ -2,3 +2,5 @@
 - pkg:maven/io.github.olamy.mcp/jetty-mcp-transport@0.11.2?classifier=sources
 - pkg:maven/io.github.olamy.mcp/jetty-mcp-transport@0.12.1.0?classifier=sources
 - pkg:maven/io.github.olamy.mcp/jetty-mcp-transport@0.12.1.1?classifier=sources
+- pkg:maven/io.github.olamy.mcp/jetty-mcp-transport@0.13.1?classifier=sources
+- pkg:maven/io.github.olamy.mcp/jetty-mcp-transport@0.14.1?classifier=sources

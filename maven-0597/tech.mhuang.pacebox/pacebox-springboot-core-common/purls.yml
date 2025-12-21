@@ -96,3 +96,4 @@
 - pkg:maven/tech.mhuang.pacebox/pacebox-springboot-core-common@2023.0.0.0?classifier=sources
 - pkg:maven/tech.mhuang.pacebox/pacebox-springboot-core-common@2025.0.0.0?classifier=sources
 - pkg:maven/tech.mhuang.pacebox/pacebox-springboot-core-common@2025.0.0.1?classifier=sources
+- pkg:maven/tech.mhuang.pacebox/pacebox-springboot-core-common@2025.0.0.2?classifier=sources

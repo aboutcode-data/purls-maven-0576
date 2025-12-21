@@ -10,3 +10,4 @@
 - pkg:maven/io.github.tree-sitter/jtreesitter@0.25.3?classifier=sources
 - pkg:maven/io.github.tree-sitter/jtreesitter@0.25.4?classifier=sources
 - pkg:maven/io.github.tree-sitter/jtreesitter@0.25.5?classifier=sources
+- pkg:maven/io.github.tree-sitter/jtreesitter@0.25.6?classifier=sources

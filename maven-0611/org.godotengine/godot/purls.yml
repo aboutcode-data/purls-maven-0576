@@ -16,3 +16,4 @@
 - pkg:maven/org.godotengine/godot@4.3.0.stable?classifier=sources
 - pkg:maven/org.godotengine/godot@4.4.0.stable?classifier=sources
 - pkg:maven/org.godotengine/godot@4.4.1.stable?classifier=sources
+- pkg:maven/org.godotengine/godot@4.5.0.stable?classifier=sources

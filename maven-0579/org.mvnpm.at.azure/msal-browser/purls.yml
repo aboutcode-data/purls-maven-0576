@@ -33,6 +33,12 @@
 - pkg:maven/org.mvnpm.at.azure/msal-browser@4.22.1?classifier=sources
 - pkg:maven/org.mvnpm.at.azure/msal-browser@4.23.0
 - pkg:maven/org.mvnpm.at.azure/msal-browser@4.23.0?classifier=sources
+- pkg:maven/org.mvnpm.at.azure/msal-browser@4.24.0
+- pkg:maven/org.mvnpm.at.azure/msal-browser@4.24.0?classifier=sources
+- pkg:maven/org.mvnpm.at.azure/msal-browser@4.24.1
+- pkg:maven/org.mvnpm.at.azure/msal-browser@4.24.1?classifier=sources
+- pkg:maven/org.mvnpm.at.azure/msal-browser@4.25.0
+- pkg:maven/org.mvnpm.at.azure/msal-browser@4.25.0?classifier=sources
 - pkg:maven/org.mvnpm.at.azure/msal-browser@4.7.0?classifier=sources
 - pkg:maven/org.mvnpm.at.azure/msal-browser@4.8.0?classifier=sources
 - pkg:maven/org.mvnpm.at.azure/msal-browser@4.9.0?classifier=sources

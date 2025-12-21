@@ -12,4 +12,8 @@
 - pkg:maven/com.studyfetch.javasdk/studyfetch-sdk-core@0.1.0-alpha.21?classifier=sources
 - pkg:maven/com.studyfetch.javasdk/studyfetch-sdk-core@0.1.0-alpha.22?classifier=sources
 - pkg:maven/com.studyfetch.javasdk/studyfetch-sdk-core@0.1.0-alpha.23?classifier=sources
+- pkg:maven/com.studyfetch.javasdk/studyfetch-sdk-core@0.1.0-alpha.24?classifier=sources
+- pkg:maven/com.studyfetch.javasdk/studyfetch-sdk-core@0.1.0-alpha.25?classifier=sources
+- pkg:maven/com.studyfetch.javasdk/studyfetch-sdk-core@0.1.0-alpha.26?classifier=sources
+- pkg:maven/com.studyfetch.javasdk/studyfetch-sdk-core@0.1.0-alpha.27?classifier=sources
 - pkg:maven/com.studyfetch.javasdk/studyfetch-sdk-core@0.1.0-alpha.9?classifier=sources

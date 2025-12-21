@@ -6,3 +6,4 @@
 - pkg:maven/org.webjars.npm/trim-trailing-lines@1.1.2?classifier=sources
 - pkg:maven/org.webjars.npm/trim-trailing-lines@1.1.3
 - pkg:maven/org.webjars.npm/trim-trailing-lines@1.1.3?classifier=sources
+- pkg:maven/org.webjars.npm/trim-trailing-lines@2.1.0

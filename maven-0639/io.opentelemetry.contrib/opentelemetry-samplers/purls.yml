@@ -41,3 +41,4 @@
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-samplers@1.47.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-samplers@1.48.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-samplers@1.49.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.contrib/opentelemetry-samplers@1.50.0-alpha?classifier=sources

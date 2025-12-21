@@ -18,3 +18,5 @@
 - pkg:maven/io.resoluteworks/validk@1.2.9?classifier=sources
 - pkg:maven/io.resoluteworks/validk@2.0.0-RC1?classifier=sources
 - pkg:maven/io.resoluteworks/validk@2.0.0?classifier=sources
+- pkg:maven/io.resoluteworks/validk@2.1.0?classifier=sources
+- pkg:maven/io.resoluteworks/validk@2.2.0?classifier=sources

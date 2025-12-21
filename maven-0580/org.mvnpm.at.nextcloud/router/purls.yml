@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.nextcloud/router@3.0.1
+- pkg:maven/org.mvnpm.at.nextcloud/router@3.0.1?classifier=sources

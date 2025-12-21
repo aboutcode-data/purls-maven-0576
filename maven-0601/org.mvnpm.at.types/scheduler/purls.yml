@@ -2,3 +2,5 @@
 - pkg:maven/org.mvnpm.at.types/scheduler@0.16.4?classifier=sources
 - pkg:maven/org.mvnpm.at.types/scheduler@0.16.8?classifier=sources
 - pkg:maven/org.mvnpm.at.types/scheduler@0.23.0?classifier=sources
+- pkg:maven/org.mvnpm.at.types/scheduler@0.26.0
+- pkg:maven/org.mvnpm.at.types/scheduler@0.26.0?classifier=sources

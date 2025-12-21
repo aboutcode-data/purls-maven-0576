@@ -59,3 +59,4 @@
 - pkg:maven/org.webjars.npm/debug@4.3.7
 - pkg:maven/org.webjars.npm/debug@4.4.0
 - pkg:maven/org.webjars.npm/debug@4.4.1
+- pkg:maven/org.webjars.npm/debug@4.4.3

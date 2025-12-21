@@ -11,6 +11,8 @@
 - pkg:maven/com.github.xpenatan.jParser/jParser-idl@1.0.0-b20?classifier=sources
 - pkg:maven/com.github.xpenatan.jParser/jParser-idl@1.0.0-b21?classifier=sources
 - pkg:maven/com.github.xpenatan.jParser/jParser-idl@1.0.0-b22?classifier=sources
+- pkg:maven/com.github.xpenatan.jParser/jParser-idl@1.0.0-b23?classifier=sources
+- pkg:maven/com.github.xpenatan.jParser/jParser-idl@1.0.0-b24?classifier=sources
 - pkg:maven/com.github.xpenatan.jParser/jParser-idl@1.0.0-b3?classifier=sources
 - pkg:maven/com.github.xpenatan.jParser/jParser-idl@1.0.0-b5?classifier=sources
 - pkg:maven/com.github.xpenatan.jParser/jParser-idl@1.0.0-b6?classifier=sources

@@ -15,3 +15,4 @@
 - pkg:maven/com.kuflow/kuflow-temporal-workflow-kuflow@3.4.0
 - pkg:maven/com.kuflow/kuflow-temporal-workflow-kuflow@3.4.0?classifier=sources
 - pkg:maven/com.kuflow/kuflow-temporal-workflow-kuflow@3.5.0?classifier=sources
+- pkg:maven/com.kuflow/kuflow-temporal-workflow-kuflow@3.5.1?classifier=sources

@@ -155,3 +155,5 @@
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-jdbc@1.8?classifier=sources
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-jdbc@1.9
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-jdbc@1.9?classifier=sources
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-jdbc@2.0?classifier=sources
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-jdbc@2.1?classifier=sources

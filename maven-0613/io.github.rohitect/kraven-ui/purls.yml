@@ -18,3 +18,7 @@
 - pkg:maven/io.github.rohitect/kraven-ui@1.0.9?classifier=sources
 - pkg:maven/io.github.rohitect/kraven-ui@1.1.0
 - pkg:maven/io.github.rohitect/kraven-ui@1.1.0?classifier=sources
+- pkg:maven/io.github.rohitect/kraven-ui@1.1.12
+- pkg:maven/io.github.rohitect/kraven-ui@1.1.12?classifier=sources
+- pkg:maven/io.github.rohitect/kraven-ui@1.1.13
+- pkg:maven/io.github.rohitect/kraven-ui@1.1.13?classifier=sources

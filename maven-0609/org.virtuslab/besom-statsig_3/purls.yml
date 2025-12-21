@@ -1,0 +1,2 @@
+- pkg:maven/org.virtuslab/besom-statsig_3@0.0.1-core.0.5
+- pkg:maven/org.virtuslab/besom-statsig_3@0.0.1-core.0.5?classifier=sources

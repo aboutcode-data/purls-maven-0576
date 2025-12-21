@@ -58,6 +58,8 @@
 - pkg:maven/com.gu.etag-caching/aws-s3-sdk-v2_3@10.0.2?classifier=sources
 - pkg:maven/com.gu.etag-caching/aws-s3-sdk-v2_3@11.0.0-PREVIEW.rearrange-executioncontexts.2025-09-04T1417.81632f48
 - pkg:maven/com.gu.etag-caching/aws-s3-sdk-v2_3@11.0.0-PREVIEW.rearrange-executioncontexts.2025-09-04T1417.81632f48?classifier=sources
+- pkg:maven/com.gu.etag-caching/aws-s3-sdk-v2_3@11.0.0-PREVIEW.rearrange-executioncontexts.2025-10-08T1413.e75cbd50
+- pkg:maven/com.gu.etag-caching/aws-s3-sdk-v2_3@11.0.0-PREVIEW.rearrange-executioncontexts.2025-10-08T1413.e75cbd50?classifier=sources
 - pkg:maven/com.gu.etag-caching/aws-s3-sdk-v2_3@11.0.0-PREVIEW.support-fetching-then-parsing-with-key.2025-09-03T1555.0c1dbdea
 - pkg:maven/com.gu.etag-caching/aws-s3-sdk-v2_3@11.0.0-PREVIEW.support-fetching-then-parsing-with-key.2025-09-03T1555.0c1dbdea?classifier=sources
 - pkg:maven/com.gu.etag-caching/aws-s3-sdk-v2_3@11.0.0-PREVIEW.support-fetching-then-parsing-with-key.2025-09-04T1544.32fe2e20

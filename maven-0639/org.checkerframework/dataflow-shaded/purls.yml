@@ -70,6 +70,7 @@
 - pkg:maven/org.checkerframework/dataflow-shaded@3.5.0?classifier=sources
 - pkg:maven/org.checkerframework/dataflow-shaded@3.50.0?classifier=sources
 - pkg:maven/org.checkerframework/dataflow-shaded@3.51.0?classifier=sources
+- pkg:maven/org.checkerframework/dataflow-shaded@3.51.1?classifier=sources
 - pkg:maven/org.checkerframework/dataflow-shaded@3.6.0
 - pkg:maven/org.checkerframework/dataflow-shaded@3.6.0?classifier=sources
 - pkg:maven/org.checkerframework/dataflow-shaded@3.6.1

@@ -65,6 +65,8 @@
 - pkg:maven/io.nashid.verify/sdk@2.6.2-rc-f788aa2?classifier=sources
 - pkg:maven/io.nashid.verify/sdk@2.6.2?classifier=sources
 - pkg:maven/io.nashid.verify/sdk@2.6.3-debug-8aebb50?classifier=sources
+- pkg:maven/io.nashid.verify/sdk@2.6.3-debug-8d9af8d?classifier=sources
+- pkg:maven/io.nashid.verify/sdk@2.6.3-debug-cba5c57?classifier=sources
 - pkg:maven/io.nashid.verify/sdk@2.6.3-rc-42dad91?classifier=sources
 - pkg:maven/io.nashid.verify/sdk@2.6.3-rc-6c60b00?classifier=sources
 - pkg:maven/io.nashid.verify/sdk@2.6.3-rc-7959aad?classifier=sources
@@ -72,3 +74,17 @@
 - pkg:maven/io.nashid.verify/sdk@2.6.3-rc-d009244?classifier=sources
 - pkg:maven/io.nashid.verify/sdk@2.6.3-rc-e633452?classifier=sources
 - pkg:maven/io.nashid.verify/sdk@2.6.3-rc-f890301?classifier=sources
+- pkg:maven/io.nashid.verify/sdk@2.6.4-debug-1307026?classifier=sources
+- pkg:maven/io.nashid.verify/sdk@2.6.4-debug-3371c55?classifier=sources
+- pkg:maven/io.nashid.verify/sdk@2.6.4-debug-3d9d250?classifier=sources
+- pkg:maven/io.nashid.verify/sdk@2.6.4-debug-6e429d0?classifier=sources
+- pkg:maven/io.nashid.verify/sdk@2.6.4-debug-7ad47b8?classifier=sources
+- pkg:maven/io.nashid.verify/sdk@2.6.4-debug-9c6c542?classifier=sources
+- pkg:maven/io.nashid.verify/sdk@2.6.4-debug-a263c1d?classifier=sources
+- pkg:maven/io.nashid.verify/sdk@2.6.4-debug-c7c3e9b?classifier=sources
+- pkg:maven/io.nashid.verify/sdk@2.6.4-debug-d82d1e5?classifier=sources
+- pkg:maven/io.nashid.verify/sdk@2.6.4-debug-ef6109c?classifier=sources
+- pkg:maven/io.nashid.verify/sdk@2.6.4-rc-d82d1e5?classifier=sources
+- pkg:maven/io.nashid.verify/sdk@2.6.4-rc-ef6109c?classifier=sources
+- pkg:maven/io.nashid.verify/sdk@2.6.4?classifier=sources
+- pkg:maven/io.nashid.verify/sdk@2.6.5-rc-e38bc73?classifier=sources

@@ -1,2 +1,11 @@
 - pkg:maven/cz.cybersecurityhub.maven/crczp-security-commons@1.0.1?classifier=sources
+- pkg:maven/cz.cybersecurityhub.maven/crczp-security-commons@2.2.0?classifier=sources
 - pkg:maven/cz.cybersecurityhub.maven/crczp-security-commons@v2.1.0-dev?classifier=sources
+- pkg:maven/cz.cybersecurityhub.maven/crczp-security-commons@v2.2.0-dev-00a098f?classifier=sources
+- pkg:maven/cz.cybersecurityhub.maven/crczp-security-commons@v2.2.0-dev-1b456bf?classifier=sources
+- pkg:maven/cz.cybersecurityhub.maven/crczp-security-commons@v2.3.0-dev-0214411?classifier=sources
+- pkg:maven/cz.cybersecurityhub.maven/crczp-security-commons@v2.3.0-dev-0cd420b?classifier=sources
+- pkg:maven/cz.cybersecurityhub.maven/crczp-security-commons@v2.3.0-dev-0cf7efe?classifier=sources
+- pkg:maven/cz.cybersecurityhub.maven/crczp-security-commons@v2.3.0-dev-6a0e45f?classifier=sources
+- pkg:maven/cz.cybersecurityhub.maven/crczp-security-commons@v2.3.0-dev-8f3d774?classifier=sources
+- pkg:maven/cz.cybersecurityhub.maven/crczp-security-commons@v2.3.0-dev-ad4a36e?classifier=sources

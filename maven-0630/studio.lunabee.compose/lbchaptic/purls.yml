@@ -13,3 +13,4 @@
 - pkg:maven/studio.lunabee.compose/lbchaptic@1.4.0?classifier=sources
 - pkg:maven/studio.lunabee.compose/lbchaptic@1.5.0?classifier=sources
 - pkg:maven/studio.lunabee.compose/lbchaptic@1.6.0?classifier=sources
+- pkg:maven/studio.lunabee.compose/lbchaptic@1.7.0?classifier=sources

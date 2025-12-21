@@ -21,3 +21,5 @@
 - pkg:maven/org.webjars.npm/ckeditor__ckeditor5-widget@40.1.0
 - pkg:maven/org.webjars.npm/ckeditor__ckeditor5-widget@40.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/ckeditor__ckeditor5-widget@44.1.0
+- pkg:maven/org.webjars.npm/ckeditor__ckeditor5-widget@44.3.0
+- pkg:maven/org.webjars.npm/ckeditor__ckeditor5-widget@46.1.1

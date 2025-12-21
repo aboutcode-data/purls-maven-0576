@@ -33,6 +33,7 @@
 - pkg:maven/io.github.reflectframework/reflect-telegram-bot@0.0.40?classifier=sources
 - pkg:maven/io.github.reflectframework/reflect-telegram-bot@0.0.41?classifier=sources
 - pkg:maven/io.github.reflectframework/reflect-telegram-bot@0.0.42?classifier=sources
+- pkg:maven/io.github.reflectframework/reflect-telegram-bot@0.0.43?classifier=sources
 - pkg:maven/io.github.reflectframework/reflect-telegram-bot@0.0.4?classifier=sources
 - pkg:maven/io.github.reflectframework/reflect-telegram-bot@0.0.5?classifier=sources
 - pkg:maven/io.github.reflectframework/reflect-telegram-bot@0.0.6?classifier=sources
@@ -59,3 +60,4 @@
 - pkg:maven/io.github.reflectframework/reflect-telegram-bot@1.5.2?classifier=sources
 - pkg:maven/io.github.reflectframework/reflect-telegram-bot@1.5.3?classifier=sources
 - pkg:maven/io.github.reflectframework/reflect-telegram-bot@1.5.4?classifier=sources
+- pkg:maven/io.github.reflectframework/reflect-telegram-bot@1.5.5?classifier=sources

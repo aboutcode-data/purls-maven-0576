@@ -11,3 +11,5 @@
 - pkg:maven/dev.hollowcube/luau-natives-windows-x64@0.3.3?classifier=sources
 - pkg:maven/dev.hollowcube/luau-natives-windows-x64@0.4.0-debug?classifier=sources
 - pkg:maven/dev.hollowcube/luau-natives-windows-x64@0.4.0?classifier=sources
+- pkg:maven/dev.hollowcube/luau-natives-windows-x64@0.5.1-debug?classifier=sources
+- pkg:maven/dev.hollowcube/luau-natives-windows-x64@0.5.1?classifier=sources

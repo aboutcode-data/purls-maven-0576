@@ -1,0 +1,2 @@
+- pkg:maven/com.svix/agentic-commerce-protocol-java@0.1.7?classifier=sources
+- pkg:maven/com.svix/agentic-commerce-protocol-java@0.2.0?classifier=sources

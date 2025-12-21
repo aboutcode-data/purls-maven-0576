@@ -143,3 +143,5 @@
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-jpa@3.4.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-jpa@3.5.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-jpa@3.6.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-jpa@4.0.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-jpa@4.1.0?classifier=sources

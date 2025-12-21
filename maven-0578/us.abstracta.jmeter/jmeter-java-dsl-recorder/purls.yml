@@ -59,3 +59,5 @@
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-recorder@1.30?classifier=sources
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-recorder@1.9
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-recorder@1.9?classifier=sources
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-recorder@2.0?classifier=sources
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-recorder@2.1?classifier=sources

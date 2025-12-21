@@ -148,8 +148,13 @@
 - pkg:maven/se.bjurr.violations/violations-lib@1.157.3?classifier=sources
 - pkg:maven/se.bjurr.violations/violations-lib@1.158.0?classifier=sources
 - pkg:maven/se.bjurr.violations/violations-lib@1.158.1?classifier=sources
+- pkg:maven/se.bjurr.violations/violations-lib@1.159.0?classifier=sources
+- pkg:maven/se.bjurr.violations/violations-lib@1.159.1?classifier=sources
 - pkg:maven/se.bjurr.violations/violations-lib@1.15?classifier=sources
 - pkg:maven/se.bjurr.violations/violations-lib@1.16
+- pkg:maven/se.bjurr.violations/violations-lib@1.160.0?classifier=sources
+- pkg:maven/se.bjurr.violations/violations-lib@1.160.1?classifier=sources
+- pkg:maven/se.bjurr.violations/violations-lib@1.160.2?classifier=sources
 - pkg:maven/se.bjurr.violations/violations-lib@1.16?classifier=sources
 - pkg:maven/se.bjurr.violations/violations-lib@1.17
 - pkg:maven/se.bjurr.violations/violations-lib@1.17?classifier=sources

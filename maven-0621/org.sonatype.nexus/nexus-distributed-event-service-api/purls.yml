@@ -124,3 +124,5 @@
 - pkg:maven/org.sonatype.nexus/nexus-distributed-event-service-api@3.83.1-03?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-distributed-event-service-api@3.83.2-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-distributed-event-service-api@3.84.0-03?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-distributed-event-service-api@3.84.1-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-distributed-event-service-api@3.85.0-03?classifier=sources

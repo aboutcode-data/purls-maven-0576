@@ -116,3 +116,4 @@
 - pkg:maven/com.codingame.gameengine/module-tooltip@4.4.4?classifier=sources
 - pkg:maven/com.codingame.gameengine/module-tooltip@4.5.0
 - pkg:maven/com.codingame.gameengine/module-tooltip@4.5.0?classifier=sources
+- pkg:maven/com.codingame.gameengine/module-tooltip@4.6.0?classifier=sources

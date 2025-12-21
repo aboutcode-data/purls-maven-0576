@@ -80,3 +80,4 @@
 - pkg:maven/org.cip4.lib.jdf/JDFLibJ@2.1.8.8?classifier=sources
 - pkg:maven/org.cip4.lib.jdf/JDFLibJ@2.2.8.0?classifier=sources
 - pkg:maven/org.cip4.lib.jdf/JDFLibJ@2.2.8.1?classifier=sources
+- pkg:maven/org.cip4.lib.jdf/JDFLibJ@2.2.8.2?classifier=sources

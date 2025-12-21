@@ -110,6 +110,7 @@
 - pkg:maven/com.codbex.atlas/codbex-atlas-application@2.75.0?classifier=sources
 - pkg:maven/com.codbex.atlas/codbex-atlas-application@2.76.0?classifier=sources
 - pkg:maven/com.codbex.atlas/codbex-atlas-application@2.77.0?classifier=sources
+- pkg:maven/com.codbex.atlas/codbex-atlas-application@2.78.0?classifier=sources
 - pkg:maven/com.codbex.atlas/codbex-atlas-application@2.8.0
 - pkg:maven/com.codbex.atlas/codbex-atlas-application@2.8.0?classifier=sources
 - pkg:maven/com.codbex.atlas/codbex-atlas-application@2.9.0

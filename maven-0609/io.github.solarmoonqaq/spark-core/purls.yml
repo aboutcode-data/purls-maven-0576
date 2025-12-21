@@ -1,0 +1,2 @@
+- pkg:maven/io.github.solarmoonqaq/spark-core@1.0.901?classifier=sources
+- pkg:maven/io.github.solarmoonqaq/spark-core@1.0.902?classifier=sources

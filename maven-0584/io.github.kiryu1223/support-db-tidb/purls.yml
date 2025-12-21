@@ -1,1 +1,3 @@
 - pkg:maven/io.github.kiryu1223/support-db-tidb@1.0.35?classifier=sources
+- pkg:maven/io.github.kiryu1223/support-db-tidb@1.0.36?classifier=sources
+- pkg:maven/io.github.kiryu1223/support-db-tidb@1.0.37?classifier=sources

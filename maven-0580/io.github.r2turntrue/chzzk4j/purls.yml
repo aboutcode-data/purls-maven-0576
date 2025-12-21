@@ -1,1 +1,2 @@
 - pkg:maven/io.github.r2turntrue/chzzk4j@0.1.2?classifier=sources
+- pkg:maven/io.github.r2turntrue/chzzk4j@0.1.3?classifier=sources

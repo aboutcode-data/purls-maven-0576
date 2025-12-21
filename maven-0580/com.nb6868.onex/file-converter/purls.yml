@@ -168,4 +168,9 @@
 - pkg:maven/com.nb6868.onex/file-converter@4.5.86?classifier=sources
 - pkg:maven/com.nb6868.onex/file-converter@4.5.87?classifier=sources
 - pkg:maven/com.nb6868.onex/file-converter@4.5.88?classifier=sources
+- pkg:maven/com.nb6868.onex/file-converter@4.5.89?classifier=sources
 - pkg:maven/com.nb6868.onex/file-converter@4.5.8?classifier=sources
+- pkg:maven/com.nb6868.onex/file-converter@4.5.90?classifier=sources
+- pkg:maven/com.nb6868.onex/file-converter@4.5.91?classifier=sources
+- pkg:maven/com.nb6868.onex/file-converter@4.5.92?classifier=sources
+- pkg:maven/com.nb6868.onex/file-converter@4.5.93?classifier=sources

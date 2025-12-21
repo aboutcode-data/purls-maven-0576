@@ -1,3 +1,5 @@
+- pkg:maven/com.sonatype.central.testing.amazon/http-auth-aws@1.5.11?classifier=sources
+- pkg:maven/com.sonatype.central.testing.amazon/http-auth-aws@1.5.12?classifier=sources
 - pkg:maven/com.sonatype.central.testing.amazon/http-auth-aws@12.12.12?classifier=sources
 - pkg:maven/com.sonatype.central.testing.amazon/http-auth-aws@12.12.13?classifier=sources
 - pkg:maven/com.sonatype.central.testing.amazon/http-auth-aws@12.12.14?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/com.alibaba.fastjson2/example-solon-test@2.0.58?classifier=sources
+- pkg:maven/com.alibaba.fastjson2/example-solon-test@2.0.59?classifier=sources

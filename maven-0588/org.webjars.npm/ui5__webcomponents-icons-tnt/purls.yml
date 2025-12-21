@@ -1,5 +1,6 @@
 - pkg:maven/org.webjars.npm/ui5__webcomponents-icons-tnt@1.21.2
 - pkg:maven/org.webjars.npm/ui5__webcomponents-icons-tnt@2.14.0
+- pkg:maven/org.webjars.npm/ui5__webcomponents-icons-tnt@2.16.0-rc.0
 - pkg:maven/org.webjars.npm/ui5__webcomponents-icons-tnt@2.3.0
 - pkg:maven/org.webjars.npm/ui5__webcomponents-icons-tnt@2.6.3
 - pkg:maven/org.webjars.npm/ui5__webcomponents-icons-tnt@2.7.3

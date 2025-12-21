@@ -176,3 +176,9 @@
 - pkg:maven/com.regnosys/serialization@11.82.3?classifier=sources
 - pkg:maven/com.regnosys/serialization@11.82.4?classifier=sources
 - pkg:maven/com.regnosys/serialization@11.82.5?classifier=sources
+- pkg:maven/com.regnosys/serialization@11.83.0?classifier=sources
+- pkg:maven/com.regnosys/serialization@11.84.0?classifier=sources
+- pkg:maven/com.regnosys/serialization@11.85.0?classifier=sources
+- pkg:maven/com.regnosys/serialization@11.85.1?classifier=sources
+- pkg:maven/com.regnosys/serialization@11.85.2?classifier=sources
+- pkg:maven/com.regnosys/serialization@11.86.0?classifier=sources

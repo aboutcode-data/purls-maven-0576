@@ -149,8 +149,11 @@
 - pkg:maven/org.entur.gbfs/gbfs-mapper-java@2.0.45?classifier=sources
 - pkg:maven/org.entur.gbfs/gbfs-mapper-java@2.0.46?classifier=sources
 - pkg:maven/org.entur.gbfs/gbfs-mapper-java@2.0.47?classifier=sources
+- pkg:maven/org.entur.gbfs/gbfs-mapper-java@2.0.48?classifier=sources
+- pkg:maven/org.entur.gbfs/gbfs-mapper-java@2.0.49?classifier=sources
 - pkg:maven/org.entur.gbfs/gbfs-mapper-java@2.0.4?classifier=sources
 - pkg:maven/org.entur.gbfs/gbfs-mapper-java@2.0.5
+- pkg:maven/org.entur.gbfs/gbfs-mapper-java@2.0.50?classifier=sources
 - pkg:maven/org.entur.gbfs/gbfs-mapper-java@2.0.5?classifier=sources
 - pkg:maven/org.entur.gbfs/gbfs-mapper-java@2.0.6
 - pkg:maven/org.entur.gbfs/gbfs-mapper-java@2.0.6?classifier=sources

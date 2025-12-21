@@ -10,3 +10,6 @@
 - pkg:maven/org.hibernate.tool/hibernate-tools-language@7.1.0.CR2?classifier=sources
 - pkg:maven/org.hibernate.tool/hibernate-tools-language@7.1.0.Final?classifier=sources
 - pkg:maven/org.hibernate.tool/hibernate-tools-language@7.1.1.Final?classifier=sources
+- pkg:maven/org.hibernate.tool/hibernate-tools-language@7.1.2.Final?classifier=sources
+- pkg:maven/org.hibernate.tool/hibernate-tools-language@7.1.3.Final?classifier=sources
+- pkg:maven/org.hibernate.tool/hibernate-tools-language@7.2.0.CR1?classifier=sources

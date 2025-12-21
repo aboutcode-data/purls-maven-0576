@@ -3,3 +3,4 @@
 - pkg:maven/cn.ponfee/disjob-alert-email@2.1.9
 - pkg:maven/cn.ponfee/disjob-alert-email@2.1.9?classifier=sources
 - pkg:maven/cn.ponfee/disjob-alert-email@2.2.0?classifier=sources
+- pkg:maven/cn.ponfee/disjob-alert-email@2.2.1?classifier=sources

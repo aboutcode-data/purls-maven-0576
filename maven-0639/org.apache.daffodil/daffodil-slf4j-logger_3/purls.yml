@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.daffodil/daffodil-slf4j-logger_3@4.0.0
+- pkg:maven/org.apache.daffodil/daffodil-slf4j-logger_3@4.0.0?classifier=sources

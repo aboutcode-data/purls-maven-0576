@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.apm-js-collab/code-transformer@0.8.2
+- pkg:maven/org.mvnpm.at.apm-js-collab/code-transformer@0.8.2?classifier=sources

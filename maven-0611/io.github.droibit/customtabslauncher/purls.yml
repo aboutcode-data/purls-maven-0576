@@ -1,3 +1,4 @@
 - pkg:maven/io.github.droibit/customtabslauncher@3.0.0?classifier=sources
 - pkg:maven/io.github.droibit/customtabslauncher@3.1.0?classifier=sources
 - pkg:maven/io.github.droibit/customtabslauncher@4.0.0-alpha01?classifier=sources
+- pkg:maven/io.github.droibit/customtabslauncher@4.0.0-rc01?classifier=sources

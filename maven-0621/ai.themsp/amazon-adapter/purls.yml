@@ -6,3 +6,4 @@
 - pkg:maven/ai.themsp/amazon-adapter@2.7.1-newsbreak-msp-migration?classifier=sources
 - pkg:maven/ai.themsp/amazon-adapter@2.7.2-newsbreak-msp-migration?classifier=sources
 - pkg:maven/ai.themsp/amazon-adapter@2.7.3-newsbreak-msp-migration?classifier=sources
+- pkg:maven/ai.themsp/amazon-adapter@2.7.4-newsbreak-msp-migration?classifier=sources

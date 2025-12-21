@@ -1,1 +1,3 @@
 - pkg:maven/com.choicely.sdk/android-firebase@1.0.0-alpha?classifier=sources
+- pkg:maven/com.choicely.sdk/android-firebase@1.0.1?classifier=sources
+- pkg:maven/com.choicely.sdk/android-firebase@1.0.2?classifier=sources

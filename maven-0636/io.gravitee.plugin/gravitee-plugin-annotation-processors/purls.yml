@@ -60,3 +60,4 @@
 - pkg:maven/io.gravitee.plugin/gravitee-plugin-annotation-processors@4.7.2?classifier=sources
 - pkg:maven/io.gravitee.plugin/gravitee-plugin-annotation-processors@4.8.0
 - pkg:maven/io.gravitee.plugin/gravitee-plugin-annotation-processors@4.8.0?classifier=sources
+- pkg:maven/io.gravitee.plugin/gravitee-plugin-annotation-processors@4.9.0?classifier=sources

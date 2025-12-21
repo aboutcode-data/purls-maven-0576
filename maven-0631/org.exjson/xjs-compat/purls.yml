@@ -1,3 +1,5 @@
 - pkg:maven/org.exjson/xjs-compat@0.10?classifier=sources
+- pkg:maven/org.exjson/xjs-compat@0.12?classifier=sources
+- pkg:maven/org.exjson/xjs-compat@0.13?classifier=sources
 - pkg:maven/org.exjson/xjs-compat@0.7?classifier=sources
 - pkg:maven/org.exjson/xjs-compat@0.8?classifier=sources

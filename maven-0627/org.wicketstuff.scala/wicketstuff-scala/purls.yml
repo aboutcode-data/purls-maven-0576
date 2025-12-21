@@ -49,6 +49,7 @@
 - pkg:maven/org.wicketstuff.scala/wicketstuff-scala@10.5.0
 - pkg:maven/org.wicketstuff.scala/wicketstuff-scala@10.5.0?classifier=sources
 - pkg:maven/org.wicketstuff.scala/wicketstuff-scala@10.6.0?classifier=sources
+- pkg:maven/org.wicketstuff.scala/wicketstuff-scala@10.7.0?classifier=sources
 - pkg:maven/org.wicketstuff.scala/wicketstuff-scala@6.0.0
 - pkg:maven/org.wicketstuff.scala/wicketstuff-scala@6.0.0-beta1
 - pkg:maven/org.wicketstuff.scala/wicketstuff-scala@6.0.0-beta1.1

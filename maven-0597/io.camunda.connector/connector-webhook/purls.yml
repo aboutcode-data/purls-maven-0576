@@ -141,6 +141,8 @@
 - pkg:maven/io.camunda.connector/connector-webhook@8.5.20?classifier=sources
 - pkg:maven/io.camunda.connector/connector-webhook@8.5.21
 - pkg:maven/io.camunda.connector/connector-webhook@8.5.21?classifier=sources
+- pkg:maven/io.camunda.connector/connector-webhook@8.5.22
+- pkg:maven/io.camunda.connector/connector-webhook@8.5.22?classifier=sources
 - pkg:maven/io.camunda.connector/connector-webhook@8.5.2?classifier=sources
 - pkg:maven/io.camunda.connector/connector-webhook@8.5.3
 - pkg:maven/io.camunda.connector/connector-webhook@8.5.3?classifier=sources
@@ -187,6 +189,8 @@
 - pkg:maven/io.camunda.connector/connector-webhook@8.6.17?classifier=sources
 - pkg:maven/io.camunda.connector/connector-webhook@8.6.18
 - pkg:maven/io.camunda.connector/connector-webhook@8.6.18?classifier=sources
+- pkg:maven/io.camunda.connector/connector-webhook@8.6.19
+- pkg:maven/io.camunda.connector/connector-webhook@8.6.19?classifier=sources
 - pkg:maven/io.camunda.connector/connector-webhook@8.6.1?classifier=sources
 - pkg:maven/io.camunda.connector/connector-webhook@8.6.2
 - pkg:maven/io.camunda.connector/connector-webhook@8.6.2?classifier=sources
@@ -226,6 +230,8 @@
 - pkg:maven/io.camunda.connector/connector-webhook@8.7.7?classifier=sources
 - pkg:maven/io.camunda.connector/connector-webhook@8.7.8
 - pkg:maven/io.camunda.connector/connector-webhook@8.7.8?classifier=sources
+- pkg:maven/io.camunda.connector/connector-webhook@8.7.9
+- pkg:maven/io.camunda.connector/connector-webhook@8.7.9?classifier=sources
 - pkg:maven/io.camunda.connector/connector-webhook@8.8.0-alpha3
 - pkg:maven/io.camunda.connector/connector-webhook@8.8.0-alpha3.1
 - pkg:maven/io.camunda.connector/connector-webhook@8.8.0-alpha3.1?classifier=sources

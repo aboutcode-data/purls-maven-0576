@@ -2,4 +2,6 @@
 - pkg:maven/org.mvnpm.at.sinonjs/fake-timers@13.0.5
 - pkg:maven/org.mvnpm.at.sinonjs/fake-timers@13.0.5?classifier=sources
 - pkg:maven/org.mvnpm.at.sinonjs/fake-timers@14.0.0?classifier=sources
+- pkg:maven/org.mvnpm.at.sinonjs/fake-timers@15.0.0
+- pkg:maven/org.mvnpm.at.sinonjs/fake-timers@15.0.0?classifier=sources
 - pkg:maven/org.mvnpm.at.sinonjs/fake-timers@6.0.1?classifier=sources

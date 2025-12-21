@@ -398,6 +398,8 @@
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-protocol-pure@0.203.0?classifier=sources
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-protocol-pure@0.204.0?classifier=sources
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-protocol-pure@0.205.0?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-protocol-pure@0.206.0?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-protocol-pure@0.207.0?classifier=sources
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-protocol-pure@0.21.0
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-protocol-pure@0.21.0?classifier=sources
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-protocol-pure@0.22.0

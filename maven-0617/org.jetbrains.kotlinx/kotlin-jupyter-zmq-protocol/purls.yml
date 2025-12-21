@@ -55,3 +55,10 @@
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-zmq-protocol@0.15.0-632?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-zmq-protocol@0.15.0-633?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-zmq-protocol@0.15.0-634?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-zmq-protocol@0.15.0-635?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-zmq-protocol@0.15.0-636?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-zmq-protocol@0.15.0-637?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-zmq-protocol@0.15.0-638?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-zmq-protocol@0.15.0-639?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-zmq-protocol@0.15.0-648?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-zmq-protocol@0.15.0-649?classifier=sources
