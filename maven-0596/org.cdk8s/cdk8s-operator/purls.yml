@@ -738,6 +738,12 @@
 - pkg:maven/org.cdk8s/cdk8s-operator@0.1.36
 - pkg:maven/org.cdk8s/cdk8s-operator@0.1.360
 - pkg:maven/org.cdk8s/cdk8s-operator@0.1.360?classifier=sources
+- pkg:maven/org.cdk8s/cdk8s-operator@0.1.361
+- pkg:maven/org.cdk8s/cdk8s-operator@0.1.361?classifier=sources
+- pkg:maven/org.cdk8s/cdk8s-operator@0.1.362
+- pkg:maven/org.cdk8s/cdk8s-operator@0.1.362?classifier=sources
+- pkg:maven/org.cdk8s/cdk8s-operator@0.1.363
+- pkg:maven/org.cdk8s/cdk8s-operator@0.1.363?classifier=sources
 - pkg:maven/org.cdk8s/cdk8s-operator@0.1.36?classifier=sources
 - pkg:maven/org.cdk8s/cdk8s-operator@0.1.37
 - pkg:maven/org.cdk8s/cdk8s-operator@0.1.37?classifier=sources

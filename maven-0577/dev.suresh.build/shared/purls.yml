@@ -51,3 +51,7 @@
 - pkg:maven/dev.suresh.build/shared@1.9.0?classifier=sources
 - pkg:maven/dev.suresh.build/shared@2.0.0?classifier=sources
 - pkg:maven/dev.suresh.build/shared@2.1.0?classifier=sources
+- pkg:maven/dev.suresh.build/shared@2.2.0?classifier=sources
+- pkg:maven/dev.suresh.build/shared@2.3.0?classifier=sources
+- pkg:maven/dev.suresh.build/shared@2.4.0?classifier=sources
+- pkg:maven/dev.suresh.build/shared@2.5.0?classifier=sources

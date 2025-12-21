@@ -52,3 +52,4 @@
 - pkg:maven/com.exasol/exasol-virtual-schema@7.2.0?classifier=sources
 - pkg:maven/com.exasol/exasol-virtual-schema@8.0.0
 - pkg:maven/com.exasol/exasol-virtual-schema@8.0.0?classifier=sources
+- pkg:maven/com.exasol/exasol-virtual-schema@8.0.1?classifier=sources

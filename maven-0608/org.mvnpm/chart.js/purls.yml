@@ -8,3 +8,5 @@
 - pkg:maven/org.mvnpm/chart.js@4.4.6?classifier=sources
 - pkg:maven/org.mvnpm/chart.js@4.4.7?classifier=sources
 - pkg:maven/org.mvnpm/chart.js@4.4.8?classifier=sources
+- pkg:maven/org.mvnpm/chart.js@4.5.0
+- pkg:maven/org.mvnpm/chart.js@4.5.0?classifier=sources

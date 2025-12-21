@@ -3,3 +3,4 @@
 - pkg:maven/com.ibm.websphere.appserver.features/intoto4j@2.0.0
 - pkg:maven/com.ibm.websphere.appserver.features/intoto4j@3.0.0
 - pkg:maven/com.ibm.websphere.appserver.features/intoto4j@3.0.1
+- pkg:maven/com.ibm.websphere.appserver.features/intoto4j@3.0.2

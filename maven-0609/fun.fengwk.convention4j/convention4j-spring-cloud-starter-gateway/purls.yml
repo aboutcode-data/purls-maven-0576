@@ -1,0 +1,5 @@
+- pkg:maven/fun.fengwk.convention4j/convention4j-spring-cloud-starter-gateway@1.1.42?classifier=sources
+- pkg:maven/fun.fengwk.convention4j/convention4j-spring-cloud-starter-gateway@1.1.43?classifier=sources
+- pkg:maven/fun.fengwk.convention4j/convention4j-spring-cloud-starter-gateway@1.1.45?classifier=sources
+- pkg:maven/fun.fengwk.convention4j/convention4j-spring-cloud-starter-gateway@1.1.46?classifier=sources
+- pkg:maven/fun.fengwk.convention4j/convention4j-spring-cloud-starter-gateway@1.1.47?classifier=sources

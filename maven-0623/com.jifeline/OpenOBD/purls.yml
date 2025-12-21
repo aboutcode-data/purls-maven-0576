@@ -6,3 +6,5 @@
 - pkg:maven/com.jifeline/OpenOBD@1.18.16rc?classifier=sources
 - pkg:maven/com.jifeline/OpenOBD@1.18.17rc?classifier=sources
 - pkg:maven/com.jifeline/OpenOBD@1.18.6rc?classifier=sources
+- pkg:maven/com.jifeline/OpenOBD@1.19.3?classifier=sources
+- pkg:maven/com.jifeline/OpenOBD@1.21.1?classifier=sources

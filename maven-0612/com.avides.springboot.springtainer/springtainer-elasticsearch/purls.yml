@@ -10,3 +10,4 @@
 - pkg:maven/com.avides.springboot.springtainer/springtainer-elasticsearch@1.3.0?classifier=sources
 - pkg:maven/com.avides.springboot.springtainer/springtainer-elasticsearch@1.4.0
 - pkg:maven/com.avides.springboot.springtainer/springtainer-elasticsearch@1.4.0?classifier=sources
+- pkg:maven/com.avides.springboot.springtainer/springtainer-elasticsearch@2.0.1?classifier=sources

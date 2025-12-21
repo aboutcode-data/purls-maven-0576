@@ -2,3 +2,5 @@
 - pkg:maven/org.wildfly/wildfly-wasm-api@0.5.0?classifier=sources
 - pkg:maven/org.wildfly/wildfly-wasm-api@0.6.0
 - pkg:maven/org.wildfly/wildfly-wasm-api@0.6.0?classifier=sources
+- pkg:maven/org.wildfly/wildfly-wasm-api@0.7.0
+- pkg:maven/org.wildfly/wildfly-wasm-api@0.7.0?classifier=sources

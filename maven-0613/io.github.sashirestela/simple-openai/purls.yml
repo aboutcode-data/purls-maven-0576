@@ -98,6 +98,8 @@
 - pkg:maven/io.github.sashirestela/simple-openai@3.2.0?classifier=sources
 - pkg:maven/io.github.sashirestela/simple-openai@3.20.0
 - pkg:maven/io.github.sashirestela/simple-openai@3.20.0?classifier=sources
+- pkg:maven/io.github.sashirestela/simple-openai@3.21.0
+- pkg:maven/io.github.sashirestela/simple-openai@3.21.0?classifier=sources
 - pkg:maven/io.github.sashirestela/simple-openai@3.3.0
 - pkg:maven/io.github.sashirestela/simple-openai@3.3.0?classifier=sources
 - pkg:maven/io.github.sashirestela/simple-openai@3.4.0

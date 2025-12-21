@@ -28,6 +28,8 @@
 - pkg:maven/io.getlime.security/powerauth-java-crypto@1.0.0?classifier=sources
 - pkg:maven/io.getlime.security/powerauth-java-crypto@1.1.0
 - pkg:maven/io.getlime.security/powerauth-java-crypto@1.1.0?classifier=sources
+- pkg:maven/io.getlime.security/powerauth-java-crypto@1.10.0
+- pkg:maven/io.getlime.security/powerauth-java-crypto@1.10.0?classifier=sources
 - pkg:maven/io.getlime.security/powerauth-java-crypto@1.2.0
 - pkg:maven/io.getlime.security/powerauth-java-crypto@1.2.0?classifier=sources
 - pkg:maven/io.getlime.security/powerauth-java-crypto@1.3.0

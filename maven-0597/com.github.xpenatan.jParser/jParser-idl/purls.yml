@@ -3,3 +3,4 @@
 - pkg:maven/com.github.xpenatan.jParser/jParser-idl@1.0.0-b6?classifier=sources
 - pkg:maven/com.github.xpenatan.jParser/jParser-idl@1.0.0-b7?classifier=sources
 - pkg:maven/com.github.xpenatan.jParser/jParser-idl@1.0.0-b8?classifier=sources
+- pkg:maven/com.github.xpenatan.jParser/jParser-idl@1.0.0-b9?classifier=sources

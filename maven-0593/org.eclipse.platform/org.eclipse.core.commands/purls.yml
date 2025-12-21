@@ -22,6 +22,8 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.core.commands@3.12.200?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.core.commands@3.12.300
 - pkg:maven/org.eclipse.platform/org.eclipse.core.commands@3.12.300?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.core.commands@3.12.400
+- pkg:maven/org.eclipse.platform/org.eclipse.core.commands@3.12.400?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.core.commands@3.8.0
 - pkg:maven/org.eclipse.platform/org.eclipse.core.commands@3.8.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.core.commands@3.8.1

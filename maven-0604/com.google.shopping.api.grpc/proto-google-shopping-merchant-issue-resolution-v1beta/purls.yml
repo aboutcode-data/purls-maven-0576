@@ -4,3 +4,9 @@
 - pkg:maven/com.google.shopping.api.grpc/proto-google-shopping-merchant-issue-resolution-v1beta@0.2.0?classifier=sources
 - pkg:maven/com.google.shopping.api.grpc/proto-google-shopping-merchant-issue-resolution-v1beta@0.3.0
 - pkg:maven/com.google.shopping.api.grpc/proto-google-shopping-merchant-issue-resolution-v1beta@0.3.0?classifier=sources
+- pkg:maven/com.google.shopping.api.grpc/proto-google-shopping-merchant-issue-resolution-v1beta@0.4.0
+- pkg:maven/com.google.shopping.api.grpc/proto-google-shopping-merchant-issue-resolution-v1beta@0.4.0?classifier=sources
+- pkg:maven/com.google.shopping.api.grpc/proto-google-shopping-merchant-issue-resolution-v1beta@0.6.0
+- pkg:maven/com.google.shopping.api.grpc/proto-google-shopping-merchant-issue-resolution-v1beta@0.6.0?classifier=sources
+- pkg:maven/com.google.shopping.api.grpc/proto-google-shopping-merchant-issue-resolution-v1beta@0.7.0
+- pkg:maven/com.google.shopping.api.grpc/proto-google-shopping-merchant-issue-resolution-v1beta@0.7.0?classifier=sources

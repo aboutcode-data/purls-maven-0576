@@ -34,3 +34,6 @@
 - pkg:maven/com.aliyun/alibabacloud-adb20190315@5.0.2?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-adb20190315@5.0.3
 - pkg:maven/com.aliyun/alibabacloud-adb20190315@5.0.3?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-adb20190315@5.0.4
+- pkg:maven/com.aliyun/alibabacloud-adb20190315@5.0.4?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-adb20190315@5.0.5?classifier=sources

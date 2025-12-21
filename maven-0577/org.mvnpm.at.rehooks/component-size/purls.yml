@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.rehooks/component-size@1.0.3
+- pkg:maven/org.mvnpm.at.rehooks/component-size@1.0.3?classifier=sources

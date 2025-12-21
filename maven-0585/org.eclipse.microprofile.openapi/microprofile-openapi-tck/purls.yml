@@ -70,5 +70,7 @@
 - pkg:maven/org.eclipse.microprofile.openapi/microprofile-openapi-tck@4.0.2
 - pkg:maven/org.eclipse.microprofile.openapi/microprofile-openapi-tck@4.0.2?classifier=sources
 - pkg:maven/org.eclipse.microprofile.openapi/microprofile-openapi-tck@4.0?classifier=sources
+- pkg:maven/org.eclipse.microprofile.openapi/microprofile-openapi-tck@4.1
 - pkg:maven/org.eclipse.microprofile.openapi/microprofile-openapi-tck@4.1-RC1
 - pkg:maven/org.eclipse.microprofile.openapi/microprofile-openapi-tck@4.1-RC1?classifier=sources
+- pkg:maven/org.eclipse.microprofile.openapi/microprofile-openapi-tck@4.1?classifier=sources

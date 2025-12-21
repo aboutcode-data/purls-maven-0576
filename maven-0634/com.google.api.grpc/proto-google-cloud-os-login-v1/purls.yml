@@ -366,6 +366,12 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-os-login-v1@2.61.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-os-login-v1@2.62.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-os-login-v1@2.62.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-os-login-v1@2.63.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-os-login-v1@2.63.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-os-login-v1@2.65.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-os-login-v1@2.65.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-os-login-v1@2.66.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-os-login-v1@2.66.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-os-login-v1@2.7.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-os-login-v1@2.7.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-os-login-v1@2.8.0

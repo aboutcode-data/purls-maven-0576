@@ -1,0 +1,2 @@
+- pkg:maven/io.github.evgeniycheban/spring-boot-starter-data-reindexer@1.0
+- pkg:maven/io.github.evgeniycheban/spring-boot-starter-data-reindexer@1.0?classifier=sources

@@ -4,3 +4,4 @@
 - pkg:maven/net.alphatab/alphaTab@1.4.3?classifier=sources
 - pkg:maven/net.alphatab/alphaTab@1.4.4?classifier=sources
 - pkg:maven/net.alphatab/alphaTab@1.5.0?classifier=sources
+- pkg:maven/net.alphatab/alphaTab@1.6.0?classifier=sources

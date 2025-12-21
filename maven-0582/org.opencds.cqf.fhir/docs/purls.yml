@@ -64,6 +64,8 @@
 - pkg:maven/org.opencds.cqf.fhir/docs@3.20.0?classifier=sources
 - pkg:maven/org.opencds.cqf.fhir/docs@3.21.0
 - pkg:maven/org.opencds.cqf.fhir/docs@3.21.0?classifier=sources
+- pkg:maven/org.opencds.cqf.fhir/docs@3.22.0
+- pkg:maven/org.opencds.cqf.fhir/docs@3.22.0?classifier=sources
 - pkg:maven/org.opencds.cqf.fhir/docs@3.3.0
 - pkg:maven/org.opencds.cqf.fhir/docs@3.3.0?classifier=sources
 - pkg:maven/org.opencds.cqf.fhir/docs@3.3.1

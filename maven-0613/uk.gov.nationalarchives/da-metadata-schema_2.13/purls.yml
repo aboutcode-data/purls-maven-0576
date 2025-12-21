@@ -8,3 +8,5 @@
 - pkg:maven/uk.gov.nationalarchives/da-metadata-schema_2.13@0.0.62?classifier=sources
 - pkg:maven/uk.gov.nationalarchives/da-metadata-schema_2.13@0.0.63
 - pkg:maven/uk.gov.nationalarchives/da-metadata-schema_2.13@0.0.63?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/da-metadata-schema_2.13@0.0.64
+- pkg:maven/uk.gov.nationalarchives/da-metadata-schema_2.13@0.0.64?classifier=sources

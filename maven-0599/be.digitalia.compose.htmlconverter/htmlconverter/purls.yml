@@ -10,3 +10,4 @@
 - pkg:maven/be.digitalia.compose.htmlconverter/htmlconverter@1.0.2?classifier=sources
 - pkg:maven/be.digitalia.compose.htmlconverter/htmlconverter@1.0.3?classifier=sources
 - pkg:maven/be.digitalia.compose.htmlconverter/htmlconverter@1.0.4?classifier=sources
+- pkg:maven/be.digitalia.compose.htmlconverter/htmlconverter@1.1.0?classifier=sources

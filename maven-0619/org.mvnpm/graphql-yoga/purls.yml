@@ -5,3 +5,5 @@
 - pkg:maven/org.mvnpm/graphql-yoga@5.13.4?classifier=sources
 - pkg:maven/org.mvnpm/graphql-yoga@5.13.5
 - pkg:maven/org.mvnpm/graphql-yoga@5.13.5?classifier=sources
+- pkg:maven/org.mvnpm/graphql-yoga@5.14.0
+- pkg:maven/org.mvnpm/graphql-yoga@5.14.0?classifier=sources

@@ -14,6 +14,8 @@
 - pkg:maven/org.microbean/microbean-bean@0.0.17?classifier=sources
 - pkg:maven/org.microbean/microbean-bean@0.0.18
 - pkg:maven/org.microbean/microbean-bean@0.0.18?classifier=sources
+- pkg:maven/org.microbean/microbean-bean@0.0.19
+- pkg:maven/org.microbean/microbean-bean@0.0.19?classifier=sources
 - pkg:maven/org.microbean/microbean-bean@0.0.2
 - pkg:maven/org.microbean/microbean-bean@0.0.2?classifier=sources
 - pkg:maven/org.microbean/microbean-bean@0.0.3

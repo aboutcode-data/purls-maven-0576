@@ -1,1 +1,2 @@
 - pkg:maven/org.csenseoss.kotlin/csense-kotlin-annotations-androidnativex86@0.0.2?classifier=sources
+- pkg:maven/org.csenseoss.kotlin/csense-kotlin-annotations-androidnativex86@0.1.0?classifier=sources

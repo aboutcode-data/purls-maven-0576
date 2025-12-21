@@ -31,6 +31,9 @@
 - pkg:maven/com.google.cloud/google-cloud-alloydb-connectors@0.39.0
 - pkg:maven/com.google.cloud/google-cloud-alloydb-connectors@0.40.0
 - pkg:maven/com.google.cloud/google-cloud-alloydb-connectors@0.41.0
+- pkg:maven/com.google.cloud/google-cloud-alloydb-connectors@0.42.0
+- pkg:maven/com.google.cloud/google-cloud-alloydb-connectors@0.44.0
+- pkg:maven/com.google.cloud/google-cloud-alloydb-connectors@0.45.0
 - pkg:maven/com.google.cloud/google-cloud-alloydb-connectors@0.5.0
 - pkg:maven/com.google.cloud/google-cloud-alloydb-connectors@0.6.0
 - pkg:maven/com.google.cloud/google-cloud-alloydb-connectors@0.7.0

@@ -138,3 +138,5 @@
 - pkg:maven/com.github.pagehelper/pagehelper@6.0.1-SNAPSHOT-standalone?classifier=sources
 - pkg:maven/com.github.pagehelper/pagehelper@6.1.0
 - pkg:maven/com.github.pagehelper/pagehelper@6.1.0?classifier=sources
+- pkg:maven/com.github.pagehelper/pagehelper@6.1.1
+- pkg:maven/com.github.pagehelper/pagehelper@6.1.1?classifier=sources

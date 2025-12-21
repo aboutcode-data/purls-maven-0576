@@ -78,3 +78,5 @@
 - pkg:maven/net.scalax.djx314/sbt-depts-djx314_2.12_1.0@0.0.2.100034?classifier=sources
 - pkg:maven/net.scalax.djx314/sbt-depts-djx314_2.12_1.0@0.0.2.100054
 - pkg:maven/net.scalax.djx314/sbt-depts-djx314_2.12_1.0@0.0.2.100054?classifier=sources
+- pkg:maven/net.scalax.djx314/sbt-depts-djx314_2.12_1.0@0.0.2.100065
+- pkg:maven/net.scalax.djx314/sbt-depts-djx314_2.12_1.0@0.0.2.100065?classifier=sources

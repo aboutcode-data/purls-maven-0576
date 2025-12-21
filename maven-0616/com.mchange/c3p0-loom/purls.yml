@@ -20,3 +20,5 @@
 - pkg:maven/com.mchange/c3p0-loom@0.11.0?classifier=sources
 - pkg:maven/com.mchange/c3p0-loom@0.11.1
 - pkg:maven/com.mchange/c3p0-loom@0.11.1?classifier=sources
+- pkg:maven/com.mchange/c3p0-loom@0.11.2
+- pkg:maven/com.mchange/c3p0-loom@0.11.2?classifier=sources

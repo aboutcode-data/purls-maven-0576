@@ -4,6 +4,15 @@
 - pkg:maven/io.moderne/moderne-organizations-format@0.1.5?classifier=sources
 - pkg:maven/io.moderne/moderne-organizations-format@0.1.6?classifier=sources
 - pkg:maven/io.moderne/moderne-organizations-format@0.1.8?classifier=sources
+- pkg:maven/io.moderne/moderne-organizations-format@0.10.0?classifier=sources
+- pkg:maven/io.moderne/moderne-organizations-format@0.11.0?classifier=sources
+- pkg:maven/io.moderne/moderne-organizations-format@0.12.0?classifier=sources
+- pkg:maven/io.moderne/moderne-organizations-format@0.13.0?classifier=sources
 - pkg:maven/io.moderne/moderne-organizations-format@0.2.0?classifier=sources
 - pkg:maven/io.moderne/moderne-organizations-format@0.3.0?classifier=sources
 - pkg:maven/io.moderne/moderne-organizations-format@0.4.0?classifier=sources
+- pkg:maven/io.moderne/moderne-organizations-format@0.5.0?classifier=sources
+- pkg:maven/io.moderne/moderne-organizations-format@0.6.0?classifier=sources
+- pkg:maven/io.moderne/moderne-organizations-format@0.7.0?classifier=sources
+- pkg:maven/io.moderne/moderne-organizations-format@0.8.0?classifier=sources
+- pkg:maven/io.moderne/moderne-organizations-format@0.9.0?classifier=sources

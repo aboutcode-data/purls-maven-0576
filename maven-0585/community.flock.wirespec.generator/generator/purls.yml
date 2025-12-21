@@ -40,6 +40,9 @@
 - pkg:maven/community.flock.wirespec.generator/generator@0.14.29?classifier=sources
 - pkg:maven/community.flock.wirespec.generator/generator@0.14.30?classifier=sources
 - pkg:maven/community.flock.wirespec.generator/generator@0.14.3?classifier=sources
+- pkg:maven/community.flock.wirespec.generator/generator@0.15.0?classifier=sources
+- pkg:maven/community.flock.wirespec.generator/generator@0.15.12?classifier=sources
+- pkg:maven/community.flock.wirespec.generator/generator@0.15.2?classifier=sources
 - pkg:maven/community.flock.wirespec.generator/generator@0.9.10?classifier=sources
 - pkg:maven/community.flock.wirespec.generator/generator@0.9.15?classifier=sources
 - pkg:maven/community.flock.wirespec.generator/generator@0.9.18?classifier=sources

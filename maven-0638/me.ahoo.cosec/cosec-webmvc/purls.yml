@@ -115,6 +115,16 @@
 - pkg:maven/me.ahoo.cosec/cosec-webmvc@2.15.6?classifier=sources
 - pkg:maven/me.ahoo.cosec/cosec-webmvc@2.16.0?classifier=sources
 - pkg:maven/me.ahoo.cosec/cosec-webmvc@2.16.1?classifier=sources
+- pkg:maven/me.ahoo.cosec/cosec-webmvc@2.16.2?classifier=sources
+- pkg:maven/me.ahoo.cosec/cosec-webmvc@2.18.0?classifier=sources
+- pkg:maven/me.ahoo.cosec/cosec-webmvc@2.18.1?classifier=sources
+- pkg:maven/me.ahoo.cosec/cosec-webmvc@2.18.2?classifier=sources
+- pkg:maven/me.ahoo.cosec/cosec-webmvc@2.18.3?classifier=sources
+- pkg:maven/me.ahoo.cosec/cosec-webmvc@2.18.5?classifier=sources
+- pkg:maven/me.ahoo.cosec/cosec-webmvc@2.18.6?classifier=sources
+- pkg:maven/me.ahoo.cosec/cosec-webmvc@2.18.8?classifier=sources
+- pkg:maven/me.ahoo.cosec/cosec-webmvc@2.18.9?classifier=sources
+- pkg:maven/me.ahoo.cosec/cosec-webmvc@2.19.0?classifier=sources
 - pkg:maven/me.ahoo.cosec/cosec-webmvc@2.2.0?classifier=sources
 - pkg:maven/me.ahoo.cosec/cosec-webmvc@2.2.2?classifier=sources
 - pkg:maven/me.ahoo.cosec/cosec-webmvc@2.2.3?classifier=sources
@@ -160,3 +170,4 @@
 - pkg:maven/me.ahoo.cosec/cosec-webmvc@2.9.6?classifier=sources
 - pkg:maven/me.ahoo.cosec/cosec-webmvc@2.9.8?classifier=sources
 - pkg:maven/me.ahoo.cosec/cosec-webmvc@2.9.9?classifier=sources
+- pkg:maven/me.ahoo.cosec/cosec-webmvc@3.0.0?classifier=sources

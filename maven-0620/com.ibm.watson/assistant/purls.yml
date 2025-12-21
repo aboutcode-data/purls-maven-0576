@@ -20,6 +20,7 @@
 - pkg:maven/com.ibm.watson/assistant@14.0.1?classifier=sources
 - pkg:maven/com.ibm.watson/assistant@14.0.2
 - pkg:maven/com.ibm.watson/assistant@14.0.2?classifier=sources
+- pkg:maven/com.ibm.watson/assistant@15.0.0?classifier=sources
 - pkg:maven/com.ibm.watson/assistant@7.0.0
 - pkg:maven/com.ibm.watson/assistant@7.0.0?classifier=sources
 - pkg:maven/com.ibm.watson/assistant@7.1.0

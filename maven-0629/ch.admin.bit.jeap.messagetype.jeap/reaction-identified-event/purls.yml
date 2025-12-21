@@ -1,1 +1,2 @@
 - pkg:maven/ch.admin.bit.jeap.messagetype.jeap/reaction-identified-event@1.0.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap.messagetype.jeap/reaction-identified-event@2.0.0?classifier=sources

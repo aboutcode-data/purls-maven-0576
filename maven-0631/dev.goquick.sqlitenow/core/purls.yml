@@ -1,0 +1,2 @@
+- pkg:maven/dev.goquick.sqlitenow/core@0.1.2?classifier=sources
+- pkg:maven/dev.goquick.sqlitenow/core@0.1.4?classifier=sources

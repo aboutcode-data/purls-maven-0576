@@ -1,0 +1,4 @@
+- pkg:maven/net.solarnetwork.external/org.apache.servicemix.bundles.spring-core@6.2.6_SN01
+- pkg:maven/net.solarnetwork.external/org.apache.servicemix.bundles.spring-core@6.2.6_SN01?classifier=sources
+- pkg:maven/net.solarnetwork.external/org.apache.servicemix.bundles.spring-core@6.2.6_SN01?classifier=src&type=tar.gz
+- pkg:maven/net.solarnetwork.external/org.apache.servicemix.bundles.spring-core@6.2.6_SN01?classifier=src&type=zip

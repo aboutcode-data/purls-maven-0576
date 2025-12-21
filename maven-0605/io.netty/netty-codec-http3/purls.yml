@@ -1,0 +1,1 @@
+- pkg:maven/io.netty/netty-codec-http3@4.2.2.Final?classifier=sources

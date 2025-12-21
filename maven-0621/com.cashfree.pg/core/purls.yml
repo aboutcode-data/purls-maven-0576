@@ -35,3 +35,5 @@
 - pkg:maven/com.cashfree.pg/core@2.1.9?classifier=sources
 - pkg:maven/com.cashfree.pg/core@2.2.0?classifier=sources
 - pkg:maven/com.cashfree.pg/core@2.2.2?classifier=sources
+- pkg:maven/com.cashfree.pg/core@2.2.3?classifier=sources
+- pkg:maven/com.cashfree.pg/core@2.2.4?classifier=sources

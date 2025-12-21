@@ -15,6 +15,8 @@
 - pkg:maven/org.robolectric/pluginapi@4.14.1?classifier=sources
 - pkg:maven/org.robolectric/pluginapi@4.14?classifier=sources
 - pkg:maven/org.robolectric/pluginapi@4.15-beta-1?classifier=sources
+- pkg:maven/org.robolectric/pluginapi@4.15.1?classifier=sources
+- pkg:maven/org.robolectric/pluginapi@4.15?classifier=sources
 - pkg:maven/org.robolectric/pluginapi@4.2
 - pkg:maven/org.robolectric/pluginapi@4.2-alpha-1
 - pkg:maven/org.robolectric/pluginapi@4.2-alpha-1?classifier=sources

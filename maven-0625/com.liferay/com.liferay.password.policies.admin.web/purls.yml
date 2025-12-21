@@ -747,6 +747,7 @@
 - pkg:maven/com.liferay/com.liferay.password.policies.admin.web@5.0.6?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.password.policies.admin.web@5.0.7
 - pkg:maven/com.liferay/com.liferay.password.policies.admin.web@5.0.70?classifier=sources
+- pkg:maven/com.liferay/com.liferay.password.policies.admin.web@5.0.71?classifier=sources
 - pkg:maven/com.liferay/com.liferay.password.policies.admin.web@5.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.password.policies.admin.web@5.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.password.policies.admin.web@5.0.8

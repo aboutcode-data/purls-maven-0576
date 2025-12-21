@@ -1,0 +1,2 @@
+- pkg:maven/com.salesforce.commerce.intelligence.jdbc.client/cip-client-dataconnector@0.1.19?classifier=sources
+- pkg:maven/com.salesforce.commerce.intelligence.jdbc.client/cip-client-dataconnector@0.1.21?classifier=sources

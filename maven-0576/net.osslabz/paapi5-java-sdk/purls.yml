@@ -1,0 +1,4 @@
+- pkg:maven/net.osslabz/paapi5-java-sdk@0.0.2
+- pkg:maven/net.osslabz/paapi5-java-sdk@0.0.2?classifier=sources
+- pkg:maven/net.osslabz/paapi5-java-sdk@1.2.2
+- pkg:maven/net.osslabz/paapi5-java-sdk@1.2.2?classifier=sources

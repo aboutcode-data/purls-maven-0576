@@ -91,3 +91,5 @@
 - pkg:maven/com.tryfinch.api/finch-kotlin-client-okhttp@6.0.0?classifier=sources
 - pkg:maven/com.tryfinch.api/finch-kotlin-client-okhttp@7.0.0?classifier=sources
 - pkg:maven/com.tryfinch.api/finch-kotlin-client-okhttp@8.0.0?classifier=sources
+- pkg:maven/com.tryfinch.api/finch-kotlin-client-okhttp@8.1.0?classifier=sources
+- pkg:maven/com.tryfinch.api/finch-kotlin-client-okhttp@8.1.1?classifier=sources

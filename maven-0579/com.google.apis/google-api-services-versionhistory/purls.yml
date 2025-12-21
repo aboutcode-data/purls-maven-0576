@@ -20,3 +20,5 @@
 - pkg:maven/com.google.apis/google-api-services-versionhistory@v1-rev20240331-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-versionhistory@v1-rev20240528-2.0.0
 - pkg:maven/com.google.apis/google-api-services-versionhistory@v1-rev20240528-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-versionhistory@v1-rev20250601-2.0.0
+- pkg:maven/com.google.apis/google-api-services-versionhistory@v1-rev20250601-2.0.0?classifier=sources

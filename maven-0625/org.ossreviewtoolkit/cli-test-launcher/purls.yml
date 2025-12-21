@@ -2,3 +2,9 @@
 - pkg:maven/org.ossreviewtoolkit/cli-test-launcher@59.2.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/cli-test-launcher@59.3.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/cli-test-launcher@60.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/cli-test-launcher@61.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/cli-test-launcher@61.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/cli-test-launcher@61.2.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/cli-test-launcher@61.3.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/cli-test-launcher@62.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/cli-test-launcher@62.1.0?classifier=sources

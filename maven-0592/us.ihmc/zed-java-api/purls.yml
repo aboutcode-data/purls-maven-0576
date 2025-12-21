@@ -1,3 +1,4 @@
 - pkg:maven/us.ihmc/zed-java-api@4.2.0_3?classifier=sources
 - pkg:maven/us.ihmc/zed-java-api@4.2.0_4?classifier=sources
 - pkg:maven/us.ihmc/zed-java-api@4.2.0_5?classifier=sources
+- pkg:maven/us.ihmc/zed-java-api@5.0.0?classifier=sources

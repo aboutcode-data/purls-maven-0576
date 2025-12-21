@@ -1,0 +1,2 @@
+- pkg:maven/io.github.zakolenko/fs2-kinesis-firehose-core_3@1.0.0-test-v2
+- pkg:maven/io.github.zakolenko/fs2-kinesis-firehose-core_3@1.0.0-test-v2?classifier=sources

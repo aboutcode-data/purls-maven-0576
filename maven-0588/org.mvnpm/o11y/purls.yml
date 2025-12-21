@@ -9,3 +9,5 @@
 - pkg:maven/org.mvnpm/o11y@258.4.0?classifier=sources
 - pkg:maven/org.mvnpm/o11y@258.5.0
 - pkg:maven/org.mvnpm/o11y@258.5.0?classifier=sources
+- pkg:maven/org.mvnpm/o11y@258.6.0
+- pkg:maven/org.mvnpm/o11y@258.6.0?classifier=sources

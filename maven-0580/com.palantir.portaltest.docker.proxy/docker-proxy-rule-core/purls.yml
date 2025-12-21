@@ -1,0 +1,1 @@
+- pkg:maven/com.palantir.portaltest.docker.proxy/docker-proxy-rule-core@1.13.0-rc1?classifier=sources

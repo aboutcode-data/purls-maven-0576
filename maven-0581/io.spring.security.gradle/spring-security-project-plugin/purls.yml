@@ -1,0 +1,2 @@
+- pkg:maven/io.spring.security.gradle/spring-security-project-plugin@1.0.7?classifier=sources
+- pkg:maven/io.spring.security.gradle/spring-security-project-plugin@1.0.8?classifier=sources

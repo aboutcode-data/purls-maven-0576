@@ -2,3 +2,5 @@
 - pkg:maven/community.flock.wirespec.converter/avro-macosarm64@0.14.28?classifier=sources
 - pkg:maven/community.flock.wirespec.converter/avro-macosarm64@0.14.29?classifier=sources
 - pkg:maven/community.flock.wirespec.converter/avro-macosarm64@0.14.30?classifier=sources
+- pkg:maven/community.flock.wirespec.converter/avro-macosarm64@0.15.1?classifier=sources
+- pkg:maven/community.flock.wirespec.converter/avro-macosarm64@0.15.2?classifier=sources

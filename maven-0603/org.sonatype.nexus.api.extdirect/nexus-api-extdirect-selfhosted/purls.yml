@@ -1,0 +1,2 @@
+- pkg:maven/org.sonatype.nexus.api.extdirect/nexus-api-extdirect-selfhosted@3.81.0-08?classifier=sources
+- pkg:maven/org.sonatype.nexus.api.extdirect/nexus-api-extdirect-selfhosted@3.81.1-01?classifier=sources

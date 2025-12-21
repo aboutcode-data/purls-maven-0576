@@ -32,6 +32,8 @@
 - pkg:maven/com.yandex.android/mobileads-mediation@7.12.2.0?classifier=sources
 - pkg:maven/com.yandex.android/mobileads-mediation@7.12.3.0?classifier=sources
 - pkg:maven/com.yandex.android/mobileads-mediation@7.13.0.0?classifier=sources
+- pkg:maven/com.yandex.android/mobileads-mediation@7.14.0.0?classifier=sources
+- pkg:maven/com.yandex.android/mobileads-mediation@7.14.1.0?classifier=sources
 - pkg:maven/com.yandex.android/mobileads-mediation@7.2.0.0?classifier=sources
 - pkg:maven/com.yandex.android/mobileads-mediation@7.3.0.0?classifier=sources
 - pkg:maven/com.yandex.android/mobileads-mediation@7.4.0.0?classifier=sources

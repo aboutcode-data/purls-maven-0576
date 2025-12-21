@@ -1,0 +1,2 @@
+- pkg:maven/com.ing.baker/baker_2.13@5.0.0
+- pkg:maven/com.ing.baker/baker_2.13@5.0.0?classifier=sources
