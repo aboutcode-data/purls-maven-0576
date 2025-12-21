@@ -91,3 +91,4 @@
 - pkg:maven/com.erudika/para-search-elasticsearch@1.41.3
 - pkg:maven/com.erudika/para-search-elasticsearch@1.41.3?classifier=sources
 - pkg:maven/com.erudika/para-search-elasticsearch@1.42.0?classifier=sources
+- pkg:maven/com.erudika/para-search-elasticsearch@1.42.1?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/io.github.5gene/retrofit-ksp@1.1?classifier=sources
+- pkg:maven/io.github.5gene/retrofit-ksp@25.11.29?classifier=sources

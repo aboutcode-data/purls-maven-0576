@@ -112,3 +112,5 @@
 - pkg:maven/com.dimafeng/testcontainers-scala-oracle-xe_2.13@0.43.0?classifier=sources
 - pkg:maven/com.dimafeng/testcontainers-scala-oracle-xe_2.13@0.43.6
 - pkg:maven/com.dimafeng/testcontainers-scala-oracle-xe_2.13@0.43.6?classifier=sources
+- pkg:maven/com.dimafeng/testcontainers-scala-oracle-xe_2.13@0.44.0
+- pkg:maven/com.dimafeng/testcontainers-scala-oracle-xe_2.13@0.44.0?classifier=sources

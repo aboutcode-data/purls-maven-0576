@@ -28,3 +28,6 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-message-exchange-persistence@2.37.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-message-exchange-persistence@3.0.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-message-exchange-persistence@3.1.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-message-exchange-persistence@3.2.1?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-message-exchange-persistence@3.3.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-message-exchange-persistence@3.4.0?classifier=sources

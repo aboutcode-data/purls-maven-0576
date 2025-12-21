@@ -3,3 +3,5 @@
 - pkg:maven/com.scalar-labs/scalardb-analytics-spark-all-3.4_2.12@3.16.0?classifier=sources
 - pkg:maven/com.scalar-labs/scalardb-analytics-spark-all-3.4_2.12@3.16.1?classifier=sources
 - pkg:maven/com.scalar-labs/scalardb-analytics-spark-all-3.4_2.12@3.16.2?classifier=sources
+- pkg:maven/com.scalar-labs/scalardb-analytics-spark-all-3.4_2.12@3.17.0
+- pkg:maven/com.scalar-labs/scalardb-analytics-spark-all-3.4_2.12@3.17.0?classifier=sources

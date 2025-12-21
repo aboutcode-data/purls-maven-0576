@@ -101,6 +101,7 @@
 - pkg:maven/com.solace.connector.core.resource/pubsubplus-connector-logback-resource-bundle@2.18.3?classifier=sources
 - pkg:maven/com.solace.connector.core.resource/pubsubplus-connector-logback-resource-bundle@2.18.4?classifier=sources
 - pkg:maven/com.solace.connector.core.resource/pubsubplus-connector-logback-resource-bundle@2.18.5?classifier=sources
+- pkg:maven/com.solace.connector.core.resource/pubsubplus-connector-logback-resource-bundle@2.18.6?classifier=sources
 - pkg:maven/com.solace.connector.core.resource/pubsubplus-connector-logback-resource-bundle@2.4.0
 - pkg:maven/com.solace.connector.core.resource/pubsubplus-connector-logback-resource-bundle@2.4.0?classifier=sources
 - pkg:maven/com.solace.connector.core.resource/pubsubplus-connector-logback-resource-bundle@2.4.1

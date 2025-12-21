@@ -55,7 +55,11 @@
 - pkg:maven/cn.rongcloud.sdk/im_chatroom@5.28.0?type=aar
 - pkg:maven/cn.rongcloud.sdk/im_chatroom@5.30.0?type=aar
 - pkg:maven/cn.rongcloud.sdk/im_chatroom@5.30.1?type=aar
+- pkg:maven/cn.rongcloud.sdk/im_chatroom@5.32.0?type=aar
+- pkg:maven/cn.rongcloud.sdk/im_chatroom@5.32.1?type=aar
 - pkg:maven/cn.rongcloud.sdk/im_chatroom@5.5.4.101?type=aar
+- pkg:maven/cn.rongcloud.sdk/im_chatroom@5.5.4.102?type=aar
+- pkg:maven/cn.rongcloud.sdk/im_chatroom@5.5.4.103?type=aar
 - pkg:maven/cn.rongcloud.sdk/im_chatroom@5.7.10?type=aar
 - pkg:maven/cn.rongcloud.sdk/im_chatroom@5.7.11?type=aar
 - pkg:maven/cn.rongcloud.sdk/im_chatroom@5.7.9?type=aar

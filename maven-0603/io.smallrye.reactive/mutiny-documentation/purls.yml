@@ -91,3 +91,5 @@
 - pkg:maven/io.smallrye.reactive/mutiny-documentation@2.9.5?classifier=sources
 - pkg:maven/io.smallrye.reactive/mutiny-documentation@3.0.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/mutiny-documentation@3.0.1?classifier=sources
+- pkg:maven/io.smallrye.reactive/mutiny-documentation@3.0.2?classifier=sources
+- pkg:maven/io.smallrye.reactive/mutiny-documentation@3.0.3?classifier=sources

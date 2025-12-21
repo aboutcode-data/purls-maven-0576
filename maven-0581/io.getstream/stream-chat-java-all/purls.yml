@@ -15,3 +15,5 @@
 - pkg:maven/io.getstream/stream-chat-java-all@1.35.0?classifier=sources
 - pkg:maven/io.getstream/stream-chat-java-all@1.36.0?classifier=sources
 - pkg:maven/io.getstream/stream-chat-java-all@1.37.0?classifier=sources
+- pkg:maven/io.getstream/stream-chat-java-all@1.37.1?classifier=sources
+- pkg:maven/io.getstream/stream-chat-java-all@1.37.2?classifier=sources

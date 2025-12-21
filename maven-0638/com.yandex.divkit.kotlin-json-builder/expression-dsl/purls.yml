@@ -2,3 +2,5 @@
 - pkg:maven/com.yandex.divkit.kotlin-json-builder/expression-dsl@32.24.0?classifier=sources
 - pkg:maven/com.yandex.divkit.kotlin-json-builder/expression-dsl@32.25.0?classifier=sources
 - pkg:maven/com.yandex.divkit.kotlin-json-builder/expression-dsl@32.26.0?classifier=sources
+- pkg:maven/com.yandex.divkit.kotlin-json-builder/expression-dsl@32.27.0?classifier=sources
+- pkg:maven/com.yandex.divkit.kotlin-json-builder/expression-dsl@32.28.0?classifier=sources

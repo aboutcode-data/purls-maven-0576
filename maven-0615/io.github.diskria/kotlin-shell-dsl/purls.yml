@@ -13,3 +13,4 @@
 - pkg:maven/io.github.diskria/kotlin-shell-dsl@0.4.3?classifier=sources
 - pkg:maven/io.github.diskria/kotlin-shell-dsl@0.8.0?classifier=sources
 - pkg:maven/io.github.diskria/kotlin-shell-dsl@0.8.2?classifier=sources
+- pkg:maven/io.github.diskria/kotlin-shell-dsl@0.9.0?classifier=sources

@@ -32,3 +32,9 @@
 - pkg:maven/com.gu/atom-manager-play_2.13@6.0.0-PREVIEW.pficonik-data-in-content-atom-model.2025-10-31T0929.d5f902bf
 - pkg:maven/com.gu/atom-manager-play_2.13@6.0.0-PREVIEW.pficonik-data-in-content-atom-model.2025-10-31T0929.d5f902bf?classifier=sources
 - pkg:maven/com.gu/atom-manager-play_2.13@6.0.0?classifier=sources
+- pkg:maven/com.gu/atom-manager-play_2.13@7.0.0
+- pkg:maven/com.gu/atom-manager-play_2.13@7.0.0?classifier=sources
+- pkg:maven/com.gu/atom-manager-play_2.13@8.0.0-PREVIEW.ldupgrade-kinesis.2025-11-27T1538.9d0902cf
+- pkg:maven/com.gu/atom-manager-play_2.13@8.0.0-PREVIEW.ldupgrade-kinesis.2025-11-27T1538.9d0902cf?classifier=sources
+- pkg:maven/com.gu/atom-manager-play_2.13@8.0.0-PREVIEW.ldupgrade-kinesis.2025-11-27T1631.d983bd58
+- pkg:maven/com.gu/atom-manager-play_2.13@8.0.0-PREVIEW.ldupgrade-kinesis.2025-11-27T1631.d983bd58?classifier=sources

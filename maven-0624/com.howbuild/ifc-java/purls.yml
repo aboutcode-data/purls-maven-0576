@@ -1,0 +1,4 @@
+- pkg:maven/com.howbuild/ifc-java@0.1.0
+- pkg:maven/com.howbuild/ifc-java@0.1.0?classifier=sources
+- pkg:maven/com.howbuild/ifc-java@0.1.1
+- pkg:maven/com.howbuild/ifc-java@0.1.1?classifier=sources

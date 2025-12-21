@@ -8,3 +8,5 @@
 - pkg:maven/dev.agiro/matriarch@0.5.0?classifier=sources
 - pkg:maven/dev.agiro/matriarch@0.5.1?classifier=sources
 - pkg:maven/dev.agiro/matriarch@1.0.0?classifier=sources
+- pkg:maven/dev.agiro/matriarch@1.1.0?classifier=sources
+- pkg:maven/dev.agiro/matriarch@1.1.1?classifier=sources

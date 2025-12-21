@@ -1,1 +1,2 @@
 - pkg:maven/com.acrolinx.client/acrolinx-for-aem.core@3.1.1?classifier=sources
+- pkg:maven/com.acrolinx.client/acrolinx-for-aem.core@3.2.0?classifier=sources

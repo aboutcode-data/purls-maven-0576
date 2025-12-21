@@ -404,3 +404,4 @@
 - pkg:maven/com.aspectran/aspectran-daemon@9.2.1?classifier=sources
 - pkg:maven/com.aspectran/aspectran-daemon@9.2.2?classifier=sources
 - pkg:maven/com.aspectran/aspectran-daemon@9.3.0?classifier=sources
+- pkg:maven/com.aspectran/aspectran-daemon@9.4.0?classifier=sources

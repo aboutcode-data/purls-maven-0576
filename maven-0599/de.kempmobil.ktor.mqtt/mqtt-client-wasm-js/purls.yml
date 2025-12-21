@@ -1,1 +1,2 @@
 - pkg:maven/de.kempmobil.ktor.mqtt/mqtt-client-wasm-js@0.8.0?classifier=sources
+- pkg:maven/de.kempmobil.ktor.mqtt/mqtt-client-wasm-js@0.8.1?classifier=sources

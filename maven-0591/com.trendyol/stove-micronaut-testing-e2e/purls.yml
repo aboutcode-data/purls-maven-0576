@@ -1,3 +1,4 @@
 - pkg:maven/com.trendyol/stove-micronaut-testing-e2e@0.16.0?classifier=sources
 - pkg:maven/com.trendyol/stove-micronaut-testing-e2e@0.17.0?classifier=sources
 - pkg:maven/com.trendyol/stove-micronaut-testing-e2e@0.17.1?classifier=sources
+- pkg:maven/com.trendyol/stove-micronaut-testing-e2e@0.18.0?classifier=sources

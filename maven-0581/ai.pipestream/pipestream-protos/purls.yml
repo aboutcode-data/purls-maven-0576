@@ -1,0 +1,4 @@
+- pkg:maven/ai.pipestream/pipestream-protos@0.0.1?classifier=sources
+- pkg:maven/ai.pipestream/pipestream-protos@0.0.2?classifier=sources
+- pkg:maven/ai.pipestream/pipestream-protos@0.2.11?classifier=sources
+- pkg:maven/ai.pipestream/pipestream-protos@0.3.0?classifier=sources

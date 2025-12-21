@@ -6,3 +6,4 @@
 - pkg:maven/com.usercentrics.sdk/usercentrics-tv@2.23.2?classifier=sources
 - pkg:maven/com.usercentrics.sdk/usercentrics-tv@2.23.3?classifier=sources
 - pkg:maven/com.usercentrics.sdk/usercentrics-tv@2.24.0?classifier=sources
+- pkg:maven/com.usercentrics.sdk/usercentrics-tv@2.24.1?classifier=sources

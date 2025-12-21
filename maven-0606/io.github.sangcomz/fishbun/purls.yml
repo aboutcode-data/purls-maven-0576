@@ -4,3 +4,8 @@
 - pkg:maven/io.github.sangcomz/fishbun@1.0.0-beta01?classifier=sources
 - pkg:maven/io.github.sangcomz/fishbun@1.1.0?classifier=sources
 - pkg:maven/io.github.sangcomz/fishbun@1.1.1?classifier=sources
+- pkg:maven/io.github.sangcomz/fishbun@1.1.2-alpha01?classifier=sources
+- pkg:maven/io.github.sangcomz/fishbun@1.1.2-alpha02?classifier=sources
+- pkg:maven/io.github.sangcomz/fishbun@1.1.2-alpha02?type=aar
+- pkg:maven/io.github.sangcomz/fishbun@1.1.2?classifier=sources
+- pkg:maven/io.github.sangcomz/fishbun@1.1.2?type=aar

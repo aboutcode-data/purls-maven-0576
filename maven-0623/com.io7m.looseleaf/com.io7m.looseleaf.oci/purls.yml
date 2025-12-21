@@ -6,3 +6,4 @@
 - pkg:maven/com.io7m.looseleaf/com.io7m.looseleaf.oci@2.0.0?classifier=sources
 - pkg:maven/com.io7m.looseleaf/com.io7m.looseleaf.oci@3.0.0
 - pkg:maven/com.io7m.looseleaf/com.io7m.looseleaf.oci@3.0.0?classifier=sources
+- pkg:maven/com.io7m.looseleaf/com.io7m.looseleaf.oci@4.0.0?classifier=sources

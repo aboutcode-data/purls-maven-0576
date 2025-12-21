@@ -1,2 +1,3 @@
 - pkg:maven/com.github.liuchink.chinkutils/chinkUtils-wechat-pay-v3@0.0.15.RELEASE
 - pkg:maven/com.github.liuchink.chinkutils/chinkUtils-wechat-pay-v3@0.0.15.RELEASE?classifier=sources
+- pkg:maven/com.github.liuchink.chinkutils/chinkUtils-wechat-pay-v3@0.0.17.RELEASE?classifier=sources

@@ -44,6 +44,7 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-error-handling-ui@15.0.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-error-handling-ui@15.1.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-error-handling-ui@15.2.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-error-handling-ui@15.4.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-error-handling-ui@9.10.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-error-handling-ui@9.7.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-error-handling-ui@9.8.0?classifier=sources

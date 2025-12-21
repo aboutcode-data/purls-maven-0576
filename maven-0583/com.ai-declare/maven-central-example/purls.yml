@@ -1,0 +1,2 @@
+- pkg:maven/com.ai-declare/maven-central-example@1.0.0
+- pkg:maven/com.ai-declare/maven-central-example@1.0.0?classifier=sources
