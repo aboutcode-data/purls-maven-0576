@@ -1,1 +1,2 @@
 - pkg:maven/org.opentmf.util/auditor-aware-jpa@1.0.3?classifier=sources
+- pkg:maven/org.opentmf.util/auditor-aware-jpa@1.0.4?classifier=sources

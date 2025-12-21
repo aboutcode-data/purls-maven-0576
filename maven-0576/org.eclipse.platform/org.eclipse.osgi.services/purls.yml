@@ -16,6 +16,8 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.osgi.services@3.12.100?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.osgi.services@3.12.200
 - pkg:maven/org.eclipse.platform/org.eclipse.osgi.services@3.12.200?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.osgi.services@3.12.300
+- pkg:maven/org.eclipse.platform/org.eclipse.osgi.services@3.12.300?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.osgi.services@3.5.100
 - pkg:maven/org.eclipse.platform/org.eclipse.osgi.services@3.5.100?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.osgi.services@3.6.0

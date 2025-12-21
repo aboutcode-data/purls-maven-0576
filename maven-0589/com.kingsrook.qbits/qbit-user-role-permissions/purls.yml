@@ -1,0 +1,2 @@
+- pkg:maven/com.kingsrook.qbits/qbit-user-role-permissions@0.31.0-RC.1?classifier=sources
+- pkg:maven/com.kingsrook.qbits/qbit-user-role-permissions@0.31.0?classifier=sources

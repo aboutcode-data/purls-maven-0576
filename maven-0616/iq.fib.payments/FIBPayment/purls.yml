@@ -1,0 +1,4 @@
+- pkg:maven/iq.fib.payments/FIBPayment@2.0.0?classifier=sources
+- pkg:maven/iq.fib.payments/FIBPayment@2.0.0?type=aar
+- pkg:maven/iq.fib.payments/FIBPayment@2.0.1?classifier=sources
+- pkg:maven/iq.fib.payments/FIBPayment@2.0.1?type=aar

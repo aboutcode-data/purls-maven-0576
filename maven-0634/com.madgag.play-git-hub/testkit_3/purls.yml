@@ -1,4 +1,8 @@
 - pkg:maven/com.madgag.play-git-hub/testkit_3@10.0.0-PREVIEW.examine-default-branch.2025-08-18T0815.313feaac
 - pkg:maven/com.madgag.play-git-hub/testkit_3@10.0.0-PREVIEW.examine-default-branch.2025-08-18T0815.313feaac?classifier=sources
+- pkg:maven/com.madgag.play-git-hub/testkit_3@10.0.0-PREVIEW.examine-default-branch.2025-09-17T1401.cd4c3e17
+- pkg:maven/com.madgag.play-git-hub/testkit_3@10.0.0-PREVIEW.examine-default-branch.2025-09-17T1401.cd4c3e17?classifier=sources
+- pkg:maven/com.madgag.play-git-hub/testkit_3@10.0.0-PREVIEW.examine-default-branch.2025-09-18T0923.7bc45862
+- pkg:maven/com.madgag.play-git-hub/testkit_3@10.0.0-PREVIEW.examine-default-branch.2025-09-18T0923.7bc45862?classifier=sources
 - pkg:maven/com.madgag.play-git-hub/testkit_3@9.0.1
 - pkg:maven/com.madgag.play-git-hub/testkit_3@9.0.1?classifier=sources

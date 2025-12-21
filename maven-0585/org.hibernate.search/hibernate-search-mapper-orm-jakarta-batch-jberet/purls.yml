@@ -47,3 +47,4 @@
 - pkg:maven/org.hibernate.search/hibernate-search-mapper-orm-jakarta-batch-jberet@8.1.0.CR2?classifier=sources
 - pkg:maven/org.hibernate.search/hibernate-search-mapper-orm-jakarta-batch-jberet@8.1.0.Final?classifier=sources
 - pkg:maven/org.hibernate.search/hibernate-search-mapper-orm-jakarta-batch-jberet@8.1.1.Final?classifier=sources
+- pkg:maven/org.hibernate.search/hibernate-search-mapper-orm-jakarta-batch-jberet@8.1.2.Final?classifier=sources

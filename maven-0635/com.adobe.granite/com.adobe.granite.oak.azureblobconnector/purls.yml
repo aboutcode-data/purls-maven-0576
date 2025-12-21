@@ -1,8 +1,11 @@
 - pkg:maven/com.adobe.granite/com.adobe.granite.oak.azureblobconnector@1.6.0?classifier=sources
 - pkg:maven/com.adobe.granite/com.adobe.granite.oak.azureblobconnector@1.6.2?classifier=sources
 - pkg:maven/com.adobe.granite/com.adobe.granite.oak.azureblobconnector@1.6.3?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.oak.azureblobconnector@1.60.2?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.oak.azureblobconnector@1.60.4?classifier=sources
 - pkg:maven/com.adobe.granite/com.adobe.granite.oak.azureblobconnector@1.9.10?classifier=sources
 - pkg:maven/com.adobe.granite/com.adobe.granite.oak.azureblobconnector@1.9.12?classifier=sources
 - pkg:maven/com.adobe.granite/com.adobe.granite.oak.azureblobconnector@1.9.14?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.oak.azureblobconnector@1.9.18?classifier=sources
 - pkg:maven/com.adobe.granite/com.adobe.granite.oak.azureblobconnector@1.9.8?classifier=sources
 - pkg:maven/com.adobe.granite/com.adobe.granite.oak.azureblobconnector@1.9.9?classifier=sources

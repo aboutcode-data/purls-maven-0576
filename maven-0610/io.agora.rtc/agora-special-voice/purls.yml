@@ -29,6 +29,8 @@
 - pkg:maven/io.agora.rtc/agora-special-voice@3.7.3.172?type=aar
 - pkg:maven/io.agora.rtc/agora-special-voice@3.7.3.174?type=aar
 - pkg:maven/io.agora.rtc/agora-special-voice@3.7.3.176?type=aar
+- pkg:maven/io.agora.rtc/agora-special-voice@3.7.3.177?type=aar
+- pkg:maven/io.agora.rtc/agora-special-voice@3.7.3.179?type=aar
 - pkg:maven/io.agora.rtc/agora-special-voice@3.7.3.5.AINS?type=aar
 - pkg:maven/io.agora.rtc/agora-special-voice@3.7.3.5.BASIC?type=aar
 - pkg:maven/io.agora.rtc/agora-special-voice@3.7.3.5.XYHZ?type=aar
@@ -52,6 +54,7 @@
 - pkg:maven/io.agora.rtc/agora-special-voice@4.0.1.5?type=aar
 - pkg:maven/io.agora.rtc/agora-special-voice@4.1.2.160.AINS?type=aar
 - pkg:maven/io.agora.rtc/agora-special-voice@4.1.2.160?type=aar
+- pkg:maven/io.agora.rtc/agora-special-voice@4.1.2.165.ABEAUTY?type=aar
 - pkg:maven/io.agora.rtc/agora-special-voice@4.1.2.165.BASIC?type=aar
 - pkg:maven/io.agora.rtc/agora-special-voice@4.1.2.2.ABEAUTY?type=aar
 - pkg:maven/io.agora.rtc/agora-special-voice@4.1.2.2.GZHX41?type=aar
@@ -62,11 +65,20 @@
 - pkg:maven/io.agora.rtc/agora-special-voice@4.3.2.149?type=aar
 - pkg:maven/io.agora.rtc/agora-special-voice@4.3.2.151?type=aar
 - pkg:maven/io.agora.rtc/agora-special-voice@4.3.2.16.BASIC?type=aar
+- pkg:maven/io.agora.rtc/agora-special-voice@4.3.2.17.BASIC?type=aar
+- pkg:maven/io.agora.rtc/agora-special-voice@4.3.2.17.MINI.AUDIO?type=aar
+- pkg:maven/io.agora.rtc/agora-special-voice@4.3.2.17?type=aar
 - pkg:maven/io.agora.rtc/agora-special-voice@4.4.1.140?type=aar
 - pkg:maven/io.agora.rtc/agora-special-voice@4.5.1.152.1?type=aar
 - pkg:maven/io.agora.rtc/agora-special-voice@4.5.1.152?type=aar
 - pkg:maven/io.agora.rtc/agora-special-voice@4.5.1.160?type=aar
+- pkg:maven/io.agora.rtc/agora-special-voice@4.5.2.149?type=aar
 - pkg:maven/io.agora.rtc/agora-special-voice@4.5.2.1?type=aar
 - pkg:maven/io.agora.rtc/agora-special-voice@4.5.2.2.BASIC?type=aar
 - pkg:maven/io.agora.rtc/agora-special-voice@4.5.2.2.MINI.AUDIO?type=aar
+- pkg:maven/io.agora.rtc/agora-special-voice@4.5.2.231.1?type=aar
+- pkg:maven/io.agora.rtc/agora-special-voice@4.5.2.231?type=aar
 - pkg:maven/io.agora.rtc/agora-special-voice@4.5.2.2?type=aar
+- pkg:maven/io.agora.rtc/agora-special-voice@4.5.2.3.ABEAUTY?type=aar
+- pkg:maven/io.agora.rtc/agora-special-voice@4.5.2.3.BASIC?type=aar
+- pkg:maven/io.agora.rtc/agora-special-voice@4.5.2.3?type=aar

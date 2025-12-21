@@ -227,3 +227,5 @@
 - pkg:maven/com.pulumi/akamai@8.0.0?classifier=sources
 - pkg:maven/com.pulumi/akamai@8.1.1?classifier=sources
 - pkg:maven/com.pulumi/akamai@9.0.0?classifier=sources
+- pkg:maven/com.pulumi/akamai@9.0.1?classifier=sources
+- pkg:maven/com.pulumi/akamai@9.1.0?classifier=sources

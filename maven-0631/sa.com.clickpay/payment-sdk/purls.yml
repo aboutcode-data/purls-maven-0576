@@ -6,3 +6,4 @@
 - pkg:maven/sa.com.clickpay/payment-sdk@6.1.3?type=aar
 - pkg:maven/sa.com.clickpay/payment-sdk@6.1.4?type=aar
 - pkg:maven/sa.com.clickpay/payment-sdk@6.1.5?type=aar
+- pkg:maven/sa.com.clickpay/payment-sdk@6.8.1?classifier=sources

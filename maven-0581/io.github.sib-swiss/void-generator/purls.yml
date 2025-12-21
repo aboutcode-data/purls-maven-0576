@@ -1,0 +1,2 @@
+- pkg:maven/io.github.sib-swiss/void-generator@0.17?classifier=sources
+- pkg:maven/io.github.sib-swiss/void-generator@0.18?classifier=sources

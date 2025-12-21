@@ -322,3 +322,5 @@
 - pkg:maven/com.google.protobuf/protobuf-javalite@4.32.0-RC2
 - pkg:maven/com.google.protobuf/protobuf-javalite@4.32.0-RC2?classifier=sources
 - pkg:maven/com.google.protobuf/protobuf-javalite@4.32.0?classifier=sources
+- pkg:maven/com.google.protobuf/protobuf-javalite@4.32.1
+- pkg:maven/com.google.protobuf/protobuf-javalite@4.32.1?classifier=sources

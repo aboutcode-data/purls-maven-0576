@@ -1,0 +1,2 @@
+- pkg:maven/io.camunda.connector/http-client@8.8.0-alpha8
+- pkg:maven/io.camunda.connector/http-client@8.8.0-alpha8?classifier=sources

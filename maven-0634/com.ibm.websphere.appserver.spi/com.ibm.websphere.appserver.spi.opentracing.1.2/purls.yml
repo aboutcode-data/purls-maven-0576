@@ -1,5 +1,6 @@
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.opentracing.1.2@1.0.103?classifier=sources
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.opentracing.1.2@1.0.104?classifier=sources
+- pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.opentracing.1.2@1.0.105?classifier=sources
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.opentracing.1.2@1.0.23
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.opentracing.1.2@1.0.24
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.opentracing.1.2@1.0.25

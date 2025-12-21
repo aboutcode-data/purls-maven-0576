@@ -34,3 +34,15 @@
 - pkg:maven/io.vacco.metolithe/mt-annotations@3.7.2?classifier=sources
 - pkg:maven/io.vacco.metolithe/mt-annotations@3.7.3
 - pkg:maven/io.vacco.metolithe/mt-annotations@3.7.3?classifier=sources
+- pkg:maven/io.vacco.metolithe/mt-annotations@3.7.4
+- pkg:maven/io.vacco.metolithe/mt-annotations@3.7.4-MILESTONE-202508292027
+- pkg:maven/io.vacco.metolithe/mt-annotations@3.7.4-MILESTONE-202508292027?classifier=sources
+- pkg:maven/io.vacco.metolithe/mt-annotations@3.7.4?classifier=sources
+- pkg:maven/io.vacco.metolithe/mt-annotations@3.8.0
+- pkg:maven/io.vacco.metolithe/mt-annotations@3.8.0?classifier=sources
+- pkg:maven/io.vacco.metolithe/mt-annotations@3.8.1
+- pkg:maven/io.vacco.metolithe/mt-annotations@3.8.1?classifier=sources
+- pkg:maven/io.vacco.metolithe/mt-annotations@3.8.2
+- pkg:maven/io.vacco.metolithe/mt-annotations@3.8.2?classifier=sources
+- pkg:maven/io.vacco.metolithe/mt-annotations@3.9.0
+- pkg:maven/io.vacco.metolithe/mt-annotations@3.9.0?classifier=sources

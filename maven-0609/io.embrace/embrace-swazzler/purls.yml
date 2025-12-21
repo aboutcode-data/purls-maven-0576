@@ -132,3 +132,5 @@
 - pkg:maven/io.embrace/embrace-swazzler@7.6.1?classifier=sources
 - pkg:maven/io.embrace/embrace-swazzler@7.7.0?classifier=sources
 - pkg:maven/io.embrace/embrace-swazzler@7.8.0?classifier=sources
+- pkg:maven/io.embrace/embrace-swazzler@7.9.0?classifier=sources
+- pkg:maven/io.embrace/embrace-swazzler@7.9.1?classifier=sources

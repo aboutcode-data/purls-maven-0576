@@ -16,3 +16,5 @@
 - pkg:maven/dev.rupt.android/rupt-android@3.4.0?type=aar
 - pkg:maven/dev.rupt.android/rupt-android@3.5.0?classifier=sources
 - pkg:maven/dev.rupt.android/rupt-android@3.5.0?type=aar
+- pkg:maven/dev.rupt.android/rupt-android@3.6.0?classifier=sources
+- pkg:maven/dev.rupt.android/rupt-android@3.6.0?type=aar

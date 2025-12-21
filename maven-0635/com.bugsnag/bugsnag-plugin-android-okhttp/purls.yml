@@ -46,6 +46,7 @@
 - pkg:maven/com.bugsnag/bugsnag-plugin-android-okhttp@6.15.0?classifier=sources
 - pkg:maven/com.bugsnag/bugsnag-plugin-android-okhttp@6.16.0?classifier=sources
 - pkg:maven/com.bugsnag/bugsnag-plugin-android-okhttp@6.17.0?classifier=sources
+- pkg:maven/com.bugsnag/bugsnag-plugin-android-okhttp@6.18.0?classifier=sources
 - pkg:maven/com.bugsnag/bugsnag-plugin-android-okhttp@6.2.0?classifier=sources
 - pkg:maven/com.bugsnag/bugsnag-plugin-android-okhttp@6.3.0?classifier=sources
 - pkg:maven/com.bugsnag/bugsnag-plugin-android-okhttp@6.4.0?classifier=sources

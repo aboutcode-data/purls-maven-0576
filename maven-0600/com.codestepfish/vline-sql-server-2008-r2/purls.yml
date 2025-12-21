@@ -10,3 +10,6 @@
 - pkg:maven/com.codestepfish/vline-sql-server-2008-r2@0.1.2?classifier=sources
 - pkg:maven/com.codestepfish/vline-sql-server-2008-r2@1.0.0?classifier=sources
 - pkg:maven/com.codestepfish/vline-sql-server-2008-r2@1.2.0?classifier=sources
+- pkg:maven/com.codestepfish/vline-sql-server-2008-r2@1.5.0?classifier=sources
+- pkg:maven/com.codestepfish/vline-sql-server-2008-r2@2.0.0?classifier=sources
+- pkg:maven/com.codestepfish/vline-sql-server-2008-r2@2.0.2?classifier=sources

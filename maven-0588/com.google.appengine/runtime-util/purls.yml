@@ -54,7 +54,10 @@
 - pkg:maven/com.google.appengine/runtime-util@2.0.37?classifier=sources
 - pkg:maven/com.google.appengine/runtime-util@2.0.38
 - pkg:maven/com.google.appengine/runtime-util@2.0.38?classifier=sources
+- pkg:maven/com.google.appengine/runtime-util@2.0.39-beta?classifier=sources
+- pkg:maven/com.google.appengine/runtime-util@2.0.39?classifier=sources
 - pkg:maven/com.google.appengine/runtime-util@2.0.7
 - pkg:maven/com.google.appengine/runtime-util@2.0.7?classifier=sources
 - pkg:maven/com.google.appengine/runtime-util@2.0.8
 - pkg:maven/com.google.appengine/runtime-util@2.0.8?classifier=sources
+- pkg:maven/com.google.appengine/runtime-util@3.0.0-beta?classifier=sources

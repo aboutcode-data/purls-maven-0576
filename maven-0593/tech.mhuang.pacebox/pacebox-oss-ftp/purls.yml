@@ -14,3 +14,5 @@
 - pkg:maven/tech.mhuang.pacebox/pacebox-oss-ftp@1.0.6-jdk17?classifier=sources
 - pkg:maven/tech.mhuang.pacebox/pacebox-oss-ftp@1.0.6-jdk21
 - pkg:maven/tech.mhuang.pacebox/pacebox-oss-ftp@1.0.6-jdk21?classifier=sources
+- pkg:maven/tech.mhuang.pacebox/pacebox-oss-ftp@1.0.8-jdk24?classifier=sources
+- pkg:maven/tech.mhuang.pacebox/pacebox-oss-ftp@1.0.9-jdk24?classifier=sources

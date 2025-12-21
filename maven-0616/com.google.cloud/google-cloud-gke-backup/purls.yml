@@ -136,6 +136,8 @@
 - pkg:maven/com.google.cloud/google-cloud-gke-backup@0.71.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-gke-backup@0.72.0
 - pkg:maven/com.google.cloud/google-cloud-gke-backup@0.72.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-gke-backup@0.73.0
+- pkg:maven/com.google.cloud/google-cloud-gke-backup@0.73.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-gke-backup@0.8.0
 - pkg:maven/com.google.cloud/google-cloud-gke-backup@0.8.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-gke-backup@0.9.0

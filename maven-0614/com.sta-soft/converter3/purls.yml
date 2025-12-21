@@ -18,3 +18,4 @@
 - pkg:maven/com.sta-soft/converter3@3.117?classifier=sources
 - pkg:maven/com.sta-soft/converter3@3.119
 - pkg:maven/com.sta-soft/converter3@3.119?classifier=sources
+- pkg:maven/com.sta-soft/converter3@3.122?classifier=sources

@@ -1,3 +1,7 @@
 - pkg:maven/com.dameng/DmJdbcDriver11@8.1.4.125?classifier=sources
+- pkg:maven/com.dameng/DmJdbcDriver11@8.1.4.181
+- pkg:maven/com.dameng/DmJdbcDriver11@8.1.4.181?classifier=sources
+- pkg:maven/com.dameng/DmJdbcDriver11@8.1.4.41033
+- pkg:maven/com.dameng/DmJdbcDriver11@8.1.4.41033?classifier=sources
 - pkg:maven/com.dameng/DmJdbcDriver11@8.1.4.6?classifier=sources
 - pkg:maven/com.dameng/DmJdbcDriver11@8.1.4.93?classifier=sources

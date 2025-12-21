@@ -21,6 +21,8 @@
 - pkg:maven/cn.rongcloud.sdk.push/fcm@5.24.1?type=aar
 - pkg:maven/cn.rongcloud.sdk.push/fcm@5.24.2?type=aar
 - pkg:maven/cn.rongcloud.sdk.push/fcm@5.24.3?type=aar
+- pkg:maven/cn.rongcloud.sdk.push/fcm@5.24.4?type=aar
+- pkg:maven/cn.rongcloud.sdk.push/fcm@5.26.0?type=aar
 - pkg:maven/cn.rongcloud.sdk.push/fcm@5.6.0?type=aar
 - pkg:maven/cn.rongcloud.sdk.push/fcm@5.6.1.1?type=aar
 - pkg:maven/cn.rongcloud.sdk.push/fcm@5.6.10?type=aar
@@ -33,6 +35,7 @@
 - pkg:maven/cn.rongcloud.sdk.push/fcm@5.6.8?type=aar
 - pkg:maven/cn.rongcloud.sdk.push/fcm@5.6.9?type=aar
 - pkg:maven/cn.rongcloud.sdk.push/fcm@5.7.10?type=aar
+- pkg:maven/cn.rongcloud.sdk.push/fcm@5.7.11?type=aar
 - pkg:maven/cn.rongcloud.sdk.push/fcm@5.7.2?type=aar
 - pkg:maven/cn.rongcloud.sdk.push/fcm@5.7.3?type=aar
 - pkg:maven/cn.rongcloud.sdk.push/fcm@5.7.4?type=aar

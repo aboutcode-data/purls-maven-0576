@@ -36,6 +36,8 @@
 - pkg:maven/io.github.palexdev/virtualizedfx@11.9.6?classifier=sources
 - pkg:maven/io.github.palexdev/virtualizedfx@21.1.0?classifier=sources
 - pkg:maven/io.github.palexdev/virtualizedfx@21.10.0?classifier=sources
+- pkg:maven/io.github.palexdev/virtualizedfx@21.10.1?classifier=sources
+- pkg:maven/io.github.palexdev/virtualizedfx@21.10.2?classifier=sources
 - pkg:maven/io.github.palexdev/virtualizedfx@21.3.0?classifier=sources
 - pkg:maven/io.github.palexdev/virtualizedfx@21.3.1?classifier=sources
 - pkg:maven/io.github.palexdev/virtualizedfx@21.4.0?classifier=sources
@@ -75,3 +77,8 @@
 - pkg:maven/io.github.palexdev/virtualizedfx@24.2.3?classifier=sources
 - pkg:maven/io.github.palexdev/virtualizedfx@24.3.0?classifier=sources
 - pkg:maven/io.github.palexdev/virtualizedfx@24.4.0?classifier=sources
+- pkg:maven/io.github.palexdev/virtualizedfx@24.5.0?classifier=sources
+- pkg:maven/io.github.palexdev/virtualizedfx@24.5.1?classifier=sources
+- pkg:maven/io.github.palexdev/virtualizedfx@24.6.0?classifier=sources
+- pkg:maven/io.github.palexdev/virtualizedfx@24.6.1?classifier=sources
+- pkg:maven/io.github.palexdev/virtualizedfx@24.6.2?classifier=sources

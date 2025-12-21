@@ -1,0 +1,5 @@
+- pkg:maven/io.github.devaro95.vro/app@2.0.8?classifier=sources
+- pkg:maven/io.github.devaro95.vro/app@2.0.9-alpha01?classifier=sources
+- pkg:maven/io.github.devaro95.vro/app@2.0.9-alpha02?classifier=sources
+- pkg:maven/io.github.devaro95.vro/app@2.0.9-alpha03?classifier=sources
+- pkg:maven/io.github.devaro95.vro/app@2.0.9-alpha04?classifier=sources

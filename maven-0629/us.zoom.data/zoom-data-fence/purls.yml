@@ -2,3 +2,4 @@
 - pkg:maven/us.zoom.data/zoom-data-fence@1.0.1?classifier=sources
 - pkg:maven/us.zoom.data/zoom-data-fence@1.0.2?classifier=sources
 - pkg:maven/us.zoom.data/zoom-data-fence@1.0.3?classifier=sources
+- pkg:maven/us.zoom.data/zoom-data-fence@1.0.4?classifier=sources

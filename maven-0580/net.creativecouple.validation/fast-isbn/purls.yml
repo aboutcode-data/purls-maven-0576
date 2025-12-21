@@ -13,6 +13,8 @@
 - pkg:maven/net.creativecouple.validation/fast-isbn@1.2.20?classifier=sources
 - pkg:maven/net.creativecouple.validation/fast-isbn@1.2.21?classifier=sources
 - pkg:maven/net.creativecouple.validation/fast-isbn@1.2.22?classifier=sources
+- pkg:maven/net.creativecouple.validation/fast-isbn@1.2.23?classifier=sources
+- pkg:maven/net.creativecouple.validation/fast-isbn@1.2.24?classifier=sources
 - pkg:maven/net.creativecouple.validation/fast-isbn@1.2.2?classifier=sources
 - pkg:maven/net.creativecouple.validation/fast-isbn@1.2.3?classifier=sources
 - pkg:maven/net.creativecouple.validation/fast-isbn@1.2.4?classifier=sources

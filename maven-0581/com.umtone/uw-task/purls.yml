@@ -36,3 +36,4 @@
 - pkg:maven/com.umtone/uw-task@5.0.117?classifier=sources
 - pkg:maven/com.umtone/uw-task@5.0.118?classifier=sources
 - pkg:maven/com.umtone/uw-task@5.0.119?classifier=sources
+- pkg:maven/com.umtone/uw-task@5.0.120?classifier=sources

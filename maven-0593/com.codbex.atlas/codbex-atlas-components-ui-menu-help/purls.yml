@@ -4,3 +4,4 @@
 - pkg:maven/com.codbex.atlas/codbex-atlas-components-ui-menu-help@2.74.0?classifier=sources
 - pkg:maven/com.codbex.atlas/codbex-atlas-components-ui-menu-help@2.75.0?classifier=sources
 - pkg:maven/com.codbex.atlas/codbex-atlas-components-ui-menu-help@2.76.0?classifier=sources
+- pkg:maven/com.codbex.atlas/codbex-atlas-components-ui-menu-help@2.77.0?classifier=sources

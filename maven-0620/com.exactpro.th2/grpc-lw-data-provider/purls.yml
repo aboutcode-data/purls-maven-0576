@@ -8,3 +8,4 @@
 - pkg:maven/com.exactpro.th2/grpc-lw-data-provider@2.3.3-dev?classifier=sources
 - pkg:maven/com.exactpro.th2/grpc-lw-data-provider@2.3.4-dev?classifier=sources
 - pkg:maven/com.exactpro.th2/grpc-lw-data-provider@2.4.0-dev?classifier=sources
+- pkg:maven/com.exactpro.th2/grpc-lw-data-provider@2.5.0-dev?classifier=sources

@@ -48,3 +48,5 @@
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.runtime@3.8.600?classifier=sources
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.runtime@3.8.700
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.runtime@3.8.700?classifier=sources
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.runtime@3.8.800
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.runtime@3.8.800?classifier=sources

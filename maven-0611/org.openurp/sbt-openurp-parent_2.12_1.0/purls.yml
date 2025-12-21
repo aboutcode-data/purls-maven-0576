@@ -124,3 +124,5 @@
 - pkg:maven/org.openurp/sbt-openurp-parent_2.12_1.0@0.9.3?classifier=sources
 - pkg:maven/org.openurp/sbt-openurp-parent_2.12_1.0@0.9.4
 - pkg:maven/org.openurp/sbt-openurp-parent_2.12_1.0@0.9.4?classifier=sources
+- pkg:maven/org.openurp/sbt-openurp-parent_2.12_1.0@0.9.5
+- pkg:maven/org.openurp/sbt-openurp-parent_2.12_1.0@0.9.5?classifier=sources

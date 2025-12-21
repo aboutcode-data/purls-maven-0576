@@ -4,6 +4,10 @@
 - pkg:maven/io.seald/seald_sdk_android@0.1.0-beta.mr99-4?classifier=sources
 - pkg:maven/io.seald/seald_sdk_android@0.10.0-beta.0?classifier=sources
 - pkg:maven/io.seald/seald_sdk_android@0.10.0-beta.1?classifier=sources
+- pkg:maven/io.seald/seald_sdk_android@0.10.0-beta.3?classifier=sources
+- pkg:maven/io.seald/seald_sdk_android@0.10.0-beta.4?classifier=sources
+- pkg:maven/io.seald/seald_sdk_android@0.10.0?classifier=sources
+- pkg:maven/io.seald/seald_sdk_android@0.11.0-beta.0?classifier=sources
 - pkg:maven/io.seald/seald_sdk_android@0.2.0-beta.0?classifier=sources
 - pkg:maven/io.seald/seald_sdk_android@0.3.0-beta.0?classifier=sources
 - pkg:maven/io.seald/seald_sdk_android@0.4.0-beta.0?classifier=sources

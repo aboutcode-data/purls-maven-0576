@@ -1,1 +1,2 @@
 - pkg:maven/cz.cybersecurityhub.maven/crczp-security-commons@1.0.1?classifier=sources
+- pkg:maven/cz.cybersecurityhub.maven/crczp-security-commons@v2.1.0-dev?classifier=sources

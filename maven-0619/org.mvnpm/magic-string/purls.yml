@@ -6,3 +6,5 @@
 - pkg:maven/org.mvnpm/magic-string@0.30.17?classifier=sources
 - pkg:maven/org.mvnpm/magic-string@0.30.18
 - pkg:maven/org.mvnpm/magic-string@0.30.18?classifier=sources
+- pkg:maven/org.mvnpm/magic-string@0.30.19
+- pkg:maven/org.mvnpm/magic-string@0.30.19?classifier=sources

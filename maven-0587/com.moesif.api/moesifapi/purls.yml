@@ -68,3 +68,5 @@
 - pkg:maven/com.moesif.api/moesifapi@1.8.2?classifier=sources
 - pkg:maven/com.moesif.api/moesifapi@1.8.4
 - pkg:maven/com.moesif.api/moesifapi@1.8.4?classifier=sources
+- pkg:maven/com.moesif.api/moesifapi@1.8.5
+- pkg:maven/com.moesif.api/moesifapi@1.8.5?classifier=sources

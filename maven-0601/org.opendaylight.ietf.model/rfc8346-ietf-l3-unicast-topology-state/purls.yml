@@ -1,0 +1,2 @@
+- pkg:maven/org.opendaylight.ietf.model/rfc8346-ietf-l3-unicast-topology-state@1.0.0
+- pkg:maven/org.opendaylight.ietf.model/rfc8346-ietf-l3-unicast-topology-state@1.0.0?classifier=sources

@@ -10,6 +10,7 @@
 - pkg:maven/io.trino.gateway/gateway-ha@14?classifier=sources
 - pkg:maven/io.trino.gateway/gateway-ha@15
 - pkg:maven/io.trino.gateway/gateway-ha@15?classifier=sources
+- pkg:maven/io.trino.gateway/gateway-ha@16?classifier=sources
 - pkg:maven/io.trino.gateway/gateway-ha@3
 - pkg:maven/io.trino.gateway/gateway-ha@3?classifier=sources
 - pkg:maven/io.trino.gateway/gateway-ha@4

@@ -1,0 +1,4 @@
+- pkg:maven/org.datatransferproject/portability-auth-synology@1.5.0
+- pkg:maven/org.datatransferproject/portability-auth-synology@1.5.0?classifier=sources
+- pkg:maven/org.datatransferproject/portability-auth-synology@1.7.0
+- pkg:maven/org.datatransferproject/portability-auth-synology@1.7.0?classifier=sources

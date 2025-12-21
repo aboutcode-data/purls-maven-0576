@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm/semver-diff@2.1.0?classifier=sources
 - pkg:maven/org.mvnpm/semver-diff@4.0.0?classifier=sources
+- pkg:maven/org.mvnpm/semver-diff@5.0.0
+- pkg:maven/org.mvnpm/semver-diff@5.0.0?classifier=sources

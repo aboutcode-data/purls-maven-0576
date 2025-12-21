@@ -235,6 +235,7 @@
 - pkg:maven/org.eclipse.xtext/xtext-maven-plugin@2.40.0.M0?classifier=sources
 - pkg:maven/org.eclipse.xtext/xtext-maven-plugin@2.40.0.M2?classifier=sources
 - pkg:maven/org.eclipse.xtext/xtext-maven-plugin@2.40.0.M3?classifier=sources
+- pkg:maven/org.eclipse.xtext/xtext-maven-plugin@2.40.0?classifier=sources
 - pkg:maven/org.eclipse.xtext/xtext-maven-plugin@2.5.0
 - pkg:maven/org.eclipse.xtext/xtext-maven-plugin@2.5.0?classifier=sources
 - pkg:maven/org.eclipse.xtext/xtext-maven-plugin@2.5.1

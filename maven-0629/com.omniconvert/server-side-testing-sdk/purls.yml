@@ -1,0 +1,6 @@
+- pkg:maven/com.omniconvert/server-side-testing-sdk@0.0.24?classifier=sources
+- pkg:maven/com.omniconvert/server-side-testing-sdk@0.0.24?type=aar
+- pkg:maven/com.omniconvert/server-side-testing-sdk@0.0.25?classifier=sources
+- pkg:maven/com.omniconvert/server-side-testing-sdk@0.0.25?type=aar
+- pkg:maven/com.omniconvert/server-side-testing-sdk@1.0.0?classifier=sources
+- pkg:maven/com.omniconvert/server-side-testing-sdk@1.0.0?type=aar

@@ -22,3 +22,4 @@
 - pkg:maven/com.cognitect.aws/amp@871.2.30.11?classifier=sources
 - pkg:maven/com.cognitect.aws/amp@871.2.31.64?classifier=sources
 - pkg:maven/com.cognitect.aws/amp@871.2.32.25?classifier=sources
+- pkg:maven/com.cognitect.aws/amp@871.2.33.10?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/software.amazon.dynamodb/DynamoDBLocal@3.0.0
 - pkg:maven/software.amazon.dynamodb/DynamoDBLocal@3.0.0?classifier=sources
+- pkg:maven/software.amazon.dynamodb/DynamoDBLocal@3.1.0
+- pkg:maven/software.amazon.dynamodb/DynamoDBLocal@3.1.0?classifier=sources
