@@ -8,6 +8,9 @@
 - pkg:maven/com.vertexvis/api-client-java@0.1.4?classifier=sources
 - pkg:maven/com.vertexvis/api-client-java@0.10.0?classifier=sources
 - pkg:maven/com.vertexvis/api-client-java@0.11.0?classifier=sources
+- pkg:maven/com.vertexvis/api-client-java@0.13.0?classifier=sources
+- pkg:maven/com.vertexvis/api-client-java@0.14.0?classifier=sources
+- pkg:maven/com.vertexvis/api-client-java@0.15.0?classifier=sources
 - pkg:maven/com.vertexvis/api-client-java@0.2.0?classifier=sources
 - pkg:maven/com.vertexvis/api-client-java@0.2.10?classifier=sources
 - pkg:maven/com.vertexvis/api-client-java@0.2.1?classifier=sources

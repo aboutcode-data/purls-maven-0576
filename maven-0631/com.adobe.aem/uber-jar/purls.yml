@@ -111,6 +111,8 @@
 - pkg:maven/com.adobe.aem/uber-jar@6.5.22?classifier=sources
 - pkg:maven/com.adobe.aem/uber-jar@6.5.23
 - pkg:maven/com.adobe.aem/uber-jar@6.5.23?classifier=sources
+- pkg:maven/com.adobe.aem/uber-jar@6.5.24
+- pkg:maven/com.adobe.aem/uber-jar@6.5.24?classifier=sources
 - pkg:maven/com.adobe.aem/uber-jar@6.5.2?classifier=sources
 - pkg:maven/com.adobe.aem/uber-jar@6.5.3
 - pkg:maven/com.adobe.aem/uber-jar@6.5.3?classifier=sources

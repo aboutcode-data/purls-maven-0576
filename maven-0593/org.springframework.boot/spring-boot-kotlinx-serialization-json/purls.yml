@@ -1,0 +1,1 @@
+- pkg:maven/org.springframework.boot/spring-boot-kotlinx-serialization-json@4.0.0?classifier=sources

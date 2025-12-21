@@ -193,3 +193,5 @@
 - pkg:maven/com.infomaximum/platform@0.2.2p5?classifier=sources
 - pkg:maven/com.infomaximum/platform@0.2.2p6?classifier=sources
 - pkg:maven/com.infomaximum/platform@0.2.2p7?classifier=sources
+- pkg:maven/com.infomaximum/platform@0.2.3?classifier=sources
+- pkg:maven/com.infomaximum/platform@0.2.3p1?classifier=sources

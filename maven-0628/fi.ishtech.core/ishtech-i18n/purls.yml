@@ -4,3 +4,6 @@
 - pkg:maven/fi.ishtech.core/ishtech-i18n@2.0.0?classifier=sources
 - pkg:maven/fi.ishtech.core/ishtech-i18n@2.1.0
 - pkg:maven/fi.ishtech.core/ishtech-i18n@2.1.0?classifier=sources
+- pkg:maven/fi.ishtech.core/ishtech-i18n@3.0.0?classifier=sources
+- pkg:maven/fi.ishtech.core/ishtech-i18n@4.0.0?classifier=sources
+- pkg:maven/fi.ishtech.core/ishtech-i18n@5.0.0?classifier=sources

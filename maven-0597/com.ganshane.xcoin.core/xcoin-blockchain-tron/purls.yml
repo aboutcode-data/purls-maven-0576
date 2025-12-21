@@ -82,3 +82,6 @@
 - pkg:maven/com.ganshane.xcoin.core/xcoin-blockchain-tron@0.71?classifier=sources
 - pkg:maven/com.ganshane.xcoin.core/xcoin-blockchain-tron@0.72?classifier=sources
 - pkg:maven/com.ganshane.xcoin.core/xcoin-blockchain-tron@0.73?classifier=sources
+- pkg:maven/com.ganshane.xcoin.core/xcoin-blockchain-tron@0.74?classifier=sources
+- pkg:maven/com.ganshane.xcoin.core/xcoin-blockchain-tron@0.75?classifier=sources
+- pkg:maven/com.ganshane.xcoin.core/xcoin-blockchain-tron@0.76?classifier=sources

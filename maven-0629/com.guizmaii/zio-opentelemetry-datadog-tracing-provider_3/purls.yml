@@ -34,3 +34,5 @@
 - pkg:maven/com.guizmaii/zio-opentelemetry-datadog-tracing-provider_3@7.1.6?classifier=sources
 - pkg:maven/com.guizmaii/zio-opentelemetry-datadog-tracing-provider_3@7.1.7
 - pkg:maven/com.guizmaii/zio-opentelemetry-datadog-tracing-provider_3@7.1.7?classifier=sources
+- pkg:maven/com.guizmaii/zio-opentelemetry-datadog-tracing-provider_3@7.1.9
+- pkg:maven/com.guizmaii/zio-opentelemetry-datadog-tracing-provider_3@7.1.9?classifier=sources

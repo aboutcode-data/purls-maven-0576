@@ -79,6 +79,8 @@
 - pkg:maven/io.get-coursier/interpolators_2.13@1.0.29-M1?classifier=sources
 - pkg:maven/io.get-coursier/interpolators_2.13@1.0.29-M2
 - pkg:maven/io.get-coursier/interpolators_2.13@1.0.29-M2?classifier=sources
+- pkg:maven/io.get-coursier/interpolators_2.13@1.0.29-M3
+- pkg:maven/io.get-coursier/interpolators_2.13@1.0.29-M3?classifier=sources
 - pkg:maven/io.get-coursier/interpolators_2.13@1.0.2?classifier=sources
 - pkg:maven/io.get-coursier/interpolators_2.13@1.0.3
 - pkg:maven/io.get-coursier/interpolators_2.13@1.0.3?classifier=sources

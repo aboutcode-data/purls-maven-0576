@@ -87,7 +87,11 @@
 - pkg:maven/io.nashid.verify/sdk@2.6.4-rc-d82d1e5?classifier=sources
 - pkg:maven/io.nashid.verify/sdk@2.6.4-rc-ef6109c?classifier=sources
 - pkg:maven/io.nashid.verify/sdk@2.6.4?classifier=sources
+- pkg:maven/io.nashid.verify/sdk@2.6.5-debug-11ac311?classifier=sources
+- pkg:maven/io.nashid.verify/sdk@2.6.5-debug-1d37e45?classifier=sources
 - pkg:maven/io.nashid.verify/sdk@2.6.5-debug-2615203?classifier=sources
+- pkg:maven/io.nashid.verify/sdk@2.6.5-debug-41b43bb?classifier=sources
+- pkg:maven/io.nashid.verify/sdk@2.6.5-debug-82509b4?classifier=sources
 - pkg:maven/io.nashid.verify/sdk@2.6.5-debug-f25001e?classifier=sources
 - pkg:maven/io.nashid.verify/sdk@2.6.5-rc-e38bc73?classifier=sources
 - pkg:maven/io.nashid.verify/sdk@2.6.5?classifier=sources

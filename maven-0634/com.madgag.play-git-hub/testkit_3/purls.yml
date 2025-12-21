@@ -1,3 +1,4 @@
+- pkg:maven/com.madgag.play-git-hub/testkit_3@10.0.0
 - pkg:maven/com.madgag.play-git-hub/testkit_3@10.0.0-PREVIEW.examine-default-branch.2025-08-18T0815.313feaac
 - pkg:maven/com.madgag.play-git-hub/testkit_3@10.0.0-PREVIEW.examine-default-branch.2025-08-18T0815.313feaac?classifier=sources
 - pkg:maven/com.madgag.play-git-hub/testkit_3@10.0.0-PREVIEW.examine-default-branch.2025-09-17T1401.cd4c3e17
@@ -12,5 +13,12 @@
 - pkg:maven/com.madgag.play-git-hub/testkit_3@10.0.0-PREVIEW.examine-default-branch.2025-10-15T1026.3deecfe0?classifier=sources
 - pkg:maven/com.madgag.play-git-hub/testkit_3@10.0.0-PREVIEW.examine-default-branch.2025-10-15T1656.d89d6fe7
 - pkg:maven/com.madgag.play-git-hub/testkit_3@10.0.0-PREVIEW.examine-default-branch.2025-10-15T1656.d89d6fe7?classifier=sources
+- pkg:maven/com.madgag.play-git-hub/testkit_3@10.0.0-PREVIEW.examine-default-branch.2025-11-06T1559.498b1829
+- pkg:maven/com.madgag.play-git-hub/testkit_3@10.0.0-PREVIEW.examine-default-branch.2025-11-06T1559.498b1829?classifier=sources
+- pkg:maven/com.madgag.play-git-hub/testkit_3@10.0.0-PREVIEW.tolerate-parsing-intermittent-list-wrapper-in-github-responses.2025-10-28T1621.5705cb13
+- pkg:maven/com.madgag.play-git-hub/testkit_3@10.0.0-PREVIEW.tolerate-parsing-intermittent-list-wrapper-in-github-responses.2025-10-28T1621.5705cb13?classifier=sources
+- pkg:maven/com.madgag.play-git-hub/testkit_3@10.0.0-PREVIEW.tolerate-parsing-intermittent-list-wrapper-in-github-responses.2025-11-06T1356.1735fbc2
+- pkg:maven/com.madgag.play-git-hub/testkit_3@10.0.0-PREVIEW.tolerate-parsing-intermittent-list-wrapper-in-github-responses.2025-11-06T1356.1735fbc2?classifier=sources
+- pkg:maven/com.madgag.play-git-hub/testkit_3@10.0.0?classifier=sources
 - pkg:maven/com.madgag.play-git-hub/testkit_3@9.0.1
 - pkg:maven/com.madgag.play-git-hub/testkit_3@9.0.1?classifier=sources

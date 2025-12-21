@@ -1,0 +1,2 @@
+- pkg:maven/org.sakaiproject/vuecomponents-bundle@25.0?classifier=sources
+- pkg:maven/org.sakaiproject/vuecomponents-bundle@25.1?classifier=sources

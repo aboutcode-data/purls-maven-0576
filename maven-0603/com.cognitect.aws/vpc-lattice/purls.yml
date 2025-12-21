@@ -9,3 +9,4 @@
 - pkg:maven/com.cognitect.aws/vpc-lattice@871.2.29.35
 - pkg:maven/com.cognitect.aws/vpc-lattice@871.2.29.35?classifier=sources
 - pkg:maven/com.cognitect.aws/vpc-lattice@871.2.34.6?classifier=sources
+- pkg:maven/com.cognitect.aws/vpc-lattice@871.2.38.3?classifier=sources

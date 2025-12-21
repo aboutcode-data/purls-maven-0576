@@ -5,6 +5,7 @@
 - pkg:maven/com.github.spotbugs/spotbugs-archetype@0.2.7?classifier=sources
 - pkg:maven/com.github.spotbugs/spotbugs-archetype@0.4.10?classifier=sources
 - pkg:maven/com.github.spotbugs/spotbugs-archetype@0.4.11?classifier=sources
+- pkg:maven/com.github.spotbugs/spotbugs-archetype@0.4.12?classifier=sources
 - pkg:maven/com.github.spotbugs/spotbugs-archetype@0.4.2?classifier=sources
 - pkg:maven/com.github.spotbugs/spotbugs-archetype@0.4.3?classifier=sources
 - pkg:maven/com.github.spotbugs/spotbugs-archetype@0.4.4?classifier=sources

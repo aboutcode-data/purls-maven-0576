@@ -1,1 +1,2 @@
 - pkg:maven/cn.qaiu/parser-android@10.2.1?classifier=sources
+- pkg:maven/cn.qaiu/parser-android@10.2.4?classifier=sources

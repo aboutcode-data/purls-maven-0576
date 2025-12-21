@@ -39,6 +39,7 @@
 - pkg:maven/org.bouncycastle/bctls-fips@1.0.8?classifier=sources
 - pkg:maven/org.bouncycastle/bctls-fips@1.0.9
 - pkg:maven/org.bouncycastle/bctls-fips@1.0.9?classifier=sources
+- pkg:maven/org.bouncycastle/bctls-fips@2.0.19.2?classifier=sources
 - pkg:maven/org.bouncycastle/bctls-fips@2.0.19?classifier=sources
 - pkg:maven/org.bouncycastle/bctls-fips@2.0.20
 - pkg:maven/org.bouncycastle/bctls-fips@2.0.20?classifier=sources

@@ -4,3 +4,4 @@
 - pkg:maven/com.ibeetl/online@3.19.1.RELEASE?type=war
 - pkg:maven/com.ibeetl/online@3.19.2.RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/online@3.19.2.RELEASE?type=war
+- pkg:maven/com.ibeetl/online@3.20.0.RELEASE?classifier=sources

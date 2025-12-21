@@ -31,6 +31,12 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-components-ui-view-swagger@12.4.1?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-ui-view-swagger@12.40.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-ui-view-swagger@12.41.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-ui-view-swagger@12.42.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-ui-view-swagger@12.43.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-ui-view-swagger@12.44.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-ui-view-swagger@12.45.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-ui-view-swagger@12.46.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-ui-view-swagger@12.47.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-ui-view-swagger@12.5.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-ui-view-swagger@12.6.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-ui-view-swagger@12.7.0?classifier=sources

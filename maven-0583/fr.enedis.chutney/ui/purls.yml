@@ -5,3 +5,5 @@
 - pkg:maven/fr.enedis.chutney/ui@3.2.1?classifier=sources
 - pkg:maven/fr.enedis.chutney/ui@3.2.2?classifier=sources
 - pkg:maven/fr.enedis.chutney/ui@3.3.0?classifier=sources
+- pkg:maven/fr.enedis.chutney/ui@3.4.0?classifier=sources
+- pkg:maven/fr.enedis.chutney/ui@4.0.0?classifier=sources

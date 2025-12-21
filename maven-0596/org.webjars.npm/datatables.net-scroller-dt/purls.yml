@@ -2,3 +2,4 @@
 - pkg:maven/org.webjars.npm/datatables.net-scroller-dt@1.4.4?classifier=sources
 - pkg:maven/org.webjars.npm/datatables.net-scroller-dt@2.0.0
 - pkg:maven/org.webjars.npm/datatables.net-scroller-dt@2.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/datatables.net-scroller-dt@2.4.3

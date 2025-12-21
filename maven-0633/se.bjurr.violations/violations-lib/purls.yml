@@ -155,6 +155,7 @@
 - pkg:maven/se.bjurr.violations/violations-lib@1.160.0?classifier=sources
 - pkg:maven/se.bjurr.violations/violations-lib@1.160.1?classifier=sources
 - pkg:maven/se.bjurr.violations/violations-lib@1.160.2?classifier=sources
+- pkg:maven/se.bjurr.violations/violations-lib@1.160.3?classifier=sources
 - pkg:maven/se.bjurr.violations/violations-lib@1.16?classifier=sources
 - pkg:maven/se.bjurr.violations/violations-lib@1.17
 - pkg:maven/se.bjurr.violations/violations-lib@1.17?classifier=sources

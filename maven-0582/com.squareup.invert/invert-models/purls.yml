@@ -2,3 +2,5 @@
 - pkg:maven/com.squareup.invert/invert-models@0.0.2-dev?classifier=sources
 - pkg:maven/com.squareup.invert/invert-models@0.0.3-dev?classifier=sources
 - pkg:maven/com.squareup.invert/invert-models@0.0.4-dev?classifier=sources
+- pkg:maven/com.squareup.invert/invert-models@0.0.5-dev?classifier=sources
+- pkg:maven/com.squareup.invert/invert-models@0.0.6-dev?classifier=sources

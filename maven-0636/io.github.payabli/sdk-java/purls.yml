@@ -6,3 +6,4 @@
 - pkg:maven/io.github.payabli/sdk-java@0.0.298?classifier=sources
 - pkg:maven/io.github.payabli/sdk-java@0.0.299?classifier=sources
 - pkg:maven/io.github.payabli/sdk-java@0.0.300?classifier=sources
+- pkg:maven/io.github.payabli/sdk-java@0.0.301?classifier=sources

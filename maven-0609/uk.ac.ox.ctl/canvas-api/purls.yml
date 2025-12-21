@@ -54,3 +54,4 @@
 - pkg:maven/uk.ac.ox.ctl/canvas-api@2.0.0?classifier=sources
 - pkg:maven/uk.ac.ox.ctl/canvas-api@2.1.0?classifier=sources
 - pkg:maven/uk.ac.ox.ctl/canvas-api@2.1.1?classifier=sources
+- pkg:maven/uk.ac.ox.ctl/canvas-api@2.1.2?classifier=sources

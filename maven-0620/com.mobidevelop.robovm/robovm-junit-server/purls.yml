@@ -26,6 +26,7 @@
 - pkg:maven/com.mobidevelop.robovm/robovm-junit-server@2.3.22?classifier=sources
 - pkg:maven/com.mobidevelop.robovm/robovm-junit-server@2.3.23
 - pkg:maven/com.mobidevelop.robovm/robovm-junit-server@2.3.23?classifier=sources
+- pkg:maven/com.mobidevelop.robovm/robovm-junit-server@2.3.24?classifier=sources
 - pkg:maven/com.mobidevelop.robovm/robovm-junit-server@2.3.4
 - pkg:maven/com.mobidevelop.robovm/robovm-junit-server@2.3.4?classifier=sources
 - pkg:maven/com.mobidevelop.robovm/robovm-junit-server@2.3.5

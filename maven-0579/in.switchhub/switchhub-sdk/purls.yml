@@ -1,0 +1,2 @@
+- pkg:maven/in.switchhub/switchhub-sdk@1.0.0?classifier=sources
+- pkg:maven/in.switchhub/switchhub-sdk@1.0.1?classifier=sources

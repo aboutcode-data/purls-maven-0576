@@ -2,6 +2,7 @@
 - pkg:maven/org.ops4j.pax.web.samples/war-spring@10.0.1?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-spring@11.0.0?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-spring@11.0.1?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/war-spring@11.1.0?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-spring@3.0.0.RC?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-spring@3.0.0.RC?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-spring@3.0.0?classifier=sources

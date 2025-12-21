@@ -1,0 +1,2 @@
+- pkg:maven/software.amazon.awsconstructs/lambdatranslate@2.96.0
+- pkg:maven/software.amazon.awsconstructs/lambdatranslate@2.96.0?classifier=sources

@@ -20,3 +20,4 @@
 - pkg:maven/io.kestra.plugin/plugin-pulsar@0.8.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-pulsar@0.9.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-pulsar@1.0.0?classifier=sources
+- pkg:maven/io.kestra.plugin/plugin-pulsar@1.1.0?classifier=sources

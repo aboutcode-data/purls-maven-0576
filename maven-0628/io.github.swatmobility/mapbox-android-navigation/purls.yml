@@ -14,4 +14,5 @@
 - pkg:maven/io.github.swatmobility/mapbox-android-navigation@0.0.1-alpha.13?classifier=sources
 - pkg:maven/io.github.swatmobility/mapbox-android-navigation@0.0.1-alpha.13?type=aar
 - pkg:maven/io.github.swatmobility/mapbox-android-navigation@0.0.1-alpha.14?classifier=sources
+- pkg:maven/io.github.swatmobility/mapbox-android-navigation@0.0.1-alpha.15?classifier=sources
 - pkg:maven/io.github.swatmobility/mapbox-android-navigation@0.42.5?classifier=sources

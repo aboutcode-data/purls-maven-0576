@@ -11,3 +11,5 @@
 - pkg:maven/io.github.florian-besser-mult/code-artifact@0.1.57?classifier=sources
 - pkg:maven/io.github.florian-besser-mult/code-artifact@0.1.58?classifier=sources
 - pkg:maven/io.github.florian-besser-mult/code-artifact@0.1.59?classifier=sources
+- pkg:maven/io.github.florian-besser-mult/code-artifact@0.1.63?classifier=sources
+- pkg:maven/io.github.florian-besser-mult/code-artifact@0.1.64?classifier=sources

@@ -34,3 +34,6 @@
 - pkg:maven/cn.xfyun.aiui.aiuiplayer/common@1065_fixed?classifier=sources
 - pkg:maven/cn.xfyun.aiui.aiuiplayer/common@1066?classifier=sources
 - pkg:maven/cn.xfyun.aiui.aiuiplayer/common@1067?classifier=sources
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/common@1068?classifier=sources
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/common@1069?classifier=sources
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/common@1070?classifier=sources

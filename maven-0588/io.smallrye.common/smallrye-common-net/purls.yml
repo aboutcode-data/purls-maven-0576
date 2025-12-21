@@ -68,6 +68,7 @@
 - pkg:maven/io.smallrye.common/smallrye-common-net@2.13.9?classifier=sources
 - pkg:maven/io.smallrye.common/smallrye-common-net@2.13.beta1?classifier=sources
 - pkg:maven/io.smallrye.common/smallrye-common-net@2.13.beta2?classifier=sources
+- pkg:maven/io.smallrye.common/smallrye-common-net@2.14.0?classifier=sources
 - pkg:maven/io.smallrye.common/smallrye-common-net@2.2.0
 - pkg:maven/io.smallrye.common/smallrye-common-net@2.2.0?classifier=sources
 - pkg:maven/io.smallrye.common/smallrye-common-net@2.3.0

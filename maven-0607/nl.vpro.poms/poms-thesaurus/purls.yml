@@ -20,3 +20,4 @@
 - pkg:maven/nl.vpro.poms/poms-thesaurus@8.6.0?classifier=sources
 - pkg:maven/nl.vpro.poms/poms-thesaurus@8.6.1
 - pkg:maven/nl.vpro.poms/poms-thesaurus@8.6.1?classifier=sources
+- pkg:maven/nl.vpro.poms/poms-thesaurus@8.7.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.vscode/sudo-prompt@9.3.1
+- pkg:maven/org.mvnpm.at.vscode/sudo-prompt@9.3.1?classifier=sources

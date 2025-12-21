@@ -1,0 +1,2 @@
+- pkg:maven/com.xilinx.rapidwright/org.eclipse.elk-deps-jdk8@0.10.0-rc1
+- pkg:maven/com.xilinx.rapidwright/org.eclipse.elk-deps-jdk8@0.10.0-rc1?classifier=sources

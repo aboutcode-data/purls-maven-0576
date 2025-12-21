@@ -1,3 +1,11 @@
 - pkg:maven/io.gitlab.ambu550/bugreaper-module-minio@0.0.1-rc?classifier=sources
 - pkg:maven/io.gitlab.ambu550/bugreaper-module-minio@0.0.1?classifier=sources
 - pkg:maven/io.gitlab.ambu550/bugreaper-module-minio@0.0.2?classifier=sources
+- pkg:maven/io.gitlab.ambu550/bugreaper-module-minio@0.0.3?classifier=sources
+- pkg:maven/io.gitlab.ambu550/bugreaper-module-minio@0.0.4?classifier=sources
+- pkg:maven/io.gitlab.ambu550/bugreaper-module-minio@0.0.5?classifier=sources
+- pkg:maven/io.gitlab.ambu550/bugreaper-module-minio@0.0.6-rc?classifier=sources
+- pkg:maven/io.gitlab.ambu550/bugreaper-module-minio@0.0.6?classifier=sources
+- pkg:maven/io.gitlab.ambu550/bugreaper-module-minio@0.0.7-rc2?classifier=sources
+- pkg:maven/io.gitlab.ambu550/bugreaper-module-minio@0.0.7-rc?classifier=sources
+- pkg:maven/io.gitlab.ambu550/bugreaper-module-minio@0.0.7?classifier=sources

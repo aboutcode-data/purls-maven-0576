@@ -3,3 +3,4 @@
 - pkg:maven/eu.maveniverse.maven.mimir/daemon-fat@0.10.2?classifier=sources
 - pkg:maven/eu.maveniverse.maven.mimir/daemon-fat@0.10.3?classifier=sources
 - pkg:maven/eu.maveniverse.maven.mimir/daemon-fat@0.10.4?classifier=sources
+- pkg:maven/eu.maveniverse.maven.mimir/daemon-fat@0.10.5?classifier=sources

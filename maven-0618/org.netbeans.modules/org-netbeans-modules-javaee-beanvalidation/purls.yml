@@ -26,3 +26,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee-beanvalidation@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee-beanvalidation@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee-beanvalidation@RELEASE270?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee-beanvalidation@RELEASE280?classifier=sources

@@ -31,3 +31,4 @@
 - pkg:maven/io.gravitee.policy/gravitee-policy-callout-http@4.0.2?classifier=sources
 - pkg:maven/io.gravitee.policy/gravitee-policy-callout-http@4.0.3?classifier=sources
 - pkg:maven/io.gravitee.policy/gravitee-policy-callout-http@5.0.0?classifier=sources
+- pkg:maven/io.gravitee.policy/gravitee-policy-callout-http@5.1.0-alpha.1?classifier=sources

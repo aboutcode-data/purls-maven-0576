@@ -1,0 +1,2 @@
+- pkg:maven/io.appform.ranger/ranger-discovery-core@2.0.0-RC1
+- pkg:maven/io.appform.ranger/ranger-discovery-core@2.0.0-RC1?classifier=sources

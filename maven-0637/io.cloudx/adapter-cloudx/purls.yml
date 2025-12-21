@@ -6,4 +6,8 @@
 - pkg:maven/io.cloudx/adapter-cloudx@0.2.2?classifier=sources
 - pkg:maven/io.cloudx/adapter-cloudx@0.3.1?classifier=sources
 - pkg:maven/io.cloudx/adapter-cloudx@0.3.2?classifier=sources
+- pkg:maven/io.cloudx/adapter-cloudx@0.4.0?classifier=sources
+- pkg:maven/io.cloudx/adapter-cloudx@0.5.0?classifier=sources
+- pkg:maven/io.cloudx/adapter-cloudx@0.6.1?classifier=sources
+- pkg:maven/io.cloudx/adapter-cloudx@0.8.0?classifier=sources
 - pkg:maven/io.cloudx/adapter-cloudx@1.0.1.2?classifier=sources

@@ -338,6 +338,8 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-pubsub-v1@1.124.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-pubsub-v1@1.125.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-pubsub-v1@1.125.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-pubsub-v1@1.125.1
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-pubsub-v1@1.125.1?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-pubsub-v1@1.13.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-pubsub-v1@1.13.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-pubsub-v1@1.14.0

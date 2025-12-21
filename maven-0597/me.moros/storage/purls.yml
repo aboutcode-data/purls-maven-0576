@@ -6,3 +6,4 @@
 - pkg:maven/me.moros/storage@3.1.0?classifier=sources
 - pkg:maven/me.moros/storage@3.2.0?classifier=sources
 - pkg:maven/me.moros/storage@3.3.0?classifier=sources
+- pkg:maven/me.moros/storage@4.0.0?classifier=sources

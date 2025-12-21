@@ -17,3 +17,6 @@
 - pkg:maven/com.aliyun/mpaas20201028@3.3.0
 - pkg:maven/com.aliyun/mpaas20201028@3.3.0?classifier=sources
 - pkg:maven/com.aliyun/mpaas20201028@4.0.0?classifier=sources
+- pkg:maven/com.aliyun/mpaas20201028@4.1.0?classifier=sources
+- pkg:maven/com.aliyun/mpaas20201028@4.2.0?classifier=sources
+- pkg:maven/com.aliyun/mpaas20201028@4.2.1?classifier=sources

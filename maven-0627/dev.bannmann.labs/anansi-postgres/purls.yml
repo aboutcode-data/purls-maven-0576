@@ -49,3 +49,4 @@
 - pkg:maven/dev.bannmann.labs/anansi-postgres@0.44?classifier=sources
 - pkg:maven/dev.bannmann.labs/anansi-postgres@0.45?classifier=sources
 - pkg:maven/dev.bannmann.labs/anansi-postgres@0.46?classifier=sources
+- pkg:maven/dev.bannmann.labs/anansi-postgres@0.47?classifier=sources

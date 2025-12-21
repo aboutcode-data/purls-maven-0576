@@ -23,3 +23,4 @@
 - pkg:maven/org.netbeans.external/org-eclipse-mylyn-tasks-core@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.external/org-eclipse-mylyn-tasks-core@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.external/org-eclipse-mylyn-tasks-core@RELEASE270?classifier=sources
+- pkg:maven/org.netbeans.external/org-eclipse-mylyn-tasks-core@RELEASE280?classifier=sources

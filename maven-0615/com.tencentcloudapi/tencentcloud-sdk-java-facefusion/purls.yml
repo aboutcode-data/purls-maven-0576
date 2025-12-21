@@ -36,6 +36,7 @@
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-facefusion@3.1.1201?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-facefusion@3.1.1233
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-facefusion@3.1.1233?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-facefusion@3.1.1357?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-facefusion@3.1.179
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-facefusion@3.1.179?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-facefusion@3.1.180

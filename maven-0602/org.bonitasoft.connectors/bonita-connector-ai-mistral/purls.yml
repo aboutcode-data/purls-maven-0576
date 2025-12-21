@@ -4,3 +4,4 @@
 - pkg:maven/org.bonitasoft.connectors/bonita-connector-ai-mistral@0.0.1-beta?classifier=sources
 - pkg:maven/org.bonitasoft.connectors/bonita-connector-ai-mistral@1.0.0
 - pkg:maven/org.bonitasoft.connectors/bonita-connector-ai-mistral@1.0.0?classifier=sources
+- pkg:maven/org.bonitasoft.connectors/bonita-connector-ai-mistral@1.1.0?classifier=sources

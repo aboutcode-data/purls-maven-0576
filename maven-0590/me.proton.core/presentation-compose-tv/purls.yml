@@ -59,3 +59,4 @@
 - pkg:maven/me.proton.core/presentation-compose-tv@34.4.0?classifier=sources
 - pkg:maven/me.proton.core/presentation-compose-tv@35.0.0?classifier=sources
 - pkg:maven/me.proton.core/presentation-compose-tv@35.1.0?classifier=sources
+- pkg:maven/me.proton.core/presentation-compose-tv@35.2.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.pactlabs/aptos-tokens@0.0.0-alpha002?classifier=sources
+- pkg:maven/com.pactlabs/aptos-tokens@0.0.0-alpha003?classifier=sources
+- pkg:maven/com.pactlabs/aptos-tokens@0.0.0-alpha004?classifier=sources
+- pkg:maven/com.pactlabs/aptos-tokens@0.1.0?classifier=sources

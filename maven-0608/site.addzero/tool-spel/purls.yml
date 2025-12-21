@@ -1,0 +1,2 @@
+- pkg:maven/site.addzero/tool-spel@2025.11.18?classifier=sources
+- pkg:maven/site.addzero/tool-spel@2025.11.19?classifier=sources

@@ -22,6 +22,7 @@
 - pkg:maven/io.moderne/moderne-organizations-format@0.24.0?classifier=sources
 - pkg:maven/io.moderne/moderne-organizations-format@0.25.0?classifier=sources
 - pkg:maven/io.moderne/moderne-organizations-format@0.26.0?classifier=sources
+- pkg:maven/io.moderne/moderne-organizations-format@0.27.0?classifier=sources
 - pkg:maven/io.moderne/moderne-organizations-format@0.3.0?classifier=sources
 - pkg:maven/io.moderne/moderne-organizations-format@0.4.0?classifier=sources
 - pkg:maven/io.moderne/moderne-organizations-format@0.5.0?classifier=sources

@@ -60,3 +60,5 @@
 - pkg:maven/com.google.apis/google-api-services-recaptchaenterprise@v1-rev20251006-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-recaptchaenterprise@v1-rev20251014-2.0.0
 - pkg:maven/com.google.apis/google-api-services-recaptchaenterprise@v1-rev20251014-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-recaptchaenterprise@v1-rev20251026-2.0.0
+- pkg:maven/com.google.apis/google-api-services-recaptchaenterprise@v1-rev20251026-2.0.0?classifier=sources

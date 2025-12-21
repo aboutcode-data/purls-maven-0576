@@ -1,0 +1,5 @@
+- pkg:maven/cn.urora.plugin.agency/plugin-huawei@1.9.1.300.1?classifier=sources
+- pkg:maven/cn.urora.plugin.agency/plugin-huawei@1.9.1.300.2?classifier=sources
+- pkg:maven/cn.urora.plugin.agency/plugin-huawei@1.9.1.300?classifier=sources
+- pkg:maven/cn.urora.plugin.agency/plugin-huawei@6.13.0.300.3?classifier=sources
+- pkg:maven/cn.urora.plugin.agency/plugin-huawei@6.13.0.300_1?classifier=sources

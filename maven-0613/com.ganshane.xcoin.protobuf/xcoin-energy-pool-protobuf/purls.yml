@@ -4,6 +4,10 @@
 - pkg:maven/com.ganshane.xcoin.protobuf/xcoin-energy-pool-protobuf@0.12?classifier=sources
 - pkg:maven/com.ganshane.xcoin.protobuf/xcoin-energy-pool-protobuf@0.13?classifier=sources
 - pkg:maven/com.ganshane.xcoin.protobuf/xcoin-energy-pool-protobuf@0.14?classifier=sources
+- pkg:maven/com.ganshane.xcoin.protobuf/xcoin-energy-pool-protobuf@0.15?classifier=sources
+- pkg:maven/com.ganshane.xcoin.protobuf/xcoin-energy-pool-protobuf@0.16?classifier=sources
+- pkg:maven/com.ganshane.xcoin.protobuf/xcoin-energy-pool-protobuf@0.17?classifier=sources
+- pkg:maven/com.ganshane.xcoin.protobuf/xcoin-energy-pool-protobuf@0.18?classifier=sources
 - pkg:maven/com.ganshane.xcoin.protobuf/xcoin-energy-pool-protobuf@0.1?classifier=sources
 - pkg:maven/com.ganshane.xcoin.protobuf/xcoin-energy-pool-protobuf@0.2
 - pkg:maven/com.ganshane.xcoin.protobuf/xcoin-energy-pool-protobuf@0.2?classifier=sources

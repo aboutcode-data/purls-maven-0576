@@ -13,3 +13,5 @@
 - pkg:maven/io.fluidsonic.pdf/fluid-pdf-jvm@0.22.0?classifier=sources
 - pkg:maven/io.fluidsonic.pdf/fluid-pdf-jvm@0.23.0?classifier=sources
 - pkg:maven/io.fluidsonic.pdf/fluid-pdf-jvm@0.24.0?classifier=sources
+- pkg:maven/io.fluidsonic.pdf/fluid-pdf-jvm@0.30.0?classifier=sources
+- pkg:maven/io.fluidsonic.pdf/fluid-pdf-jvm@0.31.0?classifier=sources

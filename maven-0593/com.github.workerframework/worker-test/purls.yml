@@ -1,3 +1,7 @@
+- pkg:maven/com.github.workerframework/worker-test@10.0.0-1379
+- pkg:maven/com.github.workerframework/worker-test@10.0.0-1379?classifier=sources
+- pkg:maven/com.github.workerframework/worker-test@10.0.1-1380
+- pkg:maven/com.github.workerframework/worker-test@10.0.1-1380?classifier=sources
 - pkg:maven/com.github.workerframework/worker-test@7.0.0-1167
 - pkg:maven/com.github.workerframework/worker-test@7.0.0-1167?classifier=sources
 - pkg:maven/com.github.workerframework/worker-test@8.0.0-1196

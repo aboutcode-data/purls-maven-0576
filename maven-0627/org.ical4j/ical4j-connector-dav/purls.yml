@@ -3,3 +3,4 @@
 - pkg:maven/org.ical4j/ical4j-connector-dav@2.0.0-alpha4?classifier=sources
 - pkg:maven/org.ical4j/ical4j-connector-dav@2.0.0-alpha5?classifier=sources
 - pkg:maven/org.ical4j/ical4j-connector-dav@2.0.0-alpha6?classifier=sources
+- pkg:maven/org.ical4j/ical4j-connector-dav@2.0.0-beta1?classifier=sources

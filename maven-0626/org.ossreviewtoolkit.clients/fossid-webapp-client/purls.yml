@@ -127,5 +127,12 @@
 - pkg:maven/org.ossreviewtoolkit.clients/fossid-webapp-client@71.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/fossid-webapp-client@71.0.1?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/fossid-webapp-client@71.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/fossid-webapp-client@71.2.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/fossid-webapp-client@71.3.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/fossid-webapp-client@71.4.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/fossid-webapp-client@71.5.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/fossid-webapp-client@72.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/fossid-webapp-client@72.0.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/fossid-webapp-client@72.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/fossid-webapp-client@8.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/fossid-webapp-client@9.0.0?classifier=sources

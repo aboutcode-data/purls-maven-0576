@@ -1,0 +1,2 @@
+- pkg:maven/io.crashbox/yamlesque_native0.5_3@0.4.3
+- pkg:maven/io.crashbox/yamlesque_native0.5_3@0.4.3?classifier=sources
