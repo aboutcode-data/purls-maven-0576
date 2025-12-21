@@ -33,4 +33,8 @@
 - pkg:maven/org.rcsb/rcsb-mojave-model@1.49.1-IHM-dev.2?classifier=sources
 - pkg:maven/org.rcsb/rcsb-mojave-model@1.49.1-IHM-dev.3
 - pkg:maven/org.rcsb/rcsb-mojave-model@1.49.1-IHM-dev.3?classifier=sources
+- pkg:maven/org.rcsb/rcsb-mojave-model@1.49.1-IHM-dev.4
+- pkg:maven/org.rcsb/rcsb-mojave-model@1.49.1-IHM-dev.4?classifier=sources
 - pkg:maven/org.rcsb/rcsb-mojave-model@1.49.1?classifier=sources
+- pkg:maven/org.rcsb/rcsb-mojave-model@1.50.0
+- pkg:maven/org.rcsb/rcsb-mojave-model@1.50.0?classifier=sources

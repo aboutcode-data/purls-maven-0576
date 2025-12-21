@@ -1,1 +1,2 @@
 - pkg:maven/ro.cosminmihu.ktor/ktor-monitor-logging-no-op-android@1.6.0?classifier=sources
+- pkg:maven/ro.cosminmihu.ktor/ktor-monitor-logging-no-op-android@1.6.1?classifier=sources

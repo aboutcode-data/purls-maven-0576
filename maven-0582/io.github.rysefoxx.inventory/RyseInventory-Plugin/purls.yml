@@ -26,6 +26,7 @@
 - pkg:maven/io.github.rysefoxx.inventory/RyseInventory-Plugin@1.6.5.24-DEV?classifier=sources
 - pkg:maven/io.github.rysefoxx.inventory/RyseInventory-Plugin@1.6.5.25-DEV?classifier=sources
 - pkg:maven/io.github.rysefoxx.inventory/RyseInventory-Plugin@1.6.5.26-DEV?classifier=sources
+- pkg:maven/io.github.rysefoxx.inventory/RyseInventory-Plugin@1.6.5.27-DEV?classifier=sources
 - pkg:maven/io.github.rysefoxx.inventory/RyseInventory-Plugin@1.6.5.3-DEV?classifier=sources
 - pkg:maven/io.github.rysefoxx.inventory/RyseInventory-Plugin@1.6.5.4-DEV?classifier=sources
 - pkg:maven/io.github.rysefoxx.inventory/RyseInventory-Plugin@1.6.5.5-DEV?classifier=sources

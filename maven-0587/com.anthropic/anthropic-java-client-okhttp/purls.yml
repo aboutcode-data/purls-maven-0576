@@ -21,3 +21,4 @@
 - pkg:maven/com.anthropic/anthropic-java-client-okhttp@0.9.2?classifier=sources
 - pkg:maven/com.anthropic/anthropic-java-client-okhttp@1.0.0?classifier=sources
 - pkg:maven/com.anthropic/anthropic-java-client-okhttp@1.1.0?classifier=sources
+- pkg:maven/com.anthropic/anthropic-java-client-okhttp@1.2.0?classifier=sources

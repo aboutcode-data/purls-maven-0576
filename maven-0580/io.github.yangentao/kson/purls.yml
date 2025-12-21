@@ -1,0 +1,9 @@
+- pkg:maven/io.github.yangentao/kson@1.0.0?classifier=sources
+- pkg:maven/io.github.yangentao/kson@1.0.1?classifier=sources
+- pkg:maven/io.github.yangentao/kson@1.0.2?classifier=sources
+- pkg:maven/io.github.yangentao/kson@1.1.0?classifier=sources
+- pkg:maven/io.github.yangentao/kson@1.1.1?classifier=sources
+- pkg:maven/io.github.yangentao/kson@1.1.2?classifier=sources
+- pkg:maven/io.github.yangentao/kson@1.1.5?classifier=sources
+- pkg:maven/io.github.yangentao/kson@1.1.6?classifier=sources
+- pkg:maven/io.github.yangentao/kson@1.1.7?classifier=sources

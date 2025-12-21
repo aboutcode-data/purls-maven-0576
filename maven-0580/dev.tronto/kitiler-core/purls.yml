@@ -2,3 +2,4 @@
 - pkg:maven/dev.tronto/kitiler-core@0.2.2?classifier=sources
 - pkg:maven/dev.tronto/kitiler-core@0.3.0-test?classifier=sources
 - pkg:maven/dev.tronto/kitiler-core@0.3.2?classifier=sources
+- pkg:maven/dev.tronto/kitiler-core@0.3.3?classifier=sources

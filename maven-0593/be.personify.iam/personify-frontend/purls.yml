@@ -64,3 +64,5 @@
 - pkg:maven/be.personify.iam/personify-frontend@1.5.2.RELEASE?classifier=sources
 - pkg:maven/be.personify.iam/personify-frontend@1.5.4.RELEASE
 - pkg:maven/be.personify.iam/personify-frontend@1.5.4.RELEASE?classifier=sources
+- pkg:maven/be.personify.iam/personify-frontend@1.5.5.RELEASE
+- pkg:maven/be.personify.iam/personify-frontend@1.5.5.RELEASE?classifier=sources

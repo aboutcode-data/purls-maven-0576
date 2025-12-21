@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm.at.pmmmwh/react-refresh-webpack-plugin@0.5.15?classifier=sources
 - pkg:maven/org.mvnpm.at.pmmmwh/react-refresh-webpack-plugin@0.5.16?classifier=sources
+- pkg:maven/org.mvnpm.at.pmmmwh/react-refresh-webpack-plugin@0.6.0
+- pkg:maven/org.mvnpm.at.pmmmwh/react-refresh-webpack-plugin@0.6.0?classifier=sources

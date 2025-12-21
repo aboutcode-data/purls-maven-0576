@@ -14,3 +14,4 @@
 - pkg:maven/io.github.aliyun-sls/sls-android-network-diagnosis@2.3.0?classifier=sources
 - pkg:maven/io.github.aliyun-sls/sls-android-network-diagnosis@2.3.1-overseas?classifier=sources
 - pkg:maven/io.github.aliyun-sls/sls-android-network-diagnosis@2.3.1?classifier=sources
+- pkg:maven/io.github.aliyun-sls/sls-android-network-diagnosis@2.3.2?classifier=sources

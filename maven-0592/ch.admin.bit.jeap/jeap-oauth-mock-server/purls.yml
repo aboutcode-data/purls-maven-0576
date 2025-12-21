@@ -2,3 +2,4 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-oauth-mock-server@3.2.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-oauth-mock-server@3.3.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-oauth-mock-server@3.4.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-oauth-mock-server@3.5.0?classifier=sources

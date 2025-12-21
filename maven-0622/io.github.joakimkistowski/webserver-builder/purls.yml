@@ -79,6 +79,8 @@
 - pkg:maven/io.github.joakimkistowski/webserver-builder@0.3.39?classifier=sources
 - pkg:maven/io.github.joakimkistowski/webserver-builder@0.3.3?classifier=sources
 - pkg:maven/io.github.joakimkistowski/webserver-builder@0.3.4
+- pkg:maven/io.github.joakimkistowski/webserver-builder@0.3.40
+- pkg:maven/io.github.joakimkistowski/webserver-builder@0.3.40?classifier=sources
 - pkg:maven/io.github.joakimkistowski/webserver-builder@0.3.4?classifier=sources
 - pkg:maven/io.github.joakimkistowski/webserver-builder@0.3.5
 - pkg:maven/io.github.joakimkistowski/webserver-builder@0.3.5?classifier=sources

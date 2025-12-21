@@ -1,1 +1,3 @@
 - pkg:maven/org.mvnpm.at.csstools/css-color-parser@3.0.8?classifier=sources
+- pkg:maven/org.mvnpm.at.csstools/css-color-parser@3.0.9
+- pkg:maven/org.mvnpm.at.csstools/css-color-parser@3.0.9?classifier=sources

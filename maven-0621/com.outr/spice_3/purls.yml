@@ -164,3 +164,5 @@
 - pkg:maven/com.outr/spice_3@0.8.3?classifier=sources
 - pkg:maven/com.outr/spice_3@0.9.0
 - pkg:maven/com.outr/spice_3@0.9.0?classifier=sources
+- pkg:maven/com.outr/spice_3@0.9.1
+- pkg:maven/com.outr/spice_3@0.9.1?classifier=sources

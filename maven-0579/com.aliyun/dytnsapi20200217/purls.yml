@@ -86,3 +86,5 @@
 - pkg:maven/com.aliyun/dytnsapi20200217@2.8.1?classifier=sources
 - pkg:maven/com.aliyun/dytnsapi20200217@2.9.0
 - pkg:maven/com.aliyun/dytnsapi20200217@2.9.0?classifier=sources
+- pkg:maven/com.aliyun/dytnsapi20200217@3.0.0
+- pkg:maven/com.aliyun/dytnsapi20200217@3.0.0?classifier=sources

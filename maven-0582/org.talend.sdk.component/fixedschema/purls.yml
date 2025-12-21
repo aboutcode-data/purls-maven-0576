@@ -6,3 +6,7 @@
 - pkg:maven/org.talend.sdk.component/fixedschema@1.78.1?classifier=sources
 - pkg:maven/org.talend.sdk.component/fixedschema@1.79.0
 - pkg:maven/org.talend.sdk.component/fixedschema@1.79.0?classifier=sources
+- pkg:maven/org.talend.sdk.component/fixedschema@1.80.0
+- pkg:maven/org.talend.sdk.component/fixedschema@1.80.0?classifier=sources
+- pkg:maven/org.talend.sdk.component/fixedschema@1.80.1
+- pkg:maven/org.talend.sdk.component/fixedschema@1.80.1?classifier=sources

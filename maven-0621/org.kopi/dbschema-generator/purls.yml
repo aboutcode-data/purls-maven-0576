@@ -1,1 +1,2 @@
 - pkg:maven/org.kopi/dbschema-generator@1.5.10?classifier=sources
+- pkg:maven/org.kopi/dbschema-generator@1.5.11?classifier=sources

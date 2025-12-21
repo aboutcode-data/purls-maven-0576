@@ -6,3 +6,4 @@
 - pkg:maven/org.webjars.npm/restore-cursor@3.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/restore-cursor@4.0.0
 - pkg:maven/org.webjars.npm/restore-cursor@4.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/restore-cursor@5.1.0

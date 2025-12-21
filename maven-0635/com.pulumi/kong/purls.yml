@@ -4,6 +4,7 @@
 - pkg:maven/com.pulumi/kong@4.5.6?classifier=sources
 - pkg:maven/com.pulumi/kong@4.5.7?classifier=sources
 - pkg:maven/com.pulumi/kong@4.5.8?classifier=sources
+- pkg:maven/com.pulumi/kong@4.5.9?classifier=sources
 - pkg:maven/com.pulumi/kong@4.6.0-alpha.1668657891%2B23aa6df0?classifier=sources
 - pkg:maven/com.pulumi/kong@4.6.0-alpha.1673556127%2Bf0dad607?classifier=sources
 - pkg:maven/com.pulumi/kong@4.6.0-alpha.1677784192%2Bfd0c78f9?classifier=sources

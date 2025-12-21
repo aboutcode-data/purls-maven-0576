@@ -2,3 +2,7 @@
 - pkg:maven/net.alphatab/alphaSkia-android@2.0.120?classifier=sources
 - pkg:maven/net.alphatab/alphaSkia-android@2.1.120?classifier=sources
 - pkg:maven/net.alphatab/alphaSkia-android@2.3.120?classifier=sources
+- pkg:maven/net.alphatab/alphaSkia-android@3.0.135?classifier=sources
+- pkg:maven/net.alphatab/alphaSkia-android@3.1.135?classifier=sources
+- pkg:maven/net.alphatab/alphaSkia-android@3.2.135?classifier=sources
+- pkg:maven/net.alphatab/alphaSkia-android@3.3.135?classifier=sources

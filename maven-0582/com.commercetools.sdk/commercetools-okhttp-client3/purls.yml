@@ -73,6 +73,7 @@
 - pkg:maven/com.commercetools.sdk/commercetools-okhttp-client3@17.7.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-okhttp-client3@17.8.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-okhttp-client3@17.9.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/commercetools-okhttp-client3@18.0.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-okhttp-client3@2.0.0
 - pkg:maven/com.commercetools.sdk/commercetools-okhttp-client3@2.0.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/commercetools-okhttp-client3@2.0.1

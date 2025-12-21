@@ -1,0 +1,4 @@
+- pkg:maven/org.talend.sdk.component/conditionalOutputs@1.80.0
+- pkg:maven/org.talend.sdk.component/conditionalOutputs@1.80.0?classifier=sources
+- pkg:maven/org.talend.sdk.component/conditionalOutputs@1.80.1
+- pkg:maven/org.talend.sdk.component/conditionalOutputs@1.80.1?classifier=sources

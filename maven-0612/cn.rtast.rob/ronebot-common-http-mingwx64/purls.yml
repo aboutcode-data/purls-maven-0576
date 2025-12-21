@@ -1,2 +1,3 @@
 - pkg:maven/cn.rtast.rob/ronebot-common-http-mingwx64@2.9.3?classifier=sources
 - pkg:maven/cn.rtast.rob/ronebot-common-http-mingwx64@3.0.2?classifier=sources
+- pkg:maven/cn.rtast.rob/ronebot-common-http-mingwx64@3.0.3?classifier=sources

@@ -2,6 +2,8 @@
 - pkg:maven/org.mvnpm/type-fest@0.20.2?classifier=sources
 - pkg:maven/org.mvnpm/type-fest@0.21.3?classifier=sources
 - pkg:maven/org.mvnpm/type-fest@0.6.0?classifier=sources
+- pkg:maven/org.mvnpm/type-fest@0.7.1
+- pkg:maven/org.mvnpm/type-fest@0.7.1?classifier=sources
 - pkg:maven/org.mvnpm/type-fest@0.8.1?classifier=sources
 - pkg:maven/org.mvnpm/type-fest@2.19.0?classifier=sources
 - pkg:maven/org.mvnpm/type-fest@3.13.1?classifier=sources
@@ -12,3 +14,9 @@
 - pkg:maven/org.mvnpm/type-fest@4.38.0?classifier=sources
 - pkg:maven/org.mvnpm/type-fest@4.39.0?classifier=sources
 - pkg:maven/org.mvnpm/type-fest@4.39.1?classifier=sources
+- pkg:maven/org.mvnpm/type-fest@4.40.0
+- pkg:maven/org.mvnpm/type-fest@4.40.0?classifier=sources
+- pkg:maven/org.mvnpm/type-fest@4.40.1
+- pkg:maven/org.mvnpm/type-fest@4.40.1?classifier=sources
+- pkg:maven/org.mvnpm/type-fest@4.41.0
+- pkg:maven/org.mvnpm/type-fest@4.41.0?classifier=sources

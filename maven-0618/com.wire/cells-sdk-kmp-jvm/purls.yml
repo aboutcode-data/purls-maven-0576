@@ -12,3 +12,4 @@
 - pkg:maven/com.wire/cells-sdk-kmp-jvm@0.1.1-alpha08.05?classifier=sources
 - pkg:maven/com.wire/cells-sdk-kmp-jvm@0.1.1-alpha08?classifier=sources
 - pkg:maven/com.wire/cells-sdk-kmp-jvm@0.1.1-alpha09?classifier=sources
+- pkg:maven/com.wire/cells-sdk-kmp-jvm@0.1.1-alpha10?classifier=sources

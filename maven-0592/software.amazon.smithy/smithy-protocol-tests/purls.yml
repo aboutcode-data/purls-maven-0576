@@ -9,3 +9,5 @@
 - pkg:maven/software.amazon.smithy/smithy-protocol-tests@1.54.0?classifier=sources
 - pkg:maven/software.amazon.smithy/smithy-protocol-tests@1.55.0?classifier=sources
 - pkg:maven/software.amazon.smithy/smithy-protocol-tests@1.56.0?classifier=sources
+- pkg:maven/software.amazon.smithy/smithy-protocol-tests@1.57.0?classifier=sources
+- pkg:maven/software.amazon.smithy/smithy-protocol-tests@1.57.1?classifier=sources

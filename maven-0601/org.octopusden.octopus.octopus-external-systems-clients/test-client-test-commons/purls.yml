@@ -51,3 +51,4 @@
 - pkg:maven/org.octopusden.octopus.octopus-external-systems-clients/test-client-test-commons@2.0.63?classifier=sources
 - pkg:maven/org.octopusden.octopus.octopus-external-systems-clients/test-client-test-commons@2.0.64?classifier=sources
 - pkg:maven/org.octopusden.octopus.octopus-external-systems-clients/test-client-test-commons@2.0.65?classifier=sources
+- pkg:maven/org.octopusden.octopus.octopus-external-systems-clients/test-client-test-commons@2.0.66?classifier=sources

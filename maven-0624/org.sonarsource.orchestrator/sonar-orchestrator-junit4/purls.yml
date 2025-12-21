@@ -15,3 +15,6 @@
 - pkg:maven/org.sonarsource.orchestrator/sonar-orchestrator-junit4@5.3.0.2465?classifier=sources
 - pkg:maven/org.sonarsource.orchestrator/sonar-orchestrator-junit4@5.4.0.2489?classifier=sources
 - pkg:maven/org.sonarsource.orchestrator/sonar-orchestrator-junit4@5.5.0.2535?classifier=sources
+- pkg:maven/org.sonarsource.orchestrator/sonar-orchestrator-junit4@5.6.0.2578?classifier=sources
+- pkg:maven/org.sonarsource.orchestrator/sonar-orchestrator-junit4@5.6.1.2597?classifier=sources
+- pkg:maven/org.sonarsource.orchestrator/sonar-orchestrator-junit4@5.6.2.2625?classifier=sources

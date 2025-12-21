@@ -1,2 +1,4 @@
 - pkg:maven/io.github.mocreates/jmh@2.0-RELEASE
 - pkg:maven/io.github.mocreates/jmh@2.0-RELEASE?classifier=sources
+- pkg:maven/io.github.mocreates/jmh@3.0.0-RELEASE?classifier=sources
+- pkg:maven/io.github.mocreates/jmh@3.0.1-RELEASE?classifier=sources

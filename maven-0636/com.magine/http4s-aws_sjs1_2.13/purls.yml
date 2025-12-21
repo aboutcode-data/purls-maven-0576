@@ -6,3 +6,7 @@
 - pkg:maven/com.magine/http4s-aws_sjs1_2.13@6.0.0-2-6aa4710
 - pkg:maven/com.magine/http4s-aws_sjs1_2.13@6.0.0-2-6aa4710?classifier=sources
 - pkg:maven/com.magine/http4s-aws_sjs1_2.13@6.0.0?classifier=sources
+- pkg:maven/com.magine/http4s-aws_sjs1_2.13@6.2-1d7a94b
+- pkg:maven/com.magine/http4s-aws_sjs1_2.13@6.2-1d7a94b?classifier=sources
+- pkg:maven/com.magine/http4s-aws_sjs1_2.13@6.2-880186a
+- pkg:maven/com.magine/http4s-aws_sjs1_2.13@6.2-880186a?classifier=sources

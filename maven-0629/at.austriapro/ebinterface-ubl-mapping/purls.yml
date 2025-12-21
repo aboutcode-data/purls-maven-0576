@@ -62,3 +62,4 @@
 - pkg:maven/at.austriapro/ebinterface-ubl-mapping@5.2.6?classifier=sources
 - pkg:maven/at.austriapro/ebinterface-ubl-mapping@5.2.7
 - pkg:maven/at.austriapro/ebinterface-ubl-mapping@5.2.7?classifier=sources
+- pkg:maven/at.austriapro/ebinterface-ubl-mapping@5.3.0?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/io.ebean/blackbox-tests@10.0?classifier=sources

@@ -1,1 +1,4 @@
+- pkg:maven/ovh.plrapps/mapcompose-mp-wasmJs@0.10.0-beta01?classifier=sources
+- pkg:maven/ovh.plrapps/mapcompose-mp-wasmJs@0.10.0-beta02?classifier=sources
+- pkg:maven/ovh.plrapps/mapcompose-mp-wasmJs@0.10.0?classifier=sources
 - pkg:maven/ovh.plrapps/mapcompose-mp-wasmJs@0.9.4?classifier=sources

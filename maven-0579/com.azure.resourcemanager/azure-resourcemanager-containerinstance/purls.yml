@@ -70,6 +70,7 @@
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-containerinstance@2.49.0?classifier=sources
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-containerinstance@2.5.0
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-containerinstance@2.5.0?classifier=sources
+- pkg:maven/com.azure.resourcemanager/azure-resourcemanager-containerinstance@2.50.0?classifier=sources
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-containerinstance@2.6.0
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-containerinstance@2.6.0?classifier=sources
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-containerinstance@2.7.0

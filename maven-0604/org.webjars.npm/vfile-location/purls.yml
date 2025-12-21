@@ -11,3 +11,4 @@
 - pkg:maven/org.webjars.npm/vfile-location@3.0.1
 - pkg:maven/org.webjars.npm/vfile-location@3.0.1?classifier=sources
 - pkg:maven/org.webjars.npm/vfile-location@4.1.0
+- pkg:maven/org.webjars.npm/vfile-location@5.0.3

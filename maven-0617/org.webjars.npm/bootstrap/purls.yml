@@ -122,3 +122,4 @@
 - pkg:maven/org.webjars.npm/bootstrap@5.3.3?classifier=sources
 - pkg:maven/org.webjars.npm/bootstrap@5.3.4
 - pkg:maven/org.webjars.npm/bootstrap@5.3.5
+- pkg:maven/org.webjars.npm/bootstrap@5.3.6

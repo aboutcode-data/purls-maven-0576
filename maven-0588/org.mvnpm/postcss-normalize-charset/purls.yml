@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm/postcss-normalize-charset@1.1.1?classifier=sources
 - pkg:maven/org.mvnpm/postcss-normalize-charset@7.0.0?classifier=sources
+- pkg:maven/org.mvnpm/postcss-normalize-charset@7.0.1
+- pkg:maven/org.mvnpm/postcss-normalize-charset@7.0.1?classifier=sources

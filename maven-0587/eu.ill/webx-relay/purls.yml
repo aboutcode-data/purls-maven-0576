@@ -9,3 +9,6 @@
 - pkg:maven/eu.ill/webx-relay@0.8.0?classifier=sources
 - pkg:maven/eu.ill/webx-relay@1.0.0?classifier=sources
 - pkg:maven/eu.ill/webx-relay@1.1.0?classifier=sources
+- pkg:maven/eu.ill/webx-relay@1.2.0?classifier=sources
+- pkg:maven/eu.ill/webx-relay@1.3.0?classifier=sources
+- pkg:maven/eu.ill/webx-relay@1.3.1?classifier=sources

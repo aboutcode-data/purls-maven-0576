@@ -1,1 +1,3 @@
 - pkg:maven/org.mvnpm/redoc@2.4.0?classifier=sources
+- pkg:maven/org.mvnpm/redoc@2.5.0
+- pkg:maven/org.mvnpm/redoc@2.5.0?classifier=sources

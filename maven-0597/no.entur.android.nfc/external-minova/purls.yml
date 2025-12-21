@@ -25,3 +25,4 @@
 - pkg:maven/no.entur.android.nfc/external-minova@2.0.5?classifier=sources
 - pkg:maven/no.entur.android.nfc/external-minova@2.0.6?classifier=sources
 - pkg:maven/no.entur.android.nfc/external-minova@2.0.7?classifier=sources
+- pkg:maven/no.entur.android.nfc/external-minova@2.0.9?classifier=sources

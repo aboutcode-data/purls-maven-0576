@@ -30,3 +30,7 @@
 - pkg:maven/fr.maif/wasm4s_2.12@3.7.0?classifier=sources
 - pkg:maven/fr.maif/wasm4s_2.12@3.8.0
 - pkg:maven/fr.maif/wasm4s_2.12@3.8.0?classifier=sources
+- pkg:maven/fr.maif/wasm4s_2.12@4.0.0
+- pkg:maven/fr.maif/wasm4s_2.12@4.0.0?classifier=sources
+- pkg:maven/fr.maif/wasm4s_2.12@dev
+- pkg:maven/fr.maif/wasm4s_2.12@dev?classifier=sources

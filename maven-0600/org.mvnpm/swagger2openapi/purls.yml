@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/swagger2openapi@7.0.8
+- pkg:maven/org.mvnpm/swagger2openapi@7.0.8?classifier=sources

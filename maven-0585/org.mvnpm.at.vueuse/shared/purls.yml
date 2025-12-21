@@ -1,0 +1,4 @@
+- pkg:maven/org.mvnpm.at.vueuse/shared@10.11.1
+- pkg:maven/org.mvnpm.at.vueuse/shared@10.11.1?classifier=sources
+- pkg:maven/org.mvnpm.at.vueuse/shared@11.3.0
+- pkg:maven/org.mvnpm.at.vueuse/shared@11.3.0?classifier=sources

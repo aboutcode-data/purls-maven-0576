@@ -1,1 +1,2 @@
 - pkg:maven/org.webjars.npm/sigstore__protobuf-specs@0.3.2
+- pkg:maven/org.webjars.npm/sigstore__protobuf-specs@0.4.1

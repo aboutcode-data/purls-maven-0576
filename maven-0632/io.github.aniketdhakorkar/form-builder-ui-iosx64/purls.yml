@@ -10,6 +10,9 @@
 - pkg:maven/io.github.aniketdhakorkar/form-builder-ui-iosx64@1.0.0-beta-09?classifier=sources
 - pkg:maven/io.github.aniketdhakorkar/form-builder-ui-iosx64@1.0.0-beta-100?classifier=sources
 - pkg:maven/io.github.aniketdhakorkar/form-builder-ui-iosx64@1.0.0-beta-101?classifier=sources
+- pkg:maven/io.github.aniketdhakorkar/form-builder-ui-iosx64@1.0.0-beta-102?classifier=sources
+- pkg:maven/io.github.aniketdhakorkar/form-builder-ui-iosx64@1.0.0-beta-103?classifier=sources
+- pkg:maven/io.github.aniketdhakorkar/form-builder-ui-iosx64@1.0.0-beta-104?classifier=sources
 - pkg:maven/io.github.aniketdhakorkar/form-builder-ui-iosx64@1.0.0-beta-10?classifier=sources
 - pkg:maven/io.github.aniketdhakorkar/form-builder-ui-iosx64@1.0.0-beta-11?classifier=sources
 - pkg:maven/io.github.aniketdhakorkar/form-builder-ui-iosx64@1.0.0-beta-12?classifier=sources
