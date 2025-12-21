@@ -149,6 +149,7 @@
 - pkg:maven/me.proton.core/account-manager-domain@34.3.0?classifier=sources
 - pkg:maven/me.proton.core/account-manager-domain@34.4.0?classifier=sources
 - pkg:maven/me.proton.core/account-manager-domain@35.0.0?classifier=sources
+- pkg:maven/me.proton.core/account-manager-domain@35.1.0?classifier=sources
 - pkg:maven/me.proton.core/account-manager-domain@4.0.0?classifier=sources
 - pkg:maven/me.proton.core/account-manager-domain@4.1.0?classifier=sources
 - pkg:maven/me.proton.core/account-manager-domain@5.0.0?classifier=sources

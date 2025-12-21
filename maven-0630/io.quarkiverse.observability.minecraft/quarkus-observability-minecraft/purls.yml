@@ -1,1 +1,2 @@
 - pkg:maven/io.quarkiverse.observability.minecraft/quarkus-observability-minecraft@0.8.0?classifier=sources
+- pkg:maven/io.quarkiverse.observability.minecraft/quarkus-observability-minecraft@0.9.0?classifier=sources

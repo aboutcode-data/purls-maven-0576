@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.csstools/postcss-progressive-custom-properties@3.3.0
+- pkg:maven/org.mvnpm.at.csstools/postcss-progressive-custom-properties@3.3.0?classifier=sources

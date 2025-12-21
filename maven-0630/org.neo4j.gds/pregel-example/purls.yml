@@ -29,6 +29,8 @@
 - pkg:maven/org.neo4j.gds/pregel-example@2.21.0?classifier=sources
 - pkg:maven/org.neo4j.gds/pregel-example@2.22.0
 - pkg:maven/org.neo4j.gds/pregel-example@2.22.0?classifier=sources
+- pkg:maven/org.neo4j.gds/pregel-example@2.23.0
+- pkg:maven/org.neo4j.gds/pregel-example@2.23.0?classifier=sources
 - pkg:maven/org.neo4j.gds/pregel-example@2.3.0-alpha03?classifier=sources
 - pkg:maven/org.neo4j.gds/pregel-example@2.3.0-alpha04?classifier=sources
 - pkg:maven/org.neo4j.gds/pregel-example@2.3.0-alpha05?classifier=sources

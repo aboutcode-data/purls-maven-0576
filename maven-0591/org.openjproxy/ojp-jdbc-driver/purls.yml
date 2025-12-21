@@ -1,1 +1,2 @@
 - pkg:maven/org.openjproxy/ojp-jdbc-driver@0.1.1-beta?classifier=sources
+- pkg:maven/org.openjproxy/ojp-jdbc-driver@0.2.0-beta?classifier=sources

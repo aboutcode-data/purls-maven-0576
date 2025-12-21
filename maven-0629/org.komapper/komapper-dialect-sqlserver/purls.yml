@@ -48,4 +48,6 @@
 - pkg:maven/org.komapper/komapper-dialect-sqlserver@5.3.0?classifier=sources
 - pkg:maven/org.komapper/komapper-dialect-sqlserver@5.4.0?classifier=sources
 - pkg:maven/org.komapper/komapper-dialect-sqlserver@5.5.0?classifier=sources
+- pkg:maven/org.komapper/komapper-dialect-sqlserver@5.6.0?classifier=sources
+- pkg:maven/org.komapper/komapper-dialect-sqlserver@5.7.0?classifier=sources
 - pkg:maven/org.komapper/komapper-dialect-sqlserver@RELEASE_VERSION?classifier=sources

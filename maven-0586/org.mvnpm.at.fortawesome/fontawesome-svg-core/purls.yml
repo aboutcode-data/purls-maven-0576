@@ -2,3 +2,5 @@
 - pkg:maven/org.mvnpm.at.fortawesome/fontawesome-svg-core@6.5.2?classifier=sources
 - pkg:maven/org.mvnpm.at.fortawesome/fontawesome-svg-core@6.6.0?classifier=sources
 - pkg:maven/org.mvnpm.at.fortawesome/fontawesome-svg-core@6.7.2?classifier=sources
+- pkg:maven/org.mvnpm.at.fortawesome/fontawesome-svg-core@7.1.0
+- pkg:maven/org.mvnpm.at.fortawesome/fontawesome-svg-core@7.1.0?classifier=sources

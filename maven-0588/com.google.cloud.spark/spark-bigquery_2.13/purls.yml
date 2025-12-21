@@ -66,3 +66,7 @@
 - pkg:maven/com.google.cloud.spark/spark-bigquery_2.13@0.42.3?classifier=sources
 - pkg:maven/com.google.cloud.spark/spark-bigquery_2.13@0.42.4
 - pkg:maven/com.google.cloud.spark/spark-bigquery_2.13@0.42.4?classifier=sources
+- pkg:maven/com.google.cloud.spark/spark-bigquery_2.13@0.43.0
+- pkg:maven/com.google.cloud.spark/spark-bigquery_2.13@0.43.0?classifier=sources
+- pkg:maven/com.google.cloud.spark/spark-bigquery_2.13@0.43.1
+- pkg:maven/com.google.cloud.spark/spark-bigquery_2.13@0.43.1?classifier=sources

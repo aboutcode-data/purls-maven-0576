@@ -1,0 +1,6 @@
+- pkg:maven/com.github.sbt.junit/sbt-jupiter-interface_sbt2_3@0.15.2
+- pkg:maven/com.github.sbt.junit/sbt-jupiter-interface_sbt2_3@0.15.2?classifier=sources
+- pkg:maven/com.github.sbt.junit/sbt-jupiter-interface_sbt2_3@0.16.0
+- pkg:maven/com.github.sbt.junit/sbt-jupiter-interface_sbt2_3@0.16.0?classifier=sources
+- pkg:maven/com.github.sbt.junit/sbt-jupiter-interface_sbt2_3@0.17.0
+- pkg:maven/com.github.sbt.junit/sbt-jupiter-interface_sbt2_3@0.17.0?classifier=sources

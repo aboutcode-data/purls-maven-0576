@@ -39,3 +39,4 @@
 - pkg:maven/com.facebook.presto/presto-analyzer@0.293
 - pkg:maven/com.facebook.presto/presto-analyzer@0.293?classifier=sources
 - pkg:maven/com.facebook.presto/presto-analyzer@0.294?classifier=sources
+- pkg:maven/com.facebook.presto/presto-analyzer@0.295?classifier=sources

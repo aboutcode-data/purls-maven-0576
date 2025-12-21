@@ -1,2 +1,3 @@
 - pkg:maven/io.kotest/kotest-assertions-core-wasm-wasi@6.0.2?classifier=sources
 - pkg:maven/io.kotest/kotest-assertions-core-wasm-wasi@6.0.3?classifier=sources
+- pkg:maven/io.kotest/kotest-assertions-core-wasm-wasi@6.0.4?classifier=sources

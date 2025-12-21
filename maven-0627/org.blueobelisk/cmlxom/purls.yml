@@ -15,6 +15,7 @@
 - pkg:maven/org.blueobelisk/cmlxom@4.11?classifier=sources
 - pkg:maven/org.blueobelisk/cmlxom@4.12?classifier=sources
 - pkg:maven/org.blueobelisk/cmlxom@4.13?classifier=sources
+- pkg:maven/org.blueobelisk/cmlxom@4.14?classifier=sources
 - pkg:maven/org.blueobelisk/cmlxom@4.1?classifier=sources
 - pkg:maven/org.blueobelisk/cmlxom@4.2
 - pkg:maven/org.blueobelisk/cmlxom@4.2?classifier=sources

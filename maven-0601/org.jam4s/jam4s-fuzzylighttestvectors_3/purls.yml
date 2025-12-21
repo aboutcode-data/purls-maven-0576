@@ -1,0 +1,2 @@
+- pkg:maven/org.jam4s/jam4s-fuzzylighttestvectors_3@0.7.1-2
+- pkg:maven/org.jam4s/jam4s-fuzzylighttestvectors_3@0.7.1-2?classifier=sources

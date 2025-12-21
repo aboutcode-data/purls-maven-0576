@@ -212,6 +212,10 @@
 - pkg:maven/com.google.apis/google-api-services-documentai@v1-rev20250922-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-documentai@v1-rev20250929-2.0.0
 - pkg:maven/com.google.apis/google-api-services-documentai@v1-rev20250929-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-documentai@v1-rev20251007-2.0.0
+- pkg:maven/com.google.apis/google-api-services-documentai@v1-rev20251007-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-documentai@v1-rev20251013-2.0.0
+- pkg:maven/com.google.apis/google-api-services-documentai@v1-rev20251013-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-documentai@v1beta2-rev20200612-1.30.9
 - pkg:maven/com.google.apis/google-api-services-documentai@v1beta2-rev20200612-1.30.9?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-documentai@v1beta2-rev20200619-1.30.10
@@ -642,3 +646,9 @@
 - pkg:maven/com.google.apis/google-api-services-documentai@v1beta3-rev20250922-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-documentai@v1beta3-rev20250929-2.0.0
 - pkg:maven/com.google.apis/google-api-services-documentai@v1beta3-rev20250929-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-documentai@v1beta3-rev20251007-2.0.0
+- pkg:maven/com.google.apis/google-api-services-documentai@v1beta3-rev20251007-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-documentai@v1beta3-rev20251013-2.0.0
+- pkg:maven/com.google.apis/google-api-services-documentai@v1beta3-rev20251013-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-documentai@v1beta3-rev20251020-2.0.0
+- pkg:maven/com.google.apis/google-api-services-documentai@v1beta3-rev20251020-2.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/hu.blackbelt.bundles.xmlbeans/org.apache.xmlbeans@5.3.0_1
+- pkg:maven/hu.blackbelt.bundles.xmlbeans/org.apache.xmlbeans@5.3.0_1?classifier=sources

@@ -1,1 +1,2 @@
+- pkg:maven/com.alibaba.cloudapp/spring-boot-starter-cloudapp@1.0.3.AS2.RELEASE?classifier=sources
 - pkg:maven/com.alibaba.cloudapp/spring-boot-starter-cloudapp@1.0.3?classifier=sources

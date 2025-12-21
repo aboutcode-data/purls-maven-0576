@@ -8,5 +8,6 @@
 - pkg:maven/com.github.yujiaao.spring2ts/spring2ts-maven-plugin@1.1.16?classifier=sources
 - pkg:maven/com.github.yujiaao.spring2ts/spring2ts-maven-plugin@1.1.21
 - pkg:maven/com.github.yujiaao.spring2ts/spring2ts-maven-plugin@1.1.21?classifier=sources
+- pkg:maven/com.github.yujiaao.spring2ts/spring2ts-maven-plugin@1.1.24?classifier=sources
 - pkg:maven/com.github.yujiaao.spring2ts/spring2ts-maven-plugin@1.1.9
 - pkg:maven/com.github.yujiaao.spring2ts/spring2ts-maven-plugin@1.1.9?classifier=sources

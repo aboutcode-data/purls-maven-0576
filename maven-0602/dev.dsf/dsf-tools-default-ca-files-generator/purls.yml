@@ -3,3 +3,4 @@
 - pkg:maven/dev.dsf/dsf-tools-default-ca-files-generator@1.7.1
 - pkg:maven/dev.dsf/dsf-tools-default-ca-files-generator@1.7.1?classifier=sources
 - pkg:maven/dev.dsf/dsf-tools-default-ca-files-generator@1.8.0?classifier=sources
+- pkg:maven/dev.dsf/dsf-tools-default-ca-files-generator@1.9.0?classifier=sources

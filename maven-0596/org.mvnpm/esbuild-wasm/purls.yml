@@ -1,6 +1,10 @@
 - pkg:maven/org.mvnpm/esbuild-wasm@0.14.38?classifier=sources
 - pkg:maven/org.mvnpm/esbuild-wasm@0.25.10
 - pkg:maven/org.mvnpm/esbuild-wasm@0.25.10?classifier=sources
+- pkg:maven/org.mvnpm/esbuild-wasm@0.25.11
+- pkg:maven/org.mvnpm/esbuild-wasm@0.25.11?classifier=sources
+- pkg:maven/org.mvnpm/esbuild-wasm@0.25.12
+- pkg:maven/org.mvnpm/esbuild-wasm@0.25.12?classifier=sources
 - pkg:maven/org.mvnpm/esbuild-wasm@0.25.1?classifier=sources
 - pkg:maven/org.mvnpm/esbuild-wasm@0.25.2?classifier=sources
 - pkg:maven/org.mvnpm/esbuild-wasm@0.25.3
@@ -17,3 +21,5 @@
 - pkg:maven/org.mvnpm/esbuild-wasm@0.25.8?classifier=sources
 - pkg:maven/org.mvnpm/esbuild-wasm@0.25.9
 - pkg:maven/org.mvnpm/esbuild-wasm@0.25.9?classifier=sources
+- pkg:maven/org.mvnpm/esbuild-wasm@0.26.0
+- pkg:maven/org.mvnpm/esbuild-wasm@0.26.0?classifier=sources

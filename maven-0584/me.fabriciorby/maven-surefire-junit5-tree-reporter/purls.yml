@@ -18,3 +18,5 @@
 - pkg:maven/me.fabriciorby/maven-surefire-junit5-tree-reporter@1.4.0?classifier=sources
 - pkg:maven/me.fabriciorby/maven-surefire-junit5-tree-reporter@1.5.0
 - pkg:maven/me.fabriciorby/maven-surefire-junit5-tree-reporter@1.5.0?classifier=sources
+- pkg:maven/me.fabriciorby/maven-surefire-junit5-tree-reporter@1.5.1
+- pkg:maven/me.fabriciorby/maven-surefire-junit5-tree-reporter@1.5.1?classifier=sources

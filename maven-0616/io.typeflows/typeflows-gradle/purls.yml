@@ -18,6 +18,8 @@
 - pkg:maven/io.typeflows/typeflows-gradle@0.27.0-beta?classifier=sources
 - pkg:maven/io.typeflows/typeflows-gradle@0.28.0-beta?classifier=sources
 - pkg:maven/io.typeflows/typeflows-gradle@0.29.0-beta?classifier=sources
+- pkg:maven/io.typeflows/typeflows-gradle@0.30.0-beta?classifier=sources
+- pkg:maven/io.typeflows/typeflows-gradle@0.31.0-beta?classifier=sources
 - pkg:maven/io.typeflows/typeflows-gradle@0.7.0-beta?classifier=sources
 - pkg:maven/io.typeflows/typeflows-gradle@0.8.0-beta?classifier=sources
 - pkg:maven/io.typeflows/typeflows-gradle@0.9.0-beta?classifier=sources

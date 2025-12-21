@@ -76,3 +76,6 @@
 - pkg:maven/com.google.devtools.ksp/symbol-processing-aa-embeddable@2.2.20-Beta2-2.0.2?classifier=sources
 - pkg:maven/com.google.devtools.ksp/symbol-processing-aa-embeddable@2.2.20-RC-2.0.2?classifier=sources
 - pkg:maven/com.google.devtools.ksp/symbol-processing-aa-embeddable@2.2.20-RC2-2.0.2?classifier=sources
+- pkg:maven/com.google.devtools.ksp/symbol-processing-aa-embeddable@2.2.21-RC-2.0.4?classifier=sources
+- pkg:maven/com.google.devtools.ksp/symbol-processing-aa-embeddable@2.2.21-RC2-2.0.4?classifier=sources
+- pkg:maven/com.google.devtools.ksp/symbol-processing-aa-embeddable@2.3.0?classifier=sources

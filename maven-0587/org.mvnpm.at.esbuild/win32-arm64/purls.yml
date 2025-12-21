@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.esbuild/win32-arm64@0.25.11
+- pkg:maven/org.mvnpm.at.esbuild/win32-arm64@0.25.11?classifier=sources

@@ -1,1 +1,4 @@
 - pkg:maven/io.github.thearchitect123/appInsights-watchosdevicearm64@1.1.6?classifier=sources
+- pkg:maven/io.github.thearchitect123/appInsights-watchosdevicearm64@1.1.7?classifier=sources
+- pkg:maven/io.github.thearchitect123/appInsights-watchosdevicearm64@1.1.8?classifier=sources
+- pkg:maven/io.github.thearchitect123/appInsights-watchosdevicearm64@1.1.9?classifier=sources

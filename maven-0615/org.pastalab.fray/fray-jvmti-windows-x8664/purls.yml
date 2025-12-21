@@ -4,3 +4,5 @@
 - pkg:maven/org.pastalab.fray/fray-jvmti-windows-x8664@0.6.2?classifier=sources
 - pkg:maven/org.pastalab.fray/fray-jvmti-windows-x8664@0.6.3?classifier=sources
 - pkg:maven/org.pastalab.fray/fray-jvmti-windows-x8664@0.6.4?classifier=sources
+- pkg:maven/org.pastalab.fray/fray-jvmti-windows-x8664@0.6.8?classifier=sources
+- pkg:maven/org.pastalab.fray/fray-jvmti-windows-x8664@0.6.9?classifier=sources

@@ -26,3 +26,7 @@
 - pkg:maven/dev.soundness/anticipation-gfx@0.42.0?classifier=sources
 - pkg:maven/dev.soundness/anticipation-gfx@0.43.0
 - pkg:maven/dev.soundness/anticipation-gfx@0.43.0?classifier=sources
+- pkg:maven/dev.soundness/anticipation-gfx@0.44.0
+- pkg:maven/dev.soundness/anticipation-gfx@0.44.0?classifier=sources
+- pkg:maven/dev.soundness/anticipation-gfx@0.45.0
+- pkg:maven/dev.soundness/anticipation-gfx@0.45.0?classifier=sources

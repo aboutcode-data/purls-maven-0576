@@ -1,1 +1,2 @@
 - pkg:maven/dev.rafandoo/cup-http@0.3.0?classifier=sources
+- pkg:maven/dev.rafandoo/cup-http@1.0.0?classifier=sources

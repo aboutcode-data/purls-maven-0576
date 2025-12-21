@@ -6,6 +6,8 @@
 - pkg:maven/org.mvnpm/baseline-browser-mapping@2.8.13?classifier=sources
 - pkg:maven/org.mvnpm/baseline-browser-mapping@2.8.16
 - pkg:maven/org.mvnpm/baseline-browser-mapping@2.8.16?classifier=sources
+- pkg:maven/org.mvnpm/baseline-browser-mapping@2.8.19
+- pkg:maven/org.mvnpm/baseline-browser-mapping@2.8.19?classifier=sources
 - pkg:maven/org.mvnpm/baseline-browser-mapping@2.8.2
 - pkg:maven/org.mvnpm/baseline-browser-mapping@2.8.2?classifier=sources
 - pkg:maven/org.mvnpm/baseline-browser-mapping@2.8.4

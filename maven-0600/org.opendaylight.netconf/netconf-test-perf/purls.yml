@@ -13,6 +13,7 @@
 - pkg:maven/org.opendaylight.netconf/netconf-test-perf@1.13.6?classifier=sources
 - pkg:maven/org.opendaylight.netconf/netconf-test-perf@1.13.7?classifier=sources
 - pkg:maven/org.opendaylight.netconf/netconf-test-perf@1.13.8?classifier=sources
+- pkg:maven/org.opendaylight.netconf/netconf-test-perf@10.0.0?classifier=sources
 - pkg:maven/org.opendaylight.netconf/netconf-test-perf@2.0.0
 - pkg:maven/org.opendaylight.netconf/netconf-test-perf@2.0.0?classifier=sources
 - pkg:maven/org.opendaylight.netconf/netconf-test-perf@2.0.1

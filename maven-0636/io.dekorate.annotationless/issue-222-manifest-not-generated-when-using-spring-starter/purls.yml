@@ -1,1 +1,2 @@
 - pkg:maven/io.dekorate.annotationless/issue-222-manifest-not-generated-when-using-spring-starter@4.1.6?classifier=sources
+- pkg:maven/io.dekorate.annotationless/issue-222-manifest-not-generated-when-using-spring-starter@4.1.7?classifier=sources

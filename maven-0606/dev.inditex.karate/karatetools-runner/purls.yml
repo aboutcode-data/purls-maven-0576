@@ -1,3 +1,4 @@
 - pkg:maven/dev.inditex.karate/karatetools-runner@4.0.0?classifier=sources
 - pkg:maven/dev.inditex.karate/karatetools-runner@5.0.0?classifier=sources
 - pkg:maven/dev.inditex.karate/karatetools-runner@5.0.1?classifier=sources
+- pkg:maven/dev.inditex.karate/karatetools-runner@5.1.0?classifier=sources

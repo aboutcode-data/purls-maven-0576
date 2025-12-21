@@ -1,1 +1,2 @@
+- pkg:maven/top.osjf.filewatch/file-watch-application-startup@3.0.1-GA?classifier=sources
 - pkg:maven/top.osjf.filewatch/file-watch-application-startup@3.0.1-beat?classifier=sources

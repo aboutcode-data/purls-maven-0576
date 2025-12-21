@@ -127,6 +127,7 @@
 - pkg:maven/com.infomaximum/platform@0.1.34p2?classifier=sources
 - pkg:maven/com.infomaximum/platform@0.1.34p3?classifier=sources
 - pkg:maven/com.infomaximum/platform@0.1.34p4?classifier=sources
+- pkg:maven/com.infomaximum/platform@0.1.34p5?classifier=sources
 - pkg:maven/com.infomaximum/platform@0.1.3?classifier=sources
 - pkg:maven/com.infomaximum/platform@0.1.4?classifier=sources
 - pkg:maven/com.infomaximum/platform@0.1.4f1?classifier=sources
@@ -191,3 +192,4 @@
 - pkg:maven/com.infomaximum/platform@0.2.2p4?classifier=sources
 - pkg:maven/com.infomaximum/platform@0.2.2p5?classifier=sources
 - pkg:maven/com.infomaximum/platform@0.2.2p6?classifier=sources
+- pkg:maven/com.infomaximum/platform@0.2.2p7?classifier=sources

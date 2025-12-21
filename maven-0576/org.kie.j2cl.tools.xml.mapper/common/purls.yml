@@ -1,3 +1,5 @@
+- pkg:maven/org.kie.j2cl.tools.xml.mapper/common@0.10
+- pkg:maven/org.kie.j2cl.tools.xml.mapper/common@0.10?classifier=sources
 - pkg:maven/org.kie.j2cl.tools.xml.mapper/common@0.7?classifier=sources
 - pkg:maven/org.kie.j2cl.tools.xml.mapper/common@0.8?classifier=sources
 - pkg:maven/org.kie.j2cl.tools.xml.mapper/common@0.9

@@ -18,3 +18,5 @@
 - pkg:maven/com.google.apis/google-api-services-businessprofileperformance@v1-rev20230607-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-businessprofileperformance@v1-rev20241002-2.0.0
 - pkg:maven/com.google.apis/google-api-services-businessprofileperformance@v1-rev20241002-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-businessprofileperformance@v1-rev20251026-2.0.0
+- pkg:maven/com.google.apis/google-api-services-businessprofileperformance@v1-rev20251026-2.0.0?classifier=sources

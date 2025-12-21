@@ -1,1 +1,2 @@
 - pkg:maven/org.extism.sdk/http-config-android@0.2.0?classifier=sources
+- pkg:maven/org.extism.sdk/http-config-android@0.3.0?classifier=sources

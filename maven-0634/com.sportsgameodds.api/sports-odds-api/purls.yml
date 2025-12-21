@@ -1,1 +1,2 @@
 - pkg:maven/com.sportsgameodds.api/sports-odds-api@1.1.0?classifier=sources
+- pkg:maven/com.sportsgameodds.api/sports-odds-api@1.2.0?classifier=sources

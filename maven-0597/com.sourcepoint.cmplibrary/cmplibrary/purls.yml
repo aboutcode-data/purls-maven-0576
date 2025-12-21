@@ -78,6 +78,7 @@
 - pkg:maven/com.sourcepoint.cmplibrary/cmplibrary@7.15.7-beta.2?classifier=sources
 - pkg:maven/com.sourcepoint.cmplibrary/cmplibrary@7.15.7?classifier=sources
 - pkg:maven/com.sourcepoint.cmplibrary/cmplibrary@7.15.8?classifier=sources
+- pkg:maven/com.sourcepoint.cmplibrary/cmplibrary@7.15.9?classifier=sources
 - pkg:maven/com.sourcepoint.cmplibrary/cmplibrary@7.2.0?classifier=sources
 - pkg:maven/com.sourcepoint.cmplibrary/cmplibrary@7.2.1?classifier=sources
 - pkg:maven/com.sourcepoint.cmplibrary/cmplibrary@7.2.2?classifier=sources

@@ -117,3 +117,9 @@
 - pkg:maven/io.moderne/moderne-dx-j@1.0.3487?classifier=sources
 - pkg:maven/io.moderne/moderne-dx-j@1.0.3488?classifier=sources
 - pkg:maven/io.moderne/moderne-dx-j@1.0.3490?classifier=sources
+- pkg:maven/io.moderne/moderne-dx-j@1.0.3491?classifier=sources
+- pkg:maven/io.moderne/moderne-dx-j@1.0.3492?classifier=sources
+- pkg:maven/io.moderne/moderne-dx-j@1.0.3493?classifier=sources
+- pkg:maven/io.moderne/moderne-dx-j@1.0.3494?classifier=sources
+- pkg:maven/io.moderne/moderne-dx-j@1.0.3500?classifier=sources
+- pkg:maven/io.moderne/moderne-dx-j@1.0.3501?classifier=sources

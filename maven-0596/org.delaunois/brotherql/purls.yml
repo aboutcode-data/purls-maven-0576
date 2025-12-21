@@ -3,4 +3,5 @@
 - pkg:maven/org.delaunois/brotherql@1.2.0?classifier=sources
 - pkg:maven/org.delaunois/brotherql@1.3.0?classifier=sources
 - pkg:maven/org.delaunois/brotherql@1.4.0?classifier=sources
+- pkg:maven/org.delaunois/brotherql@1.5.0?classifier=sources
 - pkg:maven/org.delaunois/brotherql@v1.0.0?classifier=sources

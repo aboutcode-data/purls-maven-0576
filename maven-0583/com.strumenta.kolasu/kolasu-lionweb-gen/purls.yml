@@ -69,3 +69,5 @@
 - pkg:maven/com.strumenta.kolasu/kolasu-lionweb-gen@1.5.92?classifier=sources
 - pkg:maven/com.strumenta.kolasu/kolasu-lionweb-gen@1.5.93?classifier=sources
 - pkg:maven/com.strumenta.kolasu/kolasu-lionweb-gen@1.5.94?classifier=sources
+- pkg:maven/com.strumenta.kolasu/kolasu-lionweb-gen@1.5.95?classifier=sources
+- pkg:maven/com.strumenta.kolasu/kolasu-lionweb-gen@1.5.96?classifier=sources

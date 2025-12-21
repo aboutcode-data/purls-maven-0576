@@ -1,1 +1,2 @@
 - pkg:maven/org.pragmatica-lite/micrometer@0.8.2?classifier=sources
+- pkg:maven/org.pragmatica-lite/micrometer@0.8.3?classifier=sources

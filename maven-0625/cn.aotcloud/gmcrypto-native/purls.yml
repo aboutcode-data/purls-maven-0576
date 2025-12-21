@@ -1,0 +1,2 @@
+- pkg:maven/cn.aotcloud/gmcrypto-native@1.0.0?classifier=sources
+- pkg:maven/cn.aotcloud/gmcrypto-native@1.1.0?classifier=sources

@@ -60,3 +60,4 @@
 - pkg:maven/tv.hd3g.commons/env-version@21.2.0?classifier=sources
 - pkg:maven/tv.hd3g.commons/env-version@22.0.0
 - pkg:maven/tv.hd3g.commons/env-version@22.0.0?classifier=sources
+- pkg:maven/tv.hd3g.commons/env-version@23.0.0?classifier=sources

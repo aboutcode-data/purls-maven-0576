@@ -76,3 +76,4 @@
 - pkg:maven/com.currencycloud.currencycloud-java/currencycloud-java@6.1.0?classifier=sources
 - pkg:maven/com.currencycloud.currencycloud-java/currencycloud-java@6.2.0?classifier=sources
 - pkg:maven/com.currencycloud.currencycloud-java/currencycloud-java@7.0.0?classifier=sources
+- pkg:maven/com.currencycloud.currencycloud-java/currencycloud-java@7.1.0?classifier=sources
