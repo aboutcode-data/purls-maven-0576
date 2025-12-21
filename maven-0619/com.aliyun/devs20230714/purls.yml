@@ -12,3 +12,4 @@
 - pkg:maven/com.aliyun/devs20230714@2.3.1?classifier=sources
 - pkg:maven/com.aliyun/devs20230714@2.4.0
 - pkg:maven/com.aliyun/devs20230714@2.4.0?classifier=sources
+- pkg:maven/com.aliyun/devs20230714@2.4.1?classifier=sources

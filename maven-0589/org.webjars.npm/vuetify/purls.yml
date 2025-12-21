@@ -398,3 +398,4 @@
 - pkg:maven/org.webjars.npm/vuetify@3.8.8
 - pkg:maven/org.webjars.npm/vuetify@3.8.9
 - pkg:maven/org.webjars.npm/vuetify@3.9.2
+- pkg:maven/org.webjars.npm/vuetify@3.9.5

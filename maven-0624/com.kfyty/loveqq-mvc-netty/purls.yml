@@ -17,3 +17,4 @@
 - pkg:maven/com.kfyty/loveqq-mvc-netty@1.1.3-M2?classifier=sources
 - pkg:maven/com.kfyty/loveqq-mvc-netty@1.1.3-java8?classifier=sources
 - pkg:maven/com.kfyty/loveqq-mvc-netty@1.1.3?classifier=sources
+- pkg:maven/com.kfyty/loveqq-mvc-netty@1.1.5-M1?classifier=sources

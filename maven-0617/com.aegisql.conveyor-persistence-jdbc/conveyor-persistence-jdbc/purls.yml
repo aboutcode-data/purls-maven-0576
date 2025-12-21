@@ -50,3 +50,4 @@
 - pkg:maven/com.aegisql.conveyor-persistence-jdbc/conveyor-persistence-jdbc@1.6.7?classifier=sources
 - pkg:maven/com.aegisql.conveyor-persistence-jdbc/conveyor-persistence-jdbc@1.7.1
 - pkg:maven/com.aegisql.conveyor-persistence-jdbc/conveyor-persistence-jdbc@1.7.1?classifier=sources
+- pkg:maven/com.aegisql.conveyor-persistence-jdbc/conveyor-persistence-jdbc@1.7.2?classifier=sources

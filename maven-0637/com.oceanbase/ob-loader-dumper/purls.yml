@@ -9,3 +9,5 @@
 - pkg:maven/com.oceanbase/ob-loader-dumper@4.3.2.1-RELEASE?classifier=sources
 - pkg:maven/com.oceanbase/ob-loader-dumper@4.3.3-RELEASE?classifier=sources
 - pkg:maven/com.oceanbase/ob-loader-dumper@4.3.3.1-RELEASE?classifier=sources
+- pkg:maven/com.oceanbase/ob-loader-dumper@4.3.4-RELEASE
+- pkg:maven/com.oceanbase/ob-loader-dumper@4.3.4-RELEASE?classifier=sources

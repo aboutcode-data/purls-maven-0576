@@ -39,3 +39,5 @@
 - pkg:maven/com.aliyun.openservices.aiservice/paifeaturestore-sdk@1.1.9
 - pkg:maven/com.aliyun.openservices.aiservice/paifeaturestore-sdk@1.1.9?classifier=sources
 - pkg:maven/com.aliyun.openservices.aiservice/paifeaturestore-sdk@1.2.0?classifier=sources
+- pkg:maven/com.aliyun.openservices.aiservice/paifeaturestore-sdk@1.2.1?classifier=sources
+- pkg:maven/com.aliyun.openservices.aiservice/paifeaturestore-sdk@1.2.2?classifier=sources

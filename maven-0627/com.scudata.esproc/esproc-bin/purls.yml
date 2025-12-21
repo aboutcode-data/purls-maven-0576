@@ -1,0 +1,4 @@
+- pkg:maven/com.scudata.esproc/esproc-bin@20250801
+- pkg:maven/com.scudata.esproc/esproc-bin@20250801?classifier=sources
+- pkg:maven/com.scudata.esproc/esproc-bin@20250815
+- pkg:maven/com.scudata.esproc/esproc-bin@20250815?classifier=sources

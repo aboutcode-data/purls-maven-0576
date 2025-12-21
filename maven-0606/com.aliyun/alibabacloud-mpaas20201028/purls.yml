@@ -10,3 +10,4 @@
 - pkg:maven/com.aliyun/alibabacloud-mpaas20201028@1.0.4?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-mpaas20201028@1.0.5
 - pkg:maven/com.aliyun/alibabacloud-mpaas20201028@1.0.5?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-mpaas20201028@2.0.0?classifier=sources

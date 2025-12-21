@@ -20,3 +20,13 @@
 - pkg:maven/com.disneystreaming.alloy/alloy-docs@0.3.28?classifier=sources
 - pkg:maven/com.disneystreaming.alloy/alloy-docs@0.3.29
 - pkg:maven/com.disneystreaming.alloy/alloy-docs@0.3.29?classifier=sources
+- pkg:maven/com.disneystreaming.alloy/alloy-docs@0.3.30
+- pkg:maven/com.disneystreaming.alloy/alloy-docs@0.3.30?classifier=sources
+- pkg:maven/com.disneystreaming.alloy/alloy-docs@0.3.31
+- pkg:maven/com.disneystreaming.alloy/alloy-docs@0.3.31-3-5b5547
+- pkg:maven/com.disneystreaming.alloy/alloy-docs@0.3.31-3-5b5547?classifier=sources
+- pkg:maven/com.disneystreaming.alloy/alloy-docs@0.3.31-4-43290b
+- pkg:maven/com.disneystreaming.alloy/alloy-docs@0.3.31-4-43290b?classifier=sources
+- pkg:maven/com.disneystreaming.alloy/alloy-docs@0.3.31?classifier=sources
+- pkg:maven/com.disneystreaming.alloy/alloy-docs@0.3.32
+- pkg:maven/com.disneystreaming.alloy/alloy-docs@0.3.32?classifier=sources

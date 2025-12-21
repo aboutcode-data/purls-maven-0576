@@ -1,3 +1,4 @@
+- pkg:maven/com.ritense.valtimo/changelog@0.1.0-RC-2?classifier=sources
 - pkg:maven/com.ritense.valtimo/changelog@10.7.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/changelog@10.8.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/changelog@10.8.2.RELEASE?classifier=sources
@@ -34,6 +35,7 @@
 - pkg:maven/com.ritense.valtimo/changelog@12.13.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/changelog@12.14.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/changelog@12.14.1.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/changelog@12.15.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/changelog@12.2.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/changelog@12.2.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/changelog@12.3.0.RELEASE?classifier=sources
@@ -54,3 +56,6 @@
 - pkg:maven/com.ritense.valtimo/changelog@13.0.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/changelog@13.0.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/changelog@13.0.2.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/changelog@13.1.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/changelog@13.1.1.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/changelog@13.1.2.RELEASE?classifier=sources

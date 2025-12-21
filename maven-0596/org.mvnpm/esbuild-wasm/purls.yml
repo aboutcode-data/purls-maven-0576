@@ -13,3 +13,5 @@
 - pkg:maven/org.mvnpm/esbuild-wasm@0.25.7?classifier=sources
 - pkg:maven/org.mvnpm/esbuild-wasm@0.25.8
 - pkg:maven/org.mvnpm/esbuild-wasm@0.25.8?classifier=sources
+- pkg:maven/org.mvnpm/esbuild-wasm@0.25.9
+- pkg:maven/org.mvnpm/esbuild-wasm@0.25.9?classifier=sources

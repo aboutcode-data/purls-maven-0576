@@ -1,0 +1,2 @@
+- pkg:maven/cn.jslim/jslim-module-captcha@1.0.6?classifier=sources
+- pkg:maven/cn.jslim/jslim-module-captcha@1.0.7?classifier=sources

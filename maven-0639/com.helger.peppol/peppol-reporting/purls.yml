@@ -36,3 +36,4 @@
 - pkg:maven/com.helger.peppol/peppol-reporting@3.0.3?classifier=sources
 - pkg:maven/com.helger.peppol/peppol-reporting@3.1.0
 - pkg:maven/com.helger.peppol/peppol-reporting@3.1.0?classifier=sources
+- pkg:maven/com.helger.peppol/peppol-reporting@4.0.0?classifier=sources

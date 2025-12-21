@@ -10,3 +10,9 @@
 - pkg:maven/dev.rupt.android/rupt-android@3.1.0?type=aar
 - pkg:maven/dev.rupt.android/rupt-android@3.2.0?classifier=sources
 - pkg:maven/dev.rupt.android/rupt-android@3.2.0?type=aar
+- pkg:maven/dev.rupt.android/rupt-android@3.3.0?classifier=sources
+- pkg:maven/dev.rupt.android/rupt-android@3.3.0?type=aar
+- pkg:maven/dev.rupt.android/rupt-android@3.4.0?classifier=sources
+- pkg:maven/dev.rupt.android/rupt-android@3.4.0?type=aar
+- pkg:maven/dev.rupt.android/rupt-android@3.5.0?classifier=sources
+- pkg:maven/dev.rupt.android/rupt-android@3.5.0?type=aar

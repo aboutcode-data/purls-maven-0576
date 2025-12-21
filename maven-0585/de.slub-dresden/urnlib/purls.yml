@@ -8,3 +8,4 @@
 - pkg:maven/de.slub-dresden/urnlib@2.0.0?classifier=sources
 - pkg:maven/de.slub-dresden/urnlib@2.0.1
 - pkg:maven/de.slub-dresden/urnlib@2.0.1?classifier=sources
+- pkg:maven/de.slub-dresden/urnlib@3.0.0?classifier=sources

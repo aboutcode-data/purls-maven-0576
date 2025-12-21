@@ -1,0 +1,2 @@
+- pkg:maven/io.github.joy1024/common-base@25.06.01?classifier=sources
+- pkg:maven/io.github.joy1024/common-base@25.06.02?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.codbex.atlas/codbex-atlas-components-ui-menu-help@2.71.0?classifier=sources
+- pkg:maven/com.codbex.atlas/codbex-atlas-components-ui-menu-help@2.72.0?classifier=sources
+- pkg:maven/com.codbex.atlas/codbex-atlas-components-ui-menu-help@2.73.0?classifier=sources
+- pkg:maven/com.codbex.atlas/codbex-atlas-components-ui-menu-help@2.74.0?classifier=sources
+- pkg:maven/com.codbex.atlas/codbex-atlas-components-ui-menu-help@2.75.0?classifier=sources
+- pkg:maven/com.codbex.atlas/codbex-atlas-components-ui-menu-help@2.76.0?classifier=sources

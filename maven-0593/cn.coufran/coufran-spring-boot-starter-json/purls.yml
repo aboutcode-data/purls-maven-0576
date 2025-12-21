@@ -8,3 +8,4 @@
 - pkg:maven/cn.coufran/coufran-spring-boot-starter-json@2.0.0?classifier=sources
 - pkg:maven/cn.coufran/coufran-spring-boot-starter-json@2.0.1
 - pkg:maven/cn.coufran/coufran-spring-boot-starter-json@2.0.1?classifier=sources
+- pkg:maven/cn.coufran/coufran-spring-boot-starter-json@3.0.0?classifier=sources

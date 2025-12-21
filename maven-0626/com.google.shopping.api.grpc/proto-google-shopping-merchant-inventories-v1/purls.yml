@@ -1,0 +1,6 @@
+- pkg:maven/com.google.shopping.api.grpc/proto-google-shopping-merchant-inventories-v1@0.47.0
+- pkg:maven/com.google.shopping.api.grpc/proto-google-shopping-merchant-inventories-v1@0.47.0?classifier=sources
+- pkg:maven/com.google.shopping.api.grpc/proto-google-shopping-merchant-inventories-v1@1.0.0
+- pkg:maven/com.google.shopping.api.grpc/proto-google-shopping-merchant-inventories-v1@1.0.0?classifier=sources
+- pkg:maven/com.google.shopping.api.grpc/proto-google-shopping-merchant-inventories-v1@1.1.0
+- pkg:maven/com.google.shopping.api.grpc/proto-google-shopping-merchant-inventories-v1@1.1.0?classifier=sources

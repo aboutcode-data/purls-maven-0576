@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/ndarray@1.0.19
+- pkg:maven/org.mvnpm/ndarray@1.0.19?classifier=sources

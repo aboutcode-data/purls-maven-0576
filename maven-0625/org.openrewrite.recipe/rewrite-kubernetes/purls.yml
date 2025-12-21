@@ -77,6 +77,7 @@
 - pkg:maven/org.openrewrite.recipe/rewrite-kubernetes@2.9.2?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-kubernetes@3.0.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-kubernetes@3.1.0?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-kubernetes@3.10.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-kubernetes@3.2.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-kubernetes@3.2.1?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-kubernetes@3.2.2?classifier=sources
@@ -90,3 +91,4 @@
 - pkg:maven/org.openrewrite.recipe/rewrite-kubernetes@3.7.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-kubernetes@3.8.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-kubernetes@3.8.1?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-kubernetes@3.9.0?classifier=sources

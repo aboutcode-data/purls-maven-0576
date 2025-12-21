@@ -13,6 +13,8 @@
 - pkg:maven/org.openrewrite.recipe/rewrite-reactive-streams@0.14.1?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-reactive-streams@0.14.2?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-reactive-streams@0.14.3?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-reactive-streams@0.15.0?classifier=sources
+- pkg:maven/org.openrewrite.recipe/rewrite-reactive-streams@0.16.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-reactive-streams@0.2.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-reactive-streams@0.3.0?classifier=sources
 - pkg:maven/org.openrewrite.recipe/rewrite-reactive-streams@0.3.1?classifier=sources

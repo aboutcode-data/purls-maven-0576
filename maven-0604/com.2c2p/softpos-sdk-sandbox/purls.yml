@@ -1,1 +1,4 @@
 - pkg:maven/com.2c2p/softpos-sdk-sandbox@1.0.1?type=aar
+- pkg:maven/com.2c2p/softpos-sdk-sandbox@1.1.0?type=aar
+- pkg:maven/com.2c2p/softpos-sdk-sandbox@1.1.1?type=aar
+- pkg:maven/com.2c2p/softpos-sdk-sandbox@1.1.2?type=aar

@@ -1,2 +1,5 @@
 - pkg:maven/design.ore.api/Ore3D-API@2.5.6-alpha?classifier=sources
 - pkg:maven/design.ore.api/Ore3D-API@2.5.6?classifier=sources
+- pkg:maven/design.ore.api/Ore3D-API@2.5.7?classifier=sources
+- pkg:maven/design.ore.api/Ore3D-API@2.5.8?classifier=sources
+- pkg:maven/design.ore.api/Ore3D-API@2.5.9?classifier=sources

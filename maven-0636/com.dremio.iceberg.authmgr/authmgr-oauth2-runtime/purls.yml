@@ -1,0 +1,1 @@
+- pkg:maven/com.dremio.iceberg.authmgr/authmgr-oauth2-runtime@0.0.5?classifier=sources

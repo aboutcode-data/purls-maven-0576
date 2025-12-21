@@ -2,3 +2,5 @@
 - pkg:maven/com.synditcorp/ruleengine@2.1.0?classifier=sources
 - pkg:maven/com.synditcorp/ruleengine@2.2.0
 - pkg:maven/com.synditcorp/ruleengine@2.2.0?classifier=sources
+- pkg:maven/com.synditcorp/ruleengine@3.0.0-RELEASE?classifier=sources
+- pkg:maven/com.synditcorp/ruleengine@3.0.1-RELEASE?classifier=sources

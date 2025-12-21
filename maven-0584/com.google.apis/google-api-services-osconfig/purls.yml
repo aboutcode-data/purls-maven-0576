@@ -114,6 +114,8 @@
 - pkg:maven/com.google.apis/google-api-services-osconfig@v1-rev20250323-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-osconfig@v1-rev20250511-2.0.0
 - pkg:maven/com.google.apis/google-api-services-osconfig@v1-rev20250511-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-osconfig@v1-rev20250727-2.0.0
+- pkg:maven/com.google.apis/google-api-services-osconfig@v1-rev20250727-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-osconfig@v1-rev3-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-osconfig@v1-rev3-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-osconfig@v1-rev3-1.25.0
@@ -184,6 +186,8 @@
 - pkg:maven/com.google.apis/google-api-services-osconfig@v1alpha-rev20250323-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-osconfig@v1alpha-rev20250511-2.0.0
 - pkg:maven/com.google.apis/google-api-services-osconfig@v1alpha-rev20250511-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-osconfig@v1alpha-rev20250727-2.0.0
+- pkg:maven/com.google.apis/google-api-services-osconfig@v1alpha-rev20250727-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-osconfig@v1beta-rev2-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-osconfig@v1beta-rev2-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-osconfig@v1beta-rev2-1.25.0

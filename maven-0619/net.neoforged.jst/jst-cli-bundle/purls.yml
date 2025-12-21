@@ -7,3 +7,5 @@
 - pkg:maven/net.neoforged.jst/jst-cli-bundle@1.0.71?classifier=sources
 - pkg:maven/net.neoforged.jst/jst-cli-bundle@1.0.72?classifier=sources
 - pkg:maven/net.neoforged.jst/jst-cli-bundle@1.0.74?classifier=sources
+- pkg:maven/net.neoforged.jst/jst-cli-bundle@2.0.0?classifier=sources
+- pkg:maven/net.neoforged.jst/jst-cli-bundle@2.0.1?classifier=sources

@@ -25,3 +25,4 @@
 - pkg:maven/fr.ght1pc9kc/juery-basic@1.4.3
 - pkg:maven/fr.ght1pc9kc/juery-basic@1.4.3?classifier=sources
 - pkg:maven/fr.ght1pc9kc/juery-basic@1.4.4?classifier=sources
+- pkg:maven/fr.ght1pc9kc/juery-basic@1.5.0?classifier=sources

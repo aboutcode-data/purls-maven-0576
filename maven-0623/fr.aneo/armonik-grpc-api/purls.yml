@@ -1,0 +1,4 @@
+- pkg:maven/fr.aneo/armonik-grpc-api@4.0.0-grpcchannelbuilder.4.2ca9372?classifier=sources
+- pkg:maven/fr.aneo/armonik-grpc-api@4.0.0-grpcchannelbuilder.4.fca6d08?classifier=sources
+- pkg:maven/fr.aneo/armonik-grpc-api@4.0.0-javapackagecleanup.3.38d57dd?classifier=sources
+- pkg:maven/fr.aneo/armonik-grpc-api@4.0.0-javapackagecleanup.3.bb653d6?classifier=sources

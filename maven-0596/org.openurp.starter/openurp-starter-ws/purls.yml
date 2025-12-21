@@ -187,6 +187,10 @@
 - pkg:maven/org.openurp.starter/openurp-starter-ws@0.3.59?classifier=sources
 - pkg:maven/org.openurp.starter/openurp-starter-ws@0.3.5?classifier=sources
 - pkg:maven/org.openurp.starter/openurp-starter-ws@0.3.6
+- pkg:maven/org.openurp.starter/openurp-starter-ws@0.3.61
+- pkg:maven/org.openurp.starter/openurp-starter-ws@0.3.61?classifier=sources
+- pkg:maven/org.openurp.starter/openurp-starter-ws@0.3.62
+- pkg:maven/org.openurp.starter/openurp-starter-ws@0.3.62?classifier=sources
 - pkg:maven/org.openurp.starter/openurp-starter-ws@0.3.6?classifier=sources
 - pkg:maven/org.openurp.starter/openurp-starter-ws@0.3.7
 - pkg:maven/org.openurp.starter/openurp-starter-ws@0.3.7?classifier=sources

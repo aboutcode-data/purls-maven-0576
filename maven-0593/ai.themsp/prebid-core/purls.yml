@@ -4,3 +4,4 @@
 - pkg:maven/ai.themsp/prebid-core@2.0.3.26?classifier=sources
 - pkg:maven/ai.themsp/prebid-core@2.0.3.27?classifier=sources
 - pkg:maven/ai.themsp/prebid-core@2.0.3.28?classifier=sources
+- pkg:maven/ai.themsp/prebid-core@2.0.3.29?classifier=sources

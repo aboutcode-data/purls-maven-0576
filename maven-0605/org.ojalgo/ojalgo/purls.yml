@@ -140,3 +140,4 @@
 - pkg:maven/org.ojalgo/ojalgo@55.1.2?classifier=sources
 - pkg:maven/org.ojalgo/ojalgo@55.2.0
 - pkg:maven/org.ojalgo/ojalgo@55.2.0?classifier=sources
+- pkg:maven/org.ojalgo/ojalgo@56.0.0?classifier=sources

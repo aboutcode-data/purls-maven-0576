@@ -31,3 +31,4 @@
 - pkg:maven/io.github.smiley4/schema-kenerator-jackson-swagger@2.1.4?classifier=sources
 - pkg:maven/io.github.smiley4/schema-kenerator-jackson-swagger@2.1.5-INDEV.2?classifier=sources
 - pkg:maven/io.github.smiley4/schema-kenerator-jackson-swagger@2.2.0?classifier=sources
+- pkg:maven/io.github.smiley4/schema-kenerator-jackson-swagger@2.3.0?classifier=sources

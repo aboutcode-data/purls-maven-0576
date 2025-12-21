@@ -1,6 +1,12 @@
 - pkg:maven/com.github.xpenatan.jParser/loader-teavm@1.0.0-b10?classifier=sources
 - pkg:maven/com.github.xpenatan.jParser/loader-teavm@1.0.0-b11?classifier=sources
 - pkg:maven/com.github.xpenatan.jParser/loader-teavm@1.0.0-b12?classifier=sources
+- pkg:maven/com.github.xpenatan.jParser/loader-teavm@1.0.0-b13?classifier=sources
+- pkg:maven/com.github.xpenatan.jParser/loader-teavm@1.0.0-b14?classifier=sources
+- pkg:maven/com.github.xpenatan.jParser/loader-teavm@1.0.0-b15?classifier=sources
+- pkg:maven/com.github.xpenatan.jParser/loader-teavm@1.0.0-b16?classifier=sources
+- pkg:maven/com.github.xpenatan.jParser/loader-teavm@1.0.0-b17?classifier=sources
+- pkg:maven/com.github.xpenatan.jParser/loader-teavm@1.0.0-b18?classifier=sources
 - pkg:maven/com.github.xpenatan.jParser/loader-teavm@1.0.0-b4?classifier=sources
 - pkg:maven/com.github.xpenatan.jParser/loader-teavm@1.0.0-b5?classifier=sources
 - pkg:maven/com.github.xpenatan.jParser/loader-teavm@1.0.0-b6?classifier=sources

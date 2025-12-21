@@ -42,3 +42,8 @@
 - pkg:maven/dev.bannmann.labs/anansi-postgres@0.37?classifier=sources
 - pkg:maven/dev.bannmann.labs/anansi-postgres@0.38?classifier=sources
 - pkg:maven/dev.bannmann.labs/anansi-postgres@0.39?classifier=sources
+- pkg:maven/dev.bannmann.labs/anansi-postgres@0.40?classifier=sources
+- pkg:maven/dev.bannmann.labs/anansi-postgres@0.41?classifier=sources
+- pkg:maven/dev.bannmann.labs/anansi-postgres@0.42?classifier=sources
+- pkg:maven/dev.bannmann.labs/anansi-postgres@0.43?classifier=sources
+- pkg:maven/dev.bannmann.labs/anansi-postgres@0.44?classifier=sources

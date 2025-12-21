@@ -18,3 +18,4 @@
 - pkg:maven/org.meteothink/meteoinfo-lab@3.8?classifier=sources
 - pkg:maven/org.meteothink/meteoinfo-lab@4.0
 - pkg:maven/org.meteothink/meteoinfo-lab@4.0?classifier=sources
+- pkg:maven/org.meteothink/meteoinfo-lab@4.1.1?classifier=sources

@@ -10,3 +10,4 @@
 - pkg:maven/com.helger/ph-regrep@2.0.0?classifier=sources
 - pkg:maven/com.helger/ph-regrep@3.0.0
 - pkg:maven/com.helger/ph-regrep@3.0.0?classifier=sources
+- pkg:maven/com.helger/ph-regrep@4.0.0?classifier=sources

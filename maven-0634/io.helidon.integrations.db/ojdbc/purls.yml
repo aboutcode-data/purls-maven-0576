@@ -51,6 +51,8 @@
 - pkg:maven/io.helidon.integrations.db/ojdbc@2.6.10?classifier=sources
 - pkg:maven/io.helidon.integrations.db/ojdbc@2.6.11
 - pkg:maven/io.helidon.integrations.db/ojdbc@2.6.11?classifier=sources
+- pkg:maven/io.helidon.integrations.db/ojdbc@2.6.12
+- pkg:maven/io.helidon.integrations.db/ojdbc@2.6.12?classifier=sources
 - pkg:maven/io.helidon.integrations.db/ojdbc@2.6.1?classifier=sources
 - pkg:maven/io.helidon.integrations.db/ojdbc@2.6.2
 - pkg:maven/io.helidon.integrations.db/ojdbc@2.6.2?classifier=sources
@@ -97,6 +99,10 @@
 - pkg:maven/io.helidon.integrations.db/ojdbc@3.2.11?classifier=sources
 - pkg:maven/io.helidon.integrations.db/ojdbc@3.2.12
 - pkg:maven/io.helidon.integrations.db/ojdbc@3.2.12?classifier=sources
+- pkg:maven/io.helidon.integrations.db/ojdbc@3.2.13
+- pkg:maven/io.helidon.integrations.db/ojdbc@3.2.13?classifier=sources
+- pkg:maven/io.helidon.integrations.db/ojdbc@3.2.14
+- pkg:maven/io.helidon.integrations.db/ojdbc@3.2.14?classifier=sources
 - pkg:maven/io.helidon.integrations.db/ojdbc@3.2.1?classifier=sources
 - pkg:maven/io.helidon.integrations.db/ojdbc@3.2.2
 - pkg:maven/io.helidon.integrations.db/ojdbc@3.2.2?classifier=sources
@@ -186,3 +192,9 @@
 - pkg:maven/io.helidon.integrations.db/ojdbc@4.2.3?classifier=sources
 - pkg:maven/io.helidon.integrations.db/ojdbc@4.2.4
 - pkg:maven/io.helidon.integrations.db/ojdbc@4.2.4?classifier=sources
+- pkg:maven/io.helidon.integrations.db/ojdbc@4.2.5
+- pkg:maven/io.helidon.integrations.db/ojdbc@4.2.5?classifier=sources
+- pkg:maven/io.helidon.integrations.db/ojdbc@4.2.6
+- pkg:maven/io.helidon.integrations.db/ojdbc@4.2.6?classifier=sources
+- pkg:maven/io.helidon.integrations.db/ojdbc@4.3.0-M1
+- pkg:maven/io.helidon.integrations.db/ojdbc@4.3.0-M1?classifier=sources

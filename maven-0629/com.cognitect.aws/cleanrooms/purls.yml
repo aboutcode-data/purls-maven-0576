@@ -17,3 +17,5 @@
 - pkg:maven/com.cognitect.aws/cleanrooms@871.2.31.23
 - pkg:maven/com.cognitect.aws/cleanrooms@871.2.31.23?classifier=sources
 - pkg:maven/com.cognitect.aws/cleanrooms@871.2.31.64?classifier=sources
+- pkg:maven/com.cognitect.aws/cleanrooms@871.2.32.15?classifier=sources
+- pkg:maven/com.cognitect.aws/cleanrooms@871.2.32.30?classifier=sources

@@ -1,1 +1,2 @@
+- pkg:maven/org.enmy/meaning@0.1.0-alpha01?classifier=sources
 - pkg:maven/org.enmy/meaning@0.1.0-beta01?classifier=sources

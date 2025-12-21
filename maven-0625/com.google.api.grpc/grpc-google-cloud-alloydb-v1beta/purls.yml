@@ -96,8 +96,16 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-alloydb-v1beta@0.56.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-alloydb-v1beta@0.57.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-alloydb-v1beta@0.57.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-alloydb-v1beta@0.59.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-alloydb-v1beta@0.59.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-alloydb-v1beta@0.6.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-alloydb-v1beta@0.6.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-alloydb-v1beta@0.60.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-alloydb-v1beta@0.60.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-alloydb-v1beta@0.61.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-alloydb-v1beta@0.61.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-alloydb-v1beta@0.62.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-alloydb-v1beta@0.62.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-alloydb-v1beta@0.7.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-alloydb-v1beta@0.7.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-alloydb-v1beta@0.8.0

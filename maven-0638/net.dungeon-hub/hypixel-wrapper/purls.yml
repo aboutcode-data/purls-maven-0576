@@ -34,3 +34,5 @@
 - pkg:maven/net.dungeon-hub/hypixel-wrapper@0.5.2?classifier=sources
 - pkg:maven/net.dungeon-hub/hypixel-wrapper@0.6.0
 - pkg:maven/net.dungeon-hub/hypixel-wrapper@0.6.0?classifier=sources
+- pkg:maven/net.dungeon-hub/hypixel-wrapper@0.6.1
+- pkg:maven/net.dungeon-hub/hypixel-wrapper@0.6.1?classifier=sources

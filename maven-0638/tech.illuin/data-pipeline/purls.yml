@@ -18,4 +18,5 @@
 - pkg:maven/tech.illuin/data-pipeline@0.25.1?classifier=sources
 - pkg:maven/tech.illuin/data-pipeline@0.25?classifier=sources
 - pkg:maven/tech.illuin/data-pipeline@0.26.1?classifier=sources
+- pkg:maven/tech.illuin/data-pipeline@0.26.2?classifier=sources
 - pkg:maven/tech.illuin/data-pipeline@0.26?classifier=sources

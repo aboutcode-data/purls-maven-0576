@@ -1,0 +1,2 @@
+- pkg:maven/dev.tauri/choam-mcas_native0.5_3@0.5.0-RC3
+- pkg:maven/dev.tauri/choam-mcas_native0.5_3@0.5.0-RC3?classifier=sources

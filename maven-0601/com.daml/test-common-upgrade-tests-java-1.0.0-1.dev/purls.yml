@@ -530,3 +530,5 @@
 - pkg:maven/com.daml/test-common-upgrade-tests-java-1.0.0-1.dev@2.9.6?classifier=sources
 - pkg:maven/com.daml/test-common-upgrade-tests-java-1.0.0-1.dev@2.9.7
 - pkg:maven/com.daml/test-common-upgrade-tests-java-1.0.0-1.dev@2.9.7?classifier=sources
+- pkg:maven/com.daml/test-common-upgrade-tests-java-1.0.0-1.dev@2.9.8-snapshot.20250805.12904.0.vbd3c5a32
+- pkg:maven/com.daml/test-common-upgrade-tests-java-1.0.0-1.dev@2.9.8-snapshot.20250805.12904.0.vbd3c5a32?classifier=sources

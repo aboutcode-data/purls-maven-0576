@@ -1,0 +1,4 @@
+- pkg:maven/one.xis/xis-bootstrap@0.1.14
+- pkg:maven/one.xis/xis-bootstrap@0.1.14?classifier=sources
+- pkg:maven/one.xis/xis-bootstrap@0.1.15
+- pkg:maven/one.xis/xis-bootstrap@0.1.15?classifier=sources

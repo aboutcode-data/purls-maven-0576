@@ -151,6 +151,7 @@
 - pkg:maven/pl.allegro.tech.elasticsearch.plugin/elasticsearch-analysis-morfologik@8.15.2?classifier=sources
 - pkg:maven/pl.allegro.tech.elasticsearch.plugin/elasticsearch-analysis-morfologik@8.15.3?classifier=sources
 - pkg:maven/pl.allegro.tech.elasticsearch.plugin/elasticsearch-analysis-morfologik@8.15.4?classifier=sources
+- pkg:maven/pl.allegro.tech.elasticsearch.plugin/elasticsearch-analysis-morfologik@8.15.5?classifier=sources
 - pkg:maven/pl.allegro.tech.elasticsearch.plugin/elasticsearch-analysis-morfologik@8.16.0?classifier=sources
 - pkg:maven/pl.allegro.tech.elasticsearch.plugin/elasticsearch-analysis-morfologik@8.16.1?classifier=sources
 - pkg:maven/pl.allegro.tech.elasticsearch.plugin/elasticsearch-analysis-morfologik@8.17.0?classifier=sources
@@ -164,6 +165,8 @@
 - pkg:maven/pl.allegro.tech.elasticsearch.plugin/elasticsearch-analysis-morfologik@8.18.0?classifier=sources
 - pkg:maven/pl.allegro.tech.elasticsearch.plugin/elasticsearch-analysis-morfologik@8.18.2?classifier=sources
 - pkg:maven/pl.allegro.tech.elasticsearch.plugin/elasticsearch-analysis-morfologik@8.18.3?classifier=sources
+- pkg:maven/pl.allegro.tech.elasticsearch.plugin/elasticsearch-analysis-morfologik@8.18.5?classifier=sources
+- pkg:maven/pl.allegro.tech.elasticsearch.plugin/elasticsearch-analysis-morfologik@8.19.2?classifier=sources
 - pkg:maven/pl.allegro.tech.elasticsearch.plugin/elasticsearch-analysis-morfologik@8.2.0?classifier=sources
 - pkg:maven/pl.allegro.tech.elasticsearch.plugin/elasticsearch-analysis-morfologik@8.2.1?classifier=sources
 - pkg:maven/pl.allegro.tech.elasticsearch.plugin/elasticsearch-analysis-morfologik@8.2.2?classifier=sources
@@ -191,3 +194,4 @@
 - pkg:maven/pl.allegro.tech.elasticsearch.plugin/elasticsearch-analysis-morfologik@9.0.1?classifier=sources
 - pkg:maven/pl.allegro.tech.elasticsearch.plugin/elasticsearch-analysis-morfologik@9.0.2?classifier=sources
 - pkg:maven/pl.allegro.tech.elasticsearch.plugin/elasticsearch-analysis-morfologik@9.0.3?classifier=sources
+- pkg:maven/pl.allegro.tech.elasticsearch.plugin/elasticsearch-analysis-morfologik@9.1.2?classifier=sources

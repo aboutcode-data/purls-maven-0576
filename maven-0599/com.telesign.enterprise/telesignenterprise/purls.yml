@@ -7,3 +7,4 @@
 - pkg:maven/com.telesign.enterprise/telesignenterprise@2.6.0?classifier=sources
 - pkg:maven/com.telesign.enterprise/telesignenterprise@2.6.1?classifier=sources
 - pkg:maven/com.telesign.enterprise/telesignenterprise@3.0.0?classifier=sources
+- pkg:maven/com.telesign.enterprise/telesignenterprise@3.1.0?classifier=sources

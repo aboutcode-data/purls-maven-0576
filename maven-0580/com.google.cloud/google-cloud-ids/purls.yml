@@ -150,8 +150,16 @@
 - pkg:maven/com.google.cloud/google-cloud-ids@1.66.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-ids@1.67.0
 - pkg:maven/com.google.cloud/google-cloud-ids@1.67.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-ids@1.69.0
+- pkg:maven/com.google.cloud/google-cloud-ids@1.69.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-ids@1.7.0
 - pkg:maven/com.google.cloud/google-cloud-ids@1.7.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-ids@1.70.0
+- pkg:maven/com.google.cloud/google-cloud-ids@1.70.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-ids@1.71.0
+- pkg:maven/com.google.cloud/google-cloud-ids@1.71.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-ids@1.72.0
+- pkg:maven/com.google.cloud/google-cloud-ids@1.72.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-ids@1.8.0
 - pkg:maven/com.google.cloud/google-cloud-ids@1.8.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-ids@1.9.0

@@ -25,6 +25,10 @@
 - pkg:maven/io.agora.rtc/agora-special-voice@3.7.3.166?type=aar
 - pkg:maven/io.agora.rtc/agora-special-voice@3.7.3.168?type=aar
 - pkg:maven/io.agora.rtc/agora-special-voice@3.7.3.169.AUDIO.BASIC?type=aar
+- pkg:maven/io.agora.rtc/agora-special-voice@3.7.3.172.BASIC?type=aar
+- pkg:maven/io.agora.rtc/agora-special-voice@3.7.3.172?type=aar
+- pkg:maven/io.agora.rtc/agora-special-voice@3.7.3.174?type=aar
+- pkg:maven/io.agora.rtc/agora-special-voice@3.7.3.176?type=aar
 - pkg:maven/io.agora.rtc/agora-special-voice@3.7.3.5.AINS?type=aar
 - pkg:maven/io.agora.rtc/agora-special-voice@3.7.3.5.BASIC?type=aar
 - pkg:maven/io.agora.rtc/agora-special-voice@3.7.3.5.XYHZ?type=aar
@@ -48,6 +52,7 @@
 - pkg:maven/io.agora.rtc/agora-special-voice@4.0.1.5?type=aar
 - pkg:maven/io.agora.rtc/agora-special-voice@4.1.2.160.AINS?type=aar
 - pkg:maven/io.agora.rtc/agora-special-voice@4.1.2.160?type=aar
+- pkg:maven/io.agora.rtc/agora-special-voice@4.1.2.165.BASIC?type=aar
 - pkg:maven/io.agora.rtc/agora-special-voice@4.1.2.2.ABEAUTY?type=aar
 - pkg:maven/io.agora.rtc/agora-special-voice@4.1.2.2.GZHX41?type=aar
 - pkg:maven/io.agora.rtc/agora-special-voice@4.1.2.2.MINIAUDIO?type=aar
@@ -55,6 +60,13 @@
 - pkg:maven/io.agora.rtc/agora-special-voice@4.2.6.202?type=aar
 - pkg:maven/io.agora.rtc/agora-special-voice@4.3.2.149.BASIC?type=aar
 - pkg:maven/io.agora.rtc/agora-special-voice@4.3.2.149?type=aar
+- pkg:maven/io.agora.rtc/agora-special-voice@4.3.2.151?type=aar
+- pkg:maven/io.agora.rtc/agora-special-voice@4.3.2.16.BASIC?type=aar
+- pkg:maven/io.agora.rtc/agora-special-voice@4.4.1.140?type=aar
 - pkg:maven/io.agora.rtc/agora-special-voice@4.5.1.152.1?type=aar
 - pkg:maven/io.agora.rtc/agora-special-voice@4.5.1.152?type=aar
+- pkg:maven/io.agora.rtc/agora-special-voice@4.5.1.160?type=aar
 - pkg:maven/io.agora.rtc/agora-special-voice@4.5.2.1?type=aar
+- pkg:maven/io.agora.rtc/agora-special-voice@4.5.2.2.BASIC?type=aar
+- pkg:maven/io.agora.rtc/agora-special-voice@4.5.2.2.MINI.AUDIO?type=aar
+- pkg:maven/io.agora.rtc/agora-special-voice@4.5.2.2?type=aar
