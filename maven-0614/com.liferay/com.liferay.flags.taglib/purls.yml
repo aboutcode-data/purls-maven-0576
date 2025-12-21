@@ -634,3 +634,4 @@
 - pkg:maven/com.liferay/com.liferay.flags.taglib@6.1.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.flags.taglib@7.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.flags.taglib@7.0.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.flags.taglib@7.0.2?classifier=sources

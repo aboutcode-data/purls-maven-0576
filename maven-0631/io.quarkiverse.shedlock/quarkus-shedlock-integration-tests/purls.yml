@@ -1,0 +1,1 @@
+- pkg:maven/io.quarkiverse.shedlock/quarkus-shedlock-integration-tests@0.0.2?classifier=sources

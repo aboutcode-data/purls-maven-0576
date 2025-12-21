@@ -17,6 +17,9 @@
 - pkg:maven/dev.openfeature.contrib.providers/flagd@0.11.10?classifier=sources
 - pkg:maven/dev.openfeature.contrib.providers/flagd@0.11.11
 - pkg:maven/dev.openfeature.contrib.providers/flagd@0.11.11?classifier=sources
+- pkg:maven/dev.openfeature.contrib.providers/flagd@0.11.12?classifier=sources
+- pkg:maven/dev.openfeature.contrib.providers/flagd@0.11.13?classifier=sources
+- pkg:maven/dev.openfeature.contrib.providers/flagd@0.11.14?classifier=sources
 - pkg:maven/dev.openfeature.contrib.providers/flagd@0.11.1?classifier=sources
 - pkg:maven/dev.openfeature.contrib.providers/flagd@0.11.2
 - pkg:maven/dev.openfeature.contrib.providers/flagd@0.11.2?classifier=sources

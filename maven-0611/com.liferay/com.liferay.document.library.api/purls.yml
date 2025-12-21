@@ -80,6 +80,7 @@
 - pkg:maven/com.liferay/com.liferay.document.library.api@25.1.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.api@25.2.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.api@26.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.api@26.1.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.api@3.0.0
 - pkg:maven/com.liferay/com.liferay.document.library.api@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.api@3.0.1

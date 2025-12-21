@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/is-node-process@1.2.0
+- pkg:maven/org.mvnpm/is-node-process@1.2.0?classifier=sources

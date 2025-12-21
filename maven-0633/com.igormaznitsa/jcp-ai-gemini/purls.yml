@@ -1,0 +1,2 @@
+- pkg:maven/com.igormaznitsa/jcp-ai-gemini@1.0.0
+- pkg:maven/com.igormaznitsa/jcp-ai-gemini@1.0.0?classifier=sources

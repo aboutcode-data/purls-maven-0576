@@ -1,1 +1,2 @@
 - pkg:maven/se.signatureservice.messages/signservice-messages@2503.1?classifier=sources
+- pkg:maven/se.signatureservice.messages/signservice-messages@2506.1?classifier=sources

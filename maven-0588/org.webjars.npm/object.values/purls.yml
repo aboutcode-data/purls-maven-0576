@@ -6,3 +6,4 @@
 - pkg:maven/org.webjars.npm/object.values@1.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/object.values@1.1.6
 - pkg:maven/org.webjars.npm/object.values@1.1.6?classifier=sources
+- pkg:maven/org.webjars.npm/object.values@1.2.1

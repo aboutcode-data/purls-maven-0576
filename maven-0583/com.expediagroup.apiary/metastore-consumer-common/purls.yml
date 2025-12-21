@@ -70,3 +70,4 @@
 - pkg:maven/com.expediagroup.apiary/metastore-consumer-common@8.1.7?classifier=sources
 - pkg:maven/com.expediagroup.apiary/metastore-consumer-common@8.1.8
 - pkg:maven/com.expediagroup.apiary/metastore-consumer-common@8.1.8?classifier=sources
+- pkg:maven/com.expediagroup.apiary/metastore-consumer-common@8.1.9?classifier=sources

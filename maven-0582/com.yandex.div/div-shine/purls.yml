@@ -24,3 +24,6 @@
 - pkg:maven/com.yandex.div/div-shine@32.4.0?classifier=sources
 - pkg:maven/com.yandex.div/div-shine@32.5.0?classifier=sources
 - pkg:maven/com.yandex.div/div-shine@32.6.0?classifier=sources
+- pkg:maven/com.yandex.div/div-shine@32.7.1?classifier=sources
+- pkg:maven/com.yandex.div/div-shine@32.8.0?classifier=sources
+- pkg:maven/com.yandex.div/div-shine@32.9.0?classifier=sources

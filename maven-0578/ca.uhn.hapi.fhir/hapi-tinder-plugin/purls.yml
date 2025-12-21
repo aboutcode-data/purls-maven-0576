@@ -125,3 +125,4 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-tinder-plugin@7.6.1
 - pkg:maven/ca.uhn.hapi.fhir/hapi-tinder-plugin@8.0.0
 - pkg:maven/ca.uhn.hapi.fhir/hapi-tinder-plugin@8.2.0
+- pkg:maven/ca.uhn.hapi.fhir/hapi-tinder-plugin@8.2.1?classifier=sources

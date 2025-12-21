@@ -44,6 +44,8 @@
 - pkg:maven/com.tectonica/jonix-json@2025-04-onix308
 - pkg:maven/com.tectonica/jonix-json@2025-04-onix308?classifier=sources
 - pkg:maven/com.tectonica/jonix-json@2025-04?classifier=sources
+- pkg:maven/com.tectonica/jonix-json@2025-07-onix308?classifier=sources
+- pkg:maven/com.tectonica/jonix-json@2025-07?classifier=sources
 - pkg:maven/com.tectonica/jonix-json@8.0.1
 - pkg:maven/com.tectonica/jonix-json@8.0.1?classifier=sources
 - pkg:maven/com.tectonica/jonix-json@9.0

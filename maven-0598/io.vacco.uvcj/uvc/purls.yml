@@ -1,2 +1,4 @@
 - pkg:maven/io.vacco.uvcj/uvc@0.0.6-MILESTONE-202302192329?classifier=sources
 - pkg:maven/io.vacco.uvcj/uvc@0.0.6?classifier=sources
+- pkg:maven/io.vacco.uvcj/uvc@0.0.7-MILESTONE-202507250739
+- pkg:maven/io.vacco.uvcj/uvc@0.0.7-MILESTONE-202507250739?classifier=sources

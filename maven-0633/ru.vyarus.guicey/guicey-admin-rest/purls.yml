@@ -44,6 +44,7 @@
 - pkg:maven/ru.vyarus.guicey/guicey-admin-rest@6.3.0-rc.1?classifier=sources
 - pkg:maven/ru.vyarus.guicey/guicey-admin-rest@6.3.0?classifier=sources
 - pkg:maven/ru.vyarus.guicey/guicey-admin-rest@6.3.1?classifier=sources
+- pkg:maven/ru.vyarus.guicey/guicey-admin-rest@6.3.2?classifier=sources
 - pkg:maven/ru.vyarus.guicey/guicey-admin-rest@7.0.0-rc.1?classifier=sources
 - pkg:maven/ru.vyarus.guicey/guicey-admin-rest@7.0.0-rc.2?classifier=sources
 - pkg:maven/ru.vyarus.guicey/guicey-admin-rest@7.0.0?classifier=sources
@@ -57,7 +58,9 @@
 - pkg:maven/ru.vyarus.guicey/guicey-admin-rest@7.2.0-rc.1?classifier=sources
 - pkg:maven/ru.vyarus.guicey/guicey-admin-rest@7.2.0?classifier=sources
 - pkg:maven/ru.vyarus.guicey/guicey-admin-rest@7.2.1?classifier=sources
+- pkg:maven/ru.vyarus.guicey/guicey-admin-rest@7.2.2?classifier=sources
 - pkg:maven/ru.vyarus.guicey/guicey-admin-rest@8.0.0-rc.1?classifier=sources
 - pkg:maven/ru.vyarus.guicey/guicey-admin-rest@8.0.0-rc.2?classifier=sources
 - pkg:maven/ru.vyarus.guicey/guicey-admin-rest@8.0.0-rc.3?classifier=sources
 - pkg:maven/ru.vyarus.guicey/guicey-admin-rest@8.0.0-rc.4?classifier=sources
+- pkg:maven/ru.vyarus.guicey/guicey-admin-rest@8.0.0-rc.5?classifier=sources

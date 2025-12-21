@@ -43,4 +43,5 @@
 - pkg:maven/de.voize/reakt-native-toolkit-jvm@0.21.6?classifier=sources
 - pkg:maven/de.voize/reakt-native-toolkit-jvm@0.21.7-legacy?classifier=sources
 - pkg:maven/de.voize/reakt-native-toolkit-jvm@0.21.7?classifier=sources
+- pkg:maven/de.voize/reakt-native-toolkit-jvm@0.21.8?classifier=sources
 - pkg:maven/de.voize/reakt-native-toolkit-jvm@0.3.1?classifier=sources

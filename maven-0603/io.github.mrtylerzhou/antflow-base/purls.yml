@@ -2,6 +2,9 @@
 - pkg:maven/io.github.mrtylerzhou/antflow-base@0.100.0?classifier=sources
 - pkg:maven/io.github.mrtylerzhou/antflow-base@0.101.0?classifier=sources
 - pkg:maven/io.github.mrtylerzhou/antflow-base@0.11.0?classifier=sources
+- pkg:maven/io.github.mrtylerzhou/antflow-base@0.110.0?classifier=sources
+- pkg:maven/io.github.mrtylerzhou/antflow-base@0.111.0?classifier=sources
+- pkg:maven/io.github.mrtylerzhou/antflow-base@0.120?classifier=sources
 - pkg:maven/io.github.mrtylerzhou/antflow-base@0.20.0?classifier=sources
 - pkg:maven/io.github.mrtylerzhou/antflow-base@0.30.0?classifier=sources
 - pkg:maven/io.github.mrtylerzhou/antflow-base@0.5.0?classifier=sources

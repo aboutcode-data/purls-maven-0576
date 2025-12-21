@@ -1,0 +1,2 @@
+- pkg:maven/org.kie.kogito/integration-tests-quarkus-usertasks@10.1.0
+- pkg:maven/org.kie.kogito/integration-tests-quarkus-usertasks@10.1.0?classifier=sources

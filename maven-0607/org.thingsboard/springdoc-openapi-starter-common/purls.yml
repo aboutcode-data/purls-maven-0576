@@ -1,2 +1,3 @@
 - pkg:maven/org.thingsboard/springdoc-openapi-starter-common@2.4.0TB
 - pkg:maven/org.thingsboard/springdoc-openapi-starter-common@2.4.0TB?classifier=sources
+- pkg:maven/org.thingsboard/springdoc-openapi-starter-common@2.8.8TB?classifier=sources

@@ -61,3 +61,6 @@
 - pkg:maven/com.ritense.valtimo/object-management@12.7.3.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/object-management@12.8.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/object-management@12.9.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/object-management@13.0.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/object-management@13.0.1.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/object-management@13.0.2.RELEASE?classifier=sources

@@ -18,3 +18,4 @@
 - pkg:maven/se.bjurr.bitbucketcloud/bitbucket-cloud-java-rest-api@1.8?classifier=sources
 - pkg:maven/se.bjurr.bitbucketcloud/bitbucket-cloud-java-rest-api@1.9
 - pkg:maven/se.bjurr.bitbucketcloud/bitbucket-cloud-java-rest-api@1.9?classifier=sources
+- pkg:maven/se.bjurr.bitbucketcloud/bitbucket-cloud-java-rest-api@2.0.0?classifier=sources

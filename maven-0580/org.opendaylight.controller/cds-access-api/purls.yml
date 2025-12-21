@@ -72,6 +72,8 @@
 - pkg:maven/org.opendaylight.controller/cds-access-api@1.7.3?classifier=sources
 - pkg:maven/org.opendaylight.controller/cds-access-api@10.0.0?classifier=sources
 - pkg:maven/org.opendaylight.controller/cds-access-api@10.0.1
+- pkg:maven/org.opendaylight.controller/cds-access-api@10.0.10
+- pkg:maven/org.opendaylight.controller/cds-access-api@10.0.10?classifier=sources
 - pkg:maven/org.opendaylight.controller/cds-access-api@10.0.1?classifier=sources
 - pkg:maven/org.opendaylight.controller/cds-access-api@10.0.2?classifier=sources
 - pkg:maven/org.opendaylight.controller/cds-access-api@10.0.3?classifier=sources
@@ -83,6 +85,8 @@
 - pkg:maven/org.opendaylight.controller/cds-access-api@10.0.8?classifier=sources
 - pkg:maven/org.opendaylight.controller/cds-access-api@10.0.9
 - pkg:maven/org.opendaylight.controller/cds-access-api@10.0.9?classifier=sources
+- pkg:maven/org.opendaylight.controller/cds-access-api@11.0.0
+- pkg:maven/org.opendaylight.controller/cds-access-api@11.0.0?classifier=sources
 - pkg:maven/org.opendaylight.controller/cds-access-api@2.0.0
 - pkg:maven/org.opendaylight.controller/cds-access-api@2.0.0?classifier=sources
 - pkg:maven/org.opendaylight.controller/cds-access-api@2.0.1
@@ -223,3 +227,6 @@
 - pkg:maven/org.opendaylight.controller/cds-access-api@9.0.5?classifier=sources
 - pkg:maven/org.opendaylight.controller/cds-access-api@9.0.6
 - pkg:maven/org.opendaylight.controller/cds-access-api@9.0.6?classifier=sources
+- pkg:maven/org.opendaylight.controller/cds-access-api@9.0.7
+- pkg:maven/org.opendaylight.controller/cds-access-api@9.0.7?classifier=sources
+- pkg:maven/org.opendaylight.controller/cds-access-api@9.0.8?classifier=sources

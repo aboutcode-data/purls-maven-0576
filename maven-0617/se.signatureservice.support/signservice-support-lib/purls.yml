@@ -11,4 +11,5 @@
 - pkg:maven/se.signatureservice.support/signservice-support-lib@2502.2?classifier=sources
 - pkg:maven/se.signatureservice.support/signservice-support-lib@2502.3?classifier=sources
 - pkg:maven/se.signatureservice.support/signservice-support-lib@2503.1?classifier=sources
+- pkg:maven/se.signatureservice.support/signservice-support-lib@2506.1?classifier=sources
 - pkg:maven/se.signatureservice.support/signservice-support-lib@v2402.1?classifier=sources

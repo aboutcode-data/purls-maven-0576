@@ -8,6 +8,7 @@
 - pkg:maven/com.adyen.checkout/online-banking-sk@5.11.0?classifier=sources
 - pkg:maven/com.adyen.checkout/online-banking-sk@5.12.0?classifier=sources
 - pkg:maven/com.adyen.checkout/online-banking-sk@5.13.0?classifier=sources
+- pkg:maven/com.adyen.checkout/online-banking-sk@5.13.1?classifier=sources
 - pkg:maven/com.adyen.checkout/online-banking-sk@5.2.0?classifier=sources
 - pkg:maven/com.adyen.checkout/online-banking-sk@5.3.0?classifier=sources
 - pkg:maven/com.adyen.checkout/online-banking-sk@5.3.1?classifier=sources

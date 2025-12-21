@@ -1,0 +1,2 @@
+- pkg:maven/software.amazon.awssdk/arcregionswitch@2.32.14
+- pkg:maven/software.amazon.awssdk/arcregionswitch@2.32.14?classifier=sources

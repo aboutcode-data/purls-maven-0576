@@ -22,3 +22,4 @@
 - pkg:maven/br.com.efipay.efisdk/sdk-java-apis-efi@1.2.2?classifier=sources
 - pkg:maven/br.com.efipay.efisdk/sdk-java-apis-efi@1.2.3
 - pkg:maven/br.com.efipay.efisdk/sdk-java-apis-efi@1.2.3?classifier=sources
+- pkg:maven/br.com.efipay.efisdk/sdk-java-apis-efi@1.2.4?classifier=sources

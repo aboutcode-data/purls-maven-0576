@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/json-rpc-2.0@1.7.1
+- pkg:maven/org.mvnpm/json-rpc-2.0@1.7.1?classifier=sources

@@ -12,3 +12,9 @@
 - pkg:maven/io.lionweb.lionweb-java/lionweb-java-2024.1-emf-builtins@0.4.5?classifier=sources
 - pkg:maven/io.lionweb.lionweb-java/lionweb-java-2024.1-emf-builtins@0.4.6?classifier=sources
 - pkg:maven/io.lionweb.lionweb-java/lionweb-java-2024.1-emf-builtins@0.4.7?classifier=sources
+- pkg:maven/io.lionweb.lionweb-java/lionweb-java-2024.1-emf-builtins@1.0.0?classifier=sources
+- pkg:maven/io.lionweb.lionweb-java/lionweb-java-2024.1-emf-builtins@1.0.1?classifier=sources
+- pkg:maven/io.lionweb.lionweb-java/lionweb-java-2024.1-emf-builtins@1.0.2?classifier=sources
+- pkg:maven/io.lionweb.lionweb-java/lionweb-java-2024.1-emf-builtins@1.0.3?classifier=sources
+- pkg:maven/io.lionweb.lionweb-java/lionweb-java-2024.1-emf-builtins@1.0.4?classifier=sources
+- pkg:maven/io.lionweb.lionweb-java/lionweb-java-2024.1-emf-builtins@1.0.5?classifier=sources

@@ -14,3 +14,4 @@
 - pkg:maven/eu.unicore.services/use-restclient@5.2.1?classifier=sources
 - pkg:maven/eu.unicore.services/use-restclient@5.3.0
 - pkg:maven/eu.unicore.services/use-restclient@5.3.0?classifier=sources
+- pkg:maven/eu.unicore.services/use-restclient@5.4.0?classifier=sources

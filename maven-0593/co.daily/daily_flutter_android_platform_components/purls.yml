@@ -3,3 +3,4 @@
 - pkg:maven/co.daily/daily_flutter_android_platform_components@0.29.0?classifier=sources
 - pkg:maven/co.daily/daily_flutter_android_platform_components@0.30.0?classifier=sources
 - pkg:maven/co.daily/daily_flutter_android_platform_components@0.31.0?classifier=sources
+- pkg:maven/co.daily/daily_flutter_android_platform_components@0.32.0?classifier=sources

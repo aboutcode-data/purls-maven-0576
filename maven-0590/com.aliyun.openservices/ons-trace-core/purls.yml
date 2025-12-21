@@ -48,3 +48,4 @@
 - pkg:maven/com.aliyun.openservices/ons-trace-core@1.8.6.Final?classifier=sources
 - pkg:maven/com.aliyun.openservices/ons-trace-core@1.8.8.6.Final
 - pkg:maven/com.aliyun.openservices/ons-trace-core@1.8.8.6.Final?classifier=sources
+- pkg:maven/com.aliyun.openservices/ons-trace-core@1.9.6.Final?classifier=sources

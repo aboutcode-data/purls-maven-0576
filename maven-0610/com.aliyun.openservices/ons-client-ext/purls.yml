@@ -50,3 +50,4 @@
 - pkg:maven/com.aliyun.openservices/ons-client-ext@1.9.4.Final?classifier=sources
 - pkg:maven/com.aliyun.openservices/ons-client-ext@1.9.5.Final
 - pkg:maven/com.aliyun.openservices/ons-client-ext@1.9.5.Final?classifier=sources
+- pkg:maven/com.aliyun.openservices/ons-client-ext@1.9.6.Final?classifier=sources

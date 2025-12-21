@@ -12,3 +12,4 @@
 - pkg:maven/com.sshtools/jini-serialzation@0.5.3?classifier=sources
 - pkg:maven/com.sshtools/jini-serialzation@0.5.4
 - pkg:maven/com.sshtools/jini-serialzation@0.5.4?classifier=sources
+- pkg:maven/com.sshtools/jini-serialzation@0.5.5?classifier=sources

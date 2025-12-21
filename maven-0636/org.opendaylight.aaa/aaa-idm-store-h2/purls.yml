@@ -92,6 +92,8 @@
 - pkg:maven/org.opendaylight.aaa/aaa-idm-store-h2@0.19.7?classifier=sources
 - pkg:maven/org.opendaylight.aaa/aaa-idm-store-h2@0.19.8
 - pkg:maven/org.opendaylight.aaa/aaa-idm-store-h2@0.19.8?classifier=sources
+- pkg:maven/org.opendaylight.aaa/aaa-idm-store-h2@0.19.9
+- pkg:maven/org.opendaylight.aaa/aaa-idm-store-h2@0.19.9?classifier=sources
 - pkg:maven/org.opendaylight.aaa/aaa-idm-store-h2@0.20.0
 - pkg:maven/org.opendaylight.aaa/aaa-idm-store-h2@0.20.0?classifier=sources
 - pkg:maven/org.opendaylight.aaa/aaa-idm-store-h2@0.20.1?classifier=sources
@@ -105,3 +107,7 @@
 - pkg:maven/org.opendaylight.aaa/aaa-idm-store-h2@0.20.7
 - pkg:maven/org.opendaylight.aaa/aaa-idm-store-h2@0.20.7?classifier=sources
 - pkg:maven/org.opendaylight.aaa/aaa-idm-store-h2@0.20.8?classifier=sources
+- pkg:maven/org.opendaylight.aaa/aaa-idm-store-h2@0.20.9
+- pkg:maven/org.opendaylight.aaa/aaa-idm-store-h2@0.20.9?classifier=sources
+- pkg:maven/org.opendaylight.aaa/aaa-idm-store-h2@0.21.0
+- pkg:maven/org.opendaylight.aaa/aaa-idm-store-h2@0.21.0?classifier=sources

@@ -31,3 +31,4 @@
 - pkg:maven/me.ahoo.cosec/cosec-cocache@2.18.9?classifier=sources
 - pkg:maven/me.ahoo.cosec/cosec-cocache@2.19.0?classifier=sources
 - pkg:maven/me.ahoo.cosec/cosec-cocache@3.0.0?classifier=sources
+- pkg:maven/me.ahoo.cosec/cosec-cocache@3.0.2?classifier=sources

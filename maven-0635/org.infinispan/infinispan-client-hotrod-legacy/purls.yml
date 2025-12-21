@@ -29,4 +29,5 @@
 - pkg:maven/org.infinispan/infinispan-client-hotrod-legacy@15.2.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-client-hotrod-legacy@15.2.3.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-client-hotrod-legacy@15.2.4.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-client-hotrod-legacy@15.2.5.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-client-hotrod-legacy@16.0.0.Dev01?classifier=sources

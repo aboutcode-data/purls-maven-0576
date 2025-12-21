@@ -36,3 +36,5 @@
 - pkg:maven/com.alibaba.hologres/hologres-connector-spark-3.x@1.5.2?classifier=sources
 - pkg:maven/com.alibaba.hologres/hologres-connector-spark-3.x@1.5.3
 - pkg:maven/com.alibaba.hologres/hologres-connector-spark-3.x@1.5.3?classifier=sources
+- pkg:maven/com.alibaba.hologres/hologres-connector-spark-3.x@1.5.4?classifier=sources
+- pkg:maven/com.alibaba.hologres/hologres-connector-spark-3.x@1.5.5?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.grails.plugins/grails-mail@5.0.0?classifier=sources
+- pkg:maven/org.grails.plugins/grails-mail@5.0.1?classifier=sources

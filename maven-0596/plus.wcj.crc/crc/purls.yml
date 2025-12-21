@@ -1,0 +1,2 @@
+- pkg:maven/plus.wcj.crc/crc@1.0.0?classifier=sources
+- pkg:maven/plus.wcj.crc/crc@1.0.1?classifier=sources

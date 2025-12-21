@@ -33,6 +33,8 @@
 - pkg:maven/com.spotify/dbeam-core@0.10.27?classifier=sources
 - pkg:maven/com.spotify/dbeam-core@0.10.28
 - pkg:maven/com.spotify/dbeam-core@0.10.28?classifier=sources
+- pkg:maven/com.spotify/dbeam-core@0.10.29-TEST?classifier=sources
+- pkg:maven/com.spotify/dbeam-core@0.10.29?classifier=sources
 - pkg:maven/com.spotify/dbeam-core@0.10.2?classifier=sources
 - pkg:maven/com.spotify/dbeam-core@0.10.3
 - pkg:maven/com.spotify/dbeam-core@0.10.3?classifier=sources

@@ -271,6 +271,14 @@
 - pkg:maven/com.codacy/codacy-analysis-cli-model_2.13@7.9.20?classifier=sources
 - pkg:maven/com.codacy/codacy-analysis-cli-model_2.13@7.9.21
 - pkg:maven/com.codacy/codacy-analysis-cli-model_2.13@7.9.21?classifier=sources
+- pkg:maven/com.codacy/codacy-analysis-cli-model_2.13@7.9.22
+- pkg:maven/com.codacy/codacy-analysis-cli-model_2.13@7.9.22?classifier=sources
+- pkg:maven/com.codacy/codacy-analysis-cli-model_2.13@7.9.23
+- pkg:maven/com.codacy/codacy-analysis-cli-model_2.13@7.9.23?classifier=sources
+- pkg:maven/com.codacy/codacy-analysis-cli-model_2.13@7.9.24
+- pkg:maven/com.codacy/codacy-analysis-cli-model_2.13@7.9.24?classifier=sources
+- pkg:maven/com.codacy/codacy-analysis-cli-model_2.13@7.9.25
+- pkg:maven/com.codacy/codacy-analysis-cli-model_2.13@7.9.25?classifier=sources
 - pkg:maven/com.codacy/codacy-analysis-cli-model_2.13@7.9.2?classifier=sources
 - pkg:maven/com.codacy/codacy-analysis-cli-model_2.13@7.9.3
 - pkg:maven/com.codacy/codacy-analysis-cli-model_2.13@7.9.3?classifier=sources

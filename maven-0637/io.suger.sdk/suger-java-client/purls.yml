@@ -1,3 +1,4 @@
+- pkg:maven/io.suger.sdk/suger-java-client@3.14.0?classifier=sources
 - pkg:maven/io.suger.sdk/suger-java-client@v3.127.466?classifier=sources
 - pkg:maven/io.suger.sdk/suger-java-client@v3.128.118?classifier=sources
 - pkg:maven/io.suger.sdk/suger-java-client@v3.128.140?classifier=sources

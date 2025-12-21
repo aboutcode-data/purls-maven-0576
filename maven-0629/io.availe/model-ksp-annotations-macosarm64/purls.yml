@@ -1,0 +1,6 @@
+- pkg:maven/io.availe/model-ksp-annotations-macosarm64@1.0.0?classifier=sources
+- pkg:maven/io.availe/model-ksp-annotations-macosarm64@2.0.0?classifier=sources
+- pkg:maven/io.availe/model-ksp-annotations-macosarm64@3.0.0?classifier=sources
+- pkg:maven/io.availe/model-ksp-annotations-macosarm64@3.1.0?classifier=sources
+- pkg:maven/io.availe/model-ksp-annotations-macosarm64@4.0.0?classifier=sources
+- pkg:maven/io.availe/model-ksp-annotations-macosarm64@5.0.0?classifier=sources

@@ -86,6 +86,8 @@
 - pkg:maven/io.github.fuookami.ospf.kotlin.framework.plugin/ospf-kotlin-framework-plugin-message-kafka@1.0.52?classifier=sources
 - pkg:maven/io.github.fuookami.ospf.kotlin.framework.plugin/ospf-kotlin-framework-plugin-message-kafka@1.0.53?classifier=sources
 - pkg:maven/io.github.fuookami.ospf.kotlin.framework.plugin/ospf-kotlin-framework-plugin-message-kafka@1.0.54?classifier=sources
+- pkg:maven/io.github.fuookami.ospf.kotlin.framework.plugin/ospf-kotlin-framework-plugin-message-kafka@1.0.55?classifier=sources
+- pkg:maven/io.github.fuookami.ospf.kotlin.framework.plugin/ospf-kotlin-framework-plugin-message-kafka@1.0.56?classifier=sources
 - pkg:maven/io.github.fuookami.ospf.kotlin.framework.plugin/ospf-kotlin-framework-plugin-message-kafka@1.0.5?classifier=sources
 - pkg:maven/io.github.fuookami.ospf.kotlin.framework.plugin/ospf-kotlin-framework-plugin-message-kafka@1.0.6
 - pkg:maven/io.github.fuookami.ospf.kotlin.framework.plugin/ospf-kotlin-framework-plugin-message-kafka@1.0.6?classifier=sources

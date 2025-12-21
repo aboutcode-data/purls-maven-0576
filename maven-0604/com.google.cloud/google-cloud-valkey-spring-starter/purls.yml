@@ -16,6 +16,8 @@
 - pkg:maven/com.google.cloud/google-cloud-valkey-spring-starter@5.12.2-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-valkey-spring-starter@5.12.3-preview
 - pkg:maven/com.google.cloud/google-cloud-valkey-spring-starter@5.12.3-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-valkey-spring-starter@5.13.0-preview
+- pkg:maven/com.google.cloud/google-cloud-valkey-spring-starter@5.13.0-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-valkey-spring-starter@6.0.0-preview
 - pkg:maven/com.google.cloud/google-cloud-valkey-spring-starter@6.0.0-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-valkey-spring-starter@6.0.1-preview
@@ -32,3 +34,7 @@
 - pkg:maven/com.google.cloud/google-cloud-valkey-spring-starter@6.2.2-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-valkey-spring-starter@6.2.3-preview
 - pkg:maven/com.google.cloud/google-cloud-valkey-spring-starter@6.2.3-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-valkey-spring-starter@6.3.0-preview
+- pkg:maven/com.google.cloud/google-cloud-valkey-spring-starter@6.3.0-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-valkey-spring-starter@7.0.0-preview
+- pkg:maven/com.google.cloud/google-cloud-valkey-spring-starter@7.0.0-preview?classifier=sources

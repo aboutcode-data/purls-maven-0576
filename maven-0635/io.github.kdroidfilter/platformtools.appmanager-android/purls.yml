@@ -16,3 +16,4 @@
 - pkg:maven/io.github.kdroidfilter/platformtools.appmanager-android@0.3.4?classifier=sources
 - pkg:maven/io.github.kdroidfilter/platformtools.appmanager-android@0.3.5?classifier=sources
 - pkg:maven/io.github.kdroidfilter/platformtools.appmanager-android@0.4.0?classifier=sources
+- pkg:maven/io.github.kdroidfilter/platformtools.appmanager-android@0.5.0?classifier=sources

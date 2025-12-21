@@ -171,3 +171,4 @@
 - pkg:maven/me.ahoo.cosec/cosec-webmvc@2.9.8?classifier=sources
 - pkg:maven/me.ahoo.cosec/cosec-webmvc@2.9.9?classifier=sources
 - pkg:maven/me.ahoo.cosec/cosec-webmvc@3.0.0?classifier=sources
+- pkg:maven/me.ahoo.cosec/cosec-webmvc@3.0.2?classifier=sources

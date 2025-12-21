@@ -8,3 +8,4 @@
 - pkg:maven/no.priv.bang.karaf/karaf.liquibase.runner@4.31.0?classifier=sources
 - pkg:maven/no.priv.bang.karaf/karaf.liquibase.runner@4.31.1
 - pkg:maven/no.priv.bang.karaf/karaf.liquibase.runner@4.31.1?classifier=sources
+- pkg:maven/no.priv.bang.karaf/karaf.liquibase.runner@4.33.0?classifier=sources

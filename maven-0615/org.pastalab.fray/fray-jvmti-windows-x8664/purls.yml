@@ -1,0 +1,2 @@
+- pkg:maven/org.pastalab.fray/fray-jvmti-windows-x8664@0.6.1?classifier=sources
+- pkg:maven/org.pastalab.fray/fray-jvmti-windows-x8664@0.6.2?classifier=sources

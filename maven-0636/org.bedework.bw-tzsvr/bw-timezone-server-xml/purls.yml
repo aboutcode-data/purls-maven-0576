@@ -6,3 +6,5 @@
 - pkg:maven/org.bedework.bw-tzsvr/bw-timezone-server-xml@5.0.7?classifier=sources
 - pkg:maven/org.bedework.bw-tzsvr/bw-timezone-server-xml@5.0.8
 - pkg:maven/org.bedework.bw-tzsvr/bw-timezone-server-xml@5.0.8?classifier=sources
+- pkg:maven/org.bedework.bw-tzsvr/bw-timezone-server-xml@6.0.0?classifier=sources
+- pkg:maven/org.bedework.bw-tzsvr/bw-timezone-server-xml@6.0.1?classifier=sources
