@@ -1,3 +1,5 @@
+- pkg:maven/org.mvnpm/readdirp@2.2.1?classifier=sources
 - pkg:maven/org.mvnpm/readdirp@3.6.0?classifier=sources
 - pkg:maven/org.mvnpm/readdirp@4.0.2?classifier=sources
 - pkg:maven/org.mvnpm/readdirp@4.1.1?classifier=sources
+- pkg:maven/org.mvnpm/readdirp@4.1.2?classifier=sources

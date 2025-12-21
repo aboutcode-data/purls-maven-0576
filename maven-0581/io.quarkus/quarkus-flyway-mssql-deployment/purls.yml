@@ -48,3 +48,5 @@
 - pkg:maven/io.quarkus/quarkus-flyway-mssql-deployment@3.20.0.CR1
 - pkg:maven/io.quarkus/quarkus-flyway-mssql-deployment@3.21.0
 - pkg:maven/io.quarkus/quarkus-flyway-mssql-deployment@3.21.0.CR1
+- pkg:maven/io.quarkus/quarkus-flyway-mssql-deployment@3.21.1
+- pkg:maven/io.quarkus/quarkus-flyway-mssql-deployment@3.21.2

@@ -20,4 +20,5 @@
 - pkg:maven/io.flamingock/flamingock-springboot-v2-runner@0.0.29-beta?classifier=sources
 - pkg:maven/io.flamingock/flamingock-springboot-v2-runner@0.0.30-beta?classifier=sources
 - pkg:maven/io.flamingock/flamingock-springboot-v2-runner@0.0.31-beta?classifier=sources
+- pkg:maven/io.flamingock/flamingock-springboot-v2-runner@0.0.32-beta?classifier=sources
 - pkg:maven/io.flamingock/flamingock-springboot-v2-runner@0.0.9-beta?classifier=sources

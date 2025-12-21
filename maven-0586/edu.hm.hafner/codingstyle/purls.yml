@@ -208,6 +208,10 @@
 - pkg:maven/edu.hm.hafner/codingstyle@5.0.0?classifier=sources
 - pkg:maven/edu.hm.hafner/codingstyle@5.1.0
 - pkg:maven/edu.hm.hafner/codingstyle@5.1.0?classifier=sources
+- pkg:maven/edu.hm.hafner/codingstyle@5.10.0
+- pkg:maven/edu.hm.hafner/codingstyle@5.10.0?classifier=sources
+- pkg:maven/edu.hm.hafner/codingstyle@5.11.0
+- pkg:maven/edu.hm.hafner/codingstyle@5.11.0?classifier=sources
 - pkg:maven/edu.hm.hafner/codingstyle@5.2.0
 - pkg:maven/edu.hm.hafner/codingstyle@5.2.0?classifier=sources
 - pkg:maven/edu.hm.hafner/codingstyle@5.3.0

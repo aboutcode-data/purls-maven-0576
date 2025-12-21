@@ -1,0 +1,2 @@
+- pkg:maven/org.int4.scss/scss-compiler@1.86.1
+- pkg:maven/org.int4.scss/scss-compiler@1.86.1?classifier=sources

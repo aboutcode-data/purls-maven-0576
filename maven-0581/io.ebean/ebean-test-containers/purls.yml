@@ -38,3 +38,5 @@
 - pkg:maven/io.ebean/ebean-test-containers@7.6?classifier=sources
 - pkg:maven/io.ebean/ebean-test-containers@7.7
 - pkg:maven/io.ebean/ebean-test-containers@7.7?classifier=sources
+- pkg:maven/io.ebean/ebean-test-containers@7.8
+- pkg:maven/io.ebean/ebean-test-containers@7.8?classifier=sources

@@ -62,6 +62,10 @@
 - pkg:maven/no.difi.meldingsutveksling/dokumentpakking@2.28.1?classifier=sources
 - pkg:maven/no.difi.meldingsutveksling/dokumentpakking@2.28.2
 - pkg:maven/no.difi.meldingsutveksling/dokumentpakking@2.28.2?classifier=sources
+- pkg:maven/no.difi.meldingsutveksling/dokumentpakking@2.28.3
+- pkg:maven/no.difi.meldingsutveksling/dokumentpakking@2.28.3?classifier=sources
+- pkg:maven/no.difi.meldingsutveksling/dokumentpakking@2.28.4
+- pkg:maven/no.difi.meldingsutveksling/dokumentpakking@2.28.4?classifier=sources
 - pkg:maven/no.difi.meldingsutveksling/dokumentpakking@2.3.0
 - pkg:maven/no.difi.meldingsutveksling/dokumentpakking@2.3.0?classifier=sources
 - pkg:maven/no.difi.meldingsutveksling/dokumentpakking@2.3.1
@@ -96,3 +100,5 @@
 - pkg:maven/no.difi.meldingsutveksling/dokumentpakking@2.8.4?classifier=sources
 - pkg:maven/no.difi.meldingsutveksling/dokumentpakking@2.9.0
 - pkg:maven/no.difi.meldingsutveksling/dokumentpakking@2.9.0?classifier=sources
+- pkg:maven/no.difi.meldingsutveksling/dokumentpakking@3.0.0-beta
+- pkg:maven/no.difi.meldingsutveksling/dokumentpakking@3.0.0-beta?classifier=sources

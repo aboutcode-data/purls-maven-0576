@@ -25,3 +25,4 @@
 - pkg:maven/onl.mdw/mathcat4j-core@0.6.4-7?classifier=sources
 - pkg:maven/onl.mdw/mathcat4j-core@0.6.4-8?classifier=sources
 - pkg:maven/onl.mdw/mathcat4j-core@0.6.4-9?classifier=sources
+- pkg:maven/onl.mdw/mathcat4j-core@0.6.8-1?classifier=sources

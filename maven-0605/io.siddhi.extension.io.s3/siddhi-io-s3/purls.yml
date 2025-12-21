@@ -8,3 +8,5 @@
 - pkg:maven/io.siddhi.extension.io.s3/siddhi-io-s3@1.0.3?classifier=sources
 - pkg:maven/io.siddhi.extension.io.s3/siddhi-io-s3@1.0.4
 - pkg:maven/io.siddhi.extension.io.s3/siddhi-io-s3@1.0.4?classifier=sources
+- pkg:maven/io.siddhi.extension.io.s3/siddhi-io-s3@1.0.5
+- pkg:maven/io.siddhi.extension.io.s3/siddhi-io-s3@1.0.5?classifier=sources

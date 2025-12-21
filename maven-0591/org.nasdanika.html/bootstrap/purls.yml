@@ -196,3 +196,5 @@
 - pkg:maven/org.nasdanika.html/bootstrap@2025.1.0?classifier=sources
 - pkg:maven/org.nasdanika.html/bootstrap@2025.2.0
 - pkg:maven/org.nasdanika.html/bootstrap@2025.2.0?classifier=sources
+- pkg:maven/org.nasdanika.html/bootstrap@2025.3.0
+- pkg:maven/org.nasdanika.html/bootstrap@2025.3.0?classifier=sources

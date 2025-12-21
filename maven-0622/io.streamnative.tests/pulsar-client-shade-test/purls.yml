@@ -1322,6 +1322,8 @@
 - pkg:maven/io.streamnative.tests/pulsar-client-shade-test@3.0.1.8?classifier=sources
 - pkg:maven/io.streamnative.tests/pulsar-client-shade-test@3.0.10.1
 - pkg:maven/io.streamnative.tests/pulsar-client-shade-test@3.0.10.1?classifier=sources
+- pkg:maven/io.streamnative.tests/pulsar-client-shade-test@3.0.10.2
+- pkg:maven/io.streamnative.tests/pulsar-client-shade-test@3.0.10.2?classifier=sources
 - pkg:maven/io.streamnative.tests/pulsar-client-shade-test@3.0.2.1
 - pkg:maven/io.streamnative.tests/pulsar-client-shade-test@3.0.2.1?classifier=sources
 - pkg:maven/io.streamnative.tests/pulsar-client-shade-test@3.0.2.2
@@ -1562,6 +1564,8 @@
 - pkg:maven/io.streamnative.tests/pulsar-client-shade-test@4.0.1.3?classifier=sources
 - pkg:maven/io.streamnative.tests/pulsar-client-shade-test@4.0.1.4
 - pkg:maven/io.streamnative.tests/pulsar-client-shade-test@4.0.1.4?classifier=sources
+- pkg:maven/io.streamnative.tests/pulsar-client-shade-test@4.0.3.1
+- pkg:maven/io.streamnative.tests/pulsar-client-shade-test@4.0.3.1?classifier=sources
 - pkg:maven/io.streamnative.tests/pulsar-client-shade-test@master-rc-daily
 - pkg:maven/io.streamnative.tests/pulsar-client-shade-test@master-rc-daily?classifier=sources
 - pkg:maven/io.streamnative.tests/pulsar-client-shade-test@v2.8.0-rc-202106091140

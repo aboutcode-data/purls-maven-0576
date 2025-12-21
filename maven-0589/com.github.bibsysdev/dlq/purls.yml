@@ -83,3 +83,7 @@
 - pkg:maven/com.github.bibsysdev/dlq@1.41.8?classifier=sources
 - pkg:maven/com.github.bibsysdev/dlq@1.41.9?classifier=sources
 - pkg:maven/com.github.bibsysdev/dlq@2.0.0?classifier=sources
+- pkg:maven/com.github.bibsysdev/dlq@2.1.0?classifier=sources
+- pkg:maven/com.github.bibsysdev/dlq@2.1.1?classifier=sources
+- pkg:maven/com.github.bibsysdev/dlq@2.1.2?classifier=sources
+- pkg:maven/com.github.bibsysdev/dlq@2.2.0?classifier=sources

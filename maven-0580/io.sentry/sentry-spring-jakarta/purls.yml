@@ -119,6 +119,8 @@
 - pkg:maven/io.sentry/sentry-spring-jakarta@7.22.1?classifier=sources
 - pkg:maven/io.sentry/sentry-spring-jakarta@7.22.2?classifier=sources
 - pkg:maven/io.sentry/sentry-spring-jakarta@7.22.3?classifier=sources
+- pkg:maven/io.sentry/sentry-spring-jakarta@7.22.4?classifier=sources
+- pkg:maven/io.sentry/sentry-spring-jakarta@7.22.5?classifier=sources
 - pkg:maven/io.sentry/sentry-spring-jakarta@7.3.0
 - pkg:maven/io.sentry/sentry-spring-jakarta@7.3.0?classifier=sources
 - pkg:maven/io.sentry/sentry-spring-jakarta@7.4.0
@@ -155,3 +157,5 @@
 - pkg:maven/io.sentry/sentry-spring-jakarta@8.3.0?classifier=sources
 - pkg:maven/io.sentry/sentry-spring-jakarta@8.4.0?classifier=sources
 - pkg:maven/io.sentry/sentry-spring-jakarta@8.5.0?classifier=sources
+- pkg:maven/io.sentry/sentry-spring-jakarta@8.6.0?classifier=sources
+- pkg:maven/io.sentry/sentry-spring-jakarta@8.7.0?classifier=sources

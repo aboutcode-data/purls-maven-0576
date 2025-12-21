@@ -38,3 +38,4 @@
 - pkg:maven/org.springframework.cloud.contract/org.springframework.cloud.contract.gradle.plugin@4.1.4
 - pkg:maven/org.springframework.cloud.contract/org.springframework.cloud.contract.gradle.plugin@4.1.5
 - pkg:maven/org.springframework.cloud.contract/org.springframework.cloud.contract.gradle.plugin@4.2.0
+- pkg:maven/org.springframework.cloud.contract/org.springframework.cloud.contract.gradle.plugin@4.2.1

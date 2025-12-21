@@ -77,6 +77,10 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/cocoapods-package-manager@52.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/cocoapods-package-manager@53.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/cocoapods-package-manager@54.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/cocoapods-package-manager@55.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/cocoapods-package-manager@55.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/cocoapods-package-manager@55.2.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/cocoapods-package-manager@55.3.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/cocoapods-package-manager@6.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/cocoapods-package-manager@6.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/cocoapods-package-manager@6.1.1?classifier=sources

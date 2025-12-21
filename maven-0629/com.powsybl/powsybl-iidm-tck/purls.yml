@@ -90,4 +90,5 @@
 - pkg:maven/com.powsybl/powsybl-iidm-tck@6.6.0
 - pkg:maven/com.powsybl/powsybl-iidm-tck@6.6.0-RC1
 - pkg:maven/com.powsybl/powsybl-iidm-tck@6.6.1
+- pkg:maven/com.powsybl/powsybl-iidm-tck@6.7.0
 - pkg:maven/com.powsybl/powsybl-iidm-tck@6.7.0-RC1

@@ -3,3 +3,4 @@
 - pkg:maven/org.mvnpm.at.ui5/webcomponents-base@1.24.4?classifier=sources
 - pkg:maven/org.mvnpm.at.ui5/webcomponents-base@2.1.2?classifier=sources
 - pkg:maven/org.mvnpm.at.ui5/webcomponents-base@2.4.0?classifier=sources
+- pkg:maven/org.mvnpm.at.ui5/webcomponents-base@2.9.0?classifier=sources

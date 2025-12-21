@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/loud-rejection@1.6.0?classifier=sources
+- pkg:maven/org.mvnpm/loud-rejection@2.2.0?classifier=sources

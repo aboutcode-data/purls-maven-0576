@@ -358,6 +358,7 @@
 - pkg:maven/com.liferay/com.liferay.blogs.service@2.0.81
 - pkg:maven/com.liferay/com.liferay.blogs.service@2.0.81?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.service@2.0.82?classifier=sources
+- pkg:maven/com.liferay/com.liferay.blogs.service@2.0.83?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.service@2.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.service@2.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.blogs.service@2.0.9
@@ -544,6 +545,7 @@
 - pkg:maven/com.liferay/com.liferay.blogs.service@3.0.63
 - pkg:maven/com.liferay/com.liferay.blogs.service@3.0.63?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.service@3.0.64?classifier=sources
+- pkg:maven/com.liferay/com.liferay.blogs.service@3.0.65?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.service@3.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.service@3.0.6?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.blogs.service@3.0.7
@@ -707,6 +709,7 @@
 - pkg:maven/com.liferay/com.liferay.blogs.service@4.0.54?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.service@4.0.55?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.service@4.0.56?classifier=sources
+- pkg:maven/com.liferay/com.liferay.blogs.service@4.0.57?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.service@4.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.blogs.service@4.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.blogs.service@4.0.6

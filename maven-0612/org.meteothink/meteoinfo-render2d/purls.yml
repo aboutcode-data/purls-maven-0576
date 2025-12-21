@@ -1,2 +1,4 @@
 - pkg:maven/org.meteothink/meteoinfo-render2d@3.8
 - pkg:maven/org.meteothink/meteoinfo-render2d@3.8?classifier=sources
+- pkg:maven/org.meteothink/meteoinfo-render2d@4.0
+- pkg:maven/org.meteothink/meteoinfo-render2d@4.0?classifier=sources

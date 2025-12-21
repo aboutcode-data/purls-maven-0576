@@ -247,6 +247,12 @@
 - pkg:maven/org.realityforge.replicant/replicant-server@6.139?classifier=sources
 - pkg:maven/org.realityforge.replicant/replicant-server@6.13?classifier=sources
 - pkg:maven/org.realityforge.replicant/replicant-server@6.14
+- pkg:maven/org.realityforge.replicant/replicant-server@6.140
+- pkg:maven/org.realityforge.replicant/replicant-server@6.140?classifier=sources
+- pkg:maven/org.realityforge.replicant/replicant-server@6.141
+- pkg:maven/org.realityforge.replicant/replicant-server@6.141?classifier=sources
+- pkg:maven/org.realityforge.replicant/replicant-server@6.142
+- pkg:maven/org.realityforge.replicant/replicant-server@6.142?classifier=sources
 - pkg:maven/org.realityforge.replicant/replicant-server@6.14?classifier=sources
 - pkg:maven/org.realityforge.replicant/replicant-server@6.15
 - pkg:maven/org.realityforge.replicant/replicant-server@6.15?classifier=sources

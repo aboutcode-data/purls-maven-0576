@@ -1,0 +1,2 @@
+- pkg:maven/io.github.netcorepal/ddd-domain-repo-jpa-querydsl@1.0.0-alpha-4?classifier=sources
+- pkg:maven/io.github.netcorepal/ddd-domain-repo-jpa-querydsl@3.1.0-alpha-2?classifier=sources

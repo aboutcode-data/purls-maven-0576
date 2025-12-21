@@ -1,0 +1,2 @@
+- pkg:maven/ch.reportingsoft.birt/eclipse-datatools-enablement-oda-xml@1.6.0
+- pkg:maven/ch.reportingsoft.birt/eclipse-datatools-enablement-oda-xml@1.6.0?classifier=sources

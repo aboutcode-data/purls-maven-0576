@@ -94,3 +94,11 @@
 - pkg:maven/io.atleon/atleon-micrometer-auto@0.28.4?classifier=sources
 - pkg:maven/io.atleon/atleon-micrometer-auto@0.29.0
 - pkg:maven/io.atleon/atleon-micrometer-auto@0.29.0?classifier=sources
+- pkg:maven/io.atleon/atleon-micrometer-auto@0.30.0
+- pkg:maven/io.atleon/atleon-micrometer-auto@0.30.0?classifier=sources
+- pkg:maven/io.atleon/atleon-micrometer-auto@0.30.1
+- pkg:maven/io.atleon/atleon-micrometer-auto@0.30.1?classifier=sources
+- pkg:maven/io.atleon/atleon-micrometer-auto@0.30.2
+- pkg:maven/io.atleon/atleon-micrometer-auto@0.30.2?classifier=sources
+- pkg:maven/io.atleon/atleon-micrometer-auto@0.30.3
+- pkg:maven/io.atleon/atleon-micrometer-auto@0.30.3?classifier=sources

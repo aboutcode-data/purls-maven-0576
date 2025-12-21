@@ -1,0 +1,4 @@
+- pkg:maven/io.github.brys0/blurhash@0.0-3-ALPHA?classifier=sources
+- pkg:maven/io.github.brys0/blurhash@0.0-4-ALPHA?classifier=sources
+- pkg:maven/io.github.brys0/blurhash@0.0.1-ALPHA?classifier=sources
+- pkg:maven/io.github.brys0/blurhash@0.0.2-ALPHA?classifier=sources

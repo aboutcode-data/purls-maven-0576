@@ -54,3 +54,5 @@
 - pkg:maven/io.github.BeardedManZhao/mathematical-expression@1.4.8?classifier=sources
 - pkg:maven/io.github.BeardedManZhao/mathematical-expression@1.4.9
 - pkg:maven/io.github.BeardedManZhao/mathematical-expression@1.4.9?classifier=sources
+- pkg:maven/io.github.BeardedManZhao/mathematical-expression@1.5.0
+- pkg:maven/io.github.BeardedManZhao/mathematical-expression@1.5.0?classifier=sources

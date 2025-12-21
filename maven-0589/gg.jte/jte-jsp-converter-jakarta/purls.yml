@@ -10,3 +10,5 @@
 - pkg:maven/gg.jte/jte-jsp-converter-jakarta@3.1.15?classifier=sources
 - pkg:maven/gg.jte/jte-jsp-converter-jakarta@3.1.16
 - pkg:maven/gg.jte/jte-jsp-converter-jakarta@3.1.16?classifier=sources
+- pkg:maven/gg.jte/jte-jsp-converter-jakarta@3.2.0
+- pkg:maven/gg.jte/jte-jsp-converter-jakarta@3.2.0?classifier=sources

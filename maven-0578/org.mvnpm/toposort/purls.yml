@@ -1,1 +1,2 @@
+- pkg:maven/org.mvnpm/toposort@1.0.7?classifier=sources
 - pkg:maven/org.mvnpm/toposort@2.0.2?classifier=sources

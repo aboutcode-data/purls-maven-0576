@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm/mrmime@1.0.1?classifier=sources
+- pkg:maven/org.mvnpm/mrmime@2.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.km.ext.wso2is/wso2is7.key.manager@2.0.5
+- pkg:maven/org.wso2.km.ext.wso2is/wso2is7.key.manager@2.0.5?classifier=sources

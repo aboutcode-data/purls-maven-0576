@@ -1,0 +1,4 @@
+- pkg:maven/com.alipay.sofa.koupleless/koupleless-adapter-mybatis-3.5.15@1.2.4
+- pkg:maven/com.alipay.sofa.koupleless/koupleless-adapter-mybatis-3.5.15@1.2.4?classifier=sources
+- pkg:maven/com.alipay.sofa.koupleless/koupleless-adapter-mybatis-3.5.15@1.2.7
+- pkg:maven/com.alipay.sofa.koupleless/koupleless-adapter-mybatis-3.5.15@1.2.7?classifier=sources

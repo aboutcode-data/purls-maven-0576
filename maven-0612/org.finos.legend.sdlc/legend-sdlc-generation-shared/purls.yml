@@ -252,3 +252,13 @@
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-shared@0.184.4?classifier=sources
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-shared@0.184.5
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-shared@0.184.5?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-shared@0.185.5
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-shared@0.185.5?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-shared@0.186.0
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-shared@0.186.0?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-shared@0.187.0
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-shared@0.187.0?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-shared@0.188.0
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-shared@0.188.0?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-shared@0.188.1
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-generation-shared@0.188.1?classifier=sources

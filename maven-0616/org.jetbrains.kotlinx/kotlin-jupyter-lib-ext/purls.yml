@@ -511,6 +511,11 @@
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-lib-ext@0.12.0-387?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-lib-ext@0.12.0-388?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-lib-ext@0.12.0-38?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-lib-ext@0.12.0-390?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-lib-ext@0.12.0-392?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-lib-ext@0.12.0-393?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-lib-ext@0.12.0-396?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-lib-ext@0.12.0-398?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-lib-ext@0.12.0-41?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-lib-ext@0.12.0-42?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-lib-ext@0.12.0-43?classifier=sources

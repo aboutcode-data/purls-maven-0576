@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm/lodash.templatesettings@3.1.1?classifier=sources
+- pkg:maven/org.mvnpm/lodash.templatesettings@4.2.0?classifier=sources

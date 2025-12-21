@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm/decompress-response@3.3.0?classifier=sources
+- pkg:maven/org.mvnpm/decompress-response@4.2.1?classifier=sources
 - pkg:maven/org.mvnpm/decompress-response@6.0.0?classifier=sources
+- pkg:maven/org.mvnpm/decompress-response@9.0.0?classifier=sources

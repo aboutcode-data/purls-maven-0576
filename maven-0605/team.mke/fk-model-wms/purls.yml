@@ -1,0 +1,2 @@
+- pkg:maven/team.mke/fk-model-wms@2.0.0?classifier=sources
+- pkg:maven/team.mke/fk-model-wms@2.0.1?classifier=sources

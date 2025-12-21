@@ -19,3 +19,5 @@
 - pkg:maven/org.eclipse.glsp.example/org.eclipse.glsp.example.workflow@2.2.1?classifier=sources
 - pkg:maven/org.eclipse.glsp.example/org.eclipse.glsp.example.workflow@2.3.0.javax?classifier=sources
 - pkg:maven/org.eclipse.glsp.example/org.eclipse.glsp.example.workflow@2.3.0?classifier=sources
+- pkg:maven/org.eclipse.glsp.example/org.eclipse.glsp.example.workflow@2.4.0.javax?classifier=sources
+- pkg:maven/org.eclipse.glsp.example/org.eclipse.glsp.example.workflow@2.4.0?classifier=sources

@@ -90,6 +90,8 @@
 - pkg:maven/io.quarkus.arc/arc-atinject-tck-runner@3.20.0.CR1
 - pkg:maven/io.quarkus.arc/arc-atinject-tck-runner@3.21.0
 - pkg:maven/io.quarkus.arc/arc-atinject-tck-runner@3.21.0.CR1
+- pkg:maven/io.quarkus.arc/arc-atinject-tck-runner@3.21.1
+- pkg:maven/io.quarkus.arc/arc-atinject-tck-runner@3.21.2
 - pkg:maven/io.quarkus.arc/arc-atinject-tck-runner@3.3.0
 - pkg:maven/io.quarkus.arc/arc-atinject-tck-runner@3.3.0.CR1
 - pkg:maven/io.quarkus.arc/arc-atinject-tck-runner@3.3.1

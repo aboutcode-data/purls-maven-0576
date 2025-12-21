@@ -1,1 +1,7 @@
 - pkg:maven/org.mvnpm.at.gomomento/sdk-core@1.100.0?classifier=sources
+- pkg:maven/org.mvnpm.at.gomomento/sdk-core@1.108.0?classifier=sources
+- pkg:maven/org.mvnpm.at.gomomento/sdk-core@1.109.0?classifier=sources
+- pkg:maven/org.mvnpm.at.gomomento/sdk-core@1.110.0?classifier=sources
+- pkg:maven/org.mvnpm.at.gomomento/sdk-core@1.110.2?classifier=sources
+- pkg:maven/org.mvnpm.at.gomomento/sdk-core@1.110.3?classifier=sources
+- pkg:maven/org.mvnpm.at.gomomento/sdk-core@1.111.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.crac.org.springframework.boot/crac-spring-boot-starter@3.4.3
+- pkg:maven/io.github.crac.org.springframework.boot/crac-spring-boot-starter@3.4.3?classifier=sources

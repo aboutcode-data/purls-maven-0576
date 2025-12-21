@@ -8,3 +8,4 @@
 - pkg:maven/se.swedenconnect.eidas/eidas-attribute-handling@2.0.3?classifier=sources
 - pkg:maven/se.swedenconnect.eidas/eidas-attribute-handling@2.0.4
 - pkg:maven/se.swedenconnect.eidas/eidas-attribute-handling@2.0.4?classifier=sources
+- pkg:maven/se.swedenconnect.eidas/eidas-attribute-handling@2.0.5?classifier=sources

@@ -344,6 +344,10 @@
 - pkg:maven/io.joynr.tools.generator/java-generator@1.24.2.2
 - pkg:maven/io.joynr.tools.generator/java-generator@1.24.2.2?classifier=sources
 - pkg:maven/io.joynr.tools.generator/java-generator@1.24.2?classifier=sources
+- pkg:maven/io.joynr.tools.generator/java-generator@1.24.3
+- pkg:maven/io.joynr.tools.generator/java-generator@1.24.3?classifier=sources
+- pkg:maven/io.joynr.tools.generator/java-generator@1.24.4
+- pkg:maven/io.joynr.tools.generator/java-generator@1.24.4?classifier=sources
 - pkg:maven/io.joynr.tools.generator/java-generator@1.25.0
 - pkg:maven/io.joynr.tools.generator/java-generator@1.25.0?classifier=sources
 - pkg:maven/io.joynr.tools.generator/java-generator@1.26.0

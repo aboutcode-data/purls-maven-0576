@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/v8flags@3.2.0?classifier=sources
+- pkg:maven/org.mvnpm/v8flags@4.0.1?classifier=sources

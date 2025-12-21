@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm/color-alpha@1.0.4?classifier=sources
+- pkg:maven/org.mvnpm/color-alpha@2.0.0?classifier=sources

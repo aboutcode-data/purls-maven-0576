@@ -12,6 +12,7 @@
 - pkg:maven/org.webjars.npm/okta__okta-auth-js@6.6.2?classifier=sources
 - pkg:maven/org.webjars.npm/okta__okta-auth-js@7.0.2
 - pkg:maven/org.webjars.npm/okta__okta-auth-js@7.0.2?classifier=sources
+- pkg:maven/org.webjars.npm/okta__okta-auth-js@7.11.1
 - pkg:maven/org.webjars.npm/okta__okta-auth-js@7.2.0
 - pkg:maven/org.webjars.npm/okta__okta-auth-js@7.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/okta__okta-auth-js@7.4.3

@@ -96,3 +96,7 @@
 - pkg:maven/io.github.chris2018998/stone@1.4.6?classifier=sources
 - pkg:maven/io.github.chris2018998/stone@1.4.7
 - pkg:maven/io.github.chris2018998/stone@1.4.7?classifier=sources
+- pkg:maven/io.github.chris2018998/stone@1.4.8
+- pkg:maven/io.github.chris2018998/stone@1.4.8?classifier=sources
+- pkg:maven/io.github.chris2018998/stone@1.4.9
+- pkg:maven/io.github.chris2018998/stone@1.4.9?classifier=sources

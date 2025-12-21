@@ -24,6 +24,8 @@
 - pkg:maven/com.github.cryptomorin/XSeries@13.0.0?classifier=sources
 - pkg:maven/com.github.cryptomorin/XSeries@13.1.0
 - pkg:maven/com.github.cryptomorin/XSeries@13.1.0?classifier=sources
+- pkg:maven/com.github.cryptomorin/XSeries@13.2.0
+- pkg:maven/com.github.cryptomorin/XSeries@13.2.0?classifier=sources
 - pkg:maven/com.github.cryptomorin/XSeries@5.0.0
 - pkg:maven/com.github.cryptomorin/XSeries@5.0.0?classifier=sources
 - pkg:maven/com.github.cryptomorin/XSeries@5.1.0

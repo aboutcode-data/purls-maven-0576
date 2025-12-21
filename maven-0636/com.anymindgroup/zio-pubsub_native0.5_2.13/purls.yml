@@ -1,5 +1,7 @@
 - pkg:maven/com.anymindgroup/zio-pubsub_native0.5_2.13@0.2.10
 - pkg:maven/com.anymindgroup/zio-pubsub_native0.5_2.13@0.2.10?classifier=sources
+- pkg:maven/com.anymindgroup/zio-pubsub_native0.5_2.13@0.2.11
+- pkg:maven/com.anymindgroup/zio-pubsub_native0.5_2.13@0.2.11?classifier=sources
 - pkg:maven/com.anymindgroup/zio-pubsub_native0.5_2.13@0.2.3
 - pkg:maven/com.anymindgroup/zio-pubsub_native0.5_2.13@0.2.3?classifier=sources
 - pkg:maven/com.anymindgroup/zio-pubsub_native0.5_2.13@0.2.4

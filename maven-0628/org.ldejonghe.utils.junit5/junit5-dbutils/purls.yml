@@ -1,0 +1,2 @@
+- pkg:maven/org.ldejonghe.utils.junit5/junit5-dbutils@1.0.0-jakarta?classifier=sources
+- pkg:maven/org.ldejonghe.utils.junit5/junit5-dbutils@1.0.1-jakarta?classifier=sources

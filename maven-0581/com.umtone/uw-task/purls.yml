@@ -27,3 +27,5 @@
 - pkg:maven/com.umtone/uw-task@1.1.9
 - pkg:maven/com.umtone/uw-task@1.1.9?classifier=sources
 - pkg:maven/com.umtone/uw-task@5.0.100?classifier=sources
+- pkg:maven/com.umtone/uw-task@5.0.101?classifier=sources
+- pkg:maven/com.umtone/uw-task@5.0.110?classifier=sources

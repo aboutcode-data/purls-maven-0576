@@ -1,0 +1,2 @@
+- pkg:maven/io.exoquery/controller-core-jvm@2.0.0?classifier=sources
+- pkg:maven/io.exoquery/controller-core-jvm@3.0.0?classifier=sources

@@ -73,6 +73,7 @@
 - pkg:maven/com.liferay/com.liferay.petra.concurrent@2.0.13
 - pkg:maven/com.liferay/com.liferay.petra.concurrent@2.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.petra.concurrent@2.0.14?classifier=sources
+- pkg:maven/com.liferay/com.liferay.petra.concurrent@2.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.petra.concurrent@2.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.petra.concurrent@2.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.petra.concurrent@2.0.2
@@ -103,6 +104,7 @@
 - pkg:maven/com.liferay/com.liferay.petra.concurrent@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.petra.concurrent@3.0.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.petra.concurrent@3.0.1
+- pkg:maven/com.liferay/com.liferay.petra.concurrent@3.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.petra.concurrent@3.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.petra.concurrent@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.petra.concurrent@3.0.2
@@ -147,6 +149,7 @@
 - pkg:maven/com.liferay/com.liferay.petra.concurrent@4.0.6
 - pkg:maven/com.liferay/com.liferay.petra.concurrent@4.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.petra.concurrent@4.0.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.petra.concurrent@4.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.petra.concurrent@5.0.0
 - pkg:maven/com.liferay/com.liferay.petra.concurrent@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.petra.concurrent@5.0.0?classifier=sources-commercial

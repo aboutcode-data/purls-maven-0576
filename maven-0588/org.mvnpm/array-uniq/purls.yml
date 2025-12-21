@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm/array-uniq@1.0.3?classifier=sources
+- pkg:maven/org.mvnpm/array-uniq@3.0.0?classifier=sources

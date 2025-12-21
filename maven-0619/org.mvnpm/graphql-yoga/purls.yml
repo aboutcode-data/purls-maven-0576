@@ -1,1 +1,3 @@
+- pkg:maven/org.mvnpm/graphql-yoga@5.12.0?classifier=sources
 - pkg:maven/org.mvnpm/graphql-yoga@5.13.2?classifier=sources
+- pkg:maven/org.mvnpm/graphql-yoga@5.13.3?classifier=sources

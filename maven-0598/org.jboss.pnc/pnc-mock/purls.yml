@@ -146,3 +146,5 @@
 - pkg:maven/org.jboss.pnc/pnc-mock@3.0.3?classifier=sources
 - pkg:maven/org.jboss.pnc/pnc-mock@3.0.4
 - pkg:maven/org.jboss.pnc/pnc-mock@3.0.4?classifier=sources
+- pkg:maven/org.jboss.pnc/pnc-mock@3.1.4
+- pkg:maven/org.jboss.pnc/pnc-mock@3.1.4?classifier=sources

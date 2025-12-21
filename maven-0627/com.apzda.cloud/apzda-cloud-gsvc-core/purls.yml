@@ -48,3 +48,5 @@
 - pkg:maven/com.apzda.cloud/apzda-cloud-gsvc-core@1.2.9?classifier=sources
 - pkg:maven/com.apzda.cloud/apzda-cloud-gsvc-core@3.4.0
 - pkg:maven/com.apzda.cloud/apzda-cloud-gsvc-core@3.4.0?classifier=sources
+- pkg:maven/com.apzda.cloud/apzda-cloud-gsvc-core@3.4.1
+- pkg:maven/com.apzda.cloud/apzda-cloud-gsvc-core@3.4.1?classifier=sources

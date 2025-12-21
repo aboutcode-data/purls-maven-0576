@@ -8,3 +8,5 @@
 - pkg:maven/io.opencaesar.owl/owl-tdb-gradle@2.13.0?classifier=sources
 - pkg:maven/io.opencaesar.owl/owl-tdb-gradle@2.14.0
 - pkg:maven/io.opencaesar.owl/owl-tdb-gradle@2.14.0?classifier=sources
+- pkg:maven/io.opencaesar.owl/owl-tdb-gradle@2.15.0
+- pkg:maven/io.opencaesar.owl/owl-tdb-gradle@2.15.0?classifier=sources

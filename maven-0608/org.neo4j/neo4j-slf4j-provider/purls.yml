@@ -2,6 +2,8 @@
 - pkg:maven/org.neo4j/neo4j-slf4j-provider@2025.01.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-slf4j-provider@2025.02.0
 - pkg:maven/org.neo4j/neo4j-slf4j-provider@2025.02.0?classifier=sources
+- pkg:maven/org.neo4j/neo4j-slf4j-provider@2025.03.0
+- pkg:maven/org.neo4j/neo4j-slf4j-provider@2025.03.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-slf4j-provider@5.10.0
 - pkg:maven/org.neo4j/neo4j-slf4j-provider@5.10.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-slf4j-provider@5.11.0
@@ -52,6 +54,8 @@
 - pkg:maven/org.neo4j/neo4j-slf4j-provider@5.26.3?classifier=sources
 - pkg:maven/org.neo4j/neo4j-slf4j-provider@5.26.4
 - pkg:maven/org.neo4j/neo4j-slf4j-provider@5.26.4?classifier=sources
+- pkg:maven/org.neo4j/neo4j-slf4j-provider@5.26.5
+- pkg:maven/org.neo4j/neo4j-slf4j-provider@5.26.5?classifier=sources
 - pkg:maven/org.neo4j/neo4j-slf4j-provider@5.7.0
 - pkg:maven/org.neo4j/neo4j-slf4j-provider@5.7.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-slf4j-provider@5.8.0

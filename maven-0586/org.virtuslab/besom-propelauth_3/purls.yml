@@ -1,0 +1,2 @@
+- pkg:maven/org.virtuslab/besom-propelauth_3@0.4.1-core.0.4
+- pkg:maven/org.virtuslab/besom-propelauth_3@0.4.1-core.0.4?classifier=sources

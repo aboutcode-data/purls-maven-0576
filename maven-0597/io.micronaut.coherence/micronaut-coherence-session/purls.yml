@@ -19,4 +19,5 @@
 - pkg:maven/io.micronaut.coherence/micronaut-coherence-session@5.0.2?classifier=sources
 - pkg:maven/io.micronaut.coherence/micronaut-coherence-session@5.0.3?classifier=sources
 - pkg:maven/io.micronaut.coherence/micronaut-coherence-session@5.0.4?classifier=sources
+- pkg:maven/io.micronaut.coherence/micronaut-coherence-session@5.0.5?classifier=sources
 - pkg:maven/io.micronaut.coherence/micronaut-coherence-session@ntagged-b8eddaaffef6190d285b?classifier=sources

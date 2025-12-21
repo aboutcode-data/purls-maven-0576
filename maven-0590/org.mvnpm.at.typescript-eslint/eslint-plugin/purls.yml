@@ -1,1 +1,6 @@
+- pkg:maven/org.mvnpm.at.typescript-eslint/eslint-plugin@5.62.0?classifier=sources
+- pkg:maven/org.mvnpm.at.typescript-eslint/eslint-plugin@7.18.0?classifier=sources
 - pkg:maven/org.mvnpm.at.typescript-eslint/eslint-plugin@8.26.1?classifier=sources
+- pkg:maven/org.mvnpm.at.typescript-eslint/eslint-plugin@8.28.0?classifier=sources
+- pkg:maven/org.mvnpm.at.typescript-eslint/eslint-plugin@8.29.0?classifier=sources
+- pkg:maven/org.mvnpm.at.typescript-eslint/eslint-plugin@8.29.1?classifier=sources

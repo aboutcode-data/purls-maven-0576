@@ -12,3 +12,4 @@
 - pkg:maven/dev.evo.elasticmagic/elasticmagic-serde-kotlinx-json-jvm@0.0.32?classifier=sources
 - pkg:maven/dev.evo.elasticmagic/elasticmagic-serde-kotlinx-json-jvm@0.1.0?classifier=sources
 - pkg:maven/dev.evo.elasticmagic/elasticmagic-serde-kotlinx-json-jvm@0.2.0?classifier=sources
+- pkg:maven/dev.evo.elasticmagic/elasticmagic-serde-kotlinx-json-jvm@0.3.0?classifier=sources

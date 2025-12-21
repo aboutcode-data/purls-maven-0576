@@ -1,0 +1,1 @@
+- pkg:maven/com.salesforce.datacloud/jdbc-http@0.25.4?classifier=sources

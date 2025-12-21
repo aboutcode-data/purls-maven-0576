@@ -72,6 +72,10 @@
 - pkg:maven/org.restheart/restheart-graphql@6.6.1?classifier=sources
 - pkg:maven/org.restheart/restheart-graphql@6.6.2
 - pkg:maven/org.restheart/restheart-graphql@6.6.2?classifier=sources
+- pkg:maven/org.restheart/restheart-graphql@6.6.3
+- pkg:maven/org.restheart/restheart-graphql@6.6.3?classifier=sources
+- pkg:maven/org.restheart/restheart-graphql@6.6.4
+- pkg:maven/org.restheart/restheart-graphql@6.6.4?classifier=sources
 - pkg:maven/org.restheart/restheart-graphql@7.0.0
 - pkg:maven/org.restheart/restheart-graphql@7.0.0?classifier=sources
 - pkg:maven/org.restheart/restheart-graphql@7.1.0
@@ -220,3 +224,5 @@
 - pkg:maven/org.restheart/restheart-graphql@8.3.3?classifier=sources
 - pkg:maven/org.restheart/restheart-graphql@8.3.4
 - pkg:maven/org.restheart/restheart-graphql@8.3.4?classifier=sources
+- pkg:maven/org.restheart/restheart-graphql@8.4.0
+- pkg:maven/org.restheart/restheart-graphql@8.4.0?classifier=sources

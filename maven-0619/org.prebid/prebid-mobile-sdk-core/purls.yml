@@ -80,3 +80,5 @@
 - pkg:maven/org.prebid/prebid-mobile-sdk-core@2.4.0?type=aar
 - pkg:maven/org.prebid/prebid-mobile-sdk-core@2.5.0?classifier=sources
 - pkg:maven/org.prebid/prebid-mobile-sdk-core@2.5.0?type=aar
+- pkg:maven/org.prebid/prebid-mobile-sdk-core@3.0.0?classifier=sources
+- pkg:maven/org.prebid/prebid-mobile-sdk-core@3.0.0?type=aar

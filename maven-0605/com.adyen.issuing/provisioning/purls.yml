@@ -5,3 +5,5 @@
 - pkg:maven/com.adyen.issuing/provisioning@0.2.0?type=aar
 - pkg:maven/com.adyen.issuing/provisioning@0.3.0?classifier=sources
 - pkg:maven/com.adyen.issuing/provisioning@0.3.0?type=aar
+- pkg:maven/com.adyen.issuing/provisioning@0.3.1?classifier=sources
+- pkg:maven/com.adyen.issuing/provisioning@0.3.1?type=aar

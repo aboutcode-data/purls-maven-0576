@@ -5,3 +5,4 @@
 - pkg:maven/io.scalecube/scalecube-security-tests@1.1.1.RC2
 - pkg:maven/io.scalecube/scalecube-security-tests@1.1.1.RC3
 - pkg:maven/io.scalecube/scalecube-security-tests@1.1.1.RC4
+- pkg:maven/io.scalecube/scalecube-security-tests@1.1.1.RC5

@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/type-detect@4.0.8?classifier=sources
+- pkg:maven/org.mvnpm/type-detect@4.1.0?classifier=sources

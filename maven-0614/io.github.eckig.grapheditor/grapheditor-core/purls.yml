@@ -3,3 +3,4 @@
 - pkg:maven/io.github.eckig.grapheditor/grapheditor-core@19.0.0
 - pkg:maven/io.github.eckig.grapheditor/grapheditor-core@19.0.0?classifier=sources
 - pkg:maven/io.github.eckig.grapheditor/grapheditor-core@21.0.0?classifier=sources
+- pkg:maven/io.github.eckig.grapheditor/grapheditor-core@21.1.0?classifier=sources

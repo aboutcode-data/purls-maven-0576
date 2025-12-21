@@ -1,1 +1,2 @@
 - pkg:maven/top.chwei/agile-starter-extension-datapermission-core@0.0.1?classifier=sources
+- pkg:maven/top.chwei/agile-starter-extension-datapermission-core@0.0.2?classifier=sources

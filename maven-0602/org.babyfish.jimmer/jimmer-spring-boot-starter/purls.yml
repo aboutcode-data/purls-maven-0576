@@ -469,7 +469,12 @@
 - pkg:maven/org.babyfish.jimmer/jimmer-spring-boot-starter@0.9.66?classifier=sources
 - pkg:maven/org.babyfish.jimmer/jimmer-spring-boot-starter@0.9.67?classifier=sources
 - pkg:maven/org.babyfish.jimmer/jimmer-spring-boot-starter@0.9.68?classifier=sources
+- pkg:maven/org.babyfish.jimmer/jimmer-spring-boot-starter@0.9.69?classifier=sources
 - pkg:maven/org.babyfish.jimmer/jimmer-spring-boot-starter@0.9.6?classifier=sources
+- pkg:maven/org.babyfish.jimmer/jimmer-spring-boot-starter@0.9.70?classifier=sources
+- pkg:maven/org.babyfish.jimmer/jimmer-spring-boot-starter@0.9.71?classifier=sources
+- pkg:maven/org.babyfish.jimmer/jimmer-spring-boot-starter@0.9.72?classifier=sources
+- pkg:maven/org.babyfish.jimmer/jimmer-spring-boot-starter@0.9.73?classifier=sources
 - pkg:maven/org.babyfish.jimmer/jimmer-spring-boot-starter@0.9.7?classifier=sources
 - pkg:maven/org.babyfish.jimmer/jimmer-spring-boot-starter@0.9.8?classifier=sources
 - pkg:maven/org.babyfish.jimmer/jimmer-spring-boot-starter@0.9.9?classifier=sources

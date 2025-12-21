@@ -5,6 +5,7 @@
 - pkg:maven/dev.macula.boot/macula-boot-starter-kafka@5.0.14
 - pkg:maven/dev.macula.boot/macula-boot-starter-kafka@5.0.15
 - pkg:maven/dev.macula.boot/macula-boot-starter-kafka@5.0.16
+- pkg:maven/dev.macula.boot/macula-boot-starter-kafka@5.0.17
 - pkg:maven/dev.macula.boot/macula-boot-starter-kafka@5.0.7
 - pkg:maven/dev.macula.boot/macula-boot-starter-kafka@5.0.8
 - pkg:maven/dev.macula.boot/macula-boot-starter-kafka@5.0.9

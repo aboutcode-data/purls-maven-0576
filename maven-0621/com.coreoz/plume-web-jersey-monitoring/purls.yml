@@ -4,6 +4,8 @@
 - pkg:maven/com.coreoz/plume-web-jersey-monitoring@4.2.2?classifier=sources
 - pkg:maven/com.coreoz/plume-web-jersey-monitoring@4.2.3
 - pkg:maven/com.coreoz/plume-web-jersey-monitoring@4.2.3?classifier=sources
+- pkg:maven/com.coreoz/plume-web-jersey-monitoring@5.0.0-RC1
+- pkg:maven/com.coreoz/plume-web-jersey-monitoring@5.0.0-RC1?classifier=sources
 - pkg:maven/com.coreoz/plume-web-jersey-monitoring@5.0.0-beta1
 - pkg:maven/com.coreoz/plume-web-jersey-monitoring@5.0.0-beta1?classifier=sources
 - pkg:maven/com.coreoz/plume-web-jersey-monitoring@5.0.0-beta2

@@ -221,6 +221,7 @@
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.builder@1.0.76
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.builder@1.0.76?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.builder@1.0.77?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.builder@1.0.78?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.builder@1.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.builder@1.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.builder@1.0.8
@@ -503,6 +504,7 @@
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.builder@2.0.91
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.builder@2.0.91?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.builder@2.0.92?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.builder@2.0.93?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.builder@2.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.builder@2.0.9?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.builder@3.0.0
@@ -750,6 +752,7 @@
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.builder@3.0.82?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.builder@3.0.83?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.builder@3.0.84?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.builder@3.0.85?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.builder@3.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.builder@3.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.builder@3.0.9
@@ -908,6 +911,7 @@
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.builder@4.0.64?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.builder@4.0.65?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.builder@4.0.66?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.builder@4.0.67?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.builder@4.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.builder@4.0.6?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.builder@4.0.7

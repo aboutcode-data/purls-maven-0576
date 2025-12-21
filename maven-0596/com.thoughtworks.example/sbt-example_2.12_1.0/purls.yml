@@ -34,3 +34,15 @@
 - pkg:maven/com.thoughtworks.example/sbt-example_2.12_1.0@9.3.0%2B86-79a355e4?classifier=sources
 - pkg:maven/com.thoughtworks.example/sbt-example_2.12_1.0@9.3.0%2B87-9f234adc
 - pkg:maven/com.thoughtworks.example/sbt-example_2.12_1.0@9.3.0%2B87-9f234adc?classifier=sources
+- pkg:maven/com.thoughtworks.example/sbt-example_2.12_1.0@9.3.0%2B91-cb330794
+- pkg:maven/com.thoughtworks.example/sbt-example_2.12_1.0@9.3.0%2B91-cb330794?classifier=sources
+- pkg:maven/com.thoughtworks.example/sbt-example_2.12_1.0@9.3.0%2B92-3b775ab2
+- pkg:maven/com.thoughtworks.example/sbt-example_2.12_1.0@9.3.0%2B92-3b775ab2?classifier=sources
+- pkg:maven/com.thoughtworks.example/sbt-example_2.12_1.0@9.3.0%2B93-3472da82
+- pkg:maven/com.thoughtworks.example/sbt-example_2.12_1.0@9.3.0%2B93-3472da82?classifier=sources
+- pkg:maven/com.thoughtworks.example/sbt-example_2.12_1.0@9.3.0%2B95-6af6d09a
+- pkg:maven/com.thoughtworks.example/sbt-example_2.12_1.0@9.3.0%2B95-6af6d09a?classifier=sources
+- pkg:maven/com.thoughtworks.example/sbt-example_2.12_1.0@9.3.0%2B97-2f27d515
+- pkg:maven/com.thoughtworks.example/sbt-example_2.12_1.0@9.3.0%2B97-2f27d515?classifier=sources
+- pkg:maven/com.thoughtworks.example/sbt-example_2.12_1.0@9.3.1
+- pkg:maven/com.thoughtworks.example/sbt-example_2.12_1.0@9.3.1?classifier=sources

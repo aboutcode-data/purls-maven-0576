@@ -2,3 +2,4 @@
 - pkg:maven/com.svenruppert/core@06.00.01?classifier=sources
 - pkg:maven/com.svenruppert/core@06.00.02?classifier=sources
 - pkg:maven/com.svenruppert/core@06.00.03?classifier=sources
+- pkg:maven/com.svenruppert/core@06.00.04?classifier=sources

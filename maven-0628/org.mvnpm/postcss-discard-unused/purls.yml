@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/postcss-discard-unused@2.2.3?classifier=sources
+- pkg:maven/org.mvnpm/postcss-discard-unused@7.0.3?classifier=sources

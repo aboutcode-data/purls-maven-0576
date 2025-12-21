@@ -12,3 +12,5 @@
 - pkg:maven/pro.fessional/mirana@2.7.2?classifier=sources
 - pkg:maven/pro.fessional/mirana@2.7.3
 - pkg:maven/pro.fessional/mirana@2.7.3?classifier=sources
+- pkg:maven/pro.fessional/mirana@3.0.0
+- pkg:maven/pro.fessional/mirana@3.0.0?classifier=sources

@@ -93,3 +93,6 @@
 - pkg:maven/io.customer.android/base@4.5.1?classifier=sources
 - pkg:maven/io.customer.android/base@4.5.2?classifier=sources
 - pkg:maven/io.customer.android/base@4.5.3?classifier=sources
+- pkg:maven/io.customer.android/base@4.5.4?classifier=sources
+- pkg:maven/io.customer.android/base@4.5.5?classifier=sources
+- pkg:maven/io.customer.android/base@4.5.6?classifier=sources

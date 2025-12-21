@@ -654,6 +654,7 @@
 - pkg:maven/com.liferay/com.liferay.wiki.service@2.0.84
 - pkg:maven/com.liferay/com.liferay.wiki.service@2.0.84?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.service@2.0.85?classifier=sources
+- pkg:maven/com.liferay/com.liferay.wiki.service@2.0.86?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.service@2.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.service@2.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.wiki.service@2.0.9
@@ -862,6 +863,7 @@
 - pkg:maven/com.liferay/com.liferay.wiki.service@3.0.7
 - pkg:maven/com.liferay/com.liferay.wiki.service@3.0.70?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.service@3.0.71?classifier=sources
+- pkg:maven/com.liferay/com.liferay.wiki.service@3.0.72?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.service@3.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.service@3.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.wiki.service@3.0.8
@@ -1030,6 +1032,7 @@
 - pkg:maven/com.liferay/com.liferay.wiki.service@4.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.service@4.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.wiki.service@4.0.6
+- pkg:maven/com.liferay/com.liferay.wiki.service@4.0.60?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.service@4.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.service@4.0.6?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.wiki.service@4.0.7
@@ -1270,5 +1273,6 @@
 - pkg:maven/com.liferay/com.liferay.wiki.service@5.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.service@5.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.wiki.service@5.0.9
+- pkg:maven/com.liferay/com.liferay.wiki.service@5.0.90?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.service@5.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.service@5.0.9?classifier=sources-commercial

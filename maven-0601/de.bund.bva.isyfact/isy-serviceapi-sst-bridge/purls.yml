@@ -32,3 +32,5 @@
 - pkg:maven/de.bund.bva.isyfact/isy-serviceapi-sst-bridge@2.4.4?classifier=sources
 - pkg:maven/de.bund.bva.isyfact/isy-serviceapi-sst-bridge@2.5.0
 - pkg:maven/de.bund.bva.isyfact/isy-serviceapi-sst-bridge@2.5.0?classifier=sources
+- pkg:maven/de.bund.bva.isyfact/isy-serviceapi-sst-bridge@2.6.0
+- pkg:maven/de.bund.bva.isyfact/isy-serviceapi-sst-bridge@2.6.0?classifier=sources

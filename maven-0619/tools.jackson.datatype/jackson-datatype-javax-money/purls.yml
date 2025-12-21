@@ -1,0 +1,2 @@
+- pkg:maven/tools.jackson.datatype/jackson-datatype-javax-money@3.0.0-rc2?classifier=sources
+- pkg:maven/tools.jackson.datatype/jackson-datatype-javax-money@3.0.0-rc3?classifier=sources

@@ -2,6 +2,8 @@
 - pkg:maven/org.neo4j/neo4j-procedure-api@2025.01.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-procedure-api@2025.02.0
 - pkg:maven/org.neo4j/neo4j-procedure-api@2025.02.0?classifier=sources
+- pkg:maven/org.neo4j/neo4j-procedure-api@2025.03.0
+- pkg:maven/org.neo4j/neo4j-procedure-api@2025.03.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-procedure-api@3.4.0
 - pkg:maven/org.neo4j/neo4j-procedure-api@3.4.0-alpha10
 - pkg:maven/org.neo4j/neo4j-procedure-api@3.4.0-alpha10?classifier=sources
@@ -365,6 +367,8 @@
 - pkg:maven/org.neo4j/neo4j-procedure-api@4.4.40?classifier=sources
 - pkg:maven/org.neo4j/neo4j-procedure-api@4.4.41
 - pkg:maven/org.neo4j/neo4j-procedure-api@4.4.41?classifier=sources
+- pkg:maven/org.neo4j/neo4j-procedure-api@4.4.42
+- pkg:maven/org.neo4j/neo4j-procedure-api@4.4.42?classifier=sources
 - pkg:maven/org.neo4j/neo4j-procedure-api@4.4.4?classifier=sources
 - pkg:maven/org.neo4j/neo4j-procedure-api@4.4.5
 - pkg:maven/org.neo4j/neo4j-procedure-api@4.4.5?classifier=sources
@@ -430,6 +434,8 @@
 - pkg:maven/org.neo4j/neo4j-procedure-api@5.26.3?classifier=sources
 - pkg:maven/org.neo4j/neo4j-procedure-api@5.26.4
 - pkg:maven/org.neo4j/neo4j-procedure-api@5.26.4?classifier=sources
+- pkg:maven/org.neo4j/neo4j-procedure-api@5.26.5
+- pkg:maven/org.neo4j/neo4j-procedure-api@5.26.5?classifier=sources
 - pkg:maven/org.neo4j/neo4j-procedure-api@5.3.0
 - pkg:maven/org.neo4j/neo4j-procedure-api@5.3.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-procedure-api@5.4.0

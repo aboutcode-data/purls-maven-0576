@@ -1,2 +1,3 @@
 - pkg:maven/org.mvnpm/is-unicode-supported@0.1.0?classifier=sources
 - pkg:maven/org.mvnpm/is-unicode-supported@1.3.0?classifier=sources
+- pkg:maven/org.mvnpm/is-unicode-supported@2.1.0?classifier=sources

@@ -1,3 +1,4 @@
+- pkg:maven/org.mvnpm/style-to-object@0.3.0?classifier=sources
 - pkg:maven/org.mvnpm/style-to-object@1.0.6?classifier=sources
 - pkg:maven/org.mvnpm/style-to-object@1.0.7?classifier=sources
 - pkg:maven/org.mvnpm/style-to-object@1.0.8?classifier=sources
