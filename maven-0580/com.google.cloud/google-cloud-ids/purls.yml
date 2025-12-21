@@ -138,6 +138,10 @@
 - pkg:maven/com.google.cloud/google-cloud-ids@1.6.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-ids@1.60.0
 - pkg:maven/com.google.cloud/google-cloud-ids@1.60.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-ids@1.61.0
+- pkg:maven/com.google.cloud/google-cloud-ids@1.61.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-ids@1.62.0
+- pkg:maven/com.google.cloud/google-cloud-ids@1.62.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-ids@1.7.0
 - pkg:maven/com.google.cloud/google-cloud-ids@1.7.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-ids@1.8.0

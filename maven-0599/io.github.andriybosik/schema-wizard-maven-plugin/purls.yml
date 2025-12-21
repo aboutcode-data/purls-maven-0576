@@ -1,1 +1,2 @@
 - pkg:maven/io.github.andriybosik/schema-wizard-maven-plugin@0.0.3?classifier=sources
+- pkg:maven/io.github.andriybosik/schema-wizard-maven-plugin@1.0.1?classifier=sources

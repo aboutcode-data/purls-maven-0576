@@ -1,2 +1,5 @@
 - pkg:maven/org.noear/solon-expression-to-milvus@3.3.1-M2?classifier=sources
 - pkg:maven/org.noear/solon-expression-to-milvus@3.3.1-M3?classifier=sources
+- pkg:maven/org.noear/solon-expression-to-milvus@3.3.1-RC?classifier=sources
+- pkg:maven/org.noear/solon-expression-to-milvus@3.3.1?classifier=sources
+- pkg:maven/org.noear/solon-expression-to-milvus@3.3.2-RC?classifier=sources

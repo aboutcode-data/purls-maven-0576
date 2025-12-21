@@ -16,3 +16,5 @@
 - pkg:maven/com.ringcentral.platform.metrics/metrics-facade-base@3.2.0-RELEASE?classifier=sources
 - pkg:maven/com.ringcentral.platform.metrics/metrics-facade-base@4.0.0-RELEASE
 - pkg:maven/com.ringcentral.platform.metrics/metrics-facade-base@4.0.0-RELEASE?classifier=sources
+- pkg:maven/com.ringcentral.platform.metrics/metrics-facade-base@4.1.0-RELEASE
+- pkg:maven/com.ringcentral.platform.metrics/metrics-facade-base@4.1.0-RELEASE?classifier=sources

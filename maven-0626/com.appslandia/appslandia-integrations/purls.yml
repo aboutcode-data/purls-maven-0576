@@ -1,0 +1,2 @@
+- pkg:maven/com.appslandia/appslandia-integrations@1.1
+- pkg:maven/com.appslandia/appslandia-integrations@1.1?classifier=sources

@@ -3748,6 +3748,10 @@
 - pkg:maven/com.amazonaws/aws-java-sdk-config@1.12.782?classifier=sources
 - pkg:maven/com.amazonaws/aws-java-sdk-config@1.12.783
 - pkg:maven/com.amazonaws/aws-java-sdk-config@1.12.783?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-config@1.12.784
+- pkg:maven/com.amazonaws/aws-java-sdk-config@1.12.784?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-config@1.12.785
+- pkg:maven/com.amazonaws/aws-java-sdk-config@1.12.785?classifier=sources
 - pkg:maven/com.amazonaws/aws-java-sdk-config@1.12.78?classifier=sources
 - pkg:maven/com.amazonaws/aws-java-sdk-config@1.12.79
 - pkg:maven/com.amazonaws/aws-java-sdk-config@1.12.79?classifier=sources

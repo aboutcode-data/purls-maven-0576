@@ -45,6 +45,8 @@
 - pkg:maven/dev.zio/zio-sbt-githubactions_2.12@0.4.0-alpha.30?classifier=sources
 - pkg:maven/dev.zio/zio-sbt-githubactions_2.12@0.4.0-alpha.31
 - pkg:maven/dev.zio/zio-sbt-githubactions_2.12@0.4.0-alpha.31?classifier=sources
+- pkg:maven/dev.zio/zio-sbt-githubactions_2.12@0.4.0-alpha.32
+- pkg:maven/dev.zio/zio-sbt-githubactions_2.12@0.4.0-alpha.32?classifier=sources
 - pkg:maven/dev.zio/zio-sbt-githubactions_2.12@0.4.0-alpha.3?classifier=sources
 - pkg:maven/dev.zio/zio-sbt-githubactions_2.12@0.4.0-alpha.4
 - pkg:maven/dev.zio/zio-sbt-githubactions_2.12@0.4.0-alpha.4?classifier=sources

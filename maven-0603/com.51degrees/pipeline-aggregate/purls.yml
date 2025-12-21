@@ -58,6 +58,8 @@
 - pkg:maven/com.51degrees/pipeline-aggregate@4.4.64
 - pkg:maven/com.51degrees/pipeline-aggregate@4.4.65
 - pkg:maven/com.51degrees/pipeline-aggregate@4.4.66
+- pkg:maven/com.51degrees/pipeline-aggregate@4.4.67
 - pkg:maven/com.51degrees/pipeline-aggregate@4.4.7
 - pkg:maven/com.51degrees/pipeline-aggregate@4.4.8
 - pkg:maven/com.51degrees/pipeline-aggregate@4.4.9
+- pkg:maven/com.51degrees/pipeline-aggregate@4.5.0-alpha.1

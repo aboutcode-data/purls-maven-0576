@@ -60,3 +60,4 @@
 - pkg:maven/net.lightapi/common-util@2.1.8?classifier=sources
 - pkg:maven/net.lightapi/common-util@2.1.9
 - pkg:maven/net.lightapi/common-util@2.1.9?classifier=sources
+- pkg:maven/net.lightapi/common-util@2.2.2?classifier=sources

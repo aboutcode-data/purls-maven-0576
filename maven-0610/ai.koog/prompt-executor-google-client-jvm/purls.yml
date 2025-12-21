@@ -1,0 +1,3 @@
+- pkg:maven/ai.koog/prompt-executor-google-client-jvm@0.1.0-beta?classifier=sources
+- pkg:maven/ai.koog/prompt-executor-google-client-jvm@0.1.0?classifier=sources
+- pkg:maven/ai.koog/prompt-executor-google-client-jvm@0.2.0?classifier=sources

@@ -4,3 +4,4 @@
 - pkg:maven/com.darkrockstudios/SymSpellKtFdic-iossimulatorarm64@3.2.0?classifier=sources
 - pkg:maven/com.darkrockstudios/SymSpellKtFdic-iossimulatorarm64@3.3.0?classifier=sources
 - pkg:maven/com.darkrockstudios/SymSpellKtFdic-iossimulatorarm64@3.3.3?classifier=sources
+- pkg:maven/com.darkrockstudios/SymSpellKtFdic-iossimulatorarm64@3.4.0?classifier=sources

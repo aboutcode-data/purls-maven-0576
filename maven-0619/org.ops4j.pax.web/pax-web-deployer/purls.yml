@@ -70,6 +70,8 @@
 - pkg:maven/org.ops4j.pax.web/pax-web-deployer@1.1.8?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-deployer@1.1.9
 - pkg:maven/org.ops4j.pax.web/pax-web-deployer@1.1.9?classifier=sources
+- pkg:maven/org.ops4j.pax.web/pax-web-deployer@10.0.0?classifier=sources
+- pkg:maven/org.ops4j.pax.web/pax-web-deployer@11.0.0?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-deployer@2.0.0
 - pkg:maven/org.ops4j.pax.web/pax-web-deployer@2.0.0?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-deployer@2.0.1
@@ -439,6 +441,7 @@
 - pkg:maven/org.ops4j.pax.web/pax-web-deployer@8.0.30?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-deployer@8.0.31
 - pkg:maven/org.ops4j.pax.web/pax-web-deployer@8.0.31?classifier=sources
+- pkg:maven/org.ops4j.pax.web/pax-web-deployer@8.0.32?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-deployer@8.0.3?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-deployer@8.0.4
 - pkg:maven/org.ops4j.pax.web/pax-web-deployer@8.0.4?classifier=sources
@@ -479,6 +482,7 @@
 - pkg:maven/org.ops4j.pax.web/pax-web-deployer@9.0.2
 - pkg:maven/org.ops4j.pax.web/pax-web-deployer@9.0.20
 - pkg:maven/org.ops4j.pax.web/pax-web-deployer@9.0.20?classifier=sources
+- pkg:maven/org.ops4j.pax.web/pax-web-deployer@9.0.21?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-deployer@9.0.2?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-deployer@9.0.3
 - pkg:maven/org.ops4j.pax.web/pax-web-deployer@9.0.3?classifier=sources

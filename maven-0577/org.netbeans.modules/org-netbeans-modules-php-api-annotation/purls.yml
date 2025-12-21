@@ -25,3 +25,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-annotation@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-annotation@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-annotation@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-api-annotation@RELEASE260?classifier=sources

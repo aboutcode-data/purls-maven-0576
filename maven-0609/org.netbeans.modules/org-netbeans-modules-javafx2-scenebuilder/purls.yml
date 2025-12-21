@@ -25,4 +25,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javafx2-scenebuilder@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javafx2-scenebuilder@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javafx2-scenebuilder@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javafx2-scenebuilder@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javafx2-scenebuilder@RELEASE90?classifier=sources

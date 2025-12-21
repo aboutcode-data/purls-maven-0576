@@ -19,3 +19,4 @@
 - pkg:maven/io.neow3j/test-tools@3.22.0?classifier=sources
 - pkg:maven/io.neow3j/test-tools@3.22.1?classifier=sources
 - pkg:maven/io.neow3j/test-tools@3.23.0?classifier=sources
+- pkg:maven/io.neow3j/test-tools@3.24.0?classifier=sources

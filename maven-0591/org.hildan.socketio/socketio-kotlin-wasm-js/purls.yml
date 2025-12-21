@@ -19,3 +19,4 @@
 - pkg:maven/org.hildan.socketio/socketio-kotlin-wasm-js@2.2.0?classifier=sources
 - pkg:maven/org.hildan.socketio/socketio-kotlin-wasm-js@2.3.0?classifier=sources
 - pkg:maven/org.hildan.socketio/socketio-kotlin-wasm-js@2.4.0?classifier=sources
+- pkg:maven/org.hildan.socketio/socketio-kotlin-wasm-js@2.5.0?classifier=sources

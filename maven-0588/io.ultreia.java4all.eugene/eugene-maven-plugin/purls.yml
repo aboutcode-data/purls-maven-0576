@@ -70,3 +70,4 @@
 - pkg:maven/io.ultreia.java4all.eugene/eugene-maven-plugin@3.0-beta-2?classifier=sources
 - pkg:maven/io.ultreia.java4all.eugene/eugene-maven-plugin@3.0-beta-3
 - pkg:maven/io.ultreia.java4all.eugene/eugene-maven-plugin@3.0-beta-3?classifier=sources
+- pkg:maven/io.ultreia.java4all.eugene/eugene-maven-plugin@3.0-beta-4?classifier=sources

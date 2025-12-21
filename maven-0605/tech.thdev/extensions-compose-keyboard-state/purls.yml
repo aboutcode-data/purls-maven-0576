@@ -55,3 +55,5 @@
 - pkg:maven/tech.thdev/extensions-compose-keyboard-state@1.7.0-rc01?classifier=sources
 - pkg:maven/tech.thdev/extensions-compose-keyboard-state@1.7.0?classifier=sources
 - pkg:maven/tech.thdev/extensions-compose-keyboard-state@25.1.0?classifier=sources
+- pkg:maven/tech.thdev/extensions-compose-keyboard-state@25.5.0?classifier=sources
+- pkg:maven/tech.thdev/extensions-compose-keyboard-state@25.5.1?classifier=sources

@@ -80,6 +80,12 @@
 - pkg:maven/com.google.apis/google-api-services-datastream@v1-rev20250219-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-datastream@v1-rev20250321-2.0.0
 - pkg:maven/com.google.apis/google-api-services-datastream@v1-rev20250321-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-datastream@v1-rev20250505-2.0.0
+- pkg:maven/com.google.apis/google-api-services-datastream@v1-rev20250505-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-datastream@v1-rev20250511-2.0.0
+- pkg:maven/com.google.apis/google-api-services-datastream@v1-rev20250511-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-datastream@v1-rev20250518-2.0.0
+- pkg:maven/com.google.apis/google-api-services-datastream@v1-rev20250518-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-datastream@v1alpha1-rev20211018-1.32.1
 - pkg:maven/com.google.apis/google-api-services-datastream@v1alpha1-rev20211018-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-datastream@v1alpha1-rev20211026-1.32.1

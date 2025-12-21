@@ -9,3 +9,5 @@
 - pkg:maven/com.onfido.sdk/onfido-workflow@22.5.0?classifier=sources
 - pkg:maven/com.onfido.sdk/onfido-workflow@22.6.0?classifier=sources
 - pkg:maven/com.onfido.sdk/onfido-workflow@22.7.0?classifier=sources
+- pkg:maven/com.onfido.sdk/onfido-workflow@22.8.0?classifier=sources
+- pkg:maven/com.onfido.sdk/onfido-workflow@22.9.0?classifier=sources

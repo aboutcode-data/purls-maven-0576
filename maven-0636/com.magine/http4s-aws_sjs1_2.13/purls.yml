@@ -8,5 +8,11 @@
 - pkg:maven/com.magine/http4s-aws_sjs1_2.13@6.0.0?classifier=sources
 - pkg:maven/com.magine/http4s-aws_sjs1_2.13@6.2-1d7a94b
 - pkg:maven/com.magine/http4s-aws_sjs1_2.13@6.2-1d7a94b?classifier=sources
+- pkg:maven/com.magine/http4s-aws_sjs1_2.13@6.2-4f5323b
+- pkg:maven/com.magine/http4s-aws_sjs1_2.13@6.2-4f5323b?classifier=sources
+- pkg:maven/com.magine/http4s-aws_sjs1_2.13@6.2-5c9a82f
+- pkg:maven/com.magine/http4s-aws_sjs1_2.13@6.2-5c9a82f?classifier=sources
 - pkg:maven/com.magine/http4s-aws_sjs1_2.13@6.2-880186a
 - pkg:maven/com.magine/http4s-aws_sjs1_2.13@6.2-880186a?classifier=sources
+- pkg:maven/com.magine/http4s-aws_sjs1_2.13@6.2-9cf6ece
+- pkg:maven/com.magine/http4s-aws_sjs1_2.13@6.2-9cf6ece?classifier=sources

@@ -68,4 +68,8 @@
 - pkg:maven/com.atlan/lineage-builder@5.0.4?classifier=sources
 - pkg:maven/com.atlan/lineage-builder@5.0.5?classifier=sources
 - pkg:maven/com.atlan/lineage-builder@5.1.0?classifier=sources
+- pkg:maven/com.atlan/lineage-builder@5.1.1-test-multiarch?classifier=sources
 - pkg:maven/com.atlan/lineage-builder@5.1.1?classifier=sources
+- pkg:maven/com.atlan/lineage-builder@5.2.0?classifier=sources
+- pkg:maven/com.atlan/lineage-builder@5.2.1?classifier=sources
+- pkg:maven/com.atlan/lineage-builder@5.2.2?classifier=sources

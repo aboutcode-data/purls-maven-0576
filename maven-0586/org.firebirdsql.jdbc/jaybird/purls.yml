@@ -60,6 +60,9 @@
 - pkg:maven/org.firebirdsql.jdbc/jaybird@5.0.6.java8?classifier=sources
 - pkg:maven/org.firebirdsql.jdbc/jaybird@5.0.7.java11?classifier=sources
 - pkg:maven/org.firebirdsql.jdbc/jaybird@5.0.7.java8?classifier=sources
+- pkg:maven/org.firebirdsql.jdbc/jaybird@5.0.8.java11?classifier=sources
+- pkg:maven/org.firebirdsql.jdbc/jaybird@5.0.8.java8?classifier=sources
 - pkg:maven/org.firebirdsql.jdbc/jaybird@6.0.0-beta-1?classifier=sources
 - pkg:maven/org.firebirdsql.jdbc/jaybird@6.0.0?classifier=sources
 - pkg:maven/org.firebirdsql.jdbc/jaybird@6.0.1?classifier=sources
+- pkg:maven/org.firebirdsql.jdbc/jaybird@6.0.2?classifier=sources

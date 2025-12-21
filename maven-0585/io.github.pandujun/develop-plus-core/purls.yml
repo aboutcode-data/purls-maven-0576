@@ -1,1 +1,2 @@
 - pkg:maven/io.github.pandujun/develop-plus-core@1.0.0.RELEASE?classifier=sources
+- pkg:maven/io.github.pandujun/develop-plus-core@1.0.1.RELEASE?classifier=sources

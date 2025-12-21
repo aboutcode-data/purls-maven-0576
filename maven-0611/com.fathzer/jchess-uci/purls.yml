@@ -1,2 +1,4 @@
 - pkg:maven/com.fathzer/jchess-uci@1.0.0
 - pkg:maven/com.fathzer/jchess-uci@1.0.0?classifier=sources
+- pkg:maven/com.fathzer/jchess-uci@2.0.0
+- pkg:maven/com.fathzer/jchess-uci@2.0.0?classifier=sources

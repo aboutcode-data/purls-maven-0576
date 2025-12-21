@@ -44,6 +44,8 @@
 - pkg:maven/com.oracle.database.security/oraclepki@19.25.0.0?classifier=sources
 - pkg:maven/com.oracle.database.security/oraclepki@19.26.0.0
 - pkg:maven/com.oracle.database.security/oraclepki@19.26.0.0?classifier=sources
+- pkg:maven/com.oracle.database.security/oraclepki@19.27.0.0
+- pkg:maven/com.oracle.database.security/oraclepki@19.27.0.0?classifier=sources
 - pkg:maven/com.oracle.database.security/oraclepki@19.3.0.0
 - pkg:maven/com.oracle.database.security/oraclepki@19.3.0.0?classifier=sources
 - pkg:maven/com.oracle.database.security/oraclepki@19.6.0.0
@@ -72,6 +74,8 @@
 - pkg:maven/com.oracle.database.security/oraclepki@21.16.0.0?classifier=sources
 - pkg:maven/com.oracle.database.security/oraclepki@21.17.0.0
 - pkg:maven/com.oracle.database.security/oraclepki@21.17.0.0?classifier=sources
+- pkg:maven/com.oracle.database.security/oraclepki@21.18.0.0
+- pkg:maven/com.oracle.database.security/oraclepki@21.18.0.0?classifier=sources
 - pkg:maven/com.oracle.database.security/oraclepki@21.3.0.0
 - pkg:maven/com.oracle.database.security/oraclepki@21.3.0.0?classifier=sources
 - pkg:maven/com.oracle.database.security/oraclepki@21.4.0.0
@@ -102,3 +106,5 @@
 - pkg:maven/com.oracle.database.security/oraclepki@23.6.0.24.10?classifier=sources
 - pkg:maven/com.oracle.database.security/oraclepki@23.7.0.25.01
 - pkg:maven/com.oracle.database.security/oraclepki@23.7.0.25.01?classifier=sources
+- pkg:maven/com.oracle.database.security/oraclepki@23.8.0.25.04
+- pkg:maven/com.oracle.database.security/oraclepki@23.8.0.25.04?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/digital.guimauve.koxxy/core-jvm@0.1.0?classifier=sources
+- pkg:maven/digital.guimauve.koxxy/core-jvm@1.0.0?classifier=sources

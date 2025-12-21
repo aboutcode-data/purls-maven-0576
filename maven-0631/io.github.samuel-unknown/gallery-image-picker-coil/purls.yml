@@ -7,3 +7,4 @@
 - pkg:maven/io.github.samuel-unknown/gallery-image-picker-coil@1.6.2?classifier=sources
 - pkg:maven/io.github.samuel-unknown/gallery-image-picker-coil@1.6.3?classifier=sources
 - pkg:maven/io.github.samuel-unknown/gallery-image-picker-coil@1.7.0?classifier=sources
+- pkg:maven/io.github.samuel-unknown/gallery-image-picker-coil@1.7.1?classifier=sources

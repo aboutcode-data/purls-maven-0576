@@ -185,6 +185,9 @@
 - pkg:maven/org.xdef/xdef@42.2.26
 - pkg:maven/org.xdef/xdef@42.2.26?classifier=sources
 - pkg:maven/org.xdef/xdef@42.2.26?classifier=src&type=zip
+- pkg:maven/org.xdef/xdef@42.2.27
+- pkg:maven/org.xdef/xdef@42.2.27?classifier=sources
+- pkg:maven/org.xdef/xdef@42.2.27?classifier=src&type=zip
 - pkg:maven/org.xdef/xdef@42.2.2?classifier=sources
 - pkg:maven/org.xdef/xdef@42.2.2?classifier=src&type=zip
 - pkg:maven/org.xdef/xdef@42.2.3

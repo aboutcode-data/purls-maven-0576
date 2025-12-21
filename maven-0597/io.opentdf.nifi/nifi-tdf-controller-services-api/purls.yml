@@ -1,1 +1,2 @@
 - pkg:maven/io.opentdf.nifi/nifi-tdf-controller-services-api@0.8.0?classifier=sources
+- pkg:maven/io.opentdf.nifi/nifi-tdf-controller-services-api@0.9.0?classifier=sources

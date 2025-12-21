@@ -1,0 +1,4 @@
+- pkg:maven/org.mvnpm.at.ant-design/icons-react@1.1.5
+- pkg:maven/org.mvnpm.at.ant-design/icons-react@1.1.5?classifier=sources
+- pkg:maven/org.mvnpm.at.ant-design/icons-react@2.0.1
+- pkg:maven/org.mvnpm.at.ant-design/icons-react@2.0.1?classifier=sources

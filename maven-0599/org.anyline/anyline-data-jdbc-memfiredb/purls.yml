@@ -50,6 +50,10 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-memfiredb@8.7.2-20250515?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-memfiredb@8.7.2-20250518
 - pkg:maven/org.anyline/anyline-data-jdbc-memfiredb@8.7.2-20250518?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-memfiredb@8.7.2-20250520
+- pkg:maven/org.anyline/anyline-data-jdbc-memfiredb@8.7.2-20250520?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-memfiredb@8.7.2-20250603
+- pkg:maven/org.anyline/anyline-data-jdbc-memfiredb@8.7.2-20250603?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-memfiredb@8.7.2-jdk11-20240911
 - pkg:maven/org.anyline/anyline-data-jdbc-memfiredb@8.7.2-jdk11-20240911?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-memfiredb@8.7.2-jdk11-20240912
@@ -72,6 +76,10 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-memfiredb@8.7.2-jdk11-20250502?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-memfiredb@8.7.2-jdk11-20250509
 - pkg:maven/org.anyline/anyline-data-jdbc-memfiredb@8.7.2-jdk11-20250509?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-memfiredb@8.7.2-jdk11-20250520
+- pkg:maven/org.anyline/anyline-data-jdbc-memfiredb@8.7.2-jdk11-20250520?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-memfiredb@8.7.2-jdk11-20250603
+- pkg:maven/org.anyline/anyline-data-jdbc-memfiredb@8.7.2-jdk11-20250603?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-memfiredb@8.7.2-jdk17-20240911
 - pkg:maven/org.anyline/anyline-data-jdbc-memfiredb@8.7.2-jdk17-20240911?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-memfiredb@8.7.2-jdk17-20240912
@@ -108,6 +116,10 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-memfiredb@8.7.2-jdk17-20250509?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-memfiredb@8.7.2-jdk17-20250515
 - pkg:maven/org.anyline/anyline-data-jdbc-memfiredb@8.7.2-jdk17-20250515?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-memfiredb@8.7.2-jdk17-20250520
+- pkg:maven/org.anyline/anyline-data-jdbc-memfiredb@8.7.2-jdk17-20250520?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-memfiredb@8.7.2-jdk17-20250603
+- pkg:maven/org.anyline/anyline-data-jdbc-memfiredb@8.7.2-jdk17-20250603?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-memfiredb@8.7.2-jdk21-20240911
 - pkg:maven/org.anyline/anyline-data-jdbc-memfiredb@8.7.2-jdk21-20240911?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-memfiredb@8.7.2-jdk21-20240912
@@ -156,3 +168,7 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-memfiredb@8.7.2-jdk21-20250515?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-memfiredb@8.7.2-jdk21-20250518
 - pkg:maven/org.anyline/anyline-data-jdbc-memfiredb@8.7.2-jdk21-20250518?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-memfiredb@8.7.2-jdk21-20250520
+- pkg:maven/org.anyline/anyline-data-jdbc-memfiredb@8.7.2-jdk21-20250520?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-memfiredb@8.7.2-jdk21-20250603
+- pkg:maven/org.anyline/anyline-data-jdbc-memfiredb@8.7.2-jdk21-20250603?classifier=sources

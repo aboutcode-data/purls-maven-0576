@@ -4,3 +4,5 @@
 - pkg:maven/io.github.liyuhaolol/IO@1.1.4?type=aar
 - pkg:maven/io.github.liyuhaolol/IO@1.1.5?classifier=sources
 - pkg:maven/io.github.liyuhaolol/IO@1.1.5?type=aar
+- pkg:maven/io.github.liyuhaolol/IO@1.1.6?classifier=sources
+- pkg:maven/io.github.liyuhaolol/IO@1.1.6?type=aar

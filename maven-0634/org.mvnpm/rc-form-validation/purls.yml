@@ -1,0 +1,4 @@
+- pkg:maven/org.mvnpm/rc-form-validation@2.4.16
+- pkg:maven/org.mvnpm/rc-form-validation@2.4.16?classifier=sources
+- pkg:maven/org.mvnpm/rc-form-validation@2.5.0
+- pkg:maven/org.mvnpm/rc-form-validation@2.5.0?classifier=sources

@@ -12,3 +12,7 @@
 - pkg:maven/com.aliyun/alibabacloud-aicontent20240611@2.0.0?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-aicontent20240611@2.0.1
 - pkg:maven/com.aliyun/alibabacloud-aicontent20240611@2.0.1?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-aicontent20240611@3.0.0
+- pkg:maven/com.aliyun/alibabacloud-aicontent20240611@3.0.0?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-aicontent20240611@4.0.0
+- pkg:maven/com.aliyun/alibabacloud-aicontent20240611@4.0.0?classifier=sources

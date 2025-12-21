@@ -8,3 +8,5 @@
 - pkg:maven/org.apache.tez/tez-yarn-timeline-history-with-fs@0.10.3?classifier=sources
 - pkg:maven/org.apache.tez/tez-yarn-timeline-history-with-fs@0.10.4
 - pkg:maven/org.apache.tez/tez-yarn-timeline-history-with-fs@0.10.4?classifier=sources
+- pkg:maven/org.apache.tez/tez-yarn-timeline-history-with-fs@0.10.5
+- pkg:maven/org.apache.tez/tez-yarn-timeline-history-with-fs@0.10.5?classifier=sources

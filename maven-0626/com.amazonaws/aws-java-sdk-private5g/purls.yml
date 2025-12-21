@@ -1003,3 +1003,7 @@
 - pkg:maven/com.amazonaws/aws-java-sdk-private5g@1.12.782?classifier=sources
 - pkg:maven/com.amazonaws/aws-java-sdk-private5g@1.12.783
 - pkg:maven/com.amazonaws/aws-java-sdk-private5g@1.12.783?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-private5g@1.12.784
+- pkg:maven/com.amazonaws/aws-java-sdk-private5g@1.12.784?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-private5g@1.12.785
+- pkg:maven/com.amazonaws/aws-java-sdk-private5g@1.12.785?classifier=sources

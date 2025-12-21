@@ -1,3 +1,4 @@
+- pkg:maven/io.github.goquati/kotlin-util-logging-jvm@1.10.0?classifier=sources
 - pkg:maven/io.github.goquati/kotlin-util-logging-jvm@1.2.1?classifier=sources
 - pkg:maven/io.github.goquati/kotlin-util-logging-jvm@1.2.2?classifier=sources
 - pkg:maven/io.github.goquati/kotlin-util-logging-jvm@1.2.3?classifier=sources
@@ -16,3 +17,10 @@
 - pkg:maven/io.github.goquati/kotlin-util-logging-jvm@1.7.1?classifier=sources
 - pkg:maven/io.github.goquati/kotlin-util-logging-jvm@1.7.2?classifier=sources
 - pkg:maven/io.github.goquati/kotlin-util-logging-jvm@1.7.3?classifier=sources
+- pkg:maven/io.github.goquati/kotlin-util-logging-jvm@1.7.4?classifier=sources
+- pkg:maven/io.github.goquati/kotlin-util-logging-jvm@1.7.5?classifier=sources
+- pkg:maven/io.github.goquati/kotlin-util-logging-jvm@1.8.0?classifier=sources
+- pkg:maven/io.github.goquati/kotlin-util-logging-jvm@1.8.1?classifier=sources
+- pkg:maven/io.github.goquati/kotlin-util-logging-jvm@1.9.0?classifier=sources
+- pkg:maven/io.github.goquati/kotlin-util-logging-jvm@1.9.1?classifier=sources
+- pkg:maven/io.github.goquati/kotlin-util-logging-jvm@1.9.2?classifier=sources

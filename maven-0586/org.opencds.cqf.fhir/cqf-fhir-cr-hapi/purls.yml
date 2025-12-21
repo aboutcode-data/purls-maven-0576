@@ -2,3 +2,5 @@
 - pkg:maven/org.opencds.cqf.fhir/cqf-fhir-cr-hapi@3.19.0?classifier=sources
 - pkg:maven/org.opencds.cqf.fhir/cqf-fhir-cr-hapi@3.20.0
 - pkg:maven/org.opencds.cqf.fhir/cqf-fhir-cr-hapi@3.20.0?classifier=sources
+- pkg:maven/org.opencds.cqf.fhir/cqf-fhir-cr-hapi@3.21.0
+- pkg:maven/org.opencds.cqf.fhir/cqf-fhir-cr-hapi@3.21.0?classifier=sources

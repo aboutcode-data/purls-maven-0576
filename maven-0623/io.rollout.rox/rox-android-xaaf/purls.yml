@@ -2,3 +2,4 @@
 - pkg:maven/io.rollout.rox/rox-android-xaaf@4.7.1?type=aar
 - pkg:maven/io.rollout.rox/rox-android-xaaf@4.7.2?type=aar
 - pkg:maven/io.rollout.rox/rox-android-xaaf@4.9.22?type=aar
+- pkg:maven/io.rollout.rox/rox-android-xaaf@6.0.2?classifier=sources

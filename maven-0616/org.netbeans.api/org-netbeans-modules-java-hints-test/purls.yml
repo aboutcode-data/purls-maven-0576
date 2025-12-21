@@ -25,4 +25,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-java-hints-test@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-java-hints-test@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-java-hints-test@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-java-hints-test@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-java-hints-test@RELEASE90?classifier=sources

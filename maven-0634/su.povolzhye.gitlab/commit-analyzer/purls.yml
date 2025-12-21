@@ -1,1 +1,2 @@
 - pkg:maven/su.povolzhye.gitlab/commit-analyzer@0.0.1?classifier=sources
+- pkg:maven/su.povolzhye.gitlab/commit-analyzer@0.0.2?classifier=sources

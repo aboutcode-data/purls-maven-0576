@@ -1,1 +1,3 @@
 - pkg:maven/org.mvnpm/validator@13.15.0?classifier=sources
+- pkg:maven/org.mvnpm/validator@13.15.15
+- pkg:maven/org.mvnpm/validator@13.15.15?classifier=sources

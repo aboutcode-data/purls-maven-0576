@@ -42,6 +42,8 @@
 - pkg:maven/com.linkedin.coral/frontend@2.2.50?classifier=sources
 - pkg:maven/com.linkedin.coral/frontend@2.2.51?classifier=sources
 - pkg:maven/com.linkedin.coral/frontend@2.2.52?classifier=sources
+- pkg:maven/com.linkedin.coral/frontend@2.2.53?classifier=sources
+- pkg:maven/com.linkedin.coral/frontend@2.2.54?classifier=sources
 - pkg:maven/com.linkedin.coral/frontend@2.2.7?classifier=sources
 - pkg:maven/com.linkedin.coral/frontend@2.2.8?classifier=sources
 - pkg:maven/com.linkedin.coral/frontend@2.2.9?classifier=sources

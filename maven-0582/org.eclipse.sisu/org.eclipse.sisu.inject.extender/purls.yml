@@ -18,3 +18,4 @@
 - pkg:maven/org.eclipse.sisu/org.eclipse.sisu.inject.extender@0.9.0.M2?classifier=sources
 - pkg:maven/org.eclipse.sisu/org.eclipse.sisu.inject.extender@0.9.0.M3
 - pkg:maven/org.eclipse.sisu/org.eclipse.sisu.inject.extender@0.9.0.M3?classifier=sources
+- pkg:maven/org.eclipse.sisu/org.eclipse.sisu.inject.extender@0.9.0.M4?classifier=sources

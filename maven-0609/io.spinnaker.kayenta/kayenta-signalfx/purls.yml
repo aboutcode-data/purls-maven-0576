@@ -50,6 +50,7 @@
 - pkg:maven/io.spinnaker.kayenta/kayenta-signalfx@2.41.1?classifier=sources
 - pkg:maven/io.spinnaker.kayenta/kayenta-signalfx@2.42.0?classifier=sources
 - pkg:maven/io.spinnaker.kayenta/kayenta-signalfx@2.42.1?classifier=sources
+- pkg:maven/io.spinnaker.kayenta/kayenta-signalfx@2.42.2?classifier=sources
 - pkg:maven/io.spinnaker.kayenta/kayenta-signalfx@2.43.0?classifier=sources
 - pkg:maven/io.spinnaker.kayenta/kayenta-signalfx@2.44.0?classifier=sources
 - pkg:maven/io.spinnaker.kayenta/kayenta-signalfx@2.44.1?classifier=sources
@@ -65,10 +66,17 @@
 - pkg:maven/io.spinnaker.kayenta/kayenta-signalfx@2025.0.0?classifier=sources
 - pkg:maven/io.spinnaker.kayenta/kayenta-signalfx@2025.0.1?classifier=sources
 - pkg:maven/io.spinnaker.kayenta/kayenta-signalfx@2025.0.2?classifier=sources
+- pkg:maven/io.spinnaker.kayenta/kayenta-signalfx@2025.0.3?classifier=sources
 - pkg:maven/io.spinnaker.kayenta/kayenta-signalfx@main-10?classifier=sources
 - pkg:maven/io.spinnaker.kayenta/kayenta-signalfx@main-11?classifier=sources
 - pkg:maven/io.spinnaker.kayenta/kayenta-signalfx@main-12?classifier=sources
 - pkg:maven/io.spinnaker.kayenta/kayenta-signalfx@main-13?classifier=sources
+- pkg:maven/io.spinnaker.kayenta/kayenta-signalfx@main-14?classifier=sources
+- pkg:maven/io.spinnaker.kayenta/kayenta-signalfx@main-15?classifier=sources
+- pkg:maven/io.spinnaker.kayenta/kayenta-signalfx@main-16?classifier=sources
+- pkg:maven/io.spinnaker.kayenta/kayenta-signalfx@main-17?classifier=sources
+- pkg:maven/io.spinnaker.kayenta/kayenta-signalfx@main-18?classifier=sources
+- pkg:maven/io.spinnaker.kayenta/kayenta-signalfx@main-19?classifier=sources
 - pkg:maven/io.spinnaker.kayenta/kayenta-signalfx@main-5?classifier=sources
 - pkg:maven/io.spinnaker.kayenta/kayenta-signalfx@main-6?classifier=sources
 - pkg:maven/io.spinnaker.kayenta/kayenta-signalfx@main-7?classifier=sources

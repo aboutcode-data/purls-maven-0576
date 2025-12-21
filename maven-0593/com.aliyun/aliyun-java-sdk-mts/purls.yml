@@ -122,3 +122,5 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-mts@3.3.62?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-mts@3.3.63
 - pkg:maven/com.aliyun/aliyun-java-sdk-mts@3.3.63?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-mts@3.3.64
+- pkg:maven/com.aliyun/aliyun-java-sdk-mts@3.3.64?classifier=sources

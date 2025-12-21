@@ -1,2 +1,12 @@
 - pkg:maven/io.github.florian-besser-mult/code-artifact@0.1.39?classifier=sources
 - pkg:maven/io.github.florian-besser-mult/code-artifact@0.1.41?classifier=sources
+- pkg:maven/io.github.florian-besser-mult/code-artifact@0.1.45?classifier=sources
+- pkg:maven/io.github.florian-besser-mult/code-artifact@0.1.46?classifier=sources
+- pkg:maven/io.github.florian-besser-mult/code-artifact@0.1.47?classifier=sources
+- pkg:maven/io.github.florian-besser-mult/code-artifact@0.1.48?classifier=sources
+- pkg:maven/io.github.florian-besser-mult/code-artifact@0.1.51?classifier=sources
+- pkg:maven/io.github.florian-besser-mult/code-artifact@0.1.52?classifier=sources
+- pkg:maven/io.github.florian-besser-mult/code-artifact@0.1.53?classifier=sources
+- pkg:maven/io.github.florian-besser-mult/code-artifact@0.1.54?classifier=sources
+- pkg:maven/io.github.florian-besser-mult/code-artifact@0.1.57?classifier=sources
+- pkg:maven/io.github.florian-besser-mult/code-artifact@0.1.58?classifier=sources

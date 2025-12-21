@@ -1,0 +1,6 @@
+- pkg:maven/dev.soundness/anticipation-gfx@0.30.0
+- pkg:maven/dev.soundness/anticipation-gfx@0.30.0?classifier=sources
+- pkg:maven/dev.soundness/anticipation-gfx@0.31.0
+- pkg:maven/dev.soundness/anticipation-gfx@0.31.0?classifier=sources
+- pkg:maven/dev.soundness/anticipation-gfx@0.32.0
+- pkg:maven/dev.soundness/anticipation-gfx@0.32.0?classifier=sources

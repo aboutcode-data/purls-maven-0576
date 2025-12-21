@@ -1,3 +1,4 @@
+- pkg:maven/tech.mgl/mgl-exception@2025.5.1?classifier=sources
 - pkg:maven/tech.mgl/mgl-exception@3.0?classifier=sources
 - pkg:maven/tech.mgl/mgl-exception@5.0.0
 - pkg:maven/tech.mgl/mgl-exception@5.0.0?classifier=sources

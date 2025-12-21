@@ -1,1 +1,2 @@
 - pkg:maven/dev.mikkak.c-shadow/c-shadow-android@0.1.4?classifier=sources
+- pkg:maven/dev.mikkak.c-shadow/c-shadow-android@0.2.0?classifier=sources

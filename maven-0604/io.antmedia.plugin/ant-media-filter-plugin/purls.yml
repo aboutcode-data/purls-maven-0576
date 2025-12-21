@@ -8,5 +8,7 @@
 - pkg:maven/io.antmedia.plugin/ant-media-filter-plugin@2.11.3?classifier=sources
 - pkg:maven/io.antmedia.plugin/ant-media-filter-plugin@2.12.0
 - pkg:maven/io.antmedia.plugin/ant-media-filter-plugin@2.12.0?classifier=sources
+- pkg:maven/io.antmedia.plugin/ant-media-filter-plugin@2.14.0
+- pkg:maven/io.antmedia.plugin/ant-media-filter-plugin@2.14.0?classifier=sources
 - pkg:maven/io.antmedia.plugin/ant-media-filter-plugin@2.9.0
 - pkg:maven/io.antmedia.plugin/ant-media-filter-plugin@2.9.0?classifier=sources

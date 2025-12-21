@@ -728,6 +728,8 @@
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-mongo@4.2.29?type=zip
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-mongo@4.2.2?classifier=sources
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-mongo@4.2.2?type=zip
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-mongo@4.2.30?classifier=sources
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-mongo@4.2.30?type=zip
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-mongo@4.2.3?classifier=sources
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-mongo@4.2.3?type=zip
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-mongo@4.2.4?classifier=sources
@@ -836,6 +838,8 @@
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-mongo@4.4.25?type=zip
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-mongo@4.4.26?classifier=sources
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-mongo@4.4.26?type=zip
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-mongo@4.4.27?classifier=sources
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-mongo@4.4.27?type=zip
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-mongo@4.4.2?classifier=sources
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-mongo@4.4.2?type=zip
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-mongo@4.4.3?classifier=sources
@@ -876,6 +880,8 @@
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-mongo@4.5.15?type=zip
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-mongo@4.5.16?classifier=sources
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-mongo@4.5.16?type=zip
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-mongo@4.5.17?classifier=sources
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-mongo@4.5.17?type=zip
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-mongo@4.5.1?classifier=sources
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-mongo@4.5.1?type=zip
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-mongo@4.5.2?classifier=sources
@@ -904,6 +910,8 @@
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-mongo@4.6.0?type=zip
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-mongo@4.6.10?classifier=sources
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-mongo@4.6.10?type=zip
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-mongo@4.6.11?classifier=sources
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-mongo@4.6.11?type=zip
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-mongo@4.6.1?classifier=sources
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-mongo@4.6.1?type=zip
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-mongo@4.6.2?classifier=sources
@@ -940,3 +948,7 @@
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-mongo@4.7.3?type=zip
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-mongo@4.7.4?classifier=sources
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-mongo@4.7.4?type=zip
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-mongo@4.7.5?classifier=sources
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-mongo@4.7.5?type=zip
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-mongo@4.8.0-alpha.1?classifier=sources
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-mongo@4.8.0-alpha.1?type=zip

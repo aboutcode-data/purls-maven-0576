@@ -1,0 +1,2 @@
+- pkg:maven/com.svenruppert/ddi@06.00.07?classifier=sources
+- pkg:maven/com.svenruppert/ddi@06.00.08?classifier=sources

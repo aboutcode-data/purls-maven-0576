@@ -140,7 +140,16 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-components-api-junit@11.45.8
 - pkg:maven/org.eclipse.dirigible/dirigible-components-api-junit@11.45.9
 - pkg:maven/org.eclipse.dirigible/dirigible-components-api-junit@11.46.0
+- pkg:maven/org.eclipse.dirigible/dirigible-components-api-junit@11.47.0
+- pkg:maven/org.eclipse.dirigible/dirigible-components-api-junit@11.47.4
+- pkg:maven/org.eclipse.dirigible/dirigible-components-api-junit@11.47.7
+- pkg:maven/org.eclipse.dirigible/dirigible-components-api-junit@11.48.0
+- pkg:maven/org.eclipse.dirigible/dirigible-components-api-junit@11.48.2
+- pkg:maven/org.eclipse.dirigible/dirigible-components-api-junit@11.49.0
 - pkg:maven/org.eclipse.dirigible/dirigible-components-api-junit@11.5.0
+- pkg:maven/org.eclipse.dirigible/dirigible-components-api-junit@11.51.0
+- pkg:maven/org.eclipse.dirigible/dirigible-components-api-junit@11.53.0
+- pkg:maven/org.eclipse.dirigible/dirigible-components-api-junit@11.54.0
 - pkg:maven/org.eclipse.dirigible/dirigible-components-api-junit@11.6.0
 - pkg:maven/org.eclipse.dirigible/dirigible-components-api-junit@11.6.1
 - pkg:maven/org.eclipse.dirigible/dirigible-components-api-junit@11.7.0

@@ -512,6 +512,12 @@
 - pkg:maven/in.infusers.library/infusers-library@2025.03.0002?classifier=sources
 - pkg:maven/in.infusers.library/infusers-library@2025.03.0004
 - pkg:maven/in.infusers.library/infusers-library@2025.03.0004?classifier=sources
+- pkg:maven/in.infusers.library/infusers-library@2025.05.0001
+- pkg:maven/in.infusers.library/infusers-library@2025.05.0001?classifier=sources
+- pkg:maven/in.infusers.library/infusers-library@2025.05.0003
+- pkg:maven/in.infusers.library/infusers-library@2025.05.0003?classifier=sources
+- pkg:maven/in.infusers.library/infusers-library@2025.05.0004
+- pkg:maven/in.infusers.library/infusers-library@2025.05.0004?classifier=sources
 - pkg:maven/in.infusers.library/infusers-library@5.2.000
 - pkg:maven/in.infusers.library/infusers-library@5.2.000?classifier=sources
 - pkg:maven/in.infusers.library/infusers-library@5.2.001

@@ -1,0 +1,2 @@
+- pkg:maven/org.springaicommunity/spring-ai-autoconfigure-model-moonshot@0.1.0?classifier=sources
+- pkg:maven/org.springaicommunity/spring-ai-autoconfigure-model-moonshot@1.0.0?classifier=sources

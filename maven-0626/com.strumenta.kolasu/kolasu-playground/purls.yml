@@ -78,6 +78,7 @@
 - pkg:maven/com.strumenta.kolasu/kolasu-playground@1.5.80?classifier=sources
 - pkg:maven/com.strumenta.kolasu/kolasu-playground@1.5.81?classifier=sources
 - pkg:maven/com.strumenta.kolasu/kolasu-playground@1.5.82?classifier=sources
+- pkg:maven/com.strumenta.kolasu/kolasu-playground@1.5.83?classifier=sources
 - pkg:maven/com.strumenta.kolasu/kolasu-playground@1.5.8?classifier=sources
 - pkg:maven/com.strumenta.kolasu/kolasu-playground@1.5.9?classifier=sources
 - pkg:maven/com.strumenta.kolasu/kolasu-playground@2.experimental.3?classifier=sources

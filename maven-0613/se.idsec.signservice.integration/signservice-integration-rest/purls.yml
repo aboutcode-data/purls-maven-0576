@@ -1,4 +1,5 @@
 - pkg:maven/se.idsec.signservice.integration/signservice-integration-rest@1.1.2?classifier=sources
+- pkg:maven/se.idsec.signservice.integration/signservice-integration-rest@1.1.3?classifier=sources
 - pkg:maven/se.idsec.signservice.integration/signservice-integration-rest@2.3.0
 - pkg:maven/se.idsec.signservice.integration/signservice-integration-rest@2.3.0?classifier=sources
 - pkg:maven/se.idsec.signservice.integration/signservice-integration-rest@2.3.1

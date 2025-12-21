@@ -8,3 +8,5 @@
 - pkg:maven/eu.maveniverse.maven.plugins/bom-builder3@1.0.3?classifier=sources
 - pkg:maven/eu.maveniverse.maven.plugins/bom-builder3@1.0.4
 - pkg:maven/eu.maveniverse.maven.plugins/bom-builder3@1.0.4?classifier=sources
+- pkg:maven/eu.maveniverse.maven.plugins/bom-builder3@1.1.0?classifier=sources
+- pkg:maven/eu.maveniverse.maven.plugins/bom-builder3@1.1.1?classifier=sources

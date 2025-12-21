@@ -191,6 +191,8 @@
 - pkg:maven/org.alfasoftware/morf-integration-test@2.24.0?classifier=sources
 - pkg:maven/org.alfasoftware/morf-integration-test@2.24.1
 - pkg:maven/org.alfasoftware/morf-integration-test@2.24.1?classifier=sources
+- pkg:maven/org.alfasoftware/morf-integration-test@2.25.0
+- pkg:maven/org.alfasoftware/morf-integration-test@2.25.0?classifier=sources
 - pkg:maven/org.alfasoftware/morf-integration-test@2.3.0
 - pkg:maven/org.alfasoftware/morf-integration-test@2.3.0?classifier=sources
 - pkg:maven/org.alfasoftware/morf-integration-test@2.3.1

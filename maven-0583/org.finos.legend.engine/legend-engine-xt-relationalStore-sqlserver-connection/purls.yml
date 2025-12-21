@@ -211,3 +211,13 @@
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-sqlserver-connection@4.85.2
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-sqlserver-connection@4.85.3
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-sqlserver-connection@4.85.4
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-sqlserver-connection@4.86.0
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-sqlserver-connection@4.86.1
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-sqlserver-connection@4.86.2
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-sqlserver-connection@4.86.3
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-sqlserver-connection@4.87.0
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-sqlserver-connection@4.87.1
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-sqlserver-connection@4.87.3
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-sqlserver-connection@4.87.4
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-sqlserver-connection@4.88.0
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-sqlserver-connection@4.88.1

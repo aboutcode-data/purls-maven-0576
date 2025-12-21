@@ -1,1 +1,2 @@
 - pkg:maven/ai.wanaku/wanaku-tool-service-kafka@0.0.4?classifier=sources
+- pkg:maven/ai.wanaku/wanaku-tool-service-kafka@0.0.5?classifier=sources

@@ -6,6 +6,8 @@
 - pkg:maven/org.neo4j/neo4j-test-util@2025.03.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-test-util@2025.04.0
 - pkg:maven/org.neo4j/neo4j-test-util@2025.04.0?classifier=sources
+- pkg:maven/org.neo4j/neo4j-test-util@2025.05.0
+- pkg:maven/org.neo4j/neo4j-test-util@2025.05.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-test-util@4.4.0
 - pkg:maven/org.neo4j/neo4j-test-util@4.4.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-test-util@4.4.1
@@ -83,6 +85,8 @@
 - pkg:maven/org.neo4j/neo4j-test-util@4.4.42?classifier=sources
 - pkg:maven/org.neo4j/neo4j-test-util@4.4.43
 - pkg:maven/org.neo4j/neo4j-test-util@4.4.43?classifier=sources
+- pkg:maven/org.neo4j/neo4j-test-util@4.4.44
+- pkg:maven/org.neo4j/neo4j-test-util@4.4.44?classifier=sources
 - pkg:maven/org.neo4j/neo4j-test-util@4.4.4?classifier=sources
 - pkg:maven/org.neo4j/neo4j-test-util@4.4.5
 - pkg:maven/org.neo4j/neo4j-test-util@4.4.5?classifier=sources
@@ -152,6 +156,8 @@
 - pkg:maven/org.neo4j/neo4j-test-util@5.26.5?classifier=sources
 - pkg:maven/org.neo4j/neo4j-test-util@5.26.6
 - pkg:maven/org.neo4j/neo4j-test-util@5.26.6?classifier=sources
+- pkg:maven/org.neo4j/neo4j-test-util@5.26.7
+- pkg:maven/org.neo4j/neo4j-test-util@5.26.7?classifier=sources
 - pkg:maven/org.neo4j/neo4j-test-util@5.3.0
 - pkg:maven/org.neo4j/neo4j-test-util@5.3.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-test-util@5.4.0

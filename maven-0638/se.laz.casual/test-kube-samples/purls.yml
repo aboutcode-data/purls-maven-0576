@@ -1,0 +1,2 @@
+- pkg:maven/se.laz.casual/test-kube-samples@0.0.1-alpha?classifier=sources
+- pkg:maven/se.laz.casual/test-kube-samples@0.0.1-beta?classifier=sources

@@ -62,6 +62,7 @@
 - pkg:maven/org.hibernate.orm/hibernate-envers@6.2.35.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-envers@6.2.36.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-envers@6.2.37.Final?classifier=sources
+- pkg:maven/org.hibernate.orm/hibernate-envers@6.2.38.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-envers@6.2.4.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-envers@6.2.5.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-envers@6.2.6.Final?classifier=sources
@@ -101,6 +102,8 @@
 - pkg:maven/org.hibernate.orm/hibernate-envers@6.6.13.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-envers@6.6.14.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-envers@6.6.15.Final?classifier=sources
+- pkg:maven/org.hibernate.orm/hibernate-envers@6.6.16.Final?classifier=sources
+- pkg:maven/org.hibernate.orm/hibernate-envers@6.6.17.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-envers@6.6.2.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-envers@6.6.3.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-envers@6.6.4.Final?classifier=sources
@@ -119,3 +122,4 @@
 - pkg:maven/org.hibernate.orm/hibernate-envers@7.0.0.Beta5?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-envers@7.0.0.CR1?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-envers@7.0.0.CR2?classifier=sources
+- pkg:maven/org.hibernate.orm/hibernate-envers@7.0.0.Final?classifier=sources
