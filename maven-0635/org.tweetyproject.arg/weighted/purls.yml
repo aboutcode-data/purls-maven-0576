@@ -2,3 +2,5 @@
 - pkg:maven/org.tweetyproject.arg/weighted@1.26?classifier=sources
 - pkg:maven/org.tweetyproject.arg/weighted@1.27
 - pkg:maven/org.tweetyproject.arg/weighted@1.27?classifier=sources
+- pkg:maven/org.tweetyproject.arg/weighted@1.28
+- pkg:maven/org.tweetyproject.arg/weighted@1.28?classifier=sources

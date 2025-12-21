@@ -1,1 +1,2 @@
+- pkg:maven/io.maryk.rocksdb/rocksdb-multiplatform-linuxx64@9.10.0?classifier=sources
 - pkg:maven/io.maryk.rocksdb/rocksdb-multiplatform-linuxx64@9.6.2?classifier=sources

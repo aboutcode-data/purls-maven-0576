@@ -25,4 +25,7 @@
 - pkg:maven/io.seald/seald_sdk_android@0.8.0?classifier=sources
 - pkg:maven/io.seald/seald_sdk_android@0.9.0-beta.1?classifier=sources
 - pkg:maven/io.seald/seald_sdk_android@0.9.0-beta.2?classifier=sources
+- pkg:maven/io.seald/seald_sdk_android@0.9.0-beta.2b?classifier=sources
+- pkg:maven/io.seald/seald_sdk_android@0.9.0-beta.4?classifier=sources
+- pkg:maven/io.seald/seald_sdk_android@0.9.0?classifier=sources
 - pkg:maven/io.seald/seald_sdk_android@unspecified?classifier=sources

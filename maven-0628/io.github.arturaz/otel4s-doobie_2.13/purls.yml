@@ -1,0 +1,2 @@
+- pkg:maven/io.github.arturaz/otel4s-doobie_2.13@0.1.0
+- pkg:maven/io.github.arturaz/otel4s-doobie_2.13@0.1.0?classifier=sources

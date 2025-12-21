@@ -140,3 +140,5 @@
 - pkg:maven/com.vonage/client-sdk@1.7.2?classifier=sources
 - pkg:maven/com.vonage/client-sdk@2.0.0-alpha.0?classifier=sources
 - pkg:maven/com.vonage/client-sdk@2.0.0-alpha.1?classifier=sources
+- pkg:maven/com.vonage/client-sdk@2.0.0-rc.0?classifier=sources
+- pkg:maven/com.vonage/client-sdk@2.0.0?classifier=sources

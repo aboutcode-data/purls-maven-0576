@@ -1,3 +1,6 @@
+- pkg:maven/ru.solrudev.ackpine/ackpine-runtime@0.10.0?classifier=sources
+- pkg:maven/ru.solrudev.ackpine/ackpine-runtime@0.10.1?classifier=sources
+- pkg:maven/ru.solrudev.ackpine/ackpine-runtime@0.10.2?classifier=sources
 - pkg:maven/ru.solrudev.ackpine/ackpine-runtime@0.3.0?classifier=sources
 - pkg:maven/ru.solrudev.ackpine/ackpine-runtime@0.3.1?classifier=sources
 - pkg:maven/ru.solrudev.ackpine/ackpine-runtime@0.3.2?classifier=sources

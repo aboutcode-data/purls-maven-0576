@@ -32,3 +32,5 @@
 - pkg:maven/org.scoverage/sbt-scoverage_2.12_1.0@2.2.2?classifier=sources
 - pkg:maven/org.scoverage/sbt-scoverage_2.12_1.0@2.3.0
 - pkg:maven/org.scoverage/sbt-scoverage_2.12_1.0@2.3.0?classifier=sources
+- pkg:maven/org.scoverage/sbt-scoverage_2.12_1.0@2.3.1
+- pkg:maven/org.scoverage/sbt-scoverage_2.12_1.0@2.3.1?classifier=sources

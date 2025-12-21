@@ -34,3 +34,7 @@
 - pkg:maven/de.team33.patterns/serial-charon@1.21.1?classifier=sources
 - pkg:maven/de.team33.patterns/serial-charon@1.22.0
 - pkg:maven/de.team33.patterns/serial-charon@1.22.0?classifier=sources
+- pkg:maven/de.team33.patterns/serial-charon@1.23.0
+- pkg:maven/de.team33.patterns/serial-charon@1.23.0?classifier=sources
+- pkg:maven/de.team33.patterns/serial-charon@1.24.0
+- pkg:maven/de.team33.patterns/serial-charon@1.24.0?classifier=sources

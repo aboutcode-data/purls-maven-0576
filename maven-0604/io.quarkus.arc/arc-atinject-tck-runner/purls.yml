@@ -60,6 +60,12 @@
 - pkg:maven/io.quarkus.arc/arc-atinject-tck-runner@3.17.8
 - pkg:maven/io.quarkus.arc/arc-atinject-tck-runner@3.18.0
 - pkg:maven/io.quarkus.arc/arc-atinject-tck-runner@3.18.0.CR1
+- pkg:maven/io.quarkus.arc/arc-atinject-tck-runner@3.18.1
+- pkg:maven/io.quarkus.arc/arc-atinject-tck-runner@3.18.2
+- pkg:maven/io.quarkus.arc/arc-atinject-tck-runner@3.18.3
+- pkg:maven/io.quarkus.arc/arc-atinject-tck-runner@3.18.4
+- pkg:maven/io.quarkus.arc/arc-atinject-tck-runner@3.19.0
+- pkg:maven/io.quarkus.arc/arc-atinject-tck-runner@3.19.0.CR1
 - pkg:maven/io.quarkus.arc/arc-atinject-tck-runner@3.2.0.CR1
 - pkg:maven/io.quarkus.arc/arc-atinject-tck-runner@3.2.0.Final
 - pkg:maven/io.quarkus.arc/arc-atinject-tck-runner@3.2.1.Final

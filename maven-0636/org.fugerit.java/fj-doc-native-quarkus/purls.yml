@@ -26,3 +26,7 @@
 - pkg:maven/org.fugerit.java/fj-doc-native-quarkus@8.11.8?classifier=sources
 - pkg:maven/org.fugerit.java/fj-doc-native-quarkus@8.11.9
 - pkg:maven/org.fugerit.java/fj-doc-native-quarkus@8.11.9?classifier=sources
+- pkg:maven/org.fugerit.java/fj-doc-native-quarkus@8.12.0
+- pkg:maven/org.fugerit.java/fj-doc-native-quarkus@8.12.0?classifier=sources
+- pkg:maven/org.fugerit.java/fj-doc-native-quarkus@8.12.1
+- pkg:maven/org.fugerit.java/fj-doc-native-quarkus@8.12.1?classifier=sources

@@ -100,3 +100,7 @@
 - pkg:maven/org.redisson/redisson-spring-data-30@3.42.0?classifier=sources
 - pkg:maven/org.redisson/redisson-spring-data-30@3.43.0
 - pkg:maven/org.redisson/redisson-spring-data-30@3.43.0?classifier=sources
+- pkg:maven/org.redisson/redisson-spring-data-30@3.44.0
+- pkg:maven/org.redisson/redisson-spring-data-30@3.44.0?classifier=sources
+- pkg:maven/org.redisson/redisson-spring-data-30@3.45.0
+- pkg:maven/org.redisson/redisson-spring-data-30@3.45.0?classifier=sources

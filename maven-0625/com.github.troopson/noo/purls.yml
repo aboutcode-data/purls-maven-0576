@@ -7,8 +7,11 @@
 - pkg:maven/com.github.troopson/noo@1.0.105?classifier=sources
 - pkg:maven/com.github.troopson/noo@1.0.106?classifier=sources
 - pkg:maven/com.github.troopson/noo@1.0.107?classifier=sources
+- pkg:maven/com.github.troopson/noo@1.0.108?classifier=sources
+- pkg:maven/com.github.troopson/noo@1.0.109?classifier=sources
 - pkg:maven/com.github.troopson/noo@1.0.10?classifier=sources
 - pkg:maven/com.github.troopson/noo@1.0.11
+- pkg:maven/com.github.troopson/noo@1.0.111?classifier=sources
 - pkg:maven/com.github.troopson/noo@1.0.11?classifier=sources
 - pkg:maven/com.github.troopson/noo@1.0.12
 - pkg:maven/com.github.troopson/noo@1.0.12?classifier=sources

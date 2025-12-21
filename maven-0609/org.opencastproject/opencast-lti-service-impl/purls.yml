@@ -164,6 +164,8 @@
 - pkg:maven/org.opencastproject/opencast-lti-service-impl@16.7?classifier=sources
 - pkg:maven/org.opencastproject/opencast-lti-service-impl@16.8
 - pkg:maven/org.opencastproject/opencast-lti-service-impl@16.8?classifier=sources
+- pkg:maven/org.opencastproject/opencast-lti-service-impl@16.9
+- pkg:maven/org.opencastproject/opencast-lti-service-impl@16.9?classifier=sources
 - pkg:maven/org.opencastproject/opencast-lti-service-impl@9.0
 - pkg:maven/org.opencastproject/opencast-lti-service-impl@9.0?classifier=sources
 - pkg:maven/org.opencastproject/opencast-lti-service-impl@9.1

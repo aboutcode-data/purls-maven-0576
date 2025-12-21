@@ -1,0 +1,2 @@
+- pkg:maven/org.delaunois/brotherql@1.1.0?classifier=sources
+- pkg:maven/org.delaunois/brotherql@v1.0.0?classifier=sources

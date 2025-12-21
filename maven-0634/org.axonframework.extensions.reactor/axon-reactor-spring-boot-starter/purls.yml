@@ -1,4 +1,5 @@
 - pkg:maven/org.axonframework.extensions.reactor/axon-reactor-spring-boot-starter@4.10.0
+- pkg:maven/org.axonframework.extensions.reactor/axon-reactor-spring-boot-starter@4.11.0
 - pkg:maven/org.axonframework.extensions.reactor/axon-reactor-spring-boot-starter@4.4.2
 - pkg:maven/org.axonframework.extensions.reactor/axon-reactor-spring-boot-starter@4.4.3
 - pkg:maven/org.axonframework.extensions.reactor/axon-reactor-spring-boot-starter@4.5

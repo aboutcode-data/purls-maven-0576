@@ -135,3 +135,5 @@
 - pkg:maven/com.applovin.mediation/mintegral-adapter@16.9.21.0?classifier=sources
 - pkg:maven/com.applovin.mediation/mintegral-adapter@16.9.31.0?classifier=sources
 - pkg:maven/com.applovin.mediation/mintegral-adapter@16.9.31.1?classifier=sources
+- pkg:maven/com.applovin.mediation/mintegral-adapter@16.9.31.2?classifier=sources
+- pkg:maven/com.applovin.mediation/mintegral-adapter@16.9.41.0?classifier=sources

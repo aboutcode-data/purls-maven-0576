@@ -62,3 +62,4 @@
 - pkg:maven/org.dita-ot/dost@4.2.2?classifier=sources
 - pkg:maven/org.dita-ot/dost@4.2.3?classifier=sources
 - pkg:maven/org.dita-ot/dost@4.2.4?classifier=sources
+- pkg:maven/org.dita-ot/dost@4.3.0?classifier=sources

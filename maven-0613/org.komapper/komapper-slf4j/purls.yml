@@ -62,3 +62,4 @@
 - pkg:maven/org.komapper/komapper-slf4j@4.0.0?classifier=sources
 - pkg:maven/org.komapper/komapper-slf4j@5.0.0?classifier=sources
 - pkg:maven/org.komapper/komapper-slf4j@5.1.0?classifier=sources
+- pkg:maven/org.komapper/komapper-slf4j@5.2.0?classifier=sources

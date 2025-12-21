@@ -27,6 +27,8 @@
 - pkg:maven/com.grafana/grafana-foundation-sdk@10.1.0-1736942354?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@10.1.0-1737637027?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@10.1.0-1737673533?classifier=sources
+- pkg:maven/com.grafana/grafana-foundation-sdk@10.1.0-1738846631?classifier=sources
+- pkg:maven/com.grafana/grafana-foundation-sdk@10.1.0-1738936587?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@10.2.0-1721137804?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@10.2.0-1722522236?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@10.2.0-1725547603?classifier=sources
@@ -55,6 +57,8 @@
 - pkg:maven/com.grafana/grafana-foundation-sdk@10.2.0-1736801111?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@10.2.0-1736942282?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@10.2.0-1737673459?classifier=sources
+- pkg:maven/com.grafana/grafana-foundation-sdk@10.2.0-1738846566?classifier=sources
+- pkg:maven/com.grafana/grafana-foundation-sdk@10.2.0-1738936571?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@10.3.0-1721137822?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@10.3.0-1722522253?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@10.3.0-1725547622?classifier=sources
@@ -83,6 +87,8 @@
 - pkg:maven/com.grafana/grafana-foundation-sdk@10.3.0-1736801035?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@10.3.0-1736942210?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@10.3.0-1737673381?classifier=sources
+- pkg:maven/com.grafana/grafana-foundation-sdk@10.3.0-1738846499?classifier=sources
+- pkg:maven/com.grafana/grafana-foundation-sdk@10.3.0-1738936555?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@10.4.0-1721137839?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@10.4.0-1722522272?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@10.4.0-1725547640?classifier=sources
@@ -111,6 +117,8 @@
 - pkg:maven/com.grafana/grafana-foundation-sdk@10.4.0-1736800970?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@10.4.0-1736942148?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@10.4.0-1737673316?classifier=sources
+- pkg:maven/com.grafana/grafana-foundation-sdk@10.4.0-1738846436?classifier=sources
+- pkg:maven/com.grafana/grafana-foundation-sdk@10.4.0-1738936538?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@11.0.0-1721137856?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@11.0.0-1722522290?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@11.0.0-1725547658?classifier=sources
@@ -139,6 +147,8 @@
 - pkg:maven/com.grafana/grafana-foundation-sdk@11.0.0-1736800900?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@11.0.0-1736942083?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@11.0.0-1737673248?classifier=sources
+- pkg:maven/com.grafana/grafana-foundation-sdk@11.0.0-1738846382?classifier=sources
+- pkg:maven/com.grafana/grafana-foundation-sdk@11.0.0-1738936519?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@11.1.0-1726143090?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@11.1.0-1726580542?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@11.1.0-1727777563?classifier=sources
@@ -163,6 +173,8 @@
 - pkg:maven/com.grafana/grafana-foundation-sdk@11.1.0-1736800834?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@11.1.0-1736942020?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@11.1.0-1737673183?classifier=sources
+- pkg:maven/com.grafana/grafana-foundation-sdk@11.1.0-1738846331?classifier=sources
+- pkg:maven/com.grafana/grafana-foundation-sdk@11.1.0-1738936502?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@11.2.0-1726142473?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@11.2.0-1726580554?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@11.2.0-1727777584?classifier=sources
@@ -187,6 +199,8 @@
 - pkg:maven/com.grafana/grafana-foundation-sdk@11.2.0-1736800771?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@11.2.0-1736941959?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@11.2.0-1737673120?classifier=sources
+- pkg:maven/com.grafana/grafana-foundation-sdk@11.2.0-1738846282?classifier=sources
+- pkg:maven/com.grafana/grafana-foundation-sdk@11.2.0-1738936484?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@11.3.0-1730378377?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@11.3.0-1730422425?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@11.3.0-1730898216?classifier=sources
@@ -205,6 +219,8 @@
 - pkg:maven/com.grafana/grafana-foundation-sdk@11.3.0-1736800719?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@11.3.0-1736941909?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@11.3.0-1737673068?classifier=sources
+- pkg:maven/com.grafana/grafana-foundation-sdk@11.3.0-1738846246?classifier=sources
+- pkg:maven/com.grafana/grafana-foundation-sdk@11.3.0-1738936467?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@11.4.0-1733524856?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@11.4.0-1733827634?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@11.4.0-1733832493?classifier=sources
@@ -216,6 +232,8 @@
 - pkg:maven/com.grafana/grafana-foundation-sdk@11.4.0-1736800646?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@11.4.0-1736941839?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@11.4.0-1737672993?classifier=sources
+- pkg:maven/com.grafana/grafana-foundation-sdk@11.4.0-1738846178?classifier=sources
+- pkg:maven/com.grafana/grafana-foundation-sdk@11.4.0-1738936449?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@next-1721137873?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@next-1722522306?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@next-1725548292?classifier=sources
@@ -245,3 +263,5 @@
 - pkg:maven/com.grafana/grafana-foundation-sdk@next-1736800532?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@next-1736941726?classifier=sources
 - pkg:maven/com.grafana/grafana-foundation-sdk@next-1737672879?classifier=sources
+- pkg:maven/com.grafana/grafana-foundation-sdk@next-1738846079?classifier=sources
+- pkg:maven/com.grafana/grafana-foundation-sdk@next-1738936430?classifier=sources

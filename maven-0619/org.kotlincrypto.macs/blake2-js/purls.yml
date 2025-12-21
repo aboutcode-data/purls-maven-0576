@@ -1,1 +1,2 @@
 - pkg:maven/org.kotlincrypto.macs/blake2-js@0.6.0?classifier=sources
+- pkg:maven/org.kotlincrypto.macs/blake2-js@0.6.1?classifier=sources

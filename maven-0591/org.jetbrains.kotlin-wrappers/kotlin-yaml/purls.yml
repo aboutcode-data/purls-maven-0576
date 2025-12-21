@@ -1,0 +1,15 @@
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-yaml@2025.1.10-2.7.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-yaml@2025.1.11-2.7.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-yaml@2025.1.6-2.7.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-yaml@2025.1.7-2.7.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-yaml@2025.1.8-2.7.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-yaml@2025.1.9-2.7.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-yaml@2025.2.0-2.7.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-yaml@2025.2.1-2.7.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-yaml@2025.2.2-2.7.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-yaml@2025.2.3-2.7.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-yaml@2025.2.4-2.7.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-yaml@2025.2.5-2.7.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-yaml@2025.2.6-2.7.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-yaml@2025.2.7-2.7.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-yaml@2025.2.8-2.7.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.lhns/fs2-compress-snappy_2.12@2.3.0
+- pkg:maven/de.lhns/fs2-compress-snappy_2.12@2.3.0?classifier=sources

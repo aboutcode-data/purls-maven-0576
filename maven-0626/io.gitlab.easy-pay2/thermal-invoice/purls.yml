@@ -1,0 +1,2 @@
+- pkg:maven/io.gitlab.easy-pay2/thermal-invoice@1.0.0?classifier=sources
+- pkg:maven/io.gitlab.easy-pay2/thermal-invoice@1.0.1?classifier=sources

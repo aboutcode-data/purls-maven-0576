@@ -9,4 +9,5 @@
 - pkg:maven/tech.illuin/data-pipeline@0.21?classifier=sources
 - pkg:maven/tech.illuin/data-pipeline@0.22?classifier=sources
 - pkg:maven/tech.illuin/data-pipeline@0.23.1?classifier=sources
+- pkg:maven/tech.illuin/data-pipeline@0.23.2?classifier=sources
 - pkg:maven/tech.illuin/data-pipeline@0.23?classifier=sources

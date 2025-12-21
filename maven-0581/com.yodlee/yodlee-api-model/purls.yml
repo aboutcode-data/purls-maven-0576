@@ -63,3 +63,4 @@
 - pkg:maven/com.yodlee/yodlee-api-model@1.0.9
 - pkg:maven/com.yodlee/yodlee-api-model@1.0.9?classifier=sources
 - pkg:maven/com.yodlee/yodlee-api-model@1.1.31?classifier=sources
+- pkg:maven/com.yodlee/yodlee-api-model@1.1.32?classifier=sources

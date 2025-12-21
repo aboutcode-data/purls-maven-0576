@@ -32,3 +32,5 @@
 - pkg:maven/org.wso2.carbon.identity.local.auth.api/org.wso2.carbon.identity.local.auth.api.endpoint@2.5.6?type=war
 - pkg:maven/org.wso2.carbon.identity.local.auth.api/org.wso2.carbon.identity.local.auth.api.endpoint@2.5.7?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.local.auth.api/org.wso2.carbon.identity.local.auth.api.endpoint@2.5.7?type=war
+- pkg:maven/org.wso2.carbon.identity.local.auth.api/org.wso2.carbon.identity.local.auth.api.endpoint@3.0.5?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.local.auth.api/org.wso2.carbon.identity.local.auth.api.endpoint@3.0.5?type=war

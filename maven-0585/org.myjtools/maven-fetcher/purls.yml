@@ -1,1 +1,3 @@
 - pkg:maven/org.myjtools/maven-fetcher@1.0.0?classifier=sources
+- pkg:maven/org.myjtools/maven-fetcher@1.1.0?classifier=sources
+- pkg:maven/org.myjtools/maven-fetcher@1.1.1?classifier=sources

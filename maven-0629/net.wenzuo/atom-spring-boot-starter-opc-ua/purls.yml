@@ -38,6 +38,8 @@
 - pkg:maven/net.wenzuo/atom-spring-boot-starter-opc-ua@2.4.28?classifier=sources
 - pkg:maven/net.wenzuo/atom-spring-boot-starter-opc-ua@2.4.29
 - pkg:maven/net.wenzuo/atom-spring-boot-starter-opc-ua@2.4.29?classifier=sources
+- pkg:maven/net.wenzuo/atom-spring-boot-starter-opc-ua@2.4.30
+- pkg:maven/net.wenzuo/atom-spring-boot-starter-opc-ua@2.4.30?classifier=sources
 - pkg:maven/net.wenzuo/atom-spring-boot-starter-opc-ua@2.4.7
 - pkg:maven/net.wenzuo/atom-spring-boot-starter-opc-ua@2.4.7?classifier=sources
 - pkg:maven/net.wenzuo/atom-spring-boot-starter-opc-ua@2.4.8

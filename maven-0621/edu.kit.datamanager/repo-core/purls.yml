@@ -13,3 +13,4 @@
 - pkg:maven/edu.kit.datamanager/repo-core@1.2.2?classifier=sources
 - pkg:maven/edu.kit.datamanager/repo-core@1.2.3?classifier=sources
 - pkg:maven/edu.kit.datamanager/repo-core@1.2.4?classifier=sources
+- pkg:maven/edu.kit.datamanager/repo-core@1.2.5?classifier=sources

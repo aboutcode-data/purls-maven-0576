@@ -1,0 +1,2 @@
+- pkg:maven/de.learnlib/learnlib-datastructures@0.18.0
+- pkg:maven/de.learnlib/learnlib-datastructures@0.18.0?classifier=sources

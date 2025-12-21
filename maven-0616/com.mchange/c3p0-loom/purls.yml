@@ -10,3 +10,9 @@
 - pkg:maven/com.mchange/c3p0-loom@0.10.0?classifier=sources
 - pkg:maven/com.mchange/c3p0-loom@0.10.1
 - pkg:maven/com.mchange/c3p0-loom@0.10.1?classifier=sources
+- pkg:maven/com.mchange/c3p0-loom@0.10.2
+- pkg:maven/com.mchange/c3p0-loom@0.10.2?classifier=sources
+- pkg:maven/com.mchange/c3p0-loom@0.11.0-pre1
+- pkg:maven/com.mchange/c3p0-loom@0.11.0-pre1?classifier=sources
+- pkg:maven/com.mchange/c3p0-loom@0.11.0-pre2
+- pkg:maven/com.mchange/c3p0-loom@0.11.0-pre2?classifier=sources

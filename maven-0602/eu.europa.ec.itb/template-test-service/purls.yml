@@ -6,3 +6,5 @@
 - pkg:maven/eu.europa.ec.itb/template-test-service@1.24.2?classifier=sources
 - pkg:maven/eu.europa.ec.itb/template-test-service@1.24.3?classifier=sources
 - pkg:maven/eu.europa.ec.itb/template-test-service@1.24.4?classifier=sources
+- pkg:maven/eu.europa.ec.itb/template-test-service@1.25.0?classifier=sources
+- pkg:maven/eu.europa.ec.itb/template-test-service@1.25.1?classifier=sources

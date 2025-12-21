@@ -4,6 +4,8 @@
 - pkg:maven/net.scalax.djx314/sbt-depts-djx314_2.12_1.0@0.0.1-M1065?classifier=sources
 - pkg:maven/net.scalax.djx314/sbt-depts-djx314_2.12_1.0@0.0.1-M1075
 - pkg:maven/net.scalax.djx314/sbt-depts-djx314_2.12_1.0@0.0.1-M1075?classifier=sources
+- pkg:maven/net.scalax.djx314/sbt-depts-djx314_2.12_1.0@0.0.1-M1125
+- pkg:maven/net.scalax.djx314/sbt-depts-djx314_2.12_1.0@0.0.1-M1125?classifier=sources
 - pkg:maven/net.scalax.djx314/sbt-depts-djx314_2.12_1.0@0.0.1-M719
 - pkg:maven/net.scalax.djx314/sbt-depts-djx314_2.12_1.0@0.0.1-M719?classifier=sources
 - pkg:maven/net.scalax.djx314/sbt-depts-djx314_2.12_1.0@0.0.1-M724

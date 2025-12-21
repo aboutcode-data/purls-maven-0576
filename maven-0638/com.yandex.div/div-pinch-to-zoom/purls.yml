@@ -102,12 +102,17 @@
 - pkg:maven/com.yandex.div/div-pinch-to-zoom@30.31.0?classifier=sources
 - pkg:maven/com.yandex.div/div-pinch-to-zoom@30.32.0?classifier=sources
 - pkg:maven/com.yandex.div/div-pinch-to-zoom@30.33.0?classifier=sources
+- pkg:maven/com.yandex.div/div-pinch-to-zoom@30.33.1?classifier=sources
 - pkg:maven/com.yandex.div/div-pinch-to-zoom@30.4.0?classifier=sources
 - pkg:maven/com.yandex.div/div-pinch-to-zoom@30.5.0?classifier=sources
 - pkg:maven/com.yandex.div/div-pinch-to-zoom@30.6.0?classifier=sources
 - pkg:maven/com.yandex.div/div-pinch-to-zoom@30.7.0?classifier=sources
 - pkg:maven/com.yandex.div/div-pinch-to-zoom@30.8.0?classifier=sources
 - pkg:maven/com.yandex.div/div-pinch-to-zoom@30.9.0?classifier=sources
+- pkg:maven/com.yandex.div/div-pinch-to-zoom@31.0.0?classifier=sources
+- pkg:maven/com.yandex.div/div-pinch-to-zoom@31.1.0?classifier=sources
+- pkg:maven/com.yandex.div/div-pinch-to-zoom@31.2.0?classifier=sources
+- pkg:maven/com.yandex.div/div-pinch-to-zoom@31.3.0?classifier=sources
 - pkg:maven/com.yandex.div/div-pinch-to-zoom@5.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-pinch-to-zoom@6.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-pinch-to-zoom@7.0.0?classifier=sources

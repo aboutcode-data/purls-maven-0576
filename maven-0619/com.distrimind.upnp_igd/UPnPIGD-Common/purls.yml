@@ -1,1 +1,7 @@
 - pkg:maven/com.distrimind.upnp_igd/UPnPIGD-Common@1.2.0-BETA16?classifier=sources
+- pkg:maven/com.distrimind.upnp_igd/UPnPIGD-Common@1.2.0-BETA17?classifier=sources
+- pkg:maven/com.distrimind.upnp_igd/UPnPIGD-Common@1.2.0-STABLE?classifier=sources
+- pkg:maven/com.distrimind.upnp_igd/UPnPIGD-Common@1.3.0-STABLE?classifier=sources
+- pkg:maven/com.distrimind.upnp_igd/UPnPIGD-Common@1.3.1-STABLE?classifier=sources
+- pkg:maven/com.distrimind.upnp_igd/UPnPIGD-Common@1.4.3-STABLE?classifier=sources
+- pkg:maven/com.distrimind.upnp_igd/UPnPIGD-Common@1.4.5-STABLE?classifier=sources

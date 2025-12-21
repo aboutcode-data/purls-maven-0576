@@ -20,3 +20,5 @@
 - pkg:maven/net.snowflake/snowflake-jdbc-thin@3.20.0?classifier=sources
 - pkg:maven/net.snowflake/snowflake-jdbc-thin@3.21.0
 - pkg:maven/net.snowflake/snowflake-jdbc-thin@3.21.0?classifier=sources
+- pkg:maven/net.snowflake/snowflake-jdbc-thin@3.22.0
+- pkg:maven/net.snowflake/snowflake-jdbc-thin@3.22.0?classifier=sources

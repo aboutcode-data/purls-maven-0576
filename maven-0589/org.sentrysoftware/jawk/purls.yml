@@ -18,3 +18,5 @@
 - pkg:maven/org.sentrysoftware/jawk@3.3.02?classifier=sources
 - pkg:maven/org.sentrysoftware/jawk@3.3.03
 - pkg:maven/org.sentrysoftware/jawk@3.3.03?classifier=sources
+- pkg:maven/org.sentrysoftware/jawk@3.3.04
+- pkg:maven/org.sentrysoftware/jawk@3.3.04?classifier=sources

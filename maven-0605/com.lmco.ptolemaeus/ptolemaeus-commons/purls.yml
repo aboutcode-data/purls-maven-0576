@@ -1,0 +1,5 @@
+- pkg:maven/com.lmco.ptolemaeus/ptolemaeus-commons@4.0.0-beta.2?classifier=sources
+- pkg:maven/com.lmco.ptolemaeus/ptolemaeus-commons@4.0.0-beta.3?classifier=sources
+- pkg:maven/com.lmco.ptolemaeus/ptolemaeus-commons@4.0.0-beta.4?classifier=sources
+- pkg:maven/com.lmco.ptolemaeus/ptolemaeus-commons@4.0.0-beta.5?classifier=sources
+- pkg:maven/com.lmco.ptolemaeus/ptolemaeus-commons@4.0.0-beta?classifier=sources

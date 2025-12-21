@@ -152,3 +152,5 @@
 - pkg:maven/com.buschmais.jqassistant.plugin/json@2.6.0-M2?classifier=sources
 - pkg:maven/com.buschmais.jqassistant.plugin/json@2.6.0-M3
 - pkg:maven/com.buschmais.jqassistant.plugin/json@2.6.0-M3?classifier=sources
+- pkg:maven/com.buschmais.jqassistant.plugin/json@2.6.0-RC1
+- pkg:maven/com.buschmais.jqassistant.plugin/json@2.6.0-RC1?classifier=sources

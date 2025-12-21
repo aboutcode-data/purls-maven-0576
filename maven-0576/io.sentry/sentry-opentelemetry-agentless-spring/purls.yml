@@ -1,3 +1,5 @@
 - pkg:maven/io.sentry/sentry-opentelemetry-agentless-spring@8.0.0-rc.3?classifier=sources
 - pkg:maven/io.sentry/sentry-opentelemetry-agentless-spring@8.0.0-rc.4?classifier=sources
 - pkg:maven/io.sentry/sentry-opentelemetry-agentless-spring@8.0.0?classifier=sources
+- pkg:maven/io.sentry/sentry-opentelemetry-agentless-spring@8.1.0?classifier=sources
+- pkg:maven/io.sentry/sentry-opentelemetry-agentless-spring@8.2.0?classifier=sources

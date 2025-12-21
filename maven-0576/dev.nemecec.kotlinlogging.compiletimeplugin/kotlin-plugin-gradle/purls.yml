@@ -1,0 +1,1 @@
+- pkg:maven/dev.nemecec.kotlinlogging.compiletimeplugin/kotlin-plugin-gradle@1.0.0?classifier=sources

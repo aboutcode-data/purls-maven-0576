@@ -13,3 +13,5 @@
 - pkg:maven/dev.petuska/npm-publish-gradle-plugin@3.4.3?classifier=sources
 - pkg:maven/dev.petuska/npm-publish-gradle-plugin@3.5.0?classifier=sources
 - pkg:maven/dev.petuska/npm-publish-gradle-plugin@3.5.1?classifier=sources
+- pkg:maven/dev.petuska/npm-publish-gradle-plugin@3.5.2?classifier=sources
+- pkg:maven/dev.petuska/npm-publish-gradle-plugin@3.5.3?classifier=sources

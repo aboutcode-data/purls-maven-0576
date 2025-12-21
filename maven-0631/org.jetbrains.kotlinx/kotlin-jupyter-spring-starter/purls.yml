@@ -37,3 +37,7 @@
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-spring-starter@0.12.0-354?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-spring-starter@0.12.0-355?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-spring-starter@0.12.0-356?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-spring-starter@0.12.0-363?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-spring-starter@0.12.0-369?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-spring-starter@0.12.0-370?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-spring-starter@0.12.0-373?classifier=sources

@@ -106,3 +106,5 @@
 - pkg:maven/org.jdbi/jdbi3-spring5@3.46.0?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-spring5@3.47.0
 - pkg:maven/org.jdbi/jdbi3-spring5@3.47.0?classifier=sources
+- pkg:maven/org.jdbi/jdbi3-spring5@3.48.0
+- pkg:maven/org.jdbi/jdbi3-spring5@3.48.0?classifier=sources

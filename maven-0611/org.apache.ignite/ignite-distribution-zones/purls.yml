@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.ignite/ignite-distribution-zones@3.0.0?classifier=sources

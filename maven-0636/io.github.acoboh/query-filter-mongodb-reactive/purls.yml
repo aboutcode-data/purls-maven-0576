@@ -1,0 +1,2 @@
+- pkg:maven/io.github.acoboh/query-filter-mongodb-reactive@0.1.0
+- pkg:maven/io.github.acoboh/query-filter-mongodb-reactive@0.1.0?classifier=sources

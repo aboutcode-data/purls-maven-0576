@@ -1,0 +1,2 @@
+- pkg:maven/org.scalus/scalus_native0.5_3@0.8.5
+- pkg:maven/org.scalus/scalus_native0.5_3@0.8.5?classifier=sources

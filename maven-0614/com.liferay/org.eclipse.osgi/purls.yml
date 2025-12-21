@@ -55,6 +55,7 @@
 - pkg:maven/com.liferay/org.eclipse.osgi@3.13.0.LIFERAY-PATCHED-25?classifier=sources
 - pkg:maven/com.liferay/org.eclipse.osgi@3.13.0.LIFERAY-PATCHED-26?classifier=sources
 - pkg:maven/com.liferay/org.eclipse.osgi@3.13.0.LIFERAY-PATCHED-27?classifier=sources
+- pkg:maven/com.liferay/org.eclipse.osgi@3.13.0.LIFERAY-PATCHED-28?classifier=sources
 - pkg:maven/com.liferay/org.eclipse.osgi@3.13.0.LIFERAY-PATCHED-2?classifier=sources
 - pkg:maven/com.liferay/org.eclipse.osgi@3.13.0.LIFERAY-PATCHED-2?classifier=sources-commercial
 - pkg:maven/com.liferay/org.eclipse.osgi@3.13.0.LIFERAY-PATCHED-3

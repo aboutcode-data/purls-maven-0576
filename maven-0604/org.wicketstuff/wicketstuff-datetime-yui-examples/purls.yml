@@ -12,6 +12,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-datetime-yui-examples@10.2.0?type=war
 - pkg:maven/org.wicketstuff/wicketstuff-datetime-yui-examples@10.3.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-datetime-yui-examples@10.3.0?type=war
+- pkg:maven/org.wicketstuff/wicketstuff-datetime-yui-examples@10.4.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-datetime-yui-examples@10.4.0?type=war
 - pkg:maven/org.wicketstuff/wicketstuff-datetime-yui-examples@8.0.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-datetime-yui-examples@8.0.0?type=war
 - pkg:maven/org.wicketstuff/wicketstuff-datetime-yui-examples@8.1.0?classifier=sources
@@ -30,6 +32,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-datetime-yui-examples@8.15.0?type=war
 - pkg:maven/org.wicketstuff/wicketstuff-datetime-yui-examples@8.16.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-datetime-yui-examples@8.16.0?type=war
+- pkg:maven/org.wicketstuff/wicketstuff-datetime-yui-examples@8.17.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-datetime-yui-examples@8.17.0?type=war
 - pkg:maven/org.wicketstuff/wicketstuff-datetime-yui-examples@8.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-datetime-yui-examples@8.2.0?type=war
 - pkg:maven/org.wicketstuff/wicketstuff-datetime-yui-examples@8.3.0?classifier=sources
@@ -86,6 +90,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-datetime-yui-examples@9.19.0?type=war
 - pkg:maven/org.wicketstuff/wicketstuff-datetime-yui-examples@9.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-datetime-yui-examples@9.2.0?type=war
+- pkg:maven/org.wicketstuff/wicketstuff-datetime-yui-examples@9.20.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-datetime-yui-examples@9.20.0?type=war
 - pkg:maven/org.wicketstuff/wicketstuff-datetime-yui-examples@9.3.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-datetime-yui-examples@9.3.0?type=war
 - pkg:maven/org.wicketstuff/wicketstuff-datetime-yui-examples@9.4.0?classifier=sources

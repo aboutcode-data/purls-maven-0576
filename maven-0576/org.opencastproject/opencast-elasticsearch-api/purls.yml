@@ -164,3 +164,5 @@
 - pkg:maven/org.opencastproject/opencast-elasticsearch-api@16.7?classifier=sources
 - pkg:maven/org.opencastproject/opencast-elasticsearch-api@16.8
 - pkg:maven/org.opencastproject/opencast-elasticsearch-api@16.8?classifier=sources
+- pkg:maven/org.opencastproject/opencast-elasticsearch-api@16.9
+- pkg:maven/org.opencastproject/opencast-elasticsearch-api@16.9?classifier=sources

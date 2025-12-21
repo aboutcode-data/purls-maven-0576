@@ -36,6 +36,10 @@
 - pkg:maven/com.tectonica/jonix@2024-10-onix308-fix
 - pkg:maven/com.tectonica/jonix@2024-10-onix308-fix?classifier=sources
 - pkg:maven/com.tectonica/jonix@2024-10-onix308?classifier=sources
+- pkg:maven/com.tectonica/jonix@2025-01
+- pkg:maven/com.tectonica/jonix@2025-01-onix308
+- pkg:maven/com.tectonica/jonix@2025-01-onix308?classifier=sources
+- pkg:maven/com.tectonica/jonix@2025-01?classifier=sources
 - pkg:maven/com.tectonica/jonix@3.0
 - pkg:maven/com.tectonica/jonix@3.0?classifier=sources
 - pkg:maven/com.tectonica/jonix@3.1-rc1

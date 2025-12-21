@@ -170,3 +170,5 @@
 - pkg:maven/org.unitime/cpsolver@1.4.3?classifier=sources
 - pkg:maven/org.unitime/cpsolver@1.4.64
 - pkg:maven/org.unitime/cpsolver@1.4.64?classifier=sources
+- pkg:maven/org.unitime/cpsolver@1.4.74
+- pkg:maven/org.unitime/cpsolver@1.4.74?classifier=sources
