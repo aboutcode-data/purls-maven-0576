@@ -24,3 +24,4 @@
 - pkg:maven/com.lwohvye/unicorn-tp-tools-kotlin@4.6.0-upsilon-Beta?classifier=sources
 - pkg:maven/com.lwohvye/unicorn-tp-tools-kotlin@4.6.0-upsilon-RC?classifier=sources
 - pkg:maven/com.lwohvye/unicorn-tp-tools-kotlin@4.6.0-upsilon?classifier=sources
+- pkg:maven/com.lwohvye/unicorn-tp-tools-kotlin@4.7.0-phi-Beta?classifier=sources

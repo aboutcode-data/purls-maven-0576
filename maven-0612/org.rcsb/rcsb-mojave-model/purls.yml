@@ -22,5 +22,15 @@
 - pkg:maven/org.rcsb/rcsb-mojave-model@1.48.1?classifier=sources
 - pkg:maven/org.rcsb/rcsb-mojave-model@1.49.0
 - pkg:maven/org.rcsb/rcsb-mojave-model@1.49.0?classifier=sources
+- pkg:maven/org.rcsb/rcsb-mojave-model@1.49.1
+- pkg:maven/org.rcsb/rcsb-mojave-model@1.49.1-CHEM-GROUP-dev.1
+- pkg:maven/org.rcsb/rcsb-mojave-model@1.49.1-CHEM-GROUP-dev.1?classifier=sources
+- pkg:maven/org.rcsb/rcsb-mojave-model@1.49.1-CHEM-GROUP-dev.2
+- pkg:maven/org.rcsb/rcsb-mojave-model@1.49.1-CHEM-GROUP-dev.2?classifier=sources
 - pkg:maven/org.rcsb/rcsb-mojave-model@1.49.1-IHM-dev.1
 - pkg:maven/org.rcsb/rcsb-mojave-model@1.49.1-IHM-dev.1?classifier=sources
+- pkg:maven/org.rcsb/rcsb-mojave-model@1.49.1-IHM-dev.2
+- pkg:maven/org.rcsb/rcsb-mojave-model@1.49.1-IHM-dev.2?classifier=sources
+- pkg:maven/org.rcsb/rcsb-mojave-model@1.49.1-IHM-dev.3
+- pkg:maven/org.rcsb/rcsb-mojave-model@1.49.1-IHM-dev.3?classifier=sources
+- pkg:maven/org.rcsb/rcsb-mojave-model@1.49.1?classifier=sources

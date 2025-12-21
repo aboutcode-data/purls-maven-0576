@@ -25,3 +25,5 @@
 - pkg:maven/us.ihmc/ihmc-pub-sub-serializers-extra@1.1.8?classifier=sources
 - pkg:maven/us.ihmc/ihmc-pub-sub-serializers-extra@1.2.0?classifier=sources
 - pkg:maven/us.ihmc/ihmc-pub-sub-serializers-extra@1.2.1?classifier=sources
+- pkg:maven/us.ihmc/ihmc-pub-sub-serializers-extra@1.2.2?classifier=sources
+- pkg:maven/us.ihmc/ihmc-pub-sub-serializers-extra@1.2.3?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.lihaoyi/scalac-mill-moduledefs-plugin_3.7.0-RC1@0.11.3-M6
+- pkg:maven/com.lihaoyi/scalac-mill-moduledefs-plugin_3.7.0-RC1@0.11.3-M6?classifier=sources
+- pkg:maven/com.lihaoyi/scalac-mill-moduledefs-plugin_3.7.0-RC1@0.11.3-M7
+- pkg:maven/com.lihaoyi/scalac-mill-moduledefs-plugin_3.7.0-RC1@0.11.3-M7?classifier=sources

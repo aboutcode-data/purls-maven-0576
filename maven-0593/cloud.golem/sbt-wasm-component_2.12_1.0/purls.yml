@@ -1,2 +1,4 @@
 - pkg:maven/cloud.golem/sbt-wasm-component_2.12_1.0@0.1.0
 - pkg:maven/cloud.golem/sbt-wasm-component_2.12_1.0@0.1.0?classifier=sources
+- pkg:maven/cloud.golem/sbt-wasm-component_2.12_1.0@0.2.0
+- pkg:maven/cloud.golem/sbt-wasm-component_2.12_1.0@0.2.0?classifier=sources

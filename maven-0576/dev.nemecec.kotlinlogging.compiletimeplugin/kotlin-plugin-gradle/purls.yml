@@ -1,1 +1,4 @@
 - pkg:maven/dev.nemecec.kotlinlogging.compiletimeplugin/kotlin-plugin-gradle@1.0.0?classifier=sources
+- pkg:maven/dev.nemecec.kotlinlogging.compiletimeplugin/kotlin-plugin-gradle@1.0.1?classifier=sources
+- pkg:maven/dev.nemecec.kotlinlogging.compiletimeplugin/kotlin-plugin-gradle@1.1.0?classifier=sources
+- pkg:maven/dev.nemecec.kotlinlogging.compiletimeplugin/kotlin-plugin-gradle@1.1.1?classifier=sources

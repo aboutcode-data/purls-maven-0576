@@ -74,3 +74,5 @@
 - pkg:maven/com.logicommerce/sdktest@2.3.1?classifier=sources
 - pkg:maven/com.logicommerce/sdktest@2.3.3
 - pkg:maven/com.logicommerce/sdktest@2.3.3?classifier=sources
+- pkg:maven/com.logicommerce/sdktest@2.4.0
+- pkg:maven/com.logicommerce/sdktest@2.4.0?classifier=sources

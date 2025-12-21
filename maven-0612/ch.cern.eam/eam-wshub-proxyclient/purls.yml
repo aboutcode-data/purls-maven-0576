@@ -76,3 +76,5 @@
 - pkg:maven/ch.cern.eam/eam-wshub-proxyclient@12.1-3?classifier=sources
 - pkg:maven/ch.cern.eam/eam-wshub-proxyclient@12.1-4
 - pkg:maven/ch.cern.eam/eam-wshub-proxyclient@12.1-4?classifier=sources
+- pkg:maven/ch.cern.eam/eam-wshub-proxyclient@12.1.0-21
+- pkg:maven/ch.cern.eam/eam-wshub-proxyclient@12.1.0-21?classifier=sources

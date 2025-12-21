@@ -7,3 +7,4 @@
 - pkg:maven/org.mvnpm/ini@1.3.6?classifier=sources
 - pkg:maven/org.mvnpm/ini@1.3.7?classifier=sources
 - pkg:maven/org.mvnpm/ini@1.3.8?classifier=sources
+- pkg:maven/org.mvnpm/ini@4.1.1?classifier=sources

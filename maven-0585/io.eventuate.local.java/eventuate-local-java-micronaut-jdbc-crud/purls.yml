@@ -6,3 +6,4 @@
 - pkg:maven/io.eventuate.local.java/eventuate-local-java-micronaut-jdbc-crud@0.40.0.RELEASE?classifier=sources
 - pkg:maven/io.eventuate.local.java/eventuate-local-java-micronaut-jdbc-crud@0.41.0.RELEASE?classifier=sources
 - pkg:maven/io.eventuate.local.java/eventuate-local-java-micronaut-jdbc-crud@0.42.0.RELEASE?classifier=sources
+- pkg:maven/io.eventuate.local.java/eventuate-local-java-micronaut-jdbc-crud@0.43.0.RELEASE?classifier=sources

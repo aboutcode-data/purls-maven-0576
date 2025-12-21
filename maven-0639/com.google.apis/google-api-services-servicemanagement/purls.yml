@@ -434,6 +434,10 @@
 - pkg:maven/com.google.apis/google-api-services-servicemanagement@v1-rev20250202-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-servicemanagement@v1-rev20250210-2.0.0
 - pkg:maven/com.google.apis/google-api-services-servicemanagement@v1-rev20250210-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-servicemanagement@v1-rev20250223-2.0.0
+- pkg:maven/com.google.apis/google-api-services-servicemanagement@v1-rev20250223-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-servicemanagement@v1-rev20250228-2.0.0
+- pkg:maven/com.google.apis/google-api-services-servicemanagement@v1-rev20250228-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-servicemanagement@v1-rev3-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-servicemanagement@v1-rev3-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-servicemanagement@v1-rev3-1.20.0

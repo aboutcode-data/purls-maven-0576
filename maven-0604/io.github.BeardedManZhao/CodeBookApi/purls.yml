@@ -20,3 +20,7 @@
 - pkg:maven/io.github.BeardedManZhao/CodeBookApi@1.19
 - pkg:maven/io.github.BeardedManZhao/CodeBookApi@1.19?classifier=sources
 - pkg:maven/io.github.BeardedManZhao/CodeBookApi@1.1?classifier=sources
+- pkg:maven/io.github.BeardedManZhao/CodeBookApi@1.20
+- pkg:maven/io.github.BeardedManZhao/CodeBookApi@1.20?classifier=sources
+- pkg:maven/io.github.BeardedManZhao/CodeBookApi@1.21
+- pkg:maven/io.github.BeardedManZhao/CodeBookApi@1.21?classifier=sources

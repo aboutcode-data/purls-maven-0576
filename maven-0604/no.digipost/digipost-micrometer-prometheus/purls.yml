@@ -58,3 +58,5 @@
 - pkg:maven/no.digipost/digipost-micrometer-prometheus@4.0.0?classifier=sources
 - pkg:maven/no.digipost/digipost-micrometer-prometheus@5.0.0
 - pkg:maven/no.digipost/digipost-micrometer-prometheus@5.0.0?classifier=sources
+- pkg:maven/no.digipost/digipost-micrometer-prometheus@5.0.1
+- pkg:maven/no.digipost/digipost-micrometer-prometheus@5.0.1?classifier=sources

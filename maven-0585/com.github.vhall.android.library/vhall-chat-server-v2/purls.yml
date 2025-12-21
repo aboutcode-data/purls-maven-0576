@@ -1,0 +1,2 @@
+- pkg:maven/com.github.vhall.android.library/vhall-chat-server-v2@1.1.24?classifier=sources
+- pkg:maven/com.github.vhall.android.library/vhall-chat-server-v2@1.1.24?type=aar

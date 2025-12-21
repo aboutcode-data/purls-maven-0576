@@ -4,3 +4,4 @@
 - pkg:maven/io.github.mejdi14/cmp-bottombar-core-wasm-js@0.3.8?classifier=sources
 - pkg:maven/io.github.mejdi14/cmp-bottombar-core-wasm-js@0.3.9?classifier=sources
 - pkg:maven/io.github.mejdi14/cmp-bottombar-core-wasm-js@0.4.0?classifier=sources
+- pkg:maven/io.github.mejdi14/cmp-bottombar-core-wasm-js@0.4.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.digiexpress/stencil-client@5.1.1
+- pkg:maven/io.digiexpress/stencil-client@5.1.1?classifier=sources

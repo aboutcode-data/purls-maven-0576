@@ -1,2 +1,4 @@
 - pkg:maven/de.lhns/scala-common-s3_3@0.7.0
 - pkg:maven/de.lhns/scala-common-s3_3@0.7.0?classifier=sources
+- pkg:maven/de.lhns/scala-common-s3_3@0.8.0
+- pkg:maven/de.lhns/scala-common-s3_3@0.8.0?classifier=sources

@@ -1,1 +1,5 @@
+- pkg:maven/com.agorapulse/micronaut-amazon-awssdk-dynamodb-loader@3.3.10?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-amazon-awssdk-dynamodb-loader@3.3.11?classifier=sources
 - pkg:maven/com.agorapulse/micronaut-amazon-awssdk-dynamodb-loader@3.3.7?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-amazon-awssdk-dynamodb-loader@3.3.8?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-amazon-awssdk-dynamodb-loader@3.3.9?classifier=sources

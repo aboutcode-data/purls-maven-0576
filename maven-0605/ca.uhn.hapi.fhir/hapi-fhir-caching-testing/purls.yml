@@ -37,3 +37,4 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-caching-testing@7.4.5
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-caching-testing@7.6.0
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-caching-testing@7.6.1
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-caching-testing@8.0.0

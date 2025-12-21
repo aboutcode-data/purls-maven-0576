@@ -262,6 +262,12 @@
 - pkg:maven/uk.gov.nationalarchives/kms-utils_2.13@0.1.231?classifier=sources
 - pkg:maven/uk.gov.nationalarchives/kms-utils_2.13@0.1.232
 - pkg:maven/uk.gov.nationalarchives/kms-utils_2.13@0.1.232?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/kms-utils_2.13@0.1.233
+- pkg:maven/uk.gov.nationalarchives/kms-utils_2.13@0.1.233?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/kms-utils_2.13@0.1.234
+- pkg:maven/uk.gov.nationalarchives/kms-utils_2.13@0.1.234?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/kms-utils_2.13@0.1.235
+- pkg:maven/uk.gov.nationalarchives/kms-utils_2.13@0.1.235?classifier=sources
 - pkg:maven/uk.gov.nationalarchives/kms-utils_2.13@0.1.55
 - pkg:maven/uk.gov.nationalarchives/kms-utils_2.13@0.1.55?classifier=sources
 - pkg:maven/uk.gov.nationalarchives/kms-utils_2.13@0.1.56

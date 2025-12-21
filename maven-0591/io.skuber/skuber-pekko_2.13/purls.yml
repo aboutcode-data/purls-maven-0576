@@ -6,3 +6,7 @@
 - pkg:maven/io.skuber/skuber-pekko_2.13@3.0.0-beta4?classifier=sources
 - pkg:maven/io.skuber/skuber-pekko_2.13@3.0.0-beta5
 - pkg:maven/io.skuber/skuber-pekko_2.13@3.0.0-beta5?classifier=sources
+- pkg:maven/io.skuber/skuber-pekko_2.13@3.0.0-beta6
+- pkg:maven/io.skuber/skuber-pekko_2.13@3.0.0-beta6?classifier=sources
+- pkg:maven/io.skuber/skuber-pekko_2.13@3.0.0-beta7
+- pkg:maven/io.skuber/skuber-pekko_2.13@3.0.0-beta7?classifier=sources

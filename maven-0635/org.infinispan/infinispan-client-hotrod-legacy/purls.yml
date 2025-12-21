@@ -12,3 +12,9 @@
 - pkg:maven/org.infinispan/infinispan-client-hotrod-legacy@15.1.4.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-client-hotrod-legacy@15.1.5.Final
 - pkg:maven/org.infinispan/infinispan-client-hotrod-legacy@15.1.5.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-client-hotrod-legacy@15.1.6.Final
+- pkg:maven/org.infinispan/infinispan-client-hotrod-legacy@15.1.6.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-client-hotrod-legacy@15.1.7.Final
+- pkg:maven/org.infinispan/infinispan-client-hotrod-legacy@15.1.7.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-client-hotrod-legacy@15.2.0.Dev01
+- pkg:maven/org.infinispan/infinispan-client-hotrod-legacy@15.2.0.Dev01?classifier=sources

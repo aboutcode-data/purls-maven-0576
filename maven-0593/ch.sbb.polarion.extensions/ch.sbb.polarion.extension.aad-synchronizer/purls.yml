@@ -1,0 +1,2 @@
+- pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.aad-synchronizer@3.0.0
+- pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.aad-synchronizer@3.0.0?classifier=sources

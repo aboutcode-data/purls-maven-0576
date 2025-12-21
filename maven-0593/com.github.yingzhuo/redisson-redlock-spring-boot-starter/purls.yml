@@ -21,3 +21,4 @@
 - pkg:maven/com.github.yingzhuo/redisson-redlock-spring-boot-starter@1.1.0?classifier=sources
 - pkg:maven/com.github.yingzhuo/redisson-redlock-spring-boot-starter@3.44.0?classifier=sources
 - pkg:maven/com.github.yingzhuo/redisson-redlock-spring-boot-starter@3.45.0?classifier=sources
+- pkg:maven/com.github.yingzhuo/redisson-redlock-spring-boot-starter@3.45.1?classifier=sources

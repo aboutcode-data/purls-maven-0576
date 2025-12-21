@@ -3,3 +3,5 @@
 - pkg:maven/us.originally.dfs/dfs@3.0.2?classifier=sources
 - pkg:maven/us.originally.dfs/dfs@3.0.3?classifier=sources
 - pkg:maven/us.originally.dfs/dfs@3.0.4?classifier=sources
+- pkg:maven/us.originally.dfs/dfs@3.1.0?classifier=sources
+- pkg:maven/us.originally.dfs/dfs@3.1.1?classifier=sources

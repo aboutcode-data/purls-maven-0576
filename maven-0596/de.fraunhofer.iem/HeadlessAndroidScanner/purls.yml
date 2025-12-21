@@ -6,3 +6,5 @@
 - pkg:maven/de.fraunhofer.iem/HeadlessAndroidScanner@4.1.0?classifier=sources
 - pkg:maven/de.fraunhofer.iem/HeadlessAndroidScanner@4.1.1
 - pkg:maven/de.fraunhofer.iem/HeadlessAndroidScanner@4.1.1?classifier=sources
+- pkg:maven/de.fraunhofer.iem/HeadlessAndroidScanner@4.2.0
+- pkg:maven/de.fraunhofer.iem/HeadlessAndroidScanner@4.2.0?classifier=sources

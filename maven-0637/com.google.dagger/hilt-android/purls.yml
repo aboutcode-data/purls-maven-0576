@@ -102,3 +102,5 @@
 - pkg:maven/com.google.dagger/hilt-android@2.54?type=aar
 - pkg:maven/com.google.dagger/hilt-android@2.55?classifier=sources
 - pkg:maven/com.google.dagger/hilt-android@2.55?type=aar
+- pkg:maven/com.google.dagger/hilt-android@2.56?classifier=sources
+- pkg:maven/com.google.dagger/hilt-android@2.56?type=aar

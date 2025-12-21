@@ -2,3 +2,5 @@
 - pkg:maven/com.aliyun/clickhouse20230522@1.0.0?classifier=sources
 - pkg:maven/com.aliyun/clickhouse20230522@1.1.0
 - pkg:maven/com.aliyun/clickhouse20230522@1.1.0?classifier=sources
+- pkg:maven/com.aliyun/clickhouse20230522@1.2.0
+- pkg:maven/com.aliyun/clickhouse20230522@1.2.0?classifier=sources

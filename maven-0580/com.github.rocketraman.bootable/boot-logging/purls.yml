@@ -1,1 +1,3 @@
 - pkg:maven/com.github.rocketraman.bootable/boot-logging@0.9.0?classifier=sources
+- pkg:maven/com.github.rocketraman.bootable/boot-logging@2.0.0?classifier=sources
+- pkg:maven/com.github.rocketraman.bootable/boot-logging@2.0.1?classifier=sources

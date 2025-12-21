@@ -659,6 +659,8 @@
 - pkg:maven/org.noear/solon-web@3.0.1-M1
 - pkg:maven/org.noear/solon-web@3.0.1-M2
 - pkg:maven/org.noear/solon-web@3.0.1-M3
+- pkg:maven/org.noear/solon-web@3.0.10
+- pkg:maven/org.noear/solon-web@3.0.10-M1
 - pkg:maven/org.noear/solon-web@3.0.2
 - pkg:maven/org.noear/solon-web@3.0.2-M1
 - pkg:maven/org.noear/solon-web@3.0.2-M2
@@ -700,3 +702,10 @@
 - pkg:maven/org.noear/solon-web@3.0.9
 - pkg:maven/org.noear/solon-web@3.0.9-M1
 - pkg:maven/org.noear/solon-web@3.0.9-M2
+- pkg:maven/org.noear/solon-web@3.1.0
+- pkg:maven/org.noear/solon-web@3.1.0-M1
+- pkg:maven/org.noear/solon-web@3.1.0-M2
+- pkg:maven/org.noear/solon-web@3.1.0-M3
+- pkg:maven/org.noear/solon-web@3.1.0-RC
+- pkg:maven/org.noear/solon-web@3.1.1-M1
+- pkg:maven/org.noear/solon-web@3.1.1-M2

@@ -4,3 +4,4 @@
 - pkg:maven/com.launchdarkly/launchdarkly-java-server-sdk-redis-store@1.1.0?classifier=sources
 - pkg:maven/com.launchdarkly/launchdarkly-java-server-sdk-redis-store@2.0.0?classifier=sources
 - pkg:maven/com.launchdarkly/launchdarkly-java-server-sdk-redis-store@3.0.0?classifier=sources
+- pkg:maven/com.launchdarkly/launchdarkly-java-server-sdk-redis-store@3.0.1?classifier=sources

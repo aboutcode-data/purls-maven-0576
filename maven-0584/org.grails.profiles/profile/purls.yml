@@ -1,3 +1,4 @@
+- pkg:maven/org.grails.profiles/profile@10.0.2?classifier=sources
 - pkg:maven/org.grails.profiles/profile@5.0.0
 - pkg:maven/org.grails.profiles/profile@5.0.0-RC3
 - pkg:maven/org.grails.profiles/profile@5.0.0-RC3?classifier=sources

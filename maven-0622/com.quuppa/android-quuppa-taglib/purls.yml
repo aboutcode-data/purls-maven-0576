@@ -11,6 +11,8 @@
 - pkg:maven/com.quuppa/android-quuppa-taglib@2.0.13?classifier=sources
 - pkg:maven/com.quuppa/android-quuppa-taglib@2.0.14
 - pkg:maven/com.quuppa/android-quuppa-taglib@2.0.14?classifier=sources
+- pkg:maven/com.quuppa/android-quuppa-taglib@2.0.15
+- pkg:maven/com.quuppa/android-quuppa-taglib@2.0.15?classifier=sources
 - pkg:maven/com.quuppa/android-quuppa-taglib@2.0.6?classifier=sources
 - pkg:maven/com.quuppa/android-quuppa-taglib@2.0.7
 - pkg:maven/com.quuppa/android-quuppa-taglib@2.0.7?classifier=sources

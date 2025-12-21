@@ -12,3 +12,4 @@
 - pkg:maven/com.tunjid.tiler/compose-jvm@1.1.0-rc01?classifier=sources
 - pkg:maven/com.tunjid.tiler/compose-jvm@1.1.0-rc02?classifier=sources
 - pkg:maven/com.tunjid.tiler/compose-jvm@1.1.0?classifier=sources
+- pkg:maven/com.tunjid.tiler/compose-jvm@1.2.0-alpha01?classifier=sources

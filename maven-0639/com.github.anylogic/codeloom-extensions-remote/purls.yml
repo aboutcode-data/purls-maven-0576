@@ -1,0 +1,2 @@
+- pkg:maven/com.github.anylogic/codeloom-extensions-remote@25.2.1
+- pkg:maven/com.github.anylogic/codeloom-extensions-remote@25.2.1?classifier=sources

@@ -277,3 +277,5 @@
 - pkg:maven/org.http4k/http4k-security-core@5.9.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-security-core@6.0.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-security-core@6.0.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-security-core@6.1.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-security-core@6.1.0.1?classifier=sources

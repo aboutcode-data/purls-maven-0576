@@ -57,6 +57,8 @@
 - pkg:maven/it.unibo.collektive/dsl-jvm@16.0.1?classifier=sources
 - pkg:maven/it.unibo.collektive/dsl-jvm@16.1.0?classifier=sources
 - pkg:maven/it.unibo.collektive/dsl-jvm@16.1.1?classifier=sources
+- pkg:maven/it.unibo.collektive/dsl-jvm@17.0.0?classifier=sources
+- pkg:maven/it.unibo.collektive/dsl-jvm@17.0.1?classifier=sources
 - pkg:maven/it.unibo.collektive/dsl-jvm@2.0.0?classifier=sources
 - pkg:maven/it.unibo.collektive/dsl-jvm@2.0.1?classifier=sources
 - pkg:maven/it.unibo.collektive/dsl-jvm@2.1.0?classifier=sources

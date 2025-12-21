@@ -1,1 +1,2 @@
 - pkg:maven/me.pustinek/interactivemessenger@1.2.2?classifier=sources
+- pkg:maven/me.pustinek/interactivemessenger@1.2.3?classifier=sources

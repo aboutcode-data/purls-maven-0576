@@ -55,3 +55,5 @@
 - pkg:maven/org.opendaylight.odlparent/template-feature-plugin@14.0.5?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/template-feature-plugin@14.0.6?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/template-feature-plugin@14.0.7?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/template-feature-plugin@14.0.8
+- pkg:maven/org.opendaylight.odlparent/template-feature-plugin@14.0.8?classifier=sources

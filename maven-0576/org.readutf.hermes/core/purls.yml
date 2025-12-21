@@ -1,0 +1,2 @@
+- pkg:maven/org.readutf.hermes/core@1.1.0?classifier=sources
+- pkg:maven/org.readutf.hermes/core@1.2.0?classifier=sources

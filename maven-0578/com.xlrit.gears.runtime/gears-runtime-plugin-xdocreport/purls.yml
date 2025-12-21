@@ -166,6 +166,8 @@
 - pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-xdocreport@1.18.7?classifier=sources
 - pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-xdocreport@1.18.8
 - pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-xdocreport@1.18.8?classifier=sources
+- pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-xdocreport@1.18.9
+- pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-xdocreport@1.18.9?classifier=sources
 - pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-xdocreport@1.6.7
 - pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-xdocreport@1.6.7?classifier=sources
 - pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-xdocreport@1.7.0

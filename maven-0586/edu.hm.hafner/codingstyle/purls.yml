@@ -220,3 +220,7 @@
 - pkg:maven/edu.hm.hafner/codingstyle@5.6.0?classifier=sources
 - pkg:maven/edu.hm.hafner/codingstyle@5.7.0
 - pkg:maven/edu.hm.hafner/codingstyle@5.7.0?classifier=sources
+- pkg:maven/edu.hm.hafner/codingstyle@5.8.0
+- pkg:maven/edu.hm.hafner/codingstyle@5.8.0?classifier=sources
+- pkg:maven/edu.hm.hafner/codingstyle@5.9.0
+- pkg:maven/edu.hm.hafner/codingstyle@5.9.0?classifier=sources

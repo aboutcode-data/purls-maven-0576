@@ -6,3 +6,10 @@
 - pkg:maven/shop.terminal.api/terminal-java-core@0.1.0-alpha.6?classifier=sources
 - pkg:maven/shop.terminal.api/terminal-java-core@0.1.0-alpha.7?classifier=sources
 - pkg:maven/shop.terminal.api/terminal-java-core@0.1.0-alpha.8?classifier=sources
+- pkg:maven/shop.terminal.api/terminal-java-core@1.0.0?classifier=sources
+- pkg:maven/shop.terminal.api/terminal-java-core@1.1.0?classifier=sources
+- pkg:maven/shop.terminal.api/terminal-java-core@1.2.0?classifier=sources
+- pkg:maven/shop.terminal.api/terminal-java-core@1.3.0?classifier=sources
+- pkg:maven/shop.terminal.api/terminal-java-core@1.4.0?classifier=sources
+- pkg:maven/shop.terminal.api/terminal-java-core@1.5.0?classifier=sources
+- pkg:maven/shop.terminal.api/terminal-java-core@1.6.0?classifier=sources

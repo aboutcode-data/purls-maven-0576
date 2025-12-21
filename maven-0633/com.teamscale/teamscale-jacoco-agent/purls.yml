@@ -71,3 +71,7 @@
 - pkg:maven/com.teamscale/teamscale-jacoco-agent@34.2.1?classifier=sources
 - pkg:maven/com.teamscale/teamscale-jacoco-agent@34.2.2?classifier=sources
 - pkg:maven/com.teamscale/teamscale-jacoco-agent@34.2.3?classifier=sources
+- pkg:maven/com.teamscale/teamscale-jacoco-agent@34.2.4?classifier=sources
+- pkg:maven/com.teamscale/teamscale-jacoco-agent@34.2.5?classifier=sources
+- pkg:maven/com.teamscale/teamscale-jacoco-agent@34.2.6?classifier=sources
+- pkg:maven/com.teamscale/teamscale-jacoco-agent@35.0.0?classifier=sources

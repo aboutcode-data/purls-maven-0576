@@ -8,3 +8,5 @@
 - pkg:maven/com.webforj/webforj-toast@24.20?classifier=sources
 - pkg:maven/com.webforj/webforj-toast@24.21
 - pkg:maven/com.webforj/webforj-toast@24.21?classifier=sources
+- pkg:maven/com.webforj/webforj-toast@24.22
+- pkg:maven/com.webforj/webforj-toast@24.22?classifier=sources

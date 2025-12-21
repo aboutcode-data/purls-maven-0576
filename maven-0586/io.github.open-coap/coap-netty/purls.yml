@@ -21,3 +21,4 @@
 - pkg:maven/io.github.open-coap/coap-netty@6.24.2?classifier=sources
 - pkg:maven/io.github.open-coap/coap-netty@6.25.0?classifier=sources
 - pkg:maven/io.github.open-coap/coap-netty@6.25.2?classifier=sources
+- pkg:maven/io.github.open-coap/coap-netty@6.26.0?classifier=sources

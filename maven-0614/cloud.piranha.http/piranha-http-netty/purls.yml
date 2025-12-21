@@ -122,3 +122,7 @@
 - pkg:maven/cloud.piranha.http/piranha-http-netty@24.9.0?classifier=sources
 - pkg:maven/cloud.piranha.http/piranha-http-netty@25.1.0
 - pkg:maven/cloud.piranha.http/piranha-http-netty@25.1.0?classifier=sources
+- pkg:maven/cloud.piranha.http/piranha-http-netty@25.2.0
+- pkg:maven/cloud.piranha.http/piranha-http-netty@25.2.0?classifier=sources
+- pkg:maven/cloud.piranha.http/piranha-http-netty@25.3.0
+- pkg:maven/cloud.piranha.http/piranha-http-netty@25.3.0?classifier=sources

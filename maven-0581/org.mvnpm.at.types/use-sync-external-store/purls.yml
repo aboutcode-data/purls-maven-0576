@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm.at.types/use-sync-external-store@0.0.3?classifier=sources
+- pkg:maven/org.mvnpm.at.types/use-sync-external-store@0.0.6?classifier=sources

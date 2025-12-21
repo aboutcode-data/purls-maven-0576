@@ -1,6 +1,10 @@
 - pkg:maven/io.camunda.spring/readme-snippets@8.5.17
 - pkg:maven/io.camunda.spring/readme-snippets@8.5.17?classifier=sources
+- pkg:maven/io.camunda.spring/readme-snippets@8.5.18
+- pkg:maven/io.camunda.spring/readme-snippets@8.5.18?classifier=sources
 - pkg:maven/io.camunda.spring/readme-snippets@8.6.3
 - pkg:maven/io.camunda.spring/readme-snippets@8.6.3?classifier=sources
 - pkg:maven/io.camunda.spring/readme-snippets@8.6.4
 - pkg:maven/io.camunda.spring/readme-snippets@8.6.4?classifier=sources
+- pkg:maven/io.camunda.spring/readme-snippets@8.6.5
+- pkg:maven/io.camunda.spring/readme-snippets@8.6.5?classifier=sources

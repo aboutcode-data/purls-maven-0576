@@ -1,0 +1,1 @@
+- pkg:maven/io.github.x-horizon/cache-redis@1.0?classifier=sources

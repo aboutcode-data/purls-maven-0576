@@ -378,6 +378,8 @@
 - pkg:maven/org.webjars.npm/vuetify@3.6.15
 - pkg:maven/org.webjars.npm/vuetify@3.6.6
 - pkg:maven/org.webjars.npm/vuetify@3.7.0
+- pkg:maven/org.webjars.npm/vuetify@3.7.14
+- pkg:maven/org.webjars.npm/vuetify@3.7.16
 - pkg:maven/org.webjars.npm/vuetify@3.7.2
 - pkg:maven/org.webjars.npm/vuetify@3.7.3
 - pkg:maven/org.webjars.npm/vuetify@3.7.4

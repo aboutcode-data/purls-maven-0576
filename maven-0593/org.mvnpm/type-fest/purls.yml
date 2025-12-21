@@ -1,3 +1,8 @@
 - pkg:maven/org.mvnpm/type-fest@0.20.2?classifier=sources
+- pkg:maven/org.mvnpm/type-fest@0.21.3?classifier=sources
+- pkg:maven/org.mvnpm/type-fest@2.19.0?classifier=sources
+- pkg:maven/org.mvnpm/type-fest@3.13.1?classifier=sources
 - pkg:maven/org.mvnpm/type-fest@4.34.1?classifier=sources
 - pkg:maven/org.mvnpm/type-fest@4.35.0?classifier=sources
+- pkg:maven/org.mvnpm/type-fest@4.36.0?classifier=sources
+- pkg:maven/org.mvnpm/type-fest@4.37.0?classifier=sources

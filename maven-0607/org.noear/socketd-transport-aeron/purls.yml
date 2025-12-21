@@ -4,6 +4,16 @@
 - pkg:maven/org.noear/socketd-transport-aeron@2.5.13
 - pkg:maven/org.noear/socketd-transport-aeron@2.5.14
 - pkg:maven/org.noear/socketd-transport-aeron@2.5.15
+- pkg:maven/org.noear/socketd-transport-aeron@2.5.16
+- pkg:maven/org.noear/socketd-transport-aeron@2.5.16-M1
+- pkg:maven/org.noear/socketd-transport-aeron@2.5.16-M2
+- pkg:maven/org.noear/socketd-transport-aeron@2.5.17
+- pkg:maven/org.noear/socketd-transport-aeron@2.5.17-M1
+- pkg:maven/org.noear/socketd-transport-aeron@2.5.17-M2
+- pkg:maven/org.noear/socketd-transport-aeron@2.5.18
+- pkg:maven/org.noear/socketd-transport-aeron@2.5.18-M1
+- pkg:maven/org.noear/socketd-transport-aeron@2.5.18-M2
+- pkg:maven/org.noear/socketd-transport-aeron@2.5.18-M3
 - pkg:maven/org.noear/socketd-transport-aeron@2.5.4
 - pkg:maven/org.noear/socketd-transport-aeron@2.5.5
 - pkg:maven/org.noear/socketd-transport-aeron@2.5.6

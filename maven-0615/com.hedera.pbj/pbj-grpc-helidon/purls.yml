@@ -1,3 +1,4 @@
+- pkg:maven/com.hedera.pbj/pbj-grpc-helidon@0.10.0?classifier=sources
 - pkg:maven/com.hedera.pbj/pbj-grpc-helidon@0.9.10?classifier=sources
 - pkg:maven/com.hedera.pbj/pbj-grpc-helidon@0.9.11?classifier=sources
 - pkg:maven/com.hedera.pbj/pbj-grpc-helidon@0.9.12?classifier=sources
@@ -8,4 +9,5 @@
 - pkg:maven/com.hedera.pbj/pbj-grpc-helidon@0.9.17?classifier=sources
 - pkg:maven/com.hedera.pbj/pbj-grpc-helidon@0.9.18?classifier=sources
 - pkg:maven/com.hedera.pbj/pbj-grpc-helidon@0.9.19?classifier=sources
+- pkg:maven/com.hedera.pbj/pbj-grpc-helidon@0.9.20?classifier=sources
 - pkg:maven/com.hedera.pbj/pbj-grpc-helidon@0.9.9?classifier=sources

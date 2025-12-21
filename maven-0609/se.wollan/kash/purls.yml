@@ -9,6 +9,7 @@
 - pkg:maven/se.wollan/kash@0.15.1?classifier=sources
 - pkg:maven/se.wollan/kash@0.16.0?classifier=sources
 - pkg:maven/se.wollan/kash@0.17.0?classifier=sources
+- pkg:maven/se.wollan/kash@0.18.0?classifier=sources
 - pkg:maven/se.wollan/kash@0.2.0?classifier=sources
 - pkg:maven/se.wollan/kash@0.3.0?classifier=sources
 - pkg:maven/se.wollan/kash@0.3.1?classifier=sources

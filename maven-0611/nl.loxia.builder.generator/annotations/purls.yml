@@ -4,3 +4,4 @@
 - pkg:maven/nl.loxia.builder.generator/annotations@0.2.0?classifier=sources
 - pkg:maven/nl.loxia.builder.generator/annotations@1.0.0
 - pkg:maven/nl.loxia.builder.generator/annotations@1.0.0?classifier=sources
+- pkg:maven/nl.loxia.builder.generator/annotations@1.0.1?classifier=sources

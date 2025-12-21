@@ -303,5 +303,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.web@3.0.91?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.web@3.0.92?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.web@3.0.93?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.web@3.0.94?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.web@3.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.metrics.web@3.0.9?classifier=sources-commercial

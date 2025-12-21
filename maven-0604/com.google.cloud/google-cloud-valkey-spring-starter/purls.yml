@@ -4,7 +4,11 @@
 - pkg:maven/com.google.cloud/google-cloud-valkey-spring-starter@5.11.0-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-valkey-spring-starter@5.11.1-preview
 - pkg:maven/com.google.cloud/google-cloud-valkey-spring-starter@5.11.1-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-valkey-spring-starter@5.11.2-preview
+- pkg:maven/com.google.cloud/google-cloud-valkey-spring-starter@5.11.2-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-valkey-spring-starter@6.0.0-preview
 - pkg:maven/com.google.cloud/google-cloud-valkey-spring-starter@6.0.0-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-valkey-spring-starter@6.0.1-preview
 - pkg:maven/com.google.cloud/google-cloud-valkey-spring-starter@6.0.1-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-valkey-spring-starter@6.1.0-preview
+- pkg:maven/com.google.cloud/google-cloud-valkey-spring-starter@6.1.0-preview?classifier=sources

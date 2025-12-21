@@ -36,3 +36,5 @@
 - pkg:maven/org.apache.calcite/calcite-kafka@1.37.0?classifier=sources
 - pkg:maven/org.apache.calcite/calcite-kafka@1.38.0
 - pkg:maven/org.apache.calcite/calcite-kafka@1.38.0?classifier=sources
+- pkg:maven/org.apache.calcite/calcite-kafka@1.39.0
+- pkg:maven/org.apache.calcite/calcite-kafka@1.39.0?classifier=sources

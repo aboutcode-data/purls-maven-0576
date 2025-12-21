@@ -20,3 +20,5 @@
 - pkg:maven/dev.jeka/template-examples@0.11.20-1?classifier=sources
 - pkg:maven/dev.jeka/template-examples@0.11.23-1
 - pkg:maven/dev.jeka/template-examples@0.11.23-1?classifier=sources
+- pkg:maven/dev.jeka/template-examples@0.11.24-1
+- pkg:maven/dev.jeka/template-examples@0.11.24-1?classifier=sources

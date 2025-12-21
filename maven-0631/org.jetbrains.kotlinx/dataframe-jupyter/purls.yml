@@ -1,1 +1,7 @@
 - pkg:maven/org.jetbrains.kotlinx/dataframe-jupyter@0.14.0-dev-3615?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-jupyter@0.16.0-dev-6307?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-jupyter@0.16.0-dev-6325?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-jupyter@0.16.0-dev-6330?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-jupyter@0.16.0-dev-6332?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-jupyter@0.16.0-dev-6361?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe-jupyter@0.16.0-dev-6363?classifier=sources

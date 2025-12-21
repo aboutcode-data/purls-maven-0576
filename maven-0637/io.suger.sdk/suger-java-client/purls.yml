@@ -2,7 +2,11 @@
 - pkg:maven/io.suger.sdk/suger-java-client@v3.128.118?classifier=sources
 - pkg:maven/io.suger.sdk/suger-java-client@v3.128.140?classifier=sources
 - pkg:maven/io.suger.sdk/suger-java-client@v3.128.161?classifier=sources
+- pkg:maven/io.suger.sdk/suger-java-client@v3.128.178?classifier=sources
+- pkg:maven/io.suger.sdk/suger-java-client@v3.128.199?classifier=sources
+- pkg:maven/io.suger.sdk/suger-java-client@v3.128.218?classifier=sources
 - pkg:maven/io.suger.sdk/suger-java-client@v3.128.21?classifier=sources
+- pkg:maven/io.suger.sdk/suger-java-client@v3.128.220?classifier=sources
 - pkg:maven/io.suger.sdk/suger-java-client@v3.128.61?classifier=sources
 - pkg:maven/io.suger.sdk/suger-java-client@v3.128.73?classifier=sources
 - pkg:maven/io.suger.sdk/suger-java-client@v3.128.88?classifier=sources
